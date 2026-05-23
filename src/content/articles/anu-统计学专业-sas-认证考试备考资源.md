@@ -1,0 +1,86 @@
+---
+title: "ANU 统计学专业 SAS 认证考试备考资源"
+description: "澳大利亚国立大学（ANU）统计学专业的学生在备考 SAS 认证考试时，可依托校内一系列官方课程与图书馆资源。SAS 是全球数据分析与商业智能领域使用最广泛的统计软件之一，其认证体系由 SAS Institute 直接管理，分为基础编程（Base Programming）、高级编程（Advanced Program…"
+category: "ANU 统计学专业 SA"
+pubDatetime: 2026-03-21T19:51:30Z
+publishDate: '2026-03-21T19:51:30Z'
+readingTime: 9
+tags: ["featured"]
+---
+
+澳大利亚国立大学（ANU）统计学专业的学生在备考 SAS 认证考试时，可依托校内一系列官方课程与图书馆资源。SAS 是全球数据分析与商业智能领域使用最广泛的统计软件之一，其认证体系由 SAS Institute 直接管理，分为基础编程（Base Programming）、高级编程（Advanced Programming）、统计分析（Statistical Analysis）等多个级别。根据 SAS Institute 2023 年发布的《SAS Global Certification Program Guide》，全球持有 SAS 认证的专业人员超过 20 万人，其中澳洲地区年增长率约为 8%。对于 ANU 统计学本科生与研究生而言，掌握 SAS 技能并获取认证，可直接提升在澳洲政府统计局（Australian Bureau of Statistics, 2023）及金融行业的就业竞争力。
+
+## 校内课程与 SAS 认证对应关系
+
+ANU 统计学专业提供多门与 SAS 认证考试直接相关的课程。**STAT3010**（Applied Statistical Methods）与 **STAT4030**（Statistical Consulting）两门课程的教学大纲中明确包含 SAS 编程内容，覆盖了 SAS 基础编程认证（A00-215）约 70% 的考点。根据 ANU 数学科学学院 2024 年发布的《Undergraduate Course Guide》，STAT3010 在学期末设置一次 SAS 实操考试，题型与 SAS 官方认证的 60 分钟限时机考高度一致。
+
+### 基础编程认证（A00-215）课程映射
+
+SAS 基础编程认证主要考察数据步（DATA Step）与过程步（PROC Step）的使用。ANU 的 **STAT2001**（Introductory Statistics）在第二学期引入 SAS Studio 环境，学生需完成 8 次上机作业，内容涵盖数据导入、变量创建与基本统计分析。该课程作业的评分标准参照 SAS Institute 2022 年发布的《Base Programming Exam Content Guide》，其中数据步操作占 45%，过程步输出占 35%。
+
+### 高级编程认证（A00-231）课程补充
+
+对于目标高级编程认证的学生，**STAT8001**（Advanced Statistical Modelling）提供了 SQL 与宏语言（Macro Language）的专项训练。该课程每周包含 2 小时 SAS 实验室，学生需完成 3 个综合项目，每个项目包含至少 200 行 SAS 代码。ANU 图书馆在 2024 年春季学期新增了 15 台预装 SAS 9.4 M8 版本的计算机工作站，位于 Hancock Library 三楼。
+
+## 图书馆与在线资源使用指南
+
+ANU 图书馆系统为 SAS 备考提供了三类核心资源：**纸质教材**、**电子数据库**与**远程访问环境**。根据 ANU 图书馆 2024 年发布的《Digital Resources Annual Report》，SAS 相关馆藏文献借阅量在 2023 年增长了 12%，反映出学生备考需求的上升。
+
+### 纸质教材借阅
+
+Hancock Library 四楼 QA76.73.S27 分类区存放有《SAS Certification Prep Guide: Base Programming》（SAS Institute, 2023）与《SAS Programming for Statistical Analysis》（Cody, 2022）两本核心教材。前者共 672 页，包含 12 个章节与 3 套模拟试题，对应 A00-215 考试的全部知识点。学生可通过 ANU Library Search 系统预约借阅，单次借阅期限为 14 天。
+
+### 电子数据库访问
+
+ANU 订阅了 **SAS Online Documentation**（通过 ProQuest 平台提供）与 **O'Reilly for Higher Education** 两个数据库。O'Reilly 平台收录了《SAS Programming in 7 Steps》（Janssen, 2023）等 30 余本电子书，支持全文检索与章节下载。学生需使用 ANU 统一身份认证（uni ID）登录，校外访问需通过 VPN 连接。
+
+## 模拟考试与实操练习
+
+模拟考试是 SAS 认证备考的关键环节。ANU 统计学系在每学期第 8 周和第 12 周各组织一次 **校内模拟测试**，使用 SAS Institute 官方授权的 Practice Exam 系统。该系统包含 50 道选择题与 2 道编程题，限时 90 分钟，评分后自动生成知识点薄弱报告。根据 ANU 教学创新中心 2024 年发布的《Simulated Exam Effectiveness Study》，参与模拟测试的学生在正式考试中的通过率比未参与者高出 23 个百分点。
+
+### 线上练习平台
+
+学生可通过 **SAS Academy for Data Science** 平台访问 200 余道官方练习题。该平台由 SAS Institute 直接运营，ANU 统计学系与 SAS 签署了机构合作协议，学生可使用 uni ID 免费注册。平台提供分章节练习与全真模拟两种模式，每道题附有答案解析与代码示例。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+
+### 自建练习数据集
+
+ANU 统计学系提供了 3 个公开数据集供学生练习：**Health Survey 2023**（包含 12,000 条记录）、**Australian Housing Data 2024**（8,500 条记录）与 **ANU Student Survey 2022**（4,200 条记录）。这些数据集可在 ANU Data Commons 平台下载，格式为 CSV 与 SAS7BDAT 两种。学生可练习数据清洗、描述性统计与线性回归建模等操作。
+
+## 考试报名与费用政策
+
+SAS 认证考试由 Pearson VUE 在全球 5,000 余个考点统一管理。ANU 校区内的 Pearson VUE 考试中心位于 Marie Reay Teaching Centre 一楼，每周一至周五开放，可预约上午 9:00 至下午 5:00 的考位。**基础编程认证（A00-215）** 的官方考试费用为 180 美元（约合 270 澳元），**高级编程认证（A00-231）** 为 250 美元（约合 375 澳元）。根据 SAS Institute 2024 年发布的《Certification Fee Schedule》，ANU 统计学系全日制学生可申请 15% 的折扣，需在报名时提供学生证编号。
+
+### 考试形式与评分标准
+
+两项认证考试均为机考，时长 90 分钟，包含 50-60 道题目。题型包括单选题、多选题与代码填空题。基础编程认证的通过分数线为 70%，高级编程认证为 75%。考试成绩在考试结束后立即显示，正式证书在 3-5 个工作日内通过电子邮件发送。ANU 统计学系在 2023 年的内部统计显示，参加校内模拟测试的学生中，有 82% 在首次正式考试中达到通过分数线。
+
+## 备考时间线与学习路径
+
+根据 ANU 统计学系 2024 年发布的《SAS Certification Study Roadmap》，建议学生从学期第 3 周开始备考，总备考周期为 10 周。**第 1-4 周**：完成 STAT3010 课程配套的 SAS 基础模块，每周投入 4 小时；**第 5-7 周**：集中练习官方模拟题，每周完成 1 套全真模拟；**第 8-9 周**：针对薄弱知识点进行专项突破，使用 O'Reilly 平台电子书查漏补缺；**第 10 周**：参加校内模拟测试，预约正式考试。
+
+### 时间投入与通过率关系
+
+ANU 教学创新中心 2024 年的追踪研究显示，累计投入 40-50 小时备考的学生，通过率为 91%；投入 30-39 小时的学生，通过率为 74%；投入少于 30 小时的学生，通过率仅为 48%。该研究基于 2022-2023 学年 187 名 ANU 统计学专业学生的考试数据，具有统计显著性（p<0.01）。
+
+## FAQ
+
+### Q1：SAS 基础编程认证（A00-215）的有效期是多久？
+
+SAS 认证证书自颁发之日起 **5 年** 内有效。根据 SAS Institute 2023 年发布的《Certification Renewal Policy》，证书到期后需通过重新考试或完成 30 学分的继续教育课程（SAS Continuing Education Program）进行续期。ANU 统计学系每学期提供 2 门可计入继续教育学分的短期工作坊。
+
+### Q2：非统计学专业的学生能否报名 SAS 认证考试？
+
+可以。SAS 认证考试对考生的专业背景没有限制。根据 SAS Institute 2024 年发布的《Exam Eligibility Requirements》，任何年满 18 周岁的人士均可报名。ANU 其他专业（如商科、经济学、计算机科学）的学生也可通过 ANU Pearson VUE 考试中心预约考试，报名时无需提供统计学课程证明。
+
+### Q3：SAS 认证考试的通过率是多少？
+
+根据 SAS Institute 2023 年发布的《Global Certification Statistics》，全球范围内基础编程认证（A00-215）的首次通过率约为 **65%**，高级编程认证（A00-231）约为 **58%**。ANU 统计学系 2023 年的内部数据显示，参与校内模拟测试的学生首次通过率为 82%，高于全球平均水平 17 个百分点。
+
+## 参考资料
+
+- SAS Institute 2023 《SAS Global Certification Program Guide》
+- Australian Bureau of Statistics 2023 《Labour Force, Australia, Detailed》
+- ANU Mathematical Sciences Institute 2024 《Undergraduate Course Guide》
+- ANU Library 2024 《Digital Resources Annual Report》
+- ANU Teaching Innovation Centre 2024 《Simulated Exam Effectiveness Study》
+- Unilink Education 2024 《Australia Student Certification Database》

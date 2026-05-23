@@ -1,0 +1,70 @@
+---
+pubDatetime: 2026-05-23T12:00:00Z
+publishDate: '2026-05-23T12:00:00Z'
+title: ANU HECS-HELP vs FEE-HELP: Domestic Student Eligibility and Repayment Thresholds
+category: 'general'
+description: Compare ANU HECS-HELP and FEE-HELP loan schemes for domestic students. Understand eligibility for Commonwealth Supported Places, 2025-26 repayment thresholds, and how to check your HELP balance. A comprehensive guide to Australian Government study loans at ANU.
+author: cowork
+tags: ["ANU", "HECS-HELP", "FEE-HELP", "domestic students", "repayment threshold", "Commonwealth Supported Place"]
+slug: anu-hecs-help-vs-fee-help-eligibility-repayment-thresholds
+ogImage: 
+---
+
+Navigating the landscape of Australian Government study loans can feel overwhelming, especially when you are weighing up the differences between **HECS-HELP** and **FEE-HELP** at a prestigious institution like the Australian National University (ANU). In 2026, domestic students continue to rely on these schemes as the primary mechanism to defer the cost of tertiary education, yet the eligibility criteria, loan limits, and repayment obligations differ significantly between the two. According to the Australian Taxation Office (ATO), over 3 million Australians carried a HELP debt in the 2024-25 financial year, with the total outstanding balance exceeding $80 billion. At ANU specifically, approximately 65% of domestic undergraduates are enrolled in a **Commonwealth Supported Place (CSP)**, making HECS-HELP the dominant loan type on campus.
+
+Understanding which loan applies to you is not just a bureaucratic exercise; it directly impacts your lifetime earning potential and your annual tax obligations. The 2025-26 repayment thresholds have been adjusted to reflect changes in the cost of living, and the indexation rate applied to HELP debts remains a critical factor in long-term financial planning. This guide breaks down the structural differences between ANU HECS-HELP and FEE-HELP, clarifies the eligibility requirements for domestic students, and provides a clear framework for managing your repayments and checking your balance.
+
+## What Is the Difference Between HECS-HELP and FEE-HELP at ANU?
+
+The fundamental distinction rests on the type of place you hold at the university. **HECS-HELP** is a loan scheme exclusively available to students enrolled in a **Commonwealth Supported Place (CSP)**. In a CSP, the Australian Government subsidises a substantial portion of your tuition fees, and you are responsible for the remainder, known as the "student contribution amount." You can choose to pay this student contribution upfront or defer it entirely through a HECS-HELP loan.
+
+In contrast, **FEE-HELP** is designed for domestic students who are enrolled in a **full-fee paying place**. At ANU, this typically applies to postgraduate coursework programs, such as the Master of Business Administration (MBA) or certain Graduate Certificates, where the government does not provide a direct subsidy for the cost of the course. With FEE-HELP, you are borrowing the full tuition fee set by the university, not a subsidised contribution. Unlike HECS-HELP, which has no lifetime limit other than the cost of your specific student contributions, FEE-HELP is subject to a **combined HELP loan limit**. As of 2026, the combined HELP loan limit is set at $121,844 for most students, and $174,998 for students undertaking medicine, dentistry, and veterinary science courses.
+
+## ANU HECS-HELP Eligibility for Commonwealth Supported Places
+
+Securing a **Commonwealth Supported Place (CSP)** is the gateway to HECS-HELP eligibility. For domestic undergraduate students at ANU, most bachelor's degrees are designated as CSPs, meaning the government has allocated a specific number of subsidised places to the university. To be eligible for HECS-HELP, you must be an Australian citizen, a New Zealand Special Category Visa (SCV) holder who meets the long-term residency requirements, or hold a permanent humanitarian visa.
+
+It is critical to understand that permanent residents who are not humanitarian visa holders are **not eligible** for HECS-HELP, even if they secure a CSP. They must pay their student contribution upfront. When you accept your offer for a CSP at ANU, you must submit a **Request for Commonwealth Support and HECS-HELP form** (eCAF) by the census date of your first semester. Failure to submit this form on time will result in you being liable for the full student contribution amount upfront. The student contribution band for your course determines the maximum annual cost. For example, in 2026, a student in a Band 4 subject area (law, accounting, commerce) might have a maximum student contribution of $16,992 per equivalent full-time study year, while a Band 1 subject (education, nursing) is capped significantly lower, around $4,627.
+
+## ANU FEE-HELP Loan for Domestic Full-Fee Students
+
+If you are not in a CSP, you are a full-fee paying student, and **FEE-HELP** becomes your primary loan vehicle. At ANU, this cohort largely consists of domestic postgraduate students. To access FEE-HELP, you must be an Australian citizen or hold a permanent humanitarian visa. Unlike HECS-HELP, New Zealand SCV holders are generally **ineligible** for FEE-HELP unless they meet specific transitional criteria that have mostly expired.
+
+The key financial constraint here is the **combined HELP loan limit**. Your FEE-HELP borrowing, combined with any existing HECS-HELP, VET Student Loans, or OS-HELP debt, cannot exceed the cap. If you have previously completed an undergraduate degree with a HECS-HELP debt of $40,000, your remaining available FEE-HELP balance for a Master's program is $81,844 (based on the 2026 standard limit). ANU provides a range of full-fee postgraduate courses, and the tuition varies widely. A Master of International Relations might cost $45,000 per year, quickly absorbing a significant chunk of your available FEE-HELP balance. A 25% **FEE-HELP loan fee** applies to undergraduate full-fee courses, but this fee is waived for postgraduate courses, making FEE-HELP a more cost-effective borrowing tool for graduate study.
+
+## ANU HELP Repayment Thresholds and Rates for 2025-26
+
+Repaying your HELP debt is managed through the Australian tax system, and your obligation kicks in only when your **repayment income** exceeds the compulsory threshold. The repayment income is calculated as your taxable income plus any reportable fringe benefits and reportable super contributions. For the 2025-26 financial year, the compulsory repayment threshold has been revised to **$54,435** per annum. This is a significant adjustment from the previous year's threshold of $51,550, reflecting wage growth and cost-of-living pressures.
+
+The repayment rate is progressive, starting at 1% of your income and rising to a maximum of 10% for those earning above $159,663. If your income is $60,000, you fall into the 1% bracket, resulting in a compulsory repayment of $600 for the year. At an income of $95,000, the rate jumps to 5.5%, equating to a $5,225 repayment. It is vital to notify your employer by ticking the relevant box on your Tax File Number (TFN) declaration, ensuring that additional tax is withheld to cover the estimated repayment. If you do not, you risk a substantial tax bill at the end of the financial year. **Indexation** is applied to your debt on June 1st each year, based on the Consumer Price Index (CPI). The 2025 indexation rate was 3.2%, and the 2026 rate is projected to be around 2.8%, adding interest-like growth to your balance before repayments are deducted.
+
+## How to Check Your ANU HELP Balance
+
+Monitoring your HELP debt is essential for financial planning, especially if you are considering further study and need to confirm you have enough room under the **combined HELP loan limit**. You cannot check your balance through ANU directly; the university only manages your enrolment and fee records. The definitive source for your total debt is the Australian Taxation Office (ATO) via your **myGov** account.
+
+To check your balance, link the ATO to your myGov profile. Once linked, navigate to the "Loan accounts" section, where you will find a detailed breakdown of your total accumulated HELP debt, including any historical indexation applied. This balance is updated annually after you lodge your tax return and after the indexation is applied on June 1st. If you are an enrolled student who has recently deferred fees, the debt will not appear instantly. ANU reports your deferred fees to the ATO shortly after the semester census dates (March 31st and August 31st). Therefore, you should expect to see your new loan amount reflected in the ATO system within 4-6 weeks after the census date. For a real-time estimate of your remaining FEE-HELP borrowing capacity, you must subtract your current ATO balance from the $121,844 or $174,998 limit.
+
+## Strategic Considerations: Choosing Between CSP and Full-Fee at ANU
+
+The choice between a HECS-HELP and FEE-HELP pathway is rarely about the loan itself, but about the course and place type you are offered. If you receive an offer for a **Commonwealth Supported Place**, it is almost always the superior financial option. The government subsidy reduces the principal debt you accrue, and there is no loan fee attached. The only scenario where a full-fee place might be strategically considered is if the CSP is unavailable for your desired postgraduate qualification.
+
+For postgraduate study, ANU offers a limited number of CSPs in specific programs such as the Master of Clinical Psychology or select engineering degrees. If you are comparing a CSP Master of Economics at another institution against a full-fee Master of Economics at ANU, you must calculate the total lifetime cost difference. A full-fee program at ANU might cost $60,000, while a CSP elsewhere might leave you with a $25,000 student contribution debt. The prestige of ANU needs to be weighed against the extra $35,000 in debt that will be indexed annually until repaid. Furthermore, consider your projected income trajectory. If you expect to earn well above the top repayment threshold quickly, the debt will be cleared faster, reducing the long-term impact of indexation. However, for careers with moderate income growth, a lower principal debt via a CSP is a significant long-term advantage.
+
+## FAQ
+
+**Q: What is the exact ANU HELP repayment threshold for the 2025-26 financial year?**
+A: The compulsory repayment threshold for the 2025-26 financial year is $54,435. You are required to start making repayments through the tax system once your repayment income exceeds this amount. The rate begins at 1% and increases progressively to 10% for incomes above $159,663.
+
+**Q: Can a New Zealand citizen access HECS-HELP at ANU in 2026?**
+A: Most New Zealand citizens who are Special Category Visa (SCV) holders can access HECS-HELP if they meet the long-term residency requirements, which generally means they arrived in Australia at least 10 years ago and have been residing here for the majority of that time. However, they are not eligible for FEE-HELP unless they hold a specific protected SCV status.
+
+**Q: How much FEE-HELP can I still borrow if I have a previous HECS-HELP debt of $30,000?**
+A: The combined HELP loan limit for 2026 is $121,844 for most students. If your existing HECS-HELP debt is $30,000, your remaining borrowing capacity under FEE-HELP is $91,844. If you are studying medicine, dentistry, or veterinary science, the limit is $174,998, leaving you a remaining capacity of $144,998.
+
+## 参考资料
+
+*   Australian Taxation Office, *HELP and TSL repayment thresholds and rates 2025-26*, Australian Government, 2025.
+*   Department of Education, *Commonwealth Supported Places (CSPs) and HELP Loans Information Booklet 2026*, Australian Government, 2026.
+*   Australian National University, *Domestic Student Fees and Payment Guide 2026*, ANU Student Administration, 2026.
+*   StudyAssist, *Combined HELP Loan Limit and Indexation Facts*, Department of Education, 2026.
+*   Parliament of Australia, *Higher Education Support Amendment (HELP Loan Limits) Bill 2025*, Commonwealth of Australia, 2025.
