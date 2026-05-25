@@ -2,7 +2,7 @@
 title: "ANU 校园自动售货机分布与电子支付方式"
 description: "ANU 校园内共部署了约 47 台自动售货机，覆盖主校区 Acton 的 6 个主要教学与生活区域，包括 Kambri 学生中心、Marie Reay 教学中心、Hancock 图书馆及 Union Court 餐饮区。根据澳大利亚自动售货协会（AVA, 2023 年度行业报告）的数据，澳洲高校校园售货机的平均年…"
 category: "ANU 校园自动售货机分"
-pubDatetime: 2026-03-19T19:50:54Z
+pubDatetime: '2026-03-19T19:50:54Z'
 publishDate: '2026-03-19T19:50:54Z'
 readingTime: 13
 tags: ["featured"]

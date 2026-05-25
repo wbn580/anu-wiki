@@ -2,7 +2,7 @@
 title: "ANU Online Second-Hand Marketplace Safety Tips: How to Avoid Scams When Buying and Selling Furniture and Textbooks"
 description: "澳大利亚国立大学（ANU）的学生社区每年通过线上二手市场交易数千件家具和教科书，但其中约 12% 的交易涉及不同程度的欺诈风险（澳大利亚竞争与消费者委员会 ACCC，2023 年，《诈骗活动报告》）。ANU 学生会（ANUSA）2024 年的一项内部调查显示，超过 30% 的新生在入学第一周曾因二手交易被骗或险些…"
 category: "ANU"
-pubDatetime: 2026-05-07T20:00:42Z
+pubDatetime: '2026-05-07T20:00:42Z'
 publishDate: '2026-05-07T20:00:42Z'
 readingTime: 3
 tags: ["featured"]

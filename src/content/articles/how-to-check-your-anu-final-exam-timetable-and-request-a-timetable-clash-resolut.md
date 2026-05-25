@@ -2,7 +2,7 @@
 title: "How to Check Your ANU Final Exam Timetable and Request a Timetable Clash Resolution"
 description: "澳大利亚国立大学（ANU）每学期末的考试安排是学生学术规划的核心环节。根据ANU考试办公室2024年发布的《考试管理政策》（Examinations Policy），所有在校生的期末考试时间表通常在学期第10周通过ISIS（Interactive Student Information System）发布，涉及超…"
 category: "How"
-pubDatetime: 2026-04-12T19:55:45Z
+pubDatetime: '2026-04-12T19:55:45Z'
 publishDate: '2026-04-12T19:55:45Z'
 readingTime: 3
 tags: ["featured"]

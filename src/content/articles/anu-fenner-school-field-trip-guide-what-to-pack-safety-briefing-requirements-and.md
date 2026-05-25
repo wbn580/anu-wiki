@@ -2,7 +2,7 @@
 title: "ANU Fenner School Field Trip Guide: What to Pack, Safety Briefing Requirements, and Assessment Tasks for ENVS Courses"
 description: "澳大利亚国立大学（ANU）芬纳环境与社会学院（Fenner School of Environment & Society）的实地考察（field trip）是ENVS系列课程（如ENVS1003、ENVS2015、ENVS3018）的核心教学环节，每年涉及超过400名本科生和研究生，覆盖从堪培拉周边山地到新南威…"
 category: "ANU"
-pubDatetime: 2026-04-20T19:57:23Z
+pubDatetime: '2026-04-20T19:57:23Z'
 publishDate: '2026-04-20T19:57:23Z'
 readingTime: 3
 tags: ["featured"]

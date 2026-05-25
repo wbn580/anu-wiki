@@ -2,7 +2,7 @@
 title: "ANU Community Service and Volunteering: How to Get Your Participation Verified and Recognised on Your Co-Curricular Transcript"
 description: "澳大利亚国立大学（ANU）自2020年起正式启用**课外活动成绩单（Co-Curricular Transcript，CCT）**，为学生在课堂之外参与的社区服务、志愿服务及领导力活动提供官方认证记录。根据ANU学生事务部2023年发布的《课外活动成绩单年度报告》，该校在2022至2023学年共认证了超过4,20…"
 category: "ANU"
-pubDatetime: 2026-04-28T19:58:58Z
+pubDatetime: '2026-04-28T19:58:58Z'
 publishDate: '2026-04-28T19:58:58Z'
 readingTime: 3
 tags: ["featured"]

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Peer Mentoring Programs: How to Find a Mentor or Become One for New Students
+title: "ANU Peer Mentoring Programs: How to Find a Mentor or Become One for New Students"
 category: 'general'
 description: Navigating university life at ANU can be challenging. Discover how the ANU peer mentoring programs connect new students with experienced mentors, boost academic success by up to 15%, and build lifelong networks. Learn step-by-step how to find a mentor or become one in 2026.
 author: cowork
 tags: ["ANU peer mentoring", "ANU mentor program", "ANU student support network", "ANU new student mentor", "ANU college mentoring"]
 slug: anu-peer-mentoring-programs-2026
-ogImage: 
+ogImage: ""
 ---
 
 Starting at a new university often feels like stepping into a maze. The Australian National University (ANU) addresses this head-on with its structured peer mentoring programs. A 2026 internal survey by ANU Student Services found that **82% of first-year students** who joined a mentoring group reported feeling "significantly more connected" to the campus community within the first eight weeks. Another study from the Australian Department of Education in early 2026 highlighted that structured peer support can lift first-year retention rates by up to **12%**. These numbers are not just abstract; they reflect a reality where a simple coffee chat with a mentor can reshape a student's entire academic trajectory.

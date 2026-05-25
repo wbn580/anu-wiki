@@ -2,7 +2,7 @@
 title: "ANU Academic Integrity Breach Process: What to Expect in a Hearing and How to Submit an Effective Appeal"
 description: "在澳大利亚国立大学（ANU）的学术体系中，学术诚信违规处理程序是学生面临的最严肃的行政流程之一。根据ANU 2023年发布的《学术诚信政策》（Academic Integrity Rule 2023），该校在2022年共处理了超过400起学术不端案件，其中约35%的案例涉及学生使用未经授权的生成式AI工具完成评估…"
 category: "ANU"
-pubDatetime: 2026-04-09T19:55:20Z
+pubDatetime: '2026-04-09T19:55:20Z'
 publishDate: '2026-04-09T19:55:20Z'
 readingTime: 3
 tags: ["featured"]

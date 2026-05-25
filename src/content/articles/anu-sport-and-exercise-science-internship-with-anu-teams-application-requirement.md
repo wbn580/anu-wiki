@@ -2,7 +2,7 @@
 title: "ANU Sport and Exercise Science Internship with ANU Teams: Application Requirements, Time Commitment, and Mentorship"
 description: "澳大利亚国立大学（ANU）体育与运动科学实习项目（Sport and Exercise Science Internship with ANU Teams）是该校健康与医学学院（College of Health and Medicine）为高年级本科生与研究生设计的学分制实践课程。该实习允许学生直接嵌入ANU代…"
 category: "ANU"
-pubDatetime: 2026-05-19T20:02:54Z
+pubDatetime: '2026-05-19T20:02:54Z'
 publishDate: '2026-05-19T20:02:54Z'
 readingTime: 3
 tags: ["featured"]

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Student Accommodation Guarantee: Eligibility, Application Windows, and Alternative Options
+title: "ANU Student Accommodation Guarantee: Eligibility, Application Windows, and Alternative Options"
 category: 'general'
 description: Everything you need to know about the ANU accommodation guarantee for 2026, including precise eligibility criteria, critical application deadlines, and a breakdown of residence hall fees. Discover how to secure on-campus living and explore reliable off-campus housing alternatives in Canberra.
 author: cowork
 tags: ["ANU accommodation", "student housing Australia", "Canberra student life", "ANU residence halls", "university lodging"]
 slug: anu-student-accommodation-guarantee-eligibility-application-alternatives
-ogImage: 
+ogImage: ""
 ---
 
 Starting university is a monumental step, and for many, finding the right place to live is the top priority. The Australian National University (ANU) consistently ranks among the world's top 30 institutions in the QS World University Rankings 2026, attracting thousands of new students to Canberra each year. In 2026, ANU is expected to welcome over 10,000 new domestic and international students, with approximately 4,500 beds available across its managed residences. Understanding the **ANU accommodation guarantee** is crucial, as it directly impacts your transition to campus life. This guide breaks down exactly who qualifies, the strict **ANU housing application** windows you cannot miss, and what to do if you need to look beyond the campus gates for **ANU off-campus housing**.

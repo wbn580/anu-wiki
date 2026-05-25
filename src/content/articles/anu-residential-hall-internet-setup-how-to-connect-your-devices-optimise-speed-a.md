@@ -2,7 +2,7 @@
 title: "ANU Residential Hall Internet Setup: How to Connect Your Devices, Optimise Speed, and Register Your Gaming Console"
 description: "澳大利亚国立大学（ANU）校内住宿的网络基础设施由ANU信息技术服务部（ITS）统一管理，所有本科生及研究生宿舍楼均通过**eduroam**和**ResNet**两个独立网络系统提供接入。根据ANU ITS 2023年发布的《宿舍网络连接指南》，校内超过4,500个住宿床位均配备了有线以太网端口，每间标准宿舍的…"
 category: "ANU"
-pubDatetime: 2026-04-23T19:58:04Z
+pubDatetime: '2026-04-23T19:58:04Z'
 publishDate: '2026-04-23T19:58:04Z'
 readingTime: 3
 tags: ["featured"]

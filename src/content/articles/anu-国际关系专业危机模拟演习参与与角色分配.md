@@ -2,7 +2,7 @@
 title: "ANU 国际关系专业危机模拟演习参与与角色分配"
 description: "ANU 国际关系专业的危机模拟演习（Crisis Simulation Exercise）是其本科及研究生课程中的核心实践环节，学生通过扮演国家代表、国际组织官员或非政府组织观察员，在模拟的全球紧急事态中完成外交谈判与政策制定。根据澳大利亚国立大学（ANU）政治与国际关系学院2024年发布的课程手册，该演习每年覆…"
 category: "ANU 国际关系专业危机"
-pubDatetime: 2026-03-21T19:51:30Z
+pubDatetime: '2026-03-21T19:51:30Z'
 publishDate: '2026-03-21T19:51:30Z'
 readingTime: 19
 tags: ["featured"]

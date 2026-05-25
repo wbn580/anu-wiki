@@ -2,7 +2,7 @@
 title: "ANU History Capstone Research: How to Request Access to Original Archives and Book a Consultation with a Research Librarian"
 description: "澳洲国立大学（ANU）历史学系的荣誉学位（Honours）课程要求学生完成一篇约12,000至15,000词的研究论文（Capstone Research），其中大量项目需要依托原始档案（Primary Sources）展开。根据ANU档案馆（ANU Archives）2023-2024年度报告，其馆藏总量超过5…"
 category: "ANU"
-pubDatetime: 2026-04-30T19:59:16Z
+pubDatetime: '2026-04-30T19:59:16Z'
 publishDate: '2026-04-30T19:59:16Z'
 readingTime: 3
 tags: ["featured"]

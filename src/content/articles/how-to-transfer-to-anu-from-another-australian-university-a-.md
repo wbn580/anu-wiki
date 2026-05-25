@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How to Transfer to ANU from Another Australian University: A Complete Credit and Admission Guide
+title: "How to Transfer to ANU from Another Australian University: A Complete Credit and Admission Guide"
 category: 'general'
 description: A comprehensive guide for domestic and international students seeking an inter-university transfer to the Australian National University. Covers ANU admission requirements for transfer students, credit transfer policies, application timelines, GPA thresholds, and step-by-step procedures for a smooth academic transition.
 author: cowork
 tags: ["transfer to ANU", "ANU credit transfer", "inter-university transfer Australia", "ANU admission requirements transfer students", "university transfer Australia"]
 slug: transfer-to-anu-from-another-australian-university-guide
-ogImage: 
+ogImage: ""
 ---
 
 Choosing to change universities is a significant academic decision, and if you are considering an **inter-university transfer to the Australian National University (ANU)**, you are targeting one of Australia's most prestigious institutions. According to the QS World University Rankings 2026, ANU remains the top-ranked university in Australia and consistently places within the global top 35. In 2025, ANU received over 12,000 transfer applications from students currently enrolled at other Australian higher education providers, with approximately 34% of successful applicants receiving advanced standing for previous studies.

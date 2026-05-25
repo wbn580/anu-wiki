@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Fee Payment Plans for International Students: Installments, Deadlines, and Late Fees
+title: "ANU Fee Payment Plans for International Students: Installments, Deadlines, and Late Fees"
 category: 'general'
 description: A detailed guide to Australian National University's fee payment plans for international students, covering installment options, 2025 deadlines, late payment penalties, and practical strategies to avoid extra charges while managing your tuition costs effectively.
 author: cowork
 tags: ["ANU fees", "international student finance", "Australian university tuition", "fee payment plans", "late payment penalties"]
 slug: anu-fee-payment-plans-international-students
-ogImage: 
+ogImage: ""
 ---
 
 Managing tuition payments as an international student at the **Australian National University (ANU)** requires careful planning and a clear understanding of the available payment structures. With annual international tuition fees ranging from approximately AUD 39,000 to over AUD 53,000 depending on your program, knowing when and how to pay can significantly reduce financial stress. According to the Australian Government's Department of Education 2025 international student data, over 720,000 international enrolments were recorded across the higher education sector, with ANU remaining one of the most popular destinations. This guide breaks down every aspect of ANU's fee payment plans, including **installment options**, critical **deadlines for the 2025 academic year**, and the **late payment penalties** you need to avoid.

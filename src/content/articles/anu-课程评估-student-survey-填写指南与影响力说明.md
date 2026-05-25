@@ -2,7 +2,7 @@
 title: "ANU 课程评估 Student Survey 填写指南与影响力说明"
 description: "澳大利亚国立大学（ANU）自 2015 年起全面推行线上课程评估系统 Student Survey of Courses and Teaching（SSC&T），旨在收集学生对课程结构与教学质量的匿名反馈。根据 ANU 教学与学习中心（Centre for Learning and Teaching, CLT）2…"
 category: "ANU 课程评估 Stu"
-pubDatetime: 2026-03-12T19:49:26Z
+pubDatetime: '2026-03-12T19:49:26Z'
 publishDate: '2026-03-12T19:49:26Z'
 readingTime: 13
 tags: ["featured"]

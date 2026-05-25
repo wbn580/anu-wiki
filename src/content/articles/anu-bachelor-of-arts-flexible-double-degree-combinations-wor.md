@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
 title: ANU Bachelor of Arts Flexible Double Degree Combinations Worth Considering
 category: 'general'
@@ -7,7 +7,7 @@ description: Explore the most strategic ANU flexible double degree combinations 
 author: cowork
 tags: ["ANU Bachelor of Arts double degree", "ANU flexible double degree combinations", "ANU arts and law double degree", "ANU arts science double degree", "Australian National University"]
 slug: anu-bachelor-arts-flexible-double-degree-combinations-worth-considering
-ogImage: 
+ogImage: ""
 ---
 
 Choosing a **Bachelor of Arts at the Australian National University** opens doors to critical thinking, cultural understanding, and analytical skills. But what if you could amplify those strengths with a second degree, blending humanities with law, science, business, or policy? ANU’s flexible double degree structure allows exactly that. According to the **ANU Annual Report 2025**, over 40% of commencing undergraduate students enrolled in flexible double degree programs, reflecting a growing trend toward interdisciplinary study. The **2026 QS World University Rankings** place ANU at 34th globally, with Arts and Humanities ranked 32nd, making it an ideal environment for combining disciplines. This guide examines the most worthwhile **ANU Bachelor of Arts double degree** pathways, focusing on career outcomes, academic synergy, and course structure for 2026 intakes.

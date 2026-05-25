@@ -2,7 +2,7 @@
 title: "ANU Language Exchange Program: How to Sign Up, Find a Partner, and Make the Most of Your Language Practice Sessions"
 description: "澳洲国立大学（ANU）语言交换项目（Language Exchange Program）是由该校学术技能与语言中心（Academic Skills and Learning Centre）运营的一项免费、非学分制的同伴学习计划，旨在为在校学生提供结构化的语言互惠练习机会。根据ANU官方2024年发布的《学生语言支…"
 category: "ANU"
-pubDatetime: 2026-05-03T19:59:59Z
+pubDatetime: '2026-05-03T19:59:59Z'
 publishDate: '2026-05-03T19:59:59Z'
 readingTime: 3
 tags: ["featured"]

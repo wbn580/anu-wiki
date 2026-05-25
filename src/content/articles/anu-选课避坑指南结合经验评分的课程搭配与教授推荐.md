@@ -2,7 +2,7 @@
 title: "ANU 选课避坑指南：结合经验评分的课程搭配与教授推荐"
 description: "澳大利亚国立大学（ANU）2024年第二学期选课数据显示，超过37%的本科学生在第一学年尝试更换至少一门主修课程，而其中约14%的换课决定直接源于对课程难度或教授风格的误判（ANU Student Experience Survey, 2023）。与此同时，ANU在2024年QS世界大学排名中位列第34位，其严格…"
 category: "ANU 选课避坑指南：结"
-pubDatetime: 2026-02-23T19:45:58Z
+pubDatetime: '2026-02-23T19:45:58Z'
 publishDate: '2026-02-23T19:45:58Z'
 readingTime: 11
 tags: ["featured"]

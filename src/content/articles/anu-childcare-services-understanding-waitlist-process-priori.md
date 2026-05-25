@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Childcare Services: Understanding Waitlist Process, Priority Access, and Fee Subsidy Options for Student Families
+title: "ANU Childcare Services: Understanding Waitlist Process, Priority Access, and Fee Subsidy Options for Student Families"
 category: 'general'
 description: A comprehensive guide to ANU childcare services for student parents, covering the waitlist application timeline, priority enrollment groups, Child Care Subsidy eligibility, and practical support resources available through ANU family services in 2026.
 author: cowork
 tags: ["ANU childcare waitlist", "ANU student parent support", "ANU childcare subsidy", "ANU family services", "ANU daycare priority"]
 slug: anu-childcare-services-waitlist-priority-subsidy
-ogImage: 
+ogImage: ""
 ---
 
 Balancing academic responsibilities with parenting demands remains one of the most significant challenges facing university students today. According to the Australian Government Department of Education's 2025 Higher Education Student Data Summary, approximately 8.7 percent of domestic undergraduate students and 12.3 percent of postgraduate students have dependent children. At the Australian National University, the demand for on-campus childcare has increased by 23 percent since 2023, reflecting broader national trends in early childhood education accessibility. Understanding how ANU childcare services operate—from the waitlist process to fee subsidies—can make a substantial difference in your ability to plan family logistics around your academic calendar.

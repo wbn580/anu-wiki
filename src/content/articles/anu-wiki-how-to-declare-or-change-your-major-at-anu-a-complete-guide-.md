@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: How to Declare or Change Your Major at ANU: A Complete Guide to Program Variation and Academic Plans
+title: "How to Declare or Change Your Major at ANU: A Complete Guide to Program Variation and Academic Plans"
 category: 'general'
 description: Master the process of declaring or changing your major at the Australian National University. Understand eligibility criteria, critical deadlines, program variation rules, and how to build a compliant academic plan for a smooth degree transition in 2026.
 author: Study Abroad Editorial Team

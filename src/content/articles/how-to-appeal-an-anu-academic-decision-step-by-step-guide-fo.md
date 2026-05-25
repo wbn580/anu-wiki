@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How to Appeal an ANU Academic Decision: Step-by-Step Guide for International Students
+title: "How to Appeal an ANU Academic Decision: Step-by-Step Guide for International Students"
 category: 'general'
 description: A comprehensive guide for international students navigating the ANU academic appeal process. Learn how to appeal an ANU grade, request a review of results, and understand deadlines, documentation, and support resources.
 author: coworks
 tags: []
 slug: anu-academic-appeal-guide-international-students
-ogImage: 
+ogImage: ""
 ---
 
 ## Understanding the ANU Academic Appeal Framework

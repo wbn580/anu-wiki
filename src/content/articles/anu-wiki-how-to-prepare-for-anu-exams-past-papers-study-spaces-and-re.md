@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: How to Prepare for ANU Exams: Past Papers, Study Spaces, and Revision Strategies
+title: "How to Prepare for ANU Exams: Past Papers, Study Spaces, and Revision Strategies"
 category: 'general'
 description: Master your ANU exam preparation with proven strategies for accessing past papers, finding optimal study spaces, and implementing effective revision techniques. Learn about exam venues and time management.
 author: StudyAbroad Editorial Team

@@ -2,7 +2,7 @@
 title: "ANU 食品科学专业感官评价实验参与者招募"
 description: "澳大利亚国立大学（ANU）食品科学专业感官评价实验室（Sensory Evaluation Laboratory）现面向校内全体师生及堪培拉社区居民招募感官评价实验参与者。该实验室隶属于ANU健康与医学院（College of Health and Medicine），每年开展约40至60项感官测试，涵盖食品风味…"
 category: "ANU 食品科学专业感官"
-pubDatetime: 2026-03-30T19:53:13Z
+pubDatetime: '2026-03-30T19:53:13Z'
 publishDate: '2026-03-30T19:53:13Z'
 readingTime: 10
 tags: ["featured"]

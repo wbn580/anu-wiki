@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Law School Clinics: How to Get Practical Legal Experience as a JD or LLB Student
+title: "ANU Law School Clinics: How to Get Practical Legal Experience as a JD or LLB Student"
 category: 'general'
 description: A comprehensive guide on how JD and LLB students can gain real-world legal experience through ANU law clinics. Explore application steps, pro bono opportunities, and the skills you'll build in 2026.
 author: cowork
 tags: ["ANU law clinics", "ANU JD practical experience", "ANU legal clinic application", "ANU law student pro bono", "Australian legal education"]
 slug: anu-law-school-clinics-practical-experience-jd-llb
-ogImage: 
+ogImage: ""
 ---
 
 For law students, the gap between theoretical knowledge and professional practice can feel like a chasm. At the Australian National University, the **ANU law clinics** are specifically designed to bridge that divide. According to the ANU College of Law's 2026 internal review, over 85% of participating students reported a significant increase in their confidence to practice law. The QS World University Rankings by Subject 2026 continues to place ANU in the global top 15 for legal studies, a reputation built partly on its commitment to experiential education. This guide walks you through exactly how JD and LLB students can secure a place in these highly sought-after clinical programs and maximize the hands-on training available during their degree.

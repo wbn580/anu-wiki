@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: Building your timetable at ANU: clash resolution and preference entry tips
+title: "Building your timetable at ANU: clash resolution and preference entry tips"
 category: 'general'
 description: Master the ANU timetable building process with our comprehensive guide. Learn effective clash resolution strategies, preference entry techniques in myTimetable, and how to secure your ideal class schedule for 2026.
 author: Senior Academic Editor

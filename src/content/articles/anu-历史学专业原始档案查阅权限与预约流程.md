@@ -2,7 +2,7 @@
 title: "ANU 历史学专业原始档案查阅权限与预约流程"
 description: "澳大利亚国立大学（ANU）历史学专业的学生在研究过程中，常需接触位于校内的**澳大利亚国家图书馆（NLA）**与**ANU档案馆**等机构所藏的一手原始档案。根据NLA 2023-24年度报告，该馆保存超过1000万件藏品，其中包括约2.6万份个人与家族档案（National Library of Austral…"
 category: "ANU 历史学专业原始档"
-pubDatetime: 2026-03-16T19:50:22Z
+pubDatetime: '2026-03-16T19:50:22Z'
 publishDate: '2026-03-16T19:50:22Z'
 readingTime: 13
 tags: ["featured"]

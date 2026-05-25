@@ -2,7 +2,7 @@
 title: "ANU International Student Holiday Storage Solutions: Options for Storing Belongings Over the Summer Break"
 description: "澳洲国立大学（ANU）每年有约12,000名国际学生，其中超过60%在夏季学期（11月至2月）期间离校返乡或旅行，面临个人物品存放问题。根据澳大利亚统计局（ABS）2023年的人口迁移数据，ACT地区短期离境学生人数在夏季达峰值，而ANU官方宿舍合同通常于11月底终止，次年初重新开放，中间形成约8至10周的空窗期…"
 category: "ANU"
-pubDatetime: 2026-04-30T19:59:12Z
+pubDatetime: '2026-04-30T19:59:12Z'
 publishDate: '2026-04-30T19:59:12Z'
 readingTime: 3
 tags: ["featured"]

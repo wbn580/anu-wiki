@@ -2,7 +2,7 @@
 title: "ANU Pet Policy in Student Accommodation: Assistance Animal Approval Process, Documentation, and Flatmate Agreements"
 description: "澳大利亚国立大学（ANU）校内住宿对宠物的管理政策以《2013年领地动物管理法》（Domestic Animals Act 2013）为法定框架，规定除经正式批准的辅助动物（Assistance Animal）外，所有学生宿舍楼宇内禁止饲养宠物。根据ANU住宿服务处2023年发布的《住宿条款与条件》（Accomm…"
 category: "ANU"
-pubDatetime: 2026-05-16T20:02:27Z
+pubDatetime: '2026-05-16T20:02:27Z'
 publishDate: '2026-05-16T20:02:27Z'
 readingTime: 3
 tags: ["featured"]

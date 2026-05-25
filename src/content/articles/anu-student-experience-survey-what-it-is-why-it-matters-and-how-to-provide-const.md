@@ -2,7 +2,7 @@
 title: "ANU Student Experience Survey: What It Is, Why It Matters, and How to Provide Constructive Feedback on Your Courses"
 description: "澳大利亚国立大学（ANU）自2015年起每学期通过 **Student Experience Survey（SES）** 系统收集学生对课程与教学的匿名反馈。根据澳大利亚教育部2023年发布的《教学质量指标（QILT）报告》，ANU在2022年整体学生满意度得分为78.3%，低于全国八校联盟（Go8）平均水平81…"
 category: "ANU"
-pubDatetime: 2026-04-26T19:58:30Z
+pubDatetime: '2026-04-26T19:58:30Z'
 publishDate: '2026-04-26T19:58:30Z'
 readingTime: 3
 tags: ["featured"]

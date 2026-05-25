@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Bachelor of Laws (Honours) Double Degree Combinations: Workload and Course Planning
+title: "ANU Bachelor of Laws (Honours) Double Degree Combinations: Workload and Course Planning"
 category: 'general'
 description: Explore ANU law double degree combinations including Arts, Commerce, and Science pathways. Detailed analysis of ANU LLB honours workload, credit overlap strategies, and four-year course planning for 2026 entry.
 author: cowork
 tags: ["ANU law double degree", "LLB honours workload", "course planning", "credit overlap", "Australian National University"]
 slug: anu-law-double-degree-workload-course-planning
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University Bachelor of Laws (Honours) consistently ranks among Australia's most prestigious legal qualifications. In the QS World University Rankings by Subject 2026, ANU Law placed 17th globally, reflecting its research intensity and graduate employability rates exceeding 92% within four months of completion. Students increasingly pursue **ANU law double degree combinations** to broaden career prospects while managing the **ANU LLB honours workload** strategically.

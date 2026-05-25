@@ -2,7 +2,7 @@
 title: "ANU 学术日历关键日期：选课、考试与放假时间一览"
 description: "澳大利亚国立大学（ANU）采用双学期制（Semester 1 & 2），辅以夏季学期（Summer Session）和冬季学期（Winter Session），其**学术日历**由校方学术委员会每年核定发布。2025 学年，ANU 第一学期教学周（Teaching Period）从 2 月 17 日持续至 5 月…"
 category: "ANU 学术日历关键日期"
-pubDatetime: 2026-03-01T19:47:15Z
+pubDatetime: '2026-03-01T19:47:15Z'
 publishDate: '2026-03-01T19:47:15Z'
 readingTime: 14
 tags: ["featured"]

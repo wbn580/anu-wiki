@@ -2,7 +2,7 @@
 title: "ANU Lost and Found: Central Security Office Location, Online Reporting Form, and Retrieval Process"
 description: "澳大利亚国立大学（ANU）每年处理超过 1,200 件遗失物品，其中约 35% 在 7 天内被成功认领（ANU Security Services 2023 年度内部统计）。对于这所占地 145 公顷、拥有超过 25,000 名在校生的校园而言，丢失学生证、笔记本电脑或实验器材是常见情况。ANU 中央安全办公室（…"
 category: "ANU"
-pubDatetime: 2026-04-29T19:59:00Z
+pubDatetime: '2026-04-29T19:59:00Z'
 publishDate: '2026-04-29T19:59:00Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Get Bloomberg Terminal Certified at the ANU College of Business: Booking a Slot and Completing the BMC Course"
 description: "澳大利亚国立大学（ANU）商业与经济学院（CBE）为在校学生提供免费获取**彭博终端认证（Bloomberg Market Concepts, BMC）** 的途径。根据彭博官方统计，全球超过 250,000 名金融专业人士持有 BMC 证书，而 ANU 作为澳大利亚八大名校之一，其 CBE 大楼内的彭博实验室（…"
 category: "How"
-pubDatetime: 2026-04-26T19:58:30Z
+pubDatetime: '2026-04-26T19:58:30Z'
 publishDate: '2026-04-26T19:58:30Z'
 readingTime: 3
 tags: ["featured"]

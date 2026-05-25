@@ -2,7 +2,7 @@
 title: "ANU Campus Parking Permits: Student Rates, Application Windows, and Where to Park Without a Permit"
 description: "澳大利亚国立大学（ANU）主校区Acton Campus自2024年起实施新的停车管理政策，覆盖超过6,000个停车位，其中约4,500个为付费许可车位。根据ANU交通与停车办公室2024年发布的数据，学生年度停车许可费用在AUD 360至AUD 1,200之间，具体取决于车位类型和时段。这一调整的背景是ACT政…"
 category: "ANU"
-pubDatetime: 2026-05-12T20:01:34Z
+pubDatetime: '2026-05-12T20:01:34Z'
 publishDate: '2026-05-12T20:01:34Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Can Your Parents Join You in Australia While You Study at ANU? Visitor Visa Options and Alternative Family Visas Explained"
 description: "根据澳大利亚内政部（Department of Home Affairs）2024-25财年数据，澳大利亚每年签发约100万份访客签证（Visitor Visa，子类600），其中约15%的申请人为学生签证持有者的家庭成员。对于在澳大利亚国立大学（ANU）就读的国际学生而言，父母能否随行或短期探访是一个常见但政策…"
 category: "Can"
-pubDatetime: 2026-05-11T20:01:25Z
+pubDatetime: '2026-05-11T20:01:25Z'
 publishDate: '2026-05-11T20:01:25Z'
 readingTime: 3
 tags: ["featured"]

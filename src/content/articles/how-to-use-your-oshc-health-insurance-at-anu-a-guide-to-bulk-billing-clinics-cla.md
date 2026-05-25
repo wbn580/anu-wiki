@@ -2,7 +2,7 @@
 title: "How to Use Your OSHC Health Insurance at ANU: A Guide to Bulk Billing Clinics, Claims, and Specialist Referrals"
 description: "澳大利亚政府规定，所有持学生签证（Subclass 500）的国际学生必须购买海外学生健康保险（OSHC），覆盖其留学期间的基本医疗费用。根据澳大利亚内政事务部2024年数据，OSHC是签证授予的强制条件【澳大利亚内政事务部，2024，《学生签证申请要求》】。对于澳洲国立大学（ANU）的学生，OSHC通常由学校合…"
 category: "How"
-pubDatetime: 2026-04-13T19:55:58Z
+pubDatetime: '2026-04-13T19:55:58Z'
 publishDate: '2026-04-13T19:55:58Z'
 readingTime: 3
 tags: ["featured"]

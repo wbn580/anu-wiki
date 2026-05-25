@@ -2,7 +2,7 @@
 title: "ANU Campus Vaccination Centre: Opening Hours, Appointment Booking, and Health History Form Submission"
 description: "澳大利亚国立大学（ANU）校园疫苗接种中心（ANU Campus Vaccination Centre）于 2022 年 1 月 10 日正式运营，至 2023 年 6 月 30 日停止现场接种服务，期间共完成超过 45,000 剂 COVID-19 疫苗和流感疫苗的接种【ANU 2023，ANU Campus …"
 category: "ANU"
-pubDatetime: 2026-05-08T20:01:00Z
+pubDatetime: '2026-05-08T20:01:00Z'
 publishDate: '2026-05-08T20:01:00Z'
 readingTime: 3
 tags: ["featured"]

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Flexible Double Degree Combinations: Law, PPE, Engineering and Advanced Computing Pathways
+title: "ANU Flexible Double Degree Combinations: Law, PPE, Engineering and Advanced Computing Pathways"
 category: 'general'
 description: Explore the structure, workload, and strategic value of ANU flexible double degree programs including Law with PPE, and Engineering with Advanced Computing. Understand how combined degrees at the Australian National University can accelerate your career through interdisciplinary expertise and flexible course mapping.
 author: cowork
 tags: ["ANU flexible double degree", "combined degree structure Australia", "Law PPE double degree", "Engineering Advanced Computing ANU", "undergraduate program planning"]
 slug: anu-flexible-double-degree-combinations-law-ppe-engineering-advanced-computing
-ogImage: 
+ogImage: ""
 ---
 
 The demand for **interdisciplinary expertise** has reshaped higher education globally, and the Australian National University has responded with one of the most adaptable **flexible double degree** systems in the country. According to the 2026 QS World University Rankings by Subject, ANU ranks 35th globally for Law and Legal Studies and 45th for Politics and International Studies, while its Engineering and Technology disciplines have climbed into the top 100. A 2025 Australian Government Department of Education report noted that graduates holding **combined qualifications** experienced a 14 percent higher full-time employment rate within six months compared to single-degree peers. These figures underscore why students are increasingly examining **ANU flexible double degree** structures not merely as an academic option but as a deliberate career acceleration strategy.

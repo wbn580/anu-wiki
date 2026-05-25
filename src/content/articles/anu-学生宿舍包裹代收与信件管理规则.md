@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍包裹代收与信件管理规则"
 description: "澳大利亚国立大学（ANU）作为澳大利亚排名第一的研究型大学（2025 QS世界大学排名第30位），其校内住宿系统每年服务超过6,000名住校学生（ANU Accommodation Services, 2024年度报告）。对于这些学生而言，包裹代收与信件管理是日常生活中高频接触的行政环节。随着2024-2025学…"
 category: "ANU 学生宿舍包裹代收"
-pubDatetime: 2026-03-12T19:49:38Z
+pubDatetime: '2026-03-12T19:49:38Z'
 publishDate: '2026-03-12T19:49:38Z'
 readingTime: 16
 tags: ["featured"]

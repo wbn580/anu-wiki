@@ -2,7 +2,7 @@
 title: "ANU Tuition Fee Payment Methods Compared: BPAY, Credit Card, and International Bank Transfer"
 description: "澳大利亚国立大学（ANU）在2024年录取了超过25,000名学生，其中国际学生占比约40%（澳大利亚教育部，2023，《国际学生数据年报》）。学费支付是每位注册学生必须完成的财务环节，ANU提供BPAY、信用卡和国际银行转账三种主要缴费通道。根据ANU财务处2024年发布的《学生缴费指南》，选择不同的支付方式可…"
 category: "ANU"
-pubDatetime: 2026-04-07T19:54:56Z
+pubDatetime: '2026-04-07T19:54:56Z'
 publishDate: '2026-04-07T19:54:56Z'
 readingTime: 3
 tags: ["featured"]

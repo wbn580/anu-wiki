@@ -2,7 +2,7 @@
 title: "ANU 本科入学提前录取 Early Offer 申请条件解析"
 description: "澳大利亚国立大学（ANU）的本科提前录取（Early Offer）计划，是针对已完成11年级或同等学历的高中生，在正式最终成绩公布前，依据其11年级或12年级部分成绩，提前获得有条件或无条件录取通知书的招生政策。根据澳大利亚教育部2023年发布的《高等教育学生数据》，ANU在2023年通过该计划发放了超过1,20…"
 category: "ANU 本科入学提前录取"
-pubDatetime: 2026-03-07T19:48:35Z
+pubDatetime: '2026-03-07T19:48:35Z'
 publishDate: '2026-03-07T19:48:35Z'
 readingTime: 14
 tags: ["featured"]

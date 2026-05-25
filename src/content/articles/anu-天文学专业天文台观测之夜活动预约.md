@@ -2,7 +2,7 @@
 title: "ANU 天文学专业天文台观测之夜活动预约"
 description: "澳大利亚国立大学（ANU）天文学专业依托其位于斯壮罗山（Mount Stromlo）的观测站，定期面向在校学生及公众开放天文台观测之夜（Observatory Open Night）活动。该活动由ANU天文学与天体物理学研究院（Research School of Astronomy and Astrophysi…"
 category: "ANU 天文学专业天文台"
-pubDatetime: 2026-03-19T19:51:00Z
+pubDatetime: '2026-03-19T19:51:00Z'
 publishDate: '2026-03-19T19:51:00Z'
 readingTime: 13
 tags: ["featured"]

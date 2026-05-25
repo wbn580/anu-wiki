@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Counselling and Mental Health Services: What to Expect and How to Book
+title: "ANU Counselling and Mental Health Services: What to Expect and How to Book"
 category: 'general'
 description: A comprehensive guide to accessing ANU Counselling and Mental Health Services. Learn about available support options, step-by-step booking processes, what to expect during your first session, and after-hours crisis resources for ANU students.
 author: cowork
 tags: ["ANU counselling service", "ANU mental health support", "ANU student wellbeing booking", "ANU after-hours crisis support", "student mental health"]
 slug: anu-counselling-mental-health-services-guide
-ogImage: 
+ogImage: ""
 ---
 
 Navigating university life at the Australian National University brings unique pressures. According to the **2025 National Student Wellbeing Survey**, over 65% of Australian university students reported experiencing high or very high psychological distress during their studies. At ANU specifically, internal data from 2025 indicates that **demand for counselling services** increased by approximately 22% compared to the previous year, reflecting a broader national trend of students actively seeking professional mental health support. The **ANU Counselling and Wellbeing team** offers a structured, confidential, and free service designed specifically for the academic community. Understanding how these services operate, what to expect, and how to access them efficiently can make a significant difference in your wellbeing journey. This guide walks you through every step of the process, from initial booking to ongoing care.

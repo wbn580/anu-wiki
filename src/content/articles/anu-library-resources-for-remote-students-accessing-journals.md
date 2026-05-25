@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Library Resources for Remote Students: Accessing Journals and E-Books
+title: "ANU Library Resources for Remote Students: Accessing Journals and E-Books"
 category: 'general'
 description: Discover how ANU remote students can fully access library journals, e-books, and academic databases from anywhere in the world. Learn step-by-step login procedures, interlibrary loan options for distance learners, and expert tips for seamless off-campus research.
 author: cowork
 tags: []
 slug: anu-library-resources-remote-students-journals-ebooks
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) maintains one of Australia's most comprehensive academic library systems, with over **2.5 million physical volumes** and access to more than **630,000 e-journals** as of 2026. For students enrolled in online programs or conducting research from off-campus locations, navigating these resources remotely is essential to academic success. ANU Library has invested significantly in digital infrastructure, ensuring that **ANU library remote access** meets the same standards as on-campus services. This guide walks you through everything you need to know about accessing journals, e-books, and specialized databases from anywhere in the world.

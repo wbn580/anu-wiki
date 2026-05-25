@@ -2,7 +2,7 @@
 title: "How to Activate Your ANU Student Email and Install Microsoft Office 365 on Your Devices"
 description: "澳大利亚国立大学（ANU）为每位注册学生提供终身有效的 `@anu.edu.au` 邮箱账户，并授权在校期间免费安装 Microsoft Office 365 专业增强版。根据 ANU 信息技术服务处（ITS, 2024）的数据，超过 98% 的正式课程通知与行政事务通过该邮箱系统下发，未激活账户的学生平均延迟 …"
 category: "How"
-pubDatetime: 2026-04-19T19:57:14Z
+pubDatetime: '2026-04-19T19:57:14Z'
 publishDate: '2026-04-19T19:57:14Z'
 readingTime: 3
 tags: ["featured"]

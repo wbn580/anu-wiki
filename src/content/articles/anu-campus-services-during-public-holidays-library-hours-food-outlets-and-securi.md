@@ -2,7 +2,7 @@
 title: "ANU Campus Services During Public Holidays: Library Hours, Food Outlets, and Security Availability"
 description: "澳大利亚国立大学（ANU）位于堪培拉，其校园服务在公共假期的运营模式与常规工作日存在显著差异。根据澳大利亚首都领地（ACT）政府2024年公布的公共假期安排，ANU每年约有13天法定公共假期，包括元旦、澳大利亚日、堪培拉日、复活节、澳新军团日、国王生日、劳动节以及圣诞节和节礼日等【ACT Government, …"
 category: "ANU"
-pubDatetime: 2026-05-04T20:00:02Z
+pubDatetime: '2026-05-04T20:00:02Z'
 publishDate: '2026-05-04T20:00:02Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Mental Health First Aid Training: Course Dates, Registration Cost, and Why It's a Valuable Addition to Your CV"
 description: "澳大利亚国立大学（ANU）心理健康急救培训（Mental Health First Aid, MHFA）是一项由官方认证的标准化课程，旨在教授参与者识别、理解并应对他人心理健康危机的基本技能。根据澳大利亚心理健康急救组织（Mental Health First Aid Australia, 2023）的数据，全国…"
 category: "ANU"
-pubDatetime: 2026-05-15T20:02:17Z
+pubDatetime: '2026-05-15T20:02:17Z'
 publishDate: '2026-05-15T20:02:17Z'
 readingTime: 3
 tags: ["featured"]

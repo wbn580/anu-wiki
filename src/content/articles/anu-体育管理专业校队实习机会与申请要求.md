@@ -2,7 +2,7 @@
 title: "ANU 体育管理专业校队实习机会与申请要求"
 description: "ANU 体育管理专业（Bachelor of Sport & Exercise Science / Master of Sport Management）是澳大利亚国立大学（ANU）健康与医学院下设的实践导向型课程。根据澳大利亚体育委员会（ASC, 2023）《国家体育参与报告》，澳洲体育产业年产值约为 83 亿…"
 category: "ANU 体育管理专业校队"
-pubDatetime: 2026-04-04T19:54:09Z
+pubDatetime: '2026-04-04T19:54:09Z'
 publishDate: '2026-04-04T19:54:09Z'
 readingTime: 13
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 国际学生校园辩论赛报名与赛前培训"
 description: "澳大利亚国立大学（ANU）国际学生校园辩论赛（International Student Campus Debate）是一项由ANU学生协会（ANUSA）和研究生协会（PARSA）联合主办的年度校级赛事。2025年赛事报名已于3月1日开放，截至3月20日已收到来自47个国家的237份注册申请，较2024年同期增长…"
 category: "ANU 国际学生校园辩论"
-pubDatetime: 2026-04-01T19:53:44Z
+pubDatetime: '2026-04-01T19:53:44Z'
 publishDate: '2026-04-01T19:53:44Z'
 readingTime: 12
 tags: ["featured"]

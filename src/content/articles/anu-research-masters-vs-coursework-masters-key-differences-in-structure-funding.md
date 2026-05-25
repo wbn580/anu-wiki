@@ -2,7 +2,7 @@
 title: "ANU Research Masters vs Coursework Masters: Key Differences in Structure, Funding, and Career Pathways"
 description: "澳大利亚国立大学（ANU）在2025年QS世界大学排名中位列第30位，其研究生教育体系主要分为研究型硕士（Research Masters）和授课型硕士（Coursework Masters）两种路径。根据澳大利亚教育部2024年发布的《高等教育学生数据年度报告》，2023年全澳授课型硕士入学人数为198,437…"
 category: "ANU"
-pubDatetime: 2026-04-10T19:55:32Z
+pubDatetime: '2026-04-10T19:55:32Z'
 publishDate: '2026-04-10T19:55:32Z'
 readingTime: 3
 tags: ["featured"]

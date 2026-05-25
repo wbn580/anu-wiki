@@ -2,7 +2,7 @@
 title: "ANU Physics Laboratory Safety Rules: Laser, Radiation, and High-Voltage Equipment Operation Protocols"
 description: "澳大利亚国立大学（ANU）物理实验室是校内研究活动最为密集的场所之一，每年有超过 1,200 名本科生和研究生在此完成实验课程与科研项目。根据澳大利亚辐射防护与核安全局（ARPANSA）2022 年发布的《电离辐射安全标准》，ANU 物理实验室同时使用 Class 3B 和 Class 4 激光器、密封放射源以及…"
 category: "ANU"
-pubDatetime: 2026-04-23T19:58:06Z
+pubDatetime: '2026-04-23T19:58:06Z'
 publishDate: '2026-04-23T19:58:06Z'
 readingTime: 3
 tags: ["featured"]

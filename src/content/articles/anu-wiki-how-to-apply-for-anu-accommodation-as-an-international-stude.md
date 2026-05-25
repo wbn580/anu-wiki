@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: How to Apply for ANU Accommodation as an International Student: A Step-by-Step Guide
+title: "How to Apply for ANU Accommodation as an International Student: A Step-by-Step Guide"
 category: 'general'
 description: Master the ANU accommodation application process with this comprehensive guide for international students. From key deadlines and residence options to rental tips and cost breakdowns, ensure a smooth transition to campus life in Canberra.
 author: Senior Education Editor

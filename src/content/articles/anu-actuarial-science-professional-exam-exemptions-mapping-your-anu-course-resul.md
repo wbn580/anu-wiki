@@ -2,7 +2,7 @@
 title: "ANU Actuarial Science Professional Exam Exemptions: Mapping Your ANU Course Results to the Actuaries Institute Requirements"
 description: "澳大利亚国立大学（ANU）的**精算学学士（Bachelor of Actuarial Studies）** 课程，自 2023 年起被澳大利亚精算师协会（Actuaries Institute）正式认证为**精算师资格考试豁免课程**。根据该协会 2024 年发布的《认证课程手册》，ANU 精算学毕业生在完成指…"
 category: "ANU"
-pubDatetime: 2026-05-08T20:00:43Z
+pubDatetime: '2026-05-08T20:00:43Z'
 publishDate: '2026-05-08T20:00:43Z'
 readingTime: 3
 tags: ["featured"]

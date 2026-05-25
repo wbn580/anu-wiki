@@ -2,7 +2,7 @@
 title: "ANU Residential Hall Mail Notification Systems: Email Alerts, App Notifications, and Front Desk Collection Hours"
 description: "澳洲国立大学（ANU）校内住宿系统每年服务超过6,000名住校学生，其中包裹与信件投递量在2023年学术年度同比增长约18%（ANU Accommodation Services, 2023, Annual Operational Report）。随着在线购物和国际快递的普及，各住宿学院（Residential …"
 category: "ANU"
-pubDatetime: 2026-05-20T20:03:13Z
+pubDatetime: '2026-05-20T20:03:13Z'
 publishDate: '2026-05-20T20:03:13Z'
 readingTime: 3
 tags: ["featured"]

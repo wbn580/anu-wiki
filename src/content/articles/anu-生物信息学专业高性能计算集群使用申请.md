@@ -2,7 +2,7 @@
 title: "ANU 生物信息学专业高性能计算集群使用申请"
 description: "澳大利亚国立大学（ANU）生物信息学专业的研究与教学高度依赖高性能计算（HPC）资源。ANU 拥有澳大利亚国家计算基础设施（NCI）以及校内研究计算服务（RSC）提供的多个集群，其中 NCI 的 Gadi 超级计算机在 2023 年 11 月的 Top500 榜单中排名第 93 位，峰值性能达到 9.1 PFLO…"
 category: "ANU 生物信息学专业高"
-pubDatetime: 2026-03-25T19:52:22Z
+pubDatetime: '2026-03-25T19:52:22Z'
 publishDate: '2026-03-25T19:52:22Z'
 readingTime: 11
 tags: ["featured"]

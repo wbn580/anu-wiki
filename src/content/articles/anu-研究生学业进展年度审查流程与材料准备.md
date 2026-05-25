@@ -2,7 +2,7 @@
 title: "ANU 研究生学业进展年度审查流程与材料准备"
 description: "澳大利亚国立大学（ANU）自 2022 年起执行修订后的研究生学业进展年度审查（Annual Progress Review，简称 APR）制度，要求所有攻读研究型学位（Doctor of Philosophy / Master of Philosophy）的学生在每个学年结束时提交系统性进展报告。根据 ANU …"
 category: "ANU 研究生学业进展年"
-pubDatetime: 2026-03-13T19:49:43Z
+pubDatetime: '2026-03-13T19:49:43Z'
 publishDate: '2026-03-13T19:49:43Z'
 readingTime: 14
 tags: ["featured"]

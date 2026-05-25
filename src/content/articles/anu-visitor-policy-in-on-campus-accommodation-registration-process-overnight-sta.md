@@ -2,7 +2,7 @@
 title: "ANU Visitor Policy in On-Campus Accommodation: Registration Process, Overnight Stay Limits, and Guest Responsibilities"
 description: "澳洲国立大学（ANU）在其校内住宿（On-Campus Accommodation）中实行一套结构化的访客政策，旨在平衡住户的社交自由与社区的居住安全。根据ANU住宿服务部门（ANU Accommodation Services）2024年发布的《居民手册》（Resident Handbook），所有访客必须在抵…"
 category: "ANU"
-pubDatetime: 2026-05-02T19:59:35Z
+pubDatetime: '2026-05-02T19:59:35Z'
 publishDate: '2026-05-02T19:59:35Z'
 readingTime: 3
 tags: ["featured"]

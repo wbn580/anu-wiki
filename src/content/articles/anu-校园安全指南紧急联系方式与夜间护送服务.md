@@ -2,7 +2,7 @@
 title: "ANU 校园安全指南：紧急联系方式与夜间护送服务"
 description: "澳大利亚国立大学（ANU）校园安全体系以“预防-响应-支持”三层架构运行，覆盖主校区Acton及附属设施。根据澳大利亚教育部《2023年国际学生安全报告》（Australian Government Department of Education, 2023），ANU在2022年记录了47起校园内轻微犯罪事件，低…"
 category: "ANU 校园安全指南：紧"
-pubDatetime: 2026-02-27T19:46:55Z
+pubDatetime: '2026-02-27T19:46:55Z'
 publishDate: '2026-02-27T19:46:55Z'
 readingTime: 13
 tags: ["featured"]

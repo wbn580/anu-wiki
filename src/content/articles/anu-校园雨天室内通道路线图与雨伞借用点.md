@@ -2,7 +2,7 @@
 title: "ANU 校园雨天室内通道路线图与雨伞借用点"
 description: "澳洲国立大学（ANU）主校区位于堪培拉Acton区，校园地势起伏，建筑分散，全年降雨分布均匀。根据澳大利亚气象局（Bureau of Meteorology）1991–2020年气候数据，堪培拉年均降雨日数为108天，其中10月至1月为降雨高发期，每月平均降雨日数超过10天。对于每日需在不同教学楼之间穿行的ANU…"
 category: "ANU 校园雨天室内通道"
-pubDatetime: 2026-04-03T19:54:03Z
+pubDatetime: '2026-04-03T19:54:03Z'
 publishDate: '2026-04-03T19:54:03Z'
 readingTime: 9
 tags: ["featured"]

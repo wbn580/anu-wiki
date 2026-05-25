@@ -2,7 +2,7 @@
 title: "How to Start a New Student Club at ANU: Constitution Template, ANUSA Approval Process, and Initial Funding Application"
 description: "澳大利亚国立大学（ANU）每年活跃着超过200个学生社团与俱乐部，其中约15至20个为新注册成立的团体，覆盖学术、文化、体育及兴趣等多个领域。根据ANU学生协会（ANUSA）2024年发布的《俱乐部指南》，新社团的成立需依次完成**起草章程（Constitution）**、**通过ANUSA审批（Approval…"
 category: "How"
-pubDatetime: 2026-05-21T20:03:17Z
+pubDatetime: '2026-05-21T20:03:17Z'
 publishDate: '2026-05-21T20:03:17Z'
 readingTime: 3
 tags: ["featured"]

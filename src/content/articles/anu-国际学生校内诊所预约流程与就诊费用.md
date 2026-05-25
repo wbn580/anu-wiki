@@ -2,7 +2,7 @@
 title: "ANU 国际学生校内诊所预约流程与就诊费用"
 description: "澳大利亚国立大学（ANU）校内设有两处面向全体注册学生的医疗服务中心，分别为 ANU Health and Wellbeing Centre（Acton 校区）和 ANU Medical Centre（Kambri 校区）。根据澳大利亚政府《海外学生健康保险（OSHC）框架》（2024 年修订版），持有 OSHC…"
 category: "ANU 国际学生校内诊所"
-pubDatetime: 2026-04-04T19:54:11Z
+pubDatetime: '2026-04-04T19:54:11Z'
 publishDate: '2026-04-04T19:54:11Z'
 readingTime: 12
 tags: ["featured"]

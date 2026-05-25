@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Science Communication: Portfolio Development and Science Media Internships
+title: "ANU Master of Science Communication: Portfolio Development and Science Media Internships"
 category: 'general'
 description: Explore the Australian National University's Master of Science Communication program, focusing on portfolio development, science media internships, and pathways into science journalism. Discover how the ANU science media internship at Questacon and other institutions shapes professional science communicators for 2026 careers.
 author: cowork
 tags: ["science communication", "ANU scicomm", "science journalism", "portfolio development", "science media"]
 slug: anu-master-science-communication-portfolio-internships
-ogImage: 
+ogImage: ""
 ---
 
 The **Australian National University (ANU)** has established itself as a powerhouse in science communication education, with its Master of Science Communication program attracting students from across the globe. According to the **2026 QS World University Rankings by Subject**, ANU maintains its position among the top 30 universities worldwide for communication and media studies, while the **Australian Government's 2026 National Science Statement** identifies science communication as a critical skills gap in the workforce. Students enrolled in the **anu science communication master** program benefit from a carefully designed curriculum that balances theoretical foundations with intensive practical training, including the highly sought-after **anu science media internship** placements. The program's emphasis on building a professional-grade **anu scicomm portfolio** ensures graduates leave with tangible evidence of their capabilities, positioning them for success in museums, media organisations, research institutions, and digital content agencies.

@@ -2,7 +2,7 @@
 title: "ANU SAS Certification Exam Preparation: Statistical Methods Courses, Practice Datasets, and Exam Fee Subsidies"
 description: "澳大利亚国立大学（ANU）统计数据分析认证（SAS Certification）是该校统计学院与SAS Institute合作开设的专业资格认证项目。根据ANU统计学院2024年公布的数据，该项目自2020年启动以来，已有超过420名学生注册参加，其中约78%的考生在首次尝试中通过基础认证（SAS Certifi…"
 category: "ANU"
-pubDatetime: 2026-05-06T20:00:18Z
+pubDatetime: '2026-05-06T20:00:18Z'
 publishDate: '2026-05-06T20:00:18Z'
 readingTime: 3
 tags: ["featured"]

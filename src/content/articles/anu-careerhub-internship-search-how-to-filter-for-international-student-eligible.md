@@ -2,7 +2,7 @@
 title: "ANU CareerHub Internship Search: How to Filter for International Student-Eligible Roles and Set Up Job Alerts"
 description: "澳洲国立大学（ANU）CareerHub 是其官方职业发展平台，2024 年数据显示，该平台每年发布超过 8,000 个实习与毕业生岗位，其中约 35% 明确标注对国际学生开放（ANU Careers, 2024, *Annual Placement Report*）。对于 18-30 岁的 ANU 在读国际学生…"
 category: "ANU"
-pubDatetime: 2026-05-15T20:02:05Z
+pubDatetime: '2026-05-15T20:02:05Z'
 publishDate: '2026-05-15T20:02:05Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Residence Hall Application Deadlines and Waitlist Strategy: How to Improve Your Chances of Getting a Room"
 description: "澳洲国立大学（ANU）校内住宿申请竞争激烈，2024年第一学期，ANU Accommodation Services共收到超过7,200份住宿申请，而校内住宿容量仅为约6,000个床位，供需缺口达1,200个以上【ANU Accommodation Services, 2024, Annual Housing R…"
 category: "ANU"
-pubDatetime: 2026-04-17T19:56:50Z
+pubDatetime: '2026-04-17T19:56:50Z'
 publishDate: '2026-04-17T19:56:50Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 本科双学位项目组合推荐与学分规划"
 description: "澳洲国立大学（ANU）自 2000 年起实施本科生双学位（Flexible Double Degree, FDD）制度，允许学生在四年内同时完成两个学士学位，毕业时可获得两份独立学位证书。截至 2025 年，ANU 提供超过 60 个本科单学位项目，其组合形成的双学位路径超过 800 种。根据《Times Hig…"
 category: "ANU 本科双学位项目组"
-pubDatetime: 2026-03-02T19:47:30Z
+pubDatetime: '2026-03-02T19:47:30Z'
 publishDate: '2026-03-02T19:47:30Z'
 readingTime: 13
 tags: ["featured"]

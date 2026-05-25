@@ -2,7 +2,7 @@
 title: "ANU 校园无障碍设施分布图与特殊需求支持服务"
 description: "澳大利亚国立大学（ANU）主校区Acton校园的**无障碍设施**覆盖范围与**特殊需求支持服务**体系，在澳大利亚八校联盟（Go8）中属于最早一批通过《残疾人歧视法》（Disability Discrimination Act, DDA）合规审计的校园之一。根据ANU公平与多元包容办公室2023年发布的《校园无…"
 category: "ANU 校园无障碍设施分"
-pubDatetime: 2026-03-19T19:51:07Z
+pubDatetime: '2026-03-19T19:51:07Z'
 publishDate: '2026-03-19T19:51:07Z'
 readingTime: 11
 tags: ["featured"]

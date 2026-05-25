@@ -2,7 +2,7 @@
 title: "ANU College of Law Mooting Competitions: How to Watch a Grand Final, Join a Team, and Prepare Your Oral Submissions"
 description: "澳大利亚国立大学法学院（ANU College of Law）的模拟法庭竞赛（Mooting Competitions）是其法学教育的核心组成部分，每年吸引超过200名学生参与校内选拔。根据《澳大利亚法律教育评论》2023年的数据，参与模拟法庭竞赛的ANU法学院毕业生在毕业后6个月内的全职就业率达到92.3%，显…"
 category: "ANU"
-pubDatetime: 2026-05-09T20:01:03Z
+pubDatetime: '2026-05-09T20:01:03Z'
 publishDate: '2026-05-09T20:01:03Z'
 readingTime: 3
 tags: ["featured"]

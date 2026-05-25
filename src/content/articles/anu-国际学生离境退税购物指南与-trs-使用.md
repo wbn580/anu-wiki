@@ -2,7 +2,7 @@
 title: "ANU 国际学生离境退税购物指南与 TRS 使用"
 description: "澳大利亚税务局（ATO）管理的游客退税计划（TRS）允许离境旅客申请退还所购商品中包含的商品及服务税（GST）和葡萄酒平衡税（WET），税率为 10%。澳大利亚内政部 2024 年数据显示，澳大利亚国际学生总数超过 70 万人，其中中国学生约 16 万人，是最大的国际学生群体。对于即将毕业或假期回国的 ANU 国…"
 category: "ANU 国际学生离境退税"
-pubDatetime: 2026-04-06T19:54:38Z
+pubDatetime: '2026-04-06T19:54:38Z'
 publishDate: '2026-04-06T19:54:38Z'
 readingTime: 14
 tags: ["featured"]

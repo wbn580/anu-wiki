@@ -2,7 +2,7 @@
 title: "ANU 2025 年 QS 世界大学学科排名完整解读"
 description: "澳洲国立大学（ANU）在 2025 年 QS 世界大学学科排名中，共有 14 个学科位列全球前 50 名，其中 **人类学** 与 **哲学** 分别排名全球第 7 位和第 8 位，展现出该校在人文社科领域的持续优势。根据 QS 2025 年学科排名数据，ANU 在 **地球与海洋科学** 领域排名全球第 11 …"
 category: "ANU 2025 年 Q"
-pubDatetime: 2026-02-21T19:45:29Z
+pubDatetime: '2026-02-21T19:45:29Z'
 publishDate: '2026-02-21T19:45:29Z'
 readingTime: 10
 tags: ["featured"]

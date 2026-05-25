@@ -2,7 +2,7 @@
 title: "ANU Volunteering Opportunities for International Students: Organisations, Time Commitment, and How to Get a Reference Letter"
 description: "澳大利亚国立大学（ANU）在2024年QS世界大学排名中位列第34位，其校内志愿者项目（Volunteering & Community Engagement）每年为超过1,200名国际学生提供实践机会，涵盖从校内行政支持到堪培拉本地社区服务的多个领域。根据澳大利亚政府2023年《国际学生战略》报告，参与社区志愿…"
 category: "ANU"
-pubDatetime: 2026-05-02T19:59:39Z
+pubDatetime: '2026-05-02T19:59:39Z'
 publishDate: '2026-05-02T19:59:39Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Marine Science Fieldwork on the South Coast: Trip Schedule, Packing List, and Safety Waiver Signing Process"
 description: "澳大利亚国立大学（ANU）海洋科学课程每年组织多次南海岸（South Coast）野外实习，这是该校生物、环境及地球科学学院（Research School of Biology, RSB）本科与研究生培养方案中的核心实践环节。根据ANU官方《2024年野外工作手册》（Fieldwork Manual 2024）…"
 category: "ANU"
-pubDatetime: 2026-05-04T20:00:06Z
+pubDatetime: '2026-05-04T20:00:06Z'
 publishDate: '2026-05-04T20:00:06Z'
 readingTime: 3
 tags: ["featured"]

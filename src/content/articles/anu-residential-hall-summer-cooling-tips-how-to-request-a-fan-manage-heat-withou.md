@@ -2,7 +2,7 @@
 title: "ANU Residential Hall Summer Cooling Tips: How to Request a Fan, Manage Heat Without Air Conditioning, and Stay Hydrated"
 description: "澳洲国立大学（ANU）主校区所在的堪培拉在夏季（12月至2月）平均最高气温可达28.6°C，极端高温日（超过35°C）在2023-2024年夏季出现了14次【澳大利亚气象局（BOM），2024，年度气候报告】。然而，ANU 大部分本科生宿舍（如 Bruce Hall、Ursula Hall、Burgmann Co…"
 category: "ANU"
-pubDatetime: 2026-05-22T20:03:35Z
+pubDatetime: '2026-05-22T20:03:35Z'
 publishDate: '2026-05-22T20:03:35Z'
 readingTime: 3
 tags: ["featured"]

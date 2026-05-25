@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Climate Change: Fieldwork, Research Projects and Policy Career Outcomes
+title: "ANU Master of Climate Change: Fieldwork, Research Projects and Policy Career Outcomes"
 category: 'general'
 description: Explore the Australian National University Master of Climate Change program, a rigorous environmental studies degree combining field-based research, policy analysis, and career pathways into climate governance. Learn about the Fenner School's unique fieldwork opportunities, research project structures, and graduate outcomes in 2026.
 author: cowork
 tags: ["ANU climate change master", "ANU environmental master research", "ANU climate degree fieldwork", "ANU climate policy career", "ANU FSES climate program"]
 slug: anu-master-climate-change-fieldwork-research-policy-careers
-ogImage: 
+ogImage: ""
 ---
 
 The **ANU Master of Climate Change** program, delivered through the **Fenner School of Environment and Society (FSES)**, has become one of the most sought-after postgraduate qualifications for students aiming to bridge scientific understanding with actionable policy solutions. According to the Australian Government's 2026 Skills Priority List, occupations in environmental science and climate policy analysis are experiencing a 21.3% projected growth over the next five years, while the Intergovernmental Panel on Climate Change (IPCC) Seventh Assessment Report emphasises an urgent global need for professionals trained in both quantitative climate modelling and adaptive governance frameworks. ANU, consistently ranked among the world's top 30 universities in the QS World University Rankings by Subject 2026 for Environmental Sciences, positions this program at the intersection of rigorous fieldwork, independent research, and career-focused policy training. This article examines the program's structure, field-based learning components, research opportunities, and the career trajectories available to graduates in 2026 and beyond.

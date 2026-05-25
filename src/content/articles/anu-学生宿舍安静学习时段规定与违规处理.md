@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍安静学习时段规定与违规处理"
 description: "澳大利亚国立大学（ANU）校内住宿服务（ANU Accommodation）自2024年起正式实施修订版《宿舍行为准则》，其中对**安静学习时段（Quiet Study Hours）** 的规定与违规处理机制进行了标准化。根据ANU住宿服务2024年发布的《住宿手册》，全校17栋学生宿舍均执行统一的安静时段框架：…"
 category: "ANU 学生宿舍安静学习"
-pubDatetime: 2026-03-20T19:51:21Z
+pubDatetime: '2026-03-20T19:51:21Z'
 publishDate: '2026-03-20T19:51:21Z'
 readingTime: 17
 tags: ["featured"]

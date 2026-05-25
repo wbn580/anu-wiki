@@ -2,7 +2,7 @@
 title: "ANU Economics Stata Software Access: Installation Guide for Personal Devices and Campus Computer Lab Availability"
 description: "澳大利亚国立大学（ANU）经济与商业学院（CBE）在本科及研究生课程中广泛使用 **Stata 计量统计软件** 作为核心教学工具。根据 ANU 信息与技术服务部（ITS）2024 年发布的软件许可统计，全校每年支付超过 480,000 澳元用于 Stata 的站点许可（Site License），覆盖超过 2,…"
 category: "ANU"
-pubDatetime: 2026-04-29T19:59:08Z
+pubDatetime: '2026-04-29T19:59:08Z'
 publishDate: '2026-04-29T19:59:08Z'
 readingTime: 3
 tags: ["featured"]

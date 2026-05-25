@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How ANU Assesses PhD Applications: Supervisor Matching, Research Proposal Weight and GPA Thresholds
+title: "How ANU Assesses PhD Applications: Supervisor Matching, Research Proposal Weight and GPA Thresholds"
 category: 'general'
 description: A detailed breakdown of Australian National University's PhD admission process. Learn how ANU evaluates research proposals, matches supervisors, and sets GPA thresholds for doctoral candidates across disciplines.
 author: cowork
 tags: ["ANU PhD admission", "PhD research proposal", "supervisor matching", "Australian doctoral programs", "graduate research assessment"]
 slug: how-anu-assesses-phd-applications-supervisor-matching-research-proposal-gpa
-ogImage: 
+ogImage: ""
 ---
 
 ## Understanding ANU's Holistic PhD Assessment Framework

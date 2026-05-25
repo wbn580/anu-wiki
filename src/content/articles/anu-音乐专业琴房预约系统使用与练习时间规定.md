@@ -2,7 +2,7 @@
 title: "ANU 音乐专业琴房预约系统使用与练习时间规定"
 description: "澳大利亚国立大学（ANU）音乐专业的学生在使用校内琴房设施时，需遵循一套由ANU音乐学院与设施管理部门联合制定的预约与使用规定。该系统覆盖位于Acton校区Llewellyn Hall与Peter Karmel Building内的共计42间练习室，其中包含31间标准隔音琴房与11间配备施坦威或雅马哈三角钢琴的高…"
 category: "ANU 音乐专业琴房预约"
-pubDatetime: 2026-03-17T19:50:40Z
+pubDatetime: '2026-03-17T19:50:40Z'
 publishDate: '2026-03-17T19:50:40Z'
 readingTime: 14
 tags: ["featured"]

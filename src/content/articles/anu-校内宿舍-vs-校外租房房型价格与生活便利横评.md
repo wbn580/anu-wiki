@@ -2,7 +2,7 @@
 title: "ANU 校内宿舍 vs 校外租房：房型、价格与生活便利横评"
 description: "澳洲国立大学（ANU）2024 年校内宿舍容量约为 6,500 个床位，而同期本科生总数超过 10,000 人，住宿缺口持续存在【ANU Accommodation Services, 2024, ANU Annual Report】。根据澳大利亚统计局（ABS）2023 年数据，堪培拉独立住宅周租金中位数为 5…"
 category: "ANU 校内宿舍 vs "
-pubDatetime: 2026-02-23T19:45:49Z
+pubDatetime: '2026-02-23T19:45:49Z'
 publishDate: '2026-02-23T19:45:49Z'
 readingTime: 13
 tags: ["featured"]

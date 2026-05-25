@@ -2,7 +2,7 @@
 title: "ANU Residential Hall Roommate Matching: How to Fill Out the Lifestyle Questionnaire and Request a Room Transfer"
 description: "澳大利亚国立大学（ANU）为超过6,400名住校生提供校内住宿，其住宿分配系统通过一份名为“生活方式问卷”（Lifestyle Questionnaire）的标准化工具进行室友匹配。根据ANU住宿服务部门2024年发布的《住宿申请指南》，该问卷包含约20个问题，涵盖作息时间、清洁习惯、社交偏好与学习环境需求，系统…"
 category: "ANU"
-pubDatetime: 2026-04-29T19:59:00Z
+pubDatetime: '2026-04-29T19:59:00Z'
 publishDate: '2026-04-29T19:59:00Z'
 readingTime: 3
 tags: ["featured"]

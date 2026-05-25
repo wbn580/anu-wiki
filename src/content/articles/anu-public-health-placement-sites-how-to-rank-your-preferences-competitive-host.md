@@ -2,7 +2,7 @@
 title: "ANU Public Health Placement Sites: How to Rank Your Preferences, Competitive Host Organisations, and Remote Area Options"
 description: "澳大利亚国立大学（ANU）公共卫生硕士（MPH）及相关学位的学生，在课程中必须完成至少一个**专业实习（Placement）**。根据ANU健康与医学院2024年发布的《Master of Public Health Placement Handbook》，实习总时长通常为120至160小时，学生需通过校内系统“…"
 category: "ANU"
-pubDatetime: 2026-05-11T20:01:23Z
+pubDatetime: '2026-05-11T20:01:23Z'
 publishDate: '2026-05-11T20:01:23Z'
 readingTime: 3
 tags: ["featured"]

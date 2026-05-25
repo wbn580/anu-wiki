@@ -2,7 +2,7 @@
 title: "ANU Anthropology Fieldwork Funding: How to Apply for Research Grants, Track Expenses, and Submit Your Travel Report"
 description: "澳大利亚国立大学（ANU）为人类学专业学生提供多种实地考察（fieldwork）资助计划，2024-2025学年可申请的校内专项基金总额超过120万澳元，涵盖交通、住宿、翻译及设备租赁等开支。根据ANU人类学学院2024年发布的《田野研究资助指南》，每位硕士或博士研究生单次可申请最高8,000澳元的研究经费。随着…"
 category: "ANU"
-pubDatetime: 2026-05-02T19:59:38Z
+pubDatetime: '2026-05-02T19:59:38Z'
 publishDate: '2026-05-02T19:59:38Z'
 readingTime: 3
 tags: ["featured"]

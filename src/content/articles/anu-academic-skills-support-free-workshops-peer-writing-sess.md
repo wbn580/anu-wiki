@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Academic Skills Support: Free Workshops, Peer Writing Sessions, and Learning Advisers
+title: "ANU Academic Skills Support: Free Workshops, Peer Writing Sessions, and Learning Advisers"
 category: 'general'
 description: Discover how ANU academic skills workshops, peer writing sessions, and learning adviser appointments can transform your university experience. Explore free referencing help, study strategies, and personalised support available to all ANU students in 2026.
 author: cowork
 tags: ["ANU academic skills", "peer writing support", "learning adviser appointment", "referencing help free", "study skills Australia"]
 slug: anu-academic-skills-support-free-workshops-peer-writing-learning-advisers
-ogImage: 
+ogImage: ""
 ---
 
 Navigating university-level study demands more than just attending lectures and submitting assignments on time. For many students, the gap between secondary education expectations and tertiary academic rigour can feel overwhelming. According to the Australian Universities Student Satisfaction Survey 2025, 67% of first-year students identified academic writing and referencing as their most significant challenge, while 58% expressed a need for more structured study skills development. The Australian National University has responded with one of the most comprehensive, entirely free academic skills support ecosystems in the country. Whether you are an undergraduate grappling with your first research essay or a PhD candidate refining a thesis chapter, ANU offers layered assistance through **anu academic skills workshops**, **anu peer writing support**, and individual **anu learning adviser appointments**. In 2026, these services have expanded to include dedicated **anu referencing help free** of charge, ensuring every student can access expert guidance without financial barriers.

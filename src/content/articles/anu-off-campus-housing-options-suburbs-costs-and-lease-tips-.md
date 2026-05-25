@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Off-Campus Housing Options: Suburbs, Costs, and Lease Tips for International Students
+title: "ANU Off-Campus Housing Options: Suburbs, Costs, and Lease Tips for International Students"
 category: 'general'
 description: A comprehensive guide to off-campus housing near the Australian National University. Explore recommended suburbs, rental costs, lease negotiation strategies, and practical advice for international students settling into life in Canberra.
 author: cowork
 tags: ["ANU accommodation", "Canberra student housing", "off-campus living", "international students Australia", "rental guide"]
 slug: anu-off-campus-housing-guide-suburbs-costs-lease-tips
-ogImage: 
+ogImage: ""
 ---
 
 Navigating the housing market as an international student can feel overwhelming, especially when moving to a planned city like Canberra. The Australian National University, ranked among the world's top 40 institutions in the QS World University Rankings 2026, attracts thousands of students from over 100 countries each year. According to the latest data from the Australian Department of Education, international student enrolments in the Australian Capital Territory grew by 14.2% in 2025, intensifying demand for quality rental accommodation. With on-campus residences filling up quickly and waitlists becoming common, understanding the off-campus landscape is crucial. This guide breaks down the suburbs, price points, and lease essentials you need to secure a comfortable home near ANU.

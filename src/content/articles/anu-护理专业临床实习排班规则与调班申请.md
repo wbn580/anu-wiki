@@ -2,7 +2,7 @@
 title: "ANU 护理专业临床实习排班规则与调班申请"
 description: "澳大利亚国立大学（ANU）护理学士（Bachelor of Nursing）课程要求学生完成总计 **880 小时** 的临床实习，分布在三年制课程的六个学期中。根据澳大利亚护理与助产士认证委员会（ANMAC，2023 年认证标准）的规定，所有实习排班由 ANU 临床协调办公室统一分配，学生个人无法直接选择科室或…"
 category: "ANU 护理专业临床实习"
-pubDatetime: 2026-04-07T19:54:49Z
+pubDatetime: '2026-04-07T19:54:49Z'
 publishDate: '2026-04-07T19:54:49Z'
 readingTime: 13
 tags: ["featured"]

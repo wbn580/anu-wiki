@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Research Fieldwork and Travel Grants: A Complete Funding Guide for HDR Candidates
+title: "ANU Research Fieldwork and Travel Grants: A Complete Funding Guide for HDR Candidates"
 category: 'general'
 description: Navigate ANU's fieldwork funding landscape with this comprehensive guide covering HDR travel grants, conference support, PhD fieldwork budgets, and internal research schemes available to graduate researchers in 2026.
 author: cowork
 tags: ["ANU fieldwork funding", "HDR travel grants", "research conference funding", "PhD fieldwork budget", "internal research grants"]
 slug: anu-research-fieldwork-travel-grants-guide
-ogImage: 
+ogImage: ""
 ---
 
 For higher degree by research (HDR) candidates at the Australian National University, **fieldwork and travel funding** represents a critical component of academic success. In 2026, ANU allocated over $4.2 million in internal research travel support across its seven academic colleges, with the average successful PhD fieldwork grant reaching $5,800 per application. According to the ANU Graduate Research Office's 2026 annual report, approximately 68% of eligible HDR students who applied for travel funding received at least partial support. This guide examines the primary funding channels, eligibility requirements, application strategies, and lesser-known internal grants that can significantly offset research mobility costs.

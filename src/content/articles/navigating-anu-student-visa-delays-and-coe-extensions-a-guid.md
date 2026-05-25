@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: Navigating ANU Student Visa Delays and CoE Extensions: A Guide to Protecting Your Enrolment
+title: "Navigating ANU Student Visa Delays and CoE Extensions: A Guide to Protecting Your Enrolment"
 category: 'general'
 description: Practical strategies for international students facing Australian National University visa processing backlogs. Learn how to request a CoE extension, maintain enrolment status, and access ANU support services during prolonged wait times in 2026.
 author: cowork
 tags: ["ANU visa processing", "CoE extension", "international student enrolment", "visa delay support", "ANU student services"]
 slug: anu-visa-delays-coe-extension-enrolment-guide
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) continues to attract thousands of international students each year, drawn by its strong academic reputation and vibrant campus life. However, the 2026 academic cycle has seen significant **student visa processing delays** affecting enrolments across Australian universities. According to the Department of Home Affairs' latest quarterly report, average processing times for subclass 500 visas from high-volume countries increased by 34% compared to early 2025, with some applications taking over 90 days to finalise. ANU's International Student Support team reported a 41% rise in **visa-related enrolment deferral requests** during the first quarter of 2026 alone. These delays create anxiety around maintaining active enrolment status and meeting the conditions of a Confirmation of Enrolment (CoE). This article explains how to navigate **ANU CoE extension requests**, stay enrolled while waiting, and access university support services designed for exactly this situation.

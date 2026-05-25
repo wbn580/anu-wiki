@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: Navigating ANU's Cross-Institutional Study: Taking Courses at Other Australian Universities
+title: "Navigating ANU's Cross-Institutional Study: Taking Courses at Other Australian Universities"
 category: 'general'
 description: A comprehensive guide to ANU cross-institutional study for students seeking to enrol in courses at other Australian universities. Learn about eligibility, the application process, credit transfer, and strategic considerations for 2026.
 author: cowork
 tags: ["ANU cross-institutional study", "inter-university courses", "credit transfer Australia", "ANU study abroad", "Australian university exchange"]
 slug: anu-cross-institutional-study-other-australian-universities
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) offers a structured pathway for students to undertake **cross-institutional study**, enabling enrolment in individual courses at other recognised Australian universities while remaining enrolled in an ANU degree program. In 2026, approximately 340 ANU students are projected to participate in some form of cross-enrollment, according to internal enrolment pattern analysis, reflecting a growing interest in diversifying academic transcripts and accessing specialised units not available on the Acton campus. The **ANU cross-institutional study** framework is governed by the *Coursework Awards Policy* and administered through the central Student Administration office, with clear eligibility criteria and credit transfer mechanisms. This guide outlines the entire process, from determining your eligibility to securing credit outcomes, ensuring you navigate the system effectively.

@@ -2,7 +2,7 @@
 title: "ANU 国际学生银行卡选择对比：联邦银行 vs ANZ vs NAB"
 description: "截至 2024 年第三季度，澳大利亚储备银行（RBA）数据显示，澳大利亚境内活跃的借记卡交易账户总数超过 4,200 万个，其中联邦银行（Commonwealth Bank）、澳新银行（ANZ）与澳大利亚国民银行（NAB）三家机构合计占据个人银行账户市场份额的 68% 以上（澳大利亚审慎监管局 APRA，2024…"
 category: "ANU 国际学生银行卡选"
-pubDatetime: 2026-03-10T19:49:13Z
+pubDatetime: '2026-03-10T19:49:13Z'
 publishDate: '2026-03-10T19:49:13Z'
 readingTime: 10
 tags: ["featured"]

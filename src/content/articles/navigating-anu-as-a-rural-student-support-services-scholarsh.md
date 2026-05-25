@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: Navigating ANU as a Rural Student: Support Services, Scholarships, and Your Complete Relocation Guide
+title: "Navigating ANU as a Rural Student: Support Services, Scholarships, and Your Complete Relocation Guide"
 category: 'general'
 description: A comprehensive guide for rural and regional students transitioning to the Australian National University. Explore tailored support services, relocation assistance, dedicated scholarships, and mentoring programs designed to help country students thrive in Canberra.
 author: cowork
 tags: ["ANU rural student support", "ANU regional relocation guide", "ANU rural scholarship", "ANU country student services", "ANU remote area mentoring"]
 slug: anu-rural-regional-student-support-relocation-guide
-ogImage: 
+ogImage: ""
 ---
 
 Moving from a rural or regional community to a major university like the Australian National University represents a significant life transition. According to the Australian Government's 2026 Higher Education Statistics, students from regional and remote areas now comprise approximately 23% of total domestic enrolments across the Group of Eight universities, with ANU recording a steady 4.2% annual increase in rural student admissions since 2023. The university has responded by investing over $3.8 million in dedicated rural support infrastructure during the 2025-2026 academic cycle, reflecting a genuine institutional commitment to regional equity.

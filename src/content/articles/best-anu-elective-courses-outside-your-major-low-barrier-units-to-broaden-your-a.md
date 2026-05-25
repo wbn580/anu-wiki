@@ -2,7 +2,7 @@
 title: "Best ANU Elective Courses Outside Your Major: Low-Barrier Units to Broaden Your Academic Horizon"
 description: "澳大利亚国立大学（ANU）2024年本科学位课程中，约25%的学分来自专业主修以外的选修课（ANU Programs and Courses, 2024），这意味着一个标准三年制学士学位（144学分）中，学生可自主选择约36学分的跨学科课程。根据澳大利亚政府教育部2023年《高等教育学生数据》统计，超过62%的澳…"
 category: "Best"
-pubDatetime: 2026-04-13T19:56:01Z
+pubDatetime: '2026-04-13T19:56:01Z'
 publishDate: '2026-04-13T19:56:01Z'
 readingTime: 3
 tags: ["featured"]

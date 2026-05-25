@@ -2,7 +2,7 @@
 title: "ANU Best Outdoor Study Spots on Campus: Wi-Fi Signal Strength, Sun Coverage, and Proximity to Coffee"
 description: "澳大利亚国立大学（ANU）主校区占地约145公顷，位于堪培拉市中心以南的阿克顿区（Acton）。根据ANU信息技术服务部2023年发布的《校园Wi-Fi覆盖报告》，校园户外区域的Wi-Fi信号平均下载速度为47 Mbps，但不同地点差异可达30 Mbps以上。同时，澳大利亚气象局（Bureau of Meteor…"
 category: "ANU"
-pubDatetime: 2026-05-21T20:03:25Z
+pubDatetime: '2026-05-21T20:03:25Z'
 publishDate: '2026-05-21T20:03:25Z'
 readingTime: 3
 tags: ["featured"]

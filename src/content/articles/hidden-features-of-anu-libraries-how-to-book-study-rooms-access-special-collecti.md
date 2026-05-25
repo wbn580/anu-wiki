@@ -2,7 +2,7 @@
 title: "Hidden Features of ANU Libraries: How to Book Study Rooms, Access Special Collections, and Get Research Help"
 description: "澳大利亚国立大学（ANU）图书馆系统由9座实体分馆和多个数字平台构成，每年服务超过25,000名学生和5,000名教职员工【ANU Library Annual Report 2023】。根据2024年澳大利亚大学图书馆协会（CAUL）统计，ANU图书馆馆藏总量超过250万册实体文献和超过100万册电子书，是南半…"
 category: "Hidden"
-pubDatetime: 2026-04-10T19:55:28Z
+pubDatetime: '2026-04-10T19:55:28Z'
 publishDate: '2026-04-10T19:55:28Z'
 readingTime: 3
 tags: ["featured"]

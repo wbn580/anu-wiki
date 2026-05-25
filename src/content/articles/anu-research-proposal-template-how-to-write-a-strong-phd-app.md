@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Research Proposal Template: How to Write a Strong PhD Application Proposal
+title: "ANU Research Proposal Template: How to Write a Strong PhD Application Proposal"
 category: 'general'
 description: Master the ANU PhD research proposal with our comprehensive guide. Learn the essential structure, key components, and expert strategies to craft a compelling proposal for Australian National University's competitive doctoral programs in 2026.
 author: cowork
 tags: ["ANU PhD research proposal template", "ANU PhD application proposal", "how to write ANU research proposal", "ANU PhD research statement", "Australian National University PhD admission"]
 slug: anu-phd-research-proposal-template-guide
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University received over 3,200 PhD applications for its 2026 intake, with an acceptance rate hovering around 18%. Among the most critical determinants of success is the **ANU PhD research proposal**—a document that separates promising candidates from the rest. According to ANU's Graduate Research Office 2026 admission statistics, nearly 40% of rejections stem from proposals that fail to demonstrate methodological rigor or alignment with supervisory expertise.

@@ -2,7 +2,7 @@
 title: "ANU 教育专业实习安排流程与实习学校分配规则"
 description: "澳大利亚国立大学（ANU）教育学院的教育学士（Bachelor of Education）及教学硕士（Master of Teaching）课程均设有强制性的专业实习（Professional Experience）环节。根据澳大利亚教学与学校领导力研究所（AITSL）2019年发布的《专业经验指南》，实习总时长…"
 category: "ANU 教育专业实习安排"
-pubDatetime: 2026-03-06T19:48:22Z
+pubDatetime: '2026-03-06T19:48:22Z'
 publishDate: '2026-03-06T19:48:22Z'
 readingTime: 15
 tags: ["featured"]

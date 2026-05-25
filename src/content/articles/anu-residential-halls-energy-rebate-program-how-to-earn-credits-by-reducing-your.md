@@ -2,7 +2,7 @@
 title: "ANU Residential Halls Energy Rebate Program: How to Earn Credits by Reducing Your Electricity Usage During Peak Times"
 description: "澳大利亚国立大学（ANU）于2023年启动的**Residential Halls Energy Rebate Program**，是澳大利亚高校中首个将宿舍电费与需求侧响应（Demand Response）直接挂钩的试点项目。该项目由ANU能源变革研究所（Energy Change Institute）与Act…"
 category: "ANU"
-pubDatetime: 2026-05-18T20:02:46Z
+pubDatetime: '2026-05-18T20:02:46Z'
 publishDate: '2026-05-18T20:02:46Z'
 readingTime: 3
 tags: ["featured"]

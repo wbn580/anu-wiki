@@ -2,7 +2,7 @@
 title: "ANU School of Art and Design Portfolio Submission Guidelines: Format, File Size Limits, and Assessment Criteria"
 description: "澳大利亚国立大学（ANU）艺术与设计学院（School of Art and Design）的本科与研究生课程申请，通常要求提交一份作品集（Portfolio）作为核心评估材料。根据ANU官方2025年招生手册，作品集在录取决策中的权重约占60%至70%，其余部分由学术成绩和语言能力构成。对于2025年入学季，申…"
 category: "ANU"
-pubDatetime: 2026-04-22T19:57:46Z
+pubDatetime: '2026-04-22T19:57:46Z'
 publishDate: '2026-04-22T19:57:46Z'
 readingTime: 3
 tags: ["featured"]

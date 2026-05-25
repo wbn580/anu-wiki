@@ -2,7 +2,7 @@
 title: "ANU 国际学生跨文化适应工作坊内容与时间表"
 description: "澳大利亚国立大学（ANU）自2000年起为国际学生开设跨文化适应工作坊（Intercultural Adjustment Workshop），旨在帮助来自120多个国家、占全校总学生数约42%的国际学生群体（2023年ANU年度报告数据）应对文化冲击与学术融入挑战。根据澳大利亚教育部2024年发布的《国际学生体验…"
 category: "ANU 国际学生跨文化适"
-pubDatetime: 2026-03-24T19:52:00Z
+pubDatetime: '2026-03-24T19:52:00Z'
 publishDate: '2026-03-24T19:52:00Z'
 readingTime: 13
 tags: ["featured"]

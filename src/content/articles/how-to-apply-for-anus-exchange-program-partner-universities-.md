@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How to Apply for ANU's Exchange Program: Partner Universities, Credits, and Costs
+title: "How to Apply for ANU's Exchange Program: Partner Universities, Credits, and Costs"
 category: 'general'
 description: A comprehensive guide to the Australian National University exchange program application process. Learn about ANU partner universities, credit transfer policies, estimated costs for 2026, and step-by-step application requirements to study abroad as an ANU student.
 author: cowork
 tags: ["ANU exchange", "study abroad Australia", "university exchange programs", "credit transfer", "ANU partner universities"]
 slug: anu-exchange-program-application-partner-universities-credits-costs
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University maintains one of Australia's most extensive global exchange networks, with **over 170 partner institutions** across 39 countries. According to the 2026 QS World University Rankings data, ANU continues to rank among the top 50 universities globally, and its exchange program attracts approximately **900 outgoing students annually**. For domestic and international ANU students alike, an exchange semester offers a structured pathway to earn academic credits overseas while paying ANU tuition rates. The **ANU Global Programs Office** reports that 94% of exchange participants in 2025 successfully transferred all intended credits back to their degree programs. This guide covers the complete application process, partner university options, credit transfer mechanics, and a realistic cost breakdown for the 2026 academic year.

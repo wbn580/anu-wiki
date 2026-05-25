@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How to Request an ANU Leave of Absence for International Students: Step-by-Step Guide
+title: "How to Request an ANU Leave of Absence for International Students: Step-by-Step Guide"
 category: 'general'
 description: A comprehensive, step-by-step guide for international students at the Australian National University on how to apply for a leave of absence. Covers program leave, student visa implications, enrollment suspension, and key deadlines for 2026.
 author: cowork
 tags: []
 slug: anu-leave-of-absence-international-students-guide
-ogImage: 
+ogImage: ""
 ---
 
 Navigating university life as an international student comes with a unique set of challenges and opportunities. Sometimes, unforeseen circumstances or strategic personal decisions mean you need to press pause on your studies. At the Australian National University, this is formally known as taking a **Program Leave**, or a leave of absence. According to the Australian Government's Department of Education, over 18% of international students consider taking a break during their degree for reasons ranging from health to career opportunities. In 2026, ANU updated its student leave policies to provide clearer pathways, but the process remains a critical intersection of university administration and Australian immigration law.

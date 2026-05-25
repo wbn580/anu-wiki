@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Research Proposal Writing: Formatting, Ethics Approval, and Supervisor Feedback Loops
+title: "ANU Research Proposal Writing: Formatting, Ethics Approval, and Supervisor Feedback Loops"
 category: 'general'
 description: A comprehensive guide to crafting a compelling research proposal at the Australian National University. Learn the official ANU research proposal format, navigate the ethics approval process for 2026, and establish effective feedback loops with your ANU HDR supervisor.
 author: cowork
 tags: ['ANU research proposal', 'HDR application', 'ethics approval', 'supervisor feedback', 'academic writing']
 slug: anu-research-proposal-guide
-ogImage: 
+ogImage: ""
 ---
 
 ANU receives over 3,000 HDR applications annually, and the Graduate Research Office reports that approximately 40% of initial proposals require significant revision before departmental endorsement in 2026. A well-structured **ANU research proposal** does more than outline a project—it demonstrates your capacity to contribute original knowledge under the ANU research environment. This guide walks you through the formatting standards, ethics clearance pathways, and supervisor engagement strategies that distinguish successful applications.

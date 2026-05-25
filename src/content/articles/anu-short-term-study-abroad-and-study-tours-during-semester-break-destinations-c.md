@@ -2,7 +2,7 @@
 title: "ANU Short-Term Study Abroad and Study Tours During Semester Break: Destinations, Credit Options, and Cost Breakdown"
 description: "澳洲国立大学（ANU）的短期海外学习项目（Short-Term Study Abroad）与假期研学团（Study Tours）为在校学生提供在学期或暑假期间前往海外合作院校进行 **2 至 6 周** 学术交流与实地考察的机会。根据 ANU 全球项目办公室 2024 年发布的《短期项目手册》，该校每年运营约 *…"
 category: "ANU"
-pubDatetime: 2026-05-16T20:02:21Z
+pubDatetime: '2026-05-16T20:02:21Z'
 publishDate: '2026-05-16T20:02:21Z'
 readingTime: 3
 tags: ["featured"]

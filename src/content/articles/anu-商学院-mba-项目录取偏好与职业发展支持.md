@@ -2,7 +2,7 @@
 title: "ANU 商学院 MBA 项目录取偏好与职业发展支持"
 description: "澳大利亚国立大学（ANU）商学院的全日制工商管理硕士（MBA）项目，在2024年《金融时报》全球MBA排名中位列第85位，是澳大利亚唯一进入前100名的公立大学MBA项目。该项目以**小班制精英教学**和**高比例国际生构成**为显著特征，根据ANU官方2023年招生数据，其MBA项目每年招收约120名学生，其中…"
 category: "ANU 商学院 MBA "
-pubDatetime: 2026-02-25T19:46:17Z
+pubDatetime: '2026-02-25T19:46:17Z'
 publishDate: '2026-02-25T19:46:17Z'
 readingTime: 11
 tags: ["featured"]

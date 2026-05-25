@@ -2,7 +2,7 @@
 title: "ANU 国际学生课程退选截止日期与费用返还政策"
 description: "澳大利亚国立大学（ANU）针对国际学生的课程退选（Withdrawal）截止日期与费用返还政策，是留学生在每学期管理学业注册时必须掌握的核心制度。根据澳大利亚教育部《2023年海外学生教育服务法案》（ESOS Act 2000）规定，国际学生在课程退选后的学费返还比例与退选时间点严格挂钩，逾期退选不仅可能导致零返…"
 category: "ANU 国际学生课程退选"
-pubDatetime: 2026-03-21T19:51:35Z
+pubDatetime: '2026-03-21T19:51:35Z'
 publishDate: '2026-03-21T19:51:35Z'
 readingTime: 17
 tags: ["featured"]

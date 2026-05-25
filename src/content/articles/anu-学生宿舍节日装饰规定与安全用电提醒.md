@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍节日装饰规定与安全用电提醒"
 description: "澳大利亚国立大学（ANU）作为全澳排名第一的高等学府（QS 2025 排名第 30 位），其校内住宿体系管理着超过 6,000 名学生（ANU Accommodation 2024 年度报告）。每逢年末节庆季，学生宿舍内装饰与用电安全问题成为校方与住户的共同关注焦点。根据 ANU 住宿服务与澳大利亚首都领地（AC…"
 category: "ANU 学生宿舍节日装饰"
-pubDatetime: 2026-03-27T19:52:45Z
+pubDatetime: '2026-03-27T19:52:45Z'
 publishDate: '2026-03-27T19:52:45Z'
 readingTime: 12
 tags: ["featured"]

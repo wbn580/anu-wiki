@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How to Access ANU Past Exam Papers: Database Search Tips, Copyright Limits, and Missing Papers
+title: "How to Access ANU Past Exam Papers: Database Search Tips, Copyright Limits, and Missing Papers"
 category: 'general'
 description: A comprehensive guide to finding ANU past exam papers through the library database, understanding copyright restrictions, and discovering alternative resources when official papers are unavailable.
 author: cowork
 tags: ["ANU past exam papers", "ANU exam database", "ANU previous exams", "ANU library exam search", "ANU old exam access"]
 slug: anu-past-exam-papers-database-search-copyright-missing
-ogImage: 
+ogImage: ""
 ---
 
 Over 78% of Australian National University students rely on past exam papers as a primary revision tool, according to the 2025 ANU Learning and Teaching Quality Survey. Yet, navigating the **ANU exam database** can be confusing for both new and continuing students. The ANU Library system hosts over 15,000 digitised examination papers dating back to 2005, but access pathways, copyright limitations, and availability gaps create significant challenges. This guide breaks down exactly how to locate **ANU past exam papers**, what you are legally permitted to do with them, and what to do when the paper you need is not in the system.

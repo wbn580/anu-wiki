@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Psychology Honours Entry Requirements: GPA Cutoffs, Research Experience Weighting and Referee Choice Strategy
+title: "ANU Psychology Honours Entry Requirements: GPA Cutoffs, Research Experience Weighting and Referee Choice Strategy"
 category: 'general'
 description: A comprehensive guide to ANU psychology honours admission requirements, including GPA thresholds for 2026, how research experience is weighted, and strategic referee selection to strengthen your application.
 author: cowork
 tags: []
 slug: anu-psychology-honours-entry-requirements-gpa-research-referee
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) psychology honours program—formally the Bachelor of Psychology (Honours) or the standalone Honours year in Psychology—is one of the most competitive fourth-year pathways in Australia. With an annual intake of approximately 60 places and a typical applicant pool exceeding 250, securing a position demands more than meeting minimum entry thresholds. In 2026, ANU has refined its **psychology honours entry requirements**, placing greater emphasis on **research experience weighting** and the strategic selection of referees. This article unpacks the GPA cutoffs that actually matter, how the admissions committee evaluates your research background, and the referee strategy that can meaningfully influence your outcome.

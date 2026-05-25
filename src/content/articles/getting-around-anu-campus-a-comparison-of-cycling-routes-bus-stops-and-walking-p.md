@@ -2,7 +2,7 @@
 title: "Getting Around ANU Campus: A Comparison of Cycling Routes, Bus Stops, and Walking Paths, Including Rainy Day Shortcuts"
 description: "澳大利亚国立大学（ANU）主校区位于堪培拉阿克顿（Acton）区，占地约145公顷，是澳大利亚面积最大的单一校区之一。根据ANU 2023年《校园交通与出行报告》（ANU Campus Transport and Mobility Report 2023），校内每天约有14,000次步行出行、2,300次自行车出…"
 category: "Getting"
-pubDatetime: 2026-04-23T19:58:07Z
+pubDatetime: '2026-04-23T19:58:07Z'
 publishDate: '2026-04-23T19:58:07Z'
 readingTime: 3
 tags: ["featured"]

@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: ANU College of Law Clinical Legal Education: Hands-On Experience in Community Lawyering
+title: "ANU College of Law Clinical Legal Education: Hands-On Experience in Community Lawyering"
 category: 'general'
 description: Explore ANU clinical legal education programs that blend rigorous academic training with real-world practice. Through the ANU Law Clinic, students gain hands-on experience in community lawyering while providing essential pro bono services. Discover how this practical legal training shapes the next generation of socially responsible lawyers in Australia's top-ranked law school.
 author: 留学领域资深编辑

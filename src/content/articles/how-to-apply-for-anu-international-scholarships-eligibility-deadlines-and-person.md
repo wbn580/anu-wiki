@@ -2,7 +2,7 @@
 title: "How to Apply for ANU International Scholarships: Eligibility, Deadlines, and Personal Statement Tips"
 description: "澳大利亚国立大学（ANU）在2025年QS世界大学排名中位列第30位，是澳大利亚唯一一所由联邦议会立法设立的国立大学。对于国际学生而言，该校提供的奖学金体系覆盖学费减免、生活津贴及研究支持等多个维度，2024年ANU国际学生奖学金总额超过1,200万澳元【ANU, 2024, Scholarships Annua…"
 category: "How"
-pubDatetime: 2026-04-09T19:55:07Z
+pubDatetime: '2026-04-09T19:55:07Z'
 publishDate: '2026-04-09T19:55:07Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 国际学生学术会议差旅资助申请条件"
 description: "澳大利亚国立大学（ANU）为支持在校国际学生参与国际学术交流，设立了专门的**学术会议差旅资助**项目。该项目由 ANU 研究生研究办公室（Dean's Office, Higher Degree Research）统一管理，2024-2025 财年预算总额约为 180 万澳元，覆盖约 1,200 人次申请【AN…"
 category: "ANU 国际学生学术会议"
-pubDatetime: 2026-03-22T19:51:39Z
+pubDatetime: '2026-03-22T19:51:39Z'
 publishDate: '2026-03-22T19:51:39Z'
 readingTime: 12
 tags: ["featured"]

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
 title: A Complete Guide to ANU Census Dates and How They Affect Your Enrolment
 category: 'general'

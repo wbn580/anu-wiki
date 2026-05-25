@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Joint and Dual Degree Options: Combining Bachelor Programs Across Colleges
+title: "ANU Joint and Dual Degree Options: Combining Bachelor Programs Across Colleges"
 category: 'general'
 description: Explore ANU flexible double degree structures, joint degree international workload planning, and bachelor dual program combinations across colleges. Learn how to design a cross-disciplinary academic pathway that aligns with your career goals while managing study intensity and global opportunities.
 author: cowork
 tags: ["anu double degree combinations", "anu flexible double degree structure", "anu joint degree international workload", "anu bachelor dual program", "Australian National University degrees"]
 slug: anu-joint-dual-degree-options-combining-bachelor-programs
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University continues to strengthen its position as a leading destination for students seeking academic breadth. In 2026, ANU enrolled over 22,000 students across its seven academic colleges, with approximately 18 percent of undergraduates now pursuing some form of combined or dual program pathway. The demand for **anu double degree combinations** has grown steadily, reflecting a global shift toward interdisciplinary expertise. According to the 2026 QS World University Rankings by Subject, ANU placed in the top 50 globally across 26 disciplines, making its cross-college offerings particularly compelling for students who want to blend seemingly unrelated fields into a coherent academic plan. Understanding how the **anu flexible double degree structure** works, what the **anu joint degree international workload** entails, and which **anu bachelor dual program** options suit your goals requires careful navigation of the university’s unique academic architecture.

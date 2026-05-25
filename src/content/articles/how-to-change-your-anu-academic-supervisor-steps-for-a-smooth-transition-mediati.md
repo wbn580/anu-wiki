@@ -2,7 +2,7 @@
 title: "How to Change Your ANU Academic Supervisor: Steps for a Smooth Transition, Mediation Resources, and Paperwork Required"
 description: "The Australian National University (ANU) recorded 2,594 higher-degree research (HDR) students in 2023, a cohort in which the student-to-supervisor relationsh…"
 category: "How"
-pubDatetime: 2026-05-14T20:02:01Z
+pubDatetime: '2026-05-14T20:02:01Z'
 publishDate: '2026-05-14T20:02:01Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Residential Hall Decoration Rules for Holidays: Fire-Safe Materials, Wall Damage Prevention, and Electrical Safety"
 description: "澳大利亚国立大学（ANU）校内宿舍在假期期间的装饰管理，是保障居住安全与维护建筑完整性的关键环节。根据ANU住宿服务处（ANU Accommodation Services, 2024）发布的《居民手册》，宿舍内所有装饰物必须采用**阻燃等级**达到AS 1530.3标准的材料，该标准由澳大利亚标准协会（Stan…"
 category: "ANU"
-pubDatetime: 2026-05-11T20:01:28Z
+pubDatetime: '2026-05-11T20:01:28Z'
 publishDate: '2026-05-11T20:01:28Z'
 readingTime: 3
 tags: ["featured"]

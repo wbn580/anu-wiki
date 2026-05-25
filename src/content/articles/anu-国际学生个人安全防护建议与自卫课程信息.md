@@ -2,7 +2,7 @@
 title: "ANU 国际学生个人安全防护建议与自卫课程信息"
 description: "根据澳大利亚教育、技能与就业部（Department of Education, Skills and Employment）2023 年发布的《国际学生数据报告》，2023 年在澳大利亚注册的国际学生总数超过 725,000 人，其中澳大利亚国立大学（ANU）所在的堪培拉地区接收了约 16,000 名国际学生。…"
 category: "ANU 国际学生个人安全"
-pubDatetime: 2026-03-24T19:52:13Z
+pubDatetime: '2026-03-24T19:52:13Z'
 publishDate: '2026-03-24T19:52:13Z'
 readingTime: 15
 tags: ["featured"]

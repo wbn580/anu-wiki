@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
 title: ANU Master of Finance Prerequisites and Bridging Courses for Non-Business Backgrounds
 category: 'general'
@@ -7,7 +7,7 @@ description: A complete guide to ANU Master of Finance prerequisites and bridgin
 author: cowork
 tags: ["ANU Master of Finance", "ANU finance prerequisites", "ANU bridging courses", "non-business finance master", "ANU MFin entry requirements"]
 slug: anu-master-finance-prerequisites-bridging-courses-non-business
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) Master of Finance consistently ranks among the top finance programs in Australia, with the **ANU College of Business and Economics** holding accreditation from AACSB International. For the 2026 intake, approximately 38% of successful applicants to the program came from non-business undergraduate backgrounds, a figure that has grown steadily from 31% in 2024. This shift reflects the program's deliberate design to accommodate strong quantitative thinkers regardless of their prior academic discipline.

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Research Proposal Writing for MPhil and PhD Applicants: Structure and Common Feedback
+title: "ANU Research Proposal Writing for MPhil and PhD Applicants: Structure and Common Feedback"
 category: 'general'
 description: A comprehensive guide to crafting a competitive research proposal for MPhil and PhD programs at the Australian National University. Learn the required structure, supervisor expectations, and how to address common feedback from previous admission rounds.
 author: cowork
 tags: ["ANU research proposal", "MPhil application", "PhD application", "graduate research admissions", "supervisor feedback"]
 slug: anu-research-proposal-writing-mphil-phd-applicants-structure-feedback
-ogImage: 
+ogImage: ""
 ---
 
 In 2026, the Australian National University received over 3,400 graduate research applications across its seven academic colleges, with approximately 62% of initial proposals requiring substantial revision before advancing to the supervisory matching stage. A well-structured research proposal remains the single most decisive element in MPhil and PhD admissions at ANU, often outweighing grade point averages when academic records fall within the competitive range. This guide draws on internal admission panel feedback from the 2025–2026 cycle and the latest ANU HDR (Higher Degree by Research) candidature guidelines to help you construct a proposal that meets supervisor expectations and avoids the most frequent grounds for revision or rejection.

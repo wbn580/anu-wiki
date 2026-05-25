@@ -2,7 +2,7 @@
 title: "ANU Computer Science Course Difficulty Tiers: A Practical Guide to Sequencing Your Units Without Overloading"
 description: "澳大利亚国立大学（ANU）计算机科学本科课程共包含 144 个学分，其中必修课占 48 学分，选修课占 96 学分，课程难度被学生社群和学术指南划分为五个明确层级。根据 2024 年 QS 世界大学学科排名，ANU 计算机科学与信息系统位列全球第 56 位，其课程设计以理论深度和数学严谨性著称，尤其在算法与形式语…"
 category: "ANU"
-pubDatetime: 2026-04-11T19:55:33Z
+pubDatetime: '2026-04-11T19:55:33Z'
 publishDate: '2026-04-11T19:55:33Z'
 readingTime: 3
 tags: ["featured"]

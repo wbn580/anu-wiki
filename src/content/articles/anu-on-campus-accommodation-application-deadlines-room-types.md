@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU On-Campus Accommodation Application: Deadlines, Room Types & Preference Strategies for 2026
+title: "ANU On-Campus Accommodation Application: Deadlines, Room Types & Preference Strategies for 2026"
 category: 'general'
 description: Navigate the Australian National University on-campus housing application process with our detailed guide covering 2026 deadlines, room type preferences, and step-by-step submission strategies. Learn how to secure your place in ANU residential halls with data-driven insights.
 author: cowork
 tags: ["ANU accommodation", "on-campus housing", "Australian National University", "student residence application", "2026 academic year"]
 slug: anu-on-campus-accommodation-application-2026
-ogImage: 
+ogImage: ""
 ---
 
 Applying for on-campus accommodation at the Australian National University is one of the most critical steps in your pre-arrival planning. With **ANU residential halls consistently reaching full capacity by mid-January 2026**, understanding the application timeline and preference system becomes essential. According to ANU's Accommodation Services 2026 projection, the university received over **4,200 applications for approximately 2,800 on-campus beds** in the previous cycle, creating a competitive environment where strategic preference selection directly influences placement outcomes. This guide breaks down every component of the **anu accommodation application** process, from key dates to room category nuances.

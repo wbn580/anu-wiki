@@ -2,7 +2,7 @@
 title: "ANU Bachelor Degree Graduation Requirements: Credit Points, Internships, and Honours Classification Rules"
 description: "澳洲国立大学（ANU）的学士学位毕业要求由**学分（Credit Points）**、**实习（Internships）** 和**荣誉学位（Honours）** 分类规则三部分构成。根据ANU 2024年《课程与评估政策》（Curriculum and Assessment Policy），所有学士学位课程需完…"
 category: "ANU"
-pubDatetime: 2026-04-08T19:55:06Z
+pubDatetime: '2026-04-08T19:55:06Z'
 publishDate: '2026-04-08T19:55:06Z'
 readingTime: 3
 tags: ["featured"]

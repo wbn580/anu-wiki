@@ -2,7 +2,7 @@
 title: "ANU 休学申请流程：条件、材料与对签证的影响"
 description: "澳大利亚国立大学（ANU）每年约有 3% 至 5% 的本科生申请休学（Leave of Absence），根据澳大利亚教育部 2023 年《国际学生数据报告》（Department of Education, International Student Data 2023），2022 年全澳高校国际学生休学申请总…"
 category: "ANU 休学申请流程：条"
-pubDatetime: 2026-02-25T19:46:34Z
+pubDatetime: '2026-02-25T19:46:34Z'
 publishDate: '2026-02-25T19:46:34Z'
 readingTime: 12
 tags: ["featured"]

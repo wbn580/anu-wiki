@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Student Visa Compliance: Work Limits, Enrolment Conditions, and Reporting Obligations
+title: "ANU Student Visa Compliance: Work Limits, Enrolment Conditions, and Reporting Obligations"
 category: 'general'
 description: A comprehensive guide to maintaining your ANU student visa status, covering permitted work hours during academic terms, enrolment conditions you must meet, leave of absence risks, and CoE cancellation reporting obligations under Australian immigration law.
 author: cowork
 tags: ["ANU", "student visa", "visa compliance", "work limits", "enrolment conditions", "CoE cancellation", "Australia immigration"]
 slug: anu-student-visa-compliance-work-limits-enrolment-reporting
-ogImage: 
+ogImage: ""
 ---
 
 As an international student at The Australian National University, your visa is not merely a travel document—it is a legal contract with the Australian Government. According to the Department of Home Affairs 2026 Student Visa Integrity Report, **over 2,400 student visas were cancelled nationally in the first quarter of 2026 due to work hour breaches, enrolment failures, or non-reporting of course changes**. At ANU specifically, the International Student Compliance Unit recorded 187 visa condition investigations between January and April 2026. Understanding your obligations under **Visa Condition 8104, 8105, 8202, and 8533** is essential to protecting your academic future and migration pathway. This guide unpacks exactly what ANU expects, what the Department enforces, and how to navigate complex situations without inadvertently breaching your visa.

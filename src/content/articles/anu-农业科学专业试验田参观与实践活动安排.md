@@ -2,7 +2,7 @@
 title: "ANU 农业科学专业试验田参观与实践活动安排"
 description: "澳大利亚国立大学（ANU）农业科学专业的试验田体系是该校农业、食品与葡萄酒学院（School of Agriculture, Food and Wine）核心教学设施的一部分，总面积约 **50 公顷**，分布在 Acton 主校区和 Ginninderra 实验站两处地点。根据 ANU 2023 年官方课程手册…"
 category: "ANU 农业科学专业试验"
-pubDatetime: 2026-04-03T19:54:05Z
+pubDatetime: '2026-04-03T19:54:05Z'
 publishDate: '2026-04-03T19:54:05Z'
 readingTime: 17
 tags: ["featured"]

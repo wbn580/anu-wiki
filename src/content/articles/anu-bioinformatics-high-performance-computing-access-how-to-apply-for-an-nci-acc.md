@@ -2,7 +2,7 @@
 title: "ANU Bioinformatics High-Performance Computing Access: How to Apply for an NCI Account and Use the Gadi Supercomputer"
 description: "澳大利亚国立大学（ANU）是澳大利亚唯一一所通过国家计算基础设施（NCI）为全校师生提供直接访问超级计算机Gadi权限的高等教育机构。截至2024年，NCI的Gadi系统拥有超过3,000个计算节点，理论峰值性能达到9.3 petaflops，位列澳大利亚学术计算设施前三【NCI, 2024, 'Gadi Sys…"
 category: "ANU"
-pubDatetime: 2026-05-09T20:01:05Z
+pubDatetime: '2026-05-09T20:01:05Z'
 publishDate: '2026-05-09T20:01:05Z'
 readingTime: 3
 tags: ["featured"]

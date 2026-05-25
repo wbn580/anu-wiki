@@ -2,7 +2,7 @@
 title: "How to Lodge a Formal Academic Grievance at ANU: Procedures for Grade Disputes, Discrimination, and Unfair Treatment"
 description: "澳大利亚国立大学（ANU）在2024年共受理了约420起正式学生申诉，其中约35%与成绩评定相关，15%涉及歧视或不当对待指控（ANU学生事务处，2024年度报告）。对于在ANU就读的18至30岁学生而言，了解正式学术申诉的完整流程——从非正式沟通到独立审查——是维护自身学术权益的关键。本文依据ANU官方政策与澳…"
 category: "How"
-pubDatetime: 2026-05-01T19:59:29Z
+pubDatetime: '2026-05-01T19:59:29Z'
 publishDate: '2026-05-01T19:59:29Z'
 readingTime: 3
 tags: ["featured"]

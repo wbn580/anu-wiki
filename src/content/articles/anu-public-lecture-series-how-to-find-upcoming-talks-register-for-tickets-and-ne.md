@@ -2,7 +2,7 @@
 title: "ANU Public Lecture Series: How to Find Upcoming Talks, Register for Tickets, and Network with Visiting Scholars"
 description: "澳洲国立大学（ANU）每年通过其七个学院及二十余个研究中心举办超过 400 场公开讲座（Public Lectures），涵盖从气候变化政策到量子计算前沿的广泛学科。根据 ANU 官方活动日历的数据，2023 年该校公开讲座的现场出席人数累计超过 35,000 人次，线上直播观看量则达到 62,000 次【ANU…"
 category: "ANU"
-pubDatetime: 2026-04-21T19:57:41Z
+pubDatetime: '2026-04-21T19:57:41Z'
 publishDate: '2026-04-21T19:57:41Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 校园自动体外除颤器分布位置与急救培训"
 description: "澳大利亚国立大学（ANU）校园内共部署了 **57 台自动体外除颤器**（AED），覆盖 Acton 主校区及附属设施，平均每 0.03 平方公里即有一台设备可用。根据澳大利亚心脏基金会（Heart Foundation, 2023）数据，心脏骤停发生后每延迟 1 分钟除颤，患者存活率下降 7—10%，而校园 A…"
 category: "ANU 校园自动体外除颤"
-pubDatetime: 2026-03-30T19:53:11Z
+pubDatetime: '2026-03-30T19:53:11Z'
 publishDate: '2026-03-30T19:53:11Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 国际学生社团创立流程与经费申请指南"
 description: "澳大利亚国立大学（ANU）目前拥有超过 200 个注册学生社团，其中约 30% 由国际学生创立或主导运营（ANU Student Life, 2023）。根据澳大利亚教育、技能与就业部（DESE, 2022）的《国际学生数据年度报告》，ANU 的国际学生占比达 44.8%，这意味着校园内存在大量未被满足的文化、学…"
 category: "ANU 国际学生社团创立"
-pubDatetime: 2026-04-06T19:54:46Z
+pubDatetime: '2026-04-06T19:54:46Z'
 publishDate: '2026-04-06T19:54:46Z'
 readingTime: 12
 tags: ["featured"]

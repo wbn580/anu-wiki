@@ -2,7 +2,7 @@
 title: "ANU Flexible Double Degree Combinations: How to Plan Your Study Plan to Maximise Credit Overlaps and Career Options"
 description: "澳大利亚国立大学（ANU）自2020年起实施灵活双学位（Flexible Double Degree, FDD）框架，允许学生在入学时或就读期间从超过40个本科学位中自由组合两个学位，形成个性化学习路径。根据ANU官方2024年招生数据，FDD学生平均可在4年（8个学期）内完成两个学士学位，比传统单学位路径节省1…"
 category: "ANU"
-pubDatetime: 2026-04-16T19:56:43Z
+pubDatetime: '2026-04-16T19:56:43Z'
 publishDate: '2026-04-16T19:56:43Z'
 readingTime: 3
 tags: ["featured"]

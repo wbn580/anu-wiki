@@ -2,7 +2,7 @@
 title: "What Happens If You Breach Your Student Visa Conditions While at ANU: Consequences, Reporting Obligations, and Legal Advice"
 description: "A breach of an Australian student visa (subclass 500) while enrolled at the Australian National University (ANU) carries specific legal consequences defined …"
 category: "What"
-pubDatetime: 2026-05-19T20:03:01Z
+pubDatetime: '2026-05-19T20:03:01Z'
 publishDate: '2026-05-19T20:03:01Z'
 readingTime: 8
 tags: ["featured"]

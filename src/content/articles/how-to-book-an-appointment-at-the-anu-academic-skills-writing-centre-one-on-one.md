@@ -2,7 +2,7 @@
 title: "How to Book an Appointment at the ANU Academic Skills Writing Centre: One-on-One Feedback and Thesis Editing Services"
 description: "澳大利亚国立大学（ANU）学术技能写作中心（Academic Skills Writing Centre）为在读学生提供免费的一对一写作反馈与论文编辑辅导服务。根据ANU官方2024年数据，该中心每学期平均处理超过3,000次预约，其中约65%的预约来自研究生（包括 coursework 和 research 学…"
 category: "How"
-pubDatetime: 2026-04-24T19:58:12Z
+pubDatetime: '2026-04-24T19:58:12Z'
 publishDate: '2026-04-24T19:58:12Z'
 readingTime: 3
 tags: ["featured"]

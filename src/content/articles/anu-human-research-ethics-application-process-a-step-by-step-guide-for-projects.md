@@ -2,7 +2,7 @@
 title: "ANU Human Research Ethics Application Process: A Step-by-Step Guide for Projects Involving Surveys and Interviews"
 description: "澳大利亚国立大学（ANU）所有涉及人类参与者的研究项目，包括使用调查问卷和访谈的方法，必须在数据收集前获得人类研究伦理委员会（HREC）的批准。根据ANU研究服务部门2024年发布的《人类研究伦理政策》，任何涉及“与人类参与者互动或收集其个人/敏感信息”的项目均需提交伦理申请。2023年，ANU共受理了超过1,2…"
 category: "ANU"
-pubDatetime: 2026-04-18T19:57:01Z
+pubDatetime: '2026-04-18T19:57:01Z'
 publishDate: '2026-04-18T19:57:01Z'
 readingTime: 3
 tags: ["featured"]

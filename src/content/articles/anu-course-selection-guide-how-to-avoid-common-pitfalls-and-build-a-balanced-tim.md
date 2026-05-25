@@ -2,7 +2,7 @@
 title: "ANU Course Selection Guide: How to Avoid Common Pitfalls and Build a Balanced Timetable Based on Student Reviews"
 description: "澳大利亚国立大学（ANU）在 2025 年 QS 世界大学排名中位列第 30 位，其课程体系以高学术标准和灵活选课结构著称。然而，根据 2024 年澳大利亚大学教学质量指标（QILT）学生体验调查，约 27% 的 ANU 本科生在选课时遇到过课程冲突或前置条件不满足的问题。这一数据表明，系统化的选课规划对于避免常…"
 category: "ANU"
-pubDatetime: 2026-04-10T19:55:25Z
+pubDatetime: '2026-04-10T19:55:25Z'
 publishDate: '2026-04-10T19:55:25Z'
 readingTime: 3
 tags: ["featured"]

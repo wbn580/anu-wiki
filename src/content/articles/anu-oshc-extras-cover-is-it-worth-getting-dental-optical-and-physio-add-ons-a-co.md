@@ -2,7 +2,7 @@
 title: "ANU OSHC Extras Cover: Is It Worth Getting Dental, Optical, and Physio Add-Ons? A Cost-Benefit Analysis for Students"
 description: "澳大利亚国立大学（ANU）要求所有国际学生在学生签证（Subclass 500）持有期间购买海外学生健康保险（OSHC）。根据澳大利亚政府内政部（Department of Home Affairs）2023年发布的数据，OSHC是签证强制条件，覆盖医生问诊、公立医院住院和部分救护车服务。然而，基础OSHC通常不…"
 category: "ANU"
-pubDatetime: 2026-05-07T20:00:37Z
+pubDatetime: '2026-05-07T20:00:37Z'
 publishDate: '2026-05-07T20:00:37Z'
 readingTime: 3
 tags: ["featured"]

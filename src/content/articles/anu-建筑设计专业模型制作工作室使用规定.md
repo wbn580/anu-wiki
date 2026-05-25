@@ -2,7 +2,7 @@
 title: "ANU 建筑设计专业模型制作工作室使用规定"
 description: "澳大利亚国立大学（ANU）建筑设计专业下设的模型制作工作室（Model Making Workshop）是建筑与设计学士（Bachelor of Design）及建筑学硕士（Master of Architecture）学生的核心实践设施。根据ANU 2024年《校园设施安全手册》，该工作室位于Peter Kar…"
 category: "ANU 建筑设计专业模型"
-pubDatetime: 2026-03-29T19:53:10Z
+pubDatetime: '2026-03-29T19:53:10Z'
 publishDate: '2026-03-29T19:53:10Z'
 readingTime: 11
 tags: ["featured"]

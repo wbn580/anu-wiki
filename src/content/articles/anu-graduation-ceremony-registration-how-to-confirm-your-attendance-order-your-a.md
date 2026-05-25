@@ -2,7 +2,7 @@
 title: "ANU Graduation Ceremony Registration: How to Confirm Your Attendance, Order Your Academic Dress, and Invite Guests"
 description: "澳大利亚国立大学（ANU）每年举办三场毕业典礼，分别于二月、七月和十二月在堪培拉校园内的Llewellyn Hall举行。根据ANU官方2024年发布的《Graduation Policy》，每位符合条件的毕业生必须在典礼日期前至少4周通过ISIS系统完成在线注册，否则其学位授予将被推迟至下一周期。2023年，A…"
 category: "ANU"
-pubDatetime: 2026-05-13T20:01:45Z
+pubDatetime: '2026-05-13T20:01:45Z'
 publishDate: '2026-05-13T20:01:45Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Campus Printing, Scanning, and Photocopying: Locations, Costs Per Page, and How to Top Up Your Print Credit"
 description: "澳大利亚国立大学（ANU）的校园打印、扫描与复印服务由信息技术服务部（ITS）统一管理，覆盖全校超过30个打印站（ANU ITS, 2024, Campus Printing Services）。该系统采用PaperCut软件平台，支持学生通过学生卡（ANU ID Card）或移动设备进行身份验证与支付。2024…"
 category: "ANU"
-pubDatetime: 2026-04-19T19:57:17Z
+pubDatetime: '2026-04-19T19:57:17Z'
 publishDate: '2026-04-19T19:57:17Z'
 readingTime: 3
 tags: ["featured"]

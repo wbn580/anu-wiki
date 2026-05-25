@@ -2,7 +2,7 @@
 title: "ANU 挂科后如何申请补考：流程、费用与关键截止日期"
 description: "澳大利亚国立大学（ANU）在 2023 年第二学期共有约 8.2% 的本科生出现至少一门课程不及格的情况，根据 ANU 学术质量办公室《2023 年学生进展报告》的数据。对于这些学生而言，**补考申请**（Deferred Examination 或 Supplementary Examination）是避免重修…"
 category: "ANU 挂科后如何申请补"
-pubDatetime: 2026-02-23T19:45:51Z
+pubDatetime: '2026-02-23T19:45:51Z'
 publishDate: '2026-02-23T19:45:51Z'
 readingTime: 12
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 城市规划专业 GIS 软件工作坊报名信息"
 description: "澳洲国立大学（ANU）城市规划专业于2025年第一学期开设**GIS（地理信息系统）软件工作坊**，面向该专业本科生及研究生开放报名。该工作坊由ANU建筑与规划学院主办，旨在通过**ArcGIS Pro**与**QGIS**等行业标准软件的实操训练，提升学生在空间数据分析、土地利用规划及环境建模方面的技术能力。根…"
 category: "ANU 城市规划专业 G"
-pubDatetime: 2026-04-04T19:54:10Z
+pubDatetime: '2026-04-04T19:54:10Z'
 publishDate: '2026-04-04T19:54:10Z'
 readingTime: 13
 tags: ["featured"]

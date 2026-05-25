@@ -2,7 +2,7 @@
 title: "ANU Model United Nations Society: How to Join, Prepare for Conferences, and Participate in Crisis Simulations"
 description: "澳大利亚国立大学模联协会（ANU Model United Nations Society, ANUMUNS）是该校规模最大的模拟联合国学生组织，截至2024年，协会注册会员超过450人，每年组织至少6场校内培训会议和2场跨校模拟联合国大会。该协会自2010年正式成立以来，已成为亚太地区最活跃的大学模联社团之一，…"
 category: "ANU"
-pubDatetime: 2026-04-27T19:58:41Z
+pubDatetime: '2026-04-27T19:58:41Z'
 publishDate: '2026-04-27T19:58:41Z'
 readingTime: 3
 tags: ["featured"]

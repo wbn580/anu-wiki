@@ -2,7 +2,7 @@
 title: "ANU 校园无线网络覆盖区域与 VPN 连接设置"
 description: "澳大利亚国立大学（ANU）主校区Acton Campus部署了覆盖超过95%教学与公共区域的无线网络系统，由ANU IT Services统一管理，截至2024年，校园内共设有超过1,200个无线接入点（AP），支持eduroam与ANU-Secure两套SSID，日均连接设备数超过18,000台【ANU IT …"
 category: "ANU 校园无线网络覆盖"
-pubDatetime: 2026-03-17T19:50:40Z
+pubDatetime: '2026-03-17T19:50:40Z'
 publishDate: '2026-03-17T19:50:40Z'
 readingTime: 11
 tags: ["featured"]

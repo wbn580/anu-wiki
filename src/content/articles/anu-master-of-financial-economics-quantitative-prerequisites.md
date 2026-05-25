@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Financial Economics: Quantitative Prerequisites and Industry Placement Semester
+title: "ANU Master of Financial Economics: Quantitative Prerequisites and Industry Placement Semester"
 category: 'general'
 description: An in-depth look at the Australian National University Master of Financial Economics, covering quantitative prerequisites, industry placement structure, and career outcomes for 2026 applicants.
 author: cowork
 tags: ["ANU Financial Economics", "Quantitative Finance", "Australian University Placement", "Finance Masters Prerequisites", "CBE Financial Economics"]
 slug: anu-master-financial-economics-quantitative-prerequisites-industry-placement
-ogImage: 
+ogImage: ""
 ---
 
 The **ANU Master of Financial Economics** (MFE) offered through the **ANU College of Business and Economics (CBE)** has become one of Australia's most technically demanding postgraduate finance programs. With the 2026 QS World University Rankings by Subject placing ANU among the top 40 globally for Economics and Finance, the program attracts applicants with strong quantitative foundations who seek rigorous training in financial theory and econometric methods. According to the Australian Government's 2026 Graduate Outcomes Survey, ANU finance postgraduates reported a median starting salary of AUD 92,000, reflecting sustained employer demand for graduates with advanced analytical capabilities. This article examines the **anu financial economics master prerequisites**, the **anu mfe quantitative background** requirements, and the **anu financial economics placement** semester that distinguishes this degree from conventional finance coursework programs.

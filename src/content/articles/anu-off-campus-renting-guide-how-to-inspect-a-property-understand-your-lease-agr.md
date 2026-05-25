@@ -2,7 +2,7 @@
 title: "ANU Off-Campus Renting Guide: How to Inspect a Property, Understand Your Lease Agreement, and Lodge a Bond Claim"
 description: "澳大利亚国立大学（ANU）位于首都领地（ACT），其周边租房市场在2024-2025学年持续紧张。根据澳大利亚房地产协会（REIA）2024年第三季度报告，ACT地区住宅空置率仅为1.2%，远低于全国平均水平1.8%，这意味着学生在看房和签约时面临极大竞争。同时，ACT民事与行政法庭（ACAT）2023-2024…"
 category: "ANU"
-pubDatetime: 2026-04-21T19:57:40Z
+pubDatetime: '2026-04-21T19:57:40Z'
 publishDate: '2026-04-21T19:57:40Z'
 readingTime: 3
 tags: ["featured"]

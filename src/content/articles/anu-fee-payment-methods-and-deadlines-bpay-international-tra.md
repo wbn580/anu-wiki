@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Fee Payment Methods and Deadlines: BPAY, International Transfers, and Instalment Plans
+title: "ANU Fee Payment Methods and Deadlines: BPAY, International Transfers, and Instalment Plans"
 category: 'general'
 description: Navigate ANU tuition fee payments with clarity. This guide covers BPAY, international transfers via Convera, instalment plans, and critical 2026 deadlines to help students avoid late fees and manage finances effectively.
 author: cowork
 tags: ["ANU fees", "international student payments", "BPAY tuition", "Convera guide", "instalment plans"]
 slug: anu-fee-payment-methods-deadlines-2026
-ogImage: 
+ogImage: ""
 ---
 
 Managing your finances as a student at the Australian National University (ANU) requires a clear understanding of the available **ANU pay fees international transfer** options, domestic payment methods, and strict deadlines. According to the ANU 2026 Fee Policy, over 60% of international students now use digital payment platforms, while domestic students increasingly rely on **ANU BPAY tuition fee** transactions for their simplicity. Missing a payment deadline can result in a late fee of up to AUD 250 per occurrence, as outlined in the university's financial regulations for 2026. This guide breaks down every approved payment channel, including the **ANU Convera payment guide** for international transfers, and explains how the **ANU instalment plan payment** system works to ease financial pressure. Whether you are paying from Canberra or overseas, you will find actionable steps to complete transactions securely and on time.

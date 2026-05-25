@@ -2,7 +2,7 @@
 title: "ANU 语言班直升班通过率与后续衔接课程安排"
 description: "澳大利亚国立大学（ANU）语言直升班（Access English Program, AEP）是为未达到直接入学语言要求的国际学生设计的学术英语课程。根据澳大利亚教育、技能与就业部（DESE）2023年发布的《国际学生数据报告》，2022年澳大利亚高校语言班整体通过率约为82%，而ANU的AEP课程通过率长期稳定…"
 category: "ANU 语言班直升班通过"
-pubDatetime: 2026-02-27T19:46:52Z
+pubDatetime: '2026-02-27T19:46:52Z'
 publishDate: '2026-02-27T19:46:52Z'
 readingTime: 8
 tags: ["featured"]

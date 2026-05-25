@@ -2,7 +2,7 @@
 title: "ANU College of Law JD Application Strategy: LSAT Score Benchmarks, Personal Statement Tips, and Admission Timeline"
 description: "澳洲国立大学法学院（ANU College of Law）的法学博士（JD）项目是澳大利亚最受国际学生青睐的法律学位之一，2025年QS世界大学学科排名中，ANU法学院位列全球法学第17位【QS 2025, QS World University Rankings by Subject】。该项目的录取竞争逐年加剧…"
 category: "ANU"
-pubDatetime: 2026-04-14T19:56:21Z
+pubDatetime: '2026-04-14T19:56:21Z'
 publishDate: '2026-04-14T19:56:21Z'
 readingTime: 3
 tags: ["featured"]

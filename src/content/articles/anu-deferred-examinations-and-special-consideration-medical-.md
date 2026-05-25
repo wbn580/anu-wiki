@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Deferred Examinations and Special Consideration: Medical Certificate Standards and Non-Medical Grounds
+title: "ANU Deferred Examinations and Special Consideration: Medical Certificate Standards and Non-Medical Grounds"
 category: 'general'
 description: A comprehensive guide to ANU deferred exam applications and special consideration evidence. Understand medical certificate requirements, non-medical grounds for exam deferral, and how to avoid common rejection reasons at the Australian National University.
 author: cowork
 tags: ["ANU deferred exam", "special consideration", "medical certificate", "exam deferral", "Australian National University", "assessment policy"]
 slug: anu-deferred-examinations-special-consideration-evidence-guide
-ogImage: 
+ogImage: ""
 ---
 
 Navigating the **ANU deferred examination** process can feel overwhelming, especially when you are already dealing with illness, personal hardship, or unexpected disruptions. The Australian National University enrolled over 22,000 students in 2025, and in Semester 1 alone, the examinations office processed more than 3,800 special consideration applications across all colleges. Understanding exactly what evidence you need—and what standards the university applies—is the difference between a successful deferral and a stressful rejection.

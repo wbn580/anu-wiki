@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: ANU Scholarships for Coursework Students: Hidden Opportunities Beyond the Main List
+title: "ANU Scholarships for Coursework Students: Hidden Opportunities Beyond the Main List"
 category: 'general'
 description: Discover lesser-known ANU scholarships for coursework students that go beyond the standard university listing. Learn eligibility tips, application strategies, and how to secure financial aid from niche funding sources at the Australian National University in 2026.
 author: Senior Education Editor

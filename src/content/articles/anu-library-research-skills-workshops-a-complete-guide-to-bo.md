@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Library Research Skills Workshops: A Complete Guide to Booking and Learning
+title: "ANU Library Research Skills Workshops: A Complete Guide to Booking and Learning"
 category: 'general'
 description: Discover the full range of ANU Library research skills workshops for 2026, including EndNote training, research data management, and systematic review support. Learn how to book sessions and what practical skills you will gain to accelerate your PhD or research project.
 author: cowork
 tags: ["ANU library research workshops", "ANU EndNote training", "ANU research data management", "ANU systematic review workshop", "Australian National University research skills"]
 slug: anu-library-research-skills-workshops-guide
-ogImage: 
+ogImage: ""
 ---
 
 ## Introduction: Why ANU Library Research Skills Workshops Matter for Your Academic Journey

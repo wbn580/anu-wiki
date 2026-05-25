@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-02-22T14:00:00Z
+pubDatetime: '2026-02-22T14:00:00Z'
 publishDate: '2026-02-22T14:00:00Z'
-title: ANU Orientation Week Survival Guide: A First-Year International Student’s Roadmap to Settling In
+title: "ANU Orientation Week Survival Guide: A First-Year International Student’s Roadmap to Settling In"
 category: 'general'
 description: Navigate ANU Orientation Week with confidence. This survival guide for first-year international students covers campus tours, orientation events, academic enrolment, and practical steps for settling in Canberra, ensuring a smooth transition to university life in Australia.
 author: StudyAbroad Editorial Team

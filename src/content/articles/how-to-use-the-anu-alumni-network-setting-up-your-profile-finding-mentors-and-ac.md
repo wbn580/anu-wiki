@@ -2,7 +2,7 @@
 title: "How to Use the ANU Alumni Network: Setting Up Your Profile, Finding Mentors, and Accessing Job Referral Opportunities"
 description: "The Australian National University (ANU) Alumni Network connects over 140,000 graduates across 155 countries, providing current students and recent graduates…"
 category: "How"
-pubDatetime: 2026-04-22T19:57:48Z
+pubDatetime: '2026-04-22T19:57:48Z'
 publishDate: '2026-04-22T19:57:48Z'
 readingTime: 8
 tags: ["featured"]

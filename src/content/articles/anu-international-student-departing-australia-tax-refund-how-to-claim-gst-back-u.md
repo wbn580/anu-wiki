@@ -2,7 +2,7 @@
 title: "ANU International Student Departing Australia Tax Refund: How to Claim GST Back Under the Tourist Refund Scheme at the Airport"
 description: "ANU International Student Departing Australia Tax Refund: How to Claim GST Back Under the Tourist Refund Scheme at the Airport"
 category: "ANU"
-pubDatetime: 2026-05-21T20:03:17Z
+pubDatetime: '2026-05-21T20:03:17Z'
 publishDate: '2026-05-21T20:03:17Z'
 readingTime: 9
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Annual Progress Review for HDR Students: How to Prepare Your Report, Organise Your Panel, and Document Outcomes"
 description: "澳大利亚国立大学（ANU）所有攻读高等研究学位（HDR）的学生，包括哲学博士（PhD）和研究型硕士（MPhil），均须在每学年结束前完成一次年度进展评审（Annual Progress Review, APR）。根据澳大利亚研究培训计划（RTP）2016年发布的《研究培训计划指南》，所有接受联邦资助的HDR学生必…"
 category: "ANU"
-pubDatetime: 2026-04-27T19:58:47Z
+pubDatetime: '2026-04-27T19:58:47Z'
 publishDate: '2026-04-27T19:58:47Z'
 readingTime: 3
 tags: ["featured"]

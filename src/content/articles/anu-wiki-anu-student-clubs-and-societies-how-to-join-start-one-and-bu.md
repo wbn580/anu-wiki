@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: ANU Student Clubs and Societies: How to Join, Start One, and Build Your Network
+title: "ANU Student Clubs and Societies: How to Join, Start One, and Build Your Network"
 category: 'general'
 description: Discover the vibrant world of ANU student clubs and societies. Learn step-by-step how to join existing groups, navigate the ANUSA club registration process to start your own, and leverage these communities to build a powerful professional and social network on campus.
 author: StudyAbroad Editor

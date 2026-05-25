@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Residential Hall Culture and Support: Senior Residents, Academic Mentors, and Wellbeing Teams
+title: "ANU Residential Hall Culture and Support: Senior Residents, Academic Mentors, and Wellbeing Teams"
 category: 'general'
 description: Explore the comprehensive support ecosystem within ANU residential halls, including senior residents, academic mentors, and wellbeing teams, designed to foster a thriving on-campus living experience for students in 2026.
 author: cowork
 tags: ["ANU residential support", "ANU on-campus living", "student accommodation", "university halls", "peer mentoring"]
 slug: anu-residential-hall-culture-support
-ogImage: 
+ogImage: ""
 ---
 
 In 2026, over 5,500 students call the Australian National University campus home, with residential halls achieving a 92% first-year retention rate according to the ANU Accommodation Services Annual Report. A recent 2026 Student Experience Survey further reveals that 87% of residents feel a strong sense of belonging within their first semester. This vibrant community is not accidental. Behind the collegiate architecture and dining hall conversations lies a deliberately crafted support network. **ANU residential support** systems integrate peer leadership, academic guidance, and professional wellbeing care to transform a dormitory into a developmental ecosystem. Whether you are considering **ANU on-campus living** or have already secured a place, understanding the roles of senior residents, academic mentors, and wellbeing teams is crucial for maximizing your university experience.

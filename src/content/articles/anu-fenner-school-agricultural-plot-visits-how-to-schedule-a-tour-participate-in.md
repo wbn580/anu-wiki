@@ -2,7 +2,7 @@
 title: "ANU Fenner School Agricultural Plot Visits: How to Schedule a Tour, Participate in Planting Days, and Access Yield Data"
 description: "澳大利亚国立大学（ANU）Fenner School of Environment & Society 运营着一片占地约 **2.5 公顷** 的校园农业试验地块（Agricultural Plot），位于 Acton 校区内，是该校环境与可持续科学教学的核心户外实验室。自 2017 年正式划归 Fenner S…"
 category: "ANU"
-pubDatetime: 2026-05-17T20:02:32Z
+pubDatetime: '2026-05-17T20:02:32Z'
 publishDate: '2026-05-17T20:02:32Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 生物实验室安全培训必修课注册流程"
 description: "澳大利亚国立大学（ANU）要求所有涉及生物材料操作的学生及研究人员在进入实验室前完成强制性生物安全培训。根据澳大利亚政府《生物安全法》（Biosecurity Act 2015）及ANU 2024年《健康与安全政策》（Work Health and Safety Policy）的规定，未完成培训者将被禁止进入Bi…"
 category: "ANU 生物实验室安全培"
-pubDatetime: 2026-03-07T19:48:26Z
+pubDatetime: '2026-03-07T19:48:26Z'
 publishDate: '2026-03-07T19:48:26Z'
 readingTime: 8
 tags: ["featured"]

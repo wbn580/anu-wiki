@@ -2,7 +2,7 @@
 title: "ANU 国际学生社交媒体群组加入方式与信息核实"
 description: "截至2025年，澳大利亚国立大学（ANU）在校国际学生人数超过10,400人，占全校学生总数的约44%（澳大利亚教育部，2025年，国际学生数据报告）。随着社交媒体成为信息获取的主要渠道，ANU官方及学生自发运营的微信、WhatsApp、Discord等群组数量在过去三年增长了约65%（ANU学生协会，2024年…"
 category: "ANU 国际学生社交媒体"
-pubDatetime: 2026-03-25T19:52:21Z
+pubDatetime: '2026-03-25T19:52:21Z'
 publishDate: '2026-03-25T19:52:21Z'
 readingTime: 13
 tags: ["featured"]

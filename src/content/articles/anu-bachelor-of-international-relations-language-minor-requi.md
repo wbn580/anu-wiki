@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Bachelor of International Relations: Language Minor Requirements and Diplomatic Career Advice
+title: "ANU Bachelor of International Relations: Language Minor Requirements and Diplomatic Career Advice"
 category: 'general'
 description: Explore the ANU Bachelor of International Relations degree structure, language minor requirements, and strategic career pathways into diplomacy and DFAT. Gain insights into the 2026 curriculum, major sequences, and practical steps for building a global career.
 author: cowork
 tags: ["anu international relations", "language minor anu", "diplomatic career australia", "dfat graduate program", "international relations degree"]
 slug: anu-bir-language-minor-diplomatic-career
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) Bachelor of International Relations (BIR) remains Australia's premier pathway into global affairs, consistently attracting students with clear diplomatic ambitions. In the 2026 QS World University Rankings by Subject, ANU is positioned 8th globally for Politics and International Studies, reinforcing its standing as a powerhouse in the field. The degree's structure is deliberately flexible, yet a critical decision lies in selecting a language minor that aligns with long-term career goals within the Department of Foreign Affairs and Trade (DFAT) or multilateral organisations. This analysis breaks down the specific requirements for the ANU international relations language minor, the 2026 degree architecture, and evidence-based career advice for navigating the competitive diplomatic recruitment landscape.

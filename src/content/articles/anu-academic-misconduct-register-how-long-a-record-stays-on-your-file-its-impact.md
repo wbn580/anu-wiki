@@ -2,7 +2,7 @@
 title: "ANU Academic Misconduct Register: How Long a Record Stays on Your File, Its Impact on Graduation, and Expungement Policy"
 description: "澳大利亚国立大学（ANU）学术不端记录（Academic Misconduct Register）是该校内部纪律系统的核心组成部分，用于记录被认定违反学术诚信政策的学生行为。根据ANU 2023年发布的《学术诚信政策》（Academic Integrity Policy）第7.2条，学术不端记录在学位授予后的保留…"
 category: "ANU"
-pubDatetime: 2026-05-17T20:02:37Z
+pubDatetime: '2026-05-17T20:02:37Z'
 publishDate: '2026-05-17T20:02:37Z'
 readingTime: 3
 tags: ["featured"]

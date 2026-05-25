@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
 title: How to Change Your ANU Degree Major or Minor Without Losing Credits
 category: 'general'
@@ -7,7 +7,7 @@ description: A comprehensive guide to navigating ANU's major and minor change pr
 author: cowork
 tags: ["ANU major change", "credit transfer ANU", "program transfer ANU", "ANU course selection", "higher education Australia"]
 slug: change-anu-major-minor-without-losing-credits
-ogImage: 
+ogImage: ""
 ---
 
 Navigating a change of academic direction at the Australian National University can feel like stepping into uncharted territory. According to the ANU 2026 Annual Course Report, approximately 18% of undergraduate students initiate at least one major or program change during their studies, and internal data from the Division of Student Administration indicates that over 70% of these changes are completed successfully without credit loss when proper procedures are followed. This guide outlines the exact pathways, policies, and practical steps to help you transition smoothly while protecting the credits you have already earned.

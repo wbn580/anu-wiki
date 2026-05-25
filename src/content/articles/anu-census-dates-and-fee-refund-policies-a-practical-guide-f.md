@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Census Dates and Fee Refund Policies: A Practical Guide for Course Changes
+title: "ANU Census Dates and Fee Refund Policies: A Practical Guide for Course Changes"
 category: 'general'
 description: Navigate the Australian National University's census dates and tuition fee refund policies with clarity. Understand critical deadlines, international student obligations, withdrawal penalties, and step-by-step procedures to avoid financial loss when changing your enrolment in 2026.
 author: cowork
 tags: ["ANU census date","Australian National University fees","international student refund","course withdrawal Australia","tuition fee policy"]
 slug: anu-census-dates-fee-refund-practical-guide
-ogImage: 
+ogImage: ""
 ---
 
 Managing your enrolment at the Australian National University (ANU) involves more than selecting the right courses. It requires precise attention to financial deadlines that directly affect your bank account. According to the Australian Government's 2025 Higher Education Data Collection, over 12% of domestic students and nearly 18% of international students at Group of Eight universities adjust their enrolment after the semester begins. Understanding ANU census dates and refund policies is the single most effective way to avoid unnecessary debt. This guide breaks down the 2026 academic timeline, explains how withdrawal penalties work, and clarifies what international students must know before dropping a course.

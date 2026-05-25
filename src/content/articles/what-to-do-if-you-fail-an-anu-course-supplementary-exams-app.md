@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: What to Do If You Fail an ANU Course: Supplementary Exams, Appeals, and Academic Support
+title: "What to Do If You Fail an ANU Course: Supplementary Exams, Appeals, and Academic Support"
 category: 'general'
 description: Failing a course at ANU can feel overwhelming, but structured pathways exist to help you recover. This guide covers supplementary exam rules, the grade appeal process, academic skills support, and visa considerations for international students in 2026.
 author: cowork
 tags: ["ANU supplementary exams", "ANU grade appeal", "academic support ANU", "international student visa ANU", "fail course recovery"]
 slug: anu-fail-course-supplementary-exams-appeals-support
-ogImage: 
+ogImage: ""
 ---
 
 Receiving a fail grade at the Australian National University can trigger immediate stress, especially when scholarship conditions, degree progression, or visa status hang in the balance. ANU data from Semester 1, 2025, indicates that approximately 8.4% of all enrolled coursework students received at least one fail grade, with international students comprising a slightly higher proportion at 9.1%. The university's Academic Progress Review system recorded 1,247 formal interventions in 2025, ranging from early warning letters to show cause notices. These figures are not shared to alarm but to underscore a simple truth: failing a course is a common academic experience with established resolution pathways. The 2026 academic year brings updated supplementary examination rules, refined appeal timelines, and expanded learning support services that every ANU student should understand before making decisions under pressure.

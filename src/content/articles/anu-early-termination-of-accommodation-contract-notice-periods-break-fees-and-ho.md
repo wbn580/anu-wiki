@@ -2,7 +2,7 @@
 title: "ANU Early Termination of Accommodation Contract: Notice Periods, Break Fees, and How to Find a Replacement Tenant"
 description: "澳大利亚国立大学（ANU）校内住宿合同（Accommodation Contract）的提前终止（Early Termination）是学生住宿管理中高频出现的法律与财务事项。根据ANU住宿服务（ANU Accommodation Services）2024年发布的《住宿条款与条件》（Terms and Cond…"
 category: "ANU"
-pubDatetime: 2026-05-07T20:00:34Z
+pubDatetime: '2026-05-07T20:00:34Z'
 publishDate: '2026-05-07T20:00:34Z'
 readingTime: 3
 tags: ["featured"]

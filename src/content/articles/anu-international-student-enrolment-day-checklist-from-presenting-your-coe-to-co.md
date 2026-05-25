@@ -2,7 +2,7 @@
 title: "ANU International Student Enrolment Day Checklist: From Presenting Your CoE to Collecting Your Student ID Card"
 description: "2024–2025 学年，澳大利亚国立大学（ANU）的国际新生人数约为 10,400 人，占全校学生总数的 44%（ANU 2024 年度报告）。Enrolment Day（注册日）是每位国际学生必须完成的行政流程，涉及 CoE（Confirmation of Enrolment）验证、学生证（Student I…"
 category: "ANU"
-pubDatetime: 2026-04-22T19:57:46Z
+pubDatetime: '2026-04-22T19:57:46Z'
 publishDate: '2026-04-22T19:57:46Z'
 readingTime: 3
 tags: ["featured"]

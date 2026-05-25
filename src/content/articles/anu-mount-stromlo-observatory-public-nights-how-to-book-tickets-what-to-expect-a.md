@@ -2,7 +2,7 @@
 title: "ANU Mount Stromlo Observatory Public Nights: How to Book Tickets, What to Expect, and Stargazing Tips"
 description: "ANU Mount Stromlo Observatory Public Nights 是澳大利亚国立大学（ANU）向公众开放的天文观测活动，自 2010 年重启以来，年均接待访客超过 8,000 人次（ANU, 2023, Mount Stromlo Observatory Annual Report）。该活动…"
 category: "ANU"
-pubDatetime: 2026-05-03T19:59:48Z
+pubDatetime: '2026-05-03T19:59:48Z'
 publishDate: '2026-05-03T19:59:48Z'
 readingTime: 3
 tags: ["featured"]

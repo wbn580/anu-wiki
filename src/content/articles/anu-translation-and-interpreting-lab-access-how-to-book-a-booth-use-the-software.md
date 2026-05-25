@@ -2,7 +2,7 @@
 title: "ANU Translation and Interpreting Lab Access: How to Book a Booth, Use the Software, and Access Practice Materials"
 description: "澳大利亚国立大学（ANU）翻译与口译实验室（Translation and Interpreting Lab）是亚太地区少数配备专业同声传译设施的学术空间之一。该实验室位于海因斯大楼（H.C. Coombs Building）9层，配备8个同传译员间与24个会议席位的标准化口译训练系统，由澳大利亚国家笔译与口译认…"
 category: "ANU"
-pubDatetime: 2026-05-18T20:02:39Z
+pubDatetime: '2026-05-18T20:02:39Z'
 publishDate: '2026-05-18T20:02:39Z'
 readingTime: 3
 tags: ["featured"]

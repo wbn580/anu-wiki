@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Weather and Seasonal Preparedness: What to Pack for Canberra's Winter and Summer
+title: "ANU Weather and Seasonal Preparedness: What to Pack for Canberra's Winter and Summer"
 category: 'general'
 description: Prepare for Canberra's distinct seasons as an ANU international student. This comprehensive guide covers winter clothing essentials, summer heat management, and seasonal allergy strategies for 2026.
 author: cowork
 tags: ["ANU pre-arrival", "Canberra weather guide", "international student packing", "seasonal preparedness", "ANU student life"]
 slug: anu-weather-seasonal-preparedness-canberra-packing-guide
-ogImage: 
+ogImage: ""
 ---
 
 Canberra experiences some of the most **distinct seasonal variations** of any Australian capital city, with winter temperatures regularly dropping below 0°C and summer days frequently exceeding 35°C. According to the Australian Bureau of Meteorology's 2026 seasonal outlook, Canberra recorded an average winter minimum of -1.2°C in July 2025, while January 2026 saw maximum temperatures reach 39.4°C on multiple occasions. For international students arriving at the Australian National University, understanding these extremes is not merely a comfort consideration—it is essential for health, academic performance, and overall wellbeing. The city's inland location at approximately 580 metres above sea level contributes to its **continental climate pattern**, meaning you will encounter frosty mornings, dry heat, and rapid temperature shifts that can catch newcomers entirely off guard. This guide draws on current meteorological data and lived experience from ANU student communities to help you pack strategically for both winter and summer conditions.

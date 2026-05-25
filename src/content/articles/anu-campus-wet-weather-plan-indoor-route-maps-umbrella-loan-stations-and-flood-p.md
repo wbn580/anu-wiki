@@ -2,7 +2,7 @@
 title: "ANU Campus Wet Weather Plan: Indoor Route Maps, Umbrella Loan Stations, and Flood-Prone Underpasses to Avoid"
 description: "澳大利亚国立大学（ANU）位于堪培拉，该市年均降雨日数约108天，集中在10月至次年1月（澳大利亚气象局，2023年气候摘要）。ANU校园地势起伏，存在多条低洼通道与地下连廊，在暴雨期间易出现积水，影响师生通勤与课程出勤。根据ANU设施管理处的校内安全通报（2022-2023年度），校园内标注的**洪涝风险点**…"
 category: "ANU"
-pubDatetime: 2026-05-18T20:02:50Z
+pubDatetime: '2026-05-18T20:02:50Z'
 publishDate: '2026-05-18T20:02:50Z'
 readingTime: 3
 tags: ["featured"]

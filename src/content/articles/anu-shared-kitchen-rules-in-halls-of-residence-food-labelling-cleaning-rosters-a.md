@@ -2,7 +2,7 @@
 title: "ANU Shared Kitchen Rules in Halls of Residence: Food Labelling, Cleaning Rosters, and Storage Locker Allocation"
 description: "澳洲国立大学（ANU）校内住宿的厨房管理规则，包括食物标签、清洁排班和储物柜分配，是影响约 4,000 名住校生日常生活的核心制度。根据 ANU Accommodation 2024 年发布的《Residential Halls Handbook》，所有住户必须在个人食品容器上标注姓名和日期，违规物品可能被直接丢…"
 category: "ANU"
-pubDatetime: 2026-04-30T19:59:22Z
+pubDatetime: '2026-04-30T19:59:22Z'
 publishDate: '2026-04-30T19:59:22Z'
 readingTime: 3
 tags: ["featured"]

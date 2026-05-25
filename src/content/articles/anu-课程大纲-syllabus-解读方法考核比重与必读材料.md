@@ -2,7 +2,7 @@
 title: "ANU 课程大纲 Syllabus 解读方法：考核比重与必读材料"
 description: "澳大利亚国立大学（ANU）每学期向约 25,000 名学生（ANU 2023 年度报告）发布课程大纲（Course Outline / Syllabus），该文件是界定课程考核结构、学术诚信要求及必读材料的核心法律文件。根据澳大利亚高等教育质量标准局（TEQSA 2023）的规范，课程大纲必须包含至少 60% 的…"
 category: "ANU 课程大纲 Syl"
-pubDatetime: 2026-03-05T19:48:07Z
+pubDatetime: '2026-03-05T19:48:07Z'
 publishDate: '2026-03-05T19:48:07Z'
 readingTime: 13
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "Part-Time Work Options for ANU Students: On-Campus Jobs, Hospitality Roles, and Legal Work Hour Limits"
 description: "作为澳大利亚国立大学（ANU）的国际学生，兼职工作不仅是经济支持的重要来源，也是积累本地经验的关键途径。根据澳大利亚内政部（Department of Home Affairs）2024年7月更新的学生签证条款，持有学生签证（Subclass 500）的国际学生每两周合法工作上限为48小时，这一规定自2023年7…"
 category: "Part-Time"
-pubDatetime: 2026-04-11T19:55:38Z
+pubDatetime: '2026-04-11T19:55:38Z'
 publishDate: '2026-04-11T19:55:38Z'
 readingTime: 3
 tags: ["featured"]

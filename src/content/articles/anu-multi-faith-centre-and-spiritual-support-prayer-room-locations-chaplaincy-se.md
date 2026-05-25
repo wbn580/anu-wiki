@@ -2,7 +2,7 @@
 title: "ANU Multi-Faith Centre and Spiritual Support: Prayer Room Locations, Chaplaincy Services, and Religious Holiday Observances"
 description: "澳大利亚国立大学（ANU）于2015年正式启用的**多信仰中心（Multi-Faith Centre）**，位于校园中心Acton校区Kingsley Street，建筑面积约400平方米，是该校为支持超过30%的国际学生群体（ANU 2023年年度报告数据）以及本地多元信仰社区而设立的核心设施。根据澳大利亚统计…"
 category: "ANU"
-pubDatetime: 2026-05-20T20:03:03Z
+pubDatetime: '2026-05-20T20:03:03Z'
 publishDate: '2026-05-20T20:03:03Z'
 readingTime: 3
 tags: ["featured"]

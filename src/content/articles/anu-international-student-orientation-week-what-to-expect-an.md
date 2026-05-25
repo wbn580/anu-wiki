@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU International Student Orientation Week: What to Expect and How to Register
+title: "ANU International Student Orientation Week: What to Expect and How to Register"
 category: 'general'
 description: A comprehensive guide to the Australian National University's international student orientation. Learn about the 2026 O-Week schedule, registration deadlines, essential campus tours, academic induction sessions, and practical tips for a smooth transition to Canberra. Discover what to expect from the ANU international student orientation program and how to make the most of your first week.
 author: cowork
 tags: ["ANU orientation", "ANU international student orientation", "ANU O-Week registration", "ANU orientation week schedule", "ANU new student orientation tips"]
 slug: anu-international-student-orientation-week-guide
-ogImage: 
+ogImage: ""
 ---
 
 More than 7,000 international students from over 100 countries are expected to commence their studies at the Australian National University in Semester 1, 2026, according to recent enrolment data released by ANU Student Administration. The International Student Orientation Week, commonly referred to as O-Week, is the university's flagship induction program designed specifically for students arriving from overseas. For the 2026 academic year, ANU has expanded its orientation offerings to include additional cultural transition workshops, enhanced academic skills sessions, and a structured peer mentoring program that pairs incoming students with experienced ANU ambassadors. Understanding what to expect and how to register can significantly reduce the stress of relocating to Canberra and set a strong foundation for academic success. This guide covers the **ANU international student orientation** schedule, registration steps, and practical tips to help you navigate your first week with confidence.

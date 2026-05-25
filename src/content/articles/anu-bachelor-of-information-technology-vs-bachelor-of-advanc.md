@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Bachelor of Information Technology vs. Bachelor of Advanced Computing: Which One Suits You?
+title: "ANU Bachelor of Information Technology vs. Bachelor of Advanced Computing: Which One Suits You?"
 category: 'general'
 description: Compare the Australian National University's Bachelor of Information Technology and Bachelor of Advanced Computing degrees in detail. Explore curriculum differences, career outcomes, specializations, and industry alignment to make an informed choice for your 2026 computing education at a top-ranked Australian university.
 author: cowork
 tags: ["ANU computing degrees", "information technology Australia", "advanced computing specializations", "Australian university IT programs", "ANU BIT vs BAC"]
 slug: anu-bit-vs-bac-computing-degree-comparison
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University consistently ranks among the world's top 35 institutions for computer science and information systems according to the QS World University Rankings by Subject 2026. For students weighing their options between the **Bachelor of Information Technology (BIT)** and the **Bachelor of Advanced Computing (BAC)** at ANU, the decision shapes not just three years of study but long-term career trajectories in Australia's rapidly expanding tech sector. The Australian Computer Society projects that Australia will need over 1.2 million technology professionals by 2027, making the choice between these two distinct degrees more consequential than ever.

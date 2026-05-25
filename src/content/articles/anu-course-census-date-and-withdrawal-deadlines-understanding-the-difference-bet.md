@@ -2,7 +2,7 @@
 title: "ANU Course Census Date and Withdrawal Deadlines: Understanding the Difference Between WD, WN, and Financial Liability"
 description: "澳洲国立大学（ANU）每学期设有明确的 **课程普查日期（Census Date）** 和 **退课截止日期（Withdrawal Deadlines）**，学生在此前后退课将产生不同的学术记录等级——WD（Withdrawn without failure）、WN（Withdrawn with failure）…"
 category: "ANU"
-pubDatetime: 2026-05-05T20:00:15Z
+pubDatetime: '2026-05-05T20:00:15Z'
 publishDate: '2026-05-05T20:00:15Z'
 readingTime: 3
 tags: ["featured"]

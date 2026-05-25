@@ -2,7 +2,7 @@
 title: "ANU Program Leave Application Process: Eligibility Criteria, Required Documents, and Implications for Your Student Visa"
 description: "澳大利亚国立大学（ANU）的**课程休学（Program Leave）申请**是学生因健康、经济或个人原因暂时中断学业的正规流程。根据澳大利亚内政部2024年更新的《学生签证条款（8104/8105）》，持学生签证（Subclass 500）的国际学生单次休学时长通常不得超过12个月，且需满足特定**资格条件（E…"
 category: "ANU"
-pubDatetime: 2026-04-12T19:55:47Z
+pubDatetime: '2026-04-12T19:55:47Z'
 publishDate: '2026-04-12T19:55:47Z'
 readingTime: 3
 tags: ["featured"]

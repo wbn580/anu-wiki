@@ -2,7 +2,7 @@
 title: "ANU 研究型硕士与授课型硕士的区别与选择方法"
 description: "澳洲国立大学（ANU）提供两种主要硕士路径——**授课型硕士（Coursework Master's）** 与研究型硕士（Research Master's），两者在课程结构、培养目标及职业出口上存在系统性差异。根据澳大利亚教育部 2023 年《高等教育学生数据报告》，全澳授课型硕士注册人数为 298,740 人…"
 category: "ANU 研究型硕士与授课"
-pubDatetime: 2026-02-25T19:46:18Z
+pubDatetime: '2026-02-25T19:46:18Z'
 publishDate: '2026-02-25T19:46:18Z'
 readingTime: 15
 tags: ["featured"]

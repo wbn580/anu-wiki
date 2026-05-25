@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Parking Permits and Campus Transport: A 2026 Guide to Virtual Permits, Pay‑as‑You‑Go Zones, and Bike Facilities
+title: "ANU Parking Permits and Campus Transport: A 2026 Guide to Virtual Permits, Pay‑as‑You‑Go Zones, and Bike Facilities"
 category: 'general'
 description: Navigate the Australian National University parking system in 2026 with clarity. From virtual permit costs and pay‑as‑you‑go zones to secure bike parking and electric vehicle charging, this guide covers everything you need to make daily commuting stress‑free.
 author: cowork
 tags: ["ANU parking permit", "ANU campus parking cost", "ANU virtual permit", "ANU bike parking", "ANU pay-as-you-go parking"]
 slug: anu-parking-permits-campus-transport-2026-guide
-ogImage: 
+ogImage: ""
 ---
 
 Commuting to the Australian National University in 2026 requires a solid understanding of a campus transport system that blends virtual technology, flexible payment options, and sustainable infrastructure. A 2025 internal transport review recorded over 8,400 parking bays across the Acton campus, yet demand during semester peaks regularly exceeds 92 percent occupancy by 10:30 am. ANU Facilities and Services reports that digital permit adoption has climbed to 78 percent of all staff and student parkers since the virtual system launched. This guide unpacks every layer of the current parking framework, from permit types and daily rates to bike storage and electric vehicle charging, so you can plan your commute with confidence.

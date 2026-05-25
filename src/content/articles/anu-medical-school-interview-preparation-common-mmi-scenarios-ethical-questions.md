@@ -2,7 +2,7 @@
 title: "ANU Medical School Interview Preparation: Common MMI Scenarios, Ethical Questions, and Communication Strategies"
 description: "澳大利亚国立大学（ANU）医学与外科学士（Bachelor of Medical Science and Doctor of Medicine, BMedSc/MChD）项目采用多重迷你面试（MMI）作为筛选核心环节。根据澳大利亚医学委员会2023年数据，ANU医学院每年招收约80名学生，而申请者超过1,200人…"
 category: "ANU"
-pubDatetime: 2026-04-16T19:56:50Z
+pubDatetime: '2026-04-16T19:56:50Z'
 publishDate: '2026-04-16T19:56:50Z'
 readingTime: 3
 tags: ["featured"]

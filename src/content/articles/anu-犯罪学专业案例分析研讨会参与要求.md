@@ -2,7 +2,7 @@
 title: "ANU 犯罪学专业案例分析研讨会参与要求"
 description: "澳大利亚国立大学（ANU）犯罪学专业自2017年起开设的“案例分析与研讨会”（Case Analysis and Workshop）课程模块，是该校犯罪学本科及研究生项目的核心必修环节。根据ANU法学院2024年发布的《犯罪学课程手册》，该研讨会要求学生在每学期完成至少3次、每次不少于90分钟的案例深度拆解与口头…"
 category: "ANU 犯罪学专业案例分"
-pubDatetime: 2026-03-29T19:53:03Z
+pubDatetime: '2026-03-29T19:53:03Z'
 publishDate: '2026-03-29T19:53:03Z'
 readingTime: 10
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Scholarship Interview Preparation: Common Questions, Virtual Interview Setup, and Follow-Up Etiquette"
 description: "澳大利亚国立大学（ANU）每年为国际学生提供超过200项奖学金，总金额逾4000万澳元（ANU Scholarships Office, 2024 Annual Report）。随着2025学年申请竞争加剧，奖学金面试已成为筛选候选人的关键环节：ANU的全球录取率约为35%（QS World University…"
 category: "ANU"
-pubDatetime: 2026-05-03T19:59:47Z
+pubDatetime: '2026-05-03T19:59:47Z'
 publishDate: '2026-05-03T19:59:47Z'
 readingTime: 3
 tags: ["featured"]

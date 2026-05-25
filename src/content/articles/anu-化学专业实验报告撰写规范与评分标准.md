@@ -2,7 +2,7 @@
 title: "ANU 化学专业实验报告撰写规范与评分标准"
 description: "澳大利亚国立大学（ANU）化学专业的实验报告是本科与研究生课程评估的核心组成部分，其评分权重在多数化学课程中占 **25% 至 40%**。根据 ANU 理学院 2023 年发布的《教学与评估政策》（Teaching and Assessment Policy），每学期约有 **1,200 名** 本科生需完成至…"
 category: "ANU 化学专业实验报告"
-pubDatetime: 2026-03-12T19:49:37Z
+pubDatetime: '2026-03-12T19:49:37Z'
 publishDate: '2026-03-12T19:49:37Z'
 readingTime: 10
 tags: ["featured"]

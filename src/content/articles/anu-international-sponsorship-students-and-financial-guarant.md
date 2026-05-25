@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU International Sponsorship Students and Financial Guarantees: Tuition Fee Extension and Stipend Top-Up Procedures
+title: "ANU International Sponsorship Students and Financial Guarantees: Tuition Fee Extension and Stipend Top-Up Procedures"
 category: 'general'
 description: A comprehensive guide to ANU’s sponsorship financial guarantee processes, tuition fee extension requests, and stipend top-up procedures for international sponsored students in 2026.
 author: cowork
 tags: ["ANU sponsorship financial guarantee", "ANU international sponsored student tuition", "ANU stipend top-up procedure", "ANU external sponsor letter", "ANU fee extension for sponsored students"]
 slug: anu-international-sponsorship-financial-guarantees-tuition-stipend-guide
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) remains one of the most sought-after destinations for internationally sponsored students, with **over 1,200 active sponsorship arrangements** recorded in the 2026 academic year according to ANU’s Division of Student Administration. Managing sponsorship financial guarantees, tuition fee extensions, and stipend top-ups requires precise documentation and timely submission. Missing a deadline can lead to enrolment holds, visa complications, or interrupted research funding. This guide breaks down every procedure you need to follow, from securing an **external sponsor letter** to requesting a **stipend top-up** through the ANU Scholarships Office.

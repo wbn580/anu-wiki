@@ -2,7 +2,7 @@
 title: "ANU 数字人文专业 Python 编程入门工作坊信息"
 description: "澳大利亚国立大学（ANU）数字人文专业自2023年起开设的 **Python 编程入门工作坊**，已成为该校人文与社会科学领域技术素养培养的标志性课程。该工作坊由 ANU 人文与社会科学学院（CHL）与计算学院联合设计，旨在为非计算机背景的人文学生提供从零开始的编程训练。根据 ANU 官方课程目录（2024年），…"
 category: "ANU 数字人文专业 P"
-pubDatetime: 2026-03-22T19:51:45Z
+pubDatetime: '2026-03-22T19:51:45Z'
 publishDate: '2026-03-22T19:51:45Z'
 readingTime: 14
 tags: ["featured"]

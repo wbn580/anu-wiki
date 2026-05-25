@@ -2,7 +2,7 @@
 title: "On-Campus vs Off-Campus Housing at ANU: A Detailed Review of Room Types, Costs, and Commute Times"
 description: "澳大利亚国立大学（ANU）主校区位于首都堪培拉阿克顿（Acton）区，其校内住宿（On-Campus）与校外租房（Off-Campus）的选择直接影响学生的年度预算与日常通勤效率。根据ANU住宿服务部门2024年发布的数据，校内标准单人间年度租金（含餐饮）约为澳元24,000至28,000元，而校外合租单人间的中…"
 category: "On-Campus"
-pubDatetime: 2026-04-09T19:55:09Z
+pubDatetime: '2026-04-09T19:55:09Z'
 publishDate: '2026-04-09T19:55:09Z'
 readingTime: 3
 tags: ["featured"]

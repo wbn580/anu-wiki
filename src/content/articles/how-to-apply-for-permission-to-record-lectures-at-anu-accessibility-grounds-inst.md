@@ -2,7 +2,7 @@
 title: "How to Apply for Permission to Record Lectures at ANU: Accessibility Grounds, Instructor Consent, and Equipment Loan"
 description: "澳大利亚国立大学（ANU）于 2023 年修订的《课堂录音政策》（Lecture Recording Policy）规定，学生原则上不得未经授权录制课堂内容，但基于 **Accessibility（无障碍）** 理由的申请可获得例外。根据澳大利亚人权委员会（AHRC）2022 年发布的《高等教育无障碍报告》，全澳…"
 category: "How"
-pubDatetime: 2026-05-16T20:02:18Z
+pubDatetime: '2026-05-16T20:02:18Z'
 publishDate: '2026-05-16T20:02:18Z'
 readingTime: 3
 tags: ["featured"]

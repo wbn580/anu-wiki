@@ -2,7 +2,7 @@
 title: "ANU Winter and Summer Session Course Recommendations: Intensive Units to Accelerate Your Degree Completion"
 description: "澳大利亚国立大学（ANU）每年提供 **Winter Session**（6–7 月）和 **Summer Session**（11–2 月）两个密集学期，学生可通过修读 6–12 学分的**短期课程（Intensive Units）** 加速学位完成。根据 ANU 官方 2024 年学术日历，Winter Se…"
 category: "ANU"
-pubDatetime: 2026-04-20T19:57:23Z
+pubDatetime: '2026-04-20T19:57:23Z'
 publishDate: '2026-04-20T19:57:23Z'
 readingTime: 3
 tags: ["featured"]

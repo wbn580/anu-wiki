@@ -2,7 +2,7 @@
 title: "How to Update Your Personal Details in ANU ISIS: Address, Passport, and Visa Information Changes for International Students"
 description: "作为澳大利亚国立大学（ANU）的在校国际学生，准确维护个人信息系统（ISIS）中的个人信息不仅是学校行政要求，更是遵守澳大利亚移民法规的法定义务。根据澳大利亚内政事务部（Department of Home Affairs）2024年发布的《学生签证条款手册》（*Student Visa Conditions G…"
 category: "How"
-pubDatetime: 2026-05-20T20:03:08Z
+pubDatetime: '2026-05-20T20:03:08Z'
 publishDate: '2026-05-20T20:03:08Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 校园兼职工作类型与合法打工时长规定"
 description: "澳大利亚联邦政府于2023年2月宣布，国际学生每两周合法打工时长从40小时临时上调至48小时，该政策于2023年7月1日起正式生效（澳大利亚内政部，2023，Student Visa Program Report）。澳洲国立大学（ANU）作为全澳排名第一的研究型大学（QS World University Ran…"
 category: "ANU 校园兼职工作类型"
-pubDatetime: 2026-02-25T19:46:20Z
+pubDatetime: '2026-02-25T19:46:20Z'
 publishDate: '2026-02-25T19:46:20Z'
 readingTime: 14
 tags: ["featured"]

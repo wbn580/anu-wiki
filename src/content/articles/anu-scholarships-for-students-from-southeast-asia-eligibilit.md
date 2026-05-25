@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Scholarships for Students from Southeast Asia: Eligibility, Deadlines, and Essay Strategies
+title: "ANU Scholarships for Students from Southeast Asia: Eligibility, Deadlines, and Essay Strategies"
 category: 'general'
 description: A comprehensive guide to Australian National University scholarships for Southeast Asian students, covering eligibility requirements, application deadlines, country-specific awards, and proven essay strategies to strengthen your funding application.
 author: cowork
 tags: ["ANU scholarships", "Southeast Asia", "international student funding", "scholarship essays", "Australian universities"]
 slug: anu-scholarships-southeast-asia-eligibility-deadlines-essays
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University continues to strengthen its commitment to Southeast Asian students through targeted funding initiatives. In 2026, ANU allocated over **AUD 12 million** in scholarship funding specifically for international students, with Southeast Asian nations receiving priority consideration in several award categories. According to the Australian Department of Education's 2026 international student data, ASEAN countries now represent **18.7% of all international enrollments** at ANU, making this cohort the university's second-largest international demographic after China.

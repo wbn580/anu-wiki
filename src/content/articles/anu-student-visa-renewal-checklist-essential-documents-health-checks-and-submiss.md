@@ -2,7 +2,7 @@
 title: "ANU Student Visa Renewal Checklist: Essential Documents, Health Checks, and Submission Timelines for International Students"
 description: "澳大利亚国立大学（ANU）国际学生签证续签流程涉及多项法定要求与时间节点。根据澳大利亚内政事务部（Department of Home Affairs）2024年数据，学生签证（Subclass 500）平均处理时间为42天至4个月不等，而ANU在2023年共招收了10,415名国际学生（ANU 2023年度报告…"
 category: "ANU"
-pubDatetime: 2026-04-11T19:55:36Z
+pubDatetime: '2026-04-11T19:55:36Z'
 publishDate: '2026-04-11T19:55:36Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Academic Calendar Key Dates 2025-2026: Census Dates, Exam Blocks, and Holiday Schedules You Must Not Miss"
 description: "澳大利亚国立大学（ANU）2025–2026 学术日历已由校方于 2024 年 10 月发布，涵盖两个主要学期（Semester 1 和 Semester 2）及夏季学期（Summer Session）的起止日期。根据澳大利亚教育部 2023 年《国际学生年度报告》，ANU 在 2023 年注册国际学生人数为 1…"
 category: "ANU"
-pubDatetime: 2026-04-15T19:56:24Z
+pubDatetime: '2026-04-15T19:56:24Z'
 publishDate: '2026-04-15T19:56:24Z'
 readingTime: 4
 tags: ["featured"]

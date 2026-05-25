@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍洗衣房使用指南：充值方式与设备报修"
 description: "澳洲国立大学（ANU）校内宿舍及合作公寓楼内配备的洗衣房，主要由 **Speed Queen** 和 **Electrolux** 品牌的投币式或刷卡式洗衣机和烘干机构成。根据 ANU Accommodation 官方 2024 年发布的《居民手册》，校内超过 90% 的洗衣设备已升级为 **CardPay** …"
 category: "ANU 学生宿舍洗衣房使"
-pubDatetime: 2026-03-22T19:51:39Z
+pubDatetime: '2026-03-22T19:51:39Z'
 publishDate: '2026-03-22T19:51:39Z'
 readingTime: 12
 tags: ["featured"]

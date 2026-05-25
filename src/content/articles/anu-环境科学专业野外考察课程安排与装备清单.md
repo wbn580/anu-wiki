@@ -2,7 +2,7 @@
 title: "ANU 环境科学专业野外考察课程安排与装备清单"
 description: "澳洲国立大学（ANU）环境科学学士（Bachelor of Environment and Sustainability）与资源与环境管理硕士（Master of Resources and Environment）课程体系中，**野外考察（Fieldwork）** 是必修学分组成部分。根据 ANU 2024 年…"
 category: "ANU 环境科学专业野外"
-pubDatetime: 2026-03-05T19:48:08Z
+pubDatetime: '2026-03-05T19:48:08Z'
 publishDate: '2026-03-05T19:48:08Z'
 readingTime: 12
 tags: ["featured"]

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Casual Academic Pay Rates 2026: PhD Sessional Teaching, Tutor Employment Conditions & Superannuation
+title: "ANU Casual Academic Pay Rates 2026: PhD Sessional Teaching, Tutor Employment Conditions & Superannuation"
 category: 'general'
 description: Comprehensive guide to ANU casual academic pay rates in 2026, covering PhD sessional teaching salaries, tutor employment conditions, superannuation contributions, and maximum work hour limits for doctoral candidates at the Australian National University.
 author: cowork
 tags: ["ANU casual academic pay rates", "ANU PhD sessional teaching", "ANU tutor employment conditions", "ANU casual staff superannuation", "ANU PhD work limits"]
 slug: anu-casual-academic-pay-rates-phd-sessional-teaching-2026
-ogImage: 
+ogImage: ""
 ---
 
 Understanding casual academic employment at the Australian National University is essential for PhD candidates who supplement their research stipends through sessional teaching, tutoring, and marking. In 2026, **ANU casual academic pay rates** have been adjusted under the current enterprise agreement, reflecting sector-wide shifts in higher education casualisation. According to the Australian Government's Department of Education 2026 Higher Education Staff Data, casual academics now constitute approximately 43% of the teaching workforce across Australian universities, with ANU reporting over 1,200 casual academic staff engaged in Semester 1 2026 alone. The Australian Taxation Office's Superannuation Guarantee rate stands at 12% for the 2026-27 financial year, directly impacting total remuneration packages for casual employees.

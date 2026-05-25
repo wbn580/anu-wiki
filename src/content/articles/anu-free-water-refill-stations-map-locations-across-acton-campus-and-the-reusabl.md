@@ -2,7 +2,7 @@
 title: "ANU Free Water Refill Stations Map: Locations Across Acton Campus and the Reusable Bottle Initiative"
 description: "澳大利亚国立大学（ANU）Acton主校区自2022年起持续推进校园单次塑料瓶减量计划，截至2024年底已在超过30栋教学与行政楼内安装了**47个免费饮水站（water refill stations）**，覆盖所有主要教学区、图书馆及学生活动中心。根据ANU可持续发展办公室2023年发布的《校园用水与废弃物年…"
 category: "ANU"
-pubDatetime: 2026-05-17T20:02:37Z
+pubDatetime: '2026-05-17T20:02:37Z'
 publishDate: '2026-05-17T20:02:37Z'
 readingTime: 3
 tags: ["featured"]

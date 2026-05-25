@@ -2,7 +2,7 @@
 title: "ANU Humanities Research Writing Bootcamps: Schedule, Registration Links, and Sample Workshop Materials"
 description: "澳大利亚国立大学（ANU）人文研究写作训练营（Humanities Research Writing Bootcamps）是该校学术技能中心（Academic Skills Centre）与人文与社会科学学院（College of Arts and Social Sciences）联合推出的密集型写作支持项目。该…"
 category: "ANU"
-pubDatetime: 2026-04-18T19:56:58Z
+pubDatetime: '2026-04-18T19:56:58Z'
 publishDate: '2026-04-18T19:56:58Z'
 readingTime: 3
 tags: ["featured"]

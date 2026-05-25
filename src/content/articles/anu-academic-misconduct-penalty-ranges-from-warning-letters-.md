@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Academic Misconduct Penalty Ranges: From Warning Letters to Suspension and Exclusion Triggers
+title: "ANU Academic Misconduct Penalty Ranges: From Warning Letters to Suspension and Exclusion Triggers"
 category: 'general'
 description: A comprehensive analysis of the Australian National University's academic misconduct penalty framework, covering escalation pathways from initial warning letters to suspension and permanent exclusion. This guide examines case outcomes, appeal strategies, and the specific triggers that determine penalty severity under ANU's Academic Integrity Rule 2024.
 author: cowork
 tags: ["ANU academic misconduct penalties", "ANU academic integrity breach escalation", "ANU suspension for plagiarism", "ANU exclusion triggers", "ANU academic misconduct case outcomes"]
 slug: anu-academic-misconduct-penalty-ranges
-ogImage: 
+ogImage: ""
 ---
 
 Understanding how ANU classifies and penalises academic misconduct is essential for every student navigating the university's rigorous integrity framework. In the 2025 academic year alone, ANU's Academic Integrity Office processed over 340 formal breach allegations, with approximately 18% resulting in suspension or exclusion outcomes. The stakes are high, and the escalation path from a seemingly minor warning letter to permanent exclusion can be shorter than many students realise.

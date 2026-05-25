@@ -2,7 +2,7 @@
 title: "ANU Student Media and Journalism: How to Pitch an Article to Woroni, ANU Observer, or ANU TV"
 description: "澳大利亚国立大学（ANU）拥有三份主流学生媒体：创刊于1948年的报纸《Woroni》、成立于2019年的新闻网站《ANU Observer》，以及成立于2014年的校园电视台ANU TV。根据ANU学生协会（ANUSA）2023年年度报告，这三家媒体每年合计发表超过500篇原创内容，覆盖校园政治、学术政策、本地…"
 category: "ANU"
-pubDatetime: 2026-05-12T20:01:29Z
+pubDatetime: '2026-05-12T20:01:29Z'
 publishDate: '2026-05-12T20:01:29Z'
 readingTime: 3
 tags: ["featured"]

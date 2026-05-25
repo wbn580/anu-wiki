@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How to Transfer Credits to ANU from Overseas Universities: A Complete Guide to Advanced Standing
+title: "How to Transfer Credits to ANU from Overseas Universities: A Complete Guide to Advanced Standing"
 category: 'general'
 description: Learn how to transfer credits to the Australian National University from international institutions. This guide covers ANU recognition of prior learning, eligibility criteria, required documents, credit limits, and step-by-step application process for overseas students seeking advanced standing.
 author: cowork
 tags: ["ANU credit transfer", "advanced standing ANU", "international student admissions", "Australian National University", "overseas qualification recognition"]
 slug: anu-transfer-credits-overseas-eligibility-process
-ogImage: 
+ogImage: ""
 ---
 
 According to the latest QS World University Rankings 2026, the Australian National University remains firmly positioned within the global top 40, attracting a growing number of international students seeking to build on prior academic achievements. Data from the Australian Government Department of Education indicates that over 18 percent of international enrolments in Australian universities now involve some form of credit transfer or advanced standing application. For students who have completed undergraduate or postgraduate coursework at recognised institutions abroad, understanding the **ANU credit transfer international** framework can significantly reduce both tuition costs and total study duration. The **ANU recognition of prior learning** system evaluates previous qualifications against current ANU program requirements, offering eligible candidates the opportunity to enter with **ANU advanced standing** and complete their degree in a shorter timeframe.

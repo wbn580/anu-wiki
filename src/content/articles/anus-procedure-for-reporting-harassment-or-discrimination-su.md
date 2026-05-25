@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU’s Procedure for Reporting Harassment or Discrimination: Support and Formal Complaints
+title: "ANU’s Procedure for Reporting Harassment or Discrimination: Support and Formal Complaints"
 category: 'general'
 description: A comprehensive guide to understanding and navigating the Australian National University’s procedures for reporting harassment or discrimination. Learn about formal complaint pathways, confidential support services, and the Respectful Relationships Policy for students and staff.
 author: cowork
 tags: ["ANU harassment reporting", "ANU discrimination complaint", "ANU student support services", "ANU respectful relationships policy", "campus safety"]
 slug: anu-procedure-reporting-harassment-discrimination-support-formal-complaints
-ogImage: 
+ogImage: ""
 ---
 
 ## Understanding Harassment and Discrimination at ANU

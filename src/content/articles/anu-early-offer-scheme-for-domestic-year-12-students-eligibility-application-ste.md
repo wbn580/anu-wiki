@@ -2,7 +2,7 @@
 title: "ANU Early Offer Scheme for Domestic Year 12 Students: Eligibility, Application Steps, and ATAR Adjustment Factors"
 description: "澳大利亚国立大学（ANU）于 2022 年首次面向国内 12 年级学生推出早期录取计划（Early Offer Scheme），该计划允许学生在获得 ATAR 成绩前，基于 11 年级成绩和 12 年级第一学期表现提前获得有条件录取通知书。根据澳大利亚教育部 2023 年《高等教育学生数据》报告，ANU 当年通过…"
 category: "ANU"
-pubDatetime: 2026-04-21T19:57:41Z
+pubDatetime: '2026-04-21T19:57:41Z'
 publishDate: '2026-04-21T19:57:41Z'
 readingTime: 3
 tags: ["featured"]

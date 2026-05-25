@@ -2,7 +2,7 @@
 title: "How to Audit a Course at ANU as an International Student: Permission Process, Fees, and Limitations on Assessment"
 description: "课程旁听（Audit）是澳大利亚国立大学（ANU）允许学生在不参与正式评估的前提下参加课程讲座与讨论的制度安排。根据澳大利亚教育部 2023 年发布的《海外学生教育服务法案》（ESOS Act）合规指引，国际学生持有学生签证（Subclass 500）时，其课程注册必须满足全日制学习要求，旁听课程不计入正式学分，…"
 category: "How"
-pubDatetime: 2026-05-10T20:01:08Z
+pubDatetime: '2026-05-10T20:01:08Z'
 publishDate: '2026-05-10T20:01:08Z'
 readingTime: 3
 tags: ["featured"]

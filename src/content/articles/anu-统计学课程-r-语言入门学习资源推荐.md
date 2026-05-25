@@ -2,7 +2,7 @@
 title: "ANU 统计学课程 R 语言入门学习资源推荐"
 description: "澳洲国立大学（ANU）统计学课程中，R 语言是贯穿本科与研究生阶段的核心计算工具。根据 2024 年 QS 世界大学学科排名，ANU 统计学与运筹学位列全球第 36 位，其课程体系要求学生在第一学年即掌握 R 语言基础编程与数据分析能力。澳大利亚统计局（ABS）2023 年发布的《数据科学技能需求报告》指出，R …"
 category: "ANU 统计学课程 R "
-pubDatetime: 2026-03-04T19:47:44Z
+pubDatetime: '2026-03-04T19:47:44Z'
 publishDate: '2026-03-04T19:47:44Z'
 readingTime: 12
 tags: ["featured"]

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Student Card Functions: Building Access, Printing, and Identification on Campus
+title: "ANU Student Card Functions: Building Access, Printing, and Identification on Campus"
 category: 'general'
 description: A comprehensive guide to the Australian National University student card, covering application steps, building access protocols, printing account setup, exam identification requirements, and campus security features for the 2026 academic year.
 author: cowork
 tags: ["ANU student card", "campus access", "printing account", "student identification", "Australian National University"]
 slug: anu-student-card-functions-building-access-printing-identification
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University student card is far more than a plastic rectangle with your photo on it. In 2026, it functions as your primary key to campus life, integrating building access, printing services, library borrowing, and formal examination identification into a single credential. According to the ANU Security Office, over 18,000 active student cards are in daily circulation across the Acton campus, with an average of 4,200 building access events logged each weekday during semester. The ANU Information Technology Services reports that students collectively print more than 1.2 million pages annually through the uniFLOW system, every single job authenticated by a student card tap. Understanding the full range of your card’s capabilities from day one saves time, reduces frustration, and ensures you never find yourself locked out of a critical resource. This guide walks through the application process, building access protocols, printing account management, and exam identification rules that every ANU student needs to know for the 2026 academic year.

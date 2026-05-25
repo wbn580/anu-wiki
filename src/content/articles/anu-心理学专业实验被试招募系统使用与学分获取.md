@@ -2,7 +2,7 @@
 title: "ANU 心理学专业实验被试招募系统使用与学分获取"
 description: "澳大利亚国立大学（ANU）心理学专业的实验被试招募系统（Research Participation System，RPS）是学生参与心理学研究、获取课程学分的一项制度化安排。根据ANU心理学院2024年发布的《实验参与指南》，该校每年通过RPS平台发布超过200项实验研究，涵盖认知、社会、临床与发展心理学等多个…"
 category: "ANU 心理学专业实验被"
-pubDatetime: 2026-03-09T19:48:56Z
+pubDatetime: '2026-03-09T19:48:56Z'
 publishDate: '2026-03-09T19:48:56Z'
 readingTime: 12
 tags: ["featured"]

@@ -7,7 +7,7 @@ publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: anu-accommodation-cost-comparison-2024
 ogImage: 'https://img.ulec.com.cn/留学-单校wiki/anu-accommodation-cost-comparison-2024-2026-1880x1253.jpg'
-tags: []
+tags:
   - 'ANU住宿'
   - 'ANU校内宿舍'
   - 'Davey Lodge'

@@ -2,7 +2,7 @@
 title: "Best ANU Campus Cafes for Group Study Sessions: A Review of Seating Capacity, Power Outlets, and Noise Levels"
 description: "澳大利亚国立大学（ANU）主校区占地145公顷，容纳超过25,000名学生，其校园内分布着20余处餐饮设施。对于需要长时间进行小组学习的学生而言，咖啡馆的选择直接影响学习效率。根据ANU 2023年发布的《校园空间使用报告》，学生在学期中每周平均花费16.2小时在校园内进行非正式学习，其中超过四成的时间在咖啡馆度…"
 category: "Best"
-pubDatetime: 2026-04-28T19:58:51Z
+pubDatetime: '2026-04-28T19:58:51Z'
 publishDate: '2026-04-28T19:58:51Z'
 readingTime: 3
 tags: ["featured"]

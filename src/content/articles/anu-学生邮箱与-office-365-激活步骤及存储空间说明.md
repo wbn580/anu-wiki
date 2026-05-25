@@ -2,7 +2,7 @@
 title: "ANU 学生邮箱与 Office 365 激活步骤及存储空间说明"
 description: "澳洲国立大学（ANU）为所有注册学生提供终身有效的学生邮箱（`uXXXXXXX@anu.edu.au`）及 Microsoft Office 365 教育版套件。根据 ANU 信息技术服务部（ITS）2024 年发布的数据，每位学生可获得 **5 TB 的 OneDrive 云存储空间**，且 Office 36…"
 category: "ANU 学生邮箱与 Of"
-pubDatetime: 2026-03-05T19:48:03Z
+pubDatetime: '2026-03-05T19:48:03Z'
 publishDate: '2026-03-05T19:48:03Z'
 readingTime: 10
 tags: ["featured"]

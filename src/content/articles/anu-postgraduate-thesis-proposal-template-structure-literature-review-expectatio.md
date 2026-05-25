@@ -2,7 +2,7 @@
 title: "ANU Postgraduate Thesis Proposal Template: Structure, Literature Review Expectations, and Oral Defence Preparation"
 description: "澳大利亚国立大学（ANU）的研究生学位体系中，**论文开题报告（Thesis Proposal）** 是决定研究能否顺利推进的关键节点。根据 ANU 研究生院 2024 年发布的《Higher Degree by Research (HDR) 政策手册》，所有博士（PhD）申请人必须在入学后 12 个月内通过开题…"
 category: "ANU"
-pubDatetime: 2026-04-24T19:58:13Z
+pubDatetime: '2026-04-24T19:58:13Z'
 publishDate: '2026-04-24T19:58:13Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU School of Architecture Model-Making Workshop: Induction Process, Laser Cutter Access, and Material Costs"
 description: "澳大利亚国立大学（ANU）建筑与设计学院的模型制作工坊（Model-Making Workshop）是建筑学、设计学及工程学学生完成实体模型制作的核心设施。该工坊每年服务超过 1,200 名注册学生，配备 6 台工业级激光切割机（包括 2 台 Trotec Speedy 400 和 4 台 Epilog Zing…"
 category: "ANU"
-pubDatetime: 2026-05-14T20:02:02Z
+pubDatetime: '2026-05-14T20:02:02Z'
 publishDate: '2026-05-14T20:02:02Z'
 readingTime: 3
 tags: ["featured"]

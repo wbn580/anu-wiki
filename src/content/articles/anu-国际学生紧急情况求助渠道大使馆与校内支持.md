@@ -2,7 +2,7 @@
 title: "ANU 国际学生紧急情况求助渠道：大使馆与校内支持"
 description: "截至 2024 年，澳大利亚国立大学（ANU）在校国际学生总数超过 12,000 人，占全校学生总数的约 40%（Australian Government Department of Education, 2024, International Student Data）。面对文化适应、法律差异及突发安全事件，…"
 category: "ANU 国际学生紧急情况"
-pubDatetime: 2026-03-06T19:48:18Z
+pubDatetime: '2026-03-06T19:48:18Z'
 publishDate: '2026-03-06T19:48:18Z'
 readingTime: 15
 tags: ["featured"]

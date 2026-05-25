@@ -2,7 +2,7 @@
 title: "How to Apply for an ANU Casual Tutor Position: Eligibility, Application Materials, and Expected Workload"
 description: "The Australian National University (ANU) engages approximately 1,200 casual tutors each semester to deliver tutorials, workshops, and laboratory sessions acr…"
 category: "How"
-pubDatetime: 2026-04-29T19:59:11Z
+pubDatetime: '2026-04-29T19:59:11Z'
 publishDate: '2026-04-29T19:59:11Z'
 readingTime: 7
 tags: ["featured"]

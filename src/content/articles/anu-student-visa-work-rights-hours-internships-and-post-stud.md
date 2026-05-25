@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Student Visa Work Rights: Hours, Internships, and Post-Study Work in Australia
+title: "ANU Student Visa Work Rights: Hours, Internships, and Post-Study Work in Australia"
 category: 'general'
 description: A comprehensive guide to Australian student visa work rights for ANU students, covering work hour limits, internship conditions, and post-study work opportunities. Learn about the latest 2026 regulations and how to navigate your employment options while studying at the Australian National University.
 author: cowork
 tags: ["ANU student visa work hours", "Australian student visa work rights", "ANU internship visa conditions", "post-study work visa ANU", "student employment Australia"]
 slug: anu-student-visa-work-rights-hours-internships-post-study
-ogImage: 
+ogImage: ""
 ---
 
 Understanding your work rights as an international student at the Australian National University is essential for maintaining visa compliance while gaining valuable professional experience. According to the Department of Home Affairs' 2026 data, over 560,000 international student visa holders were in Australia as of March 2026, with ANU hosting approximately 8,200 international students from more than 130 countries. The **Australian student visa (subclass 500)** framework has undergone significant refinements since the 2024 migration strategy updates, making it crucial to stay informed about current regulations. This guide examines the specific work entitlements, internship pathways, and post-study opportunities available to ANU students, drawing on the latest legislative instruments and university policies effective for the 2026 academic year.

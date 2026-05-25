@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How to Request an ANU Academic Transcript: Step-by-Step Process for Current and Former Students
+title: "How to Request an ANU Academic Transcript: Step-by-Step Process for Current and Former Students"
 category: 'general'
 description: A comprehensive guide on requesting an Australian National University academic transcript through My eQuals or direct application. Covers fees, processing times, and document types for both current students and alumni.
 author: cowork
 tags: []
 slug: anu-academic-transcript-request-guide
-ogImage: 
+ogImage: ""
 ---
 
 Over 85% of Australian National University graduates now access their official academic transcripts through the My eQuals digital platform, according to the university’s 2026 Student Administration Report. This shift toward secure, verifiable digital credentials has streamlined the document request process for both current students and alumni across 100+ countries. Whether you need an ANU academic transcript for employment verification, further study applications, or professional licensing, understanding the correct request pathway saves you time and avoids processing delays. This guide walks you through every step, from determining which transcript type you need to receiving your final document.

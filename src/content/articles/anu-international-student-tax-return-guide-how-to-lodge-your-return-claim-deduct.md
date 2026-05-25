@@ -2,7 +2,7 @@
 title: "ANU International Student Tax Return Guide: How to Lodge Your Return, Claim Deductions, and Access the ATO MyGov Portal"
 description: "澳大利亚税法规定，所有在澳居住超过 183 天的个人通常被视为税务居民，包括在澳洲国立大学（ANU）就读的国际学生。根据澳大利亚税务局（ATO）2024 年发布的《税务居民指南》，国际学生若在 ANU 注册全日制课程且居住超过 6 个月，即需履行报税义务。2023-24 财年，ATO 共处理超过 1,700 万份…"
 category: "ANU"
-pubDatetime: 2026-04-25T19:58:16Z
+pubDatetime: '2026-04-25T19:58:16Z'
 publishDate: '2026-04-25T19:58:16Z'
 readingTime: 3
 tags: ["featured"]

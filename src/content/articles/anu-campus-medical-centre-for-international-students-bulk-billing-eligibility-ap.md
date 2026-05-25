@@ -2,7 +2,7 @@
 title: "ANU Campus Medical Centre for International Students: Bulk Billing Eligibility, Appointment Types, and After-Hours Care"
 description: "澳大利亚国立大学（ANU）校内医疗中心（Campus Medical Centre）是该校为全体学生及教职工提供初级医疗服务的官方机构。根据澳大利亚政府卫生部2023年发布的《医疗保险福利计划（MBS）统计报告》，持有有效海外学生医疗保险（OSHC）的国际学生在校内医疗中心就诊时，可享受全额报销（即Bulk Bi…"
 category: "ANU"
-pubDatetime: 2026-05-19T20:02:55Z
+pubDatetime: '2026-05-19T20:02:55Z'
 publishDate: '2026-05-19T20:02:55Z'
 readingTime: 3
 tags: ["featured"]

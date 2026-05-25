@@ -2,7 +2,7 @@
 title: "How to Transfer Credits from a Chinese University to ANU: A Guide to Qualification Recognition and Unit Mapping"
 description: "截至2025年，中国已成为澳大利亚国际学生的最大来源国，占澳大利亚国际学生注册总数的约22%（澳大利亚教育部，2024，《国际学生数据年度报告》）。对于从中国大学计划转入澳大利亚国立大学（ANU）的学生而言，学分转换与资格认证是决定学业衔接效率的核心环节。ANU采用澳大利亚学历资格框架（AQF）与课程映射（Uni…"
 category: "How"
-pubDatetime: 2026-04-24T19:58:15Z
+pubDatetime: '2026-04-24T19:58:15Z'
 publishDate: '2026-04-24T19:58:15Z'
 readingTime: 3
 tags: ["featured"]

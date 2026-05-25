@@ -2,7 +2,7 @@
 title: "How to Write a Strong ANU Undergraduate Personal Statement: Structure, Key Prompts, and Annotated Example Essays"
 description: "The Australian National University (ANU) received 21,962 undergraduate applications for the 2024 academic year, with an offer rate of approximately 72.5%, ac…"
 category: "How"
-pubDatetime: 2026-04-19T19:57:16Z
+pubDatetime: '2026-04-19T19:57:16Z'
 publishDate: '2026-04-19T19:57:16Z'
 readingTime: 8
 tags: ["featured"]

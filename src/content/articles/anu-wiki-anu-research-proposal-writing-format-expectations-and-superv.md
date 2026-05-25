@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: ANU Research Proposal Writing: Format, Expectations, and Supervisor Matching
+title: "ANU Research Proposal Writing: Format, Expectations, and Supervisor Matching"
 category: 'general'
 description: Master the ANU research proposal with this comprehensive guide covering proposal format, academic expectations, and effective supervisor matching strategies. Learn how to craft a compelling HDR application that stands out to the Australian National University's selection committee.
 author: Senior Research Editor

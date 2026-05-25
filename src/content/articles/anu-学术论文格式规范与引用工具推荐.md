@@ -2,7 +2,7 @@
 title: "ANU 学术论文格式规范与引用工具推荐"
 description: "澳大利亚国立大学（ANU）作为澳大利亚八校联盟（Group of Eight）成员，其学术论文格式规范直接关联到学生的学术诚信评分与毕业资格。根据澳大利亚高等教育质量与标准署（TEQSA, 2023）发布的《学术诚信指南》，引用不规范导致的抄袭行为占澳大利亚高校学术不端案件的67%。ANU官方《学术写作与引用手册…"
 category: "ANU 学术论文格式规范"
-pubDatetime: 2026-03-03T19:47:38Z
+pubDatetime: '2026-03-03T19:47:38Z'
 publishDate: '2026-03-03T19:47:38Z'
 readingTime: 13
 tags: ["featured"]

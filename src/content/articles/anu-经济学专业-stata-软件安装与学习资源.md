@@ -2,7 +2,7 @@
 title: "ANU 经济学专业 Stata 软件安装与学习资源"
 description: "澳大利亚国立大学（ANU）经济学专业将 Stata 列为本科与研究生阶段计量经济学课程的核心统计软件。根据 ANU 经济学研究学院（RSFE）2024 年课程大纲，EMET2007（计量经济学原理）与 EMET6007（高级计量经济学）等必修课程均要求学生使用 Stata 完成数据分析和实证作业。澳洲技能与就业部…"
 category: "ANU 经济学专业 St"
-pubDatetime: 2026-03-17T19:50:36Z
+pubDatetime: '2026-03-17T19:50:36Z'
 publishDate: '2026-03-17T19:50:36Z'
 readingTime: 10
 tags: ["featured"]

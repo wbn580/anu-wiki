@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Advanced Computing vs Computer Science: Key Differences Explained for 2026
+title: "ANU Advanced Computing vs Computer Science: Key Differences Explained for 2026"
 category: 'general'
 description: Discover the critical differences between ANU's Bachelor of Advanced Computing and Bachelor of Computer Science degrees. Compare course structures, specialisations, career outcomes, and entry requirements for 2026 to make an informed decision.
 author: cowork
 tags: ["ANU computing degree comparison", "ANU advanced computing career outcomes", "ANU computer science specialisations", "ANU computing course structure", "Australian National University computing"]
 slug: anu-advanced-computing-vs-computer-science
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) continues to hold its position as Australia's number one university, according to the QS World University Rankings 2026. Its computing programs attract students from across the globe, but many prospective applicants face a common dilemma: should they enrol in the **Bachelor of Advanced Computing (Honours)** or the **Bachelor of Computer Science**? While both degrees share foundational coursework, they diverge significantly in structure, depth, and intended career pathways. According to the Australian Computer Society's 2026 Digital Pulse report, demand for specialised computing professionals in Australia is projected to grow by 23% through 2030, making the choice between these two programs more consequential than ever. This comprehensive comparison examines the core distinctions to help you determine which pathway aligns with your academic ambitions and professional goals.

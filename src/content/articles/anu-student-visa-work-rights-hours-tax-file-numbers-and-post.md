@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Student Visa Work Rights: Hours, Tax File Numbers, and Post-Study Options
+title: "ANU Student Visa Work Rights: Hours, Tax File Numbers, and Post-Study Options"
 category: 'general'
 description: A comprehensive guide for international students at the Australian National University covering work hour limits, Tax File Number applications, post-study visa pathways, and compliance with student visa conditions ANU enforces.
 author: cowork
 tags: ["ANU student visa work hours", "international student TFN Australia", "ANU post-study work visa", "student visa conditions ANU", "ANU graduate visa pathway"]
 slug: anu-student-visa-work-rights-hours-tfn-post-study-options
-ogImage: 
+ogImage: ""
 ---
 
 Navigating employment regulations while pursuing a degree at a Group of Eight institution requires precise understanding of Australian immigration law. According to the Department of Home Affairs' **2026 Migration Program Planning Levels**, international students contributed over 600,000 workers to the Australian economy, with temporary graduate visa grants increasing by 12% compared to the previous program year. The Australian Taxation Office reported that approximately 450,000 international students registered for a **Tax File Number** in the 2025-2026 financial year, highlighting the scale of student workforce participation.

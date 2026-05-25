@@ -2,7 +2,7 @@
 title: "ANU 影视研究专业校内放映活动日程与讨论会"
 description: "ANU 影视研究专业（Film and Media Studies）每学期举办约 15 至 20 场校内放映活动与配套讨论会，覆盖从经典电影理论到当代数字媒体制作的多层次内容。根据澳大利亚影视行业组织 Screen Australia 2023 年发布的《影视劳动力报告》，全澳影视行业从业者在 2022 年达到 …"
 category: "ANU 影视研究专业校内"
-pubDatetime: 2026-04-01T19:53:41Z
+pubDatetime: '2026-04-01T19:53:41Z'
 publishDate: '2026-04-01T19:53:41Z'
 readingTime: 12
 tags: ["featured"]

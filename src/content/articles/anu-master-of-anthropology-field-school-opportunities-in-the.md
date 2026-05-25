@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Anthropology: Field School Opportunities in the Pacific and Southeast Asia
+title: "ANU Master of Anthropology: Field School Opportunities in the Pacific and Southeast Asia"
 category: 'general'
 description: Explore the Australian National University's Master of Anthropology program with immersive field schools in the Pacific and Southeast Asia. Discover research opportunities, fieldwork training, and PhD preparation pathways for aspiring social scientists.
 author: cowork
 tags: ["anu anthropology field school", "anu master anthropology pacific", "anu anthropology research", "anu social science fieldwork", "anu anthropology phd preparation"]
 slug: anu-master-anthropology-field-school-pacific-southeast-asia
-ogImage: 
+ogImage: ""
 ---
 
 ## Introduction to ANU's Anthropology Program

@@ -2,7 +2,7 @@
 title: "ANU Machine Learning GPU Server Access: How to Request Resources for Your COMP Course Project and Usage Quotas"
 description: "澳大利亚国立大学（ANU）为计算机科学（COMP）课程的学生提供专用的**机器学习GPU服务器**访问权限，以支持深度学习模型训练和计算密集型项目。截至2024年，ANU信息技术服务部（ITS）与工程、计算与控制学院（CECS）联合管理的GPU集群包含超过**120块NVIDIA GPU**（包括V100、A10…"
 category: "ANU"
-pubDatetime: 2026-05-11T20:01:27Z
+pubDatetime: '2026-05-11T20:01:27Z'
 publishDate: '2026-05-11T20:01:27Z'
 readingTime: 3
 tags: ["featured"]

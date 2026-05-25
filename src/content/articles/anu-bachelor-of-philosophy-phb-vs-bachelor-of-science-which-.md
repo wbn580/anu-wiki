@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Bachelor of Philosophy (PhB) vs Bachelor of Science: Which One Suits Your Research Goals
+title: "ANU Bachelor of Philosophy (PhB) vs Bachelor of Science: Which One Suits Your Research Goals"
 category: 'general'
 description: A comprehensive comparison between the Australian National University's research-intensive Bachelor of Philosophy (PhB) and the flexible Bachelor of Science (BSc). Explore entry requirements, research opportunities, Honours pathways, and career outcomes to determine which program aligns with your academic ambitions in 2026.
 author: cowork
 tags: ["ANU PhB vs BSc comparison", "ANU Bachelor of Philosophy research opportunities", "ANU PhB entry requirements and benefits", "ANU BSc Honours pathway", "difference between ANU PhB and advanced science"]
 slug: anu-phb-vs-bsc-research-goals
-ogImage: 
+ogImage: ""
 ---
 
 Choosing between the **ANU Bachelor of Philosophy (PhB)** and the **ANU Bachelor of Science (BSc)** is one of the most significant decisions for a research-oriented undergraduate. Both degrees are offered by the Australian National University, an institution that consistently ranks among the world's top 50 according to the QS World University Rankings 2026. However, they serve fundamentally different academic philosophies. The PhB is a highly selective, research-immersive program designed to fast-track students into a PhD, while the BSc provides broad, flexible training across scientific disciplines with an optional Honours year. According to the ANU Annual Report 2025, over 85% of PhB graduates proceed directly to postgraduate research degrees, compared to just 15% of BSc graduates who transition immediately into a PhD program. Understanding these structural differences is essential for aligning your undergraduate pathway with your long-term research goals.

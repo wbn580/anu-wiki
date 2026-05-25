@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Bachelor of Engineering Flexible First Year vs Direct Specialisation Entry: How Late You Can Change Majors
+title: "ANU Bachelor of Engineering Flexible First Year vs Direct Specialisation Entry: How Late You Can Change Majors"
 category: 'general'
 description: Explore the key differences between ANU's Bachelor of Engineering Flexible First Year and Direct Specialisation entry paths. Learn about major change deadlines, stream switch rules, credit carry-over policies, and how late you can realistically change your engineering major at the Australian National University.
 author: cowork
 tags: []
 slug: anu-engineering-flexible-first-year-vs-direct-specialisation-entry-major-change
-ogImage: 
+ogImage: ""
 ---
 
 Starting an engineering degree is a significant commitment, and the Australian National University (ANU) recognises that students do not always arrive with complete certainty about which specialisation suits them best. The ANU Bachelor of Engineering (Honours) programme offers two distinct entry pathways: the **Flexible First Year** and **Direct Specialisation Entry**. Each path carries different implications for how late you can change majors, which courses carry forward, and how smoothly a transition between streams works.

@@ -2,7 +2,7 @@
 title: "ANU International Scholarship Renewal Conditions: Maintaining a Satisfactory GPA and Full-Time Study Load"
 description: "澳大利亚国立大学（ANU）每年向国际学生发放超过 2,000 万澳元的奖学金，涵盖本科至博士阶段。根据 ANU 官方 2024 年《奖学金条款与条件》文件，所有持续性奖学金均要求获得者维持 **最低加权平均分（GPA）4.0/7.0**（相当于 Distinction 等级）以及 **每学期至少 75% 的全日制…"
 category: "ANU"
-pubDatetime: 2026-04-15T19:56:25Z
+pubDatetime: '2026-04-15T19:56:25Z'
 publishDate: '2026-04-15T19:56:25Z'
 readingTime: 3
 tags: ["featured"]

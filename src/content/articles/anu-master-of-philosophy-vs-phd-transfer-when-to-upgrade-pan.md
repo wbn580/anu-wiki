@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Philosophy vs PhD Transfer: When to Upgrade, Panel Approval Requirements and Scholarship Implications
+title: "ANU Master of Philosophy vs PhD Transfer: When to Upgrade, Panel Approval Requirements and Scholarship Implications"
 category: 'general'
 description: A comprehensive guide for ANU research candidates navigating the MPhil to PhD upgrade pathway. Explore eligibility timelines, panel approval checklists, scholarship transition rules, and strategic considerations to make an informed decision about your research degree trajectory at the Australian National University in 2026.
 author: cowork
 tags: ["ANU research degrees", "MPhil to PhD upgrade", "Australian National University", "research scholarship transfer", "higher degree by research"]
 slug: anu-mphil-phd-transfer-upgrade-guide
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University remains one of the world's most sought-after destinations for research training, with over 3,000 higher degree by research candidates enrolled across its seven academic colleges as of early 2026. Among these candidates, a significant number begin their journey in the Master of Philosophy program with a clear intention to upgrade to the PhD. According to the ANU Graduate Research Office's 2026 enrolment statistics, approximately 28% of MPhil candidates successfully transition to the doctoral program within the first 14 months of candidature. Understanding the precise mechanics of this upgrade pathway—from **ANU MPhil to PhD transfer** timelines to **scholarship change implications**—can mean the difference between a seamless transition and an unexpected funding gap.

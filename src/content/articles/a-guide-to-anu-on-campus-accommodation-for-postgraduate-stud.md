@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
 title: A Guide to ANU On-Campus Accommodation for Postgraduate Students
 category: 'general'
@@ -7,7 +7,7 @@ description: Discover the best options for ANU postgraduate accommodation in 202
 author: cowork
 tags: ["ANU accommodation", "postgraduate housing", "Australian National University", "graduate student life", "campus living"]
 slug: anu-on-campus-accommodation-postgraduate-students
-ogImage: 
+ogImage: ""
 ---
 
 Choosing the right place to live is a pivotal decision for any postgraduate student. The Australian National University (ANU) offers a range of on-campus accommodation options designed to support academic focus and community building. In 2026, ANU expects to house over 4,200 students across its residential halls and apartments, with dedicated spaces for graduate learners. This guide explores everything you need to know about **ANU postgraduate accommodation**, from application timelines to daily living experiences.

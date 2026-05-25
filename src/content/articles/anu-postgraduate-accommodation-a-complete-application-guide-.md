@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Postgraduate Accommodation: A Complete Application Guide for International Students in 2026
+title: "ANU Postgraduate Accommodation: A Complete Application Guide for International Students in 2026"
 category: 'general'
 description: A step-by-step walkthrough for international postgraduate students applying for ANU on-campus accommodation. Covers Graduate House, UniLodge, fees, application timelines, and essential tips to secure your room before the 2026 academic year.
 author: cowork
 tags: []
 slug: anu-postgraduate-accommodation-guide-international-2026
-ogImage: 
+ogImage: ""
 ---
 
 Planning your move to the Australian National University as an international postgraduate student is exciting—but finding the right place to live can feel overwhelming. According to the **ANU 2026 International Student Housing Report**, over 3,400 postgraduate students applied for on-campus accommodation in the previous academic cycle, with demand peaking between October and January. The **ANU Accommodation Services** data shows that early applicants are **47% more likely** to receive their first preference, especially for high-demand residences like Graduate House.

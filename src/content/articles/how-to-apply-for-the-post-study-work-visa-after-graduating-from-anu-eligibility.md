@@ -2,7 +2,7 @@
 title: "How to Apply for the Post-Study Work Visa After Graduating from ANU: Eligibility, Documents, and Processing Times"
 description: "自 2023 年 7 月 1 日起，澳大利亚移民局将符合条件的国际毕业生**临时毕业生签证（Subclass 485）**的停留期限延长至最长 4 年，其中获得指定学位的澳洲国立大学（ANU）毕业生可享受这一政策调整【澳大利亚内政事务部，2023，Migration Amendment Regulations 2…"
 category: "How"
-pubDatetime: 2026-04-18T19:56:59Z
+pubDatetime: '2026-04-18T19:56:59Z'
 publishDate: '2026-04-18T19:56:59Z'
 readingTime: 3
 tags: ["featured"]

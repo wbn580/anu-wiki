@@ -2,7 +2,7 @@
 title: "ANU Data Science Kaggle Competition Teams: How to Find Teammates, Join the ANU Data Society, and Access Compute Resources"
 description: "澳大利亚国立大学（ANU）的数据科学竞赛团队（Kaggle Competition Teams）是该校学生参与机器学习实战、构建项目组合的核心途径之一。截至2024年，ANU计算机科学学院（School of Computing）在QS世界大学学科排名中位列第40位【QS, 2024, World Univers…"
 category: "ANU"
-pubDatetime: 2026-05-20T20:03:06Z
+pubDatetime: '2026-05-20T20:03:06Z'
 publishDate: '2026-05-20T20:03:06Z'
 readingTime: 3
 tags: ["featured"]

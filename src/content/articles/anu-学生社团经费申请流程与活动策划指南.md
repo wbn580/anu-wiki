@@ -2,7 +2,7 @@
 title: "ANU 学生社团经费申请流程与活动策划指南"
 description: "澳大利亚国立大学（ANU）拥有超过 180 个注册学生社团，覆盖学术、文化、体育与兴趣领域。根据 ANU 学生协会（ANUSA）2023 年年度报告，该协会在当年向学生社团拨付了总计约 35 万澳元的经费，其中单笔活动资助金额从 200 澳元到 5,000 澳元不等。与此同时，ANU 研究生协会（PARSA）在 …"
 category: "ANU 学生社团经费申请"
-pubDatetime: 2026-02-28T19:47:00Z
+pubDatetime: '2026-02-28T19:47:00Z'
 publishDate: '2026-02-28T19:47:00Z'
 readingTime: 11
 tags: ["featured"]

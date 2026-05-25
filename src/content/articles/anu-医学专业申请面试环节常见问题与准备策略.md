@@ -2,7 +2,7 @@
 title: "ANU 医学专业申请面试环节常见问题与准备策略"
 description: "澳大利亚国立大学（ANU）医学与健康学院（College of Health and Medicine）的医学博士（Doctor of Medicine, MD）项目，是澳大利亚竞争最激烈的临床医学入学通道之一。根据澳大利亚医学委员会（Australian Medical Council, 2023）的数据，AN…"
 category: "ANU 医学专业申请面试"
-pubDatetime: 2026-03-02T19:47:32Z
+pubDatetime: '2026-03-02T19:47:32Z'
 publishDate: '2026-03-02T19:47:32Z'
 readingTime: 12
 tags: ["featured"]

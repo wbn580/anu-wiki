@@ -2,7 +2,7 @@
 title: "ANU Urban Planning GIS Workshop Series: How to Register, Software Prerequisites, and Portfolio Project Briefs"
 description: "澳大利亚国立大学（ANU）自2023年起，其城市规划与设计硕士（Master of Urban Planning）项目每年举办两轮 **GIS Workshop Series**，每轮开放 60 个名额，通常在学期第 3 周开放注册、第 6 周截止。该系列工作坊由 ANU 地理学院（Fenner School o…"
 category: "ANU"
-pubDatetime: 2026-05-18T20:02:49Z
+pubDatetime: '2026-05-18T20:02:49Z'
 publishDate: '2026-05-18T20:02:49Z'
 readingTime: 3
 tags: ["featured"]

@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: Navigating ANU's ISIS System: Enrolment, Results, and Personal Details Explained
+title: "Navigating ANU's ISIS System: Enrolment, Results, and Personal Details Explained"
 category: 'general'
 description: Master the ANU ISIS student portal with our comprehensive guide. Learn step-by-step how to manage enrolment, check grades, and update personal details efficiently. With over 20,000 students relying on ISIS annually, discover essential tips and troubleshooting advice for seamless university administration.
 author: StudyAbroad Editorial Team

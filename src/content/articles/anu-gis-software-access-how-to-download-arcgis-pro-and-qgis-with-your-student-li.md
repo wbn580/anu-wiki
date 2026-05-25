@@ -2,7 +2,7 @@
 title: "ANU GIS Software Access: How to Download ArcGIS Pro and QGIS with Your Student Licence and Enrol in Training Courses"
 description: "澳大利亚国立大学（ANU）为在校学生提供多种地理信息系统（GIS）软件的免费或折扣访问权限，涵盖行业标准工具ArcGIS Pro与开源平台QGIS。据ANU信息技术服务部2024年发布的《学生软件目录》，该校所有注册学生均可通过ArcGIS Online门户免费获取ArcGIS Pro的年度学生许可，该许可包含全…"
 category: "ANU"
-pubDatetime: 2026-05-01T19:59:27Z
+pubDatetime: '2026-05-01T19:59:27Z'
 publishDate: '2026-05-01T19:59:27Z'
 readingTime: 3
 tags: ["featured"]

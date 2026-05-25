@@ -2,7 +2,7 @@
 title: "ANU 校园文具店位置与教材订购折扣信息"
 description: "澳大利亚国立大学（ANU）主校区Acton共有7处官方文具与教材零售点，其中**ANU Co-op Bookshop**是唯一获得校方授权的教材零售商，覆盖超过95%的课程指定书目。根据澳大利亚出版商协会2023年统计数据，澳大利亚大学生每学期平均教材支出为662澳元【Australian Publishers …"
 category: "ANU 校园文具店位置与"
-pubDatetime: 2026-03-27T19:52:42Z
+pubDatetime: '2026-03-27T19:52:42Z'
 publishDate: '2026-03-27T19:52:42Z'
 readingTime: 12
 tags: ["featured"]

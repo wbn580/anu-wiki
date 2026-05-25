@@ -2,7 +2,7 @@
 title: "How to Apply for an Exemption from ANU Postgraduate Coursework Prerequisites Based on Prior Study or Experience"
 description: "澳大利亚国立大学（ANU）每年收到超过 25,000 份研究生课程申请，其中约 12% 的申请人因未能满足特定先修课程要求而被标记为条件录取或拒录（ANU Admissions Office, 2023, *Postgraduate Admissions Data Report*）。根据澳大利亚教育部 2023 …"
 category: "How"
-pubDatetime: 2026-04-23T19:57:49Z
+pubDatetime: '2026-04-23T19:57:49Z'
 publishDate: '2026-04-23T19:57:49Z'
 readingTime: 3
 tags: ["featured"]

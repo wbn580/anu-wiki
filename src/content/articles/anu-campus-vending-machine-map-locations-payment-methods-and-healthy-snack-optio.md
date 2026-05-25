@@ -2,7 +2,7 @@
 title: "ANU Campus Vending Machine Map: Locations, Payment Methods, and Healthy Snack Options"
 description: "澳大利亚国立大学（ANU）校园内分布着超过40台自动售货机，覆盖从Acton主校区到郊区宿舍的全部主要建筑。根据ANU设施管理部2024年发布的《校园零售服务报告》，这些机器每年处理超过12万笔交易，其中约35%发生在图书馆和教学楼的非营业时段（18:00-08:00）。随着2025年ANU全面推行无现金校园政策…"
 category: "ANU"
-pubDatetime: 2026-05-02T19:59:47Z
+pubDatetime: '2026-05-02T19:59:47Z'
 publishDate: '2026-05-02T19:59:47Z'
 readingTime: 3
 tags: ["featured"]

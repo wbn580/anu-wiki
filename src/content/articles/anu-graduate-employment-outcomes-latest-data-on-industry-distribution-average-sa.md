@@ -2,7 +2,7 @@
 title: "ANU Graduate Employment Outcomes: Latest Data on Industry Distribution, Average Salaries, and Career Centre Resources"
 description: "澳大利亚国立大学（ANU）2023年毕业生就业成果数据显示，**全职就业率**达到84.5%，毕业生**平均年薪**为78,000澳元，两项指标均高于澳大利亚全国大学平均水平（澳洲政府教学质量指标QILT，2023年毕业生成果调查）。在全球就业能力排名中，ANU位列全球第32位（泰晤士高等教育全球就业能力排名，2…"
 category: "ANU"
-pubDatetime: 2026-04-13T19:56:01Z
+pubDatetime: '2026-04-13T19:56:01Z'
 publishDate: '2026-04-13T19:56:01Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Residential Halls Recycling and Sustainability Guide: Correct Bin Usage, Compost Programs, and Green Initiatives"
 description: "澳大利亚国立大学（ANU）的住宿学院系统每年容纳超过 6,500 名学生，其产生的废弃物总量占校园总废弃物的显著比例。根据 ANU 环境与安全局 2023 年发布的《校园废弃物审计报告》，住宿区生活垃圾中约有 35% 为可回收物，另有 12% 为可堆肥有机废物，但实际分类准确率仅为 62%。与此同时，澳大利亚首都…"
 category: "ANU"
-pubDatetime: 2026-05-03T19:59:51Z
+pubDatetime: '2026-05-03T19:59:51Z'
 publishDate: '2026-05-03T19:59:51Z'
 readingTime: 3
 tags: ["featured"]

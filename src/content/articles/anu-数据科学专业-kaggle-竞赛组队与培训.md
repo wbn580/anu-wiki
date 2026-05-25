@@ -2,7 +2,7 @@
 title: "ANU 数据科学专业 Kaggle 竞赛组队与培训"
 description: "澳大利亚国立大学（ANU）数据科学专业的学生参与Kaggle竞赛已成为学术训练与职业发展的重要环节。据Kaggle官方统计，截至2024年，该平台拥有超过1000万注册用户，其中活跃竞赛团队数量较2019年增长约340%【Kaggle, 2024, State of Data Science Report】。AN…"
 category: "ANU 数据科学专业 K"
-pubDatetime: 2026-04-05T19:54:33Z
+pubDatetime: '2026-04-05T19:54:33Z'
 publishDate: '2026-04-05T19:54:33Z'
 readingTime: 15
 tags: ["featured"]

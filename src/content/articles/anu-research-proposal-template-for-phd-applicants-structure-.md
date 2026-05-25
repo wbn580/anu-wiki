@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Research Proposal Template for PhD Applicants: Structure and Tips
+title: "ANU Research Proposal Template for PhD Applicants: Structure and Tips"
 category: 'general'
 description: A comprehensive guide to crafting a compelling research proposal for ANU PhD applications. Learn the essential structure, key components, and expert tips to strengthen your doctoral application at the Australian National University in 2026.
 author: cowork
 tags: ["ANU PhD research proposal template", "ANU research proposal structure", "how to write research proposal ANU", "ANU doctoral application tips", "Australian National University PhD"]
 slug: anu-research-proposal-template-phd-applicants
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University consistently ranks among the world's top 35 institutions according to QS World University Rankings 2026, attracting thousands of doctoral applicants annually. Your research proposal often determines whether you secure a place in ANU's competitive PhD programs, where acceptance rates hover around 18-22% across most disciplines. A well-structured proposal demonstrates not just your academic potential but your ability to contribute meaningfully to ANU's research ecosystem. This guide breaks down the **ANU PhD research proposal template** into actionable components, offering concrete strategies for each section. Whether you are applying to the College of Science, College of Arts and Social Sciences, or the College of Engineering and Computer Science, the principles outlined here will help you craft a document that resonates with potential supervisors and selection committees.

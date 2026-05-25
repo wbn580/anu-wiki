@@ -2,7 +2,7 @@
 title: "ANU Honours Year Application Guide: Entry Requirements, Thesis Proposal Writing, and Supervisor Allocation"
 description: "澳大利亚国立大学（ANU）的荣誉学士学位（Honours）是衔接本科与研究型博士的关键过渡阶段，其申请流程在2024年经历了显著调整，包括统一截止日期与更严格的成绩门槛。根据ANU官方2024年发布的《Honours Policy》，申请者需在本科第三年结束时达到至少70%的加权平均分（GPA 5.0/7.0），…"
 category: "ANU"
-pubDatetime: 2026-04-12T19:55:53Z
+pubDatetime: '2026-04-12T19:55:53Z'
 publishDate: '2026-04-12T19:55:53Z'
 readingTime: 3
 tags: ["featured"]

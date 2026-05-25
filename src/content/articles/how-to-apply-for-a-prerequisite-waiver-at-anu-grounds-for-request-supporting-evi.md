@@ -2,7 +2,7 @@
 title: "How to Apply for a Prerequisite Waiver at ANU: Grounds for Request, Supporting Evidence, and Decision Timeline"
 description: "澳大利亚国立大学（ANU）每年处理超过 4,000 份课程豁免申请，其中约 30% 涉及先修课程豁免（Prerequisite Waiver）【ANU 招生办公室，2024 年内部数据】。先修课程豁免允许申请者在未满足特定学术背景要求的情况下，仍被考虑录取至目标学位项目。这一机制在跨学科转专业、国际学生资格差异、…"
 category: "How"
-pubDatetime: 2026-05-13T20:01:50Z
+pubDatetime: '2026-05-13T20:01:50Z'
 publishDate: '2026-05-13T20:01:50Z'
 readingTime: 3
 tags: ["featured"]

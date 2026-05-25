@@ -2,7 +2,7 @@
 title: "ANU Education Professional Experience Placement Process: How Schools Are Allocated and What to Expect in Your Practicum"
 description: "The Australian National University (ANU) mandates a minimum of **80 days** of supervised professional experience for its Bachelor of Education (Primary) and …"
 category: "ANU"
-pubDatetime: 2026-04-20T19:57:25Z
+pubDatetime: '2026-04-20T19:57:25Z'
 publishDate: '2026-04-20T19:57:25Z'
 readingTime: 6
 tags: ["featured"]

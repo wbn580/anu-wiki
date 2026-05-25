@@ -2,7 +2,7 @@
 title: "ANU 课程时间表冲突豁免申请流程与批准条件"
 description: "澳大利亚国立大学（ANU）每学期约有超过 25,000 名在校生参与课程注册，其中约 12% 至 15% 的学生在学期初面临至少一门课程的时间表冲突（Timetable Clash）。根据 ANU 官方注册政策（2024 年《Enrolment and Timetabling Policy》），当两门必修课或一门…"
 category: "ANU 课程时间表冲突豁"
-pubDatetime: 2026-03-08T19:48:49Z
+pubDatetime: '2026-03-08T19:48:49Z'
 publishDate: '2026-03-08T19:48:49Z'
 readingTime: 14
 tags: ["featured"]

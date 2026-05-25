@@ -2,7 +2,7 @@
 title: "How to Apply for a Tax File Number and Open a Bank Account in Australia as an ANU International Student"
 description: "对于抵达澳大利亚国立大学（ANU）的国际学生而言，申请税号（TFN）和开设银行账户是两项必须在入境后优先完成的行政手续。根据澳大利亚税务局（ATO）的规定，持有学生签证的国际工作者若未在首次工作后28天内申请TFN，其工资可能被按最高边际税率（47%，含医疗保险附加费）预扣税款【ATO，2024，《Tax Fil…"
 category: "How"
-pubDatetime: 2026-04-10T19:55:23Z
+pubDatetime: '2026-04-10T19:55:23Z'
 publishDate: '2026-04-10T19:55:23Z'
 readingTime: 3
 tags: ["featured"]

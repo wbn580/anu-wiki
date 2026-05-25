@@ -2,7 +2,7 @@
 title: "ANU Biology Lab Safety Induction: How to Complete the Mandatory Online Module and In-Person Competency Test"
 description: "澳洲国立大学（ANU）所有涉及生物实验室操作的本科生、研究生及研究人员，必须在获得实验室准入前完成两阶段安全认证：**ANU Biology Lab Safety Induction**。该流程包含一个约90分钟的线上模块（Online Module）和一次现场实操能力测试（In-Person Competenc…"
 category: "ANU"
-pubDatetime: 2026-04-22T19:57:45Z
+pubDatetime: '2026-04-22T19:57:45Z'
 publishDate: '2026-04-22T19:57:45Z'
 readingTime: 3
 tags: ["featured"]

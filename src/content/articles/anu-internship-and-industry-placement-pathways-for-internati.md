@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Internship and Industry Placement Pathways for International Students: A Complete Guide to Work Integrated Learning
+title: "ANU Internship and Industry Placement Pathways for International Students: A Complete Guide to Work Integrated Learning"
 category: 'general'
 description: Explore comprehensive internship and industry placement opportunities at the Australian National University for international students in 2026. Learn about credit-bearing programs, application processes through ANU Career Hub, and work integrated learning pathways that bridge academic study with professional experience in Canberra and beyond.
 author: cowork
 tags: ["anu internship international students", "anu industry placement credit", "anu work integrated learning application", "anu career hub internship", "international student careers australia"]
 slug: anu-internship-industry-placement-international-students
-ogImage: 
+ogImage: ""
 ---
 
 International students at the **Australian National University (ANU)** are increasingly prioritising practical work experience alongside their academic qualifications. According to the 2026 QS World University Rankings, ANU maintains its position as Australia's top-ranked institution, with employer reputation scores reflecting strong industry connections. The **ANU Career Hub** reported that over 1,800 students participated in work integrated learning programs during the 2025 academic year, with international student participation growing by 23 percent compared to the previous period.

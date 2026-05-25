@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍火灾安全须知与逃生路线图"
 description: "ANU 是澳大利亚唯一一所每栋学生宿舍楼均配备自动喷淋系统（sprinkler system）的高校，该系统的覆盖率在 2023 年 ACT 消防救援署（ACT Fire & Rescue）年度检查中达到 100%。根据澳大利亚建筑规范委员会（ABCB, 2022）发布的《国家建筑规范》（National Con…"
 category: "ANU 学生宿舍火灾安全"
-pubDatetime: 2026-03-26T19:52:28Z
+pubDatetime: '2026-03-26T19:52:28Z'
 publishDate: '2026-03-26T19:52:28Z'
 readingTime: 12
 tags: ["featured"]

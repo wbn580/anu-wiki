@@ -2,7 +2,7 @@
 title: "ANU 毕业生就业去向统计与职业发展中心资源"
 description: "澳大利亚国立大学（ANU）2022 年毕业生就业调查（Graduate Outcomes Survey, GOS）数据显示，该校本科毕业生的全职就业率为 84.3%，高于澳大利亚全国平均水平 83.6%（QILT 2022）。同时，ANU 毕业生的中位薪资为 67,000 澳元，较全国本科中位薪资 65,000 …"
 category: "ANU 毕业生就业去向统"
-pubDatetime: 2026-02-27T19:46:51Z
+pubDatetime: '2026-02-27T19:46:51Z'
 publishDate: '2026-02-27T19:46:51Z'
 readingTime: 10
 tags: ["featured"]

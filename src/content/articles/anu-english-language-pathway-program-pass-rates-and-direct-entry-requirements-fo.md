@@ -2,7 +2,7 @@
 title: "ANU English Language Pathway Program Pass Rates and Direct Entry Requirements for Degree Programs"
 description: "澳大利亚国立大学（ANU）英语语言衔接课程（ANU English Language Pathway Program）是专为未达到直接入学英语要求的学生设计的学术英语预备课程，完成该课程并达到指定成绩后，学生可直升ANU本科或研究生学位课程。根据澳大利亚教育部2023年《国际学生数据年度报告》，2022年澳大利亚…"
 category: "ANU"
-pubDatetime: 2026-04-14T19:56:15Z
+pubDatetime: '2026-04-14T19:56:15Z'
 publishDate: '2026-04-14T19:56:15Z'
 readingTime: 3
 tags: ["featured"]

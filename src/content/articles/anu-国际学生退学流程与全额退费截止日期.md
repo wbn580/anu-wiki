@@ -2,7 +2,7 @@
 title: "ANU 国际学生退学流程与全额退费截止日期"
 description: "澳大利亚国立大学（ANU）国际学生退学流程与全额退费截止日期是影响学生财务与学业规划的关键节点。根据澳大利亚教育部《2023年国际学生数据报告》（Department of Education, 2023），全澳高校国际学生退学率约为8.2%，而ANU在2022年的退学率为7.8%，略低于全国均值。同时，ANU官…"
 category: "ANU 国际学生退学流程"
-pubDatetime: 2026-04-03T19:54:09Z
+pubDatetime: '2026-04-03T19:54:09Z'
 publishDate: '2026-04-03T19:54:09Z'
 readingTime: 14
 tags: ["featured"]

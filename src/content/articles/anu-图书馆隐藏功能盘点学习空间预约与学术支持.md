@@ -2,7 +2,7 @@
 title: "ANU 图书馆隐藏功能盘点：学习空间预约与学术支持"
 description: "澳大利亚国立大学（ANU）图书馆系统由 5 座实体分馆组成，2024 年全年接待读者超过 120 万人次，线上资源访问量达 820 万次【ANU Library 2024 Annual Statistics】。除了常规的借阅与自习功能，ANU 图书馆实际运行着一套覆盖学习空间预约、学术技能培训、研究数据管理及多媒…"
 category: "ANU 图书馆隐藏功能盘"
-pubDatetime: 2026-02-24T19:46:10Z
+pubDatetime: '2026-02-24T19:46:10Z'
 publishDate: '2026-02-24T19:46:10Z'
 readingTime: 11
 tags: ["featured"]

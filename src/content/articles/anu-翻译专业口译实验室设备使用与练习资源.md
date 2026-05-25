@@ -2,7 +2,7 @@
 title: "ANU 翻译专业口译实验室设备使用与练习资源"
 description: "澳洲国立大学（ANU）翻译专业依托其口译实验室（Interpreting Laboratory）提供专业级设备与练习资源，该实验室配备 **Sanako 1200 数字语言学习系统**，支持同声传译、交替传译及视译等核心训练。根据澳大利亚口译与笔译认证机构（NAATI）2023 年发布的《认证测试指南》，口译认证…"
 category: "ANU 翻译专业口译实验"
-pubDatetime: 2026-04-02T19:54:00Z
+pubDatetime: '2026-04-02T19:54:00Z'
 publishDate: '2026-04-02T19:54:00Z'
 readingTime: 14
 tags: ["featured"]

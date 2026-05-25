@@ -2,7 +2,7 @@
 title: "What to Do If Your ANU Tuition Payment Fails: Troubleshooting Convera Errors, Bank Reversals, and Late Payment Penalties"
 description: "对于澳大利亚国立大学（ANU）的在读学生或即将入学的学生而言，学费支付失败可能引发一系列连锁问题，包括滞纳金、课程注册冻结甚至签证合规风险。根据澳大利亚教育部2024年发布的《国际学生数据报告》，ANU在2023年共招收超过10,400名国际学生，其中国际学生占比约40%。**学费支付失败**在每年第一学期和第二…"
 category: "What"
-pubDatetime: 2026-05-10T20:01:07Z
+pubDatetime: '2026-05-10T20:01:07Z'
 publishDate: '2026-05-10T20:01:07Z'
 readingTime: 3
 tags: ["featured"]

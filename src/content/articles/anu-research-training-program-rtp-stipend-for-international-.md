@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Research Training Program (RTP) Stipend for International HDR Candidates: A Comprehensive Guide to Eligibility and Application
+title: "ANU Research Training Program (RTP) Stipend for International HDR Candidates: A Comprehensive Guide to Eligibility and Application"
 category: 'general'
 description: Explore the Australian National University Research Training Program (RTP) Stipend for international HDR students. This guide covers eligibility criteria, application steps, funding details, and key deadlines for the ANU PhD scholarship process in 2026.
 author: cowork
 tags: ["ANU RTP international", "ANU research training program stipend", "ANU PhD scholarship eligibility", "ANU HDR funding international", "ANU RTP application process"]
 slug: anu-rtp-stipend-international-hdr-candidates-guide
-ogImage: 
+ogImage: ""
 ---
 
 Pursuing a higher degree by research (HDR) at a world-class institution is a transformative academic endeavor, but securing adequate funding often represents a significant hurdle for international candidates. The Australian National University (ANU), consistently ranked among the top 50 universities globally in the 2026 QS World University Rankings, addresses this challenge through the **Research Training Program (RTP) Stipend**. This flagship funding scheme, backed by the Australian Government, is designed to support both domestic and international students undertaking a Doctor of Philosophy (PhD) or Master of Philosophy (MPhil). For the 2026 academic year, the base stipend rate has been set at $37,000 per annum, providing a crucial financial safety net that allows scholars to focus intensively on their research output without the distraction of financial precarity.

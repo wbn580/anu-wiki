@@ -2,7 +2,7 @@
 title: "How to Read an ANU Course Syllabus: Understanding Assessment Weightings, Required Readings, and Late Penalty Policies"
 description: "澳大利亚国立大学（ANU）每学期发布约 2,400 份课程 syllabus（教学大纲），这些文件是学生学术规划的核心依据。根据澳大利亚教育部 2023 年《高等教育学生数据报告》，约 68% 的 ANU 本科生在开学前两周内未能完整解读 syllabus 中的评估权重与政策细则，导致后续成绩波动。同时，QS 2…"
 category: "How"
-pubDatetime: 2026-04-20T19:57:27Z
+pubDatetime: '2026-04-20T19:57:27Z'
 publishDate: '2026-04-20T19:57:27Z'
 readingTime: 3
 tags: ["featured"]

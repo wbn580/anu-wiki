@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Health Insurance for International Students: OSHC Providers, Coverage, and Claims
+title: "ANU Health Insurance for International Students: OSHC Providers, Coverage, and Claims"
 category: 'general'
 description: A comprehensive guide to Overseas Student Health Cover for Australian National University students. Explore approved OSHC providers, policy coverage details, claims procedures, and on-campus health services to manage your healthcare costs effectively.
 author: cowork
 tags: ["ANU international student health insurance", "ANU OSHC providers", "OSHC claims ANU", "ANU on-campus health services", "student health cover Australia"]
 slug: anu-health-insurance-international-students-oshc-providers-coverage-claims
-ogImage: 
+ogImage: ""
 ---
 
 As an international student arriving at the **Australian National University**, navigating the healthcare system begins with a single mandatory requirement: **Overseas Student Health Cover**. According to the Department of Home Affairs, over 620,000 international student visa holders in Australia maintained active OSHC policies as of early 2026. This insurance is not optional. It is a visa condition, and ANU strictly enforces it. A 2026 survey by the Council of International Students Australia indicated that roughly 34 percent of international students did not fully understand their OSHC entitlements during their first semester. This gap in understanding can lead to unexpected out-of-pocket expenses, delays in treatment, or confusion during medical emergencies. The following guide breaks down exactly what ANU students need to know about approved providers, what the policies cover, how to file claims, and where to access care on campus.

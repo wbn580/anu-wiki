@@ -2,7 +2,7 @@
 title: "ANU 纳米技术专业洁净室使用培训与准入考试"
 description: "澳大利亚国立大学（ANU）纳米技术专业要求学生和研究人员在使用其校内洁净室设施前，必须完成一套标准化的**培训与准入考试**。该洁净室位于 Ian Wark 实验室大楼，是澳大利亚国家纳米技术研究网络（Australian National Fabrication Facility, ANFF）的核心节点之一。根…"
 category: "ANU 纳米技术专业洁净"
-pubDatetime: 2026-04-06T19:54:37Z
+pubDatetime: '2026-04-06T19:54:37Z'
 publishDate: '2026-04-06T19:54:37Z'
 readingTime: 12
 tags: ["featured"]

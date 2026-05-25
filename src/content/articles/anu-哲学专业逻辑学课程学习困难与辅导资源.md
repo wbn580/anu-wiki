@@ -2,7 +2,7 @@
 title: "ANU 哲学专业逻辑学课程学习困难与辅导资源"
 description: "澳大利亚国立大学（ANU）哲学专业开设的逻辑学课程，是人文与社会科学学院（CASS）哲学本科与研究生项目的核心必修模块之一。根据《2024年QS世界大学学科排名》（QS World University Rankings by Subject 2024），ANU哲学学科位列全球第8位，其逻辑学教学以高度形式化、数…"
 category: "ANU 哲学专业逻辑学课"
-pubDatetime: 2026-03-22T19:51:45Z
+pubDatetime: '2026-03-22T19:51:45Z'
 publishDate: '2026-03-22T19:51:45Z'
 readingTime: 14
 tags: ["featured"]

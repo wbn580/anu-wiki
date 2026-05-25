@@ -2,7 +2,7 @@
 title: "ANU 国际学生课程旁听申请流程与许可范围"
 description: "澳洲国立大学（ANU）允许国际学生在满足特定条件后，以非学分（non-award）身份旁听部分课程。根据ANU官方2024年发布的《课程旁听政策》（Course Audit Policy），国际学生每学期最多可申请旁听2门课程，且旁听课程不授予学分、不计入全日制学生签证要求的注册负荷。澳大利亚内政部（Depart…"
 category: "ANU 国际学生课程旁听"
-pubDatetime: 2026-03-26T19:52:30Z
+pubDatetime: '2026-03-26T19:52:30Z'
 publishDate: '2026-03-26T19:52:30Z'
 readingTime: 14
 tags: ["featured"]

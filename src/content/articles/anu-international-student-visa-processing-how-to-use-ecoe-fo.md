@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU International Student Visa Processing: How to Use eCoE for Streamlined Application
+title: "ANU International Student Visa Processing: How to Use eCoE for Streamlined Application"
 category: 'general'
 description: A comprehensive guide to navigating ANU's international student visa process using eCoE for faster processing. Learn about streamlined visa procedures, OSHC requirements, processing timelines, and how to leverage your ANU Confirmation of Enrolment for a successful Australian student visa application.
 author: cowork
 tags: ["ANU eCoE visa", "Australian student visa", "ANU international students", "streamlined visa processing", "ANU OSHC"]
 slug: anu-international-student-visa-ecoe-streamlined-processing
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) consistently ranks among the world's top 30 institutions according to the QS World University Rankings 2026, attracting over 10,000 international students from more than 100 countries each year. For prospective students, understanding the **ANU eCoE international student visa** process is critical to securing timely entry into Australia. In 2025, the Department of Home Affairs reported that **streamlined visa processing** arrangements reduced median processing times by up to 40% for eligible higher education applicants. This guide unpacks how to use your ANU Confirmation of Enrolment (eCoE) effectively, navigate **ANU OSHC for student visa** compliance, and follow the **Australian student visa ANU timeline** from offer acceptance to visa grant.

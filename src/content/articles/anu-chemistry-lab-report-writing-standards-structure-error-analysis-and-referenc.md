@@ -2,7 +2,7 @@
 title: "ANU Chemistry Lab Report Writing Standards: Structure, Error Analysis, and Referencing Conventions for RSC Style"
 description: "澳大利亚国立大学（ANU）理学院自2019年起正式将英国皇家化学会（RSC）出版风格列为本科实验报告的唯一引用规范，取代此前混合使用的ACS与Harvard体系。根据ANU化学研究学院2023年发布的《实验报告撰写指南》，一份符合RSC标准的完整报告需包含摘要、引言、实验方法、结果与讨论、结论及参考文献六个核心章…"
 category: "ANU"
-pubDatetime: 2026-04-27T19:58:44Z
+pubDatetime: '2026-04-27T19:58:44Z'
 publishDate: '2026-04-27T19:58:44Z'
 readingTime: 3
 tags: ["featured"]

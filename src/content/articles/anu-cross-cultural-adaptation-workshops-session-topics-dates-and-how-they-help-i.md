@@ -2,7 +2,7 @@
 title: "ANU Cross-Cultural Adaptation Workshops: Session Topics, Dates, and How They Help International Students Settle In"
 description: "澳大利亚国立大学（ANU）自2022年起系统化运营跨文化适应工作坊（Cross-Cultural Adaptation Workshops），专门面向国际学生群体。根据澳大利亚教育部2023年发布的《国际学生年度数据报告》，2023年澳洲高等教育机构注册的国际学生总数达到713,144人，其中ANU的国际学生占比…"
 category: "ANU"
-pubDatetime: 2026-05-07T20:00:37Z
+pubDatetime: '2026-05-07T20:00:37Z'
 publishDate: '2026-05-07T20:00:37Z'
 readingTime: 3
 tags: ["featured"]

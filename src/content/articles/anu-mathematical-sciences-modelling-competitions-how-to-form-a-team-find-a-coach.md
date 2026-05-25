@@ -2,7 +2,7 @@
 title: "ANU Mathematical Sciences Modelling Competitions: How to Form a Team, Find a Coach, and Prepare for the IMMC"
 description: "澳大利亚国立大学（ANU）数学科学学院每年组织学生参加国际数学建模挑战赛（IMMC）及同类竞赛。IMMC是一项面向全球中学生的数学应用竞赛，但在大学层面，ANU学生主要通过校内选拔赛和学术社团渠道参与。根据ANU 2023年学生参与度报告，该校数学与统计学科在2022年共派出12支队伍参加亚太地区建模赛事，其中3…"
 category: "ANU"
-pubDatetime: 2026-04-25T19:58:29Z
+pubDatetime: '2026-04-25T19:58:29Z'
 publishDate: '2026-04-25T19:58:29Z'
 readingTime: 3
 tags: ["featured"]

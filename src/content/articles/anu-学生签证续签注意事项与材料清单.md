@@ -2,7 +2,7 @@
 title: "ANU 学生签证续签注意事项与材料清单"
 description: "截至2025年，澳大利亚内政部（Department of Home Affairs）数据显示，学生签证（Subclass 500）的全球平均拒签率约为9.8%，而中国籍申请人的拒签率约为3.5%【澳大利亚内政部，2025，Student Visa Processing Report】。对于在澳洲国立大学（ANU…"
 category: "ANU 学生签证续签注意"
-pubDatetime: 2026-02-24T19:46:11Z
+pubDatetime: '2026-02-24T19:46:11Z'
 publishDate: '2026-02-24T19:46:11Z'
 readingTime: 13
 tags: ["featured"]

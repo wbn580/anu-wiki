@@ -2,7 +2,7 @@
 title: "How to Transfer to a Different Program at ANU: A Step-by-Step Guide to the Internal Transfer System and Credit Recognition"
 description: "澳大利亚国立大学（ANU）每年处理超过 1,200 份内部转学申请（ANU Student Administration, 2023, *Internal Transfer Data*），其中约 67% 的申请者在满足课程先修条件后成功转入目标专业。根据澳大利亚教育部 2023 年发布的《高等教育学生数据年度报告…"
 category: "How"
-pubDatetime: 2026-04-09T19:55:17Z
+pubDatetime: '2026-04-09T19:55:17Z'
 publishDate: '2026-04-09T19:55:17Z'
 readingTime: 3
 tags: ["featured"]

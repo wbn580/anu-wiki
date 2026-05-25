@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Student OSHC Coverage Explained: What Health Services Are Included and Common Claim Rejections
+title: "ANU Student OSHC Coverage Explained: What Health Services Are Included and Common Claim Rejections"
 category: 'general'
 description: A comprehensive guide to ANU OSHC coverage for international students. Learn exactly what medical services Allianz Care Australia includes, common reasons for claim rejections, and how to maximise your health insurance benefits at the Australian National University.
 author: cowork
 tags: ["ANU OSHC coverage details", "ANU international student health insurance", "ANU OSHC claim rejection reasons", "ANU Allianz OSHC benefits", "ANU health cover for dependents"]
 slug: anu-student-oshc-coverage-explained-health-services-claim-rejections
-ogImage: 
+ogImage: ""
 ---
 
 International students arriving at the Australian National University face a mandatory requirement that often causes confusion: Overseas Student Health Cover. According to the Department of Home Affairs, all international students must maintain adequate health insurance for the entire duration of their student visa. Data from the Department of Education's 2025 international student report indicates that approximately 78% of international students in Australia interact with the healthcare system at least once during their first academic year, making a thorough understanding of ANU OSHC coverage details essential from day one.

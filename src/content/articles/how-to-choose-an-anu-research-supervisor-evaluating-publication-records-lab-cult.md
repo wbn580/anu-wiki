@@ -2,7 +2,7 @@
 title: "How to Choose an ANU Research Supervisor: Evaluating Publication Records, Lab Culture, and Supervision Styles"
 description: "选择一位合适的研究导师是澳大利亚国立大学（ANU）研究生阶段最关键的学术决策之一。ANU作为澳大利亚八校联盟（Go8）成员，在2024年QS世界大学排名中位列第34位，拥有超过3,200名研究生导师【QS, 2024】。然而，根据澳大利亚教育部2023年发布的数据，博士研究生平均完成时间约为4.2年，而导师匹配度…"
 category: "How"
-pubDatetime: 2026-04-19T19:57:17Z
+pubDatetime: '2026-04-19T19:57:17Z'
 publishDate: '2026-04-19T19:57:17Z'
 readingTime: 3
 tags: ["featured"]

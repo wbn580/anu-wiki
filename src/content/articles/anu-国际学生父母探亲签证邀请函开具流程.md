@@ -2,7 +2,7 @@
 title: "ANU 国际学生父母探亲签证邀请函开具流程"
 description: "澳大利亚国立大学（ANU）国际学生在为其父母或亲属申请赴澳探亲签证（Subclass 600）时，需向校方申请一份正式的邀请函（Letter of Invitation）。根据澳大利亚内政部（Department of Home Affairs）2024年发布的《访客签证申请指南》，此类邀请函虽非签证获批的强制性…"
 category: "ANU 国际学生父母探亲"
-pubDatetime: 2026-03-01T19:47:23Z
+pubDatetime: '2026-03-01T19:47:23Z'
 publishDate: '2026-03-01T19:47:23Z'
 readingTime: 12
 tags: ["featured"]

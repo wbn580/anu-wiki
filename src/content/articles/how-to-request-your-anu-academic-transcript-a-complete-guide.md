@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: How to Request Your ANU Academic Transcript: A Complete Guide for 2026
+title: "How to Request Your ANU Academic Transcript: A Complete Guide for 2026"
 category: 'general'
 description: Learn the step-by-step process for requesting official ANU academic transcripts as a graduate or current student. Covers digital and hard copy options, processing times, fees, and essential tips for 2026.
 author: cowork
 tags: []
 slug: anu-academic-transcript-request-guide-2026
-ogImage: 
+ogImage: ""
 ---
 
 Whether you are a recent graduate preparing for job applications or a current student planning further study abroad, your **ANU academic transcript** is one of the most critical documents you will ever request. The Australian National University, consistently ranked among the world's top 50 institutions in the QS World University Rankings 2026, issues thousands of official transcripts each year. In 2025 alone, ANU Student Services processed **over 18,000 transcript requests**, with **digital orders accounting for 72% of all deliveries**. This comprehensive guide walks you through the entire **ANU academic transcript request** process, covering everything from eligibility and fees to delivery timelines and common pitfalls to avoid.

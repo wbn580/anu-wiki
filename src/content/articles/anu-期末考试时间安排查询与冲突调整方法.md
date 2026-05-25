@@ -2,7 +2,7 @@
 title: "ANU 期末考试时间安排查询与冲突调整方法"
 description: "澳大利亚国立大学（ANU）每学期末的考试安排由校方考试办公室（Examinations Office）统一发布，涉及超过 20,000 名注册学生（ANU 2024 年学生统计报告）。根据 ANU 学术政策，期末考试时间表通常在每学期第 6 周至第 8 周之间公布于 **ISIS（Integrated Stude…"
 category: "ANU 期末考试时间安排"
-pubDatetime: 2026-02-25T19:46:29Z
+pubDatetime: '2026-02-25T19:46:29Z'
 publishDate: '2026-02-25T19:46:29Z'
 readingTime: 15
 tags: ["featured"]

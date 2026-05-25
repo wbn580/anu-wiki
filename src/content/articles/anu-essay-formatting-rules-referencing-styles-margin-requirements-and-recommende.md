@@ -2,7 +2,7 @@
 title: "ANU Essay Formatting Rules: Referencing Styles, Margin Requirements, and Recommended Citation Tools"
 description: "澳大利亚国立大学（ANU）对本科及研究生课程的学术写作有严格的格式规范，涵盖引用风格、页边距、字体行距及标题层级等多个维度。根据ANU学术技能中心（Academic Skills Centre, 2024）发布的《学生写作指南》，不符合格式要求的作业可能被退回修改或直接扣分，最高影响总评成绩的10%。同时，Tim…"
 category: "ANU"
-pubDatetime: 2026-04-16T19:56:32Z
+pubDatetime: '2026-04-16T19:56:32Z'
 publishDate: '2026-04-16T19:56:32Z'
 readingTime: 3
 tags: ["featured"]

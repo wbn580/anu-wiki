@@ -2,7 +2,7 @@
 title: "ANU Philosophy Critical Thinking and Logic Courses: Common Difficulties, Study Groups, and Tutoring Resources"
 description: "澳大利亚国立大学（ANU）哲学课程中的批判性思维与逻辑模块，是该校人文与社会科学学院（CASS）的核心课程之一，每年吸引超过1,200名本科生注册修读（ANU 2023 Course Census Data）。根据泰晤士高等教育（THE）2024年世界大学学科排名，ANU哲学学科位列全球第8位，其逻辑学课程以高标…"
 category: "ANU"
-pubDatetime: 2026-05-03T19:59:56Z
+pubDatetime: '2026-05-03T19:59:56Z'
 publishDate: '2026-05-03T19:59:56Z'
 readingTime: 3
 tags: ["featured"]

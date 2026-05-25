@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Research Proposal Template: Structure, Formatting, and Supervisor Expectations
+title: "ANU Research Proposal Template: Structure, Formatting, and Supervisor Expectations"
 category: 'general'
 description: A comprehensive guide to crafting a winning research proposal for the Australian National University. Explore the standard ANU research proposal format, understand PhD application requirements, and learn how to align your project with ANU supervisor expectations for HDR admission in 2026.
 author: cowork
 tags: ["ANU research proposal", "PhD application", "HDR guide", "supervisor expectations", "research methodology"]
 slug: anu-research-proposal-template-structure-formatting-supervisor-expectations
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) consistently ranks among the world's top 50 institutions, attracting over 3,000 Higher Degree by Research (HDR) candidates annually as of the 2025 academic year. Securing a place in this competitive environment hinges on a single, critical document: your research proposal. It is not merely an administrative form; it is the intellectual blueprint that convinces a potential supervisor and the admissions committee of your project's viability and your capability as a researcher. Data from the ANU Graduate Research Office indicates that applications accompanied by a structured, well-argued proposal that directly addresses the **ANU research proposal format** are 40% more likely to proceed to the interview stage. This guide dissects the essential components, formatting norms, and the often-unspoken **ANU supervisor expectations** for the 2026 intake.

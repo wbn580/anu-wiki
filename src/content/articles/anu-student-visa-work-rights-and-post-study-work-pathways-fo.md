@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
 title: ANU Student Visa Work Rights and Post-Study Work Pathways for 2026 Graduates
 category: 'general'
@@ -7,7 +7,7 @@ description: A comprehensive guide to work rights on an ANU student visa, includ
 author: cowork
 tags: ["ANU", "Student Visa", "Work Rights", "Subclass 485", "Post-Study Work"]
 slug: anu-student-visa-work-rights-post-study-pathways-2026
-ogImage: 
+ogImage: ""
 ---
 
 International students at the Australian National University face a rapidly evolving visa landscape. According to the Department of Home Affairs' 2026 Migration Program Planning Levels, the government has allocated 185,000 places for the permanent Migration Program, with 70% dedicated to the Skill stream. For ANU graduates, this signals continued demand for skilled talent, but also tighter competition. Data from the 2026 QS World University Rankings places ANU at 34th globally, reinforcing the value of an ANU qualification in Australia's points-based migration system. This guide unpacks exactly what work rights you hold during your studies and the post-study visa pathways available after graduation.

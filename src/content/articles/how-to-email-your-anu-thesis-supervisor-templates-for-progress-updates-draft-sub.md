@@ -2,7 +2,7 @@
 title: "How to Email Your ANU Thesis Supervisor: Templates for Progress Updates, Draft Submissions, and Meeting Requests"
 description: "在澳大利亚国立大学（ANU）的研究型学位（如哲学博士PhD或研究型硕士MRes）中，与导师的电子邮件沟通是学术进展的核心环节。根据澳大利亚教育部2023年发布的《高等教育学生概况》报告，全澳约有73,000名国际学生就读研究型高等学位（HDR），其中ANU占比超过8%，即约5,840人。这些学生平均每周与导师通过…"
 category: "How"
-pubDatetime: 2026-05-05T20:00:09Z
+pubDatetime: '2026-05-05T20:00:09Z'
 publishDate: '2026-05-05T20:00:09Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Introduction to Statistics with R: Free On-Campus Workshops, Online Tutorials, and Peer Support Resources"
 description: "澳大利亚国立大学（ANU）自2018年起通过其统计咨询中心（Statistical Consulting Centre）和学术技能中心（Academic Skills Centre）联合推出“Introduction to Statistics with R”系列学习资源，涵盖免费校内工作坊、在线教程及同伴辅导支…"
 category: "ANU"
-pubDatetime: 2026-04-17T19:56:53Z
+pubDatetime: '2026-04-17T19:56:53Z'
 publishDate: '2026-04-17T19:56:53Z'
 readingTime: 3
 tags: ["featured"]

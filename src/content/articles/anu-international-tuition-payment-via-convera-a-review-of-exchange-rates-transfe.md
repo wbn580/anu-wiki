@@ -2,7 +2,7 @@
 title: "ANU International Tuition Payment via Convera: A Review of Exchange Rates, Transfer Speed, and Hidden Fees"
 description: "澳大利亚国立大学（ANU）在2024年第二学期向国际学生发送的通知中明确，自2024年7月1日起，其官方国际学费支付平台将从Western Union Business Solutions切换为Convera（原Western Union Business Solutions业务线）。根据ANU官方学生财务页面（…"
 category: "ANU"
-pubDatetime: 2026-04-18T19:57:06Z
+pubDatetime: '2026-04-18T19:57:06Z'
 publishDate: '2026-04-18T19:57:06Z'
 readingTime: 3
 tags: ["featured"]

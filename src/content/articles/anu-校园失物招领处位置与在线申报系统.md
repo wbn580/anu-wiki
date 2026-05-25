@@ -2,7 +2,7 @@
 title: "ANU 校园失物招领处位置与在线申报系统"
 description: "ANU 校园失物招领处位于校园安保中心（Security Office）内，具体地址为 **Building 9, Union Court**，每周一至周五 08:00–18:00 对外开放。根据 ANU 官方 2024 年度校园安全报告【ANU Security, 2024, Annual Campus Saf…"
 category: "ANU 校园失物招领处位"
-pubDatetime: 2026-03-15T19:50:02Z
+pubDatetime: '2026-03-15T19:50:02Z'
 publishDate: '2026-03-15T19:50:02Z'
 readingTime: 11
 tags: ["featured"]

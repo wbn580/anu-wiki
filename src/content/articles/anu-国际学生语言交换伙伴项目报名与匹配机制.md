@@ -2,7 +2,7 @@
 title: "ANU 国际学生语言交换伙伴项目报名与匹配机制"
 description: "澳大利亚国立大学（ANU）国际学生语言交换伙伴项目（Language Exchange Partner Program）是该校为促进跨文化交际与语言习得而设立的官方配对机制。该项目由ANU全球项目办公室（ANU Global Programs）与澳国立学生协会（ANUSA）联合运营，每年服务超过1,200名注册参…"
 category: "ANU 国际学生语言交换"
-pubDatetime: 2026-03-18T19:50:47Z
+pubDatetime: '2026-03-18T19:50:47Z'
 publishDate: '2026-03-18T19:50:47Z'
 readingTime: 13
 tags: ["featured"]

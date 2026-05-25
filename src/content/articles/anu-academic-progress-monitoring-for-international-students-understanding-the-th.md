@@ -2,7 +2,7 @@
 title: "ANU Academic Progress Monitoring for International Students: Understanding the Three-Stage Intervention and Support Framework"
 description: "澳大利亚国立大学（ANU）自2019年起实施了一套针对国际学生的**学术进度监测（Academic Progress Monitoring）** 三级干预与支持框架，旨在将学业风险识别前置化。根据澳大利亚教育部2023年发布的《国际学生年度数据报告》，ANU国际学生占全校学生总数的44.2%（约10,200人），…"
 category: "ANU"
-pubDatetime: 2026-04-24T19:58:09Z
+pubDatetime: '2026-04-24T19:58:09Z'
 publishDate: '2026-04-24T19:58:09Z'
 readingTime: 3
 tags: ["featured"]

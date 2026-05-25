@@ -2,7 +2,7 @@
 title: "ANU 校园打印服务分布点与收费标准"
 description: "截至2025年第二季度，澳大利亚国立大学（ANU）在校园内共部署了超过 **60 台多功能打印设备**，覆盖 **7 个主要教学与公共区域**，为学生和教职员工提供统一的打印、复印与扫描服务。根据 ANU 信息技术服务部（ITS）2024年发布的《校园打印服务指南》，校内打印系统采用 **PaperCut 软件平…"
 category: "ANU 校园打印服务分布"
-pubDatetime: 2026-03-06T19:48:22Z
+pubDatetime: '2026-03-06T19:48:22Z'
 publishDate: '2026-03-06T19:48:22Z'
 readingTime: 12
 tags: ["featured"]

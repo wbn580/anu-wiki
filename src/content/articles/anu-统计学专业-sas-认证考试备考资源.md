@@ -2,7 +2,7 @@
 title: "ANU 统计学专业 SAS 认证考试备考资源"
 description: "澳大利亚国立大学（ANU）统计学专业的学生在备考 SAS 认证考试时，可依托校内一系列官方课程与图书馆资源。SAS 是全球数据分析与商业智能领域使用最广泛的统计软件之一，其认证体系由 SAS Institute 直接管理，分为基础编程（Base Programming）、高级编程（Advanced Program…"
 category: "ANU 统计学专业 SA"
-pubDatetime: 2026-03-21T19:51:30Z
+pubDatetime: '2026-03-21T19:51:30Z'
 publishDate: '2026-03-21T19:51:30Z'
 readingTime: 9
 tags: ["featured"]

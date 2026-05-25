@@ -2,7 +2,7 @@
 title: "ANU 校园疫苗接种点服务时间与预约方式"
 description: "澳大利亚国立大学（ANU）校园内的疫苗接种服务由校内健康中心（ANU Health Centre）及合作药房提供，面向在校学生、教职工及部分社区成员。根据澳大利亚卫生部（Department of Health and Aged Care）2024年发布的《国家免疫计划》（National Immunizatio…"
 category: "ANU 校园疫苗接种点服"
-pubDatetime: 2026-03-25T19:52:21Z
+pubDatetime: '2026-03-25T19:52:21Z'
 publishDate: '2026-03-25T19:52:21Z'
 readingTime: 14
 tags: ["featured"]

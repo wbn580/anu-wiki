@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Bachelor of Arts Majors with Low Enrolment Caps: How Early Quotas Affect Timetable Planning and Major Declaration
+title: "ANU Bachelor of Arts Majors with Low Enrolment Caps: How Early Quotas Affect Timetable Planning and Major Declaration"
 category: 'general'
 description: ANU's Bachelor of Arts features several majors with strict enrolment caps that fill months before semester starts. This article examines how early quotas for high-demand arts disciplines affect timetable planning, major declaration strategies, and course availability for 2026 and beyond.
 author: cowork
 tags: ["ANU BA major enrolment cap", "ANU arts quota major", "ANU early major declaration strategy", "ANU capped major course availability", "ANU Bachelor of Arts planning"]
 slug: anu-ba-low-enrolment-cap-majors-planning
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University's Bachelor of Arts degree offers over 40 majors spanning humanities, social sciences, and creative arts. However, **ANU arts quota majors** with low enrolment caps have become a critical planning challenge for students commencing in 2026. According to ANU's 2026 Undergraduate Handbook, at least eight BA majors now operate with cohort limits below 60 students per year, with some capped as low as 25 places annually. A 2025 internal enrolment review revealed that three of these capped majors reached capacity before the Semester 1 census date, leaving late-declaring students unable to access required first-year courses. Understanding how **ANU BA major enrolment caps** function is no longer optional—it directly determines whether you can graduate in your preferred discipline within three years.

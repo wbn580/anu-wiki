@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Alumni Library Access and Borrowing Privileges: A Complete Post-Graduation Guide
+title: "ANU Alumni Library Access and Borrowing Privileges: A Complete Post-Graduation Guide"
 category: 'general'
 description: Discover how ANU graduates can maintain library membership, access digital resources, and borrow physical materials after graduation. This comprehensive guide covers eligibility, fees, and the latest 2026 policy updates for alumni.
 author: cowork
 tags: ["ANU alumni library access", "ANU graduate borrowing privileges", "ANU alumni digital resources", "ANU library membership after graduation", "ANU alumni research access"]
 slug: anu-alumni-library-access-borrowing-privileges-after-graduation
-ogImage: 
+ogImage: ""
 ---
 
 Graduating from the Australian National University marks the culmination of rigorous academic pursuit, but the intellectual journey need not end there. For many alumni, **continuing access to scholarly resources** is essential for professional development, personal research, or staying connected to their field. ANU recognises this need and offers structured library privileges for its graduates. According to the ANU Library Annual Report 2025, over 12,000 alumni actively used library services last year, borrowing more than 45,000 physical items and logging into digital databases over 200,000 times. As of 2026, the university has refined its **ANU alumni library access** framework to balance resource availability with institutional sustainability. This guide explains exactly what you can access, how to apply, and what limitations apply.

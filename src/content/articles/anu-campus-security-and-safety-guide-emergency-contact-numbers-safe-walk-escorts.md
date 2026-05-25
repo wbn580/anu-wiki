@@ -2,7 +2,7 @@
 title: "ANU Campus Security and Safety Guide: Emergency Contact Numbers, Safe Walk Escorts, and After-Hours Study Spots"
 description: "澳大利亚国立大学（ANU）主校区位于堪培拉Acton区，占地约145公顷，周边环绕着Black Mountain自然保护区与Lake Burley Griffin。根据ANU安全办公室2023-2024年度报告，校园内全年记录在案的治安事件为287起，其中盗窃类占42%，人身安全相关事件占8%。澳大利亚教育部20…"
 category: "ANU"
-pubDatetime: 2026-04-14T19:56:12Z
+pubDatetime: '2026-04-14T19:56:12Z'
 publishDate: '2026-04-14T19:56:12Z'
 readingTime: 3
 tags: ["featured"]

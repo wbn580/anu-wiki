@@ -2,7 +2,7 @@
 title: "ANU 国际学生驾照翻译与换领澳洲驾照流程"
 description: "澳大利亚首都领地（ACT）政府规定，持海外驾照的国际学生可在抵达后合法驾驶最多 **3 个月**（ACT Road Transport Authority, 2023），此后必须持有 ACT 颁发的正式驾照或通过考试换领。根据澳大利亚移民局 2022-23 年度报告，当年持有学生签证的在澳国际学生总数约为 570…"
 category: "ANU 国际学生驾照翻译"
-pubDatetime: 2026-03-15T19:50:10Z
+pubDatetime: '2026-03-15T19:50:10Z'
 publishDate: '2026-03-15T19:50:10Z'
 readingTime: 14
 tags: ["featured"]

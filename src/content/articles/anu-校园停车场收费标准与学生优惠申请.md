@@ -2,7 +2,7 @@
 title: "ANU 校园停车场收费标准与学生优惠申请"
 description: "澳大利亚国立大学（ANU）的校园停车场管理由校内交通与安全部门（Transport and Safety）统一负责，截至2025年，Acton主校区共设有超过4,200个停车位，分布在13个指定停车场及若干路边停车区。根据ANU官方发布的《2024年校园交通与停车规划》（ANU Campus Transport …"
 category: "ANU 校园停车场收费标"
-pubDatetime: 2026-03-28T19:52:51Z
+pubDatetime: '2026-03-28T19:52:51Z'
 publishDate: '2026-03-28T19:52:51Z'
 readingTime: 10
 tags: ["featured"]

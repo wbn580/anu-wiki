@@ -2,7 +2,7 @@
 title: "ANU Campus Emergency Evacuation Drills: Schedule, Assembly Points, and Warden Roles Explained"
 description: "澳大利亚国立大学（ANU）作为澳大利亚首都领地的核心高等教育机构，其校园安全体系遵循《2002年工作健康与安全法案》（ACT）及澳大利亚标准AS 3745-2010《应急控制组织与程序》的法定要求。ANU安全与应急管理办公室（ANU Security & Emergency Management）每年组织**不少…"
 category: "ANU"
-pubDatetime: 2026-05-08T20:00:53Z
+pubDatetime: '2026-05-08T20:00:53Z'
 publishDate: '2026-05-08T20:00:53Z'
 readingTime: 3
 tags: ["featured"]

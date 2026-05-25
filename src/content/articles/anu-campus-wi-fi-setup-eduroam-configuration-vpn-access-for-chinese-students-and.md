@@ -2,7 +2,7 @@
 title: "ANU Campus Wi-Fi Setup: Eduroam Configuration, VPN Access for Chinese Students, and Troubleshooting Connection Drops"
 description: "ANU 主校区与 Acton 及 Kioloa 海岸校区共部署超过 1,200 个 Wi-Fi 6 接入点，覆盖 95% 以上室内教学与生活区域（ANU Information Technology Services, 2024, *Network Infrastructure Report*）。对于来自中国大陆…"
 category: "ANU"
-pubDatetime: 2026-05-01T19:59:27Z
+pubDatetime: '2026-05-01T19:59:27Z'
 publishDate: '2026-05-01T19:59:27Z'
 readingTime: 3
 tags: ["featured"]

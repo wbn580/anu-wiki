@@ -2,7 +2,7 @@
 title: "ANU 博士申请套磁信撰写技巧与导师匹配策略"
 description: "澳大利亚国立大学（ANU）2023 年博士生总数为 4,532 人，其中国际博士生占比约 43%（ANU Planning & Statistical Services, 2023）。博士申请的关键环节之一——套磁信（Pre-application Inquiry Email）的撰写质量，直接影响导师回复率。根据…"
 category: "ANU 博士申请套磁信撰"
-pubDatetime: 2026-02-27T19:46:58Z
+pubDatetime: '2026-02-27T19:46:58Z'
 publishDate: '2026-02-27T19:46:58Z'
 readingTime: 13
 tags: ["featured"]

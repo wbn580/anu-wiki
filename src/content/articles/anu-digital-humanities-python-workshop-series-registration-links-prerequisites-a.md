@@ -2,7 +2,7 @@
 title: "ANU Digital Humanities Python Workshop Series: Registration Links, Prerequisites, and Project Examples"
 description: "澳洲国立大学（ANU）人文与社会科学学院（College of Arts and Social Sciences）自2019年起开设的**数字人文Python工作坊系列**（Digital Humanities Python Workshop Series），已成为该校跨学科计算技能培训的核心项目。根据ANU数字…"
 category: "ANU"
-pubDatetime: 2026-05-06T20:00:31Z
+pubDatetime: '2026-05-06T20:00:31Z'
 publishDate: '2026-05-06T20:00:31Z'
 readingTime: 3
 tags: ["featured"]

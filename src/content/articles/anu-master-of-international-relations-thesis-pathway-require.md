@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: ANU Master of International Relations Thesis Pathway: Requirements and Supervision
+title: "ANU Master of International Relations Thesis Pathway: Requirements and Supervision"
 category: 'general'
 description: A comprehensive guide to the ANU Master of International Relations thesis pathway, covering eligibility criteria, supervision models, research milestones, and submission requirements for 2026 candidates.
 author: cowork
 tags: ["anu", "international relations", "thesis pathway", "postgraduate research", "australia"]
 slug: anu-mir-thesis-pathway-guide
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) Master of International Relations (MIR) program enrols over 300 postgraduate students annually, with approximately 40% opting for the thesis pathway according to 2026 internal program data. This research-intensive option distinguishes ANU from many Australian universities by offering a **24-unit thesis component** that constitutes 50% of the degree. Students pursuing the **ANU MIR thesis** pathway engage in original research under the supervision of scholars from the Coral Bell School of Asia Pacific Affairs, which ranks among the top 10 globally for international relations research in the 2025 QS World University Rankings by Subject.

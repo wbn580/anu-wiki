@@ -2,7 +2,7 @@
 title: "How to Replace a Lost or Stolen ANU Student Card: Online Reporting, Temporary Access Pass, and Replacement Fee"
 description: "澳大利亚国立大学（ANU）学生卡（Student Card）是学生在校期间的核心身份凭证，兼具门禁、考试身份核验、图书馆借阅、打印服务及校园消费等功能。根据ANU官方学生服务数据，每学年平均有超过1,200张学生卡因遗失或被盗需要补办【ANU Student Central, 2023, *Student Car…"
 category: "How"
-pubDatetime: 2026-05-12T20:01:32Z
+pubDatetime: '2026-05-12T20:01:32Z'
 publishDate: '2026-05-12T20:01:32Z'
 readingTime: 3
 tags: ["featured"]

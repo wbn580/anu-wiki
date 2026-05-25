@@ -2,7 +2,7 @@
 title: "ANU Gym Membership Fees and Facilities: Group Fitness Timetable, Pool Access, and Personal Training Options"
 description: "澳大利亚国立大学（ANU）体育中心（ANU Sport & Recreation）是校园内主要的健身与运动服务提供方，其运营的**ANU Gym**位于Acton校区。根据ANU Sport官方2024-2025年费率表，全日制学生标准会员费为每学期（约20周）**AUD 299**，非高峰时段（Off-Peak…"
 category: "ANU"
-pubDatetime: 2026-04-18T19:56:56Z
+pubDatetime: '2026-04-18T19:56:56Z'
 publishDate: '2026-04-18T19:56:56Z'
 readingTime: 3
 tags: ["featured"]

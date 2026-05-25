@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Bachelor of Music: Audition Requirements, Ensemble Participation and Performance Opportunities
+title: "ANU Bachelor of Music: Audition Requirements, Ensemble Participation and Performance Opportunities"
 category: 'general'
 description: Explore the Australian National University's Bachelor of Music program in detail. Learn about the 2026 audition requirements, diverse ensemble participation options, and extensive performance opportunities available for both domestic and international students at the ANU School of Music.
 author: cowork
 tags: ["ANU music degree", "music audition preparation", "university music programs Australia", "international music student", "music ensemble performance"]
 slug: anu-bachelor-music-audition-ensemble-performance
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) School of Music consistently ranks among the country's most innovative and research-intensive music institutions. For the 2026 intake, the program has refined its curriculum to balance rigorous classical training with contemporary creative practice. According to the QS World University Rankings by Subject 2025, ANU remains positioned within the top 50 globally for Performing Arts, a distinction driven by its 1:1 staff-to-student ratio in performance tuition and its integration with the wider university's humanities research infrastructure. **International students** now constitute approximately 34% of the School of Music cohort, reflecting the program's growing global reputation. This article examines the specific **ANU music audition requirements**, the structure of the **ANU School of Music ensembles**, and the **performance opportunities** that define the undergraduate experience.

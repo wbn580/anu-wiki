@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍申请截止日期与候补名单转正概率分析"
 description: "澳大利亚国立大学（ANU）2024年校内住宿申请数据显示，**第一轮保证性申请截止日期为每年10月31日**，在此日期前提交申请的一年级新生可获住宿保证（Guaranteed Accommodation Offer）。然而，实际申请量连续三年超出可用床位约17%-23%，导致大量申请者进入候补名单（Waitlis…"
 category: "ANU 学生宿舍申请截止"
-pubDatetime: 2026-03-03T19:47:37Z
+pubDatetime: '2026-03-03T19:47:37Z'
 publishDate: '2026-03-03T19:47:37Z'
 readingTime: 13
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Bike Parking and Security: Designated Racks, Registration to Prevent Theft, and Reporting a Stolen Bicycle"
 description: "澳大利亚国立大学（ANU）是澳大利亚自行车通勤率最高的大学之一，其校园内设有超过 2,000 个自行车停车位，分布在 Acton 校区的 40 余个指定区域。根据 ANU 交通与停车管理办公室 2023 年发布的《校园自行车规划》数据，校园注册自行车数量已超过 1,800 辆，但每年仍有约 60 起自行车盗窃报告…"
 category: "ANU"
-pubDatetime: 2026-05-05T20:00:16Z
+pubDatetime: '2026-05-05T20:00:16Z'
 publishDate: '2026-05-05T20:00:16Z'
 readingTime: 3
 tags: ["featured"]

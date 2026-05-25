@@ -2,7 +2,7 @@
 title: "ANU 本科申请个人陈述撰写技巧与优秀范文分析"
 description: "澳大利亚国立大学（ANU）本科申请中，个人陈述（Personal Statement）是决定录取结果的关键材料之一。根据ANU官方招生数据，2023年申请季中，约65%的申请者提交了个人陈述，而其中仅有不到30%的陈述被招生委员会评为“具有说服力”【ANU Admissions Office, 2023, Und…"
 category: "ANU 本科申请个人陈述"
-pubDatetime: 2026-03-04T19:47:56Z
+pubDatetime: '2026-03-04T19:47:56Z'
 publishDate: '2026-03-04T19:47:56Z'
 readingTime: 11
 tags: ["featured"]

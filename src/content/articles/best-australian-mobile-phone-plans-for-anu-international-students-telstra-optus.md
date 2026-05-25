@@ -2,7 +2,7 @@
 title: "Best Australian Mobile Phone Plans for ANU International Students: Telstra, Optus, and Vodafone Coverage on Campus"
 description: "截至2024年，澳大利亚国立大学（ANU）在校国际学生总数超过10,400人，占全校学生人数的约38%【Australian Government Department of Education, 2024, 'International Student Data'】。对于抵达堪培拉的ANU新生，选择一张覆盖校园…"
 category: "Best"
-pubDatetime: 2026-04-27T19:58:36Z
+pubDatetime: '2026-04-27T19:58:36Z'
 publishDate: '2026-04-27T19:58:36Z'
 readingTime: 3
 tags: ["featured"]

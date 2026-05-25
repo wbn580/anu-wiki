@@ -2,7 +2,7 @@
 title: "ANU 学术不端听证会流程与申诉应对策略"
 description: "澳大利亚国立大学（ANU）在2023年学术诚信报告（Academic Integrity Report）中记录，全年共处理了超过420起学术不端指控，其中约35%的案件最终进入正式听证会程序。根据澳大利亚高等教育质量与标准署（TEQSA）2022年发布的《学术诚信国家指南》，高校需建立独立的学术不端听证机制以保障…"
 category: "ANU 学术不端听证会流"
-pubDatetime: 2026-02-27T19:46:49Z
+pubDatetime: '2026-02-27T19:46:49Z'
 publishDate: '2026-02-27T19:46:49Z'
 readingTime: 8
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 国际学生租房合同审核要点与押金纠纷处理"
 description: "澳大利亚首都领地（ACT）是澳大利亚全境押金纠纷率最高的地区之一。根据ACT司法与社区安全局（JACS）2023-24年度报告，该年度ACT民事与行政仲裁庭（ACAT）受理的租赁押金争议案件达1,427件，其中涉及ANU国际学生的案件占比约18%。与此同时，ANU 2024年国际学生入学人数为10,432人，较2…"
 category: "ANU 国际学生租房合同"
-pubDatetime: 2026-03-08T19:48:38Z
+pubDatetime: '2026-03-08T19:48:38Z'
 publishDate: '2026-03-08T19:48:38Z'
 readingTime: 18
 tags: ["featured"]

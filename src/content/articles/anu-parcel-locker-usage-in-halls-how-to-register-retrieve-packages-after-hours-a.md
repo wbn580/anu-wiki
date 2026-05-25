@@ -2,7 +2,7 @@
 title: "ANU Parcel Locker Usage in Halls: How to Register, Retrieve Packages After Hours, and Handle Oversized Deliveries"
 description: "澳大利亚国立大学（ANU）的住宿学院（Halls of Residence）自 2022 年起全面启用电子包裹寄存柜（Parcel Locker）系统，以应对每年超过 12,000 件的学生包裹处理量（ANU Accommodation Services, 2023 Annual Report）。该系统取代了传统…"
 category: "ANU"
-pubDatetime: 2026-05-15T20:02:14Z
+pubDatetime: '2026-05-15T20:02:14Z'
 publishDate: '2026-05-15T20:02:14Z'
 readingTime: 3
 tags: ["featured"]

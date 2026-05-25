@@ -2,7 +2,7 @@
 title: "ANU Conference Travel Funding for HDR Students: Eligibility Criteria, Application Rounds, and Allowance Rates"
 description: "澳大利亚国立大学（ANU）为高等教育研究学位（HDR）学生设立的会议旅行资助（Conference Travel Funding）项目，在2024-2025学年共发放超过180万澳元，惠及约750名博士生和硕士研究类学生，根据澳大利亚教育、技能与就业部（DESE）2024年《研究培训计划年度报告》，该资助覆盖了学…"
 category: "ANU"
-pubDatetime: 2026-05-06T20:00:19Z
+pubDatetime: '2026-05-06T20:00:19Z'
 publishDate: '2026-05-06T20:00:19Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 跨学科选修课推荐：拓宽知识面的低门槛好课"
 description: "澳大利亚国立大学（ANU）在2024年QS世界大学排名中位列第34位，其跨学科教育体系允许本科生在学位要求的120-144学分中，选修最多24学分的非专业课程（ANU 2023 Coursework Policy）。这些低门槛选修课为来自商科、工程、人文等背景的学生提供了系统性接触其他学科的机会，无需前置知识即可…"
 category: "ANU 跨学科选修课推荐"
-pubDatetime: 2026-02-26T19:46:36Z
+pubDatetime: '2026-02-26T19:46:36Z'
 publishDate: '2026-02-26T19:46:36Z'
 readingTime: 9
 tags: ["featured"]

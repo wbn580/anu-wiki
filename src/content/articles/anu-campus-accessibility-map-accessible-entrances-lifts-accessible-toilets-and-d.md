@@ -2,7 +2,7 @@
 title: "ANU Campus Accessibility Map: Accessible Entrances, Lifts, Accessible Toilets, and Disability Support Service Contacts"
 description: "澳大利亚国立大学（ANU）Acton校区占地145公顷，拥有超过200栋建筑，其地形起伏显著，部分区域坡度超过10%。根据澳大利亚统计局（ABS）2021年人口普查数据，15岁以上澳大利亚人口中有8.2%报告存在需要辅助设备或环境改造的残疾状况，而ANU在2023年《残疾包容行动计划》中确认，校园内共有47栋建筑…"
 category: "ANU"
-pubDatetime: 2026-05-04T20:00:03Z
+pubDatetime: '2026-05-04T20:00:03Z'
 publishDate: '2026-05-04T20:00:03Z'
 readingTime: 3
 tags: ["featured"]

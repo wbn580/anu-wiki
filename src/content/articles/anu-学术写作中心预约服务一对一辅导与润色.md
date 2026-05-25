@@ -2,7 +2,7 @@
 title: "ANU 学术写作中心预约服务：一对一辅导与润色"
 description: "澳大利亚国立大学学术技能与培训中心（Academic Skills & Training Centre）运营的**学术写作中心（Academic Writing Centre）** 提供免费一对一辅导与润色服务，是校内最直接、最系统的学术写作支持资源。根据该中心2024年发布的服务报告，在2023年全年，中心共完…"
 category: "ANU 学术写作中心预约"
-pubDatetime: 2026-03-10T19:49:10Z
+pubDatetime: '2026-03-10T19:49:10Z'
 publishDate: '2026-03-10T19:49:10Z'
 readingTime: 12
 tags: ["featured"]

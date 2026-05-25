@@ -2,7 +2,7 @@
 title: "ANU Gender Studies Research Symposium: Call for Papers, Panels, and How to Register as an Attendee"
 description: "澳大利亚国立大学（ANU）性别研究所（Gender Institute）自2011年起每年举办一次跨学科研究研讨会，为学者、研究生及行业从业者提供展示性别研究前沿成果的平台。2024年度的ANU Gender Studies Research Symposium定于9月12日至13日在堪培拉Acton校区举行，现…"
 category: "ANU"
-pubDatetime: 2026-05-08T20:00:56Z
+pubDatetime: '2026-05-08T20:00:56Z'
 publishDate: '2026-05-08T20:00:56Z'
 readingTime: 3
 tags: ["featured"]

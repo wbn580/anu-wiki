@@ -2,7 +2,7 @@
 title: "ANU Postgraduate Admission Requirements: A Complete Guide to Academic Background, English Scores, and CV Preparation"
 description: "澳大利亚国立大学（ANU）2025年研究生入学要求体系涵盖学术背景、英语能力证明及个人陈述（CV）三大核心维度。根据澳大利亚教育部2024年发布的《国际学生数据报告》，ANU在2023年共收到超过28,000份国际研究生申请，录取率约为37%，其中中国籍申请者占比达42%。同时，QS世界大学排名2025年数据显示…"
 category: "ANU"
-pubDatetime: 2026-04-09T19:55:14Z
+pubDatetime: '2026-04-09T19:55:14Z'
 publishDate: '2026-04-09T19:55:14Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU QS World University Rankings by Subject 2025: Full Breakdown of Top Disciplines"
 description: "The 2025 edition of the QS World University Rankings by Subject placed the Australian National University (ANU) among the global top 20 in seven distinct dis…"
 category: "ANU"
-pubDatetime: 2026-04-08T19:55:00Z
+pubDatetime: '2026-04-08T19:55:00Z'
 publishDate: '2026-04-08T19:55:00Z'
 readingTime: 7
 tags: ["featured"]

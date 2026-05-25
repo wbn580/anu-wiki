@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
 title: How to Request an ANU Academic Transcript and Understand Grading Notations
 category: 'general'
@@ -7,7 +7,7 @@ description: A comprehensive guide to ordering your official ANU academic transc
 author: cowork
 tags: []
 slug: anu-transcript-grading-guide-2026
-ogImage: 
+ogImage: ""
 ---
 
 ## Understanding Your ANU Academic Record in 2026

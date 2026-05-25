@@ -2,7 +2,7 @@
 title: "ANU Emergency Assistance for International Students: Contacts for Embassy, Consulate, and University Crisis Support"
 description: "澳大利亚国立大学（ANU）在2023年校方安全报告（ANU Security Annual Report 2023）中记录，当年校园内共处理了超过420起涉及国际学生的紧急或非紧急求助事件，其中约15%的案件需要协调外部机构如大使馆或领事馆介入。对于在堪培拉求学的约8,000名国际学生（数据来源：澳大利亚教育部2…"
 category: "ANU"
-pubDatetime: 2026-04-20T19:57:21Z
+pubDatetime: '2026-04-20T19:57:21Z'
 publishDate: '2026-04-20T19:57:21Z'
 readingTime: 3
 tags: ["featured"]

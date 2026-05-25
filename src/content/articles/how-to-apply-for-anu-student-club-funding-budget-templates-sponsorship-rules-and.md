@@ -2,7 +2,7 @@
 title: "How to Apply for ANU Student Club Funding: Budget Templates, Sponsorship Rules, and Event Approval Workflows"
 description: "澳大利亚国立大学（ANU）目前注册有超过 200 个学生俱乐部和社团（ANU 学生协会，2024 年度报告），每年通过 ANU 学生协会（ANUSA）和研究生协会（PARSA）分配约 50 万澳元的学生活动经费。对于俱乐部负责人而言，理解这套资金申请、预算模板、赞助规则及活动审批流程，是确保活动顺利举办的核心能力…"
 category: "How"
-pubDatetime: 2026-04-13T19:56:09Z
+pubDatetime: '2026-04-13T19:56:09Z'
 publishDate: '2026-04-13T19:56:09Z'
 readingTime: 3
 tags: ["featured"]

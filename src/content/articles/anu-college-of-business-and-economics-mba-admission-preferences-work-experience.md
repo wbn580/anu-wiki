@@ -2,7 +2,7 @@
 title: "ANU College of Business and Economics MBA Admission Preferences: Work Experience, GMAT Scores, and Career Support Services"
 description: "澳大利亚国立大学商业与经济学院（ANU College of Business and Economics, CBE）的全日制工商管理硕士（MBA）项目，在2024年《金融时报》全球MBA排名中位列第88位，其毕业生三年后平均年薪达到127,000美元【Financial Times, 2024, Global …"
 category: "ANU"
-pubDatetime: 2026-04-11T19:55:41Z
+pubDatetime: '2026-04-11T19:55:41Z'
 publishDate: '2026-04-11T19:55:41Z'
 readingTime: 3
 tags: ["featured"]

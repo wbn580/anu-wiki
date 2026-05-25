@@ -2,7 +2,7 @@
 title: "ANU 国际学生手机卡套餐对比：Telstra vs Optus vs Vodafone"
 description: "截至 2025 年，澳大利亚三大移动网络运营商——Telstra、Optus 与 Vodafone——合计占据全国约 87% 的移动服务市场份额（Australian Competition and Consumer Commission, 2024, *Communications Market Report*…"
 category: "ANU 国际学生手机卡套"
-pubDatetime: 2026-03-13T19:49:41Z
+pubDatetime: '2026-03-13T19:49:41Z'
 publishDate: '2026-03-13T19:49:41Z'
 readingTime: 14
 tags: ["featured"]

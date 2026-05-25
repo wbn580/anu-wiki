@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: How to Transfer Between ANU Degrees: Internal Program Transfer Process
+title: "How to Transfer Between ANU Degrees: Internal Program Transfer Process"
 category: 'general'
 description: Comprehensive guide to transferring between degrees at the Australian National University. Learn about ANU internal transfer eligibility, application steps, credit transfers, and key deadlines for 2026.
 author: cowork
 tags: ["anu internal transfer", "anu degree transfer process", "switch programs anu", "anu course change", "australian national university transfer"]
 slug: anu-internal-degree-transfer-process-2026
-ogImage: 
+ogImage: ""
 ---
 
 ## Understanding ANU Internal Program Transfers

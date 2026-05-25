@@ -2,7 +2,7 @@
 title: "ANU International Cultural Exchange Events: How to Find the Calendar, Register for Activities, and Join the Global Community"
 description: "澳大利亚国立大学（ANU）每年举办超过200场国际文化交流活动，覆盖学术讲座、语言交换、文化节庆和社区服务四大类别，参与学生来自全球100余个国家和地区（ANU Global Programs, 2024, *Annual International Engagement Report*）。根据澳大利亚教育部20…"
 category: "ANU"
-pubDatetime: 2026-05-01T19:59:22Z
+pubDatetime: '2026-05-01T19:59:22Z'
 publishDate: '2026-05-01T19:59:22Z'
 readingTime: 3
 tags: ["featured"]

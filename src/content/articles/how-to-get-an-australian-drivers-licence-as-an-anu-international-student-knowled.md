@@ -2,7 +2,7 @@
 title: "How to Get an Australian Driver's Licence as an ANU International Student: Knowledge Test, Driving Test, and ACT Road Rules"
 description: "获得澳大利亚驾驶执照是许多澳大利亚国立大学（ANU）国际学生融入本地生活、提升出行便利性的重要步骤。截至2024年，澳大利亚首都领地（ACT）的道路规则与驾照申请流程与其他州存在显著差异，国际学生需特别注意。根据澳大利亚基础设施、交通、区域发展、通信和艺术部（2023年）《澳大利亚车辆登记与驾驶执照国家框架》报告…"
 category: "How"
-pubDatetime: 2026-05-22T20:03:34Z
+pubDatetime: '2026-05-22T20:03:34Z'
 publishDate: '2026-05-22T20:03:34Z'
 readingTime: 3
 tags: ["featured"]

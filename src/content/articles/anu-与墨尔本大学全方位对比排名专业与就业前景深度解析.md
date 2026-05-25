@@ -2,7 +2,7 @@
 title: "ANU 与墨尔本大学全方位对比：排名、专业与就业前景深度解析"
 description: "澳大利亚国立大学（ANU）与墨尔本大学（UniMelb）是澳大利亚高等教育体系中最常被并列比较的两所研究型大学。根据2024年QS世界大学排名，墨尔本大学位列全球第14位，而ANU位列第34位；但在2023年泰晤士高等教育（THE）世界大学排名中，ANU以师生比得分87.6领先于墨尔本大学的75.4【QS 202…"
 category: "ANU 与墨尔本大学全方"
-pubDatetime: 2026-02-22T19:45:33Z
+pubDatetime: '2026-02-22T19:45:33Z'
 publishDate: '2026-02-22T19:45:33Z'
 readingTime: 14
 tags: ["featured"]

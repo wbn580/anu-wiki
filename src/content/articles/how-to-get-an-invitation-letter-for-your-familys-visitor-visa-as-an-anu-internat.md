@@ -2,7 +2,7 @@
 title: "How to Get an Invitation Letter for Your Family's Visitor Visa as an ANU International Student"
 description: "澳大利亚国立大学（ANU）在 2025 年 QS 世界大学排名中位列第 30 位，吸引了来自超过 100 个国家的国际学生。对于许多在 ANU 就读的国际学生而言，邀请家人来澳探亲是常见需求，而获得一份符合澳大利亚移民局（Department of Home Affairs）要求的邀请信（Invitation L…"
 category: "How"
-pubDatetime: 2026-04-16T19:56:37Z
+pubDatetime: '2026-04-16T19:56:37Z'
 publishDate: '2026-04-16T19:56:37Z'
 readingTime: 3
 tags: ["featured"]

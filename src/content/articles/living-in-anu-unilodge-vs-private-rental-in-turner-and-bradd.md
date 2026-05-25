@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: Living in ANU UniLodge vs Private Rental in Turner and Braddon: Lease Terms, Bond Disputes and Commute Experience
+title: "Living in ANU UniLodge vs Private Rental in Turner and Braddon: Lease Terms, Bond Disputes and Commute Experience"
 category: 'general'
 description: A comprehensive comparison of student accommodation at ANU UniLodge versus private rentals in Turner and Braddon, covering lease flexibility, bond dispute resolution, rental costs in 2026, and daily commute experiences to help you make an informed housing decision.
 author: cowork
 tags: ["ANU accommodation", "Turner Braddon rental", "student housing Canberra", "lease terms Australia", "bond disputes ACT"]
 slug: anu-unilodge-vs-private-rental-turner-braddon
-ogImage: 
+ogImage: ""
 ---
 
 Finding the right place to live while studying at the Australian National University shapes your entire academic experience. The choice between **ANU UniLodge accommodation** and a **private rental in Turner or Braddon** involves more than just comparing weekly rents. Lease obligations, bond protection, and your daily walk to campus all matter. According to the ACT Rental Bonds Office, **over 3,200 new rental bonds** were lodged in the inner north Canberra suburbs during the first quarter of 2026, reflecting sustained demand among students and young professionals. Meanwhile, ANU UniLodge reported an **average occupancy rate of 94%** across its properties in Semester 1, 2026, signalling that purpose-built student accommodation remains a popular pathway for those prioritising convenience.

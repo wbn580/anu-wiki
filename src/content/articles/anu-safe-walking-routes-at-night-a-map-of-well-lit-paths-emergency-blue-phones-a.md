@@ -2,7 +2,7 @@
 title: "ANU Safe Walking Routes at Night: A Map of Well-Lit Paths, Emergency Blue Phones, and Shuttle Bus Stops"
 description: "澳大利亚国立大学（ANU）Acton 主校区占地 145 公顷，夜间步行安全是学生关注的核心议题。根据澳大利亚统计局（ABS）2023 年《个人安全调查》，15-24 岁学生在夜间独自步行时感到不安全的比例达 28.7%。ANU 安全与安保部门（ANU Security）运营着覆盖全校区 58 个紧急求助电话（B…"
 category: "ANU"
-pubDatetime: 2026-05-15T20:02:13Z
+pubDatetime: '2026-05-15T20:02:13Z'
 publishDate: '2026-05-15T20:02:13Z'
 readingTime: 3
 tags: ["featured"]

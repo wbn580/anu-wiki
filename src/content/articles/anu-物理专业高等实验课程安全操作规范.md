@@ -2,7 +2,7 @@
 title: "ANU 物理专业高等实验课程安全操作规范"
 description: "澳大利亚国立大学（ANU）物理专业高等实验课程的安全操作规范，是该校物理与工程研究院（RSPE）教学体系的核心组成部分。根据澳大利亚联邦工作健康与安全法（WHS Act 2011）及ANU校内安全政策，所有参与高等实验课程的学生必须完成强制性安全培训，该培训覆盖了从激光操作到低温实验等至少8个高风险领域。ANU物…"
 category: "ANU 物理专业高等实验"
-pubDatetime: 2026-03-11T19:49:19Z
+pubDatetime: '2026-03-11T19:49:19Z'
 publishDate: '2026-03-11T19:49:19Z'
 readingTime: 19
 tags: ["featured"]

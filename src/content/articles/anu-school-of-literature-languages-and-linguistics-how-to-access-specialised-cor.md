@@ -2,7 +2,7 @@
 title: "ANU School of Literature, Languages and Linguistics: How to Access Specialised Corpora and Language Lab Resources"
 description: "澳洲国立大学（ANU）人文与社会科学学院旗下的文学、语言与语言学学院（School of Literature, Languages and Linguistics, SLLL）拥有南半球规模最大的语言学系之一，其自建的**语言语料库**和**数字人文实验室**为研究者提供了从古英语方言到当代太平洋岛国语言的跨学…"
 category: "ANU"
-pubDatetime: 2026-04-29T19:59:05Z
+pubDatetime: '2026-04-29T19:59:05Z'
 publishDate: '2026-04-29T19:59:05Z'
 readingTime: 3
 tags: ["featured"]

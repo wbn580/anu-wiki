@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU HDR Milestones and Candidature Management: Annual Reviews, Extensions, and Thesis Submission
+title: "ANU HDR Milestones and Candidature Management: Annual Reviews, Extensions, and Thesis Submission"
 category: 'general'
 description: A comprehensive guide to managing your ANU HDR candidature milestones, including annual reviews, thesis submission guidelines, and extension procedures. Learn key deadlines, requirements, and strategies for successful completion of your research degree.
 author: cowork
 tags: ["ANU HDR", "candidature management", "thesis submission", "annual review", "research milestones"]
 slug: anu-hdr-milestones-candidature-management
-ogImage: 
+ogImage: ""
 ---
 
 Managing a Higher Degree by Research (HDR) at the Australian National University requires meticulous attention to candidature milestones, from the **confirmation of candidature** through to the final **thesis submission**. The ANU HDR annual review process serves as the backbone of research progress monitoring, ensuring candidates remain on track and receive appropriate support. According to the 2026 ANU Research Training Policy, over 2,500 HDR candidates are currently enrolled across disciplines, with approximately 87% successfully completing their annual reviews on schedule. Understanding the **ANU candidature extension form** procedures and **ANU thesis submission guidelines** is essential for navigating the administrative landscape while focusing on research excellence.

@@ -2,7 +2,7 @@
 title: "ANU Residential Hall Internet Data Caps: Monitoring Your Usage, Off-Peak Download Windows, and Upgrading Your Plan"
 description: "澳大利亚国立大学（ANU）校内住宿网络的数据配额管理是学生日常学习与生活中不可忽视的环节。根据ANU住宿服务部2024年发布的《居民数字服务指南》，所有校内宿舍与学院（Hall）的标准网络套餐均设有每月100 GB的数据上限，超出部分将按每额外1 GB收取0.50澳元的标准计费。同时，澳大利亚竞争与消费者委员会（…"
 category: "ANU"
-pubDatetime: 2026-05-12T20:01:43Z
+pubDatetime: '2026-05-12T20:01:43Z'
 publishDate: '2026-05-12T20:01:43Z'
 readingTime: 3
 tags: ["featured"]

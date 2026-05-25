@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU College Pathway Programs: Your Bridge from Foundation Studies to Undergraduate Degrees
+title: "ANU College Pathway Programs: Your Bridge from Foundation Studies to Undergraduate Degrees"
 category: 'general'
 description: Explore ANU College's comprehensive pathway programs, including Foundation Studies and Diploma to Bachelor transitions. Learn about entry requirements, English prerequisites, and how these programs prepare international students for success at Australia's top-ranked university.
 author: cowork
 tags: []
 slug: anu-college-pathway-foundation-undergraduate
-ogImage: 
+ogImage: ""
 ---
 
 # ANU College Pathway Programs: Your Bridge from Foundation Studies to Undergraduate Degrees

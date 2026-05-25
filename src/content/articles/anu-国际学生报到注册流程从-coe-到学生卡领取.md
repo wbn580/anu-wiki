@@ -2,7 +2,7 @@
 title: "ANU 国际学生报到注册流程：从 CoE 到学生卡领取"
 description: "澳大利亚国立大学（ANU）2024-2025学年接收的国际学生中，约78%通过澳大利亚内政部（Department of Home Affairs）的简化签证处理（SSVF）框架入境，每学年平均报到注册周期为8至12周【澳大利亚内政部，2024，Student Visa and Simplification Pr…"
 category: "ANU 国际学生报到注册"
-pubDatetime: 2026-03-08T19:48:48Z
+pubDatetime: '2026-03-08T19:48:48Z'
 publishDate: '2026-03-08T19:48:48Z'
 readingTime: 12
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "How to Set Up and Update Your Emergency Contact Details in ANU ISIS and the SafeZone App"
 description: "澳大利亚国立大学（ANU）要求所有在校学生通过校内信息系统 ISIS 与校园安全应用 SafeZone 登记并维护紧急联系人信息。根据 ANU 安全与应急管理办公室 2024 年发布的《校园安全指引》，超过 78% 的学生在入学首周未完成 SafeZone 账户激活，而 2023 年该校共记录 342 起需要紧急…"
 category: "How"
-pubDatetime: 2026-04-30T19:59:20Z
+pubDatetime: '2026-04-30T19:59:20Z'
 publishDate: '2026-04-30T19:59:20Z'
 readingTime: 3
 tags: ["featured"]

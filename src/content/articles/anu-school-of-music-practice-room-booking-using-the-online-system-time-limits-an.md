@@ -2,7 +2,7 @@
 title: "ANU School of Music Practice Room Booking: Using the Online System, Time Limits, and Piano Maintenance Rules"
 description: "澳洲国立大学（ANU）音乐学院（School of Music）位于堪培拉Acton校区，其Llewellyn Hall与Peter Karmel Building内共设有超过40间练习室，供学生日常练习与排练使用。根据ANU官方2024年发布的《学生设施使用指南》，学院练习室的日均使用率在学期中超过78%，高峰…"
 category: "ANU"
-pubDatetime: 2026-05-01T19:59:35Z
+pubDatetime: '2026-05-01T19:59:35Z'
 publishDate: '2026-05-01T19:59:35Z'
 readingTime: 3
 tags: ["featured"]

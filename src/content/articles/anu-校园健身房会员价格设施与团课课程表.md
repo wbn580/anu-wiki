@@ -2,7 +2,7 @@
 title: "ANU 校园健身房会员价格、设施与团课课程表"
 description: "澳大利亚国立大学（ANU）校内健身房系统由 ANU Sport 与 ANU Wellbeing and Safety 联合运营，覆盖 **Acton 校区** 与 **Daley Road 运动中心** 两大核心场馆，为在校学生与教职工提供低于市场均价 30-40% 的会员价格与超过 50 种每周团课。根据澳大利…"
 category: "ANU 校园健身房会员价"
-pubDatetime: 2026-03-04T19:47:53Z
+pubDatetime: '2026-03-04T19:47:53Z'
 publishDate: '2026-03-04T19:47:53Z'
 readingTime: 11
 tags: ["featured"]

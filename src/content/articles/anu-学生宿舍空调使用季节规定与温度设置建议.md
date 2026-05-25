@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍空调使用季节规定与温度设置建议"
 description: "澳大利亚国立大学（ANU）校内宿舍及合作公寓的空调系统并非全年无限制开放，而是遵循一套基于季节、室外温度和能源管理政策的运行规定。根据ANU住宿服务处（ANU Accommodation Services）2024年发布的《住宿手册》，校内宿舍的中央空调通常在每年10月1日至次年3月31日期间切换至制冷模式，其余…"
 category: "ANU 学生宿舍空调使用"
-pubDatetime: 2026-03-25T19:52:14Z
+pubDatetime: '2026-03-25T19:52:14Z'
 publishDate: '2026-03-25T19:52:14Z'
 readingTime: 14
 tags: ["featured"]

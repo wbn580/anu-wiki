@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: Understanding ANU Course Codes and Unit Levels: A Beginner’s Guide
+title: "Understanding ANU Course Codes and Unit Levels: A Beginner’s Guide"
 category: 'general'
 description: Decode ANU course codes and unit levels with this comprehensive guide. Learn how course numbering works, what each digit represents, and how to plan your degree effectively using the Australian National University's academic structure.
 author: Academic Insights

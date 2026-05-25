@@ -2,7 +2,7 @@
 title: "ANU School of Music Performance Tickets: How to Book, Ticket Prices, and Student Discount Availability"
 description: "位于澳大利亚首都堪培拉的澳大利亚国立大学（ANU）音乐学院每年举办超过200场公开演出，涵盖古典、爵士、电子及世界音乐等多种形式。根据ANU音乐学院2024年度活动报告，其Llewellyn Hall（容纳1,440座）与Big Band Room（容纳120座）两大演出场地年均售票总量超过85,000张，其中约…"
 category: "ANU"
-pubDatetime: 2026-04-25T19:58:30Z
+pubDatetime: '2026-04-25T19:58:30Z'
 publishDate: '2026-04-25T19:58:30Z'
 readingTime: 3
 tags: ["featured"]

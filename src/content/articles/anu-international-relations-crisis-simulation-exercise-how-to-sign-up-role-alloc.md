@@ -2,7 +2,7 @@
 title: "ANU International Relations Crisis Simulation Exercise: How to Sign Up, Role Allocation, and Preparation Resources"
 description: "澳大利亚国立大学（ANU）国际关系危机模拟演习（IR Crisis Simulation Exercise）是该校政治与国际关系学院（School of Politics and International Relations）每学期举办的标志性学术实践活动。该演习模拟真实外交危机场景，要求参与学生在限定时间内扮…"
 category: "ANU"
-pubDatetime: 2026-05-05T20:00:09Z
+pubDatetime: '2026-05-05T20:00:09Z'
 publishDate: '2026-05-05T20:00:09Z'
 readingTime: 3
 tags: ["featured"]

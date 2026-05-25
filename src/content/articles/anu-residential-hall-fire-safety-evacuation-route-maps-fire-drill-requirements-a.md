@@ -2,7 +2,7 @@
 title: "ANU Residential Hall Fire Safety: Evacuation Route Maps, Fire Drill Requirements, and Prohibited Items in Rooms"
 description: "澳大利亚国立大学（ANU）校内共运营16栋住宿楼，覆盖约6,500名学生床位。根据澳大利亚首都领地（ACT）紧急服务局2023年发布的《住宿建筑消防安全指南》，ANU所有住宿楼均需配备符合AS 1851-2012标准的消防系统，并执行每学期至少一次的强制火警疏散演练。2024年ANU安全办公室年度报告显示，宿舍区…"
 category: "ANU"
-pubDatetime: 2026-05-10T20:01:18Z
+pubDatetime: '2026-05-10T20:01:18Z'
 publishDate: '2026-05-10T20:01:18Z'
 readingTime: 3
 tags: ["featured"]

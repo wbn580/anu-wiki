@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Student Email and Digital Account Setup: Activating ISIS, Wattle, and Office 365
+title: "ANU Student Email and Digital Account Setup: Activating ISIS, Wattle, and Office 365"
 category: 'general'
 description: A comprehensive walkthrough for new Australian National University students on activating the ISIS account, logging into Wattle for the first time, setting up student email, and downloading Microsoft Office 365 for free in 2026.
 author: cowork
 tags: ["ANU digital setup", "student IT orientation", "ISIS activation", "Wattle LMS", "Office 365 education"]
 slug: anu-student-email-digital-account-setup-isis-wattle-office365
-ogImage: 
+ogImage: ""
 ---
 
 Navigating the digital ecosystem at the Australian National University can feel overwhelming during orientation week. But establishing your online identity is the single most critical step before classes commence. According to the **ANU 2026 IT Services Annual Report**, over 98% of coursework submissions and lecture materials are now distributed exclusively through digital platforms. A separate **2026 Student Experience Survey** revealed that students who activated all core accounts before Week 1 were 40% less likely to report administrative stress. This guide breaks down the activation sequence for your **ANU ISIS account**, the **Wattle learning management system**, your **student email**, and the **Microsoft Office 365 suite**, ensuring you start the semester with a fully operational digital toolkit.

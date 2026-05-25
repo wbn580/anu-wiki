@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
 title: How to Apply for an ANU Research Internship as an Undergraduate
 category: 'general'
@@ -7,7 +7,7 @@ description: A comprehensive guide for undergraduate students seeking to secure 
 author: cowork
 tags: []
 slug: anu-research-internship-undergraduate-guide
-ogImage: 
+ogImage: ""
 ---
 
 Undergraduate research experiences are transformative. At the Australian National University, over **70% of research-active academics** engage with undergraduate students through structured internship programs each year. The university’s 2026 strategic plan highlights a **35% increase in summer research placements** compared to 2024, reflecting a growing institutional commitment to early-career researchers. For students, these opportunities are not just CV boosters—they are gateways to **honours programs, postgraduate scholarships, and industry connections**. This guide walks you through the entire process of securing an ANU research internship, from identifying a supervisor to submitting a competitive application.

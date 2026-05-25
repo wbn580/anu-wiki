@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Computing Advanced vs Master of Machine Learning and Computer Vision: Curriculum Overlap and Career Outcomes
+title: "ANU Master of Computing Advanced vs Master of Machine Learning and Computer Vision: Curriculum Overlap and Career Outcomes"
 category: 'general'
 description: A detailed comparison of the Australian National University's Master of Computing (Advanced) and Master of Machine Learning and Computer Vision, examining curriculum overlap, capstone projects, specialisation pathways, and career outcomes for 2026 applicants.
 author: cowork
 tags: ["ANU postgraduate courses", "Master of Computing Advanced", "Master of Machine Learning and Computer Vision", "computing curriculum comparison", "Australian university career outcomes"]
 slug: anu-computing-advanced-vs-machine-learning-computer-vision-comparison
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) consistently ranks among the world's top 40 institutions for computer science, according to the QS World University Rankings by Subject 2026. For students weighing postgraduate options, the choice between the Master of Computing (Advanced) and the Master of Machine Learning and Computer Vision (MLCV) presents a strategic decision point. Both degrees sit within the ANU College of Engineering, Computing and Cybernetics, yet they cater to distinct academic interests and professional trajectories. In 2026, approximately 65% of computing master's applicants at ANU consider at least two specialisations before finalising their enrolment, reflecting the importance of understanding curriculum overlap and career alignment early in the decision process. This article provides a structured comparison to help prospective students navigate the nuances between these two sought-after programmes.

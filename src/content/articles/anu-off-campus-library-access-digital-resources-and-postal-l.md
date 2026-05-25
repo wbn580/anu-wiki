@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Off-Campus Library Access: Digital Resources and Postal Loans for Remote Students
+title: "ANU Off-Campus Library Access: Digital Resources and Postal Loans for Remote Students"
 category: 'general'
 description: A comprehensive guide to the Australian National University's off-campus library services, covering digital resources, postal loan services, and how remote students can access over 2.3 million ebooks and 150,000 e-journals in 2026.
 author: cowork
 tags: ["ANU off-campus library", "remote student library access", "ANU digital resources", "postal loan service ANU", "ANU library ebooks"]
 slug: anu-off-campus-library-digital-resources-postal-loans
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University serves over 20,000 students across Australia and internationally, with approximately 35% enrolled in fully online or distance programs as of 2026. Accessing library resources can feel like navigating a maze when you're not physically on campus in Acton. The ANU Library system has invested over $18 million in digital infrastructure and remote access technologies in the past three years, ensuring off-campus students receive the same quality of academic support as their on-campus peers. Whether you're completing a PhD from rural Queensland or taking postgraduate coursework from Singapore, understanding how to unlock these resources will directly impact your research outcomes and assignment quality.

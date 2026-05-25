@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU's Mental Health Support for International Students: Counseling, Workshops, and Crisis Lines
+title: "ANU's Mental Health Support for International Students: Counseling, Workshops, and Crisis Lines"
 category: 'general'
 description: Explore how the Australian National University provides comprehensive mental health services for international students, including free counseling, tailored workshops, and 24/7 crisis support lines. Learn about accessibility, cultural sensitivity, and how to access these vital resources in 2026.
 author: cowork
 tags: ["ANU mental health services", "international student wellbeing", "ANU counseling", "crisis support Australia", "student life"]
 slug: anu-mental-health-support-international-students-counseling-workshops-crisis-lines
-ogImage: 
+ogImage: ""
 ---
 
 International students embarking on their academic journey at the Australian National University (ANU) encounter a world of opportunity—and, often, a unique set of psychological pressures. According to the 2026 International Student Wellbeing Report by the Australian Department of Education, approximately **48% of international students** across the nation reported experiencing moderate to severe psychological distress during their studies, a figure that has risen by 7% since 2024. ANU, consistently ranked among the world’s top 30 institutions, has responded with a robust and evolving mental health ecosystem designed specifically to address these challenges. The university’s commitment is not merely reactive; it is woven into the fabric of campus life through **ANU mental health services** that prioritize early intervention, cultural attunement, and accessible pathways to care. For students navigating visa requirements, academic pressures, and cultural transition, understanding the full spectrum of **ANU counseling international students** can access—from one-on-one therapy to crisis intervention—is essential for both academic success and personal wellbeing.

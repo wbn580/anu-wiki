@@ -2,7 +2,7 @@
 title: "ANU vs University of Melbourne: A Comprehensive Comparison of Rankings, Courses, and Graduate Outcomes"
 description: "澳大利亚国立大学（ANU）与墨尔本大学（University of Melbourne）是澳大利亚八校联盟（Go8）中排名最接近的两所研究型大学。根据2025年QS世界大学排名，墨尔本大学位列第14位，ANU位列第30位；但在2024年泰晤士高等教育（THE）世界大学排名中，ANU以第67位领先于墨尔本大学的第3…"
 category: "ANU"
-pubDatetime: 2026-04-07T19:54:52Z
+pubDatetime: '2026-04-07T19:54:52Z'
 publishDate: '2026-04-07T19:54:52Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Personal Safety and Self-Defence: Free Workshops Offered by ANU Sport and Safety Tips for Living in Canberra"
 description: "澳大利亚国立大学（ANU）通过其体育部门（ANU Sport）定期举办免费的个人安全与自卫工作坊，这是该校针对学生群体的一项重要安全举措。根据澳大利亚犯罪学研究所（Australian Institute of Criminology）2023年发布的《个人安全报告》（Personal Safety Report…"
 category: "ANU"
-pubDatetime: 2026-05-08T20:00:43Z
+pubDatetime: '2026-05-08T20:00:43Z'
 publishDate: '2026-05-08T20:00:43Z'
 readingTime: 3
 tags: ["featured"]

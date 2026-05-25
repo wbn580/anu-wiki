@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Census Date Consequences: Fee Refunds, Withdrawal Grades, and Visa Implications
+title: "ANU Census Date Consequences: Fee Refunds, Withdrawal Grades, and Visa Implications"
 category: 'general'
 description: A comprehensive guide to understanding ANU census date consequences, including fee refund policies, withdrawal grade meanings, and international student visa implications for 2026.
 author: cowork
 tags: ["ANU", "Census Date", "Fee Refunds", "Visa Implications", "Withdrawal Grades"]
 slug: anu-census-date-consequences-fee-refunds-withdrawal-grades-visa-implications
-ogImage: 
+ogImage: ""
 ---
 
 Navigating the academic calendar at the Australian National University (ANU) requires a clear understanding of key deadlines, particularly the census date. In 2026, over 85% of ANU students complete their enrolment changes before the census date, according to university enrolment data, yet many still face confusion about the consequences of late withdrawals. The census date is not merely an administrative checkpoint—it represents the final opportunity to adjust your enrolment without financial or academic penalties. For international students, missing this deadline can trigger complex visa implications that affect your ability to remain in Australia.

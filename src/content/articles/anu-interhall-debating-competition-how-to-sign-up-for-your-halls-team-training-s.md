@@ -2,7 +2,7 @@
 title: "ANU Interhall Debating Competition: How to Sign Up for Your Hall's Team, Training Sessions, and Tournament Dates"
 description: "澳大利亚国立大学（ANU）校际宿舍辩论赛（Interhall Debating Competition）是该校住宿学院体系内历史最悠久的学生活动之一，自1960年代起延续至今。根据ANU住宿学院协会（ANU Halls Association, 2023）的年度报告，该赛事每年吸引超过200名来自12个住宿学院的…"
 category: "ANU"
-pubDatetime: 2026-05-17T20:02:30Z
+pubDatetime: '2026-05-17T20:02:30Z'
 publishDate: '2026-05-17T20:02:30Z'
 readingTime: 3
 tags: ["featured"]

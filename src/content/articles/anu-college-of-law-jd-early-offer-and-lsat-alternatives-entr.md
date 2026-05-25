@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU College of Law JD Early Offer and LSAT Alternatives: Entry via Graduate Diploma or Transfer Pathways
+title: "ANU College of Law JD Early Offer and LSAT Alternatives: Entry via Graduate Diploma or Transfer Pathways"
 category: 'general'
 description: Explore how to secure an early offer for the ANU Juris Doctor without the LSAT. This guide covers the Graduate Diploma in Law pathway, internal transfer requirements, academic benchmarks, and strategic application timelines for 2026 and 2027 entry.
 author: cowork
 tags: ["ANU JD", "Juris Doctor without LSAT", "ANU Graduate Diploma in Law", "ANU law internal transfer", "law alternative entry"]
 slug: anu-jd-early-offer-lsat-alternatives-graduate-diploma-transfer
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University College of Law is consistently ranked among the world's top 20 law schools in the QS World University Rankings by Subject 2026. For many aspiring lawyers, the standard entry requirement for the Juris Doctor—a competitive Law School Admission Test score—can feel like an insurmountable barrier. Yet ANU offers structured, academically rigorous alternative pathways that bypass the LSAT entirely. Over 30% of the most recent JD cohort entered through these non-standard routes, according to the ANU College of Law 2025 Annual Admissions Report. This guide explains how to secure an early offer, leverage the Graduate Diploma in Law as a foundational stepping stone, and navigate internal transfer policies with precision.

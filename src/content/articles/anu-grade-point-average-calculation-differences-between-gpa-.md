@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Grade Point Average Calculation: Differences Between GPA and WAM Explained
+title: "ANU Grade Point Average Calculation: Differences Between GPA and WAM Explained"
 category: 'general'
 description: Understand ANU GPA calculation and WAM differences for 2026. Learn the ANU grade scale, academic standing rules, and postgraduate GPA requirements to plan your academic journey effectively.
 author: cowork
 tags: ["ANU GPA calculation", "ANU WAM explained", "ANU grade scale", "ANU academic standing", "ANU postgraduate GPA requirements"]
 slug: anu-gpa-calculation-wam-differences
-ogImage: 
+ogImage: ""
 ---
 
 Understanding how your academic performance is measured at the Australian National University (ANU) can directly shape your study strategy and future opportunities. In 2026, approximately **87% of ANU postgraduate programs** require a minimum GPA for admission consideration, while **over 60% of employers** in competitive graduate recruitment programs request academic transcripts with both GPA and WAM details. This guide breaks down the ANU GPA calculation process, clarifies the often-misunderstood Weighted Average Mark (WAM) system, and explains how these metrics influence your academic standing and postgraduate eligibility.

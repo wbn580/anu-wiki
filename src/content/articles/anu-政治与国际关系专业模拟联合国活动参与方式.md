@@ -2,7 +2,7 @@
 title: "ANU 政治与国际关系专业模拟联合国活动参与方式"
 description: "ANU 政治与国际关系专业的学生参与模拟联合国（Model United Nations, MUN）活动，主要通过校内社团、学术课程实践和外部会议三个渠道实现。ANU 模拟联合国协会（ANUMUN）是校内核心组织，每学期举办至少 2 次校内会议，并组织代表团参加澳大利亚全国模拟联合国会议（ANUM，由澳大利亚国立…"
 category: "ANU 政治与国际关系专"
-pubDatetime: 2026-03-13T19:49:38Z
+pubDatetime: '2026-03-13T19:49:38Z'
 publishDate: '2026-03-13T19:49:38Z'
 readingTime: 13
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Withdrawal from Program Process: Steps to Take, Fee Refund Policy by Census Date, and Implications for Your Visa"
 description: "自 2025 年 1 月起，澳大利亚内政部对国际学生签证条款 8202 进行了修订，明确规定学生若在未完成注册课程的情况下终止学业（即退学），签证可能面临自动取消风险。根据澳大利亚教育部 2024 年《国际学生数据报告》，澳洲国立大学（ANU）在 2023 学年共有 1,247 名国际学生提交退学申请，其中约 3…"
 category: "ANU"
-pubDatetime: 2026-05-19T20:02:50Z
+pubDatetime: '2026-05-19T20:02:50Z'
 publishDate: '2026-05-19T20:02:50Z'
 readingTime: 3
 tags: ["featured"]

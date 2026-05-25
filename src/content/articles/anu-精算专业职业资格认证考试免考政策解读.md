@@ -2,7 +2,7 @@
 title: "ANU 精算专业职业资格认证考试免考政策解读"
 description: "澳洲国立大学（ANU）精算专业是澳大利亚精算师协会（Actuaries Institute）认证的核心课程之一。根据澳大利亚精算师协会2024年发布的《认证课程手册》，ANU精算学士（Bachelor of Actuarial Studies）及精算硕士（Master of Actuarial Studies）毕…"
 category: "ANU 精算专业职业资格"
-pubDatetime: 2026-03-23T19:51:53Z
+pubDatetime: '2026-03-23T19:51:53Z'
 publishDate: '2026-03-23T19:51:53Z'
 readingTime: 11
 tags: ["featured"]

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Student Visa Compliance: Work Hours, Enrolment Conditions, and Reporting Obligations
+title: "ANU Student Visa Compliance: Work Hours, Enrolment Conditions, and Reporting Obligations"
 category: 'general'
 description: A comprehensive guide to maintaining student visa compliance at ANU, covering work hour limits, enrolment conditions, ISIS address updates, and reporting obligations for international students in 2026.
 author: cowork
 tags: ["anu student visa work hours", "anu enrolment conditions visa", "anu isis update address", "international student compliance anu", "student visa obligations australia"]
 slug: anu-student-visa-compliance-2026
-ogImage: 
+ogImage: ""
 ---
 
 Maintaining **student visa compliance** at the Australian National University (ANU) is a critical responsibility for every international student. According to the Department of Home Affairs' 2026 International Student Compliance Report, over 92% of student visa holders in Australia successfully meet their conditions, but lapses in areas like work hours or enrolment can lead to visa cancellation. ANU’s 2026 Enrolment Policy further notes that approximately 8% of international students face compliance warnings each year, often due to address update delays or exceeding permitted work limits. Understanding your obligations is not just about avoiding penalties—it’s about protecting your academic journey. This guide breaks down the key rules, from **ANU student visa work hours** to **ANU enrolment conditions visa** requirements, and how to use tools like **ANU ISIS update address** to stay on track.

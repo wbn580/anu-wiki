@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: ANU Library Resources for Remote Students: Accessing E-Books, Journals, and Databases
+title: "ANU Library Resources for Remote Students: Accessing E-Books, Journals, and Databases"
 category: 'general'
 description: A comprehensive guide to accessing ANU library resources for remote students. Learn how to navigate e-books, digital databases, interlibrary loans, and off-campus study tools with step-by-step instructions and expert tips.
 author: Study Abroad Editorial Team

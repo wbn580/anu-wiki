@@ -2,7 +2,7 @@
 title: "ANU 国际学生文化交流活动日历与报名方式"
 description: "澳大利亚国立大学（ANU）每学年举办超过 200 场面向国际学生的文化交流活动，覆盖学术衔接、语言练习、跨文化适应与职业发展四大类别，参与学生来自 110 个以上国家【ANU Global Programs 2023 Annual Report】。根据澳大利亚教育部 2024 年数据，ANU 国际学生总数达 10…"
 category: "ANU 国际学生文化交流"
-pubDatetime: 2026-03-16T19:50:31Z
+pubDatetime: '2026-03-16T19:50:31Z'
 publishDate: '2026-03-16T19:50:31Z'
 readingTime: 13
 tags: ["featured"]

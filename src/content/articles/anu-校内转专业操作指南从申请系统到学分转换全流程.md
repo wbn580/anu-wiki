@@ -2,7 +2,7 @@
 title: "ANU 校内转专业操作指南：从申请系统到学分转换全流程"
 description: "澳大利亚国立大学（ANU）每年约有**12%**的本科生在入学后第一年内申请变更主修专业或课程，这一比例在2023年ANU学生体验调查（SES）中由校方内部统计得出。校内转专业（Internal Transfer）是指已注册学生申请更换至ANU内部另一学位课程或专业方向，区别于跨校转学或重新申请入学。根据ANU …"
 category: "ANU 校内转专业操作指"
-pubDatetime: 2026-02-23T19:45:54Z
+pubDatetime: '2026-02-23T19:45:54Z'
 publishDate: '2026-02-23T19:45:54Z'
 readingTime: 13
 tags: ["featured"]

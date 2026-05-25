@@ -2,7 +2,7 @@
 title: "ANU Food and Dining Guide: A Review of Campus Cafes, Food Trucks, and Affordable Eats in Acton"
 description: "澳大利亚国立大学（ANU）主校区位于堪培拉Acton区，其校园餐饮生态系统在2024年服务了超过25,000名在校学生【ANU 2024, Annual Report】。根据澳大利亚统计局（ABS）2023年消费者价格指数数据，堪培拉整体餐饮价格较悉尼低约8%【ABS 2023, CPI Report】。这份指南…"
 category: "ANU"
-pubDatetime: 2026-04-15T19:56:27Z
+pubDatetime: '2026-04-15T19:56:27Z'
 publishDate: '2026-04-15T19:56:27Z'
 readingTime: 3
 tags: ["featured"]

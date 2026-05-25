@@ -2,7 +2,7 @@
 title: "ANU Semester Exchange Program Application: Partner University List, Credit Transfer Pre-Approval, and Funding Options"
 description: "澳大利亚国立大学（ANU）学期交换项目（Semester Exchange Program）是该校学生获取国际学术经历的核心渠道之一。根据ANU全球项目办公室2024年发布的《全球学习年度报告》，该校与全球超过40个国家和地区的170余所合作院校建立了学期交换协议，每年约有600至800名学生通过此项目赴海外学习…"
 category: "ANU"
-pubDatetime: 2026-04-17T19:56:50Z
+pubDatetime: '2026-04-17T19:56:50Z'
 publishDate: '2026-04-17T19:56:50Z'
 readingTime: 3
 tags: ["featured"]

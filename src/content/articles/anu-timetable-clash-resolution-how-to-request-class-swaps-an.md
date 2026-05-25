@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Timetable Clash Resolution: How to Request Class Swaps and Override Prerequisite Blocks in ISIS
+title: "ANU Timetable Clash Resolution: How to Request Class Swaps and Override Prerequisite Blocks in ISIS"
 category: 'general'
 description: A comprehensive guide to resolving ANU timetable clashes using ISIS. Learn step-by-step procedures for class swaps, prerequisite override requests, course convener waivers, and how to avoid late enrolment penalties in 2026.
 author: cowork
 tags: ["ANU enrolment", "timetable clash", "ISIS class swap", "prerequisite override", "ANU course waiver"]
 slug: anu-timetable-clash-resolution-class-swaps-prerequisite-override-isis
-ogImage: 
+ogImage: ""
 ---
 
 Managing your academic schedule at the Australian National University can feel like solving a complex puzzle, especially when two essential courses overlap. A timetable clash is not merely an inconvenience; it can delay your degree progression or force you into an unmanageable semester workload. According to the ANU Academic Calendar 2026, the university processes over 15,000 enrolment variation requests during the first two weeks of each semester, with timetable conflicts accounting for nearly 40% of these submissions. The Interactive Student Information System (ISIS) is the central hub for resolving these issues, but navigating its specific workflows for **ANU timetable clash fix** procedures requires precise knowledge.

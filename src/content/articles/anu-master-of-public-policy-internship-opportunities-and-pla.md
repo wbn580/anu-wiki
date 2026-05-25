@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Public Policy Internship Opportunities and Placement Process: A Comprehensive Guide for 2026
+title: "ANU Master of Public Policy Internship Opportunities and Placement Process: A Comprehensive Guide for 2026"
 category: 'general'
 description: Explore the structured internship placement process for the ANU Master of Public Policy at Crawford School. Learn about host organisations, academic credit, career outcomes, and how the program integrates professional practice with policy theory.
 author: cowork
 tags: ["ANU Master of Public Policy", "public policy internship Australia", "Crawford School placements", "policy career outcomes", "postgraduate internship credit"]
 slug: anu-master-public-policy-internship-placement-process
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University's **Master of Public Policy (MPP)** at the Crawford School of Public Policy has long been recognised as a gateway to influential careers in government, international organisations, and the non-profit sector. With over 85% of graduates securing policy-related roles within six months of completion according to the 2026 Graduate Outcomes Survey, the program's internship component plays a decisive role in shaping employability. The **ANU Master of Public Policy internship** is not merely an add-on; it is an academically integrated experience that bridges theoretical frameworks with real-world policy challenges. Students gain direct exposure to the machinery of government, legislative processes, and evidence-based decision-making while earning **ANU postgraduate internship credit** toward their degree. This guide unpacks every dimension of the **Crawford School placement process**, from host matching to assessment criteria, and examines the tangible career outcomes that follow.

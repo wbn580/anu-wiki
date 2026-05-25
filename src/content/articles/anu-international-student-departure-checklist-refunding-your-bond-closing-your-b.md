@@ -2,7 +2,7 @@
 title: "ANU International Student Departure Checklist: Refunding Your Bond, Closing Your Bank Account, and Ordering Final Transcripts"
 description: "每名在澳大利亚国立大学（ANU）完成学业的国际学生，在离境前需处理一系列行政事务。根据澳大利亚内政事务部（Department of Home Affairs）2024年数据，每年约有超过12万名国际学生从澳大利亚高校毕业并离境，其中约30%的学生因未及时处理押金退还或银行账户关闭而遭遇资金滞留。同时，澳大利亚教…"
 category: "ANU"
-pubDatetime: 2026-04-27T19:58:37Z
+pubDatetime: '2026-04-27T19:58:37Z'
 publishDate: '2026-04-27T19:58:37Z'
 readingTime: 3
 tags: ["featured"]

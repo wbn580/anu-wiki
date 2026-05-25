@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
 title: How to Transfer Credits from Another University to ANU in 2026
 category: 'general'
@@ -7,7 +7,7 @@ description: A comprehensive guide to the ANU credit transfer policy, covering e
 author: cowork
 tags: []
 slug: transfer-credits-anu-guide-2026
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) received **over 18,000 undergraduate applications** for the 2025 academic year, and approximately **12% of incoming students** sought some form of prior learning recognition. For students aiming to transfer credits from another university to ANU in 2026, understanding the **ANU credit transfer policy** is essential to avoid duplicating coursework and to potentially shorten your degree duration. This guide walks you through the entire **ANU course exemption process**, from eligibility checks to final approval, ensuring you submit a strong application with the right supporting documents.

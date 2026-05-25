@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍垃圾分类指南与环保倡议"
 description: "澳大利亚国立大学（ANU）自2023年起全面推行校园零废计划（Zero Waste Strategy 2023–2030），目标在2030年前将送往填埋场的废弃物总量减少80%。根据ANU设施管理处2024年发布的《校园废弃物审计报告》，学生宿舍区产生的废弃物占全校总废弃物的37%，其中约45%的废弃物因分类错误…"
 category: "ANU 学生宿舍垃圾分类"
-pubDatetime: 2026-03-20T19:51:14Z
+pubDatetime: '2026-03-20T19:51:14Z'
 publishDate: '2026-03-20T19:51:14Z'
 readingTime: 17
 tags: ["featured"]

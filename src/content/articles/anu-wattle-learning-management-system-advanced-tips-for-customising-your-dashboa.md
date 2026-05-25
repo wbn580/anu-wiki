@@ -2,7 +2,7 @@
 title: "ANU Wattle Learning Management System: Advanced Tips for Customising Your Dashboard and Submitting Assignments"
 description: "澳大利亚国立大学（ANU）自2013年起全面部署的 **Wattle学习管理系统**（基于Moodle平台），截至2024年已承载全校超过26,000名在校生及约3,800门课程的日常教学运作（ANU IT Services, 2024, *Wattle Annual Usage Report*）。该系统不仅是课…"
 category: "ANU"
-pubDatetime: 2026-04-17T19:56:53Z
+pubDatetime: '2026-04-17T19:56:53Z'
 publishDate: '2026-04-17T19:56:53Z'
 readingTime: 3
 tags: ["featured"]

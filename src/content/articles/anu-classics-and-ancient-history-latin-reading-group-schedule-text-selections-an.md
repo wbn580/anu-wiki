@@ -2,7 +2,7 @@
 title: "ANU Classics and Ancient History Latin Reading Group: Schedule, Text Selections, and How to Join as a Beginner"
 description: "澳洲国立大学（ANU）古典学与古代史系的拉丁语阅读小组（Latin Reading Group）是一个面向全校师生及公众开放的学术性文本研读活动，自2010年起持续运行，年均举办约30场次。根据ANU古典学系2024年发布的《年度学术活动报告》，该小组每学期吸引约25至40名固定参与者，其中约30%为无拉丁语基础…"
 category: "ANU"
-pubDatetime: 2026-05-15T20:02:10Z
+pubDatetime: '2026-05-15T20:02:10Z'
 publishDate: '2026-05-15T20:02:10Z'
 readingTime: 3
 tags: ["featured"]

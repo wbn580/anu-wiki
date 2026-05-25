@@ -2,7 +2,7 @@
 title: "ANU 地理信息系统专业 ArcGIS 软件许可获取"
 description: "澳大利亚国立大学（ANU）地理信息系统（GIS）专业的学生在课程与研究中广泛依赖Esri公司的ArcGIS软件套件。截至2024年，ANU是澳大利亚唯一一所与Esri签署了**全校范围站点许可协议**的高校，该协议覆盖ArcGIS Pro、ArcMap、ArcGIS Online及超过200个扩展模块，可为全校师…"
 category: "ANU 地理信息系统专业"
-pubDatetime: 2026-03-16T19:50:25Z
+pubDatetime: '2026-03-16T19:50:25Z'
 publishDate: '2026-03-16T19:50:25Z'
 readingTime: 9
 tags: ["featured"]

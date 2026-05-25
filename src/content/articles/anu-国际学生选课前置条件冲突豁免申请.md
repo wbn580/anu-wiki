@@ -2,7 +2,7 @@
 title: "ANU 国际学生选课前置条件冲突豁免申请"
 description: "澳大利亚国立大学（ANU）每学年约有超过 15,000 名国际学生注册，其中约 12% 的选课申请因前置条件（prerequisite）冲突被系统自动拦截（ANU 注册办公室 2023 年度内部统计）。这一冲突通常源于学生已修课程与目标课程要求之间的学分未匹配、成绩未达标或课程代码过期。2024 年 QS 世界大…"
 category: "ANU 国际学生选课前置"
-pubDatetime: 2026-03-29T19:53:06Z
+pubDatetime: '2026-03-29T19:53:06Z'
 publishDate: '2026-03-29T19:53:06Z'
 readingTime: 14
 tags: ["featured"]

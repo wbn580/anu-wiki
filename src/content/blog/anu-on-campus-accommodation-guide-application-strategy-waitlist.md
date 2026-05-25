@@ -7,7 +7,7 @@ publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: anu-on-campus-accommodation-guide-application-strategy-waitlist
 ogImage: 'https://img.ulec.com.cn/留学-单校wiki/anu-on-campus-accommodation-guide-application-strategy-waitlist-2026-1880x1253.jpg'
-tags: []
+tags:
   - 'ANU宿舍'
   - 'ANU住宿'
   - '澳洲国立大学宿舍'

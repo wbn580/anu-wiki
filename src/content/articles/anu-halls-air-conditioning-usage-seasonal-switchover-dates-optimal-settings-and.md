@@ -2,7 +2,7 @@
 title: "ANU Halls Air Conditioning Usage: Seasonal Switchover Dates, Optimal Settings, and Reporting Malfunctions"
 description: "澳大利亚国立大学（ANU）校内住宿楼宇（Halls of Residence）的空调系统由学校设施管理部（Facilities & Services）统一调度，实行季节性集中开关机制度。根据ANU官网发布的《住宿服务条款》（Residential Services Terms & Conditions, 2024…"
 category: "ANU"
-pubDatetime: 2026-05-09T20:01:04Z
+pubDatetime: '2026-05-09T20:01:04Z'
 publishDate: '2026-05-09T20:01:04Z'
 readingTime: 3
 tags: ["featured"]

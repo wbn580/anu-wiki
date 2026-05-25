@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Graduation Ceremony Registration: Ticketing, Guest Limits, and Academic Dress Hire Timelines
+title: "ANU Graduation Ceremony Registration: Ticketing, Guest Limits, and Academic Dress Hire Timelines"
 category: 'general'
 description: Complete guide to ANU graduation ceremony registration for 2026. Covers ticket booking procedures, guest allocation limits, academic dress hire deadlines, and key timeline milestones to ensure a smooth graduation experience at the Australian National University.
 author: cowork
 tags: ["ANU graduation registration", "ANU ceremony tickets", "ANU academic dress hire", "ANU guest limit graduation", "ANU graduation timeline"]
 slug: anu-graduation-ceremony-registration-ticketing-guest-limits-academic-dress-hire-timelines
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University hosts graduation ceremonies across multiple conferral periods each year, with the largest ceremonies typically falling in July and December. For the 2026 academic year, **ANU graduation registration** opens approximately eight to ten weeks before each ceremony date. According to the ANU Graduation Office's 2026 planning framework, the university expects to confer degrees upon over 5,000 students across seven scheduled ceremony rounds. The QS World University Rankings 2026 places ANU among Australia's top universities, making its graduation ceremonies highly sought-after events for families and friends traveling from across the globe.

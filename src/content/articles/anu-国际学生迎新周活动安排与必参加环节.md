@@ -2,7 +2,7 @@
 title: "ANU 国际学生迎新周活动安排与必参加环节"
 description: "澳大利亚国立大学（ANU）国际学生迎新周（O-Week）是该校每学年开学前为新生设计的强制性过渡项目，通常在每年2月（第一学期）和7月（第二学期）各举办一次，为期5至7天。根据ANU官方数据，2024年第一学期迎新周吸引了来自超过100个国家的约4,500名国际新生参与【ANU 2024, Internation…"
 category: "ANU 国际学生迎新周活"
-pubDatetime: 2026-02-26T19:46:44Z
+pubDatetime: '2026-02-26T19:46:44Z'
 publishDate: '2026-02-26T19:46:44Z'
 readingTime: 14
 tags: ["featured"]

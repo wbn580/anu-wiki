@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: ANU Student Visa Subclass 500: Eligibility, Documents, and Processing Times
+title: "ANU Student Visa Subclass 500: Eligibility, Documents, and Processing Times"
 category: 'general'
 description: A comprehensive guide to the Student Visa Subclass 500 for Australian National University applicants. Covers eligibility criteria, required documents including the GTE statement and OSHC, and current processing times for 2026.
 author: Senior Education Editor

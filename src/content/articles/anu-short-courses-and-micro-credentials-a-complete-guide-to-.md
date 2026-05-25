@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Short Courses and Micro-credentials: A Complete Guide to Non-Award Study for Working Professionals
+title: "ANU Short Courses and Micro-credentials: A Complete Guide to Non-Award Study for Working Professionals"
 category: 'general'
 description: Explore ANU short courses, micro-credentials, and non-award study options for professionals seeking flexible skill upgrades. Learn about single unit enrolment, entry requirements, fees, and career outcomes at Australia's top-ranked university.
 author: cowork
 tags: ["ANU short courses", "ANU micro-credential", "ANU non-award study", "ANU professional development", "ANU single unit enrolment"]
 slug: anu-short-courses-micro-credentials-non-award-study-guide
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) has expanded its non-award study pathways to meet growing demand for flexible, stackable qualifications. According to the **2026 Australian Government Skills Report**, 68% of professionals now pursue short courses to address immediate skill gaps without committing to full degrees. ANU's non-award enrolment allows domestic and international learners to access **single unit enrolment** across disciplines ranging from public policy to data science, with **ANU micro-credential offerings** growing by 40% since 2024.

@@ -2,7 +2,7 @@
 title: "ANU Sustainable Energy Systems Solar Lab: Hands-On Training Sessions and How to Book Your Induction"
 description: "澳大利亚国立大学（ANU）可持续能源系统太阳能实验室（Sustainable Energy Systems Solar Lab）是该校工程与计算机科学学院（CECS）下属的专用教学与研究设施，专注于光伏（PV）系统、太阳能热利用及电网集成技术的实践操作。该实验室自2018年全面升级后，配备了总容量超过50 kW的…"
 category: "ANU"
-pubDatetime: 2026-05-12T20:01:42Z
+pubDatetime: '2026-05-12T20:01:42Z'
 publishDate: '2026-05-12T20:01:42Z'
 readingTime: 3
 tags: ["featured"]

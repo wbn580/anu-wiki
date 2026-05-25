@@ -2,7 +2,7 @@
 title: "ANU 地球科学专业岩石样本实验室使用规范"
 description: "ANU 地球科学专业的岩石样本实验室（Rock Preparation Laboratory）是教学与科研的核心基础设施，每年服务超过 400 名本科生和 120 名研究生，处理约 3,000 件岩石、矿物及沉积物样本。根据澳大利亚地球科学局（Geoscience Australia, 2023）《国家岩芯实验室…"
 category: "ANU 地球科学专业岩石"
-pubDatetime: 2026-03-23T19:51:51Z
+pubDatetime: '2026-03-23T19:51:51Z'
 publishDate: '2026-03-23T19:51:51Z'
 readingTime: 11
 tags: ["featured"]

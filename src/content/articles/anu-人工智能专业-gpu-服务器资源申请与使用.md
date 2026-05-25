@@ -2,7 +2,7 @@
 title: "ANU 人工智能专业 GPU 服务器资源申请与使用"
 description: "澳大利亚国立大学（ANU）人工智能专业研究生及高年级本科生，在完成课程作业或科研项目时，通常需要申请校内GPU计算资源。ANU信息技术服务部（ITS）与工程、计算与控制学院（CECC）联合运营的**国家计算基础设施（NCI）** 与本地集群，为校内AI研究提供了核心算力支撑。根据ANU 2024年《研究计算服务年…"
 category: "ANU 人工智能专业 G"
-pubDatetime: 2026-03-27T19:52:43Z
+pubDatetime: '2026-03-27T19:52:43Z'
 publishDate: '2026-03-27T19:52:43Z'
 readingTime: 12
 tags: ["featured"]

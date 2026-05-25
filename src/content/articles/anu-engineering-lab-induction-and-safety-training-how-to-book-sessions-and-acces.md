@@ -2,7 +2,7 @@
 title: "ANU Engineering Lab Induction and Safety Training: How to Book Sessions and Access Equipment for Your Projects"
 description: "在澳大利亚国立大学（ANU）工程与计算机学院，所有学生必须在完成强制性实验室安全培训后才能使用教学与研究设备。根据ANU工作健康与安全政策（WHS Policy, 2024年修订版），每年约有2,800名本科生与研究生需要完成安全培训才能获得实验室访问权限。该流程涵盖在线模块、现场实操考核以及特定设备的授权认证，…"
 category: "ANU"
-pubDatetime: 2026-04-13T19:56:04Z
+pubDatetime: '2026-04-13T19:56:04Z'
 publishDate: '2026-04-13T19:56:04Z'
 readingTime: 3
 tags: ["featured"]

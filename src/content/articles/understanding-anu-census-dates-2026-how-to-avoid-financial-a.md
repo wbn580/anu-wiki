@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: Understanding ANU Census Dates 2026: How to Avoid Financial and Academic Penalties
+title: "Understanding ANU Census Dates 2026: How to Avoid Financial and Academic Penalties"
 category: 'general'
 description: Master the ANU census date 2026 to protect your finances and academic record. This comprehensive guide covers withdrawal deadlines, HECS-HELP implications, and strategies to avoid penalties when changing your enrolment at the Australian National University.
 author: cowork
 tags: ["ANU census date 2026", "ANU withdrawal deadline", "HECS census date ANU", "ANU enrolment changes", "Australian National University deadlines"]
 slug: anu-census-dates-2026-financial-academic-penalties
-ogImage: 
+ogImage: ""
 ---
 
 Navigating university administration can feel like walking through a maze blindfolded, especially when your financial liability and academic transcript hang in the balance. At the Australian National University, the **ANU census date 2026** is the single most critical deadline you must understand. According to the Australian Government’s 2025 Higher Education Statistics report, over 12% of domestic students incurred unnecessary debt due to missed census date withdrawals in the previous academic year. Meanwhile, ANU’s internal enrolment data from Semester 1 2026 indicates that early awareness campaigns reduced late withdrawal penalties by 18% compared to 2024 figures.

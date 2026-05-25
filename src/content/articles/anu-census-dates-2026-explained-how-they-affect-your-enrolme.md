@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Census Dates 2026 Explained: How They Affect Your Enrolment, Fees and Visa
+title: "ANU Census Dates 2026 Explained: How They Affect Your Enrolment, Fees and Visa"
 category: 'general'
 description: Understand the critical ANU census dates for 2026 and their direct impact on your enrolment status, tuition fee obligations, and international student visa compliance. Learn how to withdraw before census and avoid financial penalties.
 author: cowork
 tags: ["ANU census date 2026", "ANU enrolment census meaning", "ANU withdraw before census", "ANU fee census international", "ANU census visa impact"]
 slug: anu-census-dates-2026-enrolment-fees-visa
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) has confirmed its key administrative deadlines for the 2026 academic year, and for both domestic and international students, few dates carry more weight than the census date. Missing this deadline is not a minor clerical error; it triggers immediate financial liability and can generate serious visa complications for international students. According to ANU's 2026 Academic Calendar, the university enrols over 20,000 students annually, and each year a significant number face unexpected fee debts simply because they misunderstood the census mechanism. In 2026, the primary Semester 1 census date falls on **31 March**, while Semester 2 lands on **31 August**. For international students holding a Subclass 500 visa, these dates are directly linked to your Confirmation of Enrolment (CoE) status under the Education Services for Overseas Students (ESOS) Act. This guide breaks down the exact meaning of the ANU enrolment census, the process to withdraw before census without penalty, and the specific financial and immigration risks you need to manage.

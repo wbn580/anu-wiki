@@ -2,7 +2,7 @@
 title: "How to Participate in ANU Psychology Research Experiments for Course Credit via the SONA System"
 description: "澳大利亚国立大学（ANU）心理学研究学院要求所有注册PSYC1003、PSYC1004及部分高级心理学课程的学生，通过**SONA系统**（Sona Systems）参与实验研究以获得课程学分。该系统由ANU心理学院自2015年起全面启用，每学期平均发布超过120项实验研究，覆盖认知、社会、发展及临床心理学等多个…"
 category: "How"
-pubDatetime: 2026-04-24T19:58:07Z
+pubDatetime: '2026-04-24T19:58:07Z'
 publishDate: '2026-04-24T19:58:07Z'
 readingTime: 3
 tags: ["featured"]

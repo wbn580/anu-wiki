@@ -2,7 +2,7 @@
 title: "ANU Shared Bike and Scooter Parking: Designated Zones, Geo-Fencing Rules, and Student Subscription Discounts"
 description: "澳大利亚国立大学（ANU）自2024年起，在Acton主校区及周边区域全面推行共享单车与电动滑板车停放管理新规。根据ANU交通与停车办公室2024年发布的《校园微出行管理计划》，校园内已划定47个指定停车区，并启用基于GPS的电子围栏（Geo-Fencing）技术，违规停放将被处以每次25澳元的罚款。同期，堪培拉…"
 category: "ANU"
-pubDatetime: 2026-05-14T20:01:55Z
+pubDatetime: '2026-05-14T20:01:55Z'
 publishDate: '2026-05-14T20:01:55Z'
 readingTime: 3
 tags: ["featured"]

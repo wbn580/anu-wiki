@@ -2,7 +2,7 @@
 title: "ANU Residential Hall Maintenance Request: How to Log a Fault for Damaged Furniture, Report Urgent Repairs, and Track Progress"
 description: "澳大利亚国立大学（ANU）校内共运营18栋住宿楼宇，涵盖从传统学院制宿舍到现代公寓的多种类型，总床位容量超过6,600个（ANU Accommodation, 2024 Annual Report）。当入住学生发现家具损坏、水管渗漏或电路故障时，如何高效提交维修请求并跟踪处理进度，直接影响居住体验与学业连续性。根…"
 category: "ANU"
-pubDatetime: 2026-05-19T20:02:57Z
+pubDatetime: '2026-05-19T20:02:57Z'
 publishDate: '2026-05-19T20:02:57Z'
 readingTime: 3
 tags: ["featured"]

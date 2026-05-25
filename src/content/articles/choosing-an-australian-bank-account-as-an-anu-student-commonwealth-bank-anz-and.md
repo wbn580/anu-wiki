@@ -2,7 +2,7 @@
 title: "Choosing an Australian Bank Account as an ANU Student: Commonwealth Bank, ANZ, and NAB Features Compared"
 description: "截至2025年，澳大利亚四大银行（Commonwealth Bank、ANZ、NAB、Westpac）合计占据该国零售存款市场约78%的份额（澳大利亚审慎监管局APRA，2025年《月度授权存款机构统计》）。对于即将入读澳洲国立大学（ANU）的国际学生而言，选择一家合适的银行账户不仅影响日常消费便利性，还直接关系…"
 category: "Choosing"
-pubDatetime: 2026-04-25T19:58:15Z
+pubDatetime: '2026-04-25T19:58:15Z'
 publishDate: '2026-04-25T19:58:15Z'
 readingTime: 3
 tags: ["featured"]

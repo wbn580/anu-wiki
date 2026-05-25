@@ -2,7 +2,7 @@
 title: "ANU Veterinary Science Clinical Placements: Animal Handling Safety Protocols, PPE Requirements, and Placement Logbook"
 description: "澳大利亚国立大学（ANU）兽医学士（Bachelor of Veterinary Science）课程是澳大利亚仅有的九所经澳大利亚兽医委员会（AVBC）认证的兽医学位之一，其临床实习（Clinical Placements）环节要求学生完成至少 **1,800 小时** 的 supervised clinica…"
 category: "ANU"
-pubDatetime: 2026-05-21T20:03:18Z
+pubDatetime: '2026-05-21T20:03:18Z'
 publishDate: '2026-05-21T20:03:18Z'
 readingTime: 3
 tags: ["featured"]

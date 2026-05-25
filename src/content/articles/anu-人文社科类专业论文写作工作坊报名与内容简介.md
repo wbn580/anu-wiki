@@ -2,7 +2,7 @@
 title: "ANU 人文社科类专业论文写作工作坊报名与内容简介"
 description: "澳洲国立大学（ANU）人文社科学院（College of Arts and Social Sciences）每学期定期举办面向本科及授课型硕士的论文写作工作坊（Essay Writing Workshop），该系列工作坊由学术技能中心（Academic Skills Centre）与各学科系所联合组织。根据ANU…"
 category: "ANU 人文社科类专业论"
-pubDatetime: 2026-03-04T19:47:46Z
+pubDatetime: '2026-03-04T19:47:46Z'
 publishDate: '2026-03-04T19:47:46Z'
 readingTime: 12
 tags: ["featured"]

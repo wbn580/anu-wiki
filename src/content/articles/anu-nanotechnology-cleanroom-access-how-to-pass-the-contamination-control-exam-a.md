@@ -2,7 +2,7 @@
 title: "ANU Nanotechnology Cleanroom Access: How to Pass the Contamination Control Exam and Book Equipment Time"
 description: "澳大利亚国立大学（ANU）的纳米技术洁净室（ANU Nanotechnology Cleanroom）是该校物理与工程研究基础设施的核心组成部分，对全校及外部合作机构开放。进入该设施的核心门槛是通过**污染控制考试**（Contamination Control Exam），该考试由ANU安全与风险管理部门（AN…"
 category: "ANU"
-pubDatetime: 2026-05-21T20:03:16Z
+pubDatetime: '2026-05-21T20:03:16Z'
 publishDate: '2026-05-21T20:03:16Z'
 readingTime: 3
 tags: ["featured"]

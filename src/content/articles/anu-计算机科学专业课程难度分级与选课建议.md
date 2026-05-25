@@ -2,7 +2,7 @@
 title: "ANU 计算机科学专业课程难度分级与选课建议"
 description: "澳大利亚国立大学（ANU）计算机科学学士（Bachelor of Computer Science）课程体系以高学术标准和严格淘汰率著称。根据澳大利亚政府学习与教学质量指标（QILT）2023 年数据，ANU 计算机科学本科生的六年毕业率为 74.3%，低于全国同类专业平均水平（79.1%），课程难度是影响完成率…"
 category: "ANU 计算机科学专业课"
-pubDatetime: 2026-02-24T19:46:14Z
+pubDatetime: '2026-02-24T19:46:14Z'
 publishDate: '2026-02-24T19:46:14Z'
 readingTime: 11
 tags: ["featured"]

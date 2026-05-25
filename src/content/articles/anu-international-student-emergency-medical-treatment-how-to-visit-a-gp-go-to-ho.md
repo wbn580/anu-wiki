@@ -2,7 +2,7 @@
 title: "ANU International Student Emergency Medical Treatment: How to Visit a GP, Go to Hospital, and Claim Your OSHC Refund"
 description: "澳洲国立大学（ANU）的国际学生签证要求持有 **Overseas Student Health Cover (OSHC)**，该保险覆盖在澳期间的紧急医疗和部分常规诊疗费用。根据澳大利亚政府《2024 年国际学生签证条款》（Migration Regulations 1994, Schedule 5A），持学生…"
 category: "ANU"
-pubDatetime: 2026-04-28T19:58:59Z
+pubDatetime: '2026-04-28T19:58:59Z'
 publishDate: '2026-04-28T19:58:59Z'
 readingTime: 3
 tags: ["featured"]

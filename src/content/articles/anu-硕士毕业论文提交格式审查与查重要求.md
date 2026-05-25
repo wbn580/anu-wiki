@@ -2,7 +2,7 @@
 title: "ANU 硕士毕业论文提交格式审查与查重要求"
 description: "澳大利亚国立大学（ANU）对硕士毕业论文的提交设有严格的格式审查与查重标准，是学位授予流程中的关键环节。根据ANU 2024年《研究生学术政策》（Research Awards Rules），所有硕士论文在提交后须通过**格式合规性检查（Format Check）** 和**相似度检测（Similarity Ch…"
 category: "ANU 硕士毕业论文提交"
-pubDatetime: 2026-03-01T19:47:22Z
+pubDatetime: '2026-03-01T19:47:22Z'
 publishDate: '2026-03-01T19:47:22Z'
 readingTime: 13
 tags: ["featured"]

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Emergency Procedures and Campus Safety Resources for International Students: A Complete Guide
+title: "ANU Emergency Procedures and Campus Safety Resources for International Students: A Complete Guide"
 category: 'general'
 description: Comprehensive overview of Australian National University emergency protocols, campus security services, and safety resources specifically designed for international students. Covers emergency contacts, ANU OK app, security escorts, bushfire procedures, and mental health support available on campus.
 author: cowork
 tags: ["ANU campus safety", "international student security", "Australian university emergency procedures", "ANU security escort", "bushfire safety Canberra"]
 slug: anu-emergency-procedures-campus-safety-international-students
-ogImage: 
+ogImage: ""
 ---
 
 Navigating a new academic environment abroad brings excitement—and legitimate concerns about personal safety. For international students at the Australian National University, understanding campus security infrastructure is not just prudent preparation; it is essential knowledge that shapes your daily experience. According to the **2026 International Student Safety Report**, 78% of overseas students at Australian universities ranked campus security awareness as a top-three priority when selecting their institution. ANU, consistently recognized among the top 50 universities globally in the **QS World University Rankings 2026**, maintains comprehensive emergency protocols that every international student should understand before arriving in Canberra.

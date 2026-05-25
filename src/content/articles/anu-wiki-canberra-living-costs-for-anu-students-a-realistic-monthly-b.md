@@ -1,7 +1,7 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: Canberra living costs for ANU students: a realistic monthly budget breakdown
+title: "Canberra living costs for ANU students: a realistic monthly budget breakdown"
 category: 'general'
 description: A comprehensive guide to monthly living costs for ANU students in 2026, covering rent, groceries, transport, utilities, and practical money-saving strategies. Updated with the latest data from the Australian Government and Study Australia.
 author: Study Abroad Editor

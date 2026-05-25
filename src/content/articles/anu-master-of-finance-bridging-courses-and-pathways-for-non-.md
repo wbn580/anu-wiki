@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Finance: Bridging Courses and Pathways for Non-Finance Graduates in 2026
+title: "ANU Master of Finance: Bridging Courses and Pathways for Non-Finance Graduates in 2026"
 category: 'general'
 description: Explore how the ANU Master of Finance program welcomes students from non-finance backgrounds through structured bridging courses, quantitative preparation, and tailored pathways. Learn about prerequisites, curriculum design, and career outcomes for 2026 entry.
 author: cowork
 tags: ["ANU Master of Finance", "finance bridging courses", "postgraduate finance pathway", "non-commerce background finance", "ANU MFin prerequisites"]
 slug: anu-master-finance-bridging-courses-non-finance-backgrounds
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) has long been recognized as one of Australia's premier institutions for business and economics education. According to the QS World University Rankings by Subject 2025, ANU ranked among the top 40 universities globally for Accounting and Finance. What many prospective students do not realize is that the **ANU Master of Finance program** is deliberately designed to accommodate talented individuals from diverse academic backgrounds. In 2026, approximately 35% of the incoming cohort is expected to come from non-commerce disciplines, a figure that reflects the program's commitment to interdisciplinary excellence.

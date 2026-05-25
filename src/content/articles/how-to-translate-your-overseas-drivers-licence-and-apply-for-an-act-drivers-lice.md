@@ -2,7 +2,7 @@
 title: "How to Translate Your Overseas Driver's Licence and Apply for an ACT Driver's Licence as an ANU International Student"
 description: "对于持有海外驾驶执照的澳大利亚国立大学（ANU）国际学生，将原驾照转换为澳大利亚首都领地（ACT）正式驾照是合法驾车的必要步骤。根据澳大利亚国家道路与机动车管理局（Austroads）2024年发布的《澳大利亚驾驶执照指南》，持有临时签证（如学生签证500类别）的国际学生可使用其有效海外驾照在ACT驾车，前提是该…"
 category: "How"
-pubDatetime: 2026-04-28T19:58:55Z
+pubDatetime: '2026-04-28T19:58:55Z'
 publishDate: '2026-04-28T19:58:55Z'
 readingTime: 3
 tags: ["featured"]

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU International Student Orientation: Beyond O-Week — Settling into Canberra Life
+title: "ANU International Student Orientation: Beyond O-Week — Settling into Canberra Life"
 category: 'general'
 description: Navigate the full ANU international student orientation journey, from pre-departure checklists and TFN setup to building lasting connections in Canberra's cultural communities. A comprehensive guide to transforming your first months into a foundation for academic success and personal growth.
 author: cowork
 tags: ["ANU orientation", "settling in Canberra", "international student life", "TFN setup Australia", "Canberra communities"]
 slug: anu-international-student-orientation-beyond-o-week
-ogImage: 
+ogImage: ""
 ---
 
 **Starting university in a new country** is equal parts thrilling and overwhelming. For international students arriving at the Australian National University, the experience extends far beyond the structured activities of O-Week. According to the **Department of Education's 2026 international student enrollment data**, over 48,000 new international students commenced studies in Australia in Semester 1 alone, with ANU consistently ranking among the top destinations for postgraduate researchers and undergraduates alike. A **2026 QS World University Rankings** analysis confirms that ANU remains Australia's highest-ranked institution for academic reputation, drawing students from more than 140 countries.

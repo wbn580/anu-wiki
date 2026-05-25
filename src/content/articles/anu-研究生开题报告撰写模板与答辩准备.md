@@ -2,7 +2,7 @@
 title: "ANU 研究生开题报告撰写模板与答辩准备"
 description: "澳大利亚国立大学（ANU）研究生学位要求中，开题报告（Research Proposal）是决定研究能否顺利开展的关键文件。根据ANU政策与项目办公室2024年发布的《研究生研究项目手册》，所有博士（PhD）及研究型硕士（MRes）候选人均需在入学后12个月内（全日制）提交经导师签字的正式开题报告，未通过者将面临…"
 category: "ANU 研究生开题报告撰"
-pubDatetime: 2026-03-11T19:49:20Z
+pubDatetime: '2026-03-11T19:49:20Z'
 publishDate: '2026-03-11T19:49:20Z'
 readingTime: 16
 tags: ["featured"]

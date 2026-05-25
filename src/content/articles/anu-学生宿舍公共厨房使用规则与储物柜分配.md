@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍公共厨房使用规则与储物柜分配"
 description: "澳大利亚国立大学（ANU）校内宿舍及合作公寓楼群的公共厨房使用规则与储物柜分配制度，是该校住宿服务（ANU Accommodation Services）根据《2019年ANU住宿协议条款》及《2024年学生住宿行为准则》制定的标准化管理框架。截至2024年，ANU校内住宿容量约为6,200个床位，覆盖21栋宿舍…"
 category: "ANU 学生宿舍公共厨房"
-pubDatetime: 2026-03-17T19:50:37Z
+pubDatetime: '2026-03-17T19:50:37Z'
 publishDate: '2026-03-17T19:50:37Z'
 readingTime: 18
 tags: ["featured"]

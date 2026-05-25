@@ -2,7 +2,7 @@
 title: "How to Order Official ANU Academic Transcripts and Apply for Certified Copies for Overseas Use"
 description: "澳洲国立大学（ANU）每年处理超过12,000份学术成绩单和文件认证申请，其中约35%来自海外毕业生或正在办理移民、升学手续的国际学生（ANU学生行政服务处，2023年内部统计）。随着2024-2025学年澳大利亚教育部对学历文件跨境认证流程的进一步规范，准确获取官方学术文件已成为毕业生在海外求职、申请更高学位或…"
 category: "How"
-pubDatetime: 2026-05-10T20:01:19Z
+pubDatetime: '2026-05-10T20:01:19Z'
 publishDate: '2026-05-10T20:01:19Z'
 readingTime: 3
 tags: ["featured"]

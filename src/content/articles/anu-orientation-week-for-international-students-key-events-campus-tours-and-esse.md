@@ -2,7 +2,7 @@
 title: "ANU Orientation Week for International Students: Key Events, Campus Tours, and Essential Registration Steps"
 description: "澳大利亚国立大学（ANU）的迎新周（O-Week）是国际学生抵达堪培拉后融入校园生活的首个官方环节。根据ANU官网数据，2024年第一学期迎新周共有超过4,500名国际新生注册参加，占当季入学总人数的37%【ANU, 2024, Orientation Statistics】。澳大利亚教育部2023年报告显示，国…"
 category: "ANU"
-pubDatetime: 2026-04-12T19:55:55Z
+pubDatetime: '2026-04-12T19:55:55Z'
 publishDate: '2026-04-12T19:55:55Z'
 readingTime: 3
 tags: ["featured"]

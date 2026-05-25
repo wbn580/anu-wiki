@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Health and Wellbeing Services: Bulk-Billed GP Appointments, Mental Health Support, and Referrals
+title: "ANU Health and Wellbeing Services: Bulk-Billed GP Appointments, Mental Health Support, and Referrals"
 category: 'general'
 description: Explore the comprehensive health and wellbeing services at the Australian National University, including bulk-billed GP appointments at the ANU medical centre, free mental health support through the ANU counselling service, and streamlined specialist referrals for students.
 author: cowork
 tags: ["ANU medical centre", "ANU bulk billing GP", "ANU mental health support", "ANU counselling service", "ANU health referral"]
 slug: anu-health-wellbeing-services-gp-mental-health-referrals
-ogImage: 
+ogImage: ""
 ---
 
 Navigating university life involves juggling academic pressures, social adjustments, and personal wellbeing. The Australian National University (ANU) recognises this and has built a robust health ecosystem designed to keep students physically and mentally thriving. In 2026, the university reported that over **68% of domestic students** and a growing proportion of international students had accessed at least one on-campus health service, highlighting the critical role these facilities play. With a focus on accessibility, the **ANU medical centre** provides bulk-billed general practice appointments, while the **ANU counselling service** delivers free, evidence-based psychological support. This integrated model ensures that whether you need a routine check-up, urgent mental health intervention, or a specialist referral, you are covered without leaving the Acton campus. The shift toward preventative care is evident, with the university investing heavily in telehealth infrastructure to complement face-to-face consultations, resulting in a **22% reduction in average wait times** compared to 2024 figures.

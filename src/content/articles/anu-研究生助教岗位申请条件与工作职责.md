@@ -2,7 +2,7 @@
 title: "ANU 研究生助教岗位申请条件与工作职责"
 description: "澳大利亚国立大学（ANU）在2024年共雇佣了约1,200名研究生助教（Graduate Teaching Assistant，简称GTA），覆盖全校7个学院的本科与研究生课程【ANU 2024, Annual Report on Teaching Support】。根据澳大利亚联邦教育部的统计，2023年全澳大…"
 category: "ANU 研究生助教岗位申"
-pubDatetime: 2026-03-15T19:50:10Z
+pubDatetime: '2026-03-15T19:50:10Z'
 publishDate: '2026-03-15T19:50:10Z'
 readingTime: 11
 tags: ["featured"]

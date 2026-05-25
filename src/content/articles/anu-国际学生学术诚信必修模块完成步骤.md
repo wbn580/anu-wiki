@@ -2,7 +2,7 @@
 title: "ANU 国际学生学术诚信必修模块完成步骤"
 description: "澳大利亚国立大学（ANU）自2023年起，要求所有新入学的国际学生在入学后28天内完成**学术诚信必修模块**（Academic Integrity Module）。该模块旨在系统性地降低学术不端行为发生率——根据ANU 2022年内部数据，约14.7%的首次违规案例发生在入学前6周内【ANU Academic …"
 category: "ANU 国际学生学术诚信"
-pubDatetime: 2026-03-11T19:49:14Z
+pubDatetime: '2026-03-11T19:49:14Z'
 publishDate: '2026-03-11T19:49:14Z'
 readingTime: 7
 tags: ["featured"]

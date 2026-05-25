@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
-title: ANU Library Access for Alumni: What You Can Still Use After Graduation
+title: "ANU Library Access for Alumni: What You Can Still Use After Graduation"
 category: 'general'
 description: Discover the full scope of ANU library access for alumni after graduation. Learn about borrowing rights, digital resources, on-campus access, and how to maintain your connection to one of Australia's top academic libraries in 2026.
 author: cowork
 tags: ["ANU alumni", "library access", "graduate resources", "Australian National University", "alumni benefits"]
 slug: anu-library-access-alumni-after-graduation
-ogImage: 
+ogImage: ""
 ---
 
 Graduating from the Australian National University doesn't mean losing touch with its world-class library system. In 2026, **ANU alumni library access** remains a valuable perk, with over **85,000 registered alumni** eligible for ongoing privileges. The ANU Library, which holds more than **2.5 million physical items** and provides access to **600+ scholarly databases**, extends a curated set of services to graduates. According to the **2026 ANU Alumni Engagement Report**, 72% of alumni surveyed rated library access as a top-three benefit for continued professional development. This guide breaks down exactly what you can use, how to apply, and the limits to expect.

@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Bachelor of Arts vs Bachelor of Science: How to Decide Based on Career Goals
+title: "ANU Bachelor of Arts vs Bachelor of Science: How to Decide Based on Career Goals"
 category: 'general'
 description: Struggling to choose between ANU Bachelor of Arts and Bachelor of Science? This comprehensive guide compares course structures, career pathways, and graduate outcomes to help you align your degree with long-term professional goals.
 author: cowork
 tags: ["anu ba vs bsc", "anu arts or science", "anu bachelor degree comparison", "anu career pathways arts science", "australian national university"]
 slug: anu-bachelor-of-arts-vs-bachelor-of-science-career-goals
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University consistently ranks among the top institutions globally, with its arts and science programs both attracting high-calibre students from across Australia and more than 100 countries. According to the QS World University Rankings by Subject 2026, ANU places within the top 30 worldwide for both Arts and Humanities and Natural Sciences, making the choice between a Bachelor of Arts and a Bachelor of Science genuinely challenging. Data from the Australian Government’s Graduate Outcomes Survey 2025 indicates that over 80 percent of ANU undergraduates secure full-time employment within four months of completing their degree, regardless of faculty. Yet beneath these impressive headline figures, the two degrees diverge significantly in how they prepare you for specific career trajectories.

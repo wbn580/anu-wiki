@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Census Date Financial and Academic Penalties: What Happens If You Drop a Course Late
+title: "ANU Census Date Financial and Academic Penalties: What Happens If You Drop a Course Late"
 category: 'general'
 description: Understand the serious financial and academic consequences of dropping a course after the ANU census date. Learn about HECS-HELP liability, WD notations on your transcript, and the retrospective withdrawal process for special circumstances.
 author: cowork
 tags: ["ANU census date", "course withdrawal penalty", "HECS-HELP", "retrospective withdrawal", "academic transcript"]
 slug: anu-census-date-financial-academic-penalties-drop-course-late
-ogImage: 
+ogImage: ""
 ---
 
 Navigating university deadlines can feel overwhelming, but few dates carry as much weight as the census date. At the Australian National University, missing this critical deadline can trigger a cascade of financial and academic consequences that may affect your transcript and your wallet for years to come. According to the Australian Government's Department of Education statistics, approximately 4.2% of university students across Australia withdrew from at least one subject after the census date in 2025, many unaware of the full implications until it was too late. ANU internal data from Semester 1, 2025 shows that over 1,300 students received academic penalty notations for late withdrawals, with nearly 60% of those also incurring full financial liability.

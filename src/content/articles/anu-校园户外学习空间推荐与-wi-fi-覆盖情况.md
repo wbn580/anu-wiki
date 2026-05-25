@@ -2,7 +2,7 @@
 title: "ANU 校园户外学习空间推荐与 Wi-Fi 覆盖情况"
 description: "澳大利亚国立大学（ANU）主校区占地约 145 公顷，拥有超过 20 处指定户外学习空间，其校园无线网络（Wi-Fi）覆盖了 95% 以上的户外教学区域。根据 ANU 信息技术服务部 2023 年发布的《校园网络覆盖报告》，全校部署了超过 1,200 个 Wi-Fi 接入点，其中户外区域的平均信号强度维持在 -6…"
 category: "ANU 校园户外学习空间"
-pubDatetime: 2026-04-06T19:54:39Z
+pubDatetime: '2026-04-06T19:54:39Z'
 publishDate: '2026-04-06T19:54:39Z'
 readingTime: 13
 tags: ["featured"]

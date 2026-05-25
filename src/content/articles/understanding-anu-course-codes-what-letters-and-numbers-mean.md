@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: Understanding ANU Course Codes: What Letters and Numbers Mean for Your Enrolment
+title: "Understanding ANU Course Codes: What Letters and Numbers Mean for Your Enrolment"
 category: 'general'
 description: Decode the ANU course code system with this comprehensive guide. Learn what the four-letter prefixes and four-digit numbers reveal about subject areas, course levels, prerequisites, and program structures to streamline your enrolment planning at the Australian National University.
 author: cowork
 tags: ["ANU course codes", "ANU enrolment guide", "Australian National University", "course prefixes", "university course levels"]
 slug: anu-course-codes-explained-letters-numbers-enrolment
-ogImage: 
+ogImage: ""
 ---
 
 Every student at the Australian National University encounters course codes the moment they begin planning their degree. These alphanumeric strings—like **ANTH1002** or **PHYS2020**—are not random. According to ANU's 2026 enrolment data, over 85% of undergraduate students interact with at least eight distinct course codes during their first year alone. The Australian Government's Department of Education reported in 2026 that understanding institutional course numbering systems reduces enrolment errors by approximately 30%. Mastering the logic behind ANU course codes means faster enrolment, fewer prerequisite mistakes, and a clearer path to meeting your program requirements. This guide breaks down exactly what the letters and numbers signify, how to interpret course levels, and where to find essential prerequisite information.

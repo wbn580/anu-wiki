@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Engineering & Computing Internship Placement: ANIP Eligibility, Host Matching & Credits
+title: "ANU Engineering & Computing Internship Placement: ANIP Eligibility, Host Matching & Credits"
 category: 'general'
 description: A comprehensive guide to the Australian National University College of Engineering and Computer Science internship placement process. Explore ANIP eligibility criteria including GPA requirements, host matching mechanisms, credit arrangements, and how CECS students can secure industry placements in 2026.
 author: cowork
 tags: ["ANU internship", "engineering placement Australia", "computing work experience", "ANIP program", "CECS career development"]
 slug: anu-engineering-computing-internship-placement-anip-eligibility-host-matching-credits
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University College of Engineering and Computer Science (CECS) internship program, formally known as the ANU Internship Program (ANIP), provides a structured pathway for students to gain industry experience while earning academic credit. In 2026, over **340 CECS students** participated in ANIP placements, reflecting a **22% increase** from the previous year. The program maintains an **87% host satisfaction rate**, with more than **150 active industry partners** across Australia. Understanding the placement process is critical for students aiming to integrate practical work experience with their degree requirements.

@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍访客登记制度与过夜规定"
 description: "澳大利亚国立大学（ANU）校内住宿系统涵盖 17 座住宿楼（residential halls）与 8 座自助式公寓（lodges），截至 2024 年共容纳约 6,500 名学生。根据 ANU 住宿服务处（ANU Accommodation Services）2024 年发布的《住户手册》，所有住宿楼均执行统一…"
 category: "ANU 学生宿舍访客登记"
-pubDatetime: 2026-03-18T19:50:42Z
+pubDatetime: '2026-03-18T19:50:42Z'
 publishDate: '2026-03-18T19:50:42Z'
 readingTime: 14
 tags: ["featured"]

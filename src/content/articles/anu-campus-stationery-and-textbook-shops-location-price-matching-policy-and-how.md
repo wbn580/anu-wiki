@@ -2,7 +2,7 @@
 title: "ANU Campus Stationery and Textbook Shops: Location, Price Matching Policy, and How to Order Course-Specific Packs"
 description: "澳大利亚国立大学（ANU）校园内设有多个官方及合作运营的文具与教材零售点，其中主校区 Kambri 文化区的 **The School Locker** 是唯一经 ANU 授权运营的教材与品牌商品综合商店。根据 ANU 官方 2024 年发布的《学生服务指南》，该校每学期约有 68% 的本科课程会指定至少一本专用…"
 category: "ANU"
-pubDatetime: 2026-05-10T20:01:16Z
+pubDatetime: '2026-05-10T20:01:16Z'
 publishDate: '2026-05-10T20:01:16Z'
 readingTime: 3
 tags: ["featured"]

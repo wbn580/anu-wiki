@@ -2,7 +2,7 @@
 title: "How to Write a Cold Email for ANU PhD Applications: Supervisor Matching Strategies and Proposal Drafting Tips"
 description: "ANU 每年收到超过 4,000 份博士申请，但录取率仅为约 15%（ANU 研究生研究办公室，2023 年《招生统计报告》）。在竞争激烈的申请流程中，**冷邮件（Cold Email）** 是联系潜在导师、建立初步关系的关键第一步。一封结构清晰、策略得当的邮件，能显著提升回复率并增加录取机会。根据《自然》期刊 …"
 category: "How"
-pubDatetime: 2026-04-11T19:55:41Z
+pubDatetime: '2026-04-11T19:55:41Z'
 publishDate: '2026-04-11T19:55:41Z'
 readingTime: 3
 tags: ["featured"]

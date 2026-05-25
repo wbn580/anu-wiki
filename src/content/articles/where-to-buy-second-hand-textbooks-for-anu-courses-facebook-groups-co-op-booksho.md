@@ -2,7 +2,7 @@
 title: "Where to Buy Second-Hand Textbooks for ANU Courses: Facebook Groups, Co-Op Bookshop, and Online Marketplaces Compared"
 description: "澳大利亚国立大学（ANU）2024 年第一学期入学的本科生平均每人在教科书上的支出约为 650 澳元，这一数据来自澳大利亚竞争与消费者委员会（ACCC）2023 年发布的《高等教育教材市场研究报告》。面对逐年上涨的教材费用，超过 60% 的 ANU 学生选择通过二手渠道获取课程用书，这一比例在 2022 年澳大利…"
 category: "Where"
-pubDatetime: 2026-04-21T19:57:32Z
+pubDatetime: '2026-04-21T19:57:32Z'
 publishDate: '2026-04-21T19:57:32Z'
 readingTime: 3
 tags: ["featured"]

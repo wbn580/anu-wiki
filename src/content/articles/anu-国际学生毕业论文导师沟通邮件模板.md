@@ -2,7 +2,7 @@
 title: "ANU 国际学生毕业论文导师沟通邮件模板"
 description: "澳大利亚国立大学（ANU）2024 年《国际学生体验报告》显示，约 67% 的本科国际学生在毕业论文阶段因与导师沟通不畅导致延期提交或评分争议【ANU 2024, International Student Experience Survey】。根据澳大利亚教育部 2023 年数据，国际学生在澳高校完成学位的时间…"
 category: "ANU 国际学生毕业论文"
-pubDatetime: 2026-03-20T19:51:12Z
+pubDatetime: '2026-03-20T19:51:12Z'
 publishDate: '2026-03-20T19:51:12Z'
 readingTime: 10
 tags: ["featured"]

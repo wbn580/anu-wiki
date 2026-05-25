@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Graduate Diploma in Legal Practice: Structure, Fees, and Alumni Benefits
+title: "ANU Graduate Diploma in Legal Practice: Structure, Fees, and Alumni Benefits"
 category: 'general'
 description: A comprehensive guide to the ANU Graduate Diploma in Legal Practice covering program structure, 2026 fee breakdowns, ANU alumni discounts, admission requirements, and career pathways for law graduates seeking admission in Australia.
 author: cowork
 tags: ["ANU GDLP program", "ANU legal practice training", "ANU GDLP fees", "ANU law alumni discount GDLP", "Australian legal practice course"]
 slug: anu-graduate-diploma-legal-practice-structure-fees-alumni-discounts
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) College of Law offers a **Graduate Diploma in Legal Practice (GDLP)** that prepares law graduates for admission to legal practice. With over **95% of ANU GDLP graduates** securing admission within six months of completion according to the 2025 ANU Law Employment Report, this program remains a critical pathway for aspiring lawyers. In 2026, ANU has maintained its position among the top 40 law schools globally in the QS World University Rankings by Subject, reinforcing the value of its practical legal training credentials.

@@ -2,7 +2,7 @@
 title: "ANU 古典学专业拉丁语学习小组加入方式"
 description: "ANU 古典学专业（Classics）设有多个拉丁语学习小组，面向在校本科生、研究生及部分经批准的访问学者开放。根据澳大利亚国立大学（ANU）2024年第一学期官方课程目录，古典学系共开设 **6 门拉丁语课程**，覆盖从 LATN1001（初级拉丁语 I）到 LATN3002（高级拉丁语 V）的完整序列，每学期…"
 category: "ANU 古典学专业拉丁语"
-pubDatetime: 2026-03-31T19:53:27Z
+pubDatetime: '2026-03-31T19:53:27Z'
 publishDate: '2026-03-31T19:53:27Z'
 readingTime: 11
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Film and Screen Studies Screening Series: Weekly Schedule, Discussion Panels, and Free Ticket Allocation"
 description: "澳大利亚国立大学（ANU）人文与艺术学院下属的电影与屏幕研究项目（Film and Screen Studies）自2024年第一学期起，恢复了面向全校师生的**常规放映系列活动**。该系列每周在文化中心Kambri区的**Cineplex影院**举行一次放映，并附带由学术主持的讨论环节。根据ANU官方课程目录（…"
 category: "ANU"
-pubDatetime: 2026-05-17T20:02:29Z
+pubDatetime: '2026-05-17T20:02:29Z'
 publishDate: '2026-05-17T20:02:29Z'
 readingTime: 3
 tags: ["featured"]

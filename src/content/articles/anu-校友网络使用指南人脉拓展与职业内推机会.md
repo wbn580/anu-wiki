@@ -2,7 +2,7 @@
 title: "ANU 校友网络使用指南：人脉拓展与职业内推机会"
 description: "澳大利亚国立大学（ANU）校友网络覆盖全球超过140个国家与地区，拥有逾18万名注册校友，其中约4.2万人居住在澳大利亚境外（ANU Alumni Office, 2024, *ANU Global Alumni Database*）。根据《泰晤士高等教育》（THE）2024年全球就业能力排名，ANU毕业生就业力…"
 category: "ANU 校友网络使用指南"
-pubDatetime: 2026-03-08T19:48:42Z
+pubDatetime: '2026-03-08T19:48:42Z'
 publishDate: '2026-03-08T19:48:42Z'
 readingTime: 10
 tags: ["featured"]

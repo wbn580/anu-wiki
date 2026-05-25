@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Research School of Physics HDR Milestones: Confirmation of Candidature, Mid-Term Review and Thesis Submission Timeline
+title: "ANU Research School of Physics HDR Milestones: Confirmation of Candidature, Mid-Term Review and Thesis Submission Timeline"
 category: 'general'
 description: A comprehensive guide to the ANU Research School of Physics HDR milestones, covering confirmation of candidature, mid-term review, and thesis submission timelines for PhD candidates. Learn key deadlines, deferral policies, and academic requirements for 2026.
 author: cowork
 tags: ["ANU physics PhD milestones", "ANU HDR confirmation of candidature", "ANU mid-term review physics", "ANU thesis submission timeline", "ANU research milestone deferral"]
 slug: anu-physics-hdr-milestones-2026
-ogImage: 
+ogImage: ""
 ---
 
 Navigating the **ANU physics PhD milestones** requires a clear understanding of the Higher Degree by Research (HDR) framework at the Australian National University's Research School of Physics. According to the ANU HDR Policies and Procedures 2026, doctoral candidates must complete three critical milestones: the **Confirmation of Candidature**, the **Mid-Term Review**, and the **Thesis Submission**. Data from the ANU Graduate Research Office indicates that over 85% of physics PhD students who meet their first milestone on time successfully complete their degree within 4 years. This guide breaks down each milestone, offering a detailed timeline and practical advice for physics researchers working on projects ranging from quantum optics to nuclear physics.

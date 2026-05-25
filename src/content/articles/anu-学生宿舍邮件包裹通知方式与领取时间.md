@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍邮件包裹通知方式与领取时间"
 description: "澳大利亚国立大学（ANU）学生宿舍的邮件与包裹通知系统采用 **分栋管理** 与 **电子化通知** 结合的机制，覆盖全校超过 4,000 个校内住宿床位。根据 ANU Accommodation 2024 年官方手册，校内宿舍每年处理超过 15 万件包裹与信件，其中约 70% 通过电子邮件或短信完成领取通知。这…"
 category: "ANU 学生宿舍邮件包裹"
-pubDatetime: 2026-04-05T19:54:31Z
+pubDatetime: '2026-04-05T19:54:31Z'
 publishDate: '2026-04-05T19:54:31Z'
 readingTime: 10
 tags: ["featured"]

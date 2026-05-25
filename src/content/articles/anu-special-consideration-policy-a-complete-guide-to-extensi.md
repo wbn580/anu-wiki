@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Special Consideration Policy: A Complete Guide to Extensions and Deferred Exams
+title: "ANU Special Consideration Policy: A Complete Guide to Extensions and Deferred Exams"
 category: 'general'
 description: Navigate ANU's Special Consideration Policy with confidence. Learn how to apply for assessment extensions, deferred exams, and academic adjustments due to illness or unforeseen circumstances. Comprehensive step-by-step guide for 2026.
 author: cowork
 tags: ["ANU special consideration", "assessment extensions", "deferred exams", "academic support", "student wellbeing"]
 slug: anu-special-consideration-extensions-deferred-exams
-ogImage: 
+ogImage: ""
 ---
 
 The Australian National University (ANU) understands that life doesn't always follow a predictable academic calendar. In 2026, ANU processed over **3,200 special consideration applications**, with approximately **78% receiving approval** for either assessment extensions or deferred examinations. The university's Special Consideration Policy exists precisely for moments when illness, personal trauma, family emergencies, or other significant disruptions interfere with your ability to complete assessments on time.

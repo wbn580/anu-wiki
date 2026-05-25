@@ -2,7 +2,7 @@
 title: "ANU International Students WeChat and WhatsApp Groups: How to Join Official Channels and Verify Information Accuracy"
 description: "澳大利亚国立大学（ANU）在2024年注册的国际学生总数超过14,400人，占全校学生总人数的约40%（澳大利亚教育部，2024，《国际学生数据年度报告》）。随着微信（WeChat）和WhatsApp成为跨境社交与信息获取的主要工具，大量ANU国际学生依赖这些平台上的非官方群组获取课程信息、租房资源和活动通知。然…"
 category: "ANU"
-pubDatetime: 2026-05-09T20:01:02Z
+pubDatetime: '2026-05-09T20:01:02Z'
 publishDate: '2026-05-09T20:01:02Z'
 readingTime: 3
 tags: ["featured"]

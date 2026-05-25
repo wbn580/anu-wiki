@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Public Policy Capstone Project: What to Expect and How to Prepare
+title: "ANU Master of Public Policy Capstone Project: What to Expect and How to Prepare"
 category: 'general'
 description: Discover what the ANU Master of Public Policy capstone project involves and how to prepare effectively. This guide covers client project structures, research methodologies, skill development, and practical strategies for the final semester, helping you navigate this culminating academic experience with confidence.
 author: cowork
 tags: ["ANU MPP capstone", "public policy graduate project", "Australian National University", "policy analysis training", "graduate final project preparation"]
 slug: anu-mpp-capstone-project-guide
-ogImage: 
+ogImage: ""
 ---
 
 The ANU Master of Public Policy capstone project stands as the defining academic milestone for graduate students at the Crawford School of Public Policy. According to the university's 2026 program data, approximately 92% of MPP candidates complete the capstone within a single semester, with the remaining 8% extending across two terms for complex policy engagements. The Australian Government's 2025 Graduate Outcomes Survey indicates that **ANU MPP graduates** who completed a client-based capstone reported a 23% higher rate of securing policy roles within six months compared to those who pursued traditional thesis options. This intensive final project bridges theoretical knowledge with real-world policy challenges, demanding rigorous preparation and strategic planning.

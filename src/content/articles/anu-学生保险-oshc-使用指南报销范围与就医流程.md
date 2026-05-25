@@ -2,7 +2,7 @@
 title: "ANU 学生保险 OSHC 使用指南：报销范围与就医流程"
 description: "澳大利亚政府规定，所有持学生签证（Subclass 500）的国际学生在澳期间必须持有 **海外学生健康保险（OSHC）**。根据澳大利亚内政事务部（Department of Home Affairs）2024年数据，未持有有效OSHC的学生签证申请将被直接拒签。澳大利亚国立大学（ANU）作为澳洲八校联盟（Go…"
 category: "ANU 学生保险 OSH"
-pubDatetime: 2026-02-26T19:46:41Z
+pubDatetime: '2026-02-26T19:46:41Z'
 publishDate: '2026-02-26T19:46:41Z'
 readingTime: 14
 tags: ["featured"]

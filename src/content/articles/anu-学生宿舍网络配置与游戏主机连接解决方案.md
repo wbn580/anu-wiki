@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍网络配置与游戏主机连接解决方案"
 description: "澳大利亚国立大学（ANU）校内宿舍网络采用 802.1X 企业级认证架构，要求所有终端设备通过个人 Uni ID 与密码完成身份验证。根据 ANU 信息技术服务部（ITS）2024 年发布的《宿舍网络接入指南》，校内 12 栋主要宿舍楼均部署了 Cisco Meraki 无线接入点，支持 2.4 GHz 与 5 …"
 category: "ANU 学生宿舍网络配置"
-pubDatetime: 2026-03-10T19:49:02Z
+pubDatetime: '2026-03-10T19:49:02Z'
 publishDate: '2026-03-10T19:49:02Z'
 readingTime: 11
 tags: ["featured"]

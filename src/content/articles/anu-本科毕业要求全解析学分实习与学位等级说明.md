@@ -2,7 +2,7 @@
 title: "ANU 本科毕业要求全解析：学分、实习与学位等级说明"
 description: "ANU 本科毕业要求全解析：学分、实习与学位等级说明"
 category: "ANU 本科毕业要求全解"
-pubDatetime: 2026-02-22T19:45:47Z
+pubDatetime: '2026-02-22T19:45:47Z'
 publishDate: '2026-02-22T19:45:47Z'
 readingTime: 11
 tags: ["featured"]

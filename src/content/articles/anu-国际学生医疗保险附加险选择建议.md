@@ -2,7 +2,7 @@
 title: "ANU 国际学生医疗保险附加险选择建议"
 description: "澳大利亚国立大学（ANU）要求所有持学生签证的国际学生在校期间必须购买 Overseas Student Health Cover（OSHC），该保险覆盖基础医疗服务。然而，根据澳大利亚卫生部 2023 年发布的《OSHC 标准覆盖范围说明》，OSHC 通常不包含牙科、眼科、物理治疗及处方药自付部分等常见医疗项目…"
 category: "ANU 国际学生医疗保险"
-pubDatetime: 2026-03-22T19:51:49Z
+pubDatetime: '2026-03-22T19:51:49Z'
 publishDate: '2026-03-22T19:51:49Z'
 readingTime: 13
 tags: ["featured"]

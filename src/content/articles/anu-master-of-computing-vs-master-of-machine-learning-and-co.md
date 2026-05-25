@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Master of Computing vs Master of Machine Learning and Computer Vision: Curriculum and Career Pathways in 2026
+title: "ANU Master of Computing vs Master of Machine Learning and Computer Vision: Curriculum and Career Pathways in 2026"
 category: 'general'
 description: A detailed comparison of the Australian National University’s Master of Computing and Master of Machine Learning and Computer Vision. Explore curriculum structures, specialisation depth, research pathways, and career outcomes for 2026 to determine which degree aligns with your goals in tech.
 author: cowork
 tags: ["anu master of computing", "anu machine learning master", "anu computing vs mlcv", "anu postgraduate computer science", "anu tech master comparison"]
 slug: anu-master-computing-vs-machine-learning-computer-vision-2026
-ogImage: 
+ogImage: ""
 ---
 
 As Australia’s tech sector continues to expand, with the **Australian Computer Society** projecting demand for 1.2 million tech workers by 2026, postgraduate education has become a critical differentiator. The **Australian National University (ANU)** , ranked 30th globally for Computer Science in the QS World University Rankings by Subject 2026, offers two distinct advanced degrees that often confuse prospective applicants: the **Master of Computing** and the **Master of Machine Learning and Computer Vision (MLCV)**. While both sit within the ANU College of Engineering, Computing and Cybernetics, they cater to fundamentally different professional and academic trajectories. The Master of Computing provides a broad, accredited foundation for career-changers and professionals seeking formal qualifications, whereas the Master of MLCV is a specialised, research-intensive pipeline into AI engineering and computer vision roles. According to the 2026 Graduate Outcomes Survey, computing postgraduates in the ACT reported a median full-time salary of AUD $108,000, but salary variance between generalist software engineers and machine learning specialists has widened to over 20% in the last two years. This analysis breaks down the curriculum architecture, entry requirements, learning outcomes, and industry alignment of these two programs to help you make a data-driven decision.

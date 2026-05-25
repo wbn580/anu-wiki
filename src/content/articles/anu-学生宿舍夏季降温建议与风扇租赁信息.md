@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍夏季降温建议与风扇租赁信息"
 description: "澳大利亚首都领地（ACT）夏季平均最高气温可达 28.4°C（澳大利亚气象局 2023 年气候统计），而堪培拉在 2020 年 1 月曾录得 44.0°C 的极端高温纪录。对于澳大利亚国立大学（ANU）的学生宿舍，尤其是未配备中央空调的早期建筑（如 Bruce Hall、Burgmann College 等），室…"
 category: "ANU 学生宿舍夏季降温"
-pubDatetime: 2026-04-08T19:54:59Z
+pubDatetime: '2026-04-08T19:54:59Z'
 publishDate: '2026-04-08T19:54:59Z'
 readingTime: 13
 tags: ["featured"]

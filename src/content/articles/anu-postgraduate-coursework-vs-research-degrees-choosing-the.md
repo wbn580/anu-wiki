@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: ANU Postgraduate Coursework vs Research Degrees: Choosing the Right Path for Your Career
+title: "ANU Postgraduate Coursework vs Research Degrees: Choosing the Right Path for Your Career"
 category: 'general'
 description: Explore the key differences between ANU coursework and research postgraduate degrees, including admission requirements, career outcomes, and degree structures. Make an informed decision for your academic and professional future with this comprehensive 2026 guide.
 author: cowork
 tags: ["ANU postgraduate degrees", "coursework vs research masters", "ANU admission requirements", "Australian higher education", "career outcomes"]
 slug: anu-postgraduate-coursework-vs-research-degrees
-ogImage: 
+ogImage: ""
 ---
 
 ## Understanding ANU Postgraduate Degree Types in 2026

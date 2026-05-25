@@ -2,7 +2,7 @@
 title: "ANU 校园宗教活动场所分布与信仰支持服务"
 description: "澳大利亚国立大学（ANU）主校区Acton校园内设有至少 **6 处** 专门用于宗教活动的物理空间，涵盖基督教、伊斯兰教、佛教、犹太教及多信仰区域。根据澳大利亚联邦教育部2023年发布的《国际学生福祉报告》（Department of Education, 2023），超过 32% 的国际学生表示校园内的信仰支…"
 category: "ANU 校园宗教活动场所"
-pubDatetime: 2026-04-04T19:54:24Z
+pubDatetime: '2026-04-04T19:54:24Z'
 publishDate: '2026-04-04T19:54:24Z'
 readingTime: 10
 tags: ["featured"]

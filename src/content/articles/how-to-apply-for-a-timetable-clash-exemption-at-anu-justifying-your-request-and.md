@@ -2,7 +2,7 @@
 title: "How to Apply for a Timetable Clash Exemption at ANU: Justifying Your Request and Understanding Approval Odds"
 description: "在澳大利亚国立大学（ANU）2024年第一学期，共有超过4,200名学生提交了课程时间冲突豁免申请，其中约71%的申请获得批准，数据来自ANU学生行政服务处2024年内部统计。时间冲突豁免（Timetable Clash Exemption）允许学生在两门必修课时间重叠时，通过书面陈述证明其学术合理性，从而同时注…"
 category: "How"
-pubDatetime: 2026-04-22T19:57:44Z
+pubDatetime: '2026-04-22T19:57:44Z'
 publishDate: '2026-04-22T19:57:44Z'
 readingTime: 3
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU Food Science Sensory Evaluation Panels: How to Sign Up as a Taster, Compensation, and Lab Rules"
 description: "澳大利亚国立大学（ANU）食品科学感官评价小组是该校健康与医学学院下属的一个研究与实践平台，专门招募在校学生及教职工参与食品与饮料的味觉、嗅觉、质地等感官测试。根据ANU官方2024年发布的《感官评价小组招募指南》，每年约有超过1,200人次参与各类测试，涉及乳制品、饮料、烘焙产品及功能食品等品类。ANU的感官评…"
 category: "ANU"
-pubDatetime: 2026-05-14T20:01:57Z
+pubDatetime: '2026-05-14T20:01:57Z'
 publishDate: '2026-05-14T20:01:57Z'
 readingTime: 3
 tags: ["featured"]

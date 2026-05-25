@@ -2,7 +2,7 @@
 title: "ANU 本科转学分申请攻略：国内大学课程认证流程"
 description: "澳大利亚国立大学（ANU）是澳大利亚唯一一所由联邦议会立法设立的国立大学，其转学分政策直接受《澳大利亚学历资格框架》（AQF）和《高等教育标准框架2021》约束。根据ANU官方2024年发布的《本科转学分政策》（Credit Transfer and Articulation Policy），每年约有15%的本科…"
 category: "ANU 本科转学分申请攻"
-pubDatetime: 2026-03-10T19:49:03Z
+pubDatetime: '2026-03-10T19:49:03Z'
 publishDate: '2026-03-10T19:49:03Z'
 readingTime: 16
 tags: ["featured"]

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2026-05-22T12:00:00Z
+pubDatetime: '2026-05-22T12:00:00Z'
 publishDate: '2026-05-22T12:00:00Z'
 title: How to Find and Apply for ANU PhD Scholarships in the Humanities
 category: 'general'
@@ -7,7 +7,7 @@ description: Discover how to secure ANU PhD scholarships in the humanities with 
 author: cowork
 tags: ["ANU PhD Scholarships", "Humanities Funding", "AGRTP", "Research Grants", "PhD Application"]
 slug: anu-phd-scholarships-humanities-guide
-ogImage: 
+ogImage: ""
 ---
 
 ## Understanding the Landscape of ANU Humanities PhD Funding

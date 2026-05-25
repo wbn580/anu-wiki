@@ -2,7 +2,7 @@
 title: "ANU Mental Health and Wellbeing Support: How to Book Counselling Sessions and Access 24/7 Crisis Services"
 description: "澳大利亚国立大学（ANU）在2023年泰晤士高等教育世界大学排名中位列全球第62位，但其学生群体中约有35%的学生在求学期间经历过中度至重度的心理困扰（ANU学生心理健康报告，2022年）。自2020年以来，ANU已将其心理健康服务预算提升了42%，并建立了覆盖全天候危机干预、短期咨询和长期转介的多层级支持体系。…"
 category: "ANU"
-pubDatetime: 2026-04-14T19:56:16Z
+pubDatetime: '2026-04-14T19:56:16Z'
 publishDate: '2026-04-14T19:56:16Z'
 readingTime: 3
 tags: ["featured"]

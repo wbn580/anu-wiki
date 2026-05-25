@@ -2,7 +2,7 @@
 title: "ANU Quiet Hours Policy in Residential Halls: Designated Times, Complaint Procedures, and Consequences for Violations"
 description: "澳大利亚国立大学（ANU）住宿服务部门自 2020 年起在其所有校内住宿楼（包括 Bruce Hall、Burgmann College 等 10 余座宿舍学院）正式实施统一的 **Quiet Hours Policy**（静音时段政策）。该政策规定，每周周日至周四的 **晚上 10:00 至次日早上 7:00*…"
 category: "ANU"
-pubDatetime: 2026-05-04T20:00:05Z
+pubDatetime: '2026-05-04T20:00:05Z'
 publishDate: '2026-05-04T20:00:05Z'
 readingTime: 3
 tags: ["featured"]

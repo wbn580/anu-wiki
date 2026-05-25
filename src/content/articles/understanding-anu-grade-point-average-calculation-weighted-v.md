@@ -1,13 +1,13 @@
 ---
-pubDatetime: 2026-05-23T12:00:00Z
+pubDatetime: '2026-05-23T12:00:00Z'
 publishDate: '2026-05-23T12:00:00Z'
-title: Understanding ANU Grade Point Average Calculation: Weighted vs Unweighted GPA Rules
+title: "Understanding ANU Grade Point Average Calculation: Weighted vs Unweighted GPA Rules"
 category: 'general'
 description: Master the intricacies of ANU GPA calculation with this comprehensive guide. Learn the critical differences between weighted and unweighted averages, how course levels affect your academic transcript, and the precise formula used to translate your grades into a final score.
 author: cowork
 tags: ["ANU GPA calculation", "ANU grading scale", "ANU academic transcript", "Australian university grades", "GPA conversion"]
 slug: anu-gpa-calculation-weighted-unweighted-rules
-ogImage: 
+ogImage: ""
 ---
 
 For any student navigating the academic landscape of the Australian National University, understanding the **ANU GPA calculation** is non-negotiable. It is the numerical distillation of your entire degree performance, a figure scrutinized by honors committees, scholarship boards, and future employers. According to institutional data released in early 2026, ANU utilizes a specific 7-point scale, but the complexity lies not just in the letter grades, but in the **weighted average** methodology applied to your **ANU academic transcript**. Over 90% of graduate programs at ANU require a minimum GPA threshold, yet many students misinterpret how **ANU course weighting** impacts their final standing.

@@ -2,7 +2,7 @@
 title: "ANU 学生宿舍家具损坏报修流程与责任界定"
 description: "澳大利亚国立大学（ANU）校内住宿系统涵盖 17 座宿舍楼与 4 座 Lodge，共容纳约 6,500 名学生。根据 ANU 住宿服务 2024 年发布的《Residential Life Handbook》，每学年报修工单中约 35% 涉及家具损坏（含自然损耗与人为破损），其中责任界定与赔偿流程是学生与住宿方之…"
 category: "ANU 学生宿舍家具损坏"
-pubDatetime: 2026-04-04T19:54:20Z
+pubDatetime: '2026-04-04T19:54:20Z'
 publishDate: '2026-04-04T19:54:20Z'
 readingTime: 13
 tags: ["featured"]

@@ -2,7 +2,7 @@
 title: "ANU 在线学习系统 Wattle 使用技巧与常见问题解决"
 description: "ANU 在线学习系统 **Wattle**（Web Access to Teaching & Learning Environment）是澳大利亚国立大学（ANU）自 2012 年起部署的官方学习管理系统（LMS），基于开源平台 Moodle 定制开发。截至 2025 年第一学期，Wattle 承载全校超过 25…"
 category: "ANU 在线学习系统 W"
-pubDatetime: 2026-03-02T19:47:25Z
+pubDatetime: '2026-03-02T19:47:25Z'
 publishDate: '2026-03-02T19:47:25Z'
 readingTime: 12
 tags: ["featured"]

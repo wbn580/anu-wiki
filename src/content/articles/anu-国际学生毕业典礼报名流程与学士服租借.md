@@ -2,7 +2,7 @@
 title: "ANU 国际学生毕业典礼报名流程与学士服租借"
 description: "澳洲国立大学（ANU）每年举行三次毕业典礼，分别于二月、七月和十二月在堪培拉Llewellyn Hall举行。根据澳大利亚教育部2023年《国际学生数据报告》，ANU在2022-2023学年共授予超过3,800份国际学生学位证书，其中约65%的毕业生选择参加线下典礼。对于国际学生而言，毕业典礼的报名流程与学士服租…"
 category: "ANU 国际学生毕业典礼"
-pubDatetime: 2026-03-29T19:53:03Z
+pubDatetime: '2026-03-29T19:53:03Z'
 publishDate: '2026-03-29T19:53:03Z'
 readingTime: 12
 tags: ["featured"]

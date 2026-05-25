@@ -2,7 +2,7 @@
 title: "ANU 新闻学专业校园媒体平台投稿指南"
 description: "澳大利亚国立大学（ANU）新闻学专业拥有全澳最密集的校园媒体生态之一，其学生运营的出版平台包括报纸《Woroni》（创刊于1950年）、广播电台2XX FM（1967年开播）以及数字新闻平台ANU Observer。根据澳大利亚新闻研究中心（Centre for Media Transition, 2022）的调…"
 category: "ANU 新闻学专业校园媒"
-pubDatetime: 2026-03-28T19:52:49Z
+pubDatetime: '2026-03-28T19:52:49Z'
 publishDate: '2026-03-28T19:52:49Z'
 readingTime: 12
 tags: ["featured"]

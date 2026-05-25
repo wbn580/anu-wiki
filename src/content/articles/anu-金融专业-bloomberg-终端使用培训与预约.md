@@ -2,7 +2,7 @@
 title: "ANU 金融专业 Bloomberg 终端使用培训与预约"
 description: "澳大利亚国立大学（ANU）金融专业的学生可通过校内金融实验室（Finance Lab）预约并使用Bloomberg终端。该终端是全球金融从业者广泛使用的实时数据、分析和交易平台。截至2024年，ANU为金融学学士及硕士课程学生提供每周累计超过80小时的Bloomberg终端使用时段，并由经认证的培训师提供入门至高…"
 category: "ANU 金融专业 Blo"
-pubDatetime: 2026-03-14T19:49:50Z
+pubDatetime: '2026-03-14T19:49:50Z'
 publishDate: '2026-03-14T19:49:50Z'
 readingTime: 10
 tags: ["featured"]

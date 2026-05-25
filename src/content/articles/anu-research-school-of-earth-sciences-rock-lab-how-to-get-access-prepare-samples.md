@@ -2,7 +2,7 @@
 title: "ANU Research School of Earth Sciences Rock Lab: How to Get Access, Prepare Samples, and Use the Microscopes"
 description: "澳大利亚国立大学（ANU）地球科学研究学院的岩石实验室（Rock Lab）是南半球规模最大的实验岩石学与显微分析设施之一，每年支持超过200个研究项目，涵盖从行星地质到矿产勘探的学科领域。根据THE 2024年世界大学排名，ANU的地球科学学科位列全球第30位，其岩石实验室配备的电子探针分析仪（EPMA）和激光剥…"
 category: "ANU"
-pubDatetime: 2026-05-06T20:00:31Z
+pubDatetime: '2026-05-06T20:00:31Z'
 publishDate: '2026-05-06T20:00:31Z'
 readingTime: 3
 tags: ["featured"]

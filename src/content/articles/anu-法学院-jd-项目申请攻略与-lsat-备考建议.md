@@ -2,7 +2,7 @@
 title: "ANU 法学院 JD 项目申请攻略与 LSAT 备考建议"
 description: "澳大利亚国立大学（ANU）法学院提供的法学博士（Juris Doctor，JD）项目是澳大利亚法律教育体系中的核心研究生课程之一。根据《澳大利亚法律教育委员会 2023 年年度报告》，全国 JD 项目毕业生在完成实践法律培训（PLT）后，其律师执业资格认证率超过 92%。ANU 法学院在 2024 年 QS 世界…"
 category: "ANU 法学院 JD 项"
-pubDatetime: 2026-02-28T19:47:09Z
+pubDatetime: '2026-02-28T19:47:09Z'
 publishDate: '2026-02-28T19:47:09Z'
 readingTime: 13
 tags: ["featured"]

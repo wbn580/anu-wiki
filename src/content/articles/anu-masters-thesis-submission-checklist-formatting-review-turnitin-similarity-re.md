@@ -2,7 +2,7 @@
 title: "ANU Masters Thesis Submission Checklist: Formatting Review, Turnitin Similarity Report, and Binding Requirements"
 description: "澳洲国立大学（ANU）研究生学位论文（Masters Thesis）的提交流程包含三项核心硬性要求：格式审查（Formatting Review）、Turnitin 原创性报告（Similarity Report）以及最终装订与提交（Binding and Submission）。根据 ANU 研究生研究办公室（…"
 category: "ANU"
-pubDatetime: 2026-04-15T19:56:31Z
+pubDatetime: '2026-04-15T19:56:31Z'
 publishDate: '2026-04-15T19:56:31Z'
 readingTime: 3
 tags: ["featured"]

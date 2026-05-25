@@ -2,7 +2,7 @@
 title: "ANU 国际学生假期短期游学项目介绍与费用"
 description: "澳洲国立大学（ANU）在2024年推出的国际学生假期短期游学项目（Short-term Study Abroad Program）为全球大学生提供了在寒暑假期间（通常为2月至3月或7月至8月）前往堪培拉进行为期2至6周学术与文化体验的机会。根据澳大利亚教育部2023年发布的《国际学生数据年度总结》，2022年全澳…"
 category: "ANU 国际学生假期短期"
-pubDatetime: 2026-04-02T19:53:44Z
+pubDatetime: '2026-04-02T19:53:44Z'
 publishDate: '2026-04-02T19:53:44Z'
 readingTime: 16
 tags: ["featured"]

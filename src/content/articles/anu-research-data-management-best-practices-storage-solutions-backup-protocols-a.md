@@ -2,7 +2,7 @@
 title: "ANU Research Data Management Best Practices: Storage Solutions, Backup Protocols, and Ethics Compliance for Your Thesis"
 description: "澳大利亚国立大学（ANU）在2023年发布了《研究数据管理政策》（Research Data Management Policy），规定所有研究数据必须至少保留5年，部分敏感数据保留期长达15年。根据澳大利亚研究理事会（ARC）2022年的《研究诚信框架》要求，博士论文若涉及人类参与者、动物实验或文化遗产数据，必…"
 category: "ANU"
-pubDatetime: 2026-04-15T19:56:31Z
+pubDatetime: '2026-04-15T19:56:31Z'
 publishDate: '2026-04-15T19:56:31Z'
 readingTime: 3
 tags: ["featured"]
