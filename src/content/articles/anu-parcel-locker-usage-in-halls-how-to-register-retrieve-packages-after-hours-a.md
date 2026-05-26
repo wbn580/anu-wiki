@@ -6,6 +6,7 @@ pubDatetime: '2026-05-15T20:02:14Z'
 publishDate: '2026-05-15T20:02:14Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的住宿学院（Halls of Residence）自 2022 年起全面启用电子包裹寄存柜（Parcel Locker）系统，以应对每年超过 12,000 件的学生包裹处理量（ANU Accommodation Services, 2023 Annual Report）。该系统取代了传统的前台签收模式，允许学生在 24 小时内凭手机验证码自助取件，但仍有约 18% 的学生在首次使用时因未完成注册或尺寸超限导致包裹滞留（ANU Student Living Survey, 2023）。本文依据 ANU 住宿服务官方流程，系统说明包裹柜注册、非营业时段取件及超大件包裹处理的标准操作。

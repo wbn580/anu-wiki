@@ -6,6 +6,7 @@ pubDatetime: '2026-05-21T20:03:16Z'
 publishDate: '2026-05-21T20:03:16Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的纳米技术洁净室（ANU Nanotechnology Cleanroom）是该校物理与工程研究基础设施的核心组成部分，对全校及外部合作机构开放。进入该设施的核心门槛是通过**污染控制考试**（Contamination Control Exam），该考试由ANU安全与风险管理部门（ANU Safety & Risk）设计，自2018年起已累计考核超过1,200名用户【ANU Safety & Risk, 2023, *Cleanroom Access Training Records*】。根据2024年ANU研究基础设施年度报告，洁净室全年设备预约总时数达到8,760小时，其中约35%的预约因用户未通过污染控制考试而被取消或延迟【ANU Research Infrastructure, 2024, *Annual Facility Usage Report*】。对于计划在ANU进行微纳加工、半导体器件或生物传感研究的师生而言，掌握洁净室准入流程与设备预约机制，是缩短实验周期、避免资源浪费的关键环节。

@@ -6,6 +6,7 @@ pubDatetime: '2026-05-07T20:00:34Z'
 publishDate: '2026-05-07T20:00:34Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）校内住宿合同（Accommodation Contract）的提前终止（Early Termination）是学生住宿管理中高频出现的法律与财务事项。根据ANU住宿服务（ANU Accommodation Services）2024年发布的《住宿条款与条件》（Terms and Conditions of Accommodation），所有入住ANU校内宿舍或学院（Hall/College）的学生均需签署具有法律约束力的合同，合同期通常为一个学年（约44周或52周）。若学生在合同期内因退学、转学、休学或个人原因提前搬离，需严格遵循规定的通知期（Notice Period）并支付相应违约金（Break Fee）。ANU官方数据显示，2023年住宿申请量超过4,500份，而校内床位总数仅为约4,000个，供需比约为1.13:1，导致部分学生因无法找到替代租户（Replacement Tenant）而面临高额罚金。澳大利亚竞争与消费者委员会（ACCC，2023年）在《学生住宿行业指南》中明确指出，教育机构不得设置不合理的高额终止费，但ANU的违约金结构（通常为2至6周租金）需结合具体合同条款评估。

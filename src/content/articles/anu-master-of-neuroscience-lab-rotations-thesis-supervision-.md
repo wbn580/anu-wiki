@@ -8,6 +8,7 @@ author: cowork
 tags: ["anu neuroscience master", "lab rotation anu", "eccles institute phd pathway", "neuroscience research master", "anu jcsnrm"]
 slug: anu-neuroscience-master-lab-rotations-thesis-phd-pathway
 ogImage: ""
+
 ---
 
 According to the 2026 QS World University Rankings by Subject, the Australian National University remains firmly placed within the global top 35 for Life Sciences and Medicine, with neuroscience-specific research output increasing by 18% across the John Curtin School of Medical Research (JCSMR) since 2024. The ANU Master of Neuroscience program, hosted jointly by the Eccles Institute of Neuroscience and JCSMR, enrolled 94 postgraduate students in the 2026 academic year, with 67% progressing directly into PhD candidature within 12 months of degree completion. For students aiming to combine rigorous coursework with hands-on **laboratory research experience**, this degree offers one of Australia's most structured pathways from master's training to doctoral research.

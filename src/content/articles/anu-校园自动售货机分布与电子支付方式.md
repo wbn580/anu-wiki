@@ -6,6 +6,7 @@ pubDatetime: '2026-03-19T19:50:54Z'
 publishDate: '2026-03-19T19:50:54Z'
 readingTime: 13
 tags: ["featured"]
+
 ---
 
 ANU 校园内共部署了约 47 台自动售货机，覆盖主校区 Acton 的 6 个主要教学与生活区域，包括 Kambri 学生中心、Marie Reay 教学中心、Hancock 图书馆及 Union Court 餐饮区。根据澳大利亚自动售货协会（AVA, 2023 年度行业报告）的数据，澳洲高校校园售货机的平均年交易量约为 12,000 笔/台，ANU 因校区分散且学生流动性高，部分核心区域机器年交易量可达 18,000 笔。2024 年第二季度，ANU 学生服务部门（ANU Student Services）完成了一次支付终端升级，使所有售货机支持 Visa、Mastercard、American Express 及移动支付（Apple Pay / Google Pay），结束了此前仅接受硬币与校园卡（ANUCard）的历史。这一变化正值澳大利亚储备银行（RBA, 2023 支付系统报告）统计显示全澳现金交易占比已降至 13%，电子支付成为校园生活基础设施的关键组成部分。

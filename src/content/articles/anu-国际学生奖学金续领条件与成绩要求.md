@@ -6,6 +6,7 @@ pubDatetime: '2026-03-01T19:47:15Z'
 publishDate: '2026-03-01T19:47:15Z'
 readingTime: 13
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）在2023年向国际学生发放了超过2,400万澳元的奖学金，覆盖本科及研究生阶段，其中约65%的奖学金为可续领型（Renewable Scholarships），要求受助人在每个学年结束时达到特定的学术成绩标准（ANU Scholarships Office, 2023, *Annual Scholarship Report*）。根据澳大利亚教育部2024年发布的《国际学生数据摘要》，2023年全澳高校国际学生奖学金续领率约为72%，而ANU的续领率略高于全国均值，达到76%，但仍有近四分之一的学生因未满足条件而失去资助（Australian Government Department of Education, 2024, *International Student Data Summary 2023*）。本文基于ANU官方政策文件，系统梳理国际学生奖学金续领的核心条件、成绩换算规则、常见风险点及补救机制，帮助在读学生提前规划学业路径。

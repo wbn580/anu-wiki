@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU short courses", "ANU micro-credential", "ANU non-award study", "ANU professional development", "ANU single unit enrolment"]
 slug: anu-short-courses-micro-credentials-non-award-study-guide
 ogImage: ""
+
 ---
 
 The Australian National University (ANU) has expanded its non-award study pathways to meet growing demand for flexible, stackable qualifications. According to the **2026 Australian Government Skills Report**, 68% of professionals now pursue short courses to address immediate skill gaps without committing to full degrees. ANU's non-award enrolment allows domestic and international learners to access **single unit enrolment** across disciplines ranging from public policy to data science, with **ANU micro-credential offerings** growing by 40% since 2024.

@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU Library", "Remote Student Resources", "Digital Ebooks", "Postal Loans", "Off-Campus Access", "Online Study Support"]
 slug: anu-library-access-online-remote-students-digital-resources-postal-loans
 ogImage: ""
+
 ---
 
 The shift toward flexible, digitally enabled education has transformed how students interact with academic libraries. For online and remote students at the Australian National University, the library is not a physical building but a dynamic digital ecosystem supported by robust physical delivery services. Whether you are completing your Master of Public Policy from a regional town in Western Australia or finalizing a PhD thesis while conducting fieldwork in Southeast Asia, the **ANU Library** ensures you remain fully connected to one of the country’s premier research collections. Over **85% of the ANU Library’s collection expenditure** is now directed toward digital resources, according to the university’s 2025 annual report, and the off-campus access system recorded more than **2.1 million successful login sessions** in the first quarter of 2026 alone. This guide details the essential services that make remote study at ANU academically rigorous and logistically seamless.

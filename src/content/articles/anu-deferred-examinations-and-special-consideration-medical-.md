@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU deferred exam", "special consideration", "medical certificate", "exam deferral", "Australian National University", "assessment policy"]
 slug: anu-deferred-examinations-special-consideration-evidence-guide
 ogImage: ""
+
 ---
 
 Navigating the **ANU deferred examination** process can feel overwhelming, especially when you are already dealing with illness, personal hardship, or unexpected disruptions. The Australian National University enrolled over 22,000 students in 2025, and in Semester 1 alone, the examinations office processed more than 3,800 special consideration applications across all colleges. Understanding exactly what evidence you need—and what standards the university applies—is the difference between a successful deferral and a stressful rejection.

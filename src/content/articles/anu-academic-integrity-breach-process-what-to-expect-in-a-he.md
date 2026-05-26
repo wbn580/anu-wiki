@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU", "academic integrity", "misconduct hearing", "appeal process", "student discipline"]
 slug: anu-academic-integrity-breach-hearing-appeal-guide
 ogImage: ""
+
 ---
 
 Facing an allegation of an academic integrity breach at the Australian National University can be a deeply unsettling experience. According to the ANU 2025 Annual Report, the university recorded over 180 formal academic misconduct inquiries in the previous academic year, with breach findings increasing by approximately 12 percent compared to 2024. Understanding the procedural framework is not just about damage control—it is about ensuring your voice is heard within a system that can feel overwhelmingly bureaucratic. The **ANU academic integrity hearing** process, governed primarily by the Academic Integrity Rule 2026, sets out clear stages from initial allegation to final outcome. This guide walks you through exactly what to expect, how to prepare, and the grounds on which you can submit an **ANU academic misconduct appeal** if the finding goes against you.

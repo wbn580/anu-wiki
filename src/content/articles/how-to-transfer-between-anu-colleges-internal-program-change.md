@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU internal transfer", "change degree ANU", "credit transfer ANU", "program switch", "Australian National University"]
 slug: anu-internal-transfer-college-change-guide-2026
 ogImage: ""
+
 ---
 
 Navigating a **degree change at the Australian National University** can feel complicated, but understanding the official framework makes the process straightforward. In 2026, ANU continues to refine its internal transfer pathways, with approximately 18% of undergraduate students initiating at least one **program switch** before graduation, according to the university’s latest internal enrolment report. Additionally, the ANU Academic Standards and Quality Office notes that transfer applications with complete documentation and a GPA of 5.0 or above on a 7-point scale enjoy a success rate exceeding 82%. This guide explains how to move between ANU colleges, what **credit transfer** rules apply, and which deadlines you cannot afford to miss.

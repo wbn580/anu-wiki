@@ -3,6 +3,7 @@ title: "ANU Acceptance Rate · Selectivity and Competition for Places"
 description: "ANU's acceptance rate and admissions competitiveness — how many students apply, how many are accepted, program-level differences, and the impact of ANU's holistic admissions model."
 category: "education"
 publishDate: "2026-05-15T07:20:00Z"
+
 ---
 
 ANU is Australia's most selective university by most measures. Its acceptance rate reflects a combination of high entry requirements, a relatively small student body (20,000 students), and the holistic admissions process that considers factors beyond raw academic scores.

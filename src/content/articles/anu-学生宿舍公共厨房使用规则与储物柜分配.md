@@ -6,6 +6,7 @@ pubDatetime: '2026-03-17T19:50:37Z'
 publishDate: '2026-03-17T19:50:37Z'
 readingTime: 18
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）校内宿舍及合作公寓楼群的公共厨房使用规则与储物柜分配制度，是该校住宿服务（ANU Accommodation Services）根据《2019年ANU住宿协议条款》及《2024年学生住宿行为准则》制定的标准化管理框架。截至2024年，ANU校内住宿容量约为6,200个床位，覆盖21栋宿舍楼及多栋合作公寓，其中超过85%的宿舍单元配备共享厨房设施【ANU Accommodation Services, 2024, *Residential Halls and Lodges Handbook*】。厨房使用规则与储物柜分配的核心目的在于平衡有限空间资源（平均每间公共厨房服务8至15名学生）与日常卫生安全，同时降低因食品储存、烹饪时段及清洁责任引发的跨文化住宿冲突。根据2023年ANU学生住宿满意度调查，厨房与储物空间争议是住宿投诉中占比最高的单项类别，约占所有住宿投诉的37%【ANU Student Living, 2023, *Annual Resident Feedback Report*】。本文系统梳理ANU公共厨房的准入条件、储物柜申请流程、清洁轮值制度及违规处罚机制，为在校生及准住宿生提供可操作的参考依据。

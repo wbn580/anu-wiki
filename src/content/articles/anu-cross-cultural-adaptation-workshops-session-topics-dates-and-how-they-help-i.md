@@ -6,6 +6,7 @@ pubDatetime: '2026-05-07T20:00:37Z'
 publishDate: '2026-05-07T20:00:37Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）自2022年起系统化运营跨文化适应工作坊（Cross-Cultural Adaptation Workshops），专门面向国际学生群体。根据澳大利亚教育部2023年发布的《国际学生年度数据报告》，2023年澳洲高等教育机构注册的国际学生总数达到713,144人，其中ANU的国际学生占比超过30%，约11,000人【Australian Government Department of Education, 2023, International Student Data Report】。同时，QS 2024年学生体验调查显示，约42%的国际学生在抵达后前三个月内报告经历中等至重度的文化适应压力【QS, 2024, Student Experience Survey】。这些工作坊旨在系统性地降低这一比例，通过结构化的主题课程帮助学生过渡。本文详细列出ANU 2024-2025学年工作坊的**主题内容**、**日程安排**及其在学术与社交融入中的实际作用。

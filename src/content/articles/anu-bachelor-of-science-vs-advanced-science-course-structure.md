@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU science degree comparison", "advanced science honours ANU", "research early entry science", "undergraduate science course structures", "Australian National University science"]
 slug: anu-bachelor-science-vs-advanced-science-course-structures-honours-research
 ogImage: ""
+
 ---
 
 Choosing between the **ANU Bachelor of Science** and the **Bachelor of Advanced Science** is a pivotal decision for students aiming to pursue scientific research at Australia’s leading university. With the Australian National University consistently ranked first in Australia and within the global top 30 for natural sciences in the QS World University Rankings 2026, the choice of degree can shape access to **research early entry pathways**, **honours projects**, and future PhD opportunities. Recent data from the Australian Government’s 2026 Graduate Outcomes Survey indicates that 89% of ANU science graduates secure full-time employment or continue to further study within four months of completion, with Advanced Science graduates disproportionately represented in research roles. This article dissects the **course structures**, **honours pathways**, and **research early entry mechanisms** of both degrees, providing a granular comparison to help you make an informed choice.

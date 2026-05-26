@@ -6,6 +6,7 @@ pubDatetime: '2026-04-04T19:54:11Z'
 publishDate: '2026-04-04T19:54:11Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）校内设有两处面向全体注册学生的医疗服务中心，分别为 ANU Health and Wellbeing Centre（Acton 校区）和 ANU Medical Centre（Kambri 校区）。根据澳大利亚政府《海外学生健康保险（OSHC）框架》（2024 年修订版），持有 OSHC 的国际学生在就诊时可直接使用保险卡进行电子结算（bulk billing），无需自付全科医生（GP）诊金。2023 年澳大利亚健康与福利研究院（AIHW）数据显示，全澳大学校内诊所的 GP 平均接诊等待时间为 15 至 30 分钟，ANU 诊所通过在线预约系统可将候诊时间控制在 20 分钟以内。本文基于 ANU 官方政策及澳大利亚卫生部现行规定，系统说明预约流程、费用结构及保险适用规则。

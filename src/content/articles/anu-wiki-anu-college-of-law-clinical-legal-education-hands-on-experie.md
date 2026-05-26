@@ -8,6 +8,7 @@ author: 留学领域资深编辑
 tags: ["anu clinical legal education", "anu law clinic", "anu practical legal training", "anu community lawyering", "Australian legal education"]
 slug: anu-clinical-legal-education-community-lawyering
 ogImage: /img/og/待配.jpg
+
 ---
 
 ## 为什么选择ANU的临床法律教育？

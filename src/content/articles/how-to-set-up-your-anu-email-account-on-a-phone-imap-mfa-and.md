@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU email setup", "IMAP configuration", "Office 365 mobile", "MFA troubleshooting", "student email sync"]
 slug: anu-email-setup-phone-imap-mfa-troubleshooting
 ogImage: ""
+
 ---
 
 Accessing your Australian National University email on a smartphone is essential for keeping up with lecture updates, assignment deadlines, and campus announcements. In 2026, ANU has fully transitioned all student mailboxes to the cloud-based **Microsoft Office 365 platform**, which provides a generous 50 GB storage quota. However, configuring the native mail app on iOS or Android is not always a simple tap-and-go process. According to the ANU Service Desk's 2026 Semester 1 report, **mobile email synchronization issues** accounted for nearly 15% of all IT support tickets during the first two weeks of classes. This guide eliminates the guesswork. We will cover the exact **ANU student email IMAP server settings**, how to correctly handle **Multi-Factor Authentication (MFA)** prompts, and how to resolve the most common error codes that stop your inbox from loading.

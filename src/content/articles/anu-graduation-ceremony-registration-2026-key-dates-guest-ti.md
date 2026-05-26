@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU graduation", "graduation registration", "academic dress hire", "graduation ceremony 2026", "Australian National University"]
 slug: anu-graduation-ceremony-registration-dates-ticketing-gown-hire
 ogImage: ""
+
 ---
 
 Graduating from the Australian National University marks the culmination of years of rigorous academic effort. According to the ANU 2025 Annual Report, the university conferred degrees on over 5,800 students across its July and December ceremonies, and the 2026 cohort is projected to be similarly substantial. The QS World University Rankings 2026 places ANU firmly within the global top 40, making its graduation ceremony not just a personal milestone but a credential of international distinction. Securing your place at the ceremony, however, requires strict adherence to **ANU graduation registration deadlines**, a clear understanding of **guest ticket allocations**, and a timely **gown hire booking**. Missing a single step can result in an administrative headache or, worse, exclusion from the event. This guide breaks down the entire process, from locking in your attendance to walking across the Llewellyn Hall stage, ensuring your transition from candidate to graduate is seamless.

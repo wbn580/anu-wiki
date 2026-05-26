@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU rural medical program", "ANU MD rural pathway", "ANU rural clinical school", "ANU bonded medical places", "rural medicine Australia"]
 slug: anu-medical-school-rural-stream-application-requirements-placement-insights
 ogImage: ""
+
 ---
 
 The Australian National University Medical School rural stream represents one of the most structured pathways into rural medicine across the country. With **approximately 28% of Commonwealth Supported Places in the ANU Doctor of Medicine and Surgery program designated for rural background students** in 2026, the program continues to expand its commitment to addressing regional healthcare workforce shortages. According to the Department of Health and Aged Care's 2025 Medical Workforce Report, rural Australians experience a **shortfall of roughly 180 full-time equivalent general practitioners per 100,000 population** compared to metropolitan areas, making rural medical training pathways increasingly critical. This guide examines the specific application requirements, bonded place arrangements, clinical school placements, and strategic considerations for applicants targeting the **ANU rural medical program** in the 2026 admissions cycle.

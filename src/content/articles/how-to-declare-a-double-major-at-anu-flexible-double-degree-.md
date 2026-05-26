@@ -8,6 +8,7 @@ author: cowork
 tags: []
 slug: how-to-declare-a-double-major-at-anu
 ogImage: ""
+
 ---
 
 According to the Australian National University's 2026 Program Handbook, approximately 34% of domestic undergraduate students now pursue a **double major** or **flexible double degree** pathway, a figure that has risen steadily from 28% in 2023. The ANU has designed its academic structure to accommodate intellectual breadth, with over 70 distinct majors available across its seven academic colleges. However, navigating the **ANU major declaration** process requires a precise understanding of credit limits, mandatory course sequences, and the distinction between a double major within a single degree and a true flexible double degree spanning two separate qualifications. This guide unpacks the regulatory framework and course planning constraints you will encounter when structuring your **ANU study plan double** pathway for the 2026 academic year.

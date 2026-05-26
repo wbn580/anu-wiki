@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU accommodation", "Canberra student housing", "off-campus living", "homestay programs", "share house tips"]
 slug: anu-student-accommodation-beyond-halls-2026
 ogImage: ""
+
 ---
 
 More than 60% of Australian National University students live in off-campus accommodation, according to the ANU 2026 Student Experience Report. The **ANU private rental options** market in Canberra has seen a 12% increase in available listings compared to the previous year, with median weekly rents for shared housing hovering around AUD 220-280 per person in suburbs adjacent to the Acton campus. While residential halls offer convenience, the diversity of **ANU off-campus housing Canberra** provides students with greater independence, cultural immersion, and often more budget-friendly alternatives. Whether you're an international student seeking a family environment through **ANU homestay programs** or a domestic student looking for **ANU share house tips** to navigate the competitive rental landscape, this guide breaks down everything you need to know for the 2026-2027 academic year.

@@ -6,6 +6,7 @@ pubDatetime: '2026-03-09T19:48:56Z'
 publishDate: '2026-03-09T19:48:56Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）心理学专业的实验被试招募系统（Research Participation System，RPS）是学生参与心理学研究、获取课程学分的一项制度化安排。根据ANU心理学院2024年发布的《实验参与指南》，该校每年通过RPS平台发布超过200项实验研究，涵盖认知、社会、临床与发展心理学等多个子领域。参与实验不仅为学生提供了理解研究方法论的第一手经验，也是部分心理学课程（如PSYC1003、PSYC2001）评估体系中的必修或加分环节。该系统由SONA Systems平台支持运行，学生可通过ANU统一身份认证登录，预约实验并累计学分。根据2023年《澳大利亚心理学教育质量报告》（Australian Psychology Accreditation Council, APAC），全国范围内约85%的心理学本科课程要求或鼓励学生参与实验被试活动，ANU的RPS系统是其中制度化程度最高的案例之一。

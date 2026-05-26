@@ -3,6 +3,7 @@ title: "ANU Academic Programs · Undergraduate and Postgraduate Degrees"
 description: "A comprehensive overview of ANU's academic programs — undergraduate degrees, postgraduate coursework and research programs, flexible double degrees, and the ANU College structure."
 category: "education"
 publishDate: "2026-05-15T07:15:00Z"
+
 ---
 
 The Australian National University (ANU) offers over 300 academic programs across seven academic colleges. It is known for its flexible degree structure — particularly the widely emulated Flexible Double Degree program — and its research-intensive curriculum at both undergraduate and postgraduate level.

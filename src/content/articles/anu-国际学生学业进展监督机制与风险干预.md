@@ -6,6 +6,7 @@ pubDatetime: '2026-03-09T19:48:50Z'
 publishDate: '2026-03-09T19:48:50Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）自2018年起执行一套系统化的国际学生学业进展监督机制，该机制依据澳大利亚联邦政府《海外学生教育服务法案》（ESOS Act 2000）及《国家规范》（National Code 2018）第11条“学生学业进展与干预”制定。截至2023年，ANU国际学生占全校学生总数的40.2%（ANU Planning & Statistical Services, 2023, *ANU Annual Report 2023*），其中约5.7%的本科国际学生曾在学业中被列入“学业风险”监控名单（ANU Academic Progress Committee, 2022, *Academic Progress Report 2022*）。这套机制涵盖从早期预警、学业支持介入到正式退学程序的全链条流程，对国际学生签证状态（依据澳大利亚移民局学生签证条款8202）具有直接影响，是当前在澳国际学生关注的核心合规议题。

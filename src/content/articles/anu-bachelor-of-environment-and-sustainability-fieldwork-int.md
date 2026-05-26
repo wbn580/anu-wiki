@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU", "environment and sustainability", "fieldwork", "internships", "career outcomes"]
 slug: anu-bachelor-environment-sustainability-fieldwork-internships-careers
 ogImage: ""
+
 ---
 
 Choosing a degree that genuinely prepares you for the complex environmental challenges of the coming decades requires looking beyond the classroom. The **ANU Bachelor of Environment and Sustainability** (BEnvSust) is structured around the belief that academic theory must be tested in the field and refined through professional practice. At the Australian National University, ranked in the top 40 globally for environmental sciences in the QS World University Rankings by Subject 2026, students access a curriculum where fieldwork is not an optional extra but a core requirement, and internships are embedded within the degree structure. This integration means graduates leave not just with a qualification, but with a portfolio of real-world project experience, professional networks, and the adaptive skills that government agencies and environmental consultancies actively seek. This article examines the fieldwork components, internship opportunities, and career pathways associated with the **ANU environment sustainability degree**, drawing on the latest course structures and graduate outcomes data.

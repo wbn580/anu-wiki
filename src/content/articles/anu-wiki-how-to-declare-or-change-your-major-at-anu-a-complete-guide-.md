@@ -8,6 +8,7 @@ author: Study Abroad Editorial Team
 tags: ["ANU change major", "program variation", "degree structure", "major declaration", "academic plan"]
 slug: anu-declare-change-major-program-variation-guide
 ogImage: /img/og/待配.jpg
+
 ---
 
 Navigating your degree structure at the Australian National University (ANU) can feel complex, especially when your academic interests evolve. In 2026, ANU continues to refine its flexible double-degree and vertical double-degree frameworks, making it crucial to understand the mechanics of an **ANU change major**. According to the Australian Government Department of Education's 2026 Higher Education Statistics, approximately 18% of domestic undergraduate students change their field of study within the first two years. For international students, the Tertiary Collection of Student Information (TCSI) reported a 12% internal program variation rate in 2025, highlighting the importance of mastering the **program variation** process early.

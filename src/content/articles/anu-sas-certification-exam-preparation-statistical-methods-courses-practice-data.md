@@ -6,6 +6,7 @@ pubDatetime: '2026-05-06T20:00:18Z'
 publishDate: '2026-05-06T20:00:18Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）统计数据分析认证（SAS Certification）是该校统计学院与SAS Institute合作开设的专业资格认证项目。根据ANU统计学院2024年公布的数据，该项目自2020年启动以来，已有超过420名学生注册参加，其中约78%的考生在首次尝试中通过基础认证（SAS Certified Specialist: Statistics & Machine Learning）。该认证被澳大利亚统计局（ABS）列为2023年数据分析岗位招聘中的优先资质之一【ABS, 2023, *Data Analyst Job Classification Standards*】。随着澳大利亚政府对数据科学人才的需求在2024年同比增长约15%（据澳大利亚技能委员会统计），这一认证对于希望进入政府统计部门、金融分析或医疗研究领域的学生具有直接价值。

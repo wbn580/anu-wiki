@@ -6,6 +6,7 @@ pubDatetime: '2026-05-01T19:59:27Z'
 publishDate: '2026-05-01T19:59:27Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 ANU 主校区与 Acton 及 Kioloa 海岸校区共部署超过 1,200 个 Wi-Fi 6 接入点，覆盖 95% 以上室内教学与生活区域（ANU Information Technology Services, 2024, *Network Infrastructure Report*）。对于来自中国大陆的学生，校园网络访问面临两项特殊挑战：Eduroam 国际漫游认证需要预先配置机构域名（anu.edu.au），而部分学术数据库与校内系统（如 Wattle 学习管理系统）在跨境传输中可能因中国防火墙（GFW）的 DPI 检测导致连接间歇性中断。根据澳大利亚教育部 2023 年《国际学生数据摘要》，ANU 注册中国籍学生人数为 3,827 人，占国际学生总数的 41.2%，这意味着每 5 名在校生中就有近 2 人需要处理跨境网络适配问题。本文基于 ANU 官方技术文档与实测数据，提供从初始配置到故障排查的完整指南。

@@ -8,6 +8,7 @@ author: cowork
 tags: []
 slug: anu-summer-research-scholarships-supervisor-application-guide
 ogImage: ""
+
 ---
 
 The Australian National University Summer Research Scholarships (SRS) represent one of Australia's most competitive undergraduate research placement opportunities. In the 2025-2026 round, ANU received over 1,400 expressions of interest for approximately 280 available projects across its seven academic colleges. The program offers a stipend of $400 per week for 8-10 weeks of intensive research experience, placing successful applicants directly alongside leading academics in fields ranging from quantum computing to Indigenous studies.

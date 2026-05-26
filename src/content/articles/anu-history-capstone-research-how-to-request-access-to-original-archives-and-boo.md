@@ -6,6 +6,7 @@ pubDatetime: '2026-04-30T19:59:16Z'
 publishDate: '2026-04-30T19:59:16Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）历史学系的荣誉学位（Honours）课程要求学生完成一篇约12,000至15,000词的研究论文（Capstone Research），其中大量项目需要依托原始档案（Primary Sources）展开。根据ANU档案馆（ANU Archives）2023-2024年度报告，其馆藏总量超过5,000线性米，涵盖澳大利亚联邦政府文件、个人手稿及大学行政记录，其中约65%的馆藏尚未数字化。同时，Times Higher Education（THE）2024年世界大学学科排名显示，ANU历史学位列全球第38位，其研究基础设施的开放程度直接影响学生论文质量。本文系统梳理ANU历史专业学生申请查阅原始档案的完整流程，以及如何预约研究馆员（Research Librarian）进行一对一学术咨询，以提升原始资料获取效率。

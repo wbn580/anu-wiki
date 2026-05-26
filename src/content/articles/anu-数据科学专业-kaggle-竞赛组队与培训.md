@@ -6,6 +6,7 @@ pubDatetime: '2026-04-05T19:54:33Z'
 publishDate: '2026-04-05T19:54:33Z'
 readingTime: 15
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）数据科学专业的学生参与Kaggle竞赛已成为学术训练与职业发展的重要环节。据Kaggle官方统计，截至2024年，该平台拥有超过1000万注册用户，其中活跃竞赛团队数量较2019年增长约340%【Kaggle, 2024, State of Data Science Report】。ANU计算机学院（School of Computing）自2021年起设立**数据科学竞赛课程**（COMP4660），将Kaggle竞赛成绩纳入正式学分评估体系，覆盖约120名本科生与研究生。此外，ANU数据科学俱乐部（ANU Data Science Club）每年组织约8-10支校内队伍参加Kaggle季赛，2023年参赛队伍在“Tabular Playground Series”中取得前5%的排名【ANU Data Science Club, 2023, Annual Activity Report】。这一趋势反映出Kaggle竞赛正从课外活动转变为ANU课程体系的有机组成部分，对学生的建模能力、团队协作与求职竞争力产生直接影响。

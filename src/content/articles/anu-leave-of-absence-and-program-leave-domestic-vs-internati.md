@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU leave of absence", "ANU program leave international student visa", "ANU maximum leave duration", "ANU domestic student leave policy", "ANU re-enrolment after leave"]
 slug: anu-leave-of-absence-program-leave-domestic-international-rules-visa-implications
 ogImage: ""
+
 ---
 
 The **ANU leave of absence** framework for 2026 introduces updated provisions that every student must understand before pausing their studies. According to the Australian National University's 2026 Enrolment Policy, approximately 8.3% of the total student population applies for some form of program leave annually, with international students accounting for nearly 42% of those applications. The Department of Home Affairs reported in early 2026 that visa compliance issues related to improper leave arrangements affected over 1,200 international students across Australian universities in the previous academic year. Navigating the distinction between **program leave** and **leave of absence** at ANU is not merely an administrative formality—it carries significant consequences for your enrolment status, student visa conditions, and future re-enrolment eligibility. This guide examines the rules governing both domestic and international students, explains visa implications in detail, and outlines the maximum permissible leave durations under current university statutes.

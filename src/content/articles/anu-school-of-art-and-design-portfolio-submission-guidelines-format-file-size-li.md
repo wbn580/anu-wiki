@@ -6,6 +6,7 @@ pubDatetime: '2026-04-22T19:57:46Z'
 publishDate: '2026-04-22T19:57:46Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）艺术与设计学院（School of Art and Design）的本科与研究生课程申请，通常要求提交一份作品集（Portfolio）作为核心评估材料。根据ANU官方2025年招生手册，作品集在录取决策中的权重约占60%至70%，其余部分由学术成绩和语言能力构成。对于2025年入学季，申请者需在2024年11月30日（第一轮）或2025年2月28日（第二轮）前完成提交【ANU 2024, Admissions Guide for International Undergraduate Applicants】。本文基于ANU官方发布的最新指南，系统梳理作品集的格式规范、文件大小限制、内容结构及评审标准，为申请者提供可操作的参考框架。

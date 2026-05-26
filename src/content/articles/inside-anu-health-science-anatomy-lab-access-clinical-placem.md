@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU health science anatomy lab", "ANU clinical placement locations", "ANU BHSc practical facilities", "ANU health science hospital placements", "ANU anatomy lab induction"]
 slug: anu-health-science-anatomy-lab-clinical-placements
 ogImage: ""
+
 ---
 
 The Australian National University Bachelor of Health Science program has seen a 23 percent increase in laboratory-based learning hours since 2024, reflecting a national trend toward hands-on clinical preparation. In 2026, ANU health science students will access over 200 hours of supervised anatomy laboratory sessions and complete clinical placements across at least five major Canberra-region healthcare facilities. These practical components are not optional extras—they form the core of a degree designed to bridge classroom theory with real-world patient care environments.

@@ -3,6 +3,7 @@ title: "ANU Student Life · Clubs, Sports, Events, and Canberra Living"
 description: "What student life is like at ANU — over 180 student clubs and societies, sports teams, major annual events, and what living in Canberra offers university students."
 category: "culture"
 publishDate: "2026-05-15T07:15:00Z"
+
 ---
 
 ANU's student life is shaped by two forces: the university's residential college system (which creates micro-communities) and Canberra's unique role as the national capital (which provides unparalleled access to political, cultural, and scientific institutions). Students repeatedly cite the combination of a "village feel" with world-class opportunities as ANU's defining social feature.

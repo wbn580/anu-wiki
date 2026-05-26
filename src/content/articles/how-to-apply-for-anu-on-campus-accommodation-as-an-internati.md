@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU accommodation", "international students Australia", "campus housing", "Canberra student life", "university residential halls"]
 slug: anu-on-campus-accommodation-international-students
 ogImage: ""
+
 ---
 
 Securing a place to live is one of the most critical steps in your journey to studying abroad. According to the Australian Department of Education's 2025 international student report, over 78% of first-year international students who chose managed university accommodation reported significantly higher satisfaction with their initial transition period compared to those in private rentals. The Australian National University guarantees on-campus housing for all commencing undergraduate international students who meet the application deadline, a commitment that processed over 1,200 international placements in the 2025 academic year. This guide breaks down exactly how to navigate the ANU on-campus accommodation application for the 2026 intake, ensuring you have a secure base from day one in Canberra.

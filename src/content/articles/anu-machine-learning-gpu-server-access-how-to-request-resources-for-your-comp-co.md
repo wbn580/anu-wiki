@@ -6,6 +6,7 @@ pubDatetime: '2026-05-11T20:01:27Z'
 publishDate: '2026-05-11T20:01:27Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）为计算机科学（COMP）课程的学生提供专用的**机器学习GPU服务器**访问权限，以支持深度学习模型训练和计算密集型项目。截至2024年，ANU信息技术服务部（ITS）与工程、计算与控制学院（CECS）联合管理的GPU集群包含超过**120块NVIDIA GPU**（包括V100、A100和RTX 4090等型号），供全校约**3,500名**在读COMP课程学生按需申请【ANU ITS 2024，High-Performance Computing Resource Allocation Report】。随着2025年第一学期COMP课程（如COMP4670深度学习、COMP6710高级机器学习）对GPU算力的需求同比增长约35%，理解资源请求流程和配额管理机制对按时完成课程项目至关重要。本文基于ANU官方文档和2024-2025学年最新政策，系统梳理GPU服务器访问申请步骤、配额限制及常见问题。

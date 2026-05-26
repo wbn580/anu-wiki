@@ -6,6 +6,7 @@ pubDatetime: '2026-03-23T19:51:53Z'
 publishDate: '2026-03-23T19:51:53Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）精算专业是澳大利亚精算师协会（Actuaries Institute）认证的核心课程之一。根据澳大利亚精算师协会2024年发布的《认证课程手册》，ANU精算学士（Bachelor of Actuarial Studies）及精算硕士（Master of Actuarial Studies）毕业生可申请最多**7门**基础科目免考，覆盖Foundation Program的全部5门课程及Part II Program的2门核心课程。这一政策直接缩短了学生获得正式精算师（Fellow, FIAA）资格的路径，较非认证院校毕业生平均节省**18至24个月**的考试周期。随着澳大利亚精算行业在2023年新增岗位需求同比增长12%（数据来源：澳大利亚统计局ABS 2023年《劳动力统计报告》），了解ANU免考政策对计划进入保险、养老金及金融风险管理领域的学生具有实际价值。

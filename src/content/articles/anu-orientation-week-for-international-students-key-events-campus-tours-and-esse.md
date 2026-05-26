@@ -6,6 +6,7 @@ pubDatetime: '2026-04-12T19:55:55Z'
 publishDate: '2026-04-12T19:55:55Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的迎新周（O-Week）是国际学生抵达堪培拉后融入校园生活的首个官方环节。根据ANU官网数据，2024年第一学期迎新周共有超过4,500名国际新生注册参加，占当季入学总人数的37%【ANU, 2024, Orientation Statistics】。澳大利亚教育部2023年报告显示，国际学生在抵达后前四周内完成行政注册与社交融入的比例，直接影响其第一学期学业保留率（retention rate）约12个百分点【Australian Department of Education, 2023, International Student Retention Report】。本文基于ANU官方日程与历年操作流程，系统梳理国际学生必须关注的五大核心模块：强制注册步骤、学术过渡活动、校园导航、社区融入机会以及签证合规要点。

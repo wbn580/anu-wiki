@@ -6,6 +6,7 @@ pubDatetime: '2026-04-08T19:55:06Z'
 publishDate: '2026-04-08T19:55:06Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 在澳大利亚国立大学（ANU）2023 年的本科生群体中，约有 12.5% 的课程注册以“未通过”（fail grade）告终，这一数据来自 ANU 规划与绩效测量办公室发布的《2023 年学生进展报告》。对于国际学生而言，一门课程的挂科可能触发学生签证条款（ESOS Act 2000）中关于学业进展不足的通报义务，进而影响签证状态。理解 ANU 的补考（Supplementary Assessment）、成绩申诉（Academic Appeals）以及挂科对学术记录的长期影响，是每位学生应对学业挫折时的必要知识储备。

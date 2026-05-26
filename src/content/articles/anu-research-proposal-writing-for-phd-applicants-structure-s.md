@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU PhD application", "research proposal writing", "Australian National University", "PhD admission tips", "graduate research"]
 slug: anu-phd-research-proposal-guide-structure-supervisors-pitfalls
 ogImage: ""
+
 ---
 
 Your research proposal is the single most important document in your Australian National University PhD application. According to the ANU Graduate Research Office's 2025 admission cycle data, approximately 68% of initial rejections stem from proposals that fail to demonstrate sufficient academic rigor or clear alignment with supervisory expertise. The QS World University Rankings by Subject 2025 places ANU among the top 40 globally for research output, meaning competition for PhD places is intense across all disciplines.

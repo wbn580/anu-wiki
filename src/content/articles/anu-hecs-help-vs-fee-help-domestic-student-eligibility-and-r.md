@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU", "HECS-HELP", "FEE-HELP", "domestic students", "repayment threshold", "Commonwealth Supported Place"]
 slug: anu-hecs-help-vs-fee-help-eligibility-repayment-thresholds
 ogImage: ""
+
 ---
 
 Navigating the landscape of Australian Government study loans can feel overwhelming, especially when you are weighing up the differences between **HECS-HELP** and **FEE-HELP** at a prestigious institution like the Australian National University (ANU). In 2026, domestic students continue to rely on these schemes as the primary mechanism to defer the cost of tertiary education, yet the eligibility criteria, loan limits, and repayment obligations differ significantly between the two. According to the Australian Taxation Office (ATO), over 3 million Australians carried a HELP debt in the 2024-25 financial year, with the total outstanding balance exceeding $80 billion. At ANU specifically, approximately 65% of domestic undergraduates are enrolled in a **Commonwealth Supported Place (CSP)**, making HECS-HELP the dominant loan type on campus.

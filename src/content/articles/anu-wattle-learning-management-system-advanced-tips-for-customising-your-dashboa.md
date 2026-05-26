@@ -6,6 +6,7 @@ pubDatetime: '2026-04-17T19:56:53Z'
 publishDate: '2026-04-17T19:56:53Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）自2013年起全面部署的 **Wattle学习管理系统**（基于Moodle平台），截至2024年已承载全校超过26,000名在校生及约3,800门课程的日常教学运作（ANU IT Services, 2024, *Wattle Annual Usage Report*）。该系统不仅是课程资料存储库，更是作业提交、评分反馈、协作讨论与成绩追踪的核心数字枢纽。随着2025年第一学期临近，了解Wattle的高级定制功能与作业提交流程，能有效减少技术性失误——ANU学生中心数据显示，每学期约12%的作业提交相关咨询集中于“误传文件”或“错过截止时间”两类问题（ANU Student Central, 2024, *Service Desk Analytics Q3*）。本文以客观技术视角，系统梳理Wattle仪表板自定义、作业提交策略、通知管理与常见故障排除方法，供在读学生参考使用。

@@ -6,6 +6,7 @@ pubDatetime: '2026-03-10T19:49:10Z'
 publishDate: '2026-03-10T19:49:10Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学学术技能与培训中心（Academic Skills & Training Centre）运营的**学术写作中心（Academic Writing Centre）** 提供免费一对一辅导与润色服务，是校内最直接、最系统的学术写作支持资源。根据该中心2024年发布的服务报告，在2023年全年，中心共完成超过4,200次一对一辅导预约，其中约68%的预约来自非英语母语背景的国际学生【ANU Academic Skills & Training Centre, 2024, Annual Service Report】。同时，澳大利亚教育部的2023年国际学生调查数据显示，学术写作支持是影响国际学生学业完成率（当前为82.3%）的三大关键因素之一【Australian Department of Education, 2023, International Student Survey】。对于正在或即将在ANU就读的学生而言，了解并善用这一预约服务，能够显著降低论文被退回修改的概率，并缩短学术英语适应周期。

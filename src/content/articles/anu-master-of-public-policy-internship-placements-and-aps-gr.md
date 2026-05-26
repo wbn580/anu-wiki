@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU public policy career", "ANU MPP internship", "APS graduate pathway", "Crawford School placements", "government graduate program"]
 slug: anu-mpp-internship-aps-graduate-pathways-2026
 ogImage: ""
+
 ---
 
 The Australian National University Master of Public Policy has become a defining credential for those seeking to shape legislation, design government programs, and lead reform across federal agencies. With the Australian Public Service expanding its graduate intake by 18 percent in the 2026 recruitment cycle and the Commonwealth committing to net-zero policy transformation, the demand for analytically trained policy professionals has never been stronger. **ANU public policy career** outcomes reflect this momentum. According to the 2026 QS World University Rankings by Subject, ANU remains Australia’s highest-ranked institution for politics and international studies, placing 8th globally. The Crawford School of Public Policy reports that 94 percent of its 2025 graduating cohort secured professional policy roles within six months, with nearly half entering the Australian Public Service directly.

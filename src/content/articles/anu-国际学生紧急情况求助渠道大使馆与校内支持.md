@@ -6,6 +6,7 @@ pubDatetime: '2026-03-06T19:48:18Z'
 publishDate: '2026-03-06T19:48:18Z'
 readingTime: 15
 tags: ["featured"]
+
 ---
 
 截至 2024 年，澳大利亚国立大学（ANU）在校国际学生总数超过 12,000 人，占全校学生总数的约 40%（Australian Government Department of Education, 2024, International Student Data）。面对文化适应、法律差异及突发安全事件，国际学生需要掌握清晰的紧急求助路径。ANU 校内设有 24/7 安保团队与专业学生支持部门，同时中国驻澳大利亚大使馆及领事馆为持有中国护照的学生提供领事保护与协助。本文以 ANU 为场景，梳理大使馆与校内两套支持系统的职能边界、联系渠道及实际操作流程，帮助学生在紧急状态下快速作出正确判断。

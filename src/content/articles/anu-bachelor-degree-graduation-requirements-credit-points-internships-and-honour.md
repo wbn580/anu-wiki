@@ -6,6 +6,7 @@ pubDatetime: '2026-04-08T19:55:06Z'
 publishDate: '2026-04-08T19:55:06Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）的学士学位毕业要求由**学分（Credit Points）**、**实习（Internships）** 和**荣誉学位（Honours）** 分类规则三部分构成。根据ANU 2024年《课程与评估政策》（Curriculum and Assessment Policy），所有学士学位课程需完成至少144个学分，其中必修课程占比不低于50%。同时，澳大利亚教育部2023年发布的《高等教育毕业率报告》（Higher Education Completion Rates Report）显示，ANU本科六年毕业率为74.2%，高于全国平均水平（71.1%）。本文系统梳理ANU学士学位的毕业条件，包括学分构成、实习要求、荣誉学位分类规则，以及常见问题解答。

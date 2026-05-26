@@ -6,6 +6,7 @@ pubDatetime: '2026-04-29T19:59:08Z'
 publishDate: '2026-04-29T19:59:08Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）经济与商业学院（CBE）在本科及研究生课程中广泛使用 **Stata 计量统计软件** 作为核心教学工具。根据 ANU 信息与技术服务部（ITS）2024 年发布的软件许可统计，全校每年支付超过 480,000 澳元用于 Stata 的站点许可（Site License），覆盖超过 2,800 台校园设备【ANU ITS 2024，Software Licensing Annual Report】。与此同时，Times Higher Education（THE）2025 年学科排名显示，ANU 经济学位列全球第 59 位，其教学对 Stata 等实证分析工具的依赖性持续上升。对于在校生而言，掌握 Stata 的个人设备安装方法以及了解校园计算机实验室的可用性，是完成课程作业与论文研究的必要前提。

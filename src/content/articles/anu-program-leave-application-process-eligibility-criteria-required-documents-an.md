@@ -6,6 +6,7 @@ pubDatetime: '2026-04-12T19:55:47Z'
 publishDate: '2026-04-12T19:55:47Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的**课程休学（Program Leave）申请**是学生因健康、经济或个人原因暂时中断学业的正规流程。根据澳大利亚内政部2024年更新的《学生签证条款（8104/8105）》，持学生签证（Subclass 500）的国际学生单次休学时长通常不得超过12个月，且需满足特定**资格条件（Eligibility Criteria）**。ANU官方数据显示，2023年该校共受理了1,247份休学申请，其中约68%来自国际学生（ANU Student Central, 2023 Annual Report）。在当前澳大利亚移民局收紧签证合规审查的背景下，理解休学申请对签证状态的影响——包括**签证条款（Visa Conditions）**的潜在变更——变得尤为关键。

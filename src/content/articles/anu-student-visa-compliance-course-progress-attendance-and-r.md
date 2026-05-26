@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU visa compliance", "international students Australia", "student visa conditions", "ANU academic progress", "Home Affairs reporting"]
 slug: anu-student-visa-compliance-progress-attendance-reporting
 ogImage: ""
+
 ---
 
 International education in Australia continues to expand, with the **Australian National University (ANU)** hosting over 9,000 international students from more than 130 countries as of 2026. Maintaining **student visa compliance** is not merely a bureaucratic formality—it directly affects your ability to remain in Australia and complete your degree. The Department of Home Affairs recorded over 47,000 student visa cancellations nationwide in the 2025–2026 financial year, with non-compliance in course progress and attendance among the leading causes. This guide explains exactly what ANU monitors, the thresholds you must meet, and how the university fulfills its reporting obligations under the Education Services for Overseas Students (ESOS) framework.

@@ -8,6 +8,7 @@ author: Senior Education Editor
 tags: ["ANU", "census date", "enrolment", "fee liability", "academic administration"]
 slug: anu-census-dates-enrolment-guide-2026
 ogImage: /img/og/待配.jpg
+
 ---
 
 Managing your enrolment at the Australian National University (ANU) requires more than just selecting courses. A critical administrative checkpoint—the census date—can determine your financial liability, academic record, and visa compliance. According to the Australian Government Department of Education, over 435,000 international students were enrolled in Australian higher education institutions in 2026, and each one must navigate census deadlines to avoid penalties. The ANU 2026 Academic Calendar outlines four distinct teaching periods, each with its own census date. Missing these dates can result in automatic fee charges, a "Withdrawn Late" notation on your transcript, or even visa complications for international students. This guide breaks down everything you need to know about ANU census dates, how they shape your enrolment changes, and the consequences of withdrawal after the deadline.

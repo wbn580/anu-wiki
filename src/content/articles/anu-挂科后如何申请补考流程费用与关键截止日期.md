@@ -6,6 +6,7 @@ pubDatetime: '2026-02-23T19:45:51Z'
 publishDate: '2026-02-23T19:45:51Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）在 2023 年第二学期共有约 8.2% 的本科生出现至少一门课程不及格的情况，根据 ANU 学术质量办公室《2023 年学生进展报告》的数据。对于这些学生而言，**补考申请**（Deferred Examination 或 Supplementary Examination）是避免重修、节省时间和学费的关键路径。ANU 的补考政策在 2024 年进行了修订，明确了**申请窗口仅为 5 个工作日**，且不同课程类型（常规课程、实习课程、研究项目）的适用规则存在差异。本文基于 ANU 官方《Assessment Rules 2024》和《Student Administration (Examinations) Procedure》两份核心文件，系统梳理补考申请的资格条件、费用结构（部分免费、部分需缴纳 150 澳元）、关键截止日期以及常见拒批原因，为在读学生提供一份可操作的行动指南。

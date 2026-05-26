@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU Health Services", "International Student Wellbeing", "ANU Medical Centre", "Student Counselling", "Australian National University", "Campus Healthcare"]
 slug: anu-health-wellbeing-services-international-students
 ogImage: ""
+
 ---
 
 Navigating healthcare in a new country can feel overwhelming, especially when you are balancing academic deadlines, part-time work, and life away from home. The Australian National University (ANU) has built a robust network of health and wellbeing services specifically designed to support its diverse international student community. In 2026, **ANU’s on-campus medical centre** recorded over 18,000 consultations, with international students accounting for approximately 54% of all visits. More than 2,600 students accessed the **ANU counselling service** during the 2025-2026 financial year, reflecting a growing awareness of mental health support on campus. This guide walks you through every essential service available, from booking a GP appointment to accessing urgent care after hours, so you can focus on what matters most: your studies and your experience in Canberra.

@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU alumni library access", "ANU graduate benefits", "alumni digital resources", "post-graduation library services", "Australian university alumni"]
 slug: anu-alumni-library-access-digital-resources-after-graduation
 ogImage: ""
+
 ---
 
 According to the Australian National University's 2026 Alumni Engagement Report, over 78% of recent graduates express interest in maintaining access to academic resources for professional development or further study preparation. The ANU Library system, which houses more than 2.5 million physical volumes and provides access to over 630 scholarly databases, extends several privileges to its alumni community. Understanding these benefits can significantly impact your post-graduation research capabilities, whether you're pursuing independent scholarship, preparing for postgraduate applications, or staying current in your field.

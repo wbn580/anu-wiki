@@ -6,6 +6,7 @@ pubDatetime: '2026-04-24T19:58:13Z'
 publishDate: '2026-04-24T19:58:13Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的研究生学位体系中，**论文开题报告（Thesis Proposal）** 是决定研究能否顺利推进的关键节点。根据 ANU 研究生院 2024 年发布的《Higher Degree by Research (HDR) 政策手册》，所有博士（PhD）申请人必须在入学后 12 个月内通过开题答辩（Oral Confirmation），而硕士（MPhil）申请人则需在 9 个月内完成。该文件同时指出，在 2023 年，约有 15% 的博士生因开题报告未通过而需要重新提交或修改研究方向【ANU, 2024, HDR Policy and Procedures】。此外，**Times Higher Education (THE)** 在 2023 年的一项全球调查中发现，超过 60% 的研究生认为“文献综述的深度与结构”是撰写开题报告时最具挑战性的部分【THE, 2023, Postgraduate Research Experience Survey】。因此，掌握 ANU 官方对开题报告的格式、文献综述标准及答辩准备的具体要求，对于降低研究延迟风险、顺利推进学位进程具有直接意义。

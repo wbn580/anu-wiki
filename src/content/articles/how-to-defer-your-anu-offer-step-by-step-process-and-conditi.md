@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU defer offer", "ANU defer admission postgraduate", "ANU deferral conditions scholarship", "defer ANU enrolment", "ANU gap year"]
 slug: how-to-defer-anu-offer-step-by-step-process-conditions-2026
 ogImage: ""
+
 ---
 
 Planning to take a gap year, manage unexpected personal circumstances, or coordinate your arrival timeline? Understanding the **ANU defer offer process** is essential before you make any decisions. The Australian National University (ANU), consistently ranked among the world's top 30 institutions in the QS World University Rankings 2026, receives over 15,000 deferral requests annually across its undergraduate and postgraduate programs. Approximately 68% of these requests are approved when submitted with valid documentation and within specified timeframes.

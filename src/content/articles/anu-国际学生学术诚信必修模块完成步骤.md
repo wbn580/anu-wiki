@@ -6,6 +6,7 @@ pubDatetime: '2026-03-11T19:49:14Z'
 publishDate: '2026-03-11T19:49:14Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）自2023年起，要求所有新入学的国际学生在入学后28天内完成**学术诚信必修模块**（Academic Integrity Module）。该模块旨在系统性地降低学术不端行为发生率——根据ANU 2022年内部数据，约14.7%的首次违规案例发生在入学前6周内【ANU Academic Skills, 2022, *Academic Integrity Annual Report*】。截至2024年，未完成该模块的学生将被锁闭Wattle课程系统，无法提交作业或查看成绩，直接影响签证状态的学业进展要求，因为澳大利亚移民局规定国际学生必须保持“令人满意的课程进度”【Australian Department of Home Affairs, 2024, *Student Visa Conditions*】。本条目详细拆解该模块的完成步骤、常见障碍及后续影响。

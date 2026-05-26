@@ -6,6 +6,7 @@ pubDatetime: '2026-02-25T19:46:34Z'
 publishDate: '2026-02-25T19:46:34Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）每年约有 3% 至 5% 的本科生申请休学（Leave of Absence），根据澳大利亚教育部 2023 年《国际学生数据报告》（Department of Education, International Student Data 2023），2022 年全澳高校国际学生休学申请总数超过 1.5 万例。休学并非简单暂停学业，而是涉及学籍保留、课程规划、学生签证（Subclass 500）合规性以及医疗保险（OSHC）连续性等多重法律与行政程序。随着澳大利亚移民局（Department of Home Affairs）自 2023 年起收紧对国际学生出勤率和学业进展的合规审查，正确理解 ANU 休学申请流程及其对签证的影响已成为在校生必须掌握的关键信息。

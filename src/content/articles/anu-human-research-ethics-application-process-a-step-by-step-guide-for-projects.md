@@ -6,6 +6,7 @@ pubDatetime: '2026-04-18T19:57:01Z'
 publishDate: '2026-04-18T19:57:01Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）所有涉及人类参与者的研究项目，包括使用调查问卷和访谈的方法，必须在数据收集前获得人类研究伦理委员会（HREC）的批准。根据ANU研究服务部门2024年发布的《人类研究伦理政策》，任何涉及“与人类参与者互动或收集其个人/敏感信息”的项目均需提交伦理申请。2023年，ANU共受理了超过1,200份伦理审查申请，其中约65%涉及调查或访谈方法【ANU Research Services, 2024, Human Research Ethics Policy】。随着2025年《国家伦理声明》（National Statement on Ethical Conduct in Human Research）更新版生效，研究者在申请流程中需额外关注数据管理计划与参与者同意机制的合规性。本文为计划在ANU开展调查或访谈项目的学生和研究人员提供一份基于官方流程的步骤指南。

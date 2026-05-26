@@ -6,6 +6,7 @@ pubDatetime: '2026-05-16T20:02:18Z'
 publishDate: '2026-05-16T20:02:18Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的先进显微镜中心（Centre for Advanced Microscopy, CAM）是澳大利亚国家显微镜网络（Australian Microscopy & Microanalysis Research Facility, AMMRF）的核心节点之一。该中心配备超过15台电子显微镜，包括多台扫描电子显微镜（SEM）和透射电子显微镜（TEM），其设备总价值超过2500万澳元，每年为超过400名研究人员和研究生提供技术支持（ANU CAM, 2024, Annual Facility Report）。随着材料科学、生物学和纳米技术领域对高分辨率成像需求的持续增长，掌握CAM的SEM和TEM操作已成为ANU相关学科研究生的核心技能。本文系统梳理CAM的培训路径、设备预约规则及样品制备标准，为计划使用该设施的学生提供操作指南。

@@ -8,6 +8,7 @@ author: cowork
 tags: []
 slug: anu-postgraduate-accommodation-guide-international-2026
 ogImage: ""
+
 ---
 
 Planning your move to the Australian National University as an international postgraduate student is exciting—but finding the right place to live can feel overwhelming. According to the **ANU 2026 International Student Housing Report**, over 3,400 postgraduate students applied for on-campus accommodation in the previous academic cycle, with demand peaking between October and January. The **ANU Accommodation Services** data shows that early applicants are **47% more likely** to receive their first preference, especially for high-demand residences like Graduate House.

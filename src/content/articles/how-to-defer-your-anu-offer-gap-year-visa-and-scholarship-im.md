@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU defer offer", "ANU gap year policy", "ANU deferral international student visa", "ANU scholarship deferment", "university admissions"]
 slug: how-to-defer-anu-offer-gap-year-visa-scholarship
 ogImage: ""
+
 ---
 
 Navigating the decision to **defer your ANU offer** requires understanding a structured yet nuanced university policy. According to the Australian National University's 2026 Admissions Guide, approximately 8% of incoming domestic undergraduates and 12% of international offer-holders formally request a deferral each academic cycle. For international students, the stakes are particularly high, as the Department of Home Affairs reported that in 2025, visa grants linked to deferred enrolments faced additional scrutiny if not accompanied by a valid Confirmation of Enrolment (CoE) update.

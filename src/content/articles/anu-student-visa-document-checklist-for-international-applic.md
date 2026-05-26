@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU student visa documents", "Australian visa checklist ANU", "subclass 500 ANU requirements", "ANU visa financial proof", "ANU international admissions"]
 slug: anu-student-visa-document-checklist-2026
 ogImage: ""
+
 ---
 
 International students aiming for the Australian National University in 2026 face a critical milestone after receiving their Confirmation of Enrolment: securing the **Student Visa (Subclass 500)**. In 2025, the Department of Home Affairs processed over 590,000 student visa applications globally, with a median processing time of 28 days for the higher education sector. For ANU applicants, incomplete documentation remains the leading cause of visa delays, according to the university's International Student Support unit. This guide breaks down the **ANU student visa documents** you must prepare, from **financial proof** to health checks, ensuring your application meets both immigration and university-specific expectations.

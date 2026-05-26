@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU accommodation", "on-campus housing", "international students", "residential colleges", "Australian National University"]
 slug: anu-on-campus-accommodation-application-guide-2026
 ogImage: ""
+
 ---
 
 The Australian National University (ANU) offers one of the most comprehensive on-campus accommodation systems in Australia, with over **5,200 beds** distributed across residential colleges, halls of residence, and self-catered lodges. For international students commencing in Semester 1, 2026, securing a room requires strategic planning—the **ANU accommodation application deadline** for guaranteed placement falls on **15 December 2025**, and demand consistently outstrips supply in popular residential colleges. According to the ANU Residential Experience Division’s 2025 occupancy report, **94% of first-year international students** who applied by the priority deadline received an offer, compared to just 61% of late applicants. This guide walks you through every stage of the process, from understanding the nuanced differences between ANU lodges and halls to calculating **ANU on-campus housing costs for international students** and submitting a competitive application to **ANU residential colleges**.

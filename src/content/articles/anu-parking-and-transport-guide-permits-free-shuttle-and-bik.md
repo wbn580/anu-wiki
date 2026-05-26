@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU campus facilities", "ANU parking permits", "ANU shuttle bus", "ANU cycling", "Canberra transport"]
 slug: anu-parking-transport-guide-2026
 ogImage: ""
+
 ---
 
 The Australian National University (ANU) campus in Acton spans over 145 hectares and hosts more than 20,000 students and 4,000 staff members each year. With **Canberra's public transport network** undergoing significant upgrades through the Light Rail Stage 2A project, understanding your commuting options has never been more important. A 2025 ANU Transport Survey revealed that 38% of campus users still drive to campus at least three days per week, while cycling adoption has grown by 14% since 2023. This guide consolidates the latest information on **ANU parking permit costs**, the **free shuttle bus route**, **bike storage locations**, and **public transport to campus** for 2026, helping you plan a smoother, more affordable commute.

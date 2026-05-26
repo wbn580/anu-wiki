@@ -6,6 +6,7 @@ pubDatetime: '2026-05-12T20:01:32Z'
 publishDate: '2026-05-12T20:01:32Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）学生卡（Student Card）是学生在校期间的核心身份凭证，兼具门禁、考试身份核验、图书馆借阅、打印服务及校园消费等功能。根据ANU官方学生服务数据，每学年平均有超过1,200张学生卡因遗失或被盗需要补办【ANU Student Central, 2023, *Student Card Replacement Statistics*】。同时，澳大利亚联邦政府《2024年个人身份安全指南》指出，学生证等含照片的校园ID若未及时挂失，可能被用于未经授权的校园设施进入或身份冒用【Australian Government, 2024, *Identity Security Guidelines for Education Providers*】。本文系统梳理ANU学生卡丢失后的在线挂失流程、临时通行权限获取方案、补办费用及时间节点，为在校生提供可操作的标准化处理路径。

@@ -6,6 +6,7 @@ pubDatetime: '2026-03-17T19:50:40Z'
 publishDate: '2026-03-17T19:50:40Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）主校区Acton Campus部署了覆盖超过95%教学与公共区域的无线网络系统，由ANU IT Services统一管理，截至2024年，校园内共设有超过1,200个无线接入点（AP），支持eduroam与ANU-Secure两套SSID，日均连接设备数超过18,000台【ANU IT Services, 2024, Wireless Network Annual Report】。随着2025年澳大利亚政府网络安全强化政策生效，所有连接校园网络的设备必须通过多因素认证（MFA）验证，这使得VPN（虚拟专用网络）成为校外访问图书馆数据库、内部系统及研究资源的必要工具【Australian Cyber Security Centre, 2024, Essential Eight Maturity Model Update】。本文基于ANU官方技术文档，系统梳理校园无线网络覆盖区域、连接参数与VPN配置流程，为在校生与研究人员提供可操作的设置指南。

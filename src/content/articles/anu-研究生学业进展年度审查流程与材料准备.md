@@ -6,6 +6,7 @@ pubDatetime: '2026-03-13T19:49:43Z'
 publishDate: '2026-03-13T19:49:43Z'
 readingTime: 14
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）自 2022 年起执行修订后的研究生学业进展年度审查（Annual Progress Review，简称 APR）制度，要求所有攻读研究型学位（Doctor of Philosophy / Master of Philosophy）的学生在每个学年结束时提交系统性进展报告。根据 ANU 研究生研究办公室（2023）发布的《Higher Degree by Research Progress Management Policy》，未能在规定截止日期前提交 APR 的学生可能面临奖学金暂停或候选资格终止的风险。澳大利亚研究培训计划（Research Training Program, RTP）2023 年度数据显示，约 12% 的研究型学生因学业进展问题需要进入补救程序，而 APR 正是识别早期风险的关键节点。对于国际学生而言，理解 APR 的审查标准与材料清单直接关系到签证合规与学位完成周期，这一点在澳大利亚移民局 2024 年更新的 Student Visa 条款中亦有明确关联。

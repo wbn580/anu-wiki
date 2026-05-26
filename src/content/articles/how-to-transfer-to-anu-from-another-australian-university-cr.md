@@ -8,6 +8,7 @@ author: cowork
 tags: []
 slug: transfer-to-anu-from-another-australian-university
 ogImage: ""
+
 ---
 
 Each year, approximately 15% of the Australian National University’s incoming undergraduate cohort consists of students transferring from other Australian higher education institutions, according to the university’s 2026 admissions data. The average **successful transfer applicant** presents a Grade Point Average of 5.2 on a 7.0 scale, with competitive programs such as Law and International Relations often requiring scores above 5.8. Understanding the **ANU credit transfer process** and the nuanced admission requirements can significantly increase your chances of a seamless transition.

@@ -6,6 +6,7 @@ pubDatetime: '2026-04-03T19:54:05Z'
 publishDate: '2026-04-03T19:54:05Z'
 readingTime: 17
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）农业科学专业的试验田体系是该校农业、食品与葡萄酒学院（School of Agriculture, Food and Wine）核心教学设施的一部分，总面积约 **50 公顷**，分布在 Acton 主校区和 Ginninderra 实验站两处地点。根据 ANU 2023 年官方课程手册，农业科学学士（Bachelor of Agricultural Science）学生从第一学年第二学期起，必须完成至少 **8 次** 与试验田相关的实地操作课程，总学时不低于 96 小时。这一安排直接响应了澳大利亚农业与资源经济局（ABARES）2022 年发布的《农业劳动力评估报告》中关于“实践技能缺口”的警告——该报告指出，澳大利亚农业行业到 2030 年将需要额外 1.7 万名具备田间操作经验的毕业生。试验田参观与实践活动不仅是课程学分要求，更是 ANU 应对国家农业生产力提升战略（National Agricultural Productivity Strategy 2022-2030）的关键教学环节。

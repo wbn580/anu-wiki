@@ -6,6 +6,7 @@ pubDatetime: '2026-05-07T20:00:37Z'
 publishDate: '2026-05-07T20:00:37Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）要求所有国际学生在学生签证（Subclass 500）持有期间购买海外学生健康保险（OSHC）。根据澳大利亚政府内政部（Department of Home Affairs）2023年发布的数据，OSHC是签证强制条件，覆盖医生问诊、公立医院住院和部分救护车服务。然而，基础OSHC通常不包含牙科、验光（配镜）和物理治疗等项目。据澳大利亚私立医疗协会（Australian Private Hospitals Association, 2023）统计，约68%的国际学生会在签证期内至少使用一次牙科或物理治疗服务。对于ANU学生而言，是否购买OSHC附加险（Extras Cover）以覆盖这些常见但非紧急的医疗需求，成为一个需要根据个人使用频率和成本进行量化分析的实际决策。

@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU part-time work", "student visa work rights", "international student employment", "Australian tax for students", "Canberra student jobs"]
 slug: anu-part-time-work-rights-international-students
 ogImage: ""
+
 ---
 
 Navigating the Australian job market as an international student requires a clear understanding of your legal entitlements, tax obligations, and the practical realities of securing employment. At the Australian National University, over **6,800 international students** from more than 100 countries are currently enrolled in 2026, many of whom rely on part-time work to supplement their living expenses in Canberra. According to the Department of Home Affairs, international students in Australia contributed over **$25.5 billion** to the economy in the 2025 calendar year, with part-time employment forming a significant portion of this engagement.

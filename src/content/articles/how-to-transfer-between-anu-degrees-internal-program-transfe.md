@@ -8,6 +8,7 @@ author: cowork
 tags: ["anu internal transfer", "anu degree transfer process", "switch programs anu", "anu course change", "australian national university transfer"]
 slug: anu-internal-degree-transfer-process-2026
 ogImage: ""
+
 ---
 
 ## Understanding ANU Internal Program Transfers

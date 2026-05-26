@@ -6,6 +6,7 @@ pubDatetime: '2026-04-15T19:56:31Z'
 publishDate: '2026-04-15T19:56:31Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）研究生学位论文（Masters Thesis）的提交流程包含三项核心硬性要求：格式审查（Formatting Review）、Turnitin 原创性报告（Similarity Report）以及最终装订与提交（Binding and Submission）。根据 ANU 研究生研究办公室（HDR Office, 2025）发布的《Thesis Submission Guidelines》，未通过格式审查的论文将被延迟授予学位，而 Turnitin 相似度超过 15% 的论文可能触发学术诚信调查。同时，澳大利亚教育部（Department of Education, 2024）数据显示，2023 年 ANU 研究生论文平均提交周期为 14.6 周，其中约 22% 的延误直接源于格式或相似度报告不合规。本文基于 ANU 官方政策文件，系统梳理从格式检查到最终装订的全流程操作清单，帮助研究生在截止日期前一次性通过所有审查环节。

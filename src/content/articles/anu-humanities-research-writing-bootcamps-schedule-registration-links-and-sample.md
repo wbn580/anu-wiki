@@ -6,6 +6,7 @@ pubDatetime: '2026-04-18T19:56:58Z'
 publishDate: '2026-04-18T19:56:58Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）人文研究写作训练营（Humanities Research Writing Bootcamps）是该校学术技能中心（Academic Skills Centre）与人文与社会科学学院（College of Arts and Social Sciences）联合推出的密集型写作支持项目。该计划自2018年启动以来，每年举办3至4期，每期持续5个工作日，累计服务超过1,200名研究生及早期职业研究人员。根据ANU 2023年内部评估报告，参与者在训练营期间的平均日均写作产出量达到1,500词，较非参与阶段的日均400词提升275%。在当前学术出版竞争加剧的背景下——据《泰晤士高等教育》（Times Higher Education, 2024）数据，全球人文领域博士平均完成学位时间已达8.2年——此类结构化写作干预对缩短论文周期、提升发表效率具有可量化的实证价值。

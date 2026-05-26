@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU counselling", "mental health support", "student wellbeing", "academic adjustments", "crisis contacts"]
 slug: anu-mental-health-support-counselling-first-appointment
 ogImage: ""
+
 ---
 
 Navigating mental health support at university can feel overwhelming, but understanding the process before you begin makes a significant difference. In 2026, the Australian National University continues to expand its mental health services, with **over 8,500 counselling sessions** delivered annually through the ANU Counselling and Wellbeing team. A 2025 student experience survey indicated that **74% of ANU students** who accessed on-campus counselling reported improved coping strategies within three sessions. This guide walks you through exactly what to expect from your first appointment, how to book, what after-hours support exists, and how mental health intersects with your academic responsibilities.

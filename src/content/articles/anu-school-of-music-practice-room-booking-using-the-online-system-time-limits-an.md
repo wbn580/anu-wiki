@@ -6,6 +6,7 @@ pubDatetime: '2026-05-01T19:59:35Z'
 publishDate: '2026-05-01T19:59:35Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）音乐学院（School of Music）位于堪培拉Acton校区，其Llewellyn Hall与Peter Karmel Building内共设有超过40间练习室，供学生日常练习与排练使用。根据ANU官方2024年发布的《学生设施使用指南》，学院练习室的日均使用率在学期中超过78%，高峰时段（周一至周五16:00–20:00）预约等候时间平均为23分钟【ANU, 2024, *Student Facilities Usage Guidelines*】。与此同时，ACT政府2023年的一份文化设施审计报告指出，ANU音乐学院是堪培拉地区最大的公共音乐练习空间提供方，其钢琴保有量占全城院校钢琴总数的34%【ACT Government, 2023, *Cultural Infrastructure Audit Report*】。随着2025年第一学期选课系统开放，练习室预约规则与钢琴维护条款成为新生与访校学生最常查询的行政事项之一。

@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU arts degree employment", "ANU BA graduate outcomes", "ANU political science careers", "ANU digital humanities jobs", "Australian National University Bachelor of Arts"]
 slug: anu-bachelor-of-arts-majors-employment-outcomes
 ogImage: ""
+
 ---
 
 The Australian National University Bachelor of Arts remains one of the country’s most intellectually rigorous humanities and social sciences degrees, yet prospective students increasingly ask a practical question: which majors actually deliver strong employment outcomes? According to the 2025 Graduate Outcomes Survey National Report, humanities and social sciences graduates from ANU achieved a **full-time employment rate of 79.4%** within four months of course completion, outperforming the national average for arts graduates by nearly seven percentage points. The 2026 QS World University Rankings by Subject place ANU in the global top 20 for politics, history, and philosophy, reinforcing that **ANU arts degree salary outcomes** are shaped by both institutional prestige and strategic major selection.

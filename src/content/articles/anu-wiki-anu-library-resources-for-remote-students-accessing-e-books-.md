@@ -8,6 +8,7 @@ author: Study Abroad Editorial Team
 tags: ["ANU library remote access", "e-books", "digital databases", "off-campus study", "interlibrary loan"]
 slug: anu-library-resources-remote-students
 ogImage: /img/og/待配.jpg
+
 ---
 
 Remote study at the Australian National University doesn't mean limited library access. In 2026, ANU's digital collection exceeds **4.2 million e-books** and **130,000 electronic journals**, supported by an annual library expenditure of AUD 47 million. Over **78% of enrolled students** now access these resources from outside Canberra, according to the university's 2025 Annual Library Report. This guide covers everything remote learners need to know about navigating ANU's vast digital ecosystem, from authentication workflows to interlibrary loan services that connect you with global collections.

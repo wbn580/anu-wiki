@@ -8,6 +8,7 @@ author: Senior Research Editor
 tags: ["ANU research proposal", "supervisor matching", "graduate research application", "proposal format", "HDR application"]
 slug: anu-research-proposal-writing-format-expectations-supervisor-matching
 ogImage: /img/og/待配.jpg
+
 ---
 
 The **Australian National University (ANU)** consistently ranks among the world's top 50 institutions, with over 6,000 higher degree by research (HDR) candidates enrolled as of 2025. Crafting a compelling **ANU research proposal** remains the single most decisive factor in securing a place within this competitive research ecosystem. According to the ANU Graduate Research Office, approximately 40% of initial applications are rejected not due to academic merit, but because of misalignment between the proposed research and available supervisory expertise. This guide unpacks the essential components of a successful **graduate research application**, from structural formatting to strategic supervisor engagement.

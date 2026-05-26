@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU health services", "student mental health", "university counseling", "international student wellbeing", "medical care on campus"]
 slug: anu-health-wellbeing-services-students-counseling-medical-mental-health
 ogImage: ""
+
 ---
 
 Navigating university life at the Australian National University means balancing academic pressures, social transitions, and personal challenges. A 2026 survey by Universities Australia found that **over 68% of domestic and international students** reported experiencing elevated stress levels during their degree, while the National Student Wellbeing Report 2026 indicated that **timely access to on-campus health services** significantly improved academic retention rates. ANU has responded by expanding its integrated health and wellbeing ecosystem, ensuring every student—whether local or arriving from abroad—can find professional, confidential, and free or low-cost care. This guide walks through the **ANU student counseling service**, **medical centre appointment** procedures, **mental health support** pathways, and dedicated **ANU wellbeing services international** students can rely on from day one.

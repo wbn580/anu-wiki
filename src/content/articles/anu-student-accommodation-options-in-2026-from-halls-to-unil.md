@@ -8,6 +8,7 @@ author: cowork
 tags: []
 slug: anu-student-accommodation-2026-halls-unilodge-private-rentals
 ogImage: ""
+
 ---
 
 Finding the right place to live is a critical step for anyone preparing to study at the Australian National University (ANU) in 2026. With the university expecting over 10,500 students to reside in some form of ANU-affiliated or private housing next year, the demand for quality accommodation continues to rise. According to the ANU Accommodation Services 2026 Projections Report, on-campus occupancy rates are forecasted to reach 98% by February, underscoring the need for early planning. This guide breaks down the main **ANU accommodation 2026** pathways: traditional residential halls, UniLodge-managed apartments, and the private rental market. You will find concrete cost estimates, application deadlines, and practical comparisons to help you make a confident decision.

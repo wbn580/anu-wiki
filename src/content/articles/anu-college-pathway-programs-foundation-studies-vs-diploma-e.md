@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU College", "pathway programs", "Foundation Studies", "Diploma", "international students", "university admission"]
 slug: anu-college-pathway-foundation-vs-diploma-bachelor
 ogImage: ""
+
 ---
 
 International students targeting Australia's prestigious **Australian National University (ANU)** often face a critical decision: which pathway program offers the most reliable route to a bachelor degree? ANU College, the official on-campus pathway provider, delivers two primary academic tracks—**ANU College Foundation Studies** and **ANU College Diploma programs**—each engineered to bridge the gap between secondary education and rigorous university coursework. According to the Australian Government Department of Education's 2026 international enrolment data, ANU remains the nation's top-ranked university as per QS World University Rankings 2026, drawing over 10,000 international students from more than 130 countries. ANU College reports that approximately 95% of its pathway graduates who meet GPA requirements secure a place in their chosen ANU bachelor program, making the selection between Foundation Studies and Diploma entry a decision with measurable consequences for academic trajectory and visa planning.

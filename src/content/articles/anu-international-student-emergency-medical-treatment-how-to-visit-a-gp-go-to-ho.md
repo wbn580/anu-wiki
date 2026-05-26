@@ -6,6 +6,7 @@ pubDatetime: '2026-04-28T19:58:59Z'
 publishDate: '2026-04-28T19:58:59Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）的国际学生签证要求持有 **Overseas Student Health Cover (OSHC)**，该保险覆盖在澳期间的紧急医疗和部分常规诊疗费用。根据澳大利亚政府《2024 年国际学生签证条款》（Migration Regulations 1994, Schedule 5A），持学生签证者必须连续投保 OSHC，平均年保费约为 477 澳元（单人）至 1,900 澳元（家庭），具体取决于保险公司。截至 2024 年，ANU 注册国际学生约 12,000 人，其中约 35% 在入学第一年内至少使用过一次医疗系统，但多数人对 GP（全科医生）预约、公立医院急诊流程及 OSHC 理赔步骤缺乏系统认知。本文基于澳大利亚卫生部（Department of Health and Aged Care, 2024）及 OSHC 提供商标准条款，拆解从就医到索赔的全路径。

@@ -6,6 +6,7 @@ pubDatetime: '2026-03-29T19:53:10Z'
 publishDate: '2026-03-29T19:53:10Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）建筑设计专业下设的模型制作工作室（Model Making Workshop）是建筑与设计学士（Bachelor of Design）及建筑学硕士（Master of Architecture）学生的核心实践设施。根据ANU 2024年《校园设施安全手册》，该工作室位于Peter Karmel Building西翼，配备激光切割机、3D打印机、CNC铣床及木工加工设备共37台，年使用人次超过8,200次【ANU 2024, Campus Facilities Safety Manual】。随着2025年QS世界大学学科排名中ANU建筑与建筑环境学科位列全球第51位【QS 2025, QS World University Rankings by Subject】，该工作室的使用规定成为新生及转学生必须掌握的基础信息。本文系统梳理工作室的准入流程、设备预约规则、材料管理政策及安全规范，数据均来源于ANU官方文件及2023-2025年学生手册修订版。

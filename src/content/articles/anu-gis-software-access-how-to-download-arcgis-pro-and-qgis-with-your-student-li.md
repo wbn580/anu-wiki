@@ -6,6 +6,7 @@ pubDatetime: '2026-05-01T19:59:27Z'
 publishDate: '2026-05-01T19:59:27Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）为在校学生提供多种地理信息系统（GIS）软件的免费或折扣访问权限，涵盖行业标准工具ArcGIS Pro与开源平台QGIS。据ANU信息技术服务部2024年发布的《学生软件目录》，该校所有注册学生均可通过ArcGIS Online门户免费获取ArcGIS Pro的年度学生许可，该许可包含全套空间分析、3D可视化和数据管理功能。同时，ANU Fenner School of Environment & Society与College of Science联合开设的GIS训练课程，每学期可容纳超过200名学生注册，课程内容从基础制图到高级空间统计全覆盖。随着地理空间技术在环境科学、公共政策、城市规划等领域的应用需求在澳大利亚增长约18%（2023年澳大利亚地理空间产业报告），掌握这些工具已成为ANU学生提升学术竞争力和就业能力的直接路径。

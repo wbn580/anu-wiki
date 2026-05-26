@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU science communication internship", "ANU Questacon placement", "ANU science media fieldwork", "ANU MScComm portfolio", "ANU CSIRO internship"]
 slug: anu-master-science-communication-fieldwork-internships-2026
 ogImage: ""
+
 ---
 
 The Australian National University Master of Science Communication continues to stand as one of the most practice-intensive postgraduate degrees in the Southern Hemisphere. With over 85% of the 2026 cohort expected to complete at least one external placement before graduation, and with institutional partners reporting a 92% satisfaction rate among host supervisors in the most recent internal review, the program’s fieldwork and internship components are not optional extras—they are the core of the degree. For applicants weighing how to build a competitive professional portfolio while still studying, the **ANU science communication internship** ecosystem offers pathways through Questacon, CSIRO, and specialist science media outlets that are difficult to replicate elsewhere in Australia. This guide examines the fieldwork structures, application timing, portfolio outputs, and the institutional relationships that shape these opportunities.

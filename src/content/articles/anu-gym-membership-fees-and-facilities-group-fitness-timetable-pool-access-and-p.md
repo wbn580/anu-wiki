@@ -6,6 +6,7 @@ pubDatetime: '2026-04-18T19:56:56Z'
 publishDate: '2026-04-18T19:56:56Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）体育中心（ANU Sport & Recreation）是校园内主要的健身与运动服务提供方，其运营的**ANU Gym**位于Acton校区。根据ANU Sport官方2024-2025年费率表，全日制学生标准会员费为每学期（约20周）**AUD 299**，非高峰时段（Off-Peak）会员费为**AUD 199**，价格低于堪培拉商业健身房平均水平的约25%（对比数据来源：Australian Sports Commission, 2023, *AusPlay Survey*）。该中心设施涵盖25米室内恒温泳池、8片标准篮球场/排球场、自由力量区及有氧设备区，并每周提供超过**50节**团体健身课程。随着2024年ANU学生生活成本调查（ANU Student Life Survey, 2024）显示，**67%** 的受访学生将“校园内健身设施可及性”列为选择住宿与生活配套的关键因素，其会员结构与服务选项值得系统梳理。

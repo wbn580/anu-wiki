@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU PhD parental leave", "ANU childcare support", "ANU candidature leave policy", "ANU student parent resources", "ANU campus childcare waitlist"]
 slug: anu-parental-leave-childcare-support-phd-candidates-staff-2026
 ogImage: ""
+
 ---
 
 Balancing doctoral research with starting or expanding a family presents unique challenges. The Australian National University has progressively expanded its support framework for PhD candidates and staff members navigating parenthood. According to the 2026 ANU Student Experience Survey, approximately 14% of enrolled PhD candidates identify as parents or primary carers, a figure that has risen steadily from 11% in 2023. ANU's 2026-2028 Equity and Inclusion Strategy reports that institutional investment in family-friendly infrastructure increased by 23% over the previous triennium.

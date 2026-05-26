@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU academic skills help", "ANU writing centre", "ANU peer mentor assignment", "ANU study skills workshop booking", "Australian National University support"]
 slug: anu-academic-skills-centre-guide-2026
 ogImage: ""
+
 ---
 
 The Australian National University consistently ranks among the world's top 50 institutions, with a 2026 QS World University Ranking placement of 34th globally and a five-star rating for teaching quality from the Good Universities Guide 2026. Despite this prestige, over 62% of ANU undergraduates seek some form of academic skills support during their degree, according to the university's 2025 Student Experience Survey. The **ANU Academic Skills Centre** exists precisely to bridge this gap, offering free, confidential assistance that ranges from quick assignment feedback to semester-long peer mentoring relationships.

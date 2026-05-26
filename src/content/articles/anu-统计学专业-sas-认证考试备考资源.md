@@ -6,6 +6,7 @@ pubDatetime: '2026-03-21T19:51:30Z'
 publishDate: '2026-03-21T19:51:30Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）统计学专业的学生在备考 SAS 认证考试时，可依托校内一系列官方课程与图书馆资源。SAS 是全球数据分析与商业智能领域使用最广泛的统计软件之一，其认证体系由 SAS Institute 直接管理，分为基础编程（Base Programming）、高级编程（Advanced Programming）、统计分析（Statistical Analysis）等多个级别。根据 SAS Institute 2023 年发布的《SAS Global Certification Program Guide》，全球持有 SAS 认证的专业人员超过 20 万人，其中澳洲地区年增长率约为 8%。对于 ANU 统计学本科生与研究生而言，掌握 SAS 技能并获取认证，可直接提升在澳洲政府统计局（Australian Bureau of Statistics, 2023）及金融行业的就业竞争力。

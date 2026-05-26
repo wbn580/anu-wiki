@@ -8,6 +8,7 @@ author: StudyAbroad Editorial Team
 tags: ["ANU exam preparation", "past papers", "study spaces", "revision tips", "exam venues"]
 slug: anu-exam-preparation-past-papers-study-spaces-revision-strategies
 ogImage: /img/og/待配.jpg
+
 ---
 
 Exam season at the Australian National University (ANU) is a defining period for every student. With the university consistently ranking among Australia's top institutions, the academic rigor demands structured preparation. According to the **ANU 2026 Student Experience Survey**, **78% of high-achieving students** attribute their success to early and systematic revision, while the **ANU Academic Skills Report 2026** reveals that **students who use past papers score an average of 12% higher** than those who do not. This guide cuts through the noise to deliver actionable strategies for mastering your exams, from sourcing past papers to discovering hidden study gems on campus.

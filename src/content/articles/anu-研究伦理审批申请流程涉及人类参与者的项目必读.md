@@ -6,6 +6,7 @@ pubDatetime: '2026-03-06T19:48:25Z'
 publishDate: '2026-03-06T19:48:25Z'
 readingTime: 13
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）所有涉及人类参与者的研究项目，包括问卷调查、访谈、实验及人体组织样本采集，均须在数据收集前获得 **ANU 人类研究伦理委员会（HREC）** 的审批。根据 ANU 研究服务处数据，2023 年该校共受理 1,247 份伦理申请，其中约 15% 因材料不完整或风险评估不足被退回修改【ANU Research Services, 2023, Annual Ethics Report】。澳大利亚国家健康与医学研究委员会（NHMRC）《国家人类研究伦理行为声明》（National Statement on Ethical Conduct in Human Research, 2023 更新版）规定，未获伦理批准即开展研究属违规行为，可能导致数据作废、学位延迟或资金撤回。对于本科生和研究生而言，理解 ANU 的分级审批机制、在线申请系统（Ethics Application System, EAS）以及关键时间节点，是顺利完成研究项目的前提。

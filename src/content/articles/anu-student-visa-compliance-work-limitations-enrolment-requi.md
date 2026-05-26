@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU student visa conditions", "ANU international student work hours", "ANU enrolment compliance", "ANU visa reporting", "ANU CoE requirements"]
 slug: anu-student-visa-compliance-work-limitations-enrolment-reporting
 ogImage: ""
+
 ---
 
 Navigating student visa conditions at the Australian National University requires meticulous attention to **work limitations**, **enrolment requirements**, and **reporting obligations**. In 2026, the Department of Home Affairs recorded over 680,000 international student visa holders in Australia, with ANU hosting approximately 9,200 international students from more than 130 countries. According to the Australian Government's *International Education Data 2026*, **student visa compliance rates** at Group of Eight universities reached 94.3% in the previous reporting period, underscoring the importance of understanding your legal responsibilities. This guide examines the core compliance pillars every ANU international student must uphold to maintain visa validity and avoid unintended breaches.

@@ -6,6 +6,7 @@ pubDatetime: '2026-03-05T19:48:08Z'
 publishDate: '2026-03-05T19:48:08Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）环境科学学士（Bachelor of Environment and Sustainability）与资源与环境管理硕士（Master of Resources and Environment）课程体系中，**野外考察（Fieldwork）** 是必修学分组成部分。根据 ANU 2024 年课程手册（Programs and Courses 2024），环境科学本科学生需完成至少 **24 个学分** 的野外实践课程（约合 4 门标准课程），覆盖生态调查、水文采样、地质测绘与社区环境评估四大模块。澳大利亚教育研究委员会（ACER, 2023）在《高等教育实践教学基准报告》中指出，澳洲八大高校中 ANU 的野外课程总时长排名第一，单次考察最长可达 21 天。随着 2025 年 ANU 启用新版 Kioloa 海岸研究站与修订后的安全装备标准，了解最新的课程安排与装备要求对准备入读或正在就读该专业的学生具有实际参考价值。

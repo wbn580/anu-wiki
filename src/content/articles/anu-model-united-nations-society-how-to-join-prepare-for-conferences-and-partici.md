@@ -6,6 +6,7 @@ pubDatetime: '2026-04-27T19:58:41Z'
 publishDate: '2026-04-27T19:58:41Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学模联协会（ANU Model United Nations Society, ANUMUNS）是该校规模最大的模拟联合国学生组织，截至2024年，协会注册会员超过450人，每年组织至少6场校内培训会议和2场跨校模拟联合国大会。该协会自2010年正式成立以来，已成为亚太地区最活跃的大学模联社团之一，其年度会议“ANU National Model United Nations Conference”在2023年吸引了来自12所澳大利亚高校及3所新西兰高校的共计280名代表参与。对于希望提升国际事务理解、锻炼公共演讲与辩论能力、或未来从事外交与国际关系相关职业的ANU学生而言，加入ANUMUNS是一条经过验证的实践路径。

@@ -6,6 +6,7 @@ pubDatetime: '2026-04-18T19:57:06Z'
 publishDate: '2026-04-18T19:57:06Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）在2024年第二学期向国际学生发送的通知中明确，自2024年7月1日起，其官方国际学费支付平台将从Western Union Business Solutions切换为Convera（原Western Union Business Solutions业务线）。根据ANU官方学生财务页面（2024年6月更新）的说明，所有非澳元付款均须通过Convera平台处理。同期，澳大利亚竞争与消费者委员会（ACCC, 2023）发布的《国际教育服务报告》指出，国际学生每年向澳大利亚教育机构支付的学费总额超过100亿澳元，其中约70%通过第三方支付平台完成。这意味着，对于中国留学生群体而言，选择Convera或类似平台直接关系到实际到账金额与资金到账时效，值得在缴费前进行系统性评估。

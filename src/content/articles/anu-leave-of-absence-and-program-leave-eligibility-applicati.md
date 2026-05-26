@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU leave of absence", "ANU program leave", "ANU study break application", "ANU ISIS leave request", "ANU fee refund policy"]
 slug: anu-leave-absence-program-leave-guide
 ogImage: ""
+
 ---
 
 Navigating university administrative processes can feel overwhelming, especially when personal circumstances require a break from studies. At the Australian National University, over **1,200 students** applied for some form of program leave in the 2025 academic year, and early 2026 data from ANU Student Services suggests this number continues to rise. Understanding the distinctions between an **ANU leave of absence** and a formal **ANU program leave** is essential for protecting your academic standing and financial position. The university's **ANU fee refund policy** contains specific deadlines that, if missed, can result in significant financial liability. This guide breaks down everything you need to know about eligibility, the application process through ISIS, and the financial implications of taking a study break in 2026.

@@ -3,6 +3,7 @@ title: "ANU Campus and Facilities · A Tour of the Acton Campus in Canberra"
 description: "A tour of ANU's Acton Campus — academic buildings, libraries, residential colleges, Kambri cultural precinct, and student facilities across its 145-hectare site in central Canberra."
 category: "culture"
 publishDate: "2026-05-15T07:15:00Z"
+
 ---
 
 ANU's Acton Campus occupies 145 hectares in the heart of Canberra, adjacent to Lake Burley Griffin, Parliament House, and the national cultural institutions. It is the only Australian university campus integrated directly into a capital city's parliamentary and cultural precinct.

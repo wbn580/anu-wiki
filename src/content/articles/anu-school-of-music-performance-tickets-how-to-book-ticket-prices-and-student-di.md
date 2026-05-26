@@ -6,6 +6,7 @@ pubDatetime: '2026-04-25T19:58:30Z'
 publishDate: '2026-04-25T19:58:30Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 位于澳大利亚首都堪培拉的澳大利亚国立大学（ANU）音乐学院每年举办超过200场公开演出，涵盖古典、爵士、电子及世界音乐等多种形式。根据ANU音乐学院2024年度活动报告，其Llewellyn Hall（容纳1,440座）与Big Band Room（容纳120座）两大演出场地年均售票总量超过85,000张，其中约30%的票房来自学生购票。随着2025学年演出季的公布（ANU, 2025, *School of Music Performance Calendar*），掌握购票渠道、价格梯度及学生折扣政策已成为在校生与本地观众高效观演的关键。

@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU medical centre", "OSHC claims", "international student health", "bulk billing Canberra", "campus healthcare"]
 slug: anu-health-services-oshc-access-medical-care
 ogImage: ""
+
 ---
 
 Navigating healthcare in a new country can feel overwhelming, especially when you are balancing coursework, research deadlines, and life away from home. The Australian National University hosts over 10,000 international students from more than 100 countries, and according to the Department of Education's 2026 international student data, **enrolments in Australian higher education grew by 8.3% compared to the previous year**. With this growing campus community, understanding how to access medical care on campus is more important than ever. The **ANU Medical Centre**, located in the heart of the Acton campus, provides a range of services designed to meet student needs, from general practice consultations to mental health support. This guide walks you through everything you need to know, from finding a **bulk billing doctor** to navigating the **OSHC claim process** and booking your first appointment.

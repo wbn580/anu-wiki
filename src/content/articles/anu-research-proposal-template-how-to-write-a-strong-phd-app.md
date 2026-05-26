@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU PhD research proposal template", "ANU PhD application proposal", "how to write ANU research proposal", "ANU PhD research statement", "Australian National University PhD admission"]
 slug: anu-phd-research-proposal-template-guide
 ogImage: ""
+
 ---
 
 The Australian National University received over 3,200 PhD applications for its 2026 intake, with an acceptance rate hovering around 18%. Among the most critical determinants of success is the **ANU PhD research proposal**—a document that separates promising candidates from the rest. According to ANU's Graduate Research Office 2026 admission statistics, nearly 40% of rejections stem from proposals that fail to demonstrate methodological rigor or alignment with supervisory expertise.

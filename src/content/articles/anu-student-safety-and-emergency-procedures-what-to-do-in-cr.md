@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU campus safety", "student security Australia", "international student safety", "emergency procedures", "university crisis response"]
 slug: anu-student-safety-emergency-procedures-2026
 ogImage: ""
+
 ---
 
 Understanding **ANU campus safety procedures** is not just about memorizing phone numbers—it is about building a mindset of preparedness that can make the difference between panic and decisive action. The Australian National University, consistently ranked among the world’s top 30 institutions in the QS World University Rankings 2026, hosts over 20,000 students from more than 100 countries. With such a diverse population spread across the Acton campus, residential halls, and off-campus accommodations, the university has developed layered security protocols that every student, particularly international arrivals, should internalize. In 2026, ANU reported a 12% increase in proactive safety app downloads among first-year students, reflecting growing awareness of personal security on campus.

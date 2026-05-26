@@ -6,6 +6,7 @@ pubDatetime: '2026-05-08T20:00:43Z'
 publishDate: '2026-05-08T20:00:43Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的**精算学学士（Bachelor of Actuarial Studies）** 课程，自 2023 年起被澳大利亚精算师协会（Actuaries Institute）正式认证为**精算师资格考试豁免课程**。根据该协会 2024 年发布的《认证课程手册》，ANU 精算学毕业生在完成指定核心课程后，可申请豁免精算师考试 Foundation 阶段全部 5 门科目（即从 Foundation 到 Part I），相当于直接跳过约 60% 的初始考试工作量。这一认证路径使 ANU 成为全澳仅有的 8 所提供精算师考试豁免的高等学府之一，对于希望在 4 年内完成学历与职业资格双轨并行的学生而言，其时间成本优势显著。

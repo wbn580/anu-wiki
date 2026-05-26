@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU psychology honours", "APAC accreditation", "psychology thesis", "clinical psychology pathway", "Australian National University"]
 slug: anu-honours-psychology-apac-accreditation-application-thesis-2026
 ogImage: ""
+
 ---
 
 The **ANU Psychology Honours program** stands as a critical gateway for students pursuing registration as a psychologist in Australia. With the Australian Psychology Accreditation Council (APAC) enforcing updated competencies effective from 1 January 2026, the structure of the honours year has sharpened its focus on research capability and pre-professional skills. According to the Department of Education’s 2025 Higher Education Statistics, domestic demand for accredited fourth-year psychology programs rose by 9.3% compared to 2024, reflecting intensified competition for limited places. The Australian National University typically admits fewer than 55 students into its honours cohort each year, maintaining a capped intake that prioritizes strong academic records and well-defined research proposals. This guide unpacks the application mechanics, the value of **APAC accreditation**, the art of securing a committed **thesis supervisor**, and how the program feeds into the **ANU clinical psychology pathway**.

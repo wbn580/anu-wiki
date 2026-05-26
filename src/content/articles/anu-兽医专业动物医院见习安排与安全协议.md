@@ -6,6 +6,7 @@ pubDatetime: '2026-04-05T19:54:27Z'
 publishDate: '2026-04-05T19:54:27Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）兽医专业（Doctor of Veterinary Medicine, DVM）的临床见习安排以强制性的校内动物医院轮转为核心，学生在毕业前需完成至少 **1,200 小时** 的 supervised clinical placement（澳大利亚兽医行业委员会 2023 年认证标准）。ANU 动物医院（University Veterinary Teaching Hospital）是 ACT 地区唯一一所三级转诊教学医院，年均接诊病例超过 **8,000 例**（ANU 动物医院 2023 年运营报告）。随着 2024 年澳大利亚兽医注册委员会（AVBC）更新实习安全指南，该校的见习安全协议也进行了相应调整，涉及生物安全、辐射防护及动物行为风险评估三项核心领域。

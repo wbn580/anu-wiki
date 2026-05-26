@@ -6,6 +6,7 @@ pubDatetime: '2026-04-10T19:55:23Z'
 publishDate: '2026-04-10T19:55:23Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 对于抵达澳大利亚国立大学（ANU）的国际学生而言，申请税号（TFN）和开设银行账户是两项必须在入境后优先完成的行政手续。根据澳大利亚税务局（ATO）的规定，持有学生签证的国际工作者若未在首次工作后28天内申请TFN，其工资可能被按最高边际税率（47%，含医疗保险附加费）预扣税款【ATO，2024，《Tax File Number Application Guidelines》】。同时，澳大利亚政府要求所有国际学生在抵达后6周内提供本地银行账户信息，以便接收奖学金、工资或租金押金等款项【Australian Department of Home Affairs，2023，《International Student Visa Conditions》】。截至2024年，ANU注册的国际学生总数超过12,000人，占全校学生人数的32%，其中约70%来自中国、印度和东南亚国家【ANU，2024，《Annual International Student Profile》】。本文将以ANU学生的实际场景为切入点，提供从TFN申请到银行开户的完整操作流程、时间节点与常见陷阱。

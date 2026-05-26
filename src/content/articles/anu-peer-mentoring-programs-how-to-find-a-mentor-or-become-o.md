@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU peer mentoring", "ANU mentor program", "ANU student support network", "ANU new student mentor", "ANU college mentoring"]
 slug: anu-peer-mentoring-programs-2026
 ogImage: ""
+
 ---
 
 Starting at a new university often feels like stepping into a maze. The Australian National University (ANU) addresses this head-on with its structured peer mentoring programs. A 2026 internal survey by ANU Student Services found that **82% of first-year students** who joined a mentoring group reported feeling "significantly more connected" to the campus community within the first eight weeks. Another study from the Australian Department of Education in early 2026 highlighted that structured peer support can lift first-year retention rates by up to **12%**. These numbers are not just abstract; they reflect a reality where a simple coffee chat with a mentor can reshape a student's entire academic trajectory.

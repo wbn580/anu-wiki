@@ -6,6 +6,7 @@ pubDatetime: '2026-05-08T20:01:00Z'
 publishDate: '2026-05-08T20:01:00Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）校园疫苗接种中心（ANU Campus Vaccination Centre）于 2022 年 1 月 10 日正式运营，至 2023 年 6 月 30 日停止现场接种服务，期间共完成超过 45,000 剂 COVID-19 疫苗和流感疫苗的接种【ANU 2023，ANU Campus Vaccination Centre Closure Notice】。该中心由 ANU 与澳大利亚首都领地（ACT）卫生局合作设立，是 ACT 地区首批在高校内部设立的规模化疫苗接种点之一，高峰期每日可处理 400 人次预约。尽管该中心现已关闭，但其运营模式、预约流程及健康史提交流程（Health History Form）仍为 ANU 当前及未来公共卫生管理提供了可参照的模板。对于需要补种疫苗或获取疫苗接种证明的在校学生，了解该中心的历史运作细节及替代服务路径具有直接参考价值。

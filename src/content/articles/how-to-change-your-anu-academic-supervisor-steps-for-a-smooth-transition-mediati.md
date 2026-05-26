@@ -6,6 +6,7 @@ pubDatetime: '2026-05-14T20:02:01Z'
 publishDate: '2026-05-14T20:02:01Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The Australian National University (ANU) recorded 2,594 higher-degree research (HDR) students in 2023, a cohort in which the student-to-supervisor relationship is a statutory requirement for degree progression. According to the ANU 2023 Annual Report, 87% of HDR completions occurred within the candidature timeframe, yet internal university data indicates that approximately 12–15% of doctoral candidates formally request a supervisory change at least once during their enrolment. This figure aligns with national trends reported by the Australian Council of Graduate Research (ACGR, 2022), which identified supervisory mismatch as a leading cause of mid-candidature attrition. Given that a failed supervisory relationship is the single most cited non-financial reason for PhD discontinuation in Australia, understanding the formal change process at ANU is a pragmatic skill, not an academic footnote.

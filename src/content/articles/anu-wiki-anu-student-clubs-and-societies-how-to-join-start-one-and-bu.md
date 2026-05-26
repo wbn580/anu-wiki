@@ -8,6 +8,7 @@ author: StudyAbroad Editor
 tags: ["ANU student clubs", "societies", "ANUSA", "club registration", "student network"]
 slug: anu-student-clubs-societies-guide
 ogImage: /img/og/待配.jpg
+
 ---
 
 Navigating the social landscape of a prestigious institution like The Australian National University can seem daunting. However, with over **180 affiliated clubs and societies** registered through the ANU Students' Association (ANUSA) as of 2026, the campus offers a ready-made community for every interest. Data from the 2025 ANUSA Annual Report indicates that **72% of undergraduate students** engage with at least one club during their degree, highlighting the central role these groups play in student satisfaction and employability. Whether you are a first-year student looking to make friends or a postgraduate aiming to expand your professional network, understanding how to navigate this ecosystem is crucial. This guide provides a strategic walkthrough for joining existing groups, launching a new society, and maximizing your networking potential.

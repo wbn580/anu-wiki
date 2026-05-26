@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU research proposal", "MPhil application", "PhD application", "graduate research admissions", "supervisor feedback"]
 slug: anu-research-proposal-writing-mphil-phd-applicants-structure-feedback
 ogImage: ""
+
 ---
 
 In 2026, the Australian National University received over 3,400 graduate research applications across its seven academic colleges, with approximately 62% of initial proposals requiring substantial revision before advancing to the supervisory matching stage. A well-structured research proposal remains the single most decisive element in MPhil and PhD admissions at ANU, often outweighing grade point averages when academic records fall within the competitive range. This guide draws on internal admission panel feedback from the 2025–2026 cycle and the latest ANU HDR (Higher Degree by Research) candidature guidelines to help you construct a proposal that meets supervisor expectations and avoids the most frequent grounds for revision or rejection.

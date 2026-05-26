@@ -6,6 +6,7 @@ pubDatetime: '2026-03-22T19:51:39Z'
 publishDate: '2026-03-22T19:51:39Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）为支持在校国际学生参与国际学术交流，设立了专门的**学术会议差旅资助**项目。该项目由 ANU 研究生研究办公室（Dean's Office, Higher Degree Research）统一管理，2024-2025 财年预算总额约为 180 万澳元，覆盖约 1,200 人次申请【ANU HDR Funding Report 2024】。根据澳大利亚教育部 2023 年数据，ANU 国际学生占研究生研究群体的 42.3%，该资助是降低学术参与门槛的关键机制【Australian Department of Education, 2023, International Student Data】。本文系统梳理该资助的申请条件、金额标准、评审流程及常见争议点，供在读国际学生参考。

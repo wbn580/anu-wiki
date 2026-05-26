@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU Wattle guide", "ANU Turnitin similarity", "ANU Echo360 lectures", "ANU online submission", "ANU LMS tools"]
 slug: anu-learning-management-system-deep-dive-wattle-turnitin-echo360
 ogImage: ""
+
 ---
 
 The Australian National University's digital campus is powered by a sophisticated trio of tools designed to streamline your academic journey. In 2026, over **95% of ANU course content** is distributed via the central Learning Management System, and the average student accesses these platforms **14 times per week**, according to internal ANU Digital Learning Analytics. Navigating Wattle, Turnitin, and Echo360 effectively is no longer optional—it is the foundation of modern academic success. This deep dive dissects each platform's unique role, from submitting essays to catching lectures on demand, ensuring you master the digital backbone of your degree.

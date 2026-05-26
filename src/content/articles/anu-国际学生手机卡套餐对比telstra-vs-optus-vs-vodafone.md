@@ -6,6 +6,7 @@ pubDatetime: '2026-03-13T19:49:41Z'
 publishDate: '2026-03-13T19:49:41Z'
 readingTime: 14
 tags: ["featured"]
+
 ---
 
 截至 2025 年，澳大利亚三大移动网络运营商——Telstra、Optus 与 Vodafone——合计占据全国约 87% 的移动服务市场份额（Australian Competition and Consumer Commission, 2024, *Communications Market Report*）。对于抵达澳洲国立大学（ANU）所在的堪培拉市区及周边区域的学生而言，选择一张合适的手机卡直接关系到日常通讯、校园导航与紧急联络的可靠性。堪培拉作为首都领地，其基站分布与悉尼、墨尔本等主要城市存在差异：根据澳大利亚通信与媒体管理局（ACMA, 2024, *Mobile Coverage Data*）的数据，Telstra 的 4G/5G 网络覆盖了首都领地 99.2% 的有人居住区域，而 Vodafone 的覆盖率约为 94.5%。本对比从 ANU 国际学生的实际使用场景出发，基于官方覆盖地图、资费表与用户实测数据，梳理三大运营商在校园内外的信号表现、套餐性价比及长期使用成本。

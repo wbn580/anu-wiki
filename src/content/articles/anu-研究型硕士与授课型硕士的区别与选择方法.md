@@ -6,6 +6,7 @@ pubDatetime: '2026-02-25T19:46:18Z'
 publishDate: '2026-02-25T19:46:18Z'
 readingTime: 15
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）提供两种主要硕士路径——**授课型硕士（Coursework Master's）** 与研究型硕士（Research Master's），两者在课程结构、培养目标及职业出口上存在系统性差异。根据澳大利亚教育部 2023 年《高等教育学生数据报告》，全澳授课型硕士注册人数为 298,740 人，而研究型硕士仅为 24,510 人，前者占比超过 92%【Australian Government Department of Education, 2023, Higher Education Student Data】。同时，QS 世界大学排名 2025 数据显示，ANU 在研究影响力指标（每篇论文引用次数）上位列全球第 41 位，研究型学位产出质量显著影响其国际声誉【QS World University Rankings, 2024, QS 2025 Methodology】。对于计划在 ANU 攻读硕士的学生而言，理解这两种学位类型的核心区别，直接关系到学术路径规划与职业竞争力构建。

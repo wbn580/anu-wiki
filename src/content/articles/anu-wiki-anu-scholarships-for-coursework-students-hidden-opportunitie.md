@@ -8,6 +8,7 @@ author: Senior Education Editor
 tags: ["ANU scholarships coursework", "lesser-known scholarships", "eligibility tips", "application strategy", "financial aid"]
 slug: anu-scholarships-coursework-hidden-opportunities
 ogImage: /img/og/待配.jpg
+
 ---
 
 ## Introduction: Rethinking ANU Funding in 2026

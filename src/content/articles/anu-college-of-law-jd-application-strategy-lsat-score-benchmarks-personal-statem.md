@@ -6,6 +6,7 @@ pubDatetime: '2026-04-14T19:56:21Z'
 publishDate: '2026-04-14T19:56:21Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学法学院（ANU College of Law）的法学博士（JD）项目是澳大利亚最受国际学生青睐的法律学位之一，2025年QS世界大学学科排名中，ANU法学院位列全球法学第17位【QS 2025, QS World University Rankings by Subject】。该项目的录取竞争逐年加剧，2024年入学数据显示，国际学生申请人数较2020年增长了约35%，而录取率稳定在22%左右【ANU 2024, Annual Admissions Report】。对于计划在2026年或2027年入学的申请者，理解LSAT成绩基准、个人陈述撰写策略以及精确的时间线管理，是提升录取概率的关键。本文基于ANU官方招生数据与行业实践，系统梳理JD申请的三大核心要素。

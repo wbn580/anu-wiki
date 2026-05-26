@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU library remote access", "ANU digital resources offshore student", "ANU library borrowing limit", "ANU document delivery service", "ANU online student library"]
 slug: anu-library-borrowing-digital-resources-access-rules-online-offshore-students
 ogImage: ""
+
 ---
 
 As of 2026, the Australian National University (ANU) Library system manages a collection exceeding **2.5 million physical volumes** and provides access to over **630,000 unique electronic resources**. For students enrolled in online programs or residing offshore, understanding how to navigate this dual physical-digital ecosystem is essential. The ANU Library has systematically expanded its remote infrastructure, particularly since 2024, to ensure that **distance learners** and **international students outside Australia** face minimal barriers to academic resources.

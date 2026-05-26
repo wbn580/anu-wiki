@@ -3,6 +3,7 @@ title: "ANU vs University of Melbourne vs University of Sydney · How to Choose"
 description: "A practical comparison of Australia's top 3 universities — ANU, Melbourne, and Sydney — across rankings, cost, location, student experience, and graduate outcomes."
 category: "compare"
 publishDate: "2026-05-15T07:20:00Z"
+
 ---
 
 International students choosing between Australia's top universities — ANU (Canberra), University of Melbourne, and University of Sydney — face a complex decision. Rankings alone obscure differences in location, cost, teaching model, and student experience.

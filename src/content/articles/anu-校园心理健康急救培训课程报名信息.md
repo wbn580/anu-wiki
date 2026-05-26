@@ -6,6 +6,7 @@ pubDatetime: '2026-04-01T19:53:32Z'
 publishDate: '2026-04-01T19:53:32Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）自 2016 年起由学生生活与健康部（Student Life and Wellbeing）运营校园心理健康急救培训课程，旨在为在校师生提供识别、评估和初步应对心理危机的基础技能。截至 2024 年，该课程已累计培训超过 1,800 名在校人员，覆盖全校约 8% 的学生群体（ANU Student Wellbeing Annual Report, 2024）。根据澳大利亚心理学会（Australian Psychological Society, 2023）的行业报告，高校环境中约 35% 的学生曾在学年内经历中度至重度的心理困扰，而早期同伴干预可将急性危机转介率提升 40% 以上。该课程因此成为 ANU 应对学生心理健康需求的关键组成部分，其报名流程、培训周期与认证体系值得关注。

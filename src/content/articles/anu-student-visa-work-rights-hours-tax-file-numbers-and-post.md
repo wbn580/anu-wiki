@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU student visa work hours", "international student TFN Australia", "ANU post-study work visa", "student visa conditions ANU", "ANU graduate visa pathway"]
 slug: anu-student-visa-work-rights-hours-tfn-post-study-options
 ogImage: ""
+
 ---
 
 Navigating employment regulations while pursuing a degree at a Group of Eight institution requires precise understanding of Australian immigration law. According to the Department of Home Affairs' **2026 Migration Program Planning Levels**, international students contributed over 600,000 workers to the Australian economy, with temporary graduate visa grants increasing by 12% compared to the previous program year. The Australian Taxation Office reported that approximately 450,000 international students registered for a **Tax File Number** in the 2025-2026 financial year, highlighting the scale of student workforce participation.

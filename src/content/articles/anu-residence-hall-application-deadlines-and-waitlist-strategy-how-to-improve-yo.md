@@ -6,6 +6,7 @@ pubDatetime: '2026-04-17T19:56:50Z'
 publishDate: '2026-04-17T19:56:50Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）校内住宿申请竞争激烈，2024年第一学期，ANU Accommodation Services共收到超过7,200份住宿申请，而校内住宿容量仅为约6,000个床位，供需缺口达1,200个以上【ANU Accommodation Services, 2024, Annual Housing Report】。对于18至30岁的在读或准ANU学生而言，掌握**申请截止日期**与**候补名单策略**是获得校内房间的关键。根据2025年官方数据，第一轮住宿申请截止日期为2024年10月31日，逾期申请者将自动进入候补名单，而候补名单的分配率在高峰期（12月至次年2月）仅为35%至45%【ANU Accommodation Services, 2025, Application Guidelines】。本文基于ANU官方政策和历年录取数据，提供一套可操作的策略，帮助申请者提升获得住宿的概率。

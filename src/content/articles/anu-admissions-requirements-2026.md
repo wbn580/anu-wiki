@@ -3,6 +3,7 @@ title: "ANU Admissions · Domestic and International Entry Requirements"
 description: "ANU admission requirements for domestic and international students — ATAR cutoffs, IB requirements, country-specific qualifications, English language tests, and the ANU direct application process."
 category: "education"
 publishDate: "2026-05-15T07:20:00Z"
+
 ---
 
 ANU has a unique admissions process in Australia — the most selective university for domestic admissions and one of the most flexible for international admissions. This article covers entry requirements for both cohorts.

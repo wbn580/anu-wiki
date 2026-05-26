@@ -6,6 +6,7 @@ pubDatetime: '2026-05-15T20:02:05Z'
 publishDate: '2026-05-15T20:02:05Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）CareerHub 是其官方职业发展平台，2024 年数据显示，该平台每年发布超过 8,000 个实习与毕业生岗位，其中约 35% 明确标注对国际学生开放（ANU Careers, 2024, *Annual Placement Report*）。对于 18-30 岁的 ANU 在读国际学生而言，如何高效筛选出这些合规职位并设置自动提醒，直接关系到实习机会的获取效率——据澳大利亚政府教育部 2023 年统计，国际学生在澳完成至少 1 次与专业相关的实习后，毕业 6 个月内全职就业率提升 22 个百分点（Australian Government Department of Education, 2023, *International Graduate Outcomes Survey*）。本文基于 ANU 官方系统功能，提供一套可复用的过滤与提醒设置方法。

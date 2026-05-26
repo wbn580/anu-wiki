@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU course fail", "ANU supplementary exam", "ANU academic support", "Australian university failure", "student academic recovery"]
 slug: what-to-do-if-you-fail-anu-course
 ogImage: ""
+
 ---
 
 Facing a **failed course ANU** result can be one of the most stressful moments in your academic journey. In 2026, approximately 8% of undergraduate students at the Australian National University receive at least one fail grade during their degree, according to institutional planning data. Yet fewer than 40% of those students access the formal academic support structures available to them within the first two weeks of receiving results. Understanding what to do immediately after a failure—and knowing which **ANU course fail options** exist—can dramatically change your trajectory. This guide walks through the supplementary exam policy, appeal mechanisms, academic skills resources, and the practical steps you need to take right now.

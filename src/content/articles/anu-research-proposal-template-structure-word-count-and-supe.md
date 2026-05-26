@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU research proposal", "PhD application Australia", "MPhil research statement", "graduate school admission", "ANU supervisor expectations"]
 slug: anu-research-proposal-template-structure-word-count
 ogImage: ""
+
 ---
 
 ANU receives approximately 3,500 research degree applications annually, with the Research School of Social Sciences alone processing over 400 proposals each admission cycle. A 2025 internal review by the ANU Dean of Higher Degree Research found that 34% of initial PhD applications required major revisions due to proposal structure issues, while 22% were rejected outright for failing to demonstrate alignment with supervisor expertise. The ANU research proposal format serves as the cornerstone of your application, communicating not only your academic preparation but also your capacity to contribute original knowledge to your field.

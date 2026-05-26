@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU off-campus library", "ANU remote student resources", "ANU document delivery", "ANU library database access", "ANU postal loans"]
 slug: anu-library-access-off-campus-students-2026
 ogImage: ""
+
 ---
 
 The Australian National University (ANU) Library system serves over **25,000 students** annually, with approximately **40% enrolled in fully online or remote programs** as of 2026. Remote access to scholarly resources has become essential, with ANU Library reporting a **67% increase in off-campus database logins** between 2024 and 2026. Understanding how to navigate these services effectively can transform your research experience, whether you're completing coursework from regional Australia or conducting doctoral research from overseas.

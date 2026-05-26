@@ -6,6 +6,7 @@ pubDatetime: '2026-04-26T19:58:30Z'
 publishDate: '2026-04-26T19:58:30Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）商业与经济学院（CBE）为在校学生提供免费获取**彭博终端认证（Bloomberg Market Concepts, BMC）** 的途径。根据彭博官方统计，全球超过 250,000 名金融专业人士持有 BMC 证书，而 ANU 作为澳大利亚八大名校之一，其 CBE 大楼内的彭博实验室（Bloomberg Lab）配备有 12 台专用终端，供学生预约使用【Bloomberg, 2024, Bloomberg Market Concepts Overview】。在 2025 年 QS 世界大学学科排名中，ANU 的会计与金融学排名全球第 34 位，这一认证对于提升毕业生在投行、资产管理等领域的竞争力具有直接作用【QS, 2025, QS World University Rankings by Subject】。本指南系统说明从预约终端到完成 BMC 课程的全流程，涵盖硬件预约、课程结构、考试策略以及证书验证等关键环节。

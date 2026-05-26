@@ -3,6 +3,7 @@ title: "ANU Cost of Living · Fees, Accommodation, and Expenses in Canberra"
 description: "A realistic breakdown of costs for ANU students — tuition fees by program, on-campus and off-campus accommodation costs, living expenses, and budgeting tips for Canberra."
 category: "education"
 publishDate: "2026-05-15T07:15:00Z"
+
 ---
 
 Canberra is more affordable than Sydney or Melbourne for students, but costs are not negligible. This article provides a detailed budget breakdown for ANU students. All figures in Australian dollars (AUD).

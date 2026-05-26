@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU off-campus library", "remote student library access", "ANU digital resources", "postal loan service ANU", "ANU library ebooks"]
 slug: anu-off-campus-library-digital-resources-postal-loans
 ogImage: ""
+
 ---
 
 The Australian National University serves over 20,000 students across Australia and internationally, with approximately 35% enrolled in fully online or distance programs as of 2026. Accessing library resources can feel like navigating a maze when you're not physically on campus in Acton. The ANU Library system has invested over $18 million in digital infrastructure and remote access technologies in the past three years, ensuring off-campus students receive the same quality of academic support as their on-campus peers. Whether you're completing a PhD from rural Queensland or taking postgraduate coursework from Singapore, understanding how to unlock these resources will directly impact your research outcomes and assignment quality.

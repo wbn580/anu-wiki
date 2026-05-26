@@ -6,6 +6,7 @@ pubDatetime: '2026-05-22T20:03:29Z'
 publishDate: '2026-05-22T20:03:29Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）护理学士（Bachelor of Nursing）课程要求学生在三年内完成总计 880 小时的临床实习（clinical placement），这些实习由 ANU 健康与医学院（College of Health and Medicine）的临床实习协调团队统一排班。根据澳大利亚护理与助产委员会（NMBA, 2023）的注册标准，学生在毕业前必须达到所有临床实习小时数，且实习出勤率直接决定是否具备注册护士考试资格。临床实习排班系统（Clinical Placement Rostering）的运作机制——包括如何提交可用时间、换班流程以及缺勤报告——是每位护理学生必须掌握的核心行政流程，直接关系到学业进度与注册资格。

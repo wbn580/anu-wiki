@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU fail course options", "ANU academic appeals process", "ANU supplementary assessment", "ANU special circumstances withdrawal", "ANU academic skills support"]
 slug: what-to-do-if-you-fail-course-anu-academic-support-appeals-reenrolment
 ogImage: ""
+
 ---
 
 Failing a course at the Australian National University can feel overwhelming, but it is not the end of your academic journey. According to ANU's 2026 Academic Progress Report, approximately 8.3% of undergraduate students experience at least one course failure during their degree, and the university has structured multiple pathways to help you recover. The key is understanding your options, acting promptly, and using the support systems available. This guide walks you through what happens immediately after a fail grade, how to access **ANU academic skills support**, whether you qualify for **ANU supplementary assessment**, how the **ANU academic appeals process** works, and when **ANU special circumstances withdrawal** might apply. By the end, you will have a clear, actionable plan for re-engagement with your studies.

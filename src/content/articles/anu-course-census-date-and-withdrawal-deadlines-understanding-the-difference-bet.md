@@ -6,6 +6,7 @@ pubDatetime: '2026-05-05T20:00:15Z'
 publishDate: '2026-05-05T20:00:15Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）每学期设有明确的 **课程普查日期（Census Date）** 和 **退课截止日期（Withdrawal Deadlines）**，学生在此前后退课将产生不同的学术记录等级——WD（Withdrawn without failure）、WN（Withdrawn with failure）——以及对应的财务责任。根据澳大利亚教育部《2023年高等教育学生数据报告》，全澳约12%的本科生曾在至少一门课程中因错过普查日期而产生财务负债或学术处罚【Department of Education, 2023, Higher Education Student Data Collection】。ANU《2024年学生入学政策》进一步规定，在普查日期之后退课的学生不仅需承担全额学费，其成绩单还将永久标注WN，直接影响加权平均分（GPA）计算【Australian National University, 2024, Student Enrolment Policy】。理解这三个时间节点及其后果，是每位ANU学生在选课和调整学期计划时必须掌握的基础操作。

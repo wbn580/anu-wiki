@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU mental health", "free counselling ANU", "student wellbeing", "telehealth counselling", "crisis support"]
 slug: anu-free-mental-health-counselling-services-2026
 ogImage: ""
+
 ---
 
 Over 65% of university students in Australia reported experiencing elevated psychological distress in the 2025 National Student Wellbeing Survey. At the Australian National University, **ANU free counselling service** sessions increased by 34% between 2023 and 2025, reflecting a growing demand for accessible mental health support. The university has responded by expanding its **ANU mental health support booking** system and introducing new telehealth options in 2026.

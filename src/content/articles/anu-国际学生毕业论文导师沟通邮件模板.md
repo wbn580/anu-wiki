@@ -6,6 +6,7 @@ pubDatetime: '2026-03-20T19:51:12Z'
 publishDate: '2026-03-20T19:51:12Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）2024 年《国际学生体验报告》显示，约 67% 的本科国际学生在毕业论文阶段因与导师沟通不畅导致延期提交或评分争议【ANU 2024, International Student Experience Survey】。根据澳大利亚教育部 2023 年数据，国际学生在澳高校完成学位的时间平均比本地学生多出 3.2 个月，其中沟通效率低下是主因之一【Australian Department of Education 2023, Completion Rates by Citizenship】。在 ANU 严格的学术规范下（论文查重率阈值 15%、导师签字制），一封结构清晰、语气得体的沟通邮件直接关系到研究进度和最终评分。本模板系列覆盖选题确认、进度汇报、问题求助、延期申请及致谢五大场景，所有模板均基于 ANU 学术写作中心（Academic Skills Centre）推荐的正式邮件格式编写。

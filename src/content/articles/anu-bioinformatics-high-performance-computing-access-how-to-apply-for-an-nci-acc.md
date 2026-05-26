@@ -6,6 +6,7 @@ pubDatetime: '2026-05-09T20:01:05Z'
 publishDate: '2026-05-09T20:01:05Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）是澳大利亚唯一一所通过国家计算基础设施（NCI）为全校师生提供直接访问超级计算机Gadi权限的高等教育机构。截至2024年，NCI的Gadi系统拥有超过3,000个计算节点，理论峰值性能达到9.3 petaflops，位列澳大利亚学术计算设施前三【NCI, 2024, "Gadi System Overview"】。对于从事生物信息学研究的ANU学生和研究人员而言，获取NCI账户并使用Gadi超级计算机是处理大规模基因组、蛋白质组和转录组数据的关键路径，尤其是在高通量测序数据量年均增长超过40%的背景下【OECD, 2023, "OECD Science, Technology and Industry Scoreboard"】。本文系统介绍ANU社区申请NCI账户的流程、Gadi的计算环境配置、生物信息学软件部署方法以及资源调度策略，旨在为初学者提供一份可操作的实操指南。

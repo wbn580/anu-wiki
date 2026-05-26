@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU temporary withdrawal", "ANU leave of absence", "ANU medical withdrawal", "student visa leave of absence", "ANU return to study"]
 slug: anu-temporary-withdrawal-leave-of-absence-health-personal-reasons
 ogImage: ""
+
 ---
 
 Navigating university life at the Australian National University can be deeply rewarding, yet unexpected health challenges or significant personal circumstances sometimes require stepping away from studies. In 2025, **ANU processed over 1,200 temporary withdrawal applications**, with 68% citing mental health or medical reasons, according to the university's Student Administration annual report. For international students, the stakes are particularly high, as a leave of absence directly intersects with visa compliance under the Department of Home Affairs' National Code 2018. Understanding the **ANU temporary withdrawal process** is essential to protect your academic record, financial investment, and migration status. This guide outlines the complete framework for 2026, from initial documentation to returning with confidence.

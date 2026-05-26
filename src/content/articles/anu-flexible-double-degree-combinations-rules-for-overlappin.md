@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU", "double degree", "flexible double degree", "course overlap", "degree planning"]
 slug: anu-flexible-double-degree-overlapping-courses-rules
 ogImage: ""
+
 ---
 
 The Australian National University's Flexible Double Degree program represents one of Australia's most innovative academic structures, allowing students to earn two qualifications in significantly reduced time. According to the **ANU 2026 Academic Handbook**, over 750 distinct degree combinations are available, with many students completing two bachelor's qualifications in as little as four years instead of the traditional six. A 2025 institutional report revealed that 34% of commencing ANU undergraduates now enrol in a Flexible Double Degree, drawn by the ability to **overlap up to 48 units of credit** between two programs. Understanding the precise rules around overlapping courses, reduced duration, and combination eligibility is critical for maximising this opportunity while maintaining full compliance with academic policy.

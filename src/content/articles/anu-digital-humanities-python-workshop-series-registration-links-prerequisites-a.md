@@ -6,6 +6,7 @@ pubDatetime: '2026-05-06T20:00:31Z'
 publishDate: '2026-05-06T20:00:31Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）人文与社会科学学院（College of Arts and Social Sciences）自2019年起开设的**数字人文Python工作坊系列**（Digital Humanities Python Workshop Series），已成为该校跨学科计算技能培训的核心项目。根据ANU数字人文中心（Digital Humanities Hub）2024年发布的年度报告，该系列工作坊在2023年共吸引了超过420名注册参与者，覆盖了从本科一年级到博士研究生的全部学术层级。工作坊的设计基于澳大利亚研究理事会（ARC）在2022年发布的《数字人文基础设施白皮书》，该文件指出，澳大利亚人文领域的研究者中仅有约18%具备基础的编程能力，而这一比例在英美同行中已达到35%以上。这一差距直接推动了ANU在课程体系中嵌入Python编程模块，旨在弥合人文与计算科学之间的技能鸿沟。

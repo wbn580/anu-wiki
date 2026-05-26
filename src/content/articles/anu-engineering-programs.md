@@ -3,6 +3,7 @@ title: "ANU Engineering · Programs, Research, and Career Outcomes"
 description: "ANU Engineering programs — undergraduate and postgraduate engineering degrees, specialisations, research strengths in systems engineering, and graduate career paths."
 category: "education"
 publishDate: "2026-05-15T07:25:00Z"
+
 ---
 ANU Engineering sits within the College of Engineering, Computing and Cybernetics (CECC). It offers a distinctive engineering education model — systems-focused rather than traditional discipline-focused — reflecting ANU's research strengths in complex systems, control theory, and cybernetics.
 

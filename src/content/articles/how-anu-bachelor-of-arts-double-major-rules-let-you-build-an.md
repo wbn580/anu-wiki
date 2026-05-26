@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU BA double major", "ANU arts major combinations", "ANU flexible degree structure", "program planning", "Australian National University"]
 slug: anu-bachelor-of-arts-flexible-double-major-rules-uncommon-combinations
 ogImage: ""
+
 ---
 
 The Australian National University (ANU) Bachelor of Arts is one of the most structurally flexible degrees in Australia. In 2026, over 70% of ANU BA students graduate with at least two majors, and nearly a third combine disciplines that rarely appear together in other Australian universities. The degree’s design is deliberate: ANU wants you to build a program that reflects intersecting interests rather than a single narrow track. This guide explains exactly how the **ANU Bachelor of Arts double major** rules work, what constraints you need to know, and which **uncommon major combinations** are genuinely achievable under the current framework.

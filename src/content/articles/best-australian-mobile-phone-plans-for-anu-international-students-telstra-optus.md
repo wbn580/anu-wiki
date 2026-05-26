@@ -6,6 +6,7 @@ pubDatetime: '2026-04-27T19:58:36Z'
 publishDate: '2026-04-27T19:58:36Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 截至2024年，澳大利亚国立大学（ANU）在校国际学生总数超过10,400人，占全校学生人数的约38%【Australian Government Department of Education, 2024, "International Student Data"】。对于抵达堪培拉的ANU新生，选择一张覆盖校园、性价比高的手机卡是融入本地生活的第一步。澳大利亚三大运营商——Telstra、Optus和Vodafone——在ANU校园及周边区域的网络覆盖与资费结构存在显著差异，直接影响学生的日常通讯、导航与学习效率。本文基于澳大利亚通信与媒体管理局（ACMA）的年度报告及三大运营商公开的覆盖地图，为国际学生提供一份客观、数据驱动的选卡指南。

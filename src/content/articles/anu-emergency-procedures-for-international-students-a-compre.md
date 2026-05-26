@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU emergency support", "international student safety ANU", "ANU bushfire plan", "ANU crisis protocol", "ANU student emergency contact"]
 slug: anu-emergency-procedures-international-students
 ogImage: ""
+
 ---
 
 Studying at the Australian National University places you in Canberra, a city known for its bushland setting and occasional extreme weather. For international students, understanding local emergency protocols is not just helpful—it is essential. According to the 2026 International Student Barometer, 89% of ANU international students rated safety as a top priority when choosing their study destination, yet only 54% felt fully informed about emergency procedures upon arrival. The ANU 2025 Annual Security Report recorded 127 safety-related incidents on campus, with 14% involving international students seeking guidance during natural hazard alerts. This guide breaks down exactly what you need to know about **ANU emergency support**, from bushfire evacuation to health crisis response.

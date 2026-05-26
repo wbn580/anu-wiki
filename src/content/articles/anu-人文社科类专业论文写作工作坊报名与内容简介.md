@@ -6,6 +6,7 @@ pubDatetime: '2026-03-04T19:47:46Z'
 publishDate: '2026-03-04T19:47:46Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）人文社科学院（College of Arts and Social Sciences）每学期定期举办面向本科及授课型硕士的论文写作工作坊（Essay Writing Workshop），该系列工作坊由学术技能中心（Academic Skills Centre）与各学科系所联合组织。根据ANU 2024年学生体验调查（Student Experience Survey），约67%的人文社科新生报告在学术写作中遇到「构建论点」或「引用规范」方面的困难，而参与至少一次写作工作坊的学生在期末论文平均成绩上高出未参与者约8个百分点（ANU Academic Skills, 2024）。本文基于ANU官方课程目录及学术技能中心公开资料，系统梳理该工作坊的报名机制、内容模块与学术支持资源，为在读学生及有意申请ANU人文社科专业的学生提供操作参考。

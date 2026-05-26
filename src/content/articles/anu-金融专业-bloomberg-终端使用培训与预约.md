@@ -6,6 +6,7 @@ pubDatetime: '2026-03-14T19:49:50Z'
 publishDate: '2026-03-14T19:49:50Z'
 readingTime: 10
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）金融专业的学生可通过校内金融实验室（Finance Lab）预约并使用Bloomberg终端。该终端是全球金融从业者广泛使用的实时数据、分析和交易平台。截至2024年，ANU为金融学学士及硕士课程学生提供每周累计超过80小时的Bloomberg终端使用时段，并由经认证的培训师提供入门至高级的专项培训【ANU College of Business and Economics, 2024, Finance Lab Access Policy】。根据Bloomberg官方统计，全球超过34万名金融专业人士持有Bloomberg Market Concepts（BMC）证书，而ANU是澳大利亚首批将BMC认证纳入金融课程核心模块的高校之一【Bloomberg LP, 2023, BMC Program Report】。在当前全球金融市场数据驱动决策的背景下，掌握Bloomberg终端操作已成为金融毕业生进入投行、资产管理及研究机构的必备技能。本文系统梳理ANU校内Bloomberg终端的培训体系、预约流程、认证路径及使用规范，为在校生提供一份可操作的实操指南。

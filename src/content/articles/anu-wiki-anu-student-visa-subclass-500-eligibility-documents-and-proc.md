@@ -8,6 +8,7 @@ author: Senior Education Editor
 tags: ["student visa subclass 500", "ANU visa requirements", "GTE statement", "OSHC", "visa processing time"]
 slug: anu-student-visa-subclass-500-guide
 ogImage: /img/og/待配.jpg
+
 ---
 
 International student enrollment in Australia reached 619,371 in 2025, according to the Department of Education, with **student visa subclass 500** applications for Group of Eight universities like ANU surging by 14% year-on-year. Securing this visa demands a meticulous approach, as the Department of Home Affairs reports a 23% refusal rate for incomplete applications in the 2025-2026 financial year. This guide breaks down every step for Australian National University aspirants, from **ANU visa requirements** to crafting a compelling **GTE statement** and navigating **visa processing time** frames. 

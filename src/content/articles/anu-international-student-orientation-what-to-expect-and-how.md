@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU orientation", "international student preparation", "ANU campus life", "study in Australia", "new student enrollment"]
 slug: anu-international-student-orientation-guide
 ogImage: ""
+
 ---
 
 The Australian National University welcomed over **3,200 new international students** across its undergraduate and postgraduate programs in the 2026 academic year, according to institutional enrollment data. For many, the journey begins not in a lecture hall but at the **ANU International Student Orientation**, a carefully structured program designed to bridge the gap between arrival and academic life. Missing key sessions can leave students scrambling during their first weeks, while thorough preparation transforms what could be an overwhelming experience into a confident launch. This guide walks through every component of the orientation experience, from the **anu international orientation schedule** to practical **anu orientation week tips**, ensuring new arrivals know exactly what to expect and how to prepare.

@@ -6,6 +6,7 @@ pubDatetime: '2026-04-12T19:55:45Z'
 publishDate: '2026-04-12T19:55:45Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）每学期末的考试安排是学生学术规划的核心环节。根据ANU考试办公室2024年发布的《考试管理政策》（Examinations Policy），所有在校生的期末考试时间表通常在学期第10周通过ISIS（Interactive Student Information System）发布，涉及超过20,000名注册学生的考试安排。同时，ANU学生中心（Student Central）的年度报告显示，每学期约有3%-5%的学生因考试时间冲突（Timetable Clash）提交正式申诉，这一比例在本科一、二年级学生中尤为突出。掌握如何准确查询考试时间表并高效处理冲突，已成为保障学业顺利推进的关键技能。

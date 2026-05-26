@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU Honours", "Science Honours Application", "ANU Eligibility", "Honours Year GPA", "Supervisor Matching"]
 slug: anu-bachelor-of-science-honours-application-eligibility-2026
 ogImage: ""
+
 ---
 
 Are you considering advancing your undergraduate science degree with an Honours year at the Australian National University? The **ANU Bachelor of Science Honours** program represents a critical bridge between coursework and independent research, offering students the chance to deepen their expertise in a specialised field. According to the **2026 QS World University Rankings by Subject**, ANU ranks among the top 40 globally in Natural Sciences, with particular strength in Earth and Marine Sciences, Geography, and Physics. The Honours year at ANU is not merely an additional year of study—it is a rigorous, research-intensive experience that **requires careful planning, strong academic performance, and proactive engagement with potential supervisors**. This guide walks you through every stage of the application process, from understanding eligibility thresholds to finalising your research proposal, based on the latest 2026 admissions cycle requirements.

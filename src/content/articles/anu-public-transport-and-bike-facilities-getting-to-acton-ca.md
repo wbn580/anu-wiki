@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU transport", "Canberra buses", "campus bike parking", "student commuting", "Acton Campus access"]
 slug: anu-public-transport-bike-facilities-acton-campus-suburbs
 ogImage: ""
+
 ---
 
 Commuting to the Australian National University's Acton Campus is a daily reality for over **21,000 students enrolled in 2026**, many of whom travel from suburbs across Canberra. According to Transport Canberra's 2026 operational data, the city's integrated public transport network now carries approximately **18.5 million passenger trips annually**, with a significant proportion serving the ANU community along the Northbourne Avenue corridor. The Acton Campus itself sits at the geographic and cultural heart of the capital, bordered by Lake Burley Griffin to the south and the bustling Civic precinct to the east, making it one of the most accessible university locations in Australia.

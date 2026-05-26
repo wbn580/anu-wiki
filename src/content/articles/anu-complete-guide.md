@@ -5,6 +5,7 @@ category: "overview"
 publishDate: "2026-05-15T04:00:00Z"
 readingTime: 14
 tags: ["anu", "australian-national-university", "canberra", "group-of-eight"]
+
 ---
 
 The Australian National University (ANU) occupies a singular position in Australian higher education. Unlike every other Australian university — which were established under state legislation — ANU was created by the *Australian National University Act 1946*, a federal Act of Parliament. This national charter, combined with its location in the national capital Canberra, gives ANU a research mandate and institutional identity distinct from the state-based university system.

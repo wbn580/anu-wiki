@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU clinical legal education", "ANU law clinic program", "ANU prison legal literacy", "ANU law practical experience", "Australian legal education"]
 slug: anu-college-law-clinical-legal-education-hands-on-experience
 ogImage: ""
+
 ---
 
 The Australian National University College of Law has embedded **clinical legal education** as a cornerstone of its JD and LLB programs, responding to a legal profession that increasingly values practice-ready graduates. Over 85% of ANU law students participated in at least one clinical placement during the 2025 academic year, and the 2026 QS World University Rankings by Subject placed ANU Law at 21st globally for law and legal studies. These figures underscore a deliberate shift toward experiential learning, where students engage directly with real clients, complex legal systems, and underserved communities. The ANU clinical legal education model integrates supervised practice, reflective seminars, and interdisciplinary collaboration, ensuring that graduates emerge not only with doctrinal knowledge but with the ethical grounding and practical skills essential for contemporary legal work.

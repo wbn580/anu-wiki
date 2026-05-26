@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU GPA", "7 point scale", "academic transcript", "exchange grades", "honours applications"]
 slug: anu-gpa-calculation-scales-internal-external
 ogImage: ""
+
 ---
 
 The Australian National University maintains a distinctive approach to **GPA calculation** that separates internal academic assessment from external transcript reporting. With over **22,000 students enrolled across undergraduate and postgraduate programs in 2026**, ANU's dual-scale system can create confusion for students navigating honours applications, exchange credits, and employment opportunities. According to the **2026 ANU Academic Standards and Quality Office report**, approximately 18% of student inquiries relate to GPA interpretation discrepancies.

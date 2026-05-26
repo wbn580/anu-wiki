@@ -6,6 +6,7 @@ pubDatetime: '2026-03-25T19:52:21Z'
 publishDate: '2026-03-25T19:52:21Z'
 readingTime: 14
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）校园内的疫苗接种服务由校内健康中心（ANU Health Centre）及合作药房提供，面向在校学生、教职工及部分社区成员。根据澳大利亚卫生部（Department of Health and Aged Care）2024年发布的《国家免疫计划》（National Immunization Program, NIP），ANU健康中心提供包括流感疫苗、COVID-19疫苗以及HPV疫苗在内的多种接种服务。2023年，ANU健康中心共完成超过4,200剂次疫苗接种，其中约68%为学生预约。随着2025年冬季流感季临近，了解校园接种点的服务时间与预约方式，对于保障学生群体免疫覆盖率具有直接现实意义。

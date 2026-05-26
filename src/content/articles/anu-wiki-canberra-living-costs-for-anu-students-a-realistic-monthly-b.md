@@ -8,6 +8,7 @@ author: Study Abroad Editor
 tags: ["Finance", "Living Costs", "ANU", "Canberra", "Student Budget"]
 slug: canberra-living-costs-anu-student-budget-2026
 ogImage: /img/og/待配.jpg
+
 ---
 
 ANU students face a unique financial landscape in Australia's capital. According to the Australian Government's Study Australia website, the recommended annual living budget for a single international student is AUD 24,505, but Canberra's premium rental market pushes real-world costs higher. Data from the Department of Home Affairs shows that student visa holders must demonstrate financial capacity of at least AUD 24,505 per year for living expenses, yet ANU's own estimates suggest a more realistic figure of AUD 28,000–32,000 annually when factoring in Canberra-specific costs. This guide breaks down your actual monthly expenses and shows you where savings are genuinely possible.

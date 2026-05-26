@@ -6,6 +6,7 @@ pubDatetime: '2026-03-04T19:47:56Z'
 publishDate: '2026-03-04T19:47:56Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）本科申请中，个人陈述（Personal Statement）是决定录取结果的关键材料之一。根据ANU官方招生数据，2023年申请季中，约65%的申请者提交了个人陈述，而其中仅有不到30%的陈述被招生委员会评为“具有说服力”【ANU Admissions Office, 2023, Undergraduate Application Statistics】。同时，Times Higher Education 2024年全球大学排名显示，ANU位列全球第67位，其选拔性专业（如法律、国际关系）的录取竞争尤为激烈【Times Higher Education, 2024, World University Rankings】。鉴于个人陈述在申请中的权重逐年上升——ANU自2020年起明确将个人陈述纳入综合评估体系——掌握撰写技巧并参考优秀范文，已成为申请者提升竞争力的关键路径。

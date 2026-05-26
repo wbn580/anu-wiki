@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU GPA calculation", "ANU postgraduate admissions", "Australian university grading", "international GPA conversion", "ANU entry requirements"]
 slug: anu-gpa-calculation-postgraduate-applications
 ogImage: ""
+
 ---
 
 Understanding how the Australian National University evaluates your academic record is essential when preparing a competitive postgraduate application. For the 2026 intake, ANU received over 8,500 postgraduate applications from more than 110 countries, with the average admitted GPA sitting at approximately 5.8 on the university's 7-point scale. International applicants, who now constitute roughly 42% of the postgraduate cohort according to the 2025 Annual Admissions Report, often find the conversion from their home grading systems particularly challenging. This guide breaks down exactly how ANU calculates your Grade Point Average, what minimum thresholds apply to different programs, and how international qualifications are assessed.

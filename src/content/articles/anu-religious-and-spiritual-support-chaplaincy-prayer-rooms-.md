@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU", "spiritual support", "chaplaincy", "prayer rooms", "student life"]
 slug: anu-religious-spiritual-support-chaplaincy-prayer-rooms-faith-groups
 ogImage: ""
+
 ---
 
 A 2026 survey conducted by Universities Australia revealed that **78% of domestic students** consider access to spiritual care and prayer facilities an important factor when evaluating campus wellbeing infrastructure. At the Australian National University, this need is met through a well-established network of chaplaincy services, dedicated prayer rooms, and faith-based student organisations. With over **20 religious and spiritual groups** currently active on campus, ANU maintains one of the most diverse multifaith ecosystems in the country's higher education sector. The university's commitment to spiritual inclusion is reflected in its **ANU Multi Faith Centre**, which serves as the cornerstone of religious life on campus, hosting daily prayer sessions, meditation workshops, and interfaith dialogue events throughout the academic year.

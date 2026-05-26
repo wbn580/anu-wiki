@@ -6,6 +6,7 @@ pubDatetime: '2026-03-16T19:50:25Z'
 publishDate: '2026-03-16T19:50:25Z'
 readingTime: 9
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）地理信息系统（GIS）专业的学生在课程与研究中广泛依赖Esri公司的ArcGIS软件套件。截至2024年，ANU是澳大利亚唯一一所与Esri签署了**全校范围站点许可协议**的高校，该协议覆盖ArcGIS Pro、ArcMap、ArcGIS Online及超过200个扩展模块，可为全校师生提供免费访问权限【Esri Australia 2024, ANU Site License Agreement】。根据澳大利亚统计局2023年数据，地理空间行业从业者数量在过去五年增长了27%，掌握ArcGIS已成为该领域求职的核心技能之一【ABS 2023, Employment in Geospatial Services】。本文系统梳理ANU在校生与研究人员获取ArcGIS软件许可的官方路径、安装注意事项及常见问题解决方案。

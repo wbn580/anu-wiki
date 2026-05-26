@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU remote library access", "off-campus database login", "document delivery service", "postal loan policy", "library proxy error fix"]
 slug: anu-remote-student-library-resources-off-campus-database-login-document-delivery-postal-loan-policies
 ogImage: ""
+
 ---
 
 As of early 2026, over **18,000 ANU students** are enrolled in fully online or mixed-mode programs, according to the university's latest enrolment statistics. The ANU Library maintains a digital collection spanning **3.2 million electronic resources**, including journals, databases, and e-books, all accessible to remote students through the university's proxy authentication system. Understanding how to navigate these resources from outside campus is essential for academic success, particularly when physical access to the Acton campus is not feasible.

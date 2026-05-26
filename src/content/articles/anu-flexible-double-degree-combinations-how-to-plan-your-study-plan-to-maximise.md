@@ -6,6 +6,7 @@ pubDatetime: '2026-04-16T19:56:43Z'
 publishDate: '2026-04-16T19:56:43Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）自2020年起实施灵活双学位（Flexible Double Degree, FDD）框架，允许学生在入学时或就读期间从超过40个本科学位中自由组合两个学位，形成个性化学习路径。根据ANU官方2024年招生数据，FDD学生平均可在4年（8个学期）内完成两个学士学位，比传统单学位路径节省1至1.5年时间，同时总学分要求从常规的192单位降至最低144单位【ANU, 2024, Flexible Double Degree Handbook】。这一模式的核心价值在于**学分重叠**（credit overlap）——即两个学位共享的基础课程可互相抵扣，从而释放选课空间用于专业深化或跨学科探索。随着澳大利亚2023年《毕业生成果调查》（Graduate Outcomes Survey）显示，拥有跨学科技能的毕业生全职就业率比单一专业毕业生高出12.3个百分点【QILT, 2023, Graduate Outcomes Survey】，FDD组合的规划正成为学生提升职业竞争力的关键策略。

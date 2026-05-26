@@ -6,6 +6,7 @@ pubDatetime: '2026-04-30T19:59:20Z'
 publishDate: '2026-04-30T19:59:20Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）要求所有在校学生通过校内信息系统 ISIS 与校园安全应用 SafeZone 登记并维护紧急联系人信息。根据 ANU 安全与应急管理办公室 2024 年发布的《校园安全指引》，超过 78% 的学生在入学首周未完成 SafeZone 账户激活，而 2023 年该校共记录 342 起需要紧急联络的医疗与安全事件【ANU, 2024, Campus Safety Guidelines】。澳大利亚教育、技能与就业部 2023 年的国际学生安全报告指出，拥有有效紧急联系人信息的留学生，在遭遇突发状况时的平均响应时间缩短 40%【DESE, 2023, International Student Safety Report】。本条目提供在 ISIS 与 SafeZone 中设置及更新紧急联系人的分步操作说明，覆盖网页端与移动端流程。

@@ -6,6 +6,7 @@ pubDatetime: '2026-05-02T19:59:35Z'
 publishDate: '2026-05-02T19:59:35Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）在其校内住宿（On-Campus Accommodation）中实行一套结构化的访客政策，旨在平衡住户的社交自由与社区的居住安全。根据ANU住宿服务部门（ANU Accommodation Services）2024年发布的《居民手册》（Resident Handbook），所有访客必须在抵达前通过指定系统完成在线注册，且单次过夜停留不得超过连续3晚（72小时）。该政策覆盖ANU全部14栋校内宿舍楼，包括Bruce Hall、Ursula College、Wright Hall等，涉及约4,500名住宿学生。这一规则在当前澳大利亚国际学生人数回升至约65万人（澳大利亚教育部，2024年《国际学生数据报告》）的背景下显得尤为重要——高密度的居住环境需要明确的访客管理框架来保障安全与秩序。

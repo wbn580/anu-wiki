@@ -6,6 +6,7 @@ pubDatetime: '2026-05-21T20:03:18Z'
 publishDate: '2026-05-21T20:03:18Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）兽医学士（Bachelor of Veterinary Science）课程是澳大利亚仅有的九所经澳大利亚兽医委员会（AVBC）认证的兽医学位之一，其临床实习（Clinical Placements）环节要求学生完成至少 **1,800 小时** 的 supervised clinical experience 方可毕业。根据澳大利亚工作健康与安全法（WHS Act 2011），所有参与动物接触的学生必须完成 **强制性 PPE（个人防护装备）培训** 并遵守《澳大利亚动物处理安全指南》（Australian Animal Handling Safety Guidelines, 2023）。本文基于 ANU 官方课程手册（2024）、AVBC 认证标准（2023）及 Safe Work Australia 统计数据（2022），系统梳理动物处理安全协议、PPE 分级要求及实习日志（Placement Logbook）的填写规范。

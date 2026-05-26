@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU clubs", "international postgraduates", "PARSA funding", "student life", "campus community"]
 slug: anu-clubs-societies-international-postgraduates-guide
 ogImage: ""
+
 ---
 
 As an international postgraduate student at the Australian National University, your academic journey is only one part of the experience. The university is home to over 180 active clubs and societies, with more than 40 percent of postgraduate members identifying as international students according to the ANU Student Association 2026 enrolment data. Engaging with these groups can transform your time in Canberra, offering everything from professional networking to cultural celebration. The Postgraduate and Research Students' Association, known as PARSA, directly supports this ecosystem by allocating over $150,000 annually in club grants and event funding. Understanding how to navigate the clubs landscape, secure financial support, and attend key social events will help you build lasting connections while studying far from home.

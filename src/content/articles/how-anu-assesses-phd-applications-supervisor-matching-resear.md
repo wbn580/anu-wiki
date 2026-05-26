@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU PhD admission", "PhD research proposal", "supervisor matching", "Australian doctoral programs", "graduate research assessment"]
 slug: how-anu-assesses-phd-applications-supervisor-matching-research-proposal-gpa
 ogImage: ""
+
 ---
 
 ## Understanding ANU's Holistic PhD Assessment Framework

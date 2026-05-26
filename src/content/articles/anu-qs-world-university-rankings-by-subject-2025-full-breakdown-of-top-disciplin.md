@@ -6,6 +6,7 @@ pubDatetime: '2026-04-08T19:55:00Z'
 publishDate: '2026-04-08T19:55:00Z'
 readingTime: 7
 tags: ["featured"]
+
 ---
 
 The 2025 edition of the QS World University Rankings by Subject placed the Australian National University (ANU) among the global top 20 in seven distinct disciplines, with its **Anthropology** program ranked 8th worldwide and **Archaeology** ranked 11th, according to QS Quacquarelli Symonds (2025). These rankings, which evaluate performance across 55 academic subjects, underscore ANU’s concentrated strength in the social sciences and humanities, fields that account for 4 of its top-20 entries. For prospective students and current enrollees, the 2025 subject rankings offer a data-driven lens through which to assess the university’s departmental reputation, research output, and employer recognition, particularly as international student applications to Australian universities rose by 14% in the 2024-2025 cycle (Australian Department of Education, 2025).

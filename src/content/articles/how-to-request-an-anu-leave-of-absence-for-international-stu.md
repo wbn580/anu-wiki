@@ -8,6 +8,7 @@ author: cowork
 tags: []
 slug: anu-leave-of-absence-international-students-guide
 ogImage: ""
+
 ---
 
 Navigating university life as an international student comes with a unique set of challenges and opportunities. Sometimes, unforeseen circumstances or strategic personal decisions mean you need to press pause on your studies. At the Australian National University, this is formally known as taking a **Program Leave**, or a leave of absence. According to the Australian Government's Department of Education, over 18% of international students consider taking a break during their degree for reasons ranging from health to career opportunities. In 2026, ANU updated its student leave policies to provide clearer pathways, but the process remains a critical intersection of university administration and Australian immigration law.

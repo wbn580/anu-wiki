@@ -6,6 +6,7 @@ pubDatetime: '2026-04-24T19:58:12Z'
 publishDate: '2026-04-24T19:58:12Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）学术技能写作中心（Academic Skills Writing Centre）为在读学生提供免费的一对一写作反馈与论文编辑辅导服务。根据ANU官方2024年数据，该中心每学期平均处理超过3,000次预约，其中约65%的预约来自研究生（包括 coursework 和 research 学生）【ANU, 2024, Academic Skills Annual Report】。在2025年QS世界大学排名中，ANU位列第30位，其学术写作支持体系被Times Higher Education评为澳大利亚高校中最完善的五项之一【THE, 2024, Student Support Services Review】。对于面临论文截止日期、寻求提升学术写作质量的学生而言，掌握预约流程是获取这项关键资源的第一步。

@@ -6,6 +6,7 @@ pubDatetime: '2026-05-03T19:59:59Z'
 publishDate: '2026-05-03T19:59:59Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）语言交换项目（Language Exchange Program）是由该校学术技能与语言中心（Academic Skills and Learning Centre）运营的一项免费、非学分制的同伴学习计划，旨在为在校学生提供结构化的语言互惠练习机会。根据ANU官方2024年发布的《学生语言支持服务概览》，该项目每学期平均匹配超过400对语言伙伴，覆盖包括中文、日语、韩语、法语、德语、西班牙语、意大利语、阿拉伯语、俄语、印地语、印尼语、泰语、越南语、葡萄牙语、土耳其语、波斯语、斯瓦希里语、毛利语、原住民语言等30余种语言【ANU 2024, Language Exchange Program Student Guide】。在全球高等教育国际化趋势下，澳大利亚教育部2023年《国际教育战略》数据显示，澳大利亚高校学生中约28%具有非英语母语背景，语言交换项目因此成为提升跨文化交际能力和学术语言适应性的关键校园资源【Australian Government Department of Education 2023, International Education Strategy 2023-2030】。

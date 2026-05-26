@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU academic misconduct penalties", "ANU academic integrity breach escalation", "ANU suspension for plagiarism", "ANU exclusion triggers", "ANU academic misconduct case outcomes"]
 slug: anu-academic-misconduct-penalty-ranges
 ogImage: ""
+
 ---
 
 Understanding how ANU classifies and penalises academic misconduct is essential for every student navigating the university's rigorous integrity framework. In the 2025 academic year alone, ANU's Academic Integrity Office processed over 340 formal breach allegations, with approximately 18% resulting in suspension or exclusion outcomes. The stakes are high, and the escalation path from a seemingly minor warning letter to permanent exclusion can be shorter than many students realise.

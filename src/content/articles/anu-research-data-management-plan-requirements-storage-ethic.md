@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU data management plan", "ANU research data storage", "HDR data compliance ANU", "ANU ethics data", "ANU research milestone review"]
 slug: anu-research-data-management-plan-hdr-candidates
 ogImage: ""
+
 ---
 
 As of 2026, the Australian National University (ANU) reports that over 85% of Higher Degree by Research (HDR) candidates must submit a formal **research data management plan** before their first major milestone review. The university's Research Data Management Framework, updated in January 2026, now integrates directly with the **ANU research milestone review** process, making compliance essential for timely candidature progression. With ANU generating more than 12 petabytes of active research data across its seven colleges, HDR candidates face increasing scrutiny regarding how they store, protect, and ethically manage their research outputs. This guide examines the core requirements, storage infrastructure, ethics integration, and compliance pathways that every ANU HDR candidate needs to understand.

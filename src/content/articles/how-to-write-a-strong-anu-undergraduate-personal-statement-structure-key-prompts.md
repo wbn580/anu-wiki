@@ -6,6 +6,7 @@ pubDatetime: '2026-04-19T19:57:16Z'
 publishDate: '2026-04-19T19:57:16Z'
 readingTime: 8
 tags: ["featured"]
+
 ---
 
 The Australian National University (ANU) received 21,962 undergraduate applications for the 2024 academic year, with an offer rate of approximately 72.5%, according to the university’s 2024 Annual Report. Among these, international student applications constituted a significant portion, and the personal statement remains a decisive factor in the competitive admissions process, particularly for programs with capped enrolment such as the Bachelor of Advanced Computing (Honours) and the Bachelor of Philosophy (Ph.D.) program. This article provides a structured guide to crafting a strong ANU undergraduate personal statement, covering required structure, key prompts from the official application portal, and annotated example essays that illustrate how to align personal narratives with ANU’s stated selection criteria.

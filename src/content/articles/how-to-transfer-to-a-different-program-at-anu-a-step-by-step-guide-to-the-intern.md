@@ -6,6 +6,7 @@ pubDatetime: '2026-04-09T19:55:17Z'
 publishDate: '2026-04-09T19:55:17Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）每年处理超过 1,200 份内部转学申请（ANU Student Administration, 2023, *Internal Transfer Data*），其中约 67% 的申请者在满足课程先修条件后成功转入目标专业。根据澳大利亚教育部 2023 年发布的《高等教育学生数据年度报告》，全澳高校内部转学率在过去五年上升了 14%，反映出学生根据学术兴趣和职业规划灵活调整专业路径的需求日益增长。对于 ANU 在读学生而言，掌握内部转学系统（Internal Transfer System）的操作流程与学分认可（Credit Recognition）规则，是有效利用这一制度的关键。

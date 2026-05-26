@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU graduation", "graduation ceremony guide", "Australian National University", "academic dress hire", "graduation day preparation"]
 slug: anu-graduation-ceremony-guide-registration-tickets-what-to-expect
 ogImage: ""
+
 ---
 
 Graduating from the **Australian National University** represents the culmination of years of dedication, late-night study sessions, and intellectual growth. As you prepare to cross the stage in one of the most prestigious ceremonies in the Southern Hemisphere, understanding the logistics becomes essential. In 2026, ANU will confer degrees upon over 5,500 graduates across multiple ceremonies, with each event accommodating approximately 400 to 600 graduands alongside their guests. The university has refined its processes post-pandemic to ensure a seamless experience, but navigating the registration system, ticket allocations, and academic dress requirements still demands careful attention. This guide walks you through every stage, from the moment you receive your eligibility email to the final recessional procession, ensuring you can focus on celebrating your achievement rather than worrying about administrative details.

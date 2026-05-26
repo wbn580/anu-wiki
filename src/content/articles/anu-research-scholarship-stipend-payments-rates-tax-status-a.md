@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU stipend payment", "ANU research scholarship tax", "ANU PhD paid leave", "HDR stipend ANU", "ANU scholarship conditions"]
 slug: anu-research-scholarship-stipend-payments-2026
 ogImage: ""
+
 ---
 
 Understanding the financial framework of your research degree is just as critical as your academic preparation. The Australian National University (ANU) remains one of the highest-ranked institutions globally, consistently placing within the top 50 in the QS 2026 World University Rankings. For domestic and international higher degree by research (HDR) candidates, the **ANU stipend payment** system represents the backbone of financial stability during a PhD or MPhil. According to the Department of Education's 2025 National Research Workforce Strategy, over 65% of full-time doctoral candidates in Australia rely primarily on university stipends to cover living costs, making precise knowledge of payment schedules, tax implications, and leave balances essential.

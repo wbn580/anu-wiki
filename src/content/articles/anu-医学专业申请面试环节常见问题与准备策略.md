@@ -6,6 +6,7 @@ pubDatetime: '2026-03-02T19:47:32Z'
 publishDate: '2026-03-02T19:47:32Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）医学与健康学院（College of Health and Medicine）的医学博士（Doctor of Medicine, MD）项目，是澳大利亚竞争最激烈的临床医学入学通道之一。根据澳大利亚医学委员会（Australian Medical Council, 2023）的数据，ANU MD 项目每年招收约 80 名学生，而申请人数通常超过 1,200 人，录取率约为 6.7%。面试环节作为申请流程的核心筛选阶段，其表现直接决定最终录取结果。随着 2025 年入学申请季的临近，了解 ANU 面试的特定结构、常见问题类型及系统准备策略，对于有意向的申请者而言具有明确的现实价值。

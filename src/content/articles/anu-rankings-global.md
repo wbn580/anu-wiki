@@ -3,6 +3,7 @@ title: "ANU Rankings · QS, THE, ARWU, and Subject Rankings"
 description: "ANU's performance in major global university rankings — historical trends, subject strengths, and how ANU compares with other Australian and international universities."
 category: "education"
 publishDate: "2026-05-15T07:15:00Z"
+
 ---
 
 The Australian National University consistently ranks as Australia's #1 university and among the world's top 50 institutions. This article analyses ANU's performance across the three major ranking systems and explains the methodology behind the numbers.

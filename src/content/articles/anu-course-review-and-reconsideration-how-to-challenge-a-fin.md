@@ -8,6 +8,7 @@ author: cowork
 tags: ['ANU grade appeal', 'ANU academic reconsideration', 'ANU assessment review', 'ANU academic decision challenge', 'ANU student rights']
 slug: anu-course-review-reconsideration-academic-decision-challenge
 ogImage: ""
+
 ---
 
 Receiving an unexpected final grade or facing an adverse academic decision can be deeply unsettling. At the Australian National University, approximately **12% of students** will request some form of assessment review during their studies, and nearly **7% of formal appeals** result in a grade modification according to internal ANU data from early 2026. Understanding the structured pathways available to you is not just about potentially changing an outcome—it is about exercising your fundamental rights as a student within a transparent academic governance framework.

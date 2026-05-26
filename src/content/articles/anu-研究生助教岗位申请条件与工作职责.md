@@ -6,6 +6,7 @@ pubDatetime: '2026-03-15T19:50:10Z'
 publishDate: '2026-03-15T19:50:10Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）在2024年共雇佣了约1,200名研究生助教（Graduate Teaching Assistant，简称GTA），覆盖全校7个学院的本科与研究生课程【ANU 2024, Annual Report on Teaching Support】。根据澳大利亚联邦教育部的统计，2023年全澳大学研究生助教平均时薪为42.50澳元，而ANU的GTA时薪区间为45.00至55.00澳元，高于全国均值约12%【Australian Government Department of Education 2023, Higher Education Staff Data】。这一岗位不仅为研究生提供经济支持，更是学术职业路径的关键起点——ANU内部调查显示，约35%的学术职位候选人曾有GTA经历【ANU 2023, Graduate Outcomes Survey】。

@@ -8,6 +8,7 @@ author: cowork
 tags: ['ANU research proposal', 'HDR application', 'ethics approval', 'supervisor feedback', 'academic writing']
 slug: anu-research-proposal-guide
 ogImage: ""
+
 ---
 
 ANU receives over 3,000 HDR applications annually, and the Graduate Research Office reports that approximately 40% of initial proposals require significant revision before departmental endorsement in 2026. A well-structured **ANU research proposal** does more than outline a project—it demonstrates your capacity to contribute original knowledge under the ANU research environment. This guide walks you through the formatting standards, ethics clearance pathways, and supervisor engagement strategies that distinguish successful applications.

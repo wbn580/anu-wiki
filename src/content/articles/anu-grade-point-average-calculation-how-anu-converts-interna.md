@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU admissions", "GPA calculation", "international transcripts", "postgraduate requirements", "Australian grading system"]
 slug: anu-gpa-calculation-international-transcripts
 ogImage: ""
+
 ---
 
 As one of Australia’s most research-intensive institutions, the Australian National University (ANU) receives over 15,000 international applications annually for its undergraduate and postgraduate programs. For the 2026 intake, ANU continues to refine its transparent approach to academic assessment, ensuring that qualifications from more than 140 countries are evaluated fairly and consistently. **Understanding how ANU converts international transcripts into a Grade Point Average (GPA)** is essential for prospective students, because even a marginal difference in calculation can influence admission outcomes, scholarship eligibility, and conditional offer thresholds.

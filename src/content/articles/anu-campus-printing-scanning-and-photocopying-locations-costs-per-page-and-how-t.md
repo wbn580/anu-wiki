@@ -6,6 +6,7 @@ pubDatetime: '2026-04-19T19:57:17Z'
 publishDate: '2026-04-19T19:57:17Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的校园打印、扫描与复印服务由信息技术服务部（ITS）统一管理，覆盖全校超过30个打印站（ANU ITS, 2024, Campus Printing Services）。该系统采用PaperCut软件平台，支持学生通过学生卡（ANU ID Card）或移动设备进行身份验证与支付。2024年，ANU校园打印系统的黑白单面打印费用为每页0.08澳元，彩色单面打印为每页0.50澳元，扫描服务免费（ANU ITS, 2024, Print Pricing and Locations）。随着2025年第一学期开学在即，了解打印点分布、费用结构及充值方式，成为新生与返校生高效管理学习成本的基础技能。

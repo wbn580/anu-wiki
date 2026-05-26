@@ -5,6 +5,7 @@ category: "admissions"
 publishDate: "2026-05-15T04:00:00Z"
 readingTime: 10
 tags: ["anu", "admissions", "applications", "entry-requirements"]
+
 ---
 
 ANU's admissions process differs from other Australian universities in several important ways — most notably its unique direct application system and early offer framework. This guide covers undergraduate and postgraduate entry requirements for both domestic and international applicants.

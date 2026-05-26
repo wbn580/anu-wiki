@@ -8,6 +8,7 @@ author: cowork
 tags: ["student wellbeing", "ANU counselling", "international student support", "mental health services", "Australian universities"]
 slug: anu-mental-health-support-international-students
 ogImage: ""
+
 ---
 
 International students at the Australian National University represent over **45% of the total student population** in 2026, according to the ANU Annual Report. Navigating academic pressure while adjusting to a new cultural environment can create significant mental health challenges. Research from the OECD Education at a Glance 2026 report indicates that **international students are 2.3 times more likely** to report feelings of isolation compared to domestic peers. ANU has responded with a multi-layered support system specifically designed to address these needs.

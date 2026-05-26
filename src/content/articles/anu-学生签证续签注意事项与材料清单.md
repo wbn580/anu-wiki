@@ -6,6 +6,7 @@ pubDatetime: '2026-02-24T19:46:11Z'
 publishDate: '2026-02-24T19:46:11Z'
 readingTime: 13
 tags: ["featured"]
+
 ---
 
 截至2025年，澳大利亚内政部（Department of Home Affairs）数据显示，学生签证（Subclass 500）的全球平均拒签率约为9.8%，而中国籍申请人的拒签率约为3.5%【澳大利亚内政部，2025，Student Visa Processing Report】。对于在澳洲国立大学（ANU）就读的国际学生而言，签证续签并非简单的表格填写，而是一项涉及学业进度证明、财务能力佐证及健康保险衔接的合规流程。随着2024年移民战略改革对真实学生要求（Genuine Student Requirement, GS）的强化，续签材料需要更精确地反映学生的学习轨迹与在澳意图。本文基于澳大利亚移民法规与ANU官方政策，系统梳理ANU学生签证续签的注意事项与必需材料清单。

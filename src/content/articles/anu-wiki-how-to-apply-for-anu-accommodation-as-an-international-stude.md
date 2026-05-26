@@ -8,6 +8,7 @@ author: Senior Education Editor
 tags: ["ANU accommodation", "international student housing", "Australian National University", "student residence", "Canberra rental"]
 slug: anu-accommodation-application-guide-international-students
 ogImage: /img/og/待配.jpg
+
 ---
 
 Navigating the **ANU accommodation application** process is one of the most critical steps in your journey to Australia's top-ranked university. According to the Australian National University's 2026 Planning Report, over 6,500 international students seek on-campus living annually, yet the university guarantees accommodation only for first-year undergraduates who meet strict application deadlines. The Department of Education's 2026 International Student Data shows that Canberra's vacancy rate for purpose-built student housing tightened to 2.1%, making early planning essential. This guide breaks down every phase of securing **international student housing** at ANU, from selecting the right residence hall to understanding your rental contract.

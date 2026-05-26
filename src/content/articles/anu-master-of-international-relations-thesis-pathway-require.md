@@ -8,6 +8,7 @@ author: cowork
 tags: ["anu", "international relations", "thesis pathway", "postgraduate research", "australia"]
 slug: anu-mir-thesis-pathway-guide
 ogImage: ""
+
 ---
 
 The Australian National University (ANU) Master of International Relations (MIR) program enrols over 300 postgraduate students annually, with approximately 40% opting for the thesis pathway according to 2026 internal program data. This research-intensive option distinguishes ANU from many Australian universities by offering a **24-unit thesis component** that constitutes 50% of the degree. Students pursuing the **ANU MIR thesis** pathway engage in original research under the supervision of scholars from the Coral Bell School of Asia Pacific Affairs, which ranks among the top 10 globally for international relations research in the 2025 QS World University Rankings by Subject.

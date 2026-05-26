@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU counselling", "student mental health", "free wellbeing resources", "international student support", "telehealth services"]
 slug: anu-mental-health-wellbeing-free-resources-2025
 ogImage: ""
+
 ---
 
 Navigating university life at the Australian National University (ANU) comes with unique pressures. According to the 2025 Student Experience Survey, nearly 38% of Australian university students reported elevated psychological distress, a figure that has prompted institutions like ANU to expand their support frameworks significantly. For ANU students, access to professional help doesn't have to carry a financial burden. The university has structured its 2025 wellbeing offerings around accessibility, ensuring that **free mental health resources** are available to everyone from the moment they enrol. Whether you are an undergraduate adjusting to campus life or an international student managing cross-cultural stress, understanding exactly what is free and how to access it can make a critical difference. This guide breaks down the core services, booking procedures, and urgent support options available without charge throughout 2025.

@@ -6,6 +6,7 @@ pubDatetime: '2026-03-12T19:49:26Z'
 publishDate: '2026-03-12T19:49:26Z'
 readingTime: 13
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）自 2015 年起全面推行线上课程评估系统 Student Survey of Courses and Teaching（SSC&T），旨在收集学生对课程结构与教学质量的匿名反馈。根据 ANU 教学与学习中心（Centre for Learning and Teaching, CLT）2024 年发布的《SSC&T 年度报告》，该校每学期平均发放约 45,000 份问卷，回收率稳定在 62%–68% 之间，高于澳大利亚大学联盟（Universities Australia）2023 年统计的全澳高校课程评估平均回收率（54%）。该调查结果直接影响课程调整、教师晋升及学院资源分配，是 ANU 内部质量保障体系的核心环节之一。对于在读学生而言，了解填写流程与影响力，有助于在学术社区中行使评价权，并间接优化自身学习体验。

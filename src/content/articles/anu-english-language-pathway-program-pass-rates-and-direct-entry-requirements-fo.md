@@ -6,6 +6,7 @@ pubDatetime: '2026-04-14T19:56:15Z'
 publishDate: '2026-04-14T19:56:15Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）英语语言衔接课程（ANU English Language Pathway Program）是专为未达到直接入学英语要求的学生设计的学术英语预备课程，完成该课程并达到指定成绩后，学生可直升ANU本科或研究生学位课程。根据澳大利亚教育部2023年《国际学生数据年度报告》，2022年澳大利亚大学语言衔接课程的整体完成率约为82%，而ANU英语语言衔接课程在2023年的内部数据显示，其通过率稳定在85%至90%之间，具体因课程级别和入学英语水平而异【澳大利亚教育部，2023，《国际学生数据年度报告》】。该课程由ANU College运营，其直接入学要求（Direct Entry Requirements）与雅思（IELTS）或托福（TOEFL）成绩挂钩，例如完成ANU Access English课程且成绩达到60%以上，可满足多数研究生课程的英语要求，无需再提交雅思成绩【ANU College, 2024, ANU English Language Pathway Program Handbook】。在当前澳大利亚学生签证英语要求收紧（2024年移民局将临时毕业生签证雅思要求从6.0提高至6.5）的背景下，了解该路径的通过率与衔接条件，对计划入读ANU的学生具有直接参考价值。

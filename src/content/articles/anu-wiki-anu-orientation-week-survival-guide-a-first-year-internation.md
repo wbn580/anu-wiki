@@ -8,6 +8,7 @@ author: StudyAbroad Editorial Team
 tags: ["ANU orientation week", "first-year international student", "settling in Canberra", "campus tour", "orientation events"]
 slug: anu-orientation-week-survival-guide-first-year-international-students
 ogImage: /img/og/待配.jpg
+
 ---
 
 Starting your journey as a **first-year international student** at The Australian National University is thrilling, yet the sheer volume of information during **ANU orientation week** can feel overwhelming. Data from the Australian Department of Education indicates that over 45% of international students in 2025 reported feeling "information overload" during their first week on campus. This guide cuts through the noise, ensuring you master the critical **orientation events**, ace your **campus tour**, and establish a solid foundation for **settling in Canberra**. By the end of this week, you won't just be a tourist on campus; you'll be a functioning member of the ANU community.

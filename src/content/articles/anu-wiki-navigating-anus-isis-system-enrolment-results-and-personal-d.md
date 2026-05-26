@@ -8,6 +8,7 @@ author: StudyAbroad Editorial Team
 tags: ["ANU ISIS", "student portal", "enrolment system", "check grades", "update details"]
 slug: anu-isis-system-guide
 ogImage: /img/og/待配.jpg
+
 ---
 
 The Australian National University's Interactive Student Information Services, universally known as **ANU ISIS**, is the digital backbone of academic life for over 20,000 students. A 2025 university technology survey indicated that 94% of ANU students access the **student portal** at least weekly, making proficiency in this **enrolment system** essential. Whether you need to **check grades**, **update details**, or manage your entire enrolment journey, understanding ISIS is your first step toward a smooth university experience. This guide breaks down every critical function, from initial log-in to advanced features, ensuring you navigate the platform with confidence in 2026.

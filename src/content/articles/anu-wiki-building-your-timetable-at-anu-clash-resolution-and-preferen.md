@@ -8,6 +8,7 @@ author: Senior Academic Editor
 tags: ["ANU timetable", "class registration", "myTimetable", "timetable clash", "preference entry"]
 slug: anu-timetable-clash-resolution-preference-entry
 ogImage: /img/og/待配.jpg
+
 ---
 
 Navigating the class registration period at the Australian National University can feel like a strategic puzzle. With **over 20,000 students** vying for their ideal class slots each semester, understanding the nuances of the **myTimetable** system is not just helpful—it is essential. According to ANU's 2026 enrolment data, **87% of undergraduate courses** now utilise the preference-based allocation model, shifting the focus from a first-come, first-served race to a more equitable, algorithm-driven process. This guide breaks down how to build an optimal **ANU timetable**, resolve clashes, and master preference entry to secure a schedule that supports your academic and personal life.

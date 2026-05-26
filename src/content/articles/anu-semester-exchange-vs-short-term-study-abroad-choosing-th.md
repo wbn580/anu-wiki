@@ -8,6 +8,7 @@ author: cowork
 tags: ["anu semester exchange", "anu short term study abroad", "anu global programs comparison", "anu exchange vs study abroad", "study abroad australia"]
 slug: anu-semester-exchange-vs-short-term-study-abroad
 ogImage: ""
+
 ---
 
 The Australian National University (ANU) facilitates over 2,000 student mobility experiences annually through its Global Programs office, with **semester exchange** and **short-term study abroad** representing the two most popular pathways. According to the 2026 ANU Global Engagement Report, 67% of outgoing students opted for semester-length programs while 28% chose short-term options lasting 2–8 weeks. Both formats offer distinct advantages depending on your academic timeline, budget, and personal objectives. This comparison breaks down the key differences to help you select the right international experience.

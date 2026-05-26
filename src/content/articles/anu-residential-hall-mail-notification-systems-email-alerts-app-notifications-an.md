@@ -6,6 +6,7 @@ pubDatetime: '2026-05-20T20:03:13Z'
 publishDate: '2026-05-20T20:03:13Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳洲国立大学（ANU）校内住宿系统每年服务超过6,000名住校学生，其中包裹与信件投递量在2023年学术年度同比增长约18%（ANU Accommodation Services, 2023, Annual Operational Report）。随着在线购物和国际快递的普及，各住宿学院（Residential Halls）和宿舍楼（Lodges）的邮件通知系统成为学生日常生活的关键环节。本文基于ANU官方住宿手册及2024年更新的服务协议，系统梳理邮件提醒（Email Alerts）、App推送通知（App Notifications）以及前台领取时间（Front Desk Collection Hours）三类核心通知渠道的运作机制与时效标准。

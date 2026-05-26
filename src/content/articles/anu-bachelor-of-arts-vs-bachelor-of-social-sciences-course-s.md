@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU", "Bachelor of Arts", "Bachelor of Social Sciences", "undergraduate degrees", "career outcomes"]
 slug: anu-bachelor-arts-vs-social-sciences-comparison
 ogImage: ""
+
 ---
 
 Choosing between the **ANU Bachelor of Arts** and the **ANU Bachelor of Social Sciences** can shape your academic journey and professional future. Both degrees sit within the College of Arts and Social Sciences at the Australian National University, consistently ranked among the world’s top 40 institutions in the QS World University Rankings 2026. Yet their focus, flexibility, and career pathways differ significantly. According to the Australian Government’s 2026 Graduate Outcomes Survey, **arts and social sciences graduates** report an 84.3% full-time employment rate within four months of course completion, underscoring the value employers place on analytical and communication skills. This article unpacks the **course structures, major options, entry criteria, and career trajectories** of these two popular ANU undergraduate programs, equipping you with the details needed to decide which aligns with your goals.

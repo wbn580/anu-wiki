@@ -8,6 +8,7 @@ author: cowork
 tags: ["anu health science", "pre-med australia", "clinical placements", "medicine pathway", "health degree career"]
 slug: anu-bachelor-health-science-clinical-placements-medicine-pathways
 ogImage: ""
+
 ---
 
 The Australian National University Bachelor of Health Science has become a strategic entry point for students aiming to enter postgraduate medicine. With over 85% of graduates securing a health-related role or further study within six months according to the 2026 Graduate Outcomes Survey, the program combines foundational biomedical sciences with structured clinical exposure. This article examines the **anu health science clinical placement** framework, **anu bachelor of health science medicine pathway** options, and long-term career outcomes. We draw on current data from ANU internal reports and the Australian Department of Health to provide a comprehensive guide.

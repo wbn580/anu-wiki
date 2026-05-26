@@ -6,6 +6,7 @@ pubDatetime: '2026-03-19T19:51:00Z'
 publishDate: '2026-03-19T19:51:00Z'
 readingTime: 13
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）天文学专业依托其位于斯壮罗山（Mount Stromlo）的观测站，定期面向在校学生及公众开放天文台观测之夜（Observatory Open Night）活动。该活动由ANU天文学与天体物理学研究院（Research School of Astronomy and Astrophysics, RSAA）组织运营，是澳大利亚境内历史最悠久、设备最完善的公共天文科普项目之一。据ANU官方数据，斯壮罗山观测站每年接待超过15,000名访客【ANU 2023，RSAA Annual Report】；而根据澳大利亚国家统计局（ABS）2022年科学素养调查，全国仅有约12%的成年人曾使用过专业级天文望远镜进行观测【ABS 2022，Science Literacy Survey】。随着2025年澳中文化交流进一步恢复，越来越多的中国留学生开始关注这一独特学术资源，天文台观测之夜的预约渠道与参与规则因此成为高频查询话题。

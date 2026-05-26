@@ -6,6 +6,7 @@ pubDatetime: '2026-03-01T19:47:15Z'
 publishDate: '2026-03-01T19:47:15Z'
 readingTime: 14
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）采用双学期制（Semester 1 & 2），辅以夏季学期（Summer Session）和冬季学期（Winter Session），其**学术日历**由校方学术委员会每年核定发布。2025 学年，ANU 第一学期教学周（Teaching Period）从 2 月 17 日持续至 5 月 30 日，共计 14 周，其中包含为期 1 周的期中假期（Mid-Semester Break）。根据澳大利亚教育部《2023 年高等教育学生数据报告》（Department of Education, 2024），ANU 全日制本科生平均每学期注册 4 门课程（24 个学分单位），准确掌握**选课窗口**（Enrolment Window）与**考试时间表**（Examination Timetable）的发布节点，直接影响学分修读进度与毕业规划。本文基于 ANU 官方 2025 年学术日历与历年政策文件，系统梳理选课、考试与放假的关键日期，为在校生与准新生提供可操作的日程参考。

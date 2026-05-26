@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU parking", "campus commuting", "student transport", "Acton campus", "sustainable travel"]
 slug: anu-parking-permit-guide-2026-zones-pricing-alternatives
 ogImage: ""
+
 ---
 
 For students and staff arriving at the Australian National University in 2026, securing a reliable parking spot remains one of the more persistent logistical challenges of campus life. The Acton campus accommodates over **25,000 enrolled students** and approximately **4,000 full-time equivalent staff**, yet the total number of on-campus parking bays sits at just under **3,800 spaces**, according to the ANU Transport and Mobility Strategy 2025-2030. This structural imbalance means that understanding the **ANU parking permit 2026** system before you arrive can save you significant time, money, and frustration during peak teaching periods.

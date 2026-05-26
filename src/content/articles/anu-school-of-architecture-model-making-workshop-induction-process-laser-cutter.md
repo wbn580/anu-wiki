@@ -6,6 +6,7 @@ pubDatetime: '2026-05-14T20:02:02Z'
 publishDate: '2026-05-14T20:02:02Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）建筑与设计学院的模型制作工坊（Model-Making Workshop）是建筑学、设计学及工程学学生完成实体模型制作的核心设施。该工坊每年服务超过 1,200 名注册学生，配备 6 台工业级激光切割机（包括 2 台 Trotec Speedy 400 和 4 台 Epilog Zing 24），以及 3 台 CNC 数控铣床和 12 台 3D 打印机【ANU Facilities & Services, 2024, “Workshop Equipment Inventory”】。根据 2024 年 QS 世界大学学科排名，ANU 建筑与建筑环境学科位列全球第 51-100 名区间，其工坊的开放性操作流程与材料成本结构是学生规划预算与项目进度的关键参考【QS World University Rankings by Subject 2024】。本文基于 ANU 官方安全手册、工坊管理细则及 2025 学年最新材料价目表，系统梳理工坊的准入流程、设备使用规范及材料费用，为在校生及预备留学生提供实操指引。

@@ -6,6 +6,7 @@ pubDatetime: '2026-03-15T19:50:02Z'
 publishDate: '2026-03-15T19:50:02Z'
 readingTime: 11
 tags: ["featured"]
+
 ---
 
 ANU 校园失物招领处位于校园安保中心（Security Office）内，具体地址为 **Building 9, Union Court**，每周一至周五 08:00–18:00 对外开放。根据 ANU 官方 2024 年度校园安全报告【ANU Security, 2024, Annual Campus Safety Report】，该中心年均登记失物约 1,200 件，其中约 67% 的物品在 30 日内被认领。对于无法亲临现场的学生，ANU 同时提供 **在线失物申报系统**（Lost Property Online Portal），该系统与物理办公室数据实时同步，支持 24 小时提交申报。这一双重通道的设计，在澳洲八校联盟（Go8）中属于较为完善的配置，尤其对于每年超过 14,000 名国际学生（数据来源：澳大利亚教育部 2023 年国际学生数据【Australian Department of Education, 2023, International Student Data Summary】）而言，了解失物招领的准确位置与操作流程，能显著缩短物品找回周期。

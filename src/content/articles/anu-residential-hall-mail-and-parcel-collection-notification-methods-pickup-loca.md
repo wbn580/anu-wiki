@@ -6,6 +6,7 @@ pubDatetime: '2026-04-26T19:58:32Z'
 publishDate: '2026-04-26T19:58:32Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）校内住宿系统每年服务约 6,000 名住校生，其中超过 70% 为国际学生（ANU Accommodation Services, 2024, *Annual Occupancy Report*）。邮件与包裹的收发是住校生高频使用的日常服务，但各宿舍楼在通知方式、领取地点与存储时限上存在显著差异。本文基于 ANU 住宿服务官方政策与各宿舍楼操作手册，系统梳理校内 13 座主要住宿楼（包括 Bruce Hall、Ursula College、Wright Hall 等）的邮件包裹领取流程，为住校生提供可操作的时效参考。

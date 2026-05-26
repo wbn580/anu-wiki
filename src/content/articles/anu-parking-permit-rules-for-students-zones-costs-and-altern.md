@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU parking", "student life Australia", "campus commuting", "Canberra transport", "university parking"]
 slug: anu-parking-permit-student-2025-guide
 ogImage: ""
+
 ---
 
 Navigating the Australian National University's Acton campus with a car requires a clear understanding of the latest regulations. In 2025, the university continues to refine its parking policies to balance accessibility with sustainability goals. According to the ANU 2025 Transport Strategy Update, over **12,000 students** commute to the Acton campus daily, yet only **approximately 3,800 parking bays** are available across all zones. This structural deficit makes the parking permit system highly competitive. The ANU 2025-2026 Budget Report allocates an additional **$2.1 million** toward expanding cycling infrastructure and shuttle services, signaling a strategic shift away from private vehicle dependency. For students, understanding the nuanced zone rules, updated fee structures, and viable alternatives is not just about convenience—it is a financial necessity.

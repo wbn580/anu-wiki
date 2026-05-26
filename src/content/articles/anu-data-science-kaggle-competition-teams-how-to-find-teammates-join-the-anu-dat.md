@@ -6,6 +6,7 @@ pubDatetime: '2026-05-20T20:03:06Z'
 publishDate: '2026-05-20T20:03:06Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）的数据科学竞赛团队（Kaggle Competition Teams）是该校学生参与机器学习实战、构建项目组合的核心途径之一。截至2024年，ANU计算机科学学院（School of Computing）在QS世界大学学科排名中位列第40位【QS, 2024, World University Rankings by Subject】，其数据科学相关课程注册人数在过去三年增长了约35%，反映出该领域的强劲需求。对于18至30岁的在读或潜在学生而言，了解如何高效组建团队、加入ANU数据科学协会（ANU Data Society）以及获取校内外计算资源，直接关系到能否在Kaggle等平台取得可验证的竞赛成绩，进而提升就业竞争力。本文系统梳理这些路径，提供经过验证的操作指南。

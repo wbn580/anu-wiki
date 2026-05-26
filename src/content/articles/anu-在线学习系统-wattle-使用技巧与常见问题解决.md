@@ -6,6 +6,7 @@ pubDatetime: '2026-03-02T19:47:25Z'
 publishDate: '2026-03-02T19:47:25Z'
 readingTime: 12
 tags: ["featured"]
+
 ---
 
 ANU 在线学习系统 **Wattle**（Web Access to Teaching & Learning Environment）是澳大利亚国立大学（ANU）自 2012 年起部署的官方学习管理系统（LMS），基于开源平台 Moodle 定制开发。截至 2025 年第一学期，Wattle 承载全校超过 25,000 名在校生及 1,800 余门课程的在线教学资源，日均页面访问量约 120 万次【ANU IT Services, 2024, Wattle Platform Annual Report】。该系统在 COVID-19 疫情期间（2020–2022）完成了从辅助工具到核心教学基础设施的转型，目前仍为 ANU 混合式教学（blended learning）的默认入口，覆盖课程材料分发、作业提交、小组协作、在线测验及成绩公示等全流程。对于 2025 年入学的新生及在读学生而言，掌握 Wattle 的核心操作与故障排查方法，直接关系到课程参与度和学术进度。

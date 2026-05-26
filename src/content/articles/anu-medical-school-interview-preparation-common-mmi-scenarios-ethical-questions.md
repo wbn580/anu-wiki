@@ -6,6 +6,7 @@ pubDatetime: '2026-04-16T19:56:50Z'
 publishDate: '2026-04-16T19:56:50Z'
 readingTime: 3
 tags: ["featured"]
+
 ---
 
 澳大利亚国立大学（ANU）医学与外科学士（Bachelor of Medical Science and Doctor of Medicine, BMedSc/MChD）项目采用多重迷你面试（MMI）作为筛选核心环节。根据澳大利亚医学委员会2023年数据，ANU医学院每年招收约80名学生，而申请者超过1,200人，录取率约为6.7%。MMI成绩在最终录取权重中占比高达35%至45%，与学术成绩（GPA）和研究生入学考试（GAMSAT）分数共同决定录取结果。本文基于ANU官方面试指南及澳大利亚医学教育标准，系统梳理MMI常见场景、伦理问题框架及沟通策略，为申请者提供结构化准备路径。
