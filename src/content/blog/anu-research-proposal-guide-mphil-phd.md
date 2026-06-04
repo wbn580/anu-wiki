@@ -5,7 +5,7 @@ pubDatetime: '2026-05-28T00:00:00Z'
 publishDate: '2026-05-28T00:00:00Z'
 modDatetime: '2026-05-28T00:00:00Z'
 slug: anu-research-proposal-guide-mphil-phd
-ogImage: 'https://img.ulec.com.cn/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg'
+ogImage: 'https://img.anu.wiki/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg'
 category: 'general'
 tags:
   - 'ANU'
@@ -87,7 +87,7 @@ Don’t send a mass email to 20 professors; personalization is key. Successful a
 
 ## Evaluation Criteria: What ANU Assessors Look For
 
-![anu-wiki 配图](https://img.ulec.com.cn/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg)
+![anu-wiki 配图](https://img.anu.wiki/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg)
 
 
 Understanding how your proposal will be judged helps you tailor it accordingly. ANU uses a holistic assessment, but central criteria include:
@@ -131,7 +131,7 @@ For most ANU research programs, yes. Applications without a named, willing super
 
 ## Conclusion
 
-![anu-wiki 配图](https://img.ulec.com.cn/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg)
+![anu-wiki 配图](https://img.anu.wiki/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg)
 
 
 Crafting a research proposal for ANU’s MPhil or PhD programs is a demanding but rewarding endeavour. It forces you to define your scholarly identity and plan a project that can contribute meaningfully to your field. Remember, the proposal is your chance to show not just that you can do the research, but that you can do it at ANU, under the mentorship of its world-class faculty.
