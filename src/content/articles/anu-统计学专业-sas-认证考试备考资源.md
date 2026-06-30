@@ -41,7 +41,7 @@ ANU 订阅了 **SAS Online Documentation**（通过 ProQuest 平台提供）与 
 
 ### 线上练习平台
 
-学生可通过 **SAS Academy for Data Science** 平台访问 200 余道官方练习题。该平台由 SAS Institute 直接运营，ANU 统计学系与 SAS 签署了机构合作协议，学生可使用 uni ID 免费注册。平台提供分章节练习与全真模拟两种模式，每道题附有答案解析与代码示例。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+学生可通过 **SAS Academy for Data Science** 平台访问 200 余道官方练习题。该平台由 SAS Institute 直接运营，ANU 统计学系与 SAS 签署了机构合作协议，学生可使用 uni ID 免费注册。平台提供分章节练习与全真模拟两种模式，每道题附有答案解析与代码示例。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B8%93%E4%B8%9A-sas-%E8%AE%A4%E8%AF%81%E8%80%83%E8%AF%95%E5%A4%87%E8%80%83%E8%B5%84%E6%BA%90) 等专业通道完成结汇。
 
 ### 自建练习数据集
 

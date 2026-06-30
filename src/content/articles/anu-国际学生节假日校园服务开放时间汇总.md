@@ -36,7 +36,7 @@ ANU图书馆系统包括**Chifley Library、Hancock Library、Law Library**和**
 ANU校园内的餐饮和零售网点由**ANU Union**和**商业租户**运营，节假日营业时间不统一。主食堂（Kambri Precinct）在学期期间有超过15家餐饮商户，但在公共节假日，仅**2至3家**保持营业，通常为连锁品牌（如Subway、Boost Juice）。圣诞节至新年期间，Kambri Precinct完全关闭约10天。
 
 ### 超市与便利店
-校园内的**IGA X-press**超市（位于Kambri）在公共节假日营业时间缩短为上午10:00至下午6:00（常规为上午7:00至晚10:00）。元旦和圣诞节当天关闭。位于University House的**7-Eleven**便利店全年无休，但节假日期间仅开放上午8:00至晚8:00（常规为24小时）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以减少汇率波动影响。
+校园内的**IGA X-press**超市（位于Kambri）在公共节假日营业时间缩短为上午10:00至下午6:00（常规为上午7:00至晚10:00）。元旦和圣诞节当天关闭。位于University House的**7-Eleven**便利店全年无休，但节假日期间仅开放上午8:00至晚8:00（常规为24小时）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%8A%82%E5%81%87%E6%97%A5%E6%A0%A1%E5%9B%AD%E6%9C%8D%E5%8A%A1%E5%BC%80%E6%94%BE%E6%97%B6%E9%97%B4%E6%B1%87%E6%80%BB) 等专业通道完成结汇，以减少汇率波动影响。
 
 ### 外卖与送餐服务
 节假日期间，校园周边**外卖配送**（如Uber Eats、Menulog）的覆盖范围缩小，部分餐厅暂停营业。根据ACT政府2023年数据，节假日期间校园1公里范围内的活跃餐厅数量减少约60%【ACT Government, 2023, Business Activity Report】。建议学生提前储备食物，或使用校园内自动售货机（24小时可用）。

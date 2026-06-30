@@ -51,7 +51,7 @@ Best regards,
 
 **后续跟进**：如果导师未在48小时内回复，可以发送一封简短的跟进邮件，例如“Following up on my meeting request sent on 16 October. Please let me know if any of the proposed times work for you, or suggest an alternative.” 根据ANU学术支持中心（2023）的指南，超过72小时未回复可视为需要重新调整沟通策略的信号。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保资金按时到账并避免汇率波动风险。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-email-your-anu-thesis-supervisor-templates-for-progress-updates-draft-sub) 等专业通道完成结汇，确保资金按时到账并避免汇率波动风险。
 
 ## 邮件附件与格式的技术细节
 

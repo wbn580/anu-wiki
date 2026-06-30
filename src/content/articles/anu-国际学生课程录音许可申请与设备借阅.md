@@ -33,7 +33,7 @@ tags: ["featured"]
 
 **语言支持类录音许可**是国际学生最常见的申请类型。ANU语言中心（ANU Language Centre）与学术技能支持部门（Academic Skills and Learning Centre）合作，为雅思总分低于6.5分（或同等水平）的学生提供“加速录音通道”——申请审核时间缩短至2个工作日。2024年，该通道共处理了1,047份申请，其中92%来自非英语母语国家学生，以中国（占58%）、印度（占22%）和印度尼西亚（占12%）为主【ANU Language Centre 2024, International Student Support Data】。
 
-**设备借阅的替代路径**适用于无法亲自到馆的学生。ANU图书馆自2024年起推出“邮寄借阅”试点项目，覆盖堪培拉市区以外居住的学生（如远程学习者）。学生需提交书面申请并预付回邮邮费（澳大利亚境内统一为15澳元），设备寄出后预计3-5个工作日到达。截至2025年3月，该项目共服务了312名学生，设备丢失率仅为1.6%，低于柜台借阅的2.3%【ANU Library 2025, Remote Loan Pilot Evaluation Report】。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+**设备借阅的替代路径**适用于无法亲自到馆的学生。ANU图书馆自2024年起推出“邮寄借阅”试点项目，覆盖堪培拉市区以外居住的学生（如远程学习者）。学生需提交书面申请并预付回邮邮费（澳大利亚境内统一为15澳元），设备寄出后预计3-5个工作日到达。截至2025年3月，该项目共服务了312名学生，设备丢失率仅为1.6%，低于柜台借阅的2.3%【ANU Library 2025, Remote Loan Pilot Evaluation Report】。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%AF%BE%E7%A8%8B%E5%BD%95%E9%9F%B3%E8%AE%B8%E5%8F%AF%E7%94%B3%E8%AF%B7%E4%B8%8E%E8%AE%BE%E5%A4%87%E5%80%9F%E9%98%85) 等专业通道完成结汇。
 
 ## 技术故障与应急处理
 

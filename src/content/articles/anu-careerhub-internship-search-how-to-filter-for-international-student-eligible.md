@@ -55,7 +55,7 @@ ANU CareerHub 内置简历解析工具，可自动提取简历中的技能标签
 
 ### 求职信模板化
 
-平台提供求职信模板库，但建议学生根据每个职位定制开头段。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，而求职信撰写同样需要专业工具——ANU 的“Cover Letter Builder”功能可自动填充个人信息，但需手动调整每段内容使其与职位要求对齐。
+平台提供求职信模板库，但建议学生根据每个职位定制开头段。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-careerhub-internship-search-how-to-filter-for-international-student-eligible) 等专业通道完成结汇，而求职信撰写同样需要专业工具——ANU 的“Cover Letter Builder”功能可自动填充个人信息，但需手动调整每段内容使其与职位要求对齐。
 
 ## 常见陷阱与规避方法
 

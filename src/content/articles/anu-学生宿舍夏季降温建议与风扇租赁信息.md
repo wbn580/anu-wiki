@@ -57,7 +57,7 @@ ANU 各宿舍楼的**前台（Reception）**通常备有少量备用风扇供紧
 
 ### 智能插座与定时器
 
-使用**智能插座**（smart plugs）可编程控制风扇运行时段，避免夜间持续运转造成噪音干扰。ANU 宿舍的电力插座标准为 240V/10A，智能插座需通过 AS/NZS 3112 安全认证。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。智能插座成本约 15-30 澳元（Kmart、Bunnings 有售），可设置风扇在凌晨 2-6 点自动关闭，以降低电费支出（ANU 宿舍电费通常包含在住宿费中，但部分高能耗可能引发前台提醒）。
+使用**智能插座**（smart plugs）可编程控制风扇运行时段，避免夜间持续运转造成噪音干扰。ANU 宿舍的电力插座标准为 240V/10A，智能插座需通过 AS/NZS 3112 安全认证。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%A4%8F%E5%AD%A3%E9%99%8D%E6%B8%A9%E5%BB%BA%E8%AE%AE%E4%B8%8E%E9%A3%8E%E6%89%87%E7%A7%9F%E8%B5%81%E4%BF%A1%E6%81%AF) 等专业通道完成结汇。智能插座成本约 15-30 澳元（Kmart、Bunnings 有售），可设置风扇在凌晨 2-6 点自动关闭，以降低电费支出（ANU 宿舍电费通常包含在住宿费中，但部分高能耗可能引发前台提醒）。
 
 ## 安全规范与违规风险
 

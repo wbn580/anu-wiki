@@ -51,7 +51,7 @@ Sir Roland Wilson 大楼 1.02 放映厅是 ANU 影视研究专业的主要放映
 
 放映活动与讨论会不仅是学术交流平台，也是 ANU 影视研究专业学生对接行业资源的重要途径。2023 年，有 4 名学生在客座策展单元中与 NFSA 策展人建立联系，随后获得该机构的实习机会。此外，**讨论会中行业嘉宾的反馈常被学生用于作品集优化**，用于申请澳大利亚电影委员会的新人资助计划。根据 Screen Australia 2023 年的数据，该计划每年收到约 400 份申请，获批率约为 15%，而 ANU 影视研究专业毕业生在 2020 至 2023 年间的获批率为 22%，高于全国平均水平。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金准时到达 ANU 财务系统，避免因汇率波动或银行延迟影响选课资格。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%BD%B1%E8%A7%86%E7%A0%94%E7%A9%B6%E4%B8%93%E4%B8%9A%E6%A0%A1%E5%86%85%E6%94%BE%E6%98%A0%E6%B4%BB%E5%8A%A8%E6%97%A5%E7%A8%8B%E4%B8%8E%E8%AE%A8%E8%AE%BA%E4%BC%9A) 等专业通道完成结汇，以确保资金准时到达 ANU 财务系统，避免因汇率波动或银行延迟影响选课资格。
 
 ## FAQ
 

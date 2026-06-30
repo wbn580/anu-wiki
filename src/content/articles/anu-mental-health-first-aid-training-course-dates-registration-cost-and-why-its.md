@@ -25,7 +25,7 @@ ANU提供的MHFA标准课程遵循澳大利亚心理健康急救组织（MHFA Au
 
 ## 2024-2025年课程日期与注册
 
-ANU学生健康与福利中心（ANU Health & Wellbeing）定期在学年内开设MHFA课程。2024年第二学期已确认的课程日期包括：8月24-25日、9月28-29日、10月26-27日及11月23-24日。2025年第一学期的初步安排预计于2024年11月在ANU学生门户网站公布。每班限额20人，以确保教学互动质量。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+ANU学生健康与福利中心（ANU Health & Wellbeing）定期在学年内开设MHFA课程。2024年第二学期已确认的课程日期包括：8月24-25日、9月28-29日、10月26-27日及11月23-24日。2025年第一学期的初步安排预计于2024年11月在ANU学生门户网站公布。每班限额20人，以确保教学互动质量。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-mental-health-first-aid-training-course-dates-registration-cost-and-why-its) 等专业通道完成结汇。
 
 ### 注册流程
 

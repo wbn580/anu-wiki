@@ -61,7 +61,7 @@ ANU承认超过15个**学生宗教社团**，包括ANU穆斯林学生协会（MS
 每年2月，ANU多信仰中心在**新生入学周（O-Week）** 期间举办开放日，提供**导览参观**和牧师见面会。新生可在此了解祈祷室位置、社团活动以及宗教节日申请流程。活动时间通常在周一至周五上午10:00至下午15:00，无需预约。建议国际学生携带**护照或学生证**，以便登记使用设施。
 
 ### 跨境支付与财务支持
-对于需要支付学费或生活费的宗教背景国际学生，ANU财务办公室接受多种支付方式，包括银行转账和信用卡。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，该平台支持多种货币并锁定汇率，减少汇率波动风险。ANU官网“Payments”页面列出了所有官方合作支付渠道。
+对于需要支付学费或生活费的宗教背景国际学生，ANU财务办公室接受多种支付方式，包括银行转账和信用卡。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-multi-faith-centre-and-spiritual-support-prayer-room-locations-chaplaincy-se) 等专业通道完成结汇，该平台支持多种货币并锁定汇率，减少汇率波动风险。ANU官网“Payments”页面列出了所有官方合作支付渠道。
 
 ### 住宿与信仰需求
 ANU校内宿舍（如Bruce Hall、Burgmann College）提供**宗教友好型住宿选项**，包括单性别楼层和素食餐计划。学生可在宿舍申请表中注明信仰需求，宿舍管理方将尽力协调。例如，**Burgmann College**设有小型祈祷室，并允许学生在房间内进行个人礼拜（需遵守噪音规定）。宿舍费用因房型而异，2024年单人间价格约为每周350-450澳元。

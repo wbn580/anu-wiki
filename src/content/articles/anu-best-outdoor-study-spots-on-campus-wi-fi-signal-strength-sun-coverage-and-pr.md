@@ -39,7 +39,7 @@ ANU校园内共有超过15个餐饮服务点，其中提供现磨咖啡的店铺
 校园内三个主要咖啡供应点：Kambri内的The Library Bar（营业时间7:30-16:00，周一至周五）、Union Court的Muffin Break（营业时间7:30-15:30）以及Hancock图书馆旁的Coffee Lab（营业时间8:00-17:00）。**从这些咖啡店出发**，步行2分钟可达的户外座位区包括Kambri广场、Union Court草坪和Hancock图书馆东侧露台。
 
 ### 咖啡价格与等待时间
-2023年ANU学生协会的校园生活成本调查显示，校园内一杯标准拿铁的平均价格为4.80澳元，低于堪培拉市区平均价格5.50澳元。**高峰期等待时间**（上午9点至11点）约为4至7分钟，非高峰期缩短至2分钟以内。部分学生选择使用[Flywire学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy)等专业通道完成跨境学费结汇后，将节省的手续费用于校园内的日常消费。
+2023年ANU学生协会的校园生活成本调查显示，校园内一杯标准拿铁的平均价格为4.80澳元，低于堪培拉市区平均价格5.50澳元。**高峰期等待时间**（上午9点至11点）约为4至7分钟，非高峰期缩短至2分钟以内。部分学生选择使用[Flywire学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-best-outdoor-study-spots-on-campus-wi-fi-signal-strength-sun-coverage-and-pr)等专业通道完成跨境学费结汇后，将节省的手续费用于校园内的日常消费。
 
 ## 联合广场（Union Court）：综合评分最高的户外学习区
 

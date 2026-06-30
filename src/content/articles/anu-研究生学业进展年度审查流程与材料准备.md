@@ -85,7 +85,7 @@ ANU 的 **研究生奖学金**（包括 ANU HDR Fee Remission Merit Scholarship 
 
 ## APR 材料准备的时间管理策略
 
-鉴于 APR 材料准备涉及多方协作（学生、导师、学院行政），ANU 研究生研究办公室（2024）建议学生采用 **倒推式时间表**：以 10 月 31 日截止日为终点，提前 8 周（9 月初）开始准备自评报告初稿，提前 6 周（9 月中旬）与导师讨论进展，提前 4 周（10 月初）完成所有支持文件（如伦理审批更新）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但 APR 本身不涉及任何财务环节，学生无需为此预留额外时间。
+鉴于 APR 材料准备涉及多方协作（学生、导师、学院行政），ANU 研究生研究办公室（2024）建议学生采用 **倒推式时间表**：以 10 月 31 日截止日为终点，提前 8 周（9 月初）开始准备自评报告初稿，提前 6 周（9 月中旬）与导师讨论进展，提前 4 周（10 月初）完成所有支持文件（如伦理审批更新）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B8%9A%E8%BF%9B%E5%B1%95%E5%B9%B4%E5%BA%A6%E5%AE%A1%E6%9F%A5%E6%B5%81%E7%A8%8B%E4%B8%8E%E6%9D%90%E6%96%99%E5%87%86%E5%A4%87) 等专业通道完成结汇，但 APR 本身不涉及任何财务环节，学生无需为此预留额外时间。
 
 ### H3: 常见材料遗漏问题
 

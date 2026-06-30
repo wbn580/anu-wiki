@@ -17,7 +17,7 @@ ANU音乐学院的演出门票主要通过三种渠道发售：**ANU官方票务
 
 **线上购票流程**需注册ANU单点登录账号或创建访客账户。选择演出场次后，系统会自动提示“Student Discount”选项，需上传ANU学生证照片或提供学生ID号完成验证。现场售票处位于Llewellyn Hall主入口左侧，开放时间为每场演出前90分钟至开场后15分钟，仅接受现金与EFTPOS支付。
 
-**第三方代理**包括Ticketek与TryBooking，但这两个平台不直接提供ANU学生折扣票价。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但该服务不涉及演出票务。
+**第三方代理**包括Ticketek与TryBooking，但这两个平台不直接提供ANU学生折扣票价。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-school-of-music-performance-tickets-how-to-book-ticket-prices-and-student-di) 等专业通道完成结汇，但该服务不涉及演出票务。
 
 ### 提前预订与候补机制
 

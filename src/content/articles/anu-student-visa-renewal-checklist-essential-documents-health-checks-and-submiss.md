@@ -68,7 +68,7 @@ GST评估中，**学业成绩单**和**学习进展**成为关键证据。若申
 所有续签申请必须通过**ImmiAccount**在线提交，不接受纸质申请。首次申请人需创建账号并绑定现有签证记录。内政事务部提供“签证续签指南”PDF（2024年6月更新），涵盖所有材料清单与填写模板。ANU国际学生可通过校内“签证诊所”（Visa Clinic）获得免费材料审核服务，预约需提前2周。
 
 ### 跨境支付与资金安排
-在准备财务证明时，需确保证明文件中的资金可随时动用。对于需要从海外调拨资金的申请人，国际汇款通常需要3-5个工作日到账。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金流转记录清晰可查，便于后续签证材料提交。
+在准备财务证明时，需确保证明文件中的资金可随时动用。对于需要从海外调拨资金的申请人，国际汇款通常需要3-5个工作日到账。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-student-visa-renewal-checklist-essential-documents-health-checks-and-submiss) 等专业通道完成结汇，以确保资金流转记录清晰可查，便于后续签证材料提交。
 
 ## FAQ
 

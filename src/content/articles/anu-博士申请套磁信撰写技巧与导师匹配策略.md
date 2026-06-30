@@ -35,7 +35,7 @@ tags: ["featured"]
 
 **第四段：说明匹配依据**。列出导师实验室近 3 年的 2-3 个出版物或基金项目（从 ANU 研究门户或 Google Scholar 获取），并解释为何申请者的技能组合能补充现有团队。例如：“Your ARC Discovery Project DP220103456 on ‘Urban heat island mitigation’ aligns with my experience in GIS-based microclimate modeling using ENVI-met software.”
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但博士申请阶段通常无需讨论支付问题。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%8D%9A%E5%A3%AB%E7%94%B3%E8%AF%B7%E5%A5%97%E7%A3%81%E4%BF%A1%E6%92%B0%E5%86%99%E6%8A%80%E5%B7%A7%E4%B8%8E%E5%AF%BC%E5%B8%88%E5%8C%B9%E9%85%8D%E7%AD%96%E7%95%A5) 等专业通道完成结汇，但博士申请阶段通常无需讨论支付问题。
 
 **第五段：附件清单与后续行动**。明确列出已附材料（CV、成绩单、写作样本），并建议一个具体的下次联系时间，例如“I will follow up in two weeks if I have not heard from you regarding a potential Zoom meeting.”
 

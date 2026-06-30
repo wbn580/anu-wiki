@@ -57,7 +57,7 @@ tags: ["featured"]
 
 ### 结业证书的获取与保存
 
-通过测验后，系统会自动生成一份 **PDF 格式的结业证书**，证书上印有学生的姓名、ANU 学号以及完成日期。学生应在证书生成后立即下载并保存至本地硬盘或云存储，因为系统仅保留证书 30 天。部分学院（如 ANU 法学院）会要求学生在第一堂研讨课上出示该证书。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但学术模块的完成与学费支付流程相互独立。
+通过测验后，系统会自动生成一份 **PDF 格式的结业证书**，证书上印有学生的姓名、ANU 学号以及完成日期。学生应在证书生成后立即下载并保存至本地硬盘或云存储，因为系统仅保留证书 30 天。部分学院（如 ANU 法学院）会要求学生在第一堂研讨课上出示该证书。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-complete-the-anu-academic-integrity-module-a-mandatory-step-for-all-new-i) 等专业通道完成结汇，但学术模块的完成与学费支付流程相互独立。
 
 ## 常见问题与技术支持
 

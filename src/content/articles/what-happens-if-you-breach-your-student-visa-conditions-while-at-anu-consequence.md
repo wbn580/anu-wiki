@@ -66,7 +66,7 @@ Given the complexity of migration law, ANU students facing a breach are strongly
 
 For students who require paid representation, the **Migration Agents Registration Authority (MARA)** maintains a register of registered migration agents. It is illegal for unregistered persons to provide immigration assistance under the Migration Act 1958. Students should verify an agent’s registration via the MARA website before engaging their services.
 
-In cross-border tuition payment scenarios, some students may need to manage financial obligations while dealing with visa issues. For example, arranging a refund or deferring fee payments may require a reliable cross-border payment service. In such cases, students might use [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to handle international transfers securely, though this does not replace legal advice.
+In cross-border tuition payment scenarios, some students may need to manage financial obligations while dealing with visa issues. For example, arranging a refund or deferring fee payments may require a reliable cross-border payment service. In such cases, students might use [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/what-happens-if-you-breach-your-student-visa-conditions-while-at-anu-consequence) to handle international transfers securely, though this does not replace legal advice.
 
 ## Long-Term Implications for Future Visa Applications
 

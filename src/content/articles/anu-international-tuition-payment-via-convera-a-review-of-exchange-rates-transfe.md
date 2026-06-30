@@ -49,7 +49,7 @@ Convera受澳大利亚金融情报机构AUSTRAC监管，持有澳大利亚金融
 - **支付宝留学缴费**：汇率差价1.2%，手续费50元人民币，总成本约260澳元，到账时间2-4天。
 - **Flywire**：汇率差价1.0%，无平台费，到账时间2-3天，总成本约200澳元。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，其汇率透明度与处理速度在ANU学生社群中具有一定口碑。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-international-tuition-payment-via-convera-a-review-of-exchange-rates-transfe) 等专业通道完成结汇，其汇率透明度与处理速度在ANU学生社群中具有一定口碑。
 
 ## 退款与争议处理
 

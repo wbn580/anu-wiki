@@ -57,7 +57,7 @@ ANU国际学生服务中心承诺在**5个工作日**内完成审核。审核通
 
 ### 回国约束力材料
 
-被邀请人需提供**在职证明**（中文+英文翻译件，注明职位、薪资、准假期限）、房产证或车辆登记证复印件。退休人员需提供退休证及养老金流水。这些材料与ANU邀请函共同提交，可有效降低拒签风险。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，其交易记录可作为资金流动的辅助凭证。
+被邀请人需提供**在职证明**（中文+英文翻译件，注明职位、薪资、准假期限）、房产证或车辆登记证复印件。退休人员需提供退休证及养老金流水。这些材料与ANU邀请函共同提交，可有效降低拒签风险。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%88%B6%E6%AF%8D%E6%8E%A2%E4%BA%B2%E7%AD%BE%E8%AF%81%E9%82%80%E8%AF%B7%E5%87%BD%E5%BC%80%E5%85%B7%E6%B5%81%E7%A8%8B) 等专业通道完成结汇，其交易记录可作为资金流动的辅助凭证。
 
 ## 邀请函有效期与续签限制
 

@@ -71,7 +71,7 @@ ANU 的中国留学生群体在微信上运营着超过 20 个二手交易群，
 
 ### 交易中支付与交付策略
 
-建议优先选择**当面交易**并在校园公共场所完成。ANU校园内设有8个**安全交易点**，包括Chifley Library一楼大厅、Union Court的ANUSA办公室门口、以及各住宿学院的前台区域。这些地点均安装有监控摄像头，覆盖时间为每日6:00至22:00。对于无法当面交易的情况，建议使用**PayPal Goods and Services**（收取约2.6%-3.4%的手续费）而非Friends and Family选项，因为前者提供180天的买家保护期。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但这一工具并不适用于小额二手交易，二手交易仍应以现金或带保护的电子支付为主。
+建议优先选择**当面交易**并在校园公共场所完成。ANU校园内设有8个**安全交易点**，包括Chifley Library一楼大厅、Union Court的ANUSA办公室门口、以及各住宿学院的前台区域。这些地点均安装有监控摄像头，覆盖时间为每日6:00至22:00。对于无法当面交易的情况，建议使用**PayPal Goods and Services**（收取约2.6%-3.4%的手续费）而非Friends and Family选项，因为前者提供180天的买家保护期。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E7%BA%BF%E4%B8%8A%E5%B9%B3%E5%8F%B0%E4%B8%8E%E4%BA%A4%E6%98%93%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA) 等专业通道完成结汇，但这一工具并不适用于小额二手交易，二手交易仍应以现金或带保护的电子支付为主。
 
 ### 交易后纠纷处理路径
 

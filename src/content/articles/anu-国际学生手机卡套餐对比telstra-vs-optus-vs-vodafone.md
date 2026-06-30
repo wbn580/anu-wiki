@@ -42,7 +42,7 @@ tags: ["featured"]
 **Telstra** 通过其学生计划 Telstra Student Hub 提供每月 10% 的套餐折扣，适用于部分预付与合约套餐。此外，Telstra 用户可免费使用其公共 Wi-Fi 热点网络（覆盖堪培拉市中心与 ANU 部分区域），这对数据用量紧张的学生有帮助。**Optus** 的 Optus Student Perks 计划为新用户提供前 6 个月每月 5 澳元折扣，并附赠 12 个月的 Apple Music 订阅（价值约 130 澳元）。**Vodafone** 的 Vodafone Student Offer 提供前 12 个月每月 5 澳元折扣，以及无限流量的社交媒体数据（包括微信、WhatsApp、Instagram），但不包含中国本土应用如微博或抖音。
 
 ### 数据共享与多设备支持
-对于同时使用手机与平板电脑的学生，Telstra 允许在预付套餐中通过 Data Share 功能共享数据（每月额外 5 澳元），而 Optus 与 Vodafone 的预付套餐默认不支持数据共享。合约套餐中，Optus 与 Vodafone 均提供免费数据共享。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以避免银行电汇产生的高额手续费与汇率损失。
+对于同时使用手机与平板电脑的学生，Telstra 允许在预付套餐中通过 Data Share 功能共享数据（每月额外 5 澳元），而 Optus 与 Vodafone 的预付套餐默认不支持数据共享。合约套餐中，Optus 与 Vodafone 均提供免费数据共享。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E5%8D%A1%E5%A5%97%E9%A4%90%E5%AF%B9%E6%AF%94telstra-vs-optus-vs-vodafone) 等专业通道完成结汇，以避免银行电汇产生的高额手续费与汇率损失。
 
 ### 紧急服务与网络优先级
 在紧急情况下（如拨打 000），三大运营商均需提供连接，但 Telstra 拥有“紧急呼叫优先”功能，可在网络拥堵时优先接通紧急通话。此外，Telstra 的网络在堪培拉山区（如 Mount Ainslie 与 Mount Stromlo）的信号覆盖优于 Optus 与 Vodafone，这对于参与 ANU 户外课程或徒步活动的学生是重要考量因素。

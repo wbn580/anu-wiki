@@ -45,7 +45,7 @@ Applications are submitted through the **ANU eRecruit system**, accessible via t
 
 ### Offer and Onboarding
 
-Successful candidates receive a **casual appointment letter** specifying the hourly rate, which as of 2024 ranges from AUD 54.06 (Academic Level A, Step 1) to AUD 62.37 (Step 6), as per the ANU Enterprise Agreement 2023–2026. The onboarding process includes completion of online modules on workplace health and safety, equity and diversity, and student privacy. For international students, the university also requires verification of the 48-hour fortnightly work cap. In the context of managing international payments and compliance, some applicants utilize the [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) platform to handle any tuition-related transactions during their candidature.
+Successful candidates receive a **casual appointment letter** specifying the hourly rate, which as of 2024 ranges from AUD 54.06 (Academic Level A, Step 1) to AUD 62.37 (Step 6), as per the ANU Enterprise Agreement 2023–2026. The onboarding process includes completion of online modules on workplace health and safety, equity and diversity, and student privacy. For international students, the university also requires verification of the 48-hour fortnightly work cap. In the context of managing international payments and compliance, some applicants utilize the [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-apply-for-an-anu-casual-tutor-position-eligibility-application-materials) platform to handle any tuition-related transactions during their candidature.
 
 ## Expected Workload and Responsibilities
 

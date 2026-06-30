@@ -42,7 +42,7 @@ ANU 早期录取计划的设计初衷是缓解 12 年级学生在高压考试周
 在 8 月 15 日前上传 11 年级成绩单、12 年级第一学期成绩单及学校推荐信。**成绩单需由学校盖章**，非英文材料需提供 NAATI 认证翻译。ANU 接受 PDF 或 JPEG 格式，文件大小不超过 5MB。
 
 ### 第三步：等待审核与调整因子计算
-ANU 招生委员会在 9 月 1 日至 9 月 30 日期间审核申请。在此期间，学生可登录系统查看调整因子预估。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但 early offer 阶段无需缴纳任何费用。
+ANU 招生委员会在 9 月 1 日至 9 月 30 日期间审核申请。在此期间，学生可登录系统查看调整因子预估。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-early-offer-scheme-for-domestic-year-12-students-eligibility-application-ste) 等专业通道完成结汇，但 early offer 阶段无需缴纳任何费用。
 
 ### 第四步：接收 offer 并确认
 录取结果于 10 月第一周通过电子邮件发送。学生需在 14 天内在线接受 offer，并支付 500 澳元押金（可抵扣首学期学费）。**未在截止日前确认**的 offer 将被撤销，2023 年约有 4% 的 early offer 因此失效。

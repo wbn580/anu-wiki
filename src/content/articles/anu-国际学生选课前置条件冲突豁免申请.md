@@ -41,7 +41,7 @@ ANU 的选课系统（ISIS）在每学期注册开放前自动校验学生已修
 
 ### 课程等效性申诉
 
-此路径要求提交 **详细课程对比表**，逐项列出原课程与目标前置课程的教学大纲差异。ANU 允许使用第三方评估工具（如澳大利亚学历资格框架 AQF 的课程映射服务）来强化论证。申诉处理周期为 10 至 15 个工作日，费用为 50 澳元（2024 年标准）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以应对可能的额外费用产生。
+此路径要求提交 **详细课程对比表**，逐项列出原课程与目标前置课程的教学大纲差异。ANU 允许使用第三方评估工具（如澳大利亚学历资格框架 AQF 的课程映射服务）来强化论证。申诉处理周期为 10 至 15 个工作日，费用为 50 澳元（2024 年标准）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E9%80%89%E8%AF%BE%E5%89%8D%E7%BD%AE%E6%9D%A1%E4%BB%B6%E5%86%B2%E7%AA%81%E8%B1%81%E5%85%8D%E7%94%B3%E8%AF%B7) 等专业通道完成结汇，以应对可能的额外费用产生。
 
 ### 跨学院选课协议
 

@@ -71,7 +71,7 @@ OneDrive 提供 **30 天文件版本历史**，可恢复被删除或修改的旧
 ### 数据备份与长期归档
 OneDrive 与邮箱数据由 Microsoft 数据中心（位于悉尼与墨尔本）提供 **地理冗余备份**，但 ANU 建议学生自行将重要文件（如毕业论文、研究数据）备份至本地硬盘或第三方云服务（如 Google Drive）。毕业后，校友账户的 OneDrive 数据保留 **180 天**，逾期将被永久删除（ANU 数据保留与处置政策 2024 年）。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金安全与汇率透明。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%AD%A6%E7%94%9F%E9%82%AE%E7%AE%B1%E4%B8%8E-office-365-%E6%BF%80%E6%B4%BB%E6%AD%A5%E9%AA%A4%E5%8F%8A%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E8%AF%B4%E6%98%8E) 等专业通道完成结汇，以确保资金安全与汇率透明。
 
 ## FAQ
 

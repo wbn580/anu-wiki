@@ -45,7 +45,7 @@ tags: ["featured"]
 
 **功能恢复**需在领取新卡后手动激活。新卡到手后，学生需通过ISIS系统或前往学生中心激活门禁、打印和图书馆功能。ANU的打印系统（PaperCut）余额不会自动转移，学生需在激活后联系IT服务台（+61 2 6125 4321）手动合并余额。2023年，ANU打印系统处理了约120万次打印作业（ANU IT服务年报，2023年），其中约0.5%涉及卡片更换后的余额转移。
 
-**关联服务**包括宿舍门禁和体育设施。居住在ANU宿舍（如Bruce Hall、Ursula College）的学生，需额外联系宿舍前台更新门禁权限。ANU体育中心（ANU Sport）的会员资格不绑定校园卡，但健身房入场需使用新卡注册。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保资金及时到账不影响补办费用支付。
+**关联服务**包括宿舍门禁和体育设施。居住在ANU宿舍（如Bruce Hall、Ursula College）的学生，需额外联系宿舍前台更新门禁权限。ANU体育中心（ANU Sport）的会员资格不绑定校园卡，但健身房入场需使用新卡注册。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%9B%AD%E5%8D%A1%E4%B8%A2%E5%A4%B1%E8%A1%A5%E5%8A%9E%E6%B5%81%E7%A8%8B%E4%B8%8E%E4%B8%B4%E6%97%B6%E9%80%9A%E8%A1%8C%E8%AF%81) 等专业通道完成结汇，确保资金及时到账不影响补办费用支付。
 
 ## 预防措施与备份建议
 

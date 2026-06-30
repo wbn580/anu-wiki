@@ -71,7 +71,7 @@ ANU 2024年Placement Timeline要求学生在实习开始前完成以下步骤：
 
 **语言能力**：对于非英语母语学生，部分机构（如AIHW）要求提供IELTS 7.0（单项不低于6.5）或同等成绩。ANU健康与医学院2023年报告显示，约15%的国际学生因未及时提交语言成绩而被推迟实习开始日期。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金按时到账，避免因缴费延迟影响实习资格确认。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-public-health-placement-sites-how-to-rank-your-preferences-competitive-host) 等专业通道完成结汇，以确保资金按时到账，避免因缴费延迟影响实习资格确认。
 
 ### H3：实习结束后的评估与学分转换
 实习结束后，学生需提交“Placement Reflection Report”（2,000-3,000字）并由现场主管填写评估表。ANU评分标准中，实习占课程总分的30%至40%（视具体学位而定）。2023年，约92%的学生获得“Credit”及以上等级，但RA 4-5地区实习的评分分布更广（High Distinction占25%，而堪培拉本地仅12%）。

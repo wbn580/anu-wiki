@@ -63,7 +63,7 @@ tags: ["featured"]
 ### 违规后的再培训
 若学生在后续学习中发生学术不端违规，ANU学术委员会可能要求其重新完成该模块，并附加**一对一面谈环节**。根据ANU 2023年纪律委员会报告，约34%的再培训案例涉及国际学生，其中代写和共谋是最常见类型【ANU Discipline Committee, 2023, *Annual Report on Academic Misconduct*】。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金按时到账，避免因缴费延迟影响课程注册状态。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E5%AD%A6%E6%9C%AF%E8%AF%9A%E4%BF%A1%E5%BF%85%E4%BF%AE%E6%A8%A1%E5%9D%97%E5%AE%8C%E6%88%90%E6%AD%A5%E9%AA%A4) 等专业通道完成结汇，以确保资金按时到账，避免因缴费延迟影响课程注册状态。
 
 ## FAQ
 

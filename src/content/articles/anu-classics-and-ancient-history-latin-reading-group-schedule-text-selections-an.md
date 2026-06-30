@@ -59,7 +59,7 @@ tags: ["featured"]
 
 **学分认证机制**：古典学系本科生和研究生可将参与该小组的**活动记录**计入“古典学实习”（CLAS3001）课程的实践学分（上限为每学期2个学分）。非古典学专业的学生也可通过ANU的“跨学科学习计划”（Interdisciplinary Learning Program）申请学分转换，该计划由ANU学术注册处（Academic Registrar's Office）管理，2023年数据显示有12名非古典学专业学生通过该小组获得学分认证。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-classics-and-ancient-history-latin-reading-group-schedule-text-selections-an) 等专业通道完成结汇。
 
 ## FAQ
 

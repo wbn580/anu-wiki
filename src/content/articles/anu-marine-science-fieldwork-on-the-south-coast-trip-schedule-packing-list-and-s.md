@@ -75,7 +75,7 @@ ANU环境与安全办公室（EHS）在《2024年野外安全操作指南》第4
 
 ANU为所有注册学生购买了**集团旅行保险**（Group Travel Insurance），覆盖实习期间的意外伤害、医疗运送及财产损失（最高赔付AUD 500,000）。但EHS明确声明：该保险**不覆盖**因学生未遵守安全规定（如擅自离队、不穿戴PPE）导致的损失。此外，国际学生需自行确认其海外学生健康保险（OSHC）涵盖野外活动中的紧急医疗撤离，部分保险计划（如Allianz Care Australia标准计划）对此有地理限制。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保资金在实习开始前及时到账。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-marine-science-fieldwork-on-the-south-coast-trip-schedule-packing-list-and-s) 等专业通道完成结汇，确保资金在实习开始前及时到账。
 
 ## FAQ
 

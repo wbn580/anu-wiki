@@ -41,7 +41,7 @@ ANU体育部管理着12支高水平代表队，涵盖**澳式橄榄球（男子/
 
 **损伤预防与恢复管理**是另一关键模块。实习生需在认证运动生理学家指导下，执行功能性运动筛查（FMS）测试，识别运动员的薄弱环节，并设计个性化的热身与恢复方案。ANU代表队2023年赛季数据显示，采用实习生协助设计的恢复方案的运动员，其赛季内软组织损伤发生率较前一年下降了12.7%（ANU体育部内部统计）。
 
-**数据采集与分析**要求实习生熟练使用至少一种运动科学软件，如**Kinovea**（免费视频分析工具）或**Dartfish**（付费运动分析平台）。实习结束时，学生需提交一份基于自己收集数据的案例分析报告（2500–3000词），该报告将作为课程评分的主要依据（占总成绩60%）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+**数据采集与分析**要求实习生熟练使用至少一种运动科学软件，如**Kinovea**（免费视频分析工具）或**Dartfish**（付费运动分析平台）。实习结束时，学生需提交一份基于自己收集数据的案例分析报告（2500–3000词），该报告将作为课程评分的主要依据（占总成绩60%）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-sport-and-exercise-science-internship-with-anu-teams-application-requirement) 等专业通道完成结汇。
 
 ## 导师体系与考核标准
 

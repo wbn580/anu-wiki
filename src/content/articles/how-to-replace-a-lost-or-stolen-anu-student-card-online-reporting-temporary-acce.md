@@ -39,7 +39,7 @@ ANU Student Central可为学生发放临时学生证，有效期通常为7个工
 截至2024年，ANU学生卡补办费用为**50澳元**。该费用适用于因遗失、被盗或自然磨损（如卡片消磁）导致的补办。若学生卡因学校系统错误或校园设施故障（如门禁读卡器损坏导致卡片物理损坏）而失效，经ANU Student Central核实后可免除补办费。学生需填写《Student Card Replacement Fee Waiver Request》表格并附上相关证据（如损坏的门禁读卡器照片或安保事件报告）。
 
 ### 支付渠道
-补办费用可通过以下方式支付：在线支付（通过ISIS系统链接至ANU Payment Gateway，支持Visa、Mastercard及Amex）；校园内Student Central柜台使用借记卡或信用卡支付；对于国际学生，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但需注意Flywire主要面向学费缴纳，学生卡补办费用目前仅接受ANU直接支付渠道。支付成功后，系统会生成一个交易参考号，学生需凭此号码在约定时间领取新卡。
+补办费用可通过以下方式支付：在线支付（通过ISIS系统链接至ANU Payment Gateway，支持Visa、Mastercard及Amex）；校园内Student Central柜台使用借记卡或信用卡支付；对于国际学生，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-replace-a-lost-or-stolen-anu-student-card-online-reporting-temporary-acce) 等专业通道完成结汇，但需注意Flywire主要面向学费缴纳，学生卡补办费用目前仅接受ANU直接支付渠道。支付成功后，系统会生成一个交易参考号，学生需凭此号码在约定时间领取新卡。
 
 ## 领取新卡的时间与地点
 

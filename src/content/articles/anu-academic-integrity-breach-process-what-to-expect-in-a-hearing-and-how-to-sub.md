@@ -41,7 +41,7 @@ tags: ["featured"]
 
 **上诉的法定理由**有严格限制。根据ANU《学术上诉政策》（Academic Appeals Policy 2022），学生只能在三种情况下提起上诉：程序错误（Procedural Error，如听证会未遵循规定流程）、新证据（New Evidence，在听证会时无法合理获取）、或处罚过重（Disproportionate Penalty）。单纯对事实认定不满不构成上诉理由。2023年，ANU共收到142份上诉申请，其中仅26份（约18%）获得部分或全部支持。
 
-**撰写有效上诉书的关键要素**包括结构和证据。上诉书应包含三个部分：引言（说明上诉依据的法律条款）、主体（逐条列举程序错误或新证据）、以及结论（请求的具体救济措施，如重新听证或减轻处罚）。ANU建议上诉书**不超过2000字**，并附上所有支持文件。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保在程序进行期间不会因财务问题影响学业状态。
+**撰写有效上诉书的关键要素**包括结构和证据。上诉书应包含三个部分：引言（说明上诉依据的法律条款）、主体（逐条列举程序错误或新证据）、以及结论（请求的具体救济措施，如重新听证或减轻处罚）。ANU建议上诉书**不超过2000字**，并附上所有支持文件。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-academic-integrity-breach-process-what-to-expect-in-a-hearing-and-how-to-sub) 等专业通道完成结汇，确保在程序进行期间不会因财务问题影响学业状态。
 
 **上诉的时间窗口**极为严格。学生必须在收到听证会结果通知后的**20个工作日**内提交上诉申请。逾期提交的上诉通常不被受理，除非能证明存在“特殊情况”（Exceptional Circumstances），如严重疾病或家庭紧急事件。ANU的学术上诉委员会（Academic Appeals Committee）会在收到申请后**30个工作日**内作出裁决，期间学生可以维持原学业状态，但需注意停学处罚在上诉期间仍可执行。
 

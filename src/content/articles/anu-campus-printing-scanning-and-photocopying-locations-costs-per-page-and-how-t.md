@@ -41,7 +41,7 @@ ANU打印系统采用按页计费模式，费用从学生打印账户（Print Cr
 
 ### 在线充值流程
 
-登录ANU Online Portal后，进入“Print Credit”模块，选择充值金额（最低5澳元，最高100澳元）。支付方式支持**Visa**、**Mastercard**及**银行转账**。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但打印账户充值仅接受澳元结算，无需跨境处理。
+登录ANU Online Portal后，进入“Print Credit”模块，选择充值金额（最低5澳元，最高100澳元）。支付方式支持**Visa**、**Mastercard**及**银行转账**。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-printing-scanning-and-photocopying-locations-costs-per-page-and-how-t) 等专业通道完成结汇，但打印账户充值仅接受澳元结算，无需跨境处理。
 
 ### 现金充值选项
 

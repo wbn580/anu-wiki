@@ -37,7 +37,7 @@ ANU的7所住宿学院（如John XXIII College、Burgmann College）拥有独立
 
 ### 未找到替代租户的后果
 
-若在通知期内未找到替代租户，学生需支付全部剩余合同期租金。例如，若学生剩余20周合同，周租金AU$380，则需支付AU$7,600。ANU允许学生分期支付，但需签署还款计划（Repayment Plan），逾期未付将移交第三方催收机构（如Dun & Bradstreet）并可能影响澳大利亚信用评分（Credit Score）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但住宿违约金需直接支付至ANU住宿账户，不可通过第三方学费平台处理。
+若在通知期内未找到替代租户，学生需支付全部剩余合同期租金。例如，若学生剩余20周合同，周租金AU$380，则需支付AU$7,600。ANU允许学生分期支付，但需签署还款计划（Repayment Plan），逾期未付将移交第三方催收机构（如Dun & Bradstreet）并可能影响澳大利亚信用评分（Credit Score）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-early-termination-of-accommodation-contract-notice-periods-break-fees-and-ho) 等专业通道完成结汇，但住宿违约金需直接支付至ANU住宿账户，不可通过第三方学费平台处理。
 
 ## 国际学生签证条款与住宿合同关联
 

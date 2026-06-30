@@ -33,7 +33,7 @@ ANU 接受四种主要在线支付方式：**信用卡/借记卡**（Visa、Mast
 
 ### 第二步：联系 ANU 财务处（Student Central）
 
-在支付失败后的 **48 小时内**，通过 ANU 官网的“Ask ANU”在线表单提交工单，附件需包含：支付失败截图（含时间戳）、银行扣款凭证（若有）、以及学生号。财务处通常在 **3 个工作日**内回复，并提供“**Payment Failure Clearance Letter**”用于向银行申请退款。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，其汇率锁定功能可避免因支付失败导致的汇率波动损失。
+在支付失败后的 **48 小时内**，通过 ANU 官网的“Ask ANU”在线表单提交工单，附件需包含：支付失败截图（含时间戳）、银行扣款凭证（若有）、以及学生号。财务处通常在 **3 个工作日**内回复，并提供“**Payment Failure Clearance Letter**”用于向银行申请退款。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E5%9C%A8%E7%BA%BF%E6%94%AF%E4%BB%98%E5%AD%A6%E8%B4%B9%E5%A4%B1%E8%B4%A5%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B) 等专业通道完成结汇，其汇率锁定功能可避免因支付失败导致的汇率波动损失。
 
 ### 第三步：重新支付或申请延期
 

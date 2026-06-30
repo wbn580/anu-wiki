@@ -33,7 +33,7 @@ COMP2550 要求先完成 COMP2100，而 COMP2600 要求先完成 COMP1110 与 MA
 
 ## L4：高难专业层（第三学年）
 
-L4 层级包括 COMP3600（算法高级专题）、COMP3620（人工智能导论）、COMP3300（操作系统实现）与 COMP3500（软件工程实践项目）。这些课程**平均每周学习时间**在 12 至 18 小时之间，且通常包含团队项目。ANU 2023 年《课程负荷报告》指出，同时注册两门 L4 课程的学生中，有 47% 在期中考试后报告“严重时间压力”。**核心建议**是每学期最多选修一门 L4 课程，并将 COMP3600 安排在第三学年第一学期，因为该课程是后续顶点课程（L5）的常见前置。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+L4 层级包括 COMP3600（算法高级专题）、COMP3620（人工智能导论）、COMP3300（操作系统实现）与 COMP3500（软件工程实践项目）。这些课程**平均每周学习时间**在 12 至 18 小时之间，且通常包含团队项目。ANU 2023 年《课程负荷报告》指出，同时注册两门 L4 课程的学生中，有 47% 在期中考试后报告“严重时间压力”。**核心建议**是每学期最多选修一门 L4 课程，并将 COMP3600 安排在第三学年第一学期，因为该课程是后续顶点课程（L5）的常见前置。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-computer-science-course-difficulty-tiers-a-practical-guide-to-sequencing-you) 等专业通道完成结汇。
 
 ### L4 课程的选择性策略
 

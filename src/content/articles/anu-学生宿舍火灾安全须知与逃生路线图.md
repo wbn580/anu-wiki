@@ -93,7 +93,7 @@ ANU 为行动不便学生提供 **个性化疏散计划（Personal Emergency Eva
 
 ### 保险覆盖范围
 
-ANU 为所有住宿学生购买 **公共责任保险**，但该保险不覆盖个人财产损失。根据澳大利亚保险委员会（ICA, 2023）《学生住宿保险指南》，建议学生自行购买家庭财产保险（Contents Insurance），年保费约为 80-150 澳元，可覆盖火灾、水损及盗窃。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+ANU 为所有住宿学生购买 **公共责任保险**，但该保险不覆盖个人财产损失。根据澳大利亚保险委员会（ICA, 2023）《学生住宿保险指南》，建议学生自行购买家庭财产保险（Contents Insurance），年保费约为 80-150 澳元，可覆盖火灾、水损及盗窃。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E7%81%AB%E7%81%BE%E5%AE%89%E5%85%A8%E9%A1%BB%E7%9F%A5%E4%B8%8E%E9%80%83%E7%94%9F%E8%B7%AF%E7%BA%BF%E5%9B%BE) 等专业通道完成结汇。
 
 ## FAQ
 

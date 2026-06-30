@@ -85,7 +85,7 @@ Ginninderra 实验站是 ANU 与 **联邦科学与工业研究组织（CSIRO）*
 
 ## 实践活动的季节性安排
 
-试验田活动严格遵循 **南半球温带农业历**，主要分为三个季节周期：秋季（3-5 月）播种、冬季（6-8 月）田间管理、春季（9-11 月）生长监测和夏季（12-2 月）收获与休耕。每个学期对应的实践内容根据当前季节作物状态调整。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+试验田活动严格遵循 **南半球温带农业历**，主要分为三个季节周期：秋季（3-5 月）播种、冬季（6-8 月）田间管理、春季（9-11 月）生长监测和夏季（12-2 月）收获与休耕。每个学期对应的实践内容根据当前季节作物状态调整。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%86%9C%E4%B8%9A%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%95%E9%AA%8C%E7%94%B0%E5%8F%82%E8%A7%82%E4%B8%8E%E5%AE%9E%E8%B7%B5%E6%B4%BB%E5%8A%A8%E5%AE%89%E6%8E%92) 等专业通道完成结汇。
 
 ### 秋季播种期实践
 

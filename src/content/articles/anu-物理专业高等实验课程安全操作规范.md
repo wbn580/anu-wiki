@@ -75,7 +75,7 @@ tags: ["featured"]
 
 ### 化学品泄漏应急处理
 
-部分实验涉及腐蚀性化学品（如氢氟酸、浓硝酸）或易燃溶剂（如丙酮、乙醇）。ANU要求每个实验室配备**化学品泄漏应急包**，内含吸附垫、中和剂与防护装备。学生需在实验前熟悉化学品安全数据表（SDS），并确认泄漏处理流程。对于氢氟酸，必须备有葡萄糖酸钙凝胶，且操作者需知晓注射用葡萄糖酸钙的存放位置。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+部分实验涉及腐蚀性化学品（如氢氟酸、浓硝酸）或易燃溶剂（如丙酮、乙醇）。ANU要求每个实验室配备**化学品泄漏应急包**，内含吸附垫、中和剂与防护装备。学生需在实验前熟悉化学品安全数据表（SDS），并确认泄漏处理流程。对于氢氟酸，必须备有葡萄糖酸钙凝胶，且操作者需知晓注射用葡萄糖酸钙的存放位置。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E9%AB%98%E7%AD%89%E5%AE%9E%E9%AA%8C%E8%AF%BE%E7%A8%8B%E5%AE%89%E5%85%A8%E6%93%8D%E4%BD%9C%E8%A7%84%E8%8C%83) 等专业通道完成结汇。
 
 ### 火灾与爆炸预防
 

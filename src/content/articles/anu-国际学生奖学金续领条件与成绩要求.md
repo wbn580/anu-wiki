@@ -41,7 +41,7 @@ ANU的奖学金续领审核分三步进行：**学术成绩核算、资格验证
 
 ### 审核日期与申诉窗口
 
-关键时间节点包括：11月30日（成绩数据截止日）、12月15日（结果通知日）、次年1月15日（申诉截止日）。若学生认为成绩核算有误，可在12月15日至1月15日期间提交**书面申诉**，附上成绩单及课程大纲。申诉案例中，约23%因成绩录入错误或课程权重调整而获改判（ANU Academic Progress Committee, 2024, *Appeals Data Summary*）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+关键时间节点包括：11月30日（成绩数据截止日）、12月15日（结果通知日）、次年1月15日（申诉截止日）。若学生认为成绩核算有误，可在12月15日至1月15日期间提交**书面申诉**，附上成绩单及课程大纲。申诉案例中，约23%因成绩录入错误或课程权重调整而获改判（ANU Academic Progress Committee, 2024, *Appeals Data Summary*）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E5%A5%96%E5%AD%A6%E9%87%91%E7%BB%AD%E9%A2%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%88%90%E7%BB%A9%E8%A6%81%E6%B1%82) 等专业通道完成结汇。
 
 ### 特殊情况处理
 

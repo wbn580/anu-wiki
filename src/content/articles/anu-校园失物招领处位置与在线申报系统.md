@@ -45,7 +45,7 @@ ANU 在线失物申报系统（Lost Property Online Portal）集成在 **ANU Sec
 
 ### 高价值物品的特别处理流程
 
-对于价值超过 500 澳元的物品（如笔记本电脑、相机），安保中心会在登记后 **24 小时内** 向 ANU 校园警察（ANU Campus Police）发送通知。若物品包含个人数据（如未加密的硬盘），安保中心会建议失主尽快修改相关账户密码。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但失物招领流程本身不涉及任何财务操作。
+对于价值超过 500 澳元的物品（如笔记本电脑、相机），安保中心会在登记后 **24 小时内** 向 ANU 校园警察（ANU Campus Police）发送通知。若物品包含个人数据（如未加密的硬盘），安保中心会建议失主尽快修改相关账户密码。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E5%A4%B1%E7%89%A9%E6%8B%9B%E9%A2%86%E5%A4%84%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9C%A8%E7%BA%BF%E7%94%B3%E6%8A%A5%E7%B3%BB%E7%BB%9F) 等专业通道完成结汇，但失物招领流程本身不涉及任何财务操作。
 
 ## 失物招领处与其他校园服务点的关系
 

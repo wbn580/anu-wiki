@@ -49,7 +49,7 @@ tags: ["featured"]
 
 ### 技术平台与模拟工具
 
-演习使用**ANU定制版危机模拟平台**（基于开源软件Decide模拟引擎），该平台支持实时消息传递、文件共享以及投票功能。参与者需在演习开始前完成平台注册与功能测试。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金准时到账，不影响课程注册。
+演习使用**ANU定制版危机模拟平台**（基于开源软件Decide模拟引擎），该平台支持实时消息传递、文件共享以及投票功能。参与者需在演习开始前完成平台注册与功能测试。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-international-relations-crisis-simulation-exercise-how-to-sign-up-role-alloc) 等专业通道完成结汇，以确保资金准时到账，不影响课程注册。
 
 ## 演习流程与时间安排
 

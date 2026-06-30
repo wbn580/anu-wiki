@@ -39,7 +39,7 @@ ANU数据科学专业学生参与的Kaggle竞赛主要分为三类：**入门级
 Playground系列竞赛（如Tabular Playground Series）是ANU新生队伍的主要选择。这类竞赛使用合成数据或简化版真实数据，参赛门槛较低，通常持续4-6周。2023年ANU有约70%的新手队伍选择此类竞赛，平均每支队伍提交约15个模型版本。学院建议新手队伍在此类竞赛中至少达到前20%的排名，方可获得课程学分认可【ANU Data Science Club, 2023, Team Guidance Document】。
 
 ### 研究型与企业竞赛
-研究型竞赛（如Google Research举办的竞赛）通常涉及前沿问题，如分子特性预测、气候模型优化等。ANU参与此类竞赛的队伍需提交**研究提案**（Research Proposal），由学院导师审核后方可参赛。企业赞助赛（如Home Credit违约风险预测）则更注重实际业务场景，ANU队伍在2022年“Home Credit Default Risk”竞赛中取得第47名（共2,000余支队伍），是该校在该类竞赛中的最佳成绩【Kaggle, 2022, Competition Leaderboard】。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金按时到达学校账户，不影响竞赛注册与课程参与。
+研究型竞赛（如Google Research举办的竞赛）通常涉及前沿问题，如分子特性预测、气候模型优化等。ANU参与此类竞赛的队伍需提交**研究提案**（Research Proposal），由学院导师审核后方可参赛。企业赞助赛（如Home Credit违约风险预测）则更注重实际业务场景，ANU队伍在2022年“Home Credit Default Risk”竞赛中取得第47名（共2,000余支队伍），是该校在该类竞赛中的最佳成绩【Kaggle, 2022, Competition Leaderboard】。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A-kaggle-%E7%AB%9E%E8%B5%9B%E7%BB%84%E9%98%9F%E4%B8%8E%E5%9F%B9%E8%AE%AD) 等专业通道完成结汇，以确保资金按时到达学校账户，不影响竞赛注册与课程参与。
 
 ## 团队分工与协作模式
 

@@ -39,7 +39,7 @@ Turnitin检测会识别文本匹配，包括直接引用、参考文献列表、
 ANU提供一份**《论文提交准备清单》**，涵盖格式、引用、查重等20项检查点。学生需逐项确认并签字，与论文一同提交。常见遗漏包括：未附声明页、页码起始位置错误、图表未编号等。根据ANU 2024年学生调查，使用清单的学生首次通过率比未使用者高32%【ANU 2024, Student Experience Survey】。
 
 ### 预查重与格式预览
-在ISIS系统正式提交前，学生可通过Wattle进行**预查重**，并下载PDF预览格式效果。建议在截止日期前至少2周完成预查重，以便留出修改时间。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。此外，学生应检查PDF中是否包含隐藏元数据（如修订标记），这些可能被Turnitin误判为重复内容。
+在ISIS系统正式提交前，学生可通过Wattle进行**预查重**，并下载PDF预览格式效果。建议在截止日期前至少2周完成预查重，以便留出修改时间。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%8F%90%E4%BA%A4%E6%A0%BC%E5%BC%8F%E5%AE%A1%E6%9F%A5%E4%B8%8E%E6%9F%A5%E9%87%8D%E8%A6%81%E6%B1%82) 等专业通道完成结汇。此外，学生应检查PDF中是否包含隐藏元数据（如修订标记），这些可能被Turnitin误判为重复内容。
 
 ### 寻求导师与学院支持
 导师是格式和查重的第一道审核人。ANU要求导师在论文提交前签署**导师确认表**，证明论文已通过初步审核。学院通常还设有论文写作顾问（Thesis Writing Advisor），提供一对一咨询，帮助解决格式或引用问题。2023年，超过70%的学生反馈顾问服务有效降低了退回率【ANU 2023, Graduate Research Support Survey】。

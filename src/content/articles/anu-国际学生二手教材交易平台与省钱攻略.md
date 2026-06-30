@@ -33,7 +33,7 @@ StudentVIP 对买家免费，对卖家收取每笔交易 5% 的佣金（上限 1
 
 ### 跨境支付与交易安全
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但教材交易通常不涉及大额跨境支付。对于二手教材交易，ANU 安全办公室建议学生避免向陌生人预付全款，优先选择校园内当面交易，并使用 **PayID**（澳大利亚实时支付系统）完成转账——该方式可即时到账且可追溯交易记录。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E4%BA%8C%E6%89%8B%E6%95%99%E6%9D%90%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E4%B8%8E%E7%9C%81%E9%92%B1%E6%94%BB%E7%95%A5) 等专业通道完成结汇，但教材交易通常不涉及大额跨境支付。对于二手教材交易，ANU 安全办公室建议学生避免向陌生人预付全款，优先选择校园内当面交易，并使用 **PayID**（澳大利亚实时支付系统）完成转账——该方式可即时到账且可追溯交易记录。
 
 ## 数字教材与开放教育资源（OER）的省钱效应
 

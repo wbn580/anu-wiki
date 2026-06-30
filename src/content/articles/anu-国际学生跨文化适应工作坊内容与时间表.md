@@ -41,7 +41,7 @@ ANU跨文化适应工作坊基于**Berry跨文化适应模型**（John W. Berry,
 
 工作坊特别设置**学术诚信工作坊**（Academic Integrity Module），由ANU学术诚信办公室与法学院联合开发。内容涵盖“共谋”（collusion）与“自我抄袭”（self-plagiarism）的界定标准——这两类违规在亚洲教育体系中较少被明确禁止。澳大利亚高等教育质量标准署（TEQSA）2023年报告显示，ANU的学术诚信违规案例中，国际学生占比为58%，但其中82%属于无意违规（non-intentional breach）。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%B7%A8%E6%96%87%E5%8C%96%E9%80%82%E5%BA%94%E5%B7%A5%E4%BD%9C%E5%9D%8A%E5%86%85%E5%AE%B9%E4%B8%8E%E6%97%B6%E9%97%B4%E8%A1%A8) 等专业通道完成结汇。
 
 ## 核心模块三：语言与沟通策略
 

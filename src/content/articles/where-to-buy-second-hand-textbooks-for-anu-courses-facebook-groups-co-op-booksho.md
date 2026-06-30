@@ -36,7 +36,7 @@ Co-Op Bookshop 同时提供教材租赁服务（Rental Program），租期为一
 Gumtree 和 eBay 是澳大利亚使用最广泛的二手商品平台，在堪培拉地区，**Gumtree 的 ANU 教材**搜索量在每学期开学前两周达到峰值。根据平台数据显示，2024 年 2 月（第一学期开学季），Gumtree 上标注“ANU textbook”的活跃列表超过 400 条。eBay 则提供更完善的买家保护机制，包括 PayPal 纠纷调解和退货保障。
 
 ### 价格与运费差异
-Gumtree 上的教材价格通常为原价的 40%-60%，且以面交为主（集中在堪培拉市区）。eBay 的价格略高（原价的 50%-70%），但支持邮寄，运费在 8-15 澳元之间。**Facebook Marketplace** 在堪培拉地区的渗透率较高，其搜索算法会优先展示距离用户 10 公里内的商品，适合急需教材的学生。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，从而为教材采购预留更多预算。
+Gumtree 上的教材价格通常为原价的 40%-60%，且以面交为主（集中在堪培拉市区）。eBay 的价格略高（原价的 50%-70%），但支持邮寄，运费在 8-15 澳元之间。**Facebook Marketplace** 在堪培拉地区的渗透率较高，其搜索算法会优先展示距离用户 10 公里内的商品，适合急需教材的学生。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/where-to-buy-second-hand-textbooks-for-anu-courses-facebook-groups-co-op-booksho) 等专业通道完成结汇，从而为教材采购预留更多预算。
 
 ### 版本与 ISBN 核对
 在线市场的最大风险是版本错误。同一教材（如《管理学》第 12 版与第 11 版）的 ISBN 不同，但封面可能相似。建议在购买前通过 ANU 课程大纲（通常可在 Wattle 系统下载）或 **ISBN 数据库**（如 ISBNdb.com）进行交叉验证。2023 年 ANU 学术技能中心的数据显示，因版本错误导致退换货的案例中，90% 发生在在线市场渠道。

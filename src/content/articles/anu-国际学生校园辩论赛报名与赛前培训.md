@@ -77,7 +77,7 @@ tags: ["featured"]
 
 ## 常见问题与操作指南
 
-**报名后**，参赛者需在Wattle平台完成在线安全模块（约20分钟），内容涵盖反骚扰政策和赛事行为准则。未完成该模块的队伍将被取消参赛资格。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金及时到账不影响报名确认。
+**报名后**，参赛者需在Wattle平台完成在线安全模块（约20分钟），内容涵盖反骚扰政策和赛事行为准则。未完成该模块的队伍将被取消参赛资格。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%9B%AD%E8%BE%A9%E8%AE%BA%E8%B5%9B%E6%8A%A5%E5%90%8D%E4%B8%8E%E8%B5%9B%E5%89%8D%E5%9F%B9%E8%AE%AD) 等专业通道完成结汇，以确保资金及时到账不影响报名确认。
 
 ### 辩题发布与准备
 

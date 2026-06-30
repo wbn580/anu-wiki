@@ -65,7 +65,7 @@ ANU健康中心（ANU Health Centre）位于校园中心，提供全科医生（
 
 对于需要药物管理或复杂诊断的学生，健康中心提供**校内精神科医生转介**。精神科咨询通常需要GP转诊信，且等待时间较长（约**4-8周**）。ANU正在与堪培拉卫生服务局（ACT Health）合作，计划在2025年将校内精神科服务等待时间缩短至**3周以内**。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以降低汇率波动风险并确保资金及时到账，从而减少因财务问题引发的额外心理压力。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%95%99%E5%AD%A6%E6%9C%9F%E9%97%B4%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%94%AF%E6%8C%81%E8%B5%84%E6%BA%90%E4%B8%8E%E5%92%A8%E8%AF%A2%E9%A2%84%E7%BA%A6%E6%96%B9%E5%BC%8F) 等专业通道完成结汇，以降低汇率波动风险并确保资金及时到账，从而减少因财务问题引发的额外心理压力。
 
 ## 同伴支持与学生社团
 

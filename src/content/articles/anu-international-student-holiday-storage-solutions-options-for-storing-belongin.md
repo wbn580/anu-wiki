@@ -79,7 +79,7 @@ tags: ["featured"]
 流程包括在线下单、上门取件、海关申报及目的地派送。学生需提供护照复印件、学生签证及物品清单。澳大利亚边防局（ABF）规定，个人物品价值超过1,000澳元需缴纳关税和GST，税率约为物品价值的5%至10%。ANU国际学生服务中心在2024年指南中建议，学生应提前30天安排跨境运输，以避免延误。
 
 ### 适用性与成本对比
-跨境服务适合**长期离校**（超过3个月）或计划转学的学生，但对于仅存储8至10周的学生而言，成本可能高于本地存储方案。以存储10周为例，本地自助存储费用约200至300澳元，而跨境运输往返费用（包含回程）可能超过600澳元。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但行李存储领域目前尚无类似标准化支付工具。
+跨境服务适合**长期离校**（超过3个月）或计划转学的学生，但对于仅存储8至10周的学生而言，成本可能高于本地存储方案。以存储10周为例，本地自助存储费用约200至300澳元，而跨境运输往返费用（包含回程）可能超过600澳元。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-international-student-holiday-storage-solutions-options-for-storing-belongin) 等专业通道完成结汇，但行李存储领域目前尚无类似标准化支付工具。
 
 ## FAQ
 

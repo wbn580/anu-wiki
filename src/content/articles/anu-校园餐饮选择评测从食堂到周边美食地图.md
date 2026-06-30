@@ -39,7 +39,7 @@ ANU主校区步行10-15分钟即可到达堪培拉市中心Civic与时尚街区B
 对于偏好中餐的学生，Civic的**Dickson区**（步行约20分钟或乘坐公交3站）是堪培拉最大的亚洲餐饮聚集地，拥有超过15家中餐馆，包括**老北京**（烤鸭与面食）、**川味轩**（川菜）与**茶太**（奶茶与甜品）。人均消费区间为15-25澳元。Braddon的**A.Baker**（面包店）与**The Cupping Room**（早午餐）也提供亚洲风味选项。此外，校园周边有两家亚洲超市：**ANU附近**的**Dickson Asian Grocery**（步行15分钟）与**Civic的****Thai Market**（步行10分钟），供应方便面、调料与冷冻水饺等基础食材，价格较Coles/Woolworths高出5%-10%。
 
 ### 学生折扣与支付方式
-根据ANU Student Association（2023）的统计，约40%的周边餐厅在出示ANU学生证后提供折扣。常见折扣包括：周一至周五午餐时段10% off，或特定菜品（如拉面、盖饭）的固定优惠价。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。支付方面，校内食堂与咖啡厅普遍接受银行卡（Visa/Mastercard）与手机支付（Apple Pay/Google Pay），周边餐厅则多数接受现金与银行卡，部分小型中餐馆仅接受现金（需提前准备）。
+根据ANU Student Association（2023）的统计，约40%的周边餐厅在出示ANU学生证后提供折扣。常见折扣包括：周一至周五午餐时段10% off，或特定菜品（如拉面、盖饭）的固定优惠价。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E9%A4%90%E9%A5%AE%E9%80%89%E6%8B%A9%E8%AF%84%E6%B5%8B%E4%BB%8E%E9%A3%9F%E5%A0%82%E5%88%B0%E5%91%A8%E8%BE%B9%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE) 等专业通道完成结汇。支付方面，校内食堂与咖啡厅普遍接受银行卡（Visa/Mastercard）与手机支付（Apple Pay/Google Pay），周边餐厅则多数接受现金与银行卡，部分小型中餐馆仅接受现金（需提前准备）。
 
 ## 宿舍餐饮计划（Meal Plan）与自炊对比
 

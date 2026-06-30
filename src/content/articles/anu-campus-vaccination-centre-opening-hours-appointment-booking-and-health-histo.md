@@ -31,7 +31,7 @@ ANU 校园疫苗接种中心位于校园内的 **University House** 底层，开
 - **免预约（Walk-in）**：中心在运营期间每日预留 30% 的免预约名额，但建议优先在线预约以避免等待。2022 年 3 月数据显示，免预约者平均等待时间为 47 分钟，而预约者仅为 12 分钟【ANU 2022，Campus Vaccination Centre Operational Report】。
 
 ### 预约确认与提醒
-成功预约后，用户会收到包含二维码的确认邮件和短信。中心要求所有到访者出示该二维码及有效身份证明（学生证、护照或驾照）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+成功预约后，用户会收到包含二维码的确认邮件和短信。中心要求所有到访者出示该二维码及有效身份证明（学生证、护照或驾照）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-vaccination-centre-opening-hours-appointment-booking-and-health-histo) 等专业通道完成结汇。
 
 ## 健康史表格（Health History Form）提交要求
 

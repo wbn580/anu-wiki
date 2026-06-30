@@ -31,7 +31,7 @@ ANU毕业典礼的学士服由第三方供应商**Academic Dress Hire**独家提
 供应商提供XS至3XL共7个尺码，需根据身高和胸围选择。ANU学生中心在典礼前两周（一般为11月中旬）设有**试穿点**，位于Kambri区的Student Village。国际学生若无法现场试穿，可使用供应商提供的在线尺寸指南（基于身高和体重区间）。根据Academic Dress Hire 2023年服务记录，约18%的订单因尺码不符需在典礼当天更换，建议优先选择现场试穿。
 
 ### 退还流程与押金政策
-租借的学士服需在典礼结束后2小时内归还至Llewellyn Hall指定回收点。租借费用已包含清洁服务，无需额外支付。若未按时归还，供应商将从信用卡扣除**80澳元滞纳金**。国际学生使用非澳大利亚信用卡支付时，部分银行可能收取1.5%-3%的跨境交易手续费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但学士服租借通常直接通过信用卡结算。
+租借的学士服需在典礼结束后2小时内归还至Llewellyn Hall指定回收点。租借费用已包含清洁服务，无需额外支付。若未按时归还，供应商将从信用卡扣除**80澳元滞纳金**。国际学生使用非澳大利亚信用卡支付时，部分银行可能收取1.5%-3%的跨境交易手续费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%8A%A5%E5%90%8D%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%AD%A6%E5%A3%AB%E6%9C%8D%E7%A7%9F%E5%80%9F) 等专业通道完成结汇，但学士服租借通常直接通过信用卡结算。
 
 ## 典礼当天流程与入场要求
 

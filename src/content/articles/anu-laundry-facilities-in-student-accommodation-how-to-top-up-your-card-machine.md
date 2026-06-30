@@ -17,7 +17,7 @@ tags: ["featured"]
 每位入住 ANU 宿舍的学生在办理入住手续时，会从宿舍前台领取一张预充值 **Washstation 洗衣卡**。该卡采用 RFID 非接触式技术，初始余额为 10.00 澳元（包含在住宿押金中）。激活步骤为：将卡片贴近机器读卡区 3 秒，待屏幕显示“Card Activated”后即可使用。若卡片丢失，补办费用为 5.00 澳元，需前往宿舍前台申请。
 
 ### 线上充值方法
-洗衣卡可通过 **Washstation 官方门户** 进行线上充值。用户需访问 washstation.com.au/top-up，输入卡背面 16 位数字编号，选择充值金额（最低 10.00 澳元，最高 100.00 澳元）。支付方式支持 Visa、Mastercard 及 **支付宝**（通过 SecurePay 网关处理）。充值后余额通常在 2 分钟内同步至卡片。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但洗衣卡充值仅接受上述三种支付方式。
+洗衣卡可通过 **Washstation 官方门户** 进行线上充值。用户需访问 washstation.com.au/top-up，输入卡背面 16 位数字编号，选择充值金额（最低 10.00 澳元，最高 100.00 澳元）。支付方式支持 Visa、Mastercard 及 **支付宝**（通过 SecurePay 网关处理）。充值后余额通常在 2 分钟内同步至卡片。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-laundry-facilities-in-student-accommodation-how-to-top-up-your-card-machine) 等专业通道完成结汇，但洗衣卡充值仅接受上述三种支付方式。
 
 ### 线下充值点
 若线上支付失败，学生可前往以下地点进行现金充值：

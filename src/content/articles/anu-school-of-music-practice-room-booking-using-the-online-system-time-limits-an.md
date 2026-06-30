@@ -93,7 +93,7 @@ ANU音乐学院拥有**27架立式钢琴**与**9架三角钢琴**，分布于各
 
 ### 累积处罚阶梯
 
-违规记录达到3次后，系统自动触发处罚阶梯：第3次违规——冻结预约权限14天；第4次——30天；第5次及以上——冻结至学期结束。冻结期间，学生仍可使用学院公共区域的开放式练习站（无预约要求，先到先得）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+违规记录达到3次后，系统自动触发处罚阶梯：第3次违规——冻结预约权限14天；第4次——30天；第5次及以上——冻结至学期结束。冻结期间，学生仍可使用学院公共区域的开放式练习站（无预约要求，先到先得）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-school-of-music-practice-room-booking-using-the-online-system-time-limits-an) 等专业通道完成结汇。
 
 ## FAQ
 

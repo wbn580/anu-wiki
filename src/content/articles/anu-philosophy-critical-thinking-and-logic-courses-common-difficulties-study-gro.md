@@ -51,7 +51,7 @@ ANU学术技能中心（Academic Skills）提供免费的个体辅导（Individu
 
 ### 付费辅导与外部机构
 
-部分学生选择校外辅导服务。ANU学生会（ANUSA）的“学习支持列表”列出了经审核的在校导师，收费区间为每小时25-40澳元。校外机构如UNILINK Education提供针对ANU课程的衔接支持，涵盖学术写作和逻辑分析的基础训练。在跨境学费缴付环节，部分留学家庭会使用[Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy)等专业通道完成结汇。需要留意的是，这些服务并非ANU官方合作项目，学生应自行核实导师资质和费用透明度。
+部分学生选择校外辅导服务。ANU学生会（ANUSA）的“学习支持列表”列出了经审核的在校导师，收费区间为每小时25-40澳元。校外机构如UNILINK Education提供针对ANU课程的衔接支持，涵盖学术写作和逻辑分析的基础训练。在跨境学费缴付环节，部分留学家庭会使用[Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-philosophy-critical-thinking-and-logic-courses-common-difficulties-study-gro)等专业通道完成结汇。需要留意的是，这些服务并非ANU官方合作项目，学生应自行核实导师资质和费用透明度。
 
 ### 在线视频与教材补充
 

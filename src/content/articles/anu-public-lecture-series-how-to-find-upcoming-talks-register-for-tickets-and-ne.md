@@ -57,7 +57,7 @@ ANU 的学术邮件列表（Mailing Lists）是获取独家讲座信息的另一
 
 ### 携带学术社交工具
 
-建议携带以下物品：**名片**（可选，但推荐使用 ANU 学生设计的名片模板）、笔记本和笔（用于记录关键观点和后续联系线索）、以及一台已充满电的设备（用于现场查询演讲者信息或记录笔记）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但讲座现场无需此类工具。
+建议携带以下物品：**名片**（可选，但推荐使用 ANU 学生设计的名片模板）、笔记本和笔（用于记录关键观点和后续联系线索）、以及一台已充满电的设备（用于现场查询演讲者信息或记录笔记）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-public-lecture-series-how-to-find-upcoming-talks-register-for-tickets-and-ne) 等专业通道完成结汇，但讲座现场无需此类工具。
 
 ## 讲座中的有效参与技巧
 

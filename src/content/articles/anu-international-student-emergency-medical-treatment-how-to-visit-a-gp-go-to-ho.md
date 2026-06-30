@@ -55,7 +55,7 @@ ACT 地区法律允许药房直接提供紧急避孕药（如 levonorgestrel 片
 
 **理赔 (Claim)** 可通过保险商官网、手机 APP 或邮寄表格提交。标准流程为：就医后保留所有收据（Receipt）、GP 开具的 **Medical Certificate** 及 **Item Number**（如 Medicare 标准代码 23 代表标准 GP 咨询）。登录保险商账户，上传收据照片并填写理赔金额。Allianz Care 2024 年数据显示，在线理赔平均处理时间为 6 个工作日，退款直接转入澳大利亚银行账户。
 
-**关键时限**：多数 OSHC 保单要求就医后 12 个月内提交理赔，逾期可能被拒。若使用 bulk billing 诊所，学生无需自行理赔，诊所直接向保险商收费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+**关键时限**：多数 OSHC 保单要求就医后 12 个月内提交理赔，逾期可能被拒。若使用 bulk billing 诊所，学生无需自行理赔，诊所直接向保险商收费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-international-student-emergency-medical-treatment-how-to-visit-a-gp-go-to-ho) 等专业通道完成结汇。
 
 ### 理赔被拒的常见原因与申诉
 

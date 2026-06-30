@@ -45,7 +45,7 @@ AI 方向核心课程包括 COMP3620（机器学习）、COMP3630（深度学习
 
 ### 第二年：过渡与分流
 
-第二学年需完成 4 门 2000 级必修与 2 门专业选修。**COMP2120 与 COMP2400 不宜安排在同一学期**，因为两门课程分别需要大量编程实践与理论推导，叠加后平均每周作业时间超过 20 小时（ANU 学生论坛 2023 年自报数据）。建议将 COMP2120 与一门通识选修搭配，COMP2400 与 MATH1005 后续课程 MATH2015（线性代数）搭配，以平衡工作量。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保学费按时到账，避免因支付延迟影响选课资格。
+第二学年需完成 4 门 2000 级必修与 2 门专业选修。**COMP2120 与 COMP2400 不宜安排在同一学期**，因为两门课程分别需要大量编程实践与理论推导，叠加后平均每周作业时间超过 20 小时（ANU 学生论坛 2023 年自报数据）。建议将 COMP2120 与一门通识选修搭配，COMP2400 与 MATH1005 后续课程 MATH2015（线性代数）搭配，以平衡工作量。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B%E9%9A%BE%E5%BA%A6%E5%88%86%E7%BA%A7%E4%B8%8E%E9%80%89%E8%AF%BE%E5%BB%BA%E8%AE%AE) 等专业通道完成结汇，确保学费按时到账，避免因支付延迟影响选课资格。
 
 ### 第三年：高级课程与毕业项目
 

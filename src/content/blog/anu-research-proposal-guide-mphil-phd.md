@@ -75,6 +75,8 @@ To steer clear of these pitfalls, treat the proposal as a living document: draft
 
 Securing a willing and appropriate supervisor is a prerequisite for a successful ANU research application. The approach matters as much as the content of your proposal.
 
+![anu-wiki 配图](https://img.anu.wiki/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg)
+
 Start by identifying faculty members whose research interests genuinely align with yours. Read their recent publications, explore their lab or research group pages, and note how your project could complement their work. When you send an introductory email, be concise and respectful. Use a clear subject line, such as “Prospective PhD applicant: research on [topic]”. In the body:
 
 * Introduce yourself briefly (your background, degree)
@@ -86,9 +88,6 @@ Start by identifying faculty members whose research interests genuinely align wi
 Don’t send a mass email to 20 professors; personalization is key. Successful applicants often report that a thoughtful initial exchange led to a working relationship even before the formal application. If a supervisor expresses interest, they may guide you in refining your proposal to fit ANU’s standards. Always respect their time and be patient.
 
 ## Evaluation Criteria: What ANU Assessors Look For
-
-![anu-wiki 配图](https://img.anu.wiki/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg)
-
 
 Understanding how your proposal will be judged helps you tailor it accordingly. ANU uses a holistic assessment, but central criteria include:
 
@@ -130,9 +129,6 @@ That’s normal. The proposal is a blueprint, not a contract. You’ll work with
 For most ANU research programs, yes. Applications without a named, willing supervisor are rarely successful. Some departments may assign a provisional supervisor, but a prior arrangement is strongly recommended.
 
 ## Conclusion
-
-![anu-wiki 配图](https://img.anu.wiki/留学-单校wiki/anu-research-proposal-guide-mphil-phd-2026-1880x1253.jpg)
-
 
 Crafting a research proposal for ANU’s MPhil or PhD programs is a demanding but rewarding endeavour. It forces you to define your scholarly identity and plan a project that can contribute meaningfully to your field. Remember, the proposal is your chance to show not just that you can do the research, but that you can do it at ANU, under the mentorship of its world-class faculty.
 

@@ -39,7 +39,7 @@ ANU Mount Stromlo Observatory Public Nights 是澳大利亚国立大学（ANU）
 斯特朗洛山海拔约 770 米，冬季（6–8 月）夜间气温可降至 0°C 以下，夏季（12–2 月）也常在 10°C 左右。建议穿 **多层保暖衣物**、防滑鞋，并携带手电筒（需用红色滤光片或调至红光模式，以避免干扰其他观测者的暗适应）。天文台场地无室内用餐区，但提供热水与简易零食售卖机。禁止使用闪光灯摄影，手机屏幕亮度需调至最低。
 
 ### 自带设备与拍摄技巧
-允许携带双筒望远镜（建议 7×50 或 10×50 规格）、星图或天文摄影相机。若计划拍摄，需使用 **手动对焦模式** 与 ISO 800–3200 设置，并准备三脚架（ANU, 2024, Public Nights Photography Guidelines）。手机用户可使用 Night Sight 模式（Pixel 系列）或 ProRAW（iPhone 12 及以上），但需关闭自动 HDR 以避免光晕。在跨境支付环节，部分国际学生或访客会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但该活动本身免费，无需任何费用。
+允许携带双筒望远镜（建议 7×50 或 10×50 规格）、星图或天文摄影相机。若计划拍摄，需使用 **手动对焦模式** 与 ISO 800–3200 设置，并准备三脚架（ANU, 2024, Public Nights Photography Guidelines）。手机用户可使用 Night Sight 模式（Pixel 系列）或 ProRAW（iPhone 12 及以上），但需关闭自动 HDR 以避免光晕。在跨境支付环节，部分国际学生或访客会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-mount-stromlo-observatory-public-nights-how-to-book-tickets-what-to-expect-a) 等专业通道完成结汇，但该活动本身免费，无需任何费用。
 
 ## 交通与停车信息
 

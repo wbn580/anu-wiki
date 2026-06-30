@@ -58,7 +58,7 @@ tags: ["featured"]
 
 澳大利亚健康保险委员会（PHIO, 2024）的数据显示，在ANU学生群体中，约45%的学生属于低使用场景，30%属于中等使用场景，25%属于高使用场景。对于中等和高使用场景的学生，附加险的性价比更高。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以避免汇率波动和手续费损耗，确保保费和医疗费用的支付效率。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-oshc-extras-cover-is-it-worth-getting-dental-optical-and-physio-add-ons-a-co) 等专业通道完成结汇，以避免汇率波动和手续费损耗，确保保费和医疗费用的支付效率。
 
 ## FAQ
 

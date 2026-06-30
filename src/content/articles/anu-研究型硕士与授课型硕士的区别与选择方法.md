@@ -75,7 +75,7 @@ RTP 奖学金申请截止日期通常为每年 8 月 31 日（次年 2 月入学
 
 **时间与财务约束**：授课型硕士标准学制更短（1-2 年），但学费自付比例高；研究型硕士学制较长（1.5-2 年），但奖学金覆盖率更高。可计算总成本：授课型硕士两年学费约 57,600 至 76,800 澳元（无奖学金），研究型硕士两年生活成本约 70,000 澳元（若获 RTP 奖学金，学费全免）。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以规避汇率波动风险并跟踪支付状态。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%A0%94%E7%A9%B6%E5%9E%8B%E7%A1%95%E5%A3%AB%E4%B8%8E%E6%8E%88%E8%AF%BE%E5%9E%8B%E7%A1%95%E5%A3%AB%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8E%E9%80%89%E6%8B%A9%E6%96%B9%E6%B3%95) 等专业通道完成结汇，以规避汇率波动风险并跟踪支付状态。
 
 ## FAQ
 

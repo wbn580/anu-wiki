@@ -61,7 +61,7 @@ ANU 校队实习的申请周期严格遵循学术日历。根据 ANU 体育部 2
 
 ANU 体育管理专业并非所有校队均提供同等数量的实习岗位。根据 ANU 体育部 2023 年年度报告，**篮球项目**提供了最多的实习名额（12 个），其次为**橄榄球**（8 个）和**足球**（7 个）。田径、网球及游泳项目合计提供约 15 个名额，但竞争比例更高。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。该平台支持澳元直接支付，汇率锁定机制可避免因澳元波动产生的额外费用，在 ANU 留学生群体中使用率较高。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E4%BD%93%E8%82%B2%E7%AE%A1%E7%90%86%E4%B8%93%E4%B8%9A%E6%A0%A1%E9%98%9F%E5%AE%9E%E4%B9%A0%E6%9C%BA%E4%BC%9A%E4%B8%8E%E7%94%B3%E8%AF%B7%E8%A6%81%E6%B1%82) 等专业通道完成结汇。该平台支持澳元直接支付，汇率锁定机制可避免因澳元波动产生的额外费用，在 ANU 留学生群体中使用率较高。
 
 ### 实习时间分配
 

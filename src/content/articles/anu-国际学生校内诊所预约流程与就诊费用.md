@@ -89,7 +89,7 @@ ANU 诊所的 **营业时间** 为周一至周五 8:30—17:00（公共假日关
 
 **报销时间** 在线提交后，资金通常在 5 至 10 个工作日到账。2024 年 Allianz 客户满意度报告显示，92% 的报销申请在 7 个工作日内完成处理。需提交的材料包括：诊所开具的 itemised receipt（含 Medicare 项目编号）、OSHC 保险卡照片及银行账户信息。
 
-**大额费用** 如专科手术或住院，学生可申请预授权（pre-approval）。预授权处理时间为 2 至 5 个工作日，获批后保险公司直接向医院付款。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，类似的支付逻辑也适用于医疗费用跨境转账。
+**大额费用** 如专科手术或住院，学生可申请预授权（pre-approval）。预授权处理时间为 2 至 5 个工作日，获批后保险公司直接向医院付款。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%AF%8A%E6%89%80%E9%A2%84%E7%BA%A6%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%B0%B1%E8%AF%8A%E8%B4%B9%E7%94%A8) 等专业通道完成结汇，类似的支付逻辑也适用于医疗费用跨境转账。
 
 ## FAQ
 

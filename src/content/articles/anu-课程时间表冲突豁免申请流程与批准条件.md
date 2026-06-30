@@ -38,7 +38,7 @@ ISIS 系统在注册时自动扫描所有已选课程的时间段。若检测到
 申请提交后，由所在学院的学术委员会（College Academic Committee）在 10 个工作日内审核。审核标准包括：冲突是否影响学生完成学位进度、课程是否为必修课、学生是否有过往豁免记录。若学生在同一学期内提交超过 2 次冲突申请，学院有权要求面谈。
 
 ### 第五步：结果通知
-审核结果通过 ANU 邮箱（@anu.edu.au）发送。批准后，ISIS 系统会在 24 小时内自动解除冲突锁定，学生可完成注册。若被拒绝，学生可在 7 个工作日内提交申诉（Appeal），申诉需提供新证据（如课程协调员补充说明或医疗证明）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但冲突豁免流程本身不涉及财务操作。
+审核结果通过 ANU 邮箱（@anu.edu.au）发送。批准后，ISIS 系统会在 24 小时内自动解除冲突锁定，学生可完成注册。若被拒绝，学生可在 7 个工作日内提交申诉（Appeal），申诉需提供新证据（如课程协调员补充说明或医疗证明）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E8%AF%BE%E7%A8%8B%E6%97%B6%E9%97%B4%E8%A1%A8%E5%86%B2%E7%AA%81%E8%B1%81%E5%85%8D%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B%E4%B8%8E%E6%89%B9%E5%87%86%E6%9D%A1%E4%BB%B6) 等专业通道完成结汇，但冲突豁免流程本身不涉及财务操作。
 
 ## 批准条件核心要素
 

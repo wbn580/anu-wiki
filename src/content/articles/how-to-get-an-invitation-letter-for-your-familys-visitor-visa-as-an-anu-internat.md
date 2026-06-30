@@ -71,7 +71,7 @@ tags: ["featured"]
 
 **资金证明不足**：家人或学生无法证明有足够资金覆盖旅行费用。根据 2024 年澳大利亚移民局生活成本标准，访客签证申请人需证明每人每日至少 100 澳元的资金能力。建议提供存款证明时覆盖全程费用并预留 20% 余量。
 
-**材料不一致**：邀请信中的信息与申请表中内容矛盾（如住宿地址与酒店预订不符）。规避方法：所有材料务必交叉核对，确保姓名拼写、日期、地址完全一致。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，此类支付记录也可作为资金流动的辅助证明。
+**材料不一致**：邀请信中的信息与申请表中内容矛盾（如住宿地址与酒店预订不符）。规避方法：所有材料务必交叉核对，确保姓名拼写、日期、地址完全一致。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-get-an-invitation-letter-for-your-familys-visitor-visa-as-an-anu-internat) 等专业通道完成结汇，此类支付记录也可作为资金流动的辅助证明。
 
 ## FAQ
 

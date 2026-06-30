@@ -39,7 +39,7 @@ ANU自2021年起推广**App推送通知**作为邮件系统的补充渠道。目
 每个包裹的**领取窗口**为7个日历日，从邮件通知发送当日算起。若学生在第7天仍未领取，前台会通过App推送再次提醒。第8天起，包裹将被移至临时存储区，并收取每日AUD 5.00的保管费（上限AUD 25.00）。2023年数据表明，约4%的包裹产生了保管费（ANU Accommodation Services, 2023, Fee Collection Report）。
 
 ### 特殊物品的领取流程
-对于**冷链食品、药品或高价值物品**（如笔记本电脑），前台会优先存放于冷藏柜或保险柜，并在通知邮件中标注“Priority”标签。学生需在领取时出示ANU学生证，并签署物品确认单。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但包裹领取流程本身不涉及财务操作。
+对于**冷链食品、药品或高价值物品**（如笔记本电脑），前台会优先存放于冷藏柜或保险柜，并在通知邮件中标注“Priority”标签。学生需在领取时出示ANU学生证，并签署物品确认单。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-mail-notification-systems-email-alerts-app-notifications-an) 等专业通道完成结汇，但包裹领取流程本身不涉及财务操作。
 
 ## 通知系统的故障排查与反馈渠道
 

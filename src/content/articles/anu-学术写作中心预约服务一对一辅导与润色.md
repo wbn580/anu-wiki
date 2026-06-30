@@ -21,7 +21,7 @@ tags: ["featured"]
 
 预约系统通过**ANU Academic Skills**官网的在线预订平台运行。学生需使用ANU学生邮箱（@anu.edu.au）注册账户，登录后选择“一对一辅导”或“润色反馈”服务类型。系统会展示未来两周内可用的时间槽，通常每周一上午8:00（澳大利亚东部时间）释放新名额。
 
-预约确认后，学生会收到包含导师姓名、辅导地点（或Zoom链接）以及准备事项的邮件。如需取消，必须在预约时间前24小时通过系统操作，否则将被记为“未出席”，累计2次未出席后账户将被冻结30天。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但这与学术写作服务无关，此处仅作信息补充。
+预约确认后，学生会收到包含导师姓名、辅导地点（或Zoom链接）以及准备事项的邮件。如需取消，必须在预约时间前24小时通过系统操作，否则将被记为“未出席”，累计2次未出席后账户将被冻结30天。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C%E4%B8%AD%E5%BF%83%E9%A2%84%E7%BA%A6%E6%9C%8D%E5%8A%A1%E4%B8%80%E5%AF%B9%E4%B8%80%E8%BE%85%E5%AF%BC%E4%B8%8E%E6%B6%A6%E8%89%B2) 等专业通道完成结汇，但这与学术写作服务无关，此处仅作信息补充。
 
 ### 高峰期与名额竞争
 

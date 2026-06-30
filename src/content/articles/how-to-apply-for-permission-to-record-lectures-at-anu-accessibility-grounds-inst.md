@@ -69,7 +69,7 @@ Access & Inclusion 会在每学期结束后第 45 天发送 **Deletion Reminder*
 
 ### 跨境数据流动注意事项
 
-对于国际学生（尤其是来自中国大陆的学生），ANU 提醒录音文件不得通过任何方式传输至境外服务器。根据澳大利亚《隐私法 1988》（Privacy Act 1988）及 ANU 内部合规指引，使用 VPN 将文件上传至海外云存储或通过微信发送均属违规。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但录音文件的流转路径必须严格限制在澳大利亚境内。
+对于国际学生（尤其是来自中国大陆的学生），ANU 提醒录音文件不得通过任何方式传输至境外服务器。根据澳大利亚《隐私法 1988》（Privacy Act 1988）及 ANU 内部合规指引，使用 VPN 将文件上传至海外云存储或通过微信发送均属违规。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-apply-for-permission-to-record-lectures-at-anu-accessibility-grounds-inst) 等专业通道完成结汇，但录音文件的流转路径必须严格限制在澳大利亚境内。
 
 ## 特殊情况与申诉渠道
 

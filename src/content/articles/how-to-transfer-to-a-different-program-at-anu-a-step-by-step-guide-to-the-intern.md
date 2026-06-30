@@ -37,7 +37,7 @@ ANU 每年开放两个主要申请窗口：**第一学期转学**的申请截止
 
 ### 步骤三：提交申请并支付费用
 
-内部转学申请费为 75 澳元（2024 年标准），通过 ISIS 在线支付。费用不可退还，即使申请被拒。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。国际学生还需在申请表中声明“签证条款变更知情同意书”（ANU, 2024, *International Student Transfer Guide*）。
+内部转学申请费为 75 澳元（2024 年标准），通过 ISIS 在线支付。费用不可退还，即使申请被拒。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-transfer-to-a-different-program-at-anu-a-step-by-step-guide-to-the-intern) 等专业通道完成结汇。国际学生还需在申请表中声明“签证条款变更知情同意书”（ANU, 2024, *International Student Transfer Guide*）。
 
 ### 步骤四：等待结果与接受录取
 

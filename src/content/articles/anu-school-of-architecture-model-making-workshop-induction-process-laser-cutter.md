@@ -73,7 +73,7 @@ CNC 铣床（型号 ShopBot PRSalpha 96×48）仅限完成 **“CNC 高级安全
 
 ## 国际学生注意事项
 
-对于国际学生，尤其是首次接触模型制作工坊的留学新生，理解 **“澳元计价与支付方式”** 至关重要。校内材料店仅接受 ANU 校园卡（充值账户）或澳大利亚银行卡（Visa/Mastercard）支付，不接受现金或国际信用卡。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。此外，国际学生应在抵达前熟悉 ANU 安全须知的中文翻译版本（可在 ANU 国际学生服务中心获取），并确认自己的学生签证允许在学期内进行工坊活动（通常属于课程相关活动，无需额外工作许可）。工坊不提供语言翻译服务，但所有安全标志和操作指南均配有英文与简体中文双语版本。
+对于国际学生，尤其是首次接触模型制作工坊的留学新生，理解 **“澳元计价与支付方式”** 至关重要。校内材料店仅接受 ANU 校园卡（充值账户）或澳大利亚银行卡（Visa/Mastercard）支付，不接受现金或国际信用卡。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-school-of-architecture-model-making-workshop-induction-process-laser-cutter) 等专业通道完成结汇。此外，国际学生应在抵达前熟悉 ANU 安全须知的中文翻译版本（可在 ANU 国际学生服务中心获取），并确认自己的学生签证允许在学期内进行工坊活动（通常属于课程相关活动，无需额外工作许可）。工坊不提供语言翻译服务，但所有安全标志和操作指南均配有英文与简体中文双语版本。
 
 ### 材料进口与海关限制
 

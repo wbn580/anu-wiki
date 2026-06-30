@@ -57,7 +57,7 @@ Coffee Lab Express是Coffee Lab在Bruce Hall宿舍区设立的分站，提供约
 
 ### **Wi-Fi 网络表现**
 
-ANU校园Wi-Fi（eduroam与ANU-WiFi）在主要咖啡店区域覆盖良好，但在高峰时段（11:00至13:00），**Kambri区域**的网络延迟可能从平均15毫秒上升至40毫秒（ANU IT Services, 2024）。学院楼内的咖啡店（如Coffee Lab）网络稳定性更高，平均延迟维持在12毫秒以下。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+ANU校园Wi-Fi（eduroam与ANU-WiFi）在主要咖啡店区域覆盖良好，但在高峰时段（11:00至13:00），**Kambri区域**的网络延迟可能从平均15毫秒上升至40毫秒（ANU IT Services, 2024）。学院楼内的咖啡店（如Coffee Lab）网络稳定性更高，平均延迟维持在12毫秒以下。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E5%92%96%E5%95%A1%E5%BA%97%E8%AF%84%E6%B5%8B%E6%9C%80%E4%BD%B3%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%B0%8F%E7%BB%84%E8%AE%A8%E8%AE%BA%E5%9C%B0%E7%82%B9%E6%8E%A8%E8%8D%90) 等专业通道完成结汇。
 
 ## 小组讨论空间：噪音水平与座位布局
 

@@ -69,7 +69,7 @@ ANU建议国际学生每学期投入志愿者服务不超过60小时（约每周
 ANU学生事务部为参与校外志愿服务的国际学生提供“Volunteer Travel Subsidy”，每人每学期最高可报销120澳元公共交通费用。申请需提交志愿者组织确认函及MyWay卡行程记录，处理周期为10个工作日。
 
 ### **保险覆盖**
-所有通过ANU官方平台注册的志愿者活动，学生均自动享有“Volunteer Personal Accident Insurance”，保额最高为20万澳元（ANU Insurance Policy 2024）。该保险覆盖服务期间的人身意外伤害，但不包括财产损失。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+所有通过ANU官方平台注册的志愿者活动，学生均自动享有“Volunteer Personal Accident Insurance”，保额最高为20万澳元（ANU Insurance Policy 2024）。该保险覆盖服务期间的人身意外伤害，但不包括财产损失。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E5%BF%97%E6%84%BF%E8%80%85%E6%B4%BB%E5%8A%A8%E6%9C%BA%E4%BC%9A%E4%B8%8E%E7%A4%BE%E5%8C%BA%E6%9C%8D%E5%8A%A1%E8%AF%81%E6%98%8E) 等专业通道完成结汇。
 
 ## 长期职业发展价值
 

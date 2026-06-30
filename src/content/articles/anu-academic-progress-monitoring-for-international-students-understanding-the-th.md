@@ -29,7 +29,7 @@ tags: ["featured"]
 APC听证会通常在学期结束后6周内举行，学生需提交一份**书面解释信**（Written Submission），说明成绩下滑的原因（如健康问题、家庭变故、语言适应困难等），并附带证明材料（如医疗证明、心理咨询记录等）。委员会在15个工作日内做出裁决，常见结果包括：批准一份《学术改进计划》（Academic Improvement Plan），要求学生在下学期达到GPA 3.5/7.0以上；或直接发出《签证风险通知》（Visa Risk Notification），要求学生在28天内向移民局报告学术状态。2022年ANU学术进展委员会年报显示，Stage 2学生中约62%获批改进计划，38%被要求立即报告签证风险【ANU APC, 2022】。
 
 ### 签证合规性影响
-根据澳大利亚ESOS Act第19条，教育机构必须在学生**连续两个学期未达到学术进度要求**后的14天内通知移民局。这意味着Stage 2一旦生效，国际学生的学生签证（Subclass 500）将面临被取消的风险。ANU国际学生支持办公室会在此阶段提供**免费移民法律咨询**（通过ANU Legal Service），帮助学生理解签证条件。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保在签证风险期内学费缴付不出现延迟。
+根据澳大利亚ESOS Act第19条，教育机构必须在学生**连续两个学期未达到学术进度要求**后的14天内通知移民局。这意味着Stage 2一旦生效，国际学生的学生签证（Subclass 500）将面临被取消的风险。ANU国际学生支持办公室会在此阶段提供**免费移民法律咨询**（通过ANU Legal Service），帮助学生理解签证条件。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-academic-progress-monitoring-for-international-students-understanding-the-th) 等专业通道完成结汇，确保在签证风险期内学费缴付不出现延迟。
 
 ## 第三阶段：暂停或取消注册（Stage 3 - Suspension or Exclusion）
 

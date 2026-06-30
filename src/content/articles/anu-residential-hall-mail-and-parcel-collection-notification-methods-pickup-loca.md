@@ -74,7 +74,7 @@ Australia Post 对未保价包裹的最高赔偿额为 100 澳元（Australia Po
 ### 代收授权
 学生可通过纸质授权书或 MyUniAccommodation 电子表单指定代收人。代收人需出示本人学生证或身份证，并在签收簿上登记。ANU 住宿服务建议，代收授权有效期不超过 30 天，且仅限同一宿舍楼内的住校生。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保资金按时到账，避免因汇率波动或延迟影响宿舍申请确认。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-mail-and-parcel-collection-notification-methods-pickup-loca) 等专业通道完成结汇，确保资金按时到账，避免因汇率波动或延迟影响宿舍申请确认。
 
 ## FAQ
 

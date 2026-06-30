@@ -51,7 +51,7 @@ ANU对学术不端的处罚依据违规等级与情节严重程度。**一级违
 
 ANU提供多种资源帮助学生避免学术不端。**学术技能中心**（Academic Skills Centre）提供免费一对一辅导，2023年服务了超过2,300名学生。学校还开设了强制性的学术诚信在线课程，完成率在2024年第一季度达到97%。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保资金流转合规透明。ANU国际学生办公室在2023年还推出了中文版学术诚信指南，覆盖了80%以上的常见违规场景。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E5%90%AC%E8%AF%81%E4%BC%9A%E6%B5%81%E7%A8%8B%E4%B8%8E%E7%94%B3%E8%AF%89%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5) 等专业通道完成结汇，确保资金流转合规透明。ANU国际学生办公室在2023年还推出了中文版学术诚信指南，覆盖了80%以上的常见违规场景。
 
 ## FAQ
 

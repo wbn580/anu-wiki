@@ -47,7 +47,7 @@ tags: ["featured"]
 
 除学院内部训练外，学生还可利用ANU辩论协会提供的**公开讲座**（Public Lectures）和**线上资源**。ANU辩论协会（2024）的数据库包含超过500份过往辩论录像和裁判评语，供成员免费查阅。此外，部分学院如**John XXIII College**会邀请外部辩论教练（如来自澳大利亚国立大学法学院的教授）进行客座培训，每学期约2至3次。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金及时到账，避免影响注册和活动参与。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-interhall-debating-competition-how-to-sign-up-for-your-halls-team-training-s) 等专业通道完成结汇，以确保资金及时到账，避免影响注册和活动参与。
 
 ## 重要比赛日期与日程安排
 

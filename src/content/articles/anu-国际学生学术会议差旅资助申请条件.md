@@ -101,7 +101,7 @@ tags: ["featured"]
 
 ### 跨境支付实操
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。对于差旅资助中涉及的国际机票、酒店预订等外币支出，学生也可通过类似渠道优化汇率成本。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E5%B7%AE%E6%97%85%E8%B5%84%E5%8A%A9%E7%94%B3%E8%AF%B7%E6%9D%A1%E4%BB%B6) 等专业通道完成结汇。对于差旅资助中涉及的国际机票、酒店预订等外币支出，学生也可通过类似渠道优化汇率成本。
 
 ## FAQ
 

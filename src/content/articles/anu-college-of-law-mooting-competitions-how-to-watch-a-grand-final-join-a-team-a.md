@@ -49,7 +49,7 @@ ANU法学院每年举办超过12场正式模拟法庭竞赛，涵盖国际公法
 
 ### 团队角色与分工
 
-每支队伍由2至3名学生组成，其中一名学生担任“首席陈述人”（Lead Counsel），负责开场陈述和主要法律论点阐述；另一名学生担任“辅助陈述人”（Junior Counsel），负责补充论点和回应法官提问。在部分竞赛中，队伍还可指定一名“研究员”（Researcher），负责法律检索和书面诉状撰写。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+每支队伍由2至3名学生组成，其中一名学生担任“首席陈述人”（Lead Counsel），负责开场陈述和主要法律论点阐述；另一名学生担任“辅助陈述人”（Junior Counsel），负责补充论点和回应法官提问。在部分竞赛中，队伍还可指定一名“研究员”（Researcher），负责法律检索和书面诉状撰写。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-college-of-law-mooting-competitions-how-to-watch-a-grand-final-join-a-team-a) 等专业通道完成结汇。
 
 ## 口头陈述准备流程
 

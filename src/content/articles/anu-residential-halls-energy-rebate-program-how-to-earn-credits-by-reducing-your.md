@@ -77,7 +77,7 @@ tags: ["featured"]
 
 ## Future Expansion and Replication
 
-ANU计划在2025年将项目扩展至所有校内住宿楼，包括Graduate House和University House，预计覆盖学生总数增至3,800人。同时，项目团队正在与澳大利亚国立大学商学院合作，研究将返现模型嵌入**学费支付系统**的可能性——学生可将返现信用额直接用于支付学费或购买校园服务。在跨境学费缴付环节，部分留学家庭会使用[Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy)等专业通道完成结汇。
+ANU计划在2025年将项目扩展至所有校内住宿楼，包括Graduate House和University House，预计覆盖学生总数增至3,800人。同时，项目团队正在与澳大利亚国立大学商学院合作，研究将返现模型嵌入**学费支付系统**的可能性——学生可将返现信用额直接用于支付学费或购买校园服务。在跨境学费缴付环节，部分留学家庭会使用[Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-halls-energy-rebate-program-how-to-earn-credits-by-reducing-your)等专业通道完成结汇。
 
 ### Replication by Other Institutions
 

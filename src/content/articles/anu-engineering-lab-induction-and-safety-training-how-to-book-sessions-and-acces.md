@@ -47,7 +47,7 @@ ANU工程实验室执行严格的**安全违规记录制度**（Safety Breach Re
 
 违规处理分为三级：一级违规（如未戴PPE）给予书面警告，累计3次后暂停实验室访问权限2周；二级违规（如未经授权操作设备）直接暂停权限4周；三级违规（如导致人员受伤或设备损坏）提交学院纪律委员会，可能导致实验室永久禁入。学生在收到暂停通知后，可向实验室主管提交书面申诉，申诉处理周期为5个工作日。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-engineering-lab-induction-and-safety-training-how-to-book-sessions-and-acces) 等专业通道完成结汇。
 
 ## 国际学生与语言支持
 

@@ -71,7 +71,7 @@ ANU偏好**简洁、主动语态**的写作风格。例如，将“I was inspire
 
 完成初稿后，申请者应进行至少三轮修改。第一轮聚焦**逻辑连贯性**：确保每段论点自然过渡，避免跳跃。第二轮检查**语言精确性**：删除所有可删的形容词，替换模糊动词（如“do”改为“implement”）。第三轮邀请**第三方审阅**：建议由英语母语者或专业顾问阅读，并给出是否“一读即懂”的反馈。根据澳大利亚教育评估服务（AEAS）2023年报告，经过三轮修改的陈述，录取率平均提升22%【AEAS, 2023, Application Success Metrics】。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%9C%AC%E7%A7%91%E7%94%B3%E8%AF%B7%E4%B8%AA%E4%BA%BA%E9%99%88%E8%BF%B0%E6%92%B0%E5%86%99%E6%8A%80%E5%B7%A7%E4%B8%8E%E4%BC%98%E7%A7%80%E8%8C%83%E6%96%87%E5%88%86%E6%9E%90) 等专业通道完成结汇。
 
 ## FAQ
 

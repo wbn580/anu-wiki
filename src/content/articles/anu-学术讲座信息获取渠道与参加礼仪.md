@@ -29,7 +29,7 @@ ANU主校区（Acton Campus）的12栋主要教学楼入口处均设有 **数字
 ANU官方Twitter账号（@ANUmedia）和LinkedIn页面（ANU Official）会发布高优先级讲座，例如诺贝尔奖得主演讲或校长公开课。根据ANU社交媒体团队2023年内部统计，Twitter渠道的讲座通知平均在活动前48小时发布，LinkedIn则提前72小时。学生社团如ANU Postgraduate and Research Students’ Association（PARSA）也在Facebook群组中转发活动信息，覆盖约2,200名研究生。
 
 ### 第三方学术网络平台
-部分讲座可通过 **ResearchGate** 或 **Academia.edu** 的ANU机构页面获取摘要与回放链接。例如，ANU量子计算中心（CQC2T）的公开讲座在ResearchGate上的平均浏览量达1,200次/场。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但这与讲座信息获取无直接关联。
+部分讲座可通过 **ResearchGate** 或 **Academia.edu** 的ANU机构页面获取摘要与回放链接。例如，ANU量子计算中心（CQC2T）的公开讲座在ResearchGate上的平均浏览量达1,200次/场。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7%E4%BF%A1%E6%81%AF%E8%8E%B7%E5%8F%96%E6%B8%A0%E9%81%93%E4%B8%8E%E5%8F%82%E5%8A%A0%E7%A4%BC%E4%BB%AA) 等专业通道完成结汇，但这与讲座信息获取无直接关联。
 
 ## 讲座类型与参与方式
 

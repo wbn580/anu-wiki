@@ -45,7 +45,7 @@ tags: ["featured"]
 
 ## 报名流程与筛选机制
 
-报名通过ANU建筑与规划学院官网的 **Eventbrite** 集成页面进行，学生需使用ANU学生邮箱（以@anu.edu.au结尾）注册。由于名额有限（40人），工作坊采用 **先到先得+候补名单** 机制。若报名人数超过限额，将在2025年3月3日通过邮件通知候补学生。优先录取城市规划专业主修学生，但辅修学生及跨专业研究生也可申请。报名确认后，学生需在 **48小时内** 完成Wattle平台上的预调查问卷（内容涉及GIS基础知识与可用时间），否则名额将释放给候补者。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但工作坊本身不涉及额外费用。
+报名通过ANU建筑与规划学院官网的 **Eventbrite** 集成页面进行，学生需使用ANU学生邮箱（以@anu.edu.au结尾）注册。由于名额有限（40人），工作坊采用 **先到先得+候补名单** 机制。若报名人数超过限额，将在2025年3月3日通过邮件通知候补学生。优先录取城市规划专业主修学生，但辅修学生及跨专业研究生也可申请。报名确认后，学生需在 **48小时内** 完成Wattle平台上的预调查问卷（内容涉及GIS基础知识与可用时间），否则名额将释放给候补者。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92%E4%B8%93%E4%B8%9A-gis-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E4%BD%9C%E5%9D%8A%E6%8A%A5%E5%90%8D%E4%BF%A1%E6%81%AF) 等专业通道完成结汇，但工作坊本身不涉及额外费用。
 
 ### 取消与退款政策
 

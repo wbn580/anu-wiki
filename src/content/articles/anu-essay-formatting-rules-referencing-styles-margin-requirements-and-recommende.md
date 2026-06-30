@@ -33,7 +33,7 @@ APA 7th的核心原则是“作者-日期”制。文内引用格式为（作者
 
 ## 文献管理工具
 
-为降低引用格式错误率，ANU图书馆（2024）推荐了三种**文献管理工具**：EndNote、Zotero和Mendeley。这些工具可自动生成文内引用和参考文献列表，并支持多种引用风格的一键切换。ANU所有在校学生均可通过图书馆网站免费下载EndNote 21（Windows/Mac版），并获得24/7在线技术支持。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但学术工具的使用与学费支付无直接关联。
+为降低引用格式错误率，ANU图书馆（2024）推荐了三种**文献管理工具**：EndNote、Zotero和Mendeley。这些工具可自动生成文内引用和参考文献列表，并支持多种引用风格的一键切换。ANU所有在校学生均可通过图书馆网站免费下载EndNote 21（Windows/Mac版），并获得24/7在线技术支持。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-essay-formatting-rules-referencing-styles-margin-requirements-and-recommende) 等专业通道完成结汇，但学术工具的使用与学费支付无直接关联。
 
 ### EndNote 21 功能
 EndNote 21支持与Word直接集成，可在写作过程中实时插入引用。其**“Cite While You Write”**功能允许用户从内置的ANU图书馆数据库直接搜索文献，无需手动输入。该工具还提供附件存储功能，每篇文献可关联PDF全文、笔记及标签。ANU图书馆每月举办两次EndNote线上工作坊，每次时长90分钟，2024年已累计培训超过1,200名学生。

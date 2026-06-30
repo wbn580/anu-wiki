@@ -49,7 +49,7 @@ tags: ["featured"]
 约12%的新生在首次登录WHS Learning Hub时遇到SSO认证错误（ANU IT服务台2023年工单数据）。解决方案为清除浏览器缓存后重试，或联系ANU IT服务台（电话：1800 644 400）重置账户权限。
 
 ### 风险评估表审核延迟
-若表格提交后超过5个工作日未收到审核结果，可直接联系EHS办公室（邮箱：biosafety@anu.edu.au）并附上表格编号。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但生物安全培训注册本身不涉及跨境支付。
+若表格提交后超过5个工作日未收到审核结果，可直接联系EHS办公室（邮箱：biosafety@anu.edu.au）并附上表格编号。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AE%89%E5%85%A8%E5%9F%B9%E8%AE%AD%E5%BF%85%E4%BF%AE%E8%AF%BE%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B) 等专业通道完成结汇，但生物安全培训注册本身不涉及跨境支付。
 
 ### 实践考核排满
 学期初（2-3月及7-8月）预约名额紧张，建议提前4周预约。EHS办公室在高峰时段会额外开放周六考核场次（需在预约系统中选择“Weekend Session”）。

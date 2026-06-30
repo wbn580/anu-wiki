@@ -107,7 +107,7 @@ ANU IT Services提供7×24小时支持，可通过电话（+61 2 6125 4321）、
 ### 自助资源
 ANU维护了详细的**知识库**（kb.anu.edu.au），包含超过200篇技术文章，覆盖从无线配置到VPN高级设置的完整流程。此外，学生可通过**ANU App**（iOS/Android）实时查看校园网络状态图，绿色表示正常，红色表示中断。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E8%A6%86%E7%9B%96%E5%8C%BA%E5%9F%9F%E4%B8%8E-vpn-%E8%BF%9E%E6%8E%A5%E8%AE%BE%E7%BD%AE) 等专业通道完成结汇。
 
 ## FAQ
 

@@ -29,7 +29,7 @@ ANU 学生二手市场中最常见的欺诈手段集中在**预付款骗局**和
 
 不同平台的**安全风险等级**存在显著差异。ANU 官方推荐的校内二手交易渠道包括 ANU Stalkerspace（Facebook 群组，成员需经 ANU 邮箱验证）和 ANUSA 运营的二手书交换活动。这些平台通过身份验证机制降低了陌生人欺诈概率。相比之下，Gumtree、Facebook Marketplace 和微信二手群缺乏统一的身份审核，欺诈率更高。
 
-ACCC 2023 年数据表明，使用匿名平台（如无实名验证的微信群）进行交易时，遭遇诈骗的概率是校内验证平台的 3.2 倍。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但二手交易应坚持使用面对面现金或带有买家保护功能的平台（如 PayPal Goods and Services）。
+ACCC 2023 年数据表明，使用匿名平台（如无实名验证的微信群）进行交易时，遭遇诈骗的概率是校内验证平台的 3.2 倍。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-online-second-hand-marketplace-safety-tips-how-to-avoid-scams-when-buying-an) 等专业通道完成结汇，但二手交易应坚持使用面对面现金或带有买家保护功能的平台（如 PayPal Goods and Services）。
 
 ### 优先使用校内官方渠道
 

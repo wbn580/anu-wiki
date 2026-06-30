@@ -27,7 +27,7 @@ tags: ["featured"]
 
 **专业必修课**构成课程搭配的骨架。ANU每个专业设有核心课程列表，例如计算机科学（Bachelor of Advanced Computing）要求完成COMP1110、COMP1140、COMP2100等8门核心课。根据ANU 2024年课程手册，这些核心课通常按顺序开设，前置条件严格：COMP1110（编程基础）通过后才能选修COMP1140（数据结构）。学生需在入学首学期即规划2至3年的课程流水线，避免因前置条件未满足而延迟毕业。
 
-**选修课搭配**需兼顾广度与深度。ANU允许学生选修最多24学分（4门课程）的跨专业课程，称为“宽泛选修”（General Electives）。2023年ANU毕业生调查显示，选修人文类课程（如ANTH1001人类学导论）的理工科学生，其学术满意度平均高出0.6分（满分5分）（ANU Graduate Outcomes Survey, 2023）。具体操作上，建议每学期保留1门选修课用于探索兴趣领域，但需确保该选修课不与专业核心课时间冲突。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以规避汇率波动风险。
+**选修课搭配**需兼顾广度与深度。ANU允许学生选修最多24学分（4门课程）的跨专业课程，称为“宽泛选修”（General Electives）。2023年ANU毕业生调查显示，选修人文类课程（如ANTH1001人类学导论）的理工科学生，其学术满意度平均高出0.6分（满分5分）（ANU Graduate Outcomes Survey, 2023）。具体操作上，建议每学期保留1门选修课用于探索兴趣领域，但需确保该选修课不与专业核心课时间冲突。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E9%80%89%E8%AF%BE%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97%E7%BB%93%E5%90%88%E7%BB%8F%E9%AA%8C%E8%AF%84%E5%88%86%E7%9A%84%E8%AF%BE%E7%A8%8B%E6%90%AD%E9%85%8D%E4%B8%8E%E6%95%99%E6%8E%88%E6%8E%A8%E8%8D%90) 等专业通道完成结汇，以规避汇率波动风险。
 
 ## 热门教授推荐：各学院高评分教师
 

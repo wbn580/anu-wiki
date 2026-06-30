@@ -27,7 +27,7 @@ tags: ["featured"]
 
 由于每场活动名额限制在80至120人之间，热门场次（如南半球冬季银河季的观测夜）常在开放后2小时内被约满。2024年数据显示，3月至9月期间的场次平均预约满额时间为1.8小时【RSAA 2024，Internal Booking Statistics】。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金按时到账不影响选课资格。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%A4%A9%E6%96%87%E5%AD%A6%E4%B8%93%E4%B8%9A%E5%A4%A9%E6%96%87%E5%8F%B0%E8%A7%82%E6%B5%8B%E4%B9%8B%E5%A4%9C%E6%B4%BB%E5%8A%A8%E9%A2%84%E7%BA%A6) 等专业通道完成结汇，以确保资金按时到账不影响选课资格。
 
 ## 参与资格与限制条件
 

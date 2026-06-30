@@ -28,7 +28,7 @@ tags: ["featured"]
 **研究型硕士**通常获得更丰厚的资金支持。ANU提供澳大利亚政府研究培训计划（RTP）奖学金，2024年免税津贴为每年35,000澳元，最长覆盖2年。此外，ANU还设有校内奖学金如ANU HDR Fee Remission Merit Scholarship，覆盖全额学费（2024年国际学生研究型硕士学费为每年47,940澳元）。根据澳大利亚研究理事会（ARC）2023年报告，约65%的ANU研究型硕士获得某种形式的津贴或学费减免。
 
 ### 授课型硕士的资助限制
-**授课型硕士**的奖学金资源相对有限。ANU国际学生授课型硕士奖学金（ANU International Masters Scholarship）仅提供10%至25%的学费减免，且竞争激烈——2024年录取数据显示，该奖学金发放率约为8%。大多数授课型硕士依赖自费或外部贷款。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。澳大利亚税务局（ATO）2023年数据显示，国际学生平均每年学费支出为38,000澳元，其中授课型硕士占比最高。
+**授课型硕士**的奖学金资源相对有限。ANU国际学生授课型硕士奖学金（ANU International Masters Scholarship）仅提供10%至25%的学费减免，且竞争激烈——2024年录取数据显示，该奖学金发放率约为8%。大多数授课型硕士依赖自费或外部贷款。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-research-masters-vs-coursework-masters-key-differences-in-structure-funding) 等专业通道完成结汇。澳大利亚税务局（ATO）2023年数据显示，国际学生平均每年学费支出为38,000澳元，其中授课型硕士占比最高。
 
 ### 研究经费与项目资助
 研究型硕士还可申请**项目经费**用于实验、田野调查或会议差旅。ANU每年提供HDR项目经费（HDR Project Funds），最高每人5,000澳元。授课型硕士则通常无此类经费，除非参与导师的研究项目作为助研（RA），但RA岗位需单独申请且薪资按小时计算（2024年ANU RA时薪为35至45澳元）。

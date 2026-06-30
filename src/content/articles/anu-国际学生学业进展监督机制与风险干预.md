@@ -29,7 +29,7 @@ ANU采用三级风险分级系统对国际学生进行动态评估。**第一级
 
 对于红色状态学生，学业恢复计划升级为“结构化干预方案”（Structured Intervention Plan），由学院副院长（教育）直接监督。方案内容可能包括：限制每学期注册课程数（通常从4门减至3门）、强制参加学习策略小组（Study Skills Group）、以及每两周一次的进度检查会议。ANU在2022年对参与结构化干预的136名国际学生进行追踪，发现其中67.6%在干预后一学期内恢复到绿色或黄色状态（ANU Academic Progress Committee, 2022, *Intervention Outcome Report*）。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金及时到账不影响注册状态。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E5%AD%A6%E4%B8%9A%E8%BF%9B%E5%B1%95%E7%9B%91%E7%9D%A3%E6%9C%BA%E5%88%B6%E4%B8%8E%E9%A3%8E%E9%99%A9%E5%B9%B2%E9%A2%84) 等专业通道完成结汇，以确保资金及时到账不影响注册状态。
 
 ## 正式退学程序与签证影响
 

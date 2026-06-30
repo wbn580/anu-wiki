@@ -89,7 +89,7 @@ tags: ["featured"]
 
 ### 学费支付与课程注册
 
-国际学生在注册冲突课程时，需确保学费支付与课程注册同步完成。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以避免因支付延迟导致课程注册被取消。ANU要求所有国际学生在Census Date前完成学费支付，否则将自动取消冲突课程的注册资格。
+国际学生在注册冲突课程时，需确保学费支付与课程注册同步完成。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-apply-for-a-timetable-clash-exemption-at-anu-justifying-your-request-and) 等专业通道完成结汇，以避免因支付延迟导致课程注册被取消。ANU要求所有国际学生在Census Date前完成学费支付，否则将自动取消冲突课程的注册资格。
 
 ## 常见误区与实操建议
 

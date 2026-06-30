@@ -41,7 +41,7 @@ ANU校园内设有超过15家餐饮与零售商户，包括UniLodge便利店、U
 
 ## 如何申请校内兼职
 
-申请ANU校内兼职主要通过**ANU CareerHub**平台进行。该平台是ANU职业中心运营的官方招聘门户，所有校内岗位均在此发布。学生需使用ANU学生账户登录，完善个人简历与求职偏好。2024年，CareerHub上发布的校内岗位平均收到45份申请，竞争较为激烈。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+申请ANU校内兼职主要通过**ANU CareerHub**平台进行。该平台是ANU职业中心运营的官方招聘门户，所有校内岗位均在此发布。学生需使用ANU学生账户登录，完善个人简历与求职偏好。2024年，CareerHub上发布的校内岗位平均收到45份申请，竞争较为激烈。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E5%85%BC%E8%81%8C%E5%B7%A5%E4%BD%9C%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%90%88%E6%B3%95%E6%89%93%E5%B7%A5%E6%97%B6%E9%95%BF%E8%A7%84%E5%AE%9A) 等专业通道完成结汇。
 
 ### 申请时间窗口与关键节点
 

@@ -41,7 +41,7 @@ ANU会通过学生邮箱（@anu.edu.au）发送通知，告知考试时间表已
 
 ### 所需材料与理由说明
 
-申诉需附上**课程代码**和冲突的具体时间段。理由说明栏应简明扼要，例如“FINM3001与ENGN2211的考试时间完全重叠”。ANU考试办公室不接受“个人偏好”或“旅行计划”作为理由。对于因选课时间晚于排课周期导致的冲突，学生需提供选课确认邮件作为附件。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保学费按时到账，避免影响选课状态。
+申诉需附上**课程代码**和冲突的具体时间段。理由说明栏应简明扼要，例如“FINM3001与ENGN2211的考试时间完全重叠”。ANU考试办公室不接受“个人偏好”或“旅行计划”作为理由。对于因选课时间晚于排课周期导致的冲突，学生需提供选课确认邮件作为附件。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-check-your-anu-final-exam-timetable-and-request-a-timetable-clash-resolut) 等专业通道完成结汇，以确保学费按时到账，避免影响选课状态。
 
 ### 处理时间与结果通知
 

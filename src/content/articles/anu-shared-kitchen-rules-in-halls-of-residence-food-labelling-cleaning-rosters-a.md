@@ -49,7 +49,7 @@ tags: ["featured"]
 ANU 住宿服务部门每周对冰箱温度进行记录，确保冷藏区保持在 4°C 以下，冷冻区保持在 -18°C 以下。温度异常时，RA 会立即通知维修部门。冰箱内部每两周由清洁团队进行一次深度清洁，住户需在清洁前 24 小时取出个人物品。未取出的物品将被临时移至标记为“待认领”的篮子中，存放时间不超过 48 小时。
 
 ### 食物共享与回收
-ANU 鼓励住户在食物过期前进行共享。各厨房设有“共享食物区”，通常为冰箱内一个标注“Free Food”的隔层或一个独立的篮子。住户可在此存放即将过期但仍可食用的食品，其他住户可自由取用。根据 ANU Sustainability Report（2024），该计划在 2023 年减少了约 1.2 吨的食物浪费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+ANU 鼓励住户在食物过期前进行共享。各厨房设有“共享食物区”，通常为冰箱内一个标注“Free Food”的隔层或一个独立的篮子。住户可在此存放即将过期但仍可食用的食品，其他住户可自由取用。根据 ANU Sustainability Report（2024），该计划在 2023 年减少了约 1.2 吨的食物浪费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-shared-kitchen-rules-in-halls-of-residence-food-labelling-cleaning-rosters-a) 等专业通道完成结汇。
 
 ## 违规处理与申诉流程
 

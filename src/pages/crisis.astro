@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>学业危机急救 · 挂科/Show Cause/开除/撤课退费 — ANU Wiki</title>
+<meta name="description" content="收到学校挂科、Show Cause、开除或退费通知？别慌。把情况发给 Wren，免费判断还剩几天、能走哪条路。">
+<style>
+:root{
+  --red:#8B3A1F;--red-d:#6b2d16;--ink:#1F1A14;--muted:#6B5E52;
+  --sand:#FAF6EE;--card:#FFFCF7;--line:#d8cfb8;--warn:#c2410c;--green:#2E5C3A;
+  --shadow:0 8px 30px rgba(31,26,20,.08);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Cardo","Noto Serif SC","Microsoft Yahei",serif;color:var(--ink);background:var(--sand);line-height:1.7;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+a{color:inherit;text-decoration:none}
+.btn{display:inline-flex;align-items:center;gap:8px;background:var(--red);color:#fff;font-weight:700;padding:14px 26px;border-radius:999px;font-size:16px;box-shadow:var(--shadow);transition:.2s;border:none;cursor:pointer}
+.btn:hover{background:var(--red-d);transform:translateY(-1px)}
+.btn.lg{padding:18px 34px;font-size:18px}
+.btn.ghost{background:var(--card);color:var(--red);border:1.5px solid var(--red)}
+nav{position:sticky;top:0;z-index:30;background:rgba(250,246,238,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:20px;font-family:-apple-system,"PingFang SC","Microsoft Yahei",sans-serif}
+.logo .mark{width:34px;height:34px;border-radius:9px;background:var(--red);display:grid;place-items:center;color:#fff;font-size:18px}
+.logo small{display:block;font-size:10px;letter-spacing:2px;color:var(--muted);font-weight:600}
+.hero{padding:64px 0 48px;background:radial-gradient(1200px 400px at 70% -10%,#f0ddd4,transparent)}
+.eyebrow{display:inline-block;background:#f0ddd4;color:var(--red-d);font-weight:700;font-size:13px;padding:6px 14px;border-radius:999px;margin-bottom:18px;font-family:-apple-system,"PingFang SC","Microsoft Yahei",sans-serif}
+.hero h1{font-size:clamp(28px,5vw,46px);line-height:1.25;font-weight:800;letter-spacing:-.5px}
+.hero h1 .hl{color:var(--red)}
+.hero p.sub{font-size:clamp(16px,2.2vw,19px);color:var(--muted);margin:20px 0 14px;max-width:760px;font-family:-apple-system,"PingFang SC","Microsoft Yahei",sans-serif}
+.urgency{display:inline-flex;align-items:center;gap:8px;color:var(--warn);font-weight:700;font-size:15px;background:#fff4ec;border:1px solid #fcd9c0;padding:8px 14px;border-radius:10px;margin:8px 0 26px;font-family:-apple-system,"PingFang SC","Microsoft Yahei",sans-serif}
+.cta-row{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.trustline{margin-top:22px;color:var(--muted);font-size:14px;display:flex;gap:18px;flex-wrap:wrap;font-family:-apple-system,"PingFang SC","Microsoft Yahei",sans-serif}
+.trustline b{color:var(--ink)}
+section{padding:54px 0;font-family:-apple-system,"PingFang SC","Microsoft Yahei",sans-serif}
+.h2{font-size:clamp(22px,3.4vw,30px);font-weight:800;text-align:center}
+.lead{text-align:center;color:var(--muted);margin:10px auto 32px;max-width:620px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;transition:.2s;cursor:pointer}
+.card:hover{border-color:var(--red);box-shadow:var(--shadow);transform:translateY(-2px)}
+.card .ic{font-size:24px}
+.card h3{font-size:16px;margin:10px 0 4px}
+.card p{font-size:13px;color:var(--muted)}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.step{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:26px;position:relative}
+.step .n{width:38px;height:38px;border-radius:50%;background:var(--red);color:#fff;font-weight:800;display:grid;place-items:center;font-size:18px;margin-bottom:14px}
+.step h3{font-size:18px;margin-bottom:6px}
+.step p{color:var(--muted);font-size:14.5px}
+.why{background:var(--ink);color:#eafaf6;border-radius:24px;padding:44px}
+.why .h2{color:#fff}
+.why .lead{color:#9fc7c0}
+.whygrid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:8px}
+.why .item{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:20px}
+.why .item h3{font-size:16px;margin-bottom:6px}
+.why .item p{color:#a9cdc7;font-size:14px}
+.faq details{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:0 20px;margin-bottom:12px}
+.faq summary{cursor:pointer;font-weight:700;padding:18px 0;list-style:none;display:flex;justify-content:space-between}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";color:var(--red);font-size:22px}
+.faq details[open] summary::after{content:"\2013"}
+.faq p{padding:0 0 18px;color:var(--muted);font-size:15px}
+.final{background:linear-gradient(135deg,var(--red),var(--red-d));color:#fff;border-radius:24px;padding:50px;text-align:center}
+.final h2{font-size:clamp(24px,3.6vw,32px);font-weight:800;margin-bottom:10px}
+.final p{color:#f5ddd4;margin-bottom:24px;font-size:17px}
+.final .btn{background:#fff;color:var(--red-d)}
+.disc{color:var(--muted);font-size:12.5px;text-align:center;margin-top:18px;max-width:720px;margin-left:auto;margin-right:auto}
+footer{border-top:1px solid var(--line);padding:30px 0;color:var(--muted);font-size:13px;text-align:center;margin-top:30px}
+.bot{position:fixed;right:22px;bottom:22px;z-index:40;display:flex;align-items:center;gap:10px;background:var(--red);color:#fff;padding:12px 18px;border-radius:999px;box-shadow:0 10px 30px rgba(139,58,31,.4);cursor:pointer;font-weight:700;font-family:-apple-system,"PingFang SC","Microsoft Yahei",sans-serif}
+.bot .dot{width:9px;height:9px;border-radius:50%;background:#ffccb8;box-shadow:0 0 0 0 rgba(255,204,184,.7);animation:pulse 1.8s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(255,204,184,.7)}70%{box-shadow:0 0 0 10px rgba(255,204,184,0)}100%{box-shadow:0 0 0 0 rgba(255,204,184,0)}}
+@media(max-width:780px){.grid{grid-template-columns:repeat(2,1fr)}.steps,.whygrid{grid-template-columns:1fr}.why,.final{padding:30px}}
+</style>
+</head>
+<body>
+
+<nav><div class="wrap">
+  <div class="logo"><span class="mark">A</span><span>ANU Wiki<small>ANU.WIKI</small></span></div>
+  <a class="btn ghost" href="https://anu.wiki/">返回知识库 →</a>
+</div></nav>
+
+<header class="hero"><div class="wrap">
+  <span class="eyebrow">学业危机 · 留学生急救</span>
+  <h1>收到学校的挂科、警告或处分通知？<br><span class="hl">先别慌——你还有时间，也有选择。</span></h1>
+  <p class="sub">海外大学的 Show Cause、撤课退费、开除申诉、学术不端、特殊考虑……每一种都有应对路径，也都有严格的截止时间。把你的情况发给 <b>Wren</b>，先免费帮你判断还剩几天、能走哪条路。</p>
+  <div class="urgency">⏰ 多数申诉窗口只有 10–20 个工作日，错过基本无法挽回——越早动手，选择越多。</div>
+  <div class="cta-row">
+    <a class="btn lg" href="#chat">免费判断我的情况 →</a>
+    <a class="btn ghost lg" href="#scenarios">看看我属于哪种</a>
+  </div>
+  <div class="trustline"><span>✓ <b>合规为先</b>，不造假不夸大</span><span>✓ 熟悉<b>海外各校程序</b>（澳英为主）</span><span>✓ <b>全程中文</b>，持牌合作团队跟进</span></div>
+</div></header>
+
+<section id="scenarios"><div class="wrap">
+  <div class="h2">你是不是正遇到这些？</div>
+  <p class="lead">点开和你情况最接近的那一个，Wren 帮你判断 deadline 和下一步。</p>
+  <div class="grid">
+    <a class="card" href="#chat"><div class="ic">📕</div><h3>挂科 / 成绩申诉</h3><p>补考、remark、重修还是申诉？</p></a>
+    <a class="card" href="#chat"><div class="ic">⚠️</div><h3>Show Cause 学业警告</h3><p>怎么写回复、怎么保住学籍</p></a>
+    <a class="card" href="#chat"><div class="ic">🚪</div><h3>被开除 / 劝退申诉</h3><p>Exclusion、Re-admission</p></a>
+    <a class="card" href="#chat"><div class="ic">💸</div><h3>撤课退费 / 留位费</h3><p>过 census、签证后不想去、拒签退费</p></a>
+    <a class="card" href="#chat"><div class="ic">🔍</div><h3>学术不端 / 抄袭指控</h3><p>misconduct、AI 检测被查</p></a>
+    <a class="card" href="#chat"><div class="ic">🏥</div><h3>特殊考虑 / 缺考延期</h3><p>Special Consideration / EC</p></a>
+    <a class="card" href="#chat"><div class="ic">🛂</div><h3>CoE 取消 / 签证受影响</h3><p>学签、485、过桥签、ART 上诉</p></a>
+    <a class="card" href="#chat"><div class="ic">🔁</div><h3>转学 / Release Letter</h3><p>换学校、转学分</p></a>
+  </div>
+</div></section>
+
+<section style="padding-top:0"><div class="wrap">
+  <div class="h2">怎么帮你</div>
+  <p class="lead">三步，先把最慌的部分（还剩几天、能不能救）弄清楚。</p>
+  <div class="steps">
+    <div class="step"><div class="n">1</div><h3>说清你的情况</h3><p>把收到的通知 + 学校 + 发生了什么，发给 Wren。几句话就行。</p></div>
+    <div class="step"><div class="n">2</div><h3>免费判断 deadline + 选项</h3><p>Wren 先帮你确认还剩几天、有哪些应对路径，以及哪些证据学校真正采信。</p></div>
+    <div class="step"><div class="n">3</div><h3>需要的话，专业团队接手</h3><p>情况复杂或时间紧，安排熟悉该校程序的持牌合作顾问帮你把材料和申诉做扎实。</p></div>
+  </div>
+</div></section>
+
+<section><div class="wrap"><div class="why">
+  <div class="h2">为什么选择我们</div>
+  <p class="lead">学业危机最怕病急乱投医。我们只做合规、能真正帮到你的事。</p>
+  <div class="whygrid">
+    <div class="item"><h3>合规为先</h3><p>不造假、不倒签、不教你伪造材料——那只会把问题变得更严重。我们帮你把<b>真实</b>的情况讲到位。</p></div>
+    <div class="item"><h3>真实证据导向</h3><p>按学校政策组织真实、可核验的材料和理由，而不是空喊冤。</p></div>
+    <div class="item"><h3>熟悉各校程序</h3><p>澳洲、英国等主流留学国家的申诉、撤课、misconduct 程序和时间线，我们门儿清（澳英最深）。</p></div>
+    <div class="item"><h3>全程中文</h3><p>你不用一个人对着英文通知发慌，有人用中文陪你把每一步走清楚。</p></div>
+    <div class="item"><h3>持牌团队跟进</h3><p>需要专业介入时，由合作的持牌顾问团队接手，负责到底。</p></div>
+    <div class="item"><h3>时间就是选择</h3><p>越早判断越主动。先免费帮你看清 deadline，再决定要不要深入。</p></div>
+  </div>
+</div></div></section>
+
+<section><div class="wrap" style="max-width:760px">
+  <div class="h2">常见问题</div>
+  <div class="faq">
+    <details><summary>我现在很慌，你们能保证申诉成功吗？</summary><p>不能，也没有任何机构能"包过"。结果取决于你的真实情况、证据和学校的判断。我们能做的是：帮你判断有没有空间、把真实材料组织到最有说服力、不错过 deadline。</p></details>
+    <details><summary>可以帮我开个病假证明 / 把诊断写严重点吗？</summary><p>不行。医疗或心理证明只能基于真实情况——找人开不实证明，在学校眼里是学术不端，后果比原来的问题严重得多。如果你确实有相关状况，我们可以帮你走正规流程。</p></details>
+    <details><summary>先咨询要钱吗？</summary><p>不要。把情况发给 Wren，先免费帮你判断 deadline 和选项；要不要进一步专业介入由你决定。</p></details>
+    <details><summary>我的 deadline 很近了，还来得及吗？</summary><p>很多申诉窗口只有 10–20 个工作日，越早越好。哪怕只剩几天，先让我们看看——有时还能赶上，拖着才是最糟的。</p></details>
+  </div>
+</div></section>
+
+<section id="chat"><div class="wrap"><div class="final">
+  <h2>把你的情况发给 Wren，先免费判断还剩几天</h2>
+  <p>不确定属于哪种、该怎么办？一句话说清现状，Wren 帮你理清 deadline 和下一步。</p>
+  <div style="margin-bottom:16px">
+</div>
+</div>
+<p class="disc">ANU Wiki 提供的是信息与对接服务，不构成法律意见；不承诺任何申诉结果，不协助伪造或不实材料。具体以你所在学校的政策与通知为准。</p>
+</div></section>
+
+<footer><div class="wrap">ANU Wiki · 学业危机 · 申诉 · 撤课退费 · 签证</div></footer>
+
+<div class="bot" onclick="document.getElementById('chat').scrollIntoView({behavior:'smooth'})"><span class="dot"></span>Wren · 在线</div>
+
+</body>
+</html>

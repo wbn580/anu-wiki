@@ -69,7 +69,7 @@ ANU学生可提供在澳银行流水（如Commonwealth Bank账户余额）作为
 中国申请人需在澳大利亚签证中心（AVAC）采集指纹和照片，费用为1,080元人民币（2024年标准）。体检需在指定医院进行，费用约1,500元人民币。ANU学生可陪同父母前往堪培拉指定体检中心（如Bupa Medical Visa Services）。
 
 ### 紧急情况处理
-若父母需紧急入境（如学生突发疾病），可申请**紧急签证处理**，内政部通常3-5个工作日内完成。2023年，此类申请占访客签证总量的5%，获批率约75%。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以简化资金证明准备。
+若父母需紧急入境（如学生突发疾病），可申请**紧急签证处理**，内政部通常3-5个工作日内完成。2023年，此类申请占访客签证总量的5%，获批率约75%。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/can-your-parents-join-you-in-australia-while-you-study-at-anu-visitor-visa-optio) 等专业通道完成结汇，以简化资金证明准备。
 
 ## FAQ
 

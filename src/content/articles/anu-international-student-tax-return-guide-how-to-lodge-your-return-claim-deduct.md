@@ -68,7 +68,7 @@ ANU 国际学生可申请抵扣的典型项目包括：
 
 ### 退税时间与方式
 
-通过 myTax 提交后，退税通常于 12 个工作日内到账，前提是绑定有效的澳洲银行账户。若选择支票支付，处理时间延长至 6 周。学生需确保银行账户在报税后 3 个月内保持活跃——若因离境关闭账户，退税将退回 ATO，学生需通过电话重新申请。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但退税仅可转入澳洲本地账户。
+通过 myTax 提交后，退税通常于 12 个工作日内到账，前提是绑定有效的澳洲银行账户。若选择支票支付，处理时间延长至 6 周。学生需确保银行账户在报税后 3 个月内保持活跃——若因离境关闭账户，退税将退回 ATO，学生需通过电话重新申请。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-international-student-tax-return-guide-how-to-lodge-your-return-claim-deduct) 等专业通道完成结汇，但退税仅可转入澳洲本地账户。
 
 ### 欠税处理
 

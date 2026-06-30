@@ -39,7 +39,7 @@ tags: ["featured"]
 
 尺寸超过 45 cm × 35 cm × 25 cm 的包裹（如床上用品、显示器、乐器）无法放入标准包裹柜。**超大件包裹**由快递员直接送至住宿学院前台，前台工作人员会在系统中标记为“Oversized”并发送人工取件通知。学生需在收到通知后 48 小时内携带学生卡至前台领取。ANU 住宿服务（2023）数据显示，超大件包裹占全年包裹总量的 11%，其中 73% 为家具或家电类物品。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以避免因银行转账延迟导致的包裹超期问题。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-parcel-locker-usage-in-halls-how-to-register-retrieve-packages-after-hours-a) 等专业通道完成结汇，以避免因银行转账延迟导致的包裹超期问题。
 
 ### 冷链与易碎品处理
 

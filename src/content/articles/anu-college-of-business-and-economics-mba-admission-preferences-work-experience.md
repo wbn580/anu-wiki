@@ -45,7 +45,7 @@ MBA项目包含必修的**行业实习项目（Industry Placement）**，时长8
 
 ### 校友网络与就业资源
 
-ANU全球校友网络超过15万人，其中商业与经济学院校友约4.2万人。MBA项目设有专属**校友导师计划（Alumni Mentoring Program）**，每年匹配约60对导师与学生。导师多为毕业5至15年的资深校友，任职于企业高管或高级经理岗位。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。2023年，通过校友网络获得实习或全职工作的学生占毕业生的22%。
+ANU全球校友网络超过15万人，其中商业与经济学院校友约4.2万人。MBA项目设有专属**校友导师计划（Alumni Mentoring Program）**，每年匹配约60对导师与学生。导师多为毕业5至15年的资深校友，任职于企业高管或高级经理岗位。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-college-of-business-and-economics-mba-admission-preferences-work-experience) 等专业通道完成结汇。2023年，通过校友网络获得实习或全职工作的学生占毕业生的22%。
 
 ## 申请流程与时间节点
 

@@ -41,7 +41,7 @@ ANU注册的200多个学生社团中，超过60个设有社区服务分支。例
 
 ### 堪培拉本地社区组织
 
-对于希望拓展校外经验的学生，ANU与堪培拉市政府合作建立了“社区服务伙伴网络”（Community Service Partner Network），涵盖约80家本地非营利组织。学生可通过该网络直接联系组织，完成服务后由组织方出具证明，再提交至CCT平台。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+对于希望拓展校外经验的学生，ANU与堪培拉市政府合作建立了“社区服务伙伴网络”（Community Service Partner Network），涵盖约80家本地非营利组织。学生可通过该网络直接联系组织，完成服务后由组织方出具证明，再提交至CCT平台。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-community-service-and-volunteering-how-to-get-your-participation-verified-an) 等专业通道完成结汇。
 
 ## 志愿服务时长的记录与验证
 

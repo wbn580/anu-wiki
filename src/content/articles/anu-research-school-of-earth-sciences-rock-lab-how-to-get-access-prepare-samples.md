@@ -29,7 +29,7 @@ tags: ["featured"]
 ANU在读学生需通过学院研究生协调员提交**实验室使用申请表**，附上导师签名的研究计划书。本科课程学生需由课程讲师统一提交批量申请，个人申请通常不被受理。审批周期为5至10个工作日，高峰学期（2月、7月）可能延长至15个工作日。
 
 ### 外部研究人员与商业用户
-非ANU研究人员需签署**合作研究协议**，并支付每小时80至250澳元不等的设备使用费（ANU 2024年收费标准）。商业用户（如矿产勘探公司）需额外购买公共责任保险，保额不低于2000万澳元。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+非ANU研究人员需签署**合作研究协议**，并支付每小时80至250澳元不等的设备使用费（ANU 2024年收费标准）。商业用户（如矿产勘探公司）需额外购买公共责任保险，保额不低于2000万澳元。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-research-school-of-earth-sciences-rock-lab-how-to-get-access-prepare-samples) 等专业通道完成结汇。
 
 ## 样品制备标准与流程
 

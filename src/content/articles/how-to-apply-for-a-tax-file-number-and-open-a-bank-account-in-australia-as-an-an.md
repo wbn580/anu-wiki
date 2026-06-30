@@ -65,7 +65,7 @@ tags: ["featured"]
 
 ### 第三方支付工具的使用
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。这类工具通常提供实时汇率和较低手续费，且支持支付宝和微信支付等本地支付方式。ANU官方学费支付页面也列出Flywire作为推荐渠道之一，学生可通过学生账户（ISIS）直接发起支付。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-apply-for-a-tax-file-number-and-open-a-bank-account-in-australia-as-an-an) 等专业通道完成结汇。这类工具通常提供实时汇率和较低手续费，且支持支付宝和微信支付等本地支付方式。ANU官方学费支付页面也列出Flywire作为推荐渠道之一，学生可通过学生账户（ISIS）直接发起支付。
 
 ### 资金到账时间与限额
 

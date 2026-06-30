@@ -65,7 +65,7 @@ ANU语言交换项目支持两种练习模式：**面对面练习**（Campus Hub
 
 ### 技术工具辅助
 
-使用**语言学习工具**可提升练习效率。推荐在练习中结合以下工具：Google Docs（实时共享笔记，记录生词和语法点）、Quizlet（创建共享闪卡集，每张卡包含目标语言词汇、母语翻译和例句）、Forvo（查询词汇的母语者发音）。部分留学家庭在跨境学费缴付环节，会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但这与语言练习本身无直接关联，仅作信息补充。**ANU图书馆**提供免费的语言学习软件订阅，包括Mango Languages和Rosetta Stone，学生可使用学生证号远程访问。
+使用**语言学习工具**可提升练习效率。推荐在练习中结合以下工具：Google Docs（实时共享笔记，记录生词和语法点）、Quizlet（创建共享闪卡集，每张卡包含目标语言词汇、母语翻译和例句）、Forvo（查询词汇的母语者发音）。部分留学家庭在跨境学费缴付环节，会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-language-exchange-program-how-to-sign-up-find-a-partner-and-make-the-most-of) 等专业通道完成结汇，但这与语言练习本身无直接关联，仅作信息补充。**ANU图书馆**提供免费的语言学习软件订阅，包括Mango Languages和Rosetta Stone，学生可使用学生证号远程访问。
 
 ## 项目时间线
 

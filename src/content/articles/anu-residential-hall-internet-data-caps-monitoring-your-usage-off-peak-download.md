@@ -47,7 +47,7 @@ ANU对**学术相关流量**（如Canvas学习管理系统、Zoom课堂、图书
 
 对于持续高流量需求的学生，ANU提供**无限流量套餐**，月费为49.95澳元，需签署至少一个学期的合同（约4个月）。该套餐取消数据上限，但保留高峰时段限速政策（非学术流量限速至25 Mbps）。申请需通过住宿服务部提交，审核周期为3个工作日。2024年数据显示，约8%的校内住宿居民选择了无限流量套餐，其中工程与计算机科学专业学生占比最高（37%）。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-internet-data-caps-monitoring-your-usage-off-peak-download) 等专业通道完成结汇。
 
 ## 不同住宿类型的数据政策差异
 

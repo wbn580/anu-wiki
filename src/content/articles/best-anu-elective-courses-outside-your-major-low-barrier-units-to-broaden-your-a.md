@@ -59,7 +59,7 @@ ANU选修课体系分为“开放选修课”（Open Electives）和“通识选
 
 **LANG1001 German 1** 是ANU语言学院开设的6学分课程，面向完全零基础学生。每周4小时授课，重点为口语和听力。评估由四次在线测验（各10%）、一次口语测试（30%）和期末考试（30%）组成。该课程提供**欧洲共同语言参考框架（CEFR）A1级别认证**，可计入部分国际交流项目的语言要求。
 
-ANU语言中心2023年数据显示，该课程通过率为91%，非德语专业学生平均成绩为68.3分。作为对比，同级别法语课程通过率为87%。该课程适合需要满足毕业语言要求或计划参加ANU全球交换项目的学生。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+ANU语言中心2023年数据显示，该课程通过率为91%，非德语专业学生平均成绩为68.3分。作为对比，同级别法语课程通过率为87%。该课程适合需要满足毕业语言要求或计划参加ANU全球交换项目的学生。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/best-anu-elective-courses-outside-your-major-low-barrier-units-to-broaden-your-a) 等专业通道完成结汇。
 
 ## 选修课组合策略与学分规划
 

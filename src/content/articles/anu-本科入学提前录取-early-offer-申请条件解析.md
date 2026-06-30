@@ -53,7 +53,7 @@ ANU在2023年招生报告中披露，**商科专业**Early Offer的录取率为4
 
 ### 资金证明与健康保险
 
-国际学生需在签证申请时提供**资金证明**，证明其有能力支付学费、生活费及往返机票。澳大利亚内政部2024年要求的最低生活费标准为每年21,041澳元（单人）。此外，学生必须购买海外学生健康保险（OSHC），ANU推荐使用Medibank或Allianz Care Australia的保险计划。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+国际学生需在签证申请时提供**资金证明**，证明其有能力支付学费、生活费及往返机票。澳大利亚内政部2024年要求的最低生活费标准为每年21,041澳元（单人）。此外，学生必须购买海外学生健康保险（OSHC），ANU推荐使用Medibank或Allianz Care Australia的保险计划。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%9C%AC%E7%A7%91%E5%85%A5%E5%AD%A6%E6%8F%90%E5%89%8D%E5%BD%95%E5%8F%96-early-offer-%E7%94%B3%E8%AF%B7%E6%9D%A1%E4%BB%B6%E8%A7%A3%E6%9E%90) 等专业通道完成结汇。
 
 ### 语言课程与桥梁项目
 

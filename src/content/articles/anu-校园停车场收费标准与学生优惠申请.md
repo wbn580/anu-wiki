@@ -35,7 +35,7 @@ ANU为学生提供三种主要的停车许可选项：**年度许可（Annual Pe
 
 此外，ANU在Kambri Precinct地下停车场提供 **短时停车位（15分钟免费）**，供快速上下客使用。该区域设有自动车牌识别系统（ANPR），超时停放会自动生成违规通知。根据ANU交通与安全部门2024年年度报告，2024年共发出约3,200张停车违规罚单，其中58%涉及超时停放或未显示许可。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以规避汇率波动风险。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E5%81%9C%E8%BD%A6%E5%9C%BA%E6%94%B6%E8%B4%B9%E6%A0%87%E5%87%86%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E7%94%B3%E8%AF%B7) 等专业通道完成结汇，以规避汇率波动风险。
 
 ## 罚款与违规处理
 

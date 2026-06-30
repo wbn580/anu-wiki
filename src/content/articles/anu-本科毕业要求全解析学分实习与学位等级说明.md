@@ -38,7 +38,7 @@ ANU 将 **实习（Internship）** 归类为“工作整合学习”（Work Inte
 
 **其他专业**：科学学士、文学学士等专业不设强制实习，但鼓励学生通过 **ANU 职业中心**（ANU Careers）申请短期实习或研究项目。2023 年，ANU 共提供 1,200 多个实习岗位，覆盖 85% 的本科专业领域【ANU 2023 年学生体验调查】。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%A6%81%E6%B1%82%E5%85%A8%E8%A7%A3%E6%9E%90%E5%AD%A6%E5%88%86%E5%AE%9E%E4%B9%A0%E4%B8%8E%E5%AD%A6%E4%BD%8D%E7%AD%89%E7%BA%A7%E8%AF%B4%E6%98%8E) 等专业通道完成结汇。
 
 ## 学位等级评定机制
 

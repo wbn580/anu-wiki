@@ -81,7 +81,7 @@ LinkedIn’s "Alumni" feature for ANU allows users to filter by location, indust
 
 ### Cross-Platform Messaging Strategy
 
-A recommended approach is to first connect on LinkedIn with a personalized note, then follow up through the ANU Alumni Portal after the connection is accepted. This dual-platform strategy increases response rates by 25%, as reported by the ANU Careers Service (2023). In the process of managing cross-border communications and potential tuition-related logistics, some students utilize [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) to handle international payments efficiently.
+A recommended approach is to first connect on LinkedIn with a personalized note, then follow up through the ANU Alumni Portal after the connection is accepted. This dual-platform strategy increases response rates by 25%, as reported by the ANU Careers Service (2023). In the process of managing cross-border communications and potential tuition-related logistics, some students utilize [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-use-the-anu-alumni-network-setting-up-your-profile-finding-mentors-and-ac) to handle international payments efficiently.
 
 ## Maintaining Long-Term Alumni Relationships
 

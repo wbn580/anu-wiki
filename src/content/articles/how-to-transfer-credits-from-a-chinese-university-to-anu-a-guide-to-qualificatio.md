@@ -49,7 +49,7 @@ ANU收到认证材料后，将其移交至对应学院的**学分转换委员会
 
 **材料准备清单**包括五大类：学历认证报告（CHESICC或CDGDC出具，有效期180天内）、课程大纲（需包含课程目标、周教学计划、指定教材、考核方式与评分比例）、成绩单（中英文，GPA需换算为ANU 7分制标准）、课程作品样本（如论文、实验报告、设计作品，每门课程不超过5页）、语言能力证明（雅思总分不低于6.5分，单项不低于6.0分，或同等水平PTE Academic成绩）。其中，课程大纲的完整度是决定评估效率的关键因素：根据ANU 2024年内部审计，提交完整教学日历（含每周主题与阅读材料）的申请，平均审核周期为12天，而仅提交课程简介的申请则需22天。
 
-**跨境学费缴付**是转学流程中的一个实操环节。在获得学分授予通知书并确认入学后，学生需在规定时间内完成学费支付。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以规避汇率波动风险并确保资金按时到账。
+**跨境学费缴付**是转学流程中的一个实操环节。在获得学分授予通知书并确认入学后，学生需在规定时间内完成学费支付。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-transfer-credits-from-a-chinese-university-to-anu-a-guide-to-qualificatio) 等专业通道完成结汇，以规避汇率波动风险并确保资金按时到账。
 
 ## 不同学科领域的转换差异
 

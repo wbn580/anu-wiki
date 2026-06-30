@@ -33,7 +33,7 @@ ANU 对休学申请设有明确的**资格门槛**，并非所有学生均可随
 
 **学费与退款政策**是另一个需重点关注的环节。根据 ANU 2024 年《学费政策》（Fee Policy），在学期开始前申请休学的学生可获得全额退款（扣除 200 澳元行政费）；学期第一周内申请可获 50% 退款；第二周后申请则无退款。国际学生还需注意，休学可能导致已支付的学费押金（Deposit）被冻结而非退还，具体需与 ANU 财务处（Finance Office）确认。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保资金安全到账。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E4%BC%91%E5%AD%A6%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B%E6%9D%A1%E4%BB%B6%E6%9D%90%E6%96%99%E4%B8%8E%E5%AF%B9%E7%AD%BE%E8%AF%81%E7%9A%84%E5%BD%B1%E5%93%8D) 等专业通道完成结汇，确保资金安全到账。
 
 ## 休学对学生签证的影响（Subclass 500）
 

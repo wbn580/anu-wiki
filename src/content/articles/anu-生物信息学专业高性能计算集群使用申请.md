@@ -145,7 +145,7 @@ NCI 每学期举办免费 HPC 入门培训，涵盖 Linux 基础、PBS 脚本编
 
 ### 技术支持
 
-用户可通过 NCI 服务台（help@nci.org.au）或 ANU 研究计算服务台（rsc@anu.edu.au）提交问题。响应时间通常为 1-2 个工作日。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但 HPC 账户申请本身不涉及费用支付。
+用户可通过 NCI 服务台（help@nci.org.au）或 ANU 研究计算服务台（rsc@anu.edu.au）提交问题。响应时间通常为 1-2 个工作日。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6%E4%B8%93%E4%B8%9A%E9%AB%98%E6%80%A7%E8%83%BD%E8%AE%A1%E7%AE%97%E9%9B%86%E7%BE%A4%E4%BD%BF%E7%94%A8%E7%94%B3%E8%AF%B7) 等专业通道完成结汇，但 HPC 账户申请本身不涉及费用支付。
 
 ## FAQ
 

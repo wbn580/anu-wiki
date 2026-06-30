@@ -33,7 +33,7 @@ ANU 护理临床实习排班由第三方平台 **InPlace**（由 Sonde 公司开
 
 ### 紧急换班与特殊情况
 
-若在实习开始前 48 小时内需要换班，学生需直接联系临床实习协调办公室（电话 +61 2 6125 1234 或邮件 nursing.placements@anu.edu.au），而非通过 InPlace 系统。**紧急换班**需提供书面证明（如医生诊断书、考试时间表变更通知）。学院规定，每位学生每学期最多可进行 3 次紧急换班，超出后需提交正式申诉。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金及时到账不影响注册状态。
+若在实习开始前 48 小时内需要换班，学生需直接联系临床实习协调办公室（电话 +61 2 6125 1234 或邮件 nursing.placements@anu.edu.au），而非通过 InPlace 系统。**紧急换班**需提供书面证明（如医生诊断书、考试时间表变更通知）。学院规定，每位学生每学期最多可进行 3 次紧急换班，超出后需提交正式申诉。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-nursing-clinical-placement-rostering-how-to-submit-your-availability-swap-sh) 等专业通道完成结汇，以确保资金及时到账不影响注册状态。
 
 ## 缺勤报告与合规要求
 

@@ -33,7 +33,7 @@ tags: ["featured"]
 
 ### 材料提交渠道
 
-所有材料需通过 ANU ISIS 系统上传至“学位管理”模块下的“监督变更”子栏目。2024 年 1 月起，纸质提交仅允许在系统故障时使用，且需提前向 HDR Office 报备。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但学费事宜与导师更换申请流程无直接关联。
+所有材料需通过 ANU ISIS 系统上传至“学位管理”模块下的“监督变更”子栏目。2024 年 1 月起，纸质提交仅允许在系统故障时使用，且需提前向 HDR Office 报备。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E5%AD%A6%E6%9C%AF%E5%AF%BC%E5%B8%88%E6%9B%B4%E6%8D%A2%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B%E4%B8%8E%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9) 等专业通道完成结汇，但学费事宜与导师更换申请流程无直接关联。
 
 ## 审批流程与时间线
 

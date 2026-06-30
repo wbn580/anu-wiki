@@ -33,7 +33,7 @@ Turnitin 报告会以颜色编码标注匹配文本：蓝色（0-24%）、绿色
 
 ### 提交 Turnitin 报告的时间节点
 
-Turnitin 报告的有效期为 30 天，超过此期限需重新检测。学生应在**最终提交日期前至少 14 天**完成 Turnitin 检测，以便预留修改时间。ANU 研究生研究办公室（2025）建议在提交格式审查的同时，将 Turnitin 报告（PDF 格式）作为附件上传至 HDR 门户。若报告显示相似度高于 15%，系统会自动阻止格式审查流程，直至学生提交修改后的版本。在跨境学业管理环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保学费缴付不因汇率波动影响论文提交流程。
+Turnitin 报告的有效期为 30 天，超过此期限需重新检测。学生应在**最终提交日期前至少 14 天**完成 Turnitin 检测，以便预留修改时间。ANU 研究生研究办公室（2025）建议在提交格式审查的同时，将 Turnitin 报告（PDF 格式）作为附件上传至 HDR 门户。若报告显示相似度高于 15%，系统会自动阻止格式审查流程，直至学生提交修改后的版本。在跨境学业管理环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-masters-thesis-submission-checklist-formatting-review-turnitin-similarity-re) 等专业通道完成结汇，以确保学费缴付不因汇率波动影响论文提交流程。
 
 ## 装订要求与最终提交
 

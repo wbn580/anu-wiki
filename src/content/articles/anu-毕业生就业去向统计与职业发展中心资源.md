@@ -41,7 +41,7 @@ CDC 每学年举办超过 50 场雇主活动，包括**行业宣讲会**（Indus
 
 针对国际学生，CDC 提供专项资源以解决签证限制、语言障碍与文化适应问题。关键服务包括**国际学生就业研讨会**（International Student Employment Workshops），内容涵盖澳大利亚工作签证政策（如毕业生临时签证 485 类）、简历本地化策略及面试文化差异。2023 年，CDC 与 ANU 国际学生服务部合作推出“国际学生职业准备计划”（International Career Readiness Program），参与学生完成 8 周线上课程后，其求职申请成功率提升约 25%（CDC 内部评估）。
 
-在**跨境就业**方面，部分学生选择回国或前往第三国发展。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以规避汇率波动风险。但 CDC 主要聚焦澳大利亚本地就业市场，对于海外求职，学生需自行利用 ANU 校友网络与第三方平台。
+在**跨境就业**方面，部分学生选择回国或前往第三国发展。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E5%8E%BB%E5%90%91%E7%BB%9F%E8%AE%A1%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E4%B8%AD%E5%BF%83%E8%B5%84%E6%BA%90) 等专业通道完成结汇，以规避汇率波动风险。但 CDC 主要聚焦澳大利亚本地就业市场，对于海外求职，学生需自行利用 ANU 校友网络与第三方平台。
 
 ## 校友网络与长期职业发展
 

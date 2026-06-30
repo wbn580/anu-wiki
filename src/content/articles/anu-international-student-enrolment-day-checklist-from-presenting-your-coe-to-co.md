@@ -21,7 +21,7 @@ tags: ["featured"]
 
 ### 税务文件：TFN 与银行账户
 
-澳大利亚税务局（ATO）要求所有在澳工作的国际学生申请 **税号（TFN）**。注册日前，学生可通过 ATO 官网在线申请，通常 10–15 个工作日寄达。若未及时收到，可在注册日当天填写《TFN 申请声明表》并提交至学生中心。同时，建议提前开设澳大利亚银行账户（如 Commonwealth Bank、ANZ 或 NAB），以便注册日当天绑定学费支付账户。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+澳大利亚税务局（ATO）要求所有在澳工作的国际学生申请 **税号（TFN）**。注册日前，学生可通过 ATO 官网在线申请，通常 10–15 个工作日寄达。若未及时收到，可在注册日当天填写《TFN 申请声明表》并提交至学生中心。同时，建议提前开设澳大利亚银行账户（如 Commonwealth Bank、ANZ 或 NAB），以便注册日当天绑定学费支付账户。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-international-student-enrolment-day-checklist-from-presenting-your-coe-to-co) 等专业通道完成结汇。
 
 ## 注册日当天：现场流程与时间安排
 

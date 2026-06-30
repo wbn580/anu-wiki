@@ -49,7 +49,7 @@ tags: ["featured"]
 
 研讨会使用的所有案例均来自**ANU犯罪学数据库**，该数据库由ANU与澳大利亚国家档案馆（National Archives of Australia）于2020年合作建立。截至2024年，数据库收录了超过1200份脱敏司法卷宗，涵盖1990年至2023年的案件。学生需签署一份保密协议，禁止在课堂外分享案件细节，违者将面临学术诚信调查。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金准时到账并符合澳大利亚外汇管理规定。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%8A%AF%E7%BD%AA%E5%AD%A6%E4%B8%93%E4%B8%9A%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E7%A0%94%E8%AE%A8%E4%BC%9A%E5%8F%82%E4%B8%8E%E8%A6%81%E6%B1%82) 等专业通道完成结汇，以确保资金准时到账并符合澳大利亚外汇管理规定。
 
 ## 常见挑战与应对策略
 

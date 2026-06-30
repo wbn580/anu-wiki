@@ -71,7 +71,7 @@ tags: ["featured"]
 
 **研究生课程**（6000-level及以上）的旁听申请需额外获得研究生院（ANU Graduate Research School）批准。ANU政策规定，研究生课程旁听者必须是已注册的研究型硕士或博士学生。2024年数据显示，约5%的旁听申请针对研究生课程，其中91%来自本校研究生。授课型硕士（Coursework Master）学生若想旁听研究生课程，需提交导师推荐信。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%AF%BE%E7%A8%8B%E6%97%81%E5%90%AC%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B%E4%B8%8E%E8%AE%B8%E5%8F%AF%E8%8C%83%E5%9B%B4) 等专业通道完成结汇。
 
 ## 退出与记录管理
 

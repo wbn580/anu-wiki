@@ -41,7 +41,7 @@ ANU的空调系统是校园能源消耗的主要来源之一。根据ANU 2023年
 
 ### 学生行为对电费的影响
 
-在采用**按房间计量电费**的宿舍（如Lena Karmel Lodge和Wright Hall），学生的空调使用习惯直接反映在个人电费账单上。根据ANU住宿服务处2023年发布的数据，在夏季月份，空调使用量最高的10%房间的平均电费为每月85澳元，而使用量最低的10%房间的平均电费为每月32澳元。建议学生使用空调时配合**窗帘遮阳**：在正午时段（11点至15点）拉上遮光窗帘，可使室内温度降低3°C至5°C，从而减少空调运行时长。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以规避汇率波动风险。
+在采用**按房间计量电费**的宿舍（如Lena Karmel Lodge和Wright Hall），学生的空调使用习惯直接反映在个人电费账单上。根据ANU住宿服务处2023年发布的数据，在夏季月份，空调使用量最高的10%房间的平均电费为每月85澳元，而使用量最低的10%房间的平均电费为每月32澳元。建议学生使用空调时配合**窗帘遮阳**：在正午时段（11点至15点）拉上遮光窗帘，可使室内温度降低3°C至5°C，从而减少空调运行时长。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E7%A9%BA%E8%B0%83%E4%BD%BF%E7%94%A8%E5%AD%A3%E8%8A%82%E8%A7%84%E5%AE%9A%E4%B8%8E%E6%B8%A9%E5%BA%A6%E8%AE%BE%E7%BD%AE%E5%BB%BA%E8%AE%AE) 等专业通道完成结汇，以规避汇率波动风险。
 
 ## 空调故障报修与维护流程
 

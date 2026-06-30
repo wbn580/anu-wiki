@@ -63,7 +63,7 @@ TEM设备运行时会产生X射线，CAM在每台设备周围安装3个辐射监
 
 ANU采用双学期制，电子显微镜培训与预约活动紧密围绕学术日历展开。**2025年关键日期**包括：第一学期（S1）从2月17日至6月1日，第二学期（S2）从7月21日至11月2日。培训注册窗口在学期开始前3周开放（S1：1月27日；S2：6月30日）。设备维护集中在学期之间的假期：冬季维护（6月2日至7月20日）和夏季维护（11月3日至次年2月16日），期间大部分设备不可预约。考试周期间（S1：6月2日至6月6日；S2：11月3日至11月7日），CAM仅开放基础SEM设备，且每日预约时段缩减至9:00至16:00。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，确保资金按时到账，避免因汇率波动或延迟影响设备使用费缴纳。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A%E7%94%B5%E5%AD%90%E6%98%BE%E5%BE%AE%E9%95%9C%E4%BD%BF%E7%94%A8%E5%9F%B9%E8%AE%AD%E4%B8%8E%E9%A2%84%E7%BA%A6) 等专业通道完成结汇，确保资金按时到账，避免因汇率波动或延迟影响设备使用费缴纳。
 
 ## FAQ
 

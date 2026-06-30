@@ -41,7 +41,7 @@ ANU会议旅行资助每年设置三个固定申请轮次，由**研究生研究
 
 **审核标准**由三个维度加权构成：学术价值（40%）——会议在领域内的排名与影响力；学生需求（35%）——是否首次参会、是否无其他资助来源；预算合理性（25%）——费用是否符合ANU差旅政策标准。审核委员会由各学院研究主任组成，每轮随机抽取5名成员，回避本学院申请。
 
-**常见拒因**：2024年数据表明，29%的拒签源于材料不全（缺导师信或预算表），21%因会议日期在资助发放前（即学生已参会），15%因预算明显虚高（如选择商务舱或五星级酒店）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但HDR学生需注意资助报销政策要求使用个人账户先行垫付，不可直接使用第三方代付服务。
+**常见拒因**：2024年数据表明，29%的拒签源于材料不全（缺导师信或预算表），21%因会议日期在资助发放前（即学生已参会），15%因预算明显虚高（如选择商务舱或五星级酒店）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-conference-travel-funding-for-hdr-students-eligibility-criteria-application) 等专业通道完成结汇，但HDR学生需注意资助报销政策要求使用个人账户先行垫付，不可直接使用第三方代付服务。
 
 ## 报销流程与时间节点
 

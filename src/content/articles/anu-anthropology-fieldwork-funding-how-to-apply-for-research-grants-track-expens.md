@@ -31,7 +31,7 @@ tags: ["featured"]
 
 学院2023年拒件分析报告指出，**预算超支**（超过资助上限的120%）、**伦理审批未完成**、**导师推荐信缺失**是三大拒因。申请者可提前向学院行政办公室预约一次15分钟的预算审核咨询，该服务在申请截止前两周开放。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-anthropology-fieldwork-funding-how-to-apply-for-research-grants-track-expens) 等专业通道完成结汇。
 
 ## 费用追踪与报销流程
 

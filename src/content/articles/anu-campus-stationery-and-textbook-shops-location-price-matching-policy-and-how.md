@@ -49,7 +49,7 @@ The School Locker 执行一项 **价格匹配政策**（Price Match Guarantee）
 
 ### 领取与配送选项
 
-课程包可选择到店领取（Kambri 主店或 Union Court 临时点）或校内配送（免费）。校内配送通常在工作日 48 小时内送达指定学院办公室或宿舍前台。对于远程学生，店铺提供澳大利亚境内邮寄服务，运费为 9.95 澳元（2025 年标准）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，而教材费用通常需通过 ANU 学生账户直接支付。
+课程包可选择到店领取（Kambri 主店或 Union Court 临时点）或校内配送（免费）。校内配送通常在工作日 48 小时内送达指定学院办公室或宿舍前台。对于远程学生，店铺提供澳大利亚境内邮寄服务，运费为 9.95 澳元（2025 年标准）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-stationery-and-textbook-shops-location-price-matching-policy-and-how) 等专业通道完成结汇，而教材费用通常需通过 ANU 学生账户直接支付。
 
 ## 二手教材交易渠道
 

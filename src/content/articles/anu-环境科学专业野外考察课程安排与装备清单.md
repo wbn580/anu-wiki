@@ -39,7 +39,7 @@ ANU 环境科学系发布《野外安全与装备指南 2025 版》（Field Safe
 
 根据 ANU 学生协会（ANUSA）2024 年《新生装备预算指南》，环境科学专业学生第一年野外装备总支出约为 **550-850 澳元**。其中徒步鞋（200-350 澳元）和防晒装备（100-150 澳元）占大头。ANU 校内商店（Union Court 的 Outdoor Gear Shop）提供学生折扣，部分装备可凭学生证租借，如 GPS 设备（每日 15 澳元）和帐篷（每日 20 澳元）。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。对于装备采购，建议在澳洲境内购买以符合当地安全标准——ANU 不接受中国购买的防晒霜（未标注 SPF 50+ 且未通过 TGA 注册）作为合规装备。2025 年起，ANU 野外课程将统一配发可重复使用的硅胶餐盒，以减少一次性塑料使用。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A%E9%87%8E%E5%A4%96%E8%80%83%E5%AF%9F%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92%E4%B8%8E%E8%A3%85%E5%A4%87%E6%B8%85%E5%8D%95) 等专业通道完成结汇。对于装备采购，建议在澳洲境内购买以符合当地安全标准——ANU 不接受中国购买的防晒霜（未标注 SPF 50+ 且未通过 TGA 注册）作为合规装备。2025 年起，ANU 野外课程将统一配发可重复使用的硅胶餐盒，以减少一次性塑料使用。
 
 ## 气候适应与身体准备
 

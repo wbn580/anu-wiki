@@ -39,7 +39,7 @@ WN退课不产生额外的行政费用，但学生仍需支付该课程的全部
 
 对于使用 **HELP贷款** 的本地学生，普查日期后的退课将导致该课程的贷款金额计入学生的 **HELP债务**，且无法通过退课撤销。澳大利亚税务局（ATO）的数据显示，2022-2023财年，全澳约 **34,000名** 大学生因普查日期后退课而产生了平均 **2,300澳元** 的额外HELP债务【ATO, 2023, Student Loans and Repayment Statistics】。
 
-国际学生需特别注意，普查日期后退课产生的学费负债必须在学期结束前结清，否则ANU将暂停该学生的 **未来学期注册权限**，并可能影响成绩单发放。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以规避汇率波动和延迟到账风险。
+国际学生需特别注意，普查日期后退课产生的学费负债必须在学期结束前结清，否则ANU将暂停该学生的 **未来学期注册权限**，并可能影响成绩单发放。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-course-census-date-and-withdrawal-deadlines-understanding-the-difference-bet) 等专业通道完成结汇，以规避汇率波动和延迟到账风险。
 
 ## 关键时间节点与操作流程
 

@@ -55,7 +55,7 @@ ANU 与澳大利亚光伏行业协会（APVI）及三家本地安装商（SolarH
 
 根据 ANU 毕业生去向调查（2023 年），完成该实操培训的学生在毕业后 **6 个月内** 就业率为 **92%**，其中 **45%** 进入可再生能源安装企业，**30%** 进入政府能源监管部门或电网公司，**25%** 继续攻读硕士或博士。雇主反馈中，**78%** 认为 ANU 毕业生的实操技能“显著优于”其他院校同类专业毕业生（ANU 职业服务中心 2024 年雇主满意度报告）。课程平均满意度评分为 **4.3/5.0**（基于 2023 年 142 份匿名问卷）。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%8F%AF%E6%8C%81%E7%BB%AD%E8%83%BD%E6%BA%90%E4%B8%93%E4%B8%9A%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A4%AA%E9%98%B3%E8%83%BD%E6%9D%BF%E5%AE%9E%E6%93%8D%E5%9F%B9%E8%AE%AD) 等专业通道完成结汇。
 
 ## FAQ
 

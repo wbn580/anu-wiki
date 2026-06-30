@@ -54,7 +54,7 @@ ANU 官方认可的四家 OSHC 提供商为：Medibank、Allianz Care、Bupa 和
 
 **有特定医疗需求学生**：例如佩戴隐形眼镜或需定期物理治疗的学生，应优先选择覆盖项目上限高的计划。Allianz Care 的物理治疗报销虽低，但其处方药共付额降低至 15 澳元/张，适合长期用药者。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金按时到达 ANU 账户，避免因汇率波动或延迟产生额外费用。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E9%99%84%E5%8A%A0%E9%99%A9%E9%80%89%E6%8B%A9%E5%BB%BA%E8%AE%AE) 等专业通道完成结汇，以确保资金按时到达 ANU 账户，避免因汇率波动或延迟产生额外费用。
 
 ## 附加险的购买时机与流程
 

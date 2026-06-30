@@ -1,23 +1,16 @@
 ---
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
 import BaseHead from '../components/BaseHead.astro';
 
-interface Props {
-  title: string;
-  description: string;
-  ogImage?: string;
-  canonicalURL?: string;
-  schema?: string;
-}
+const { title, description, ogImage, canonicalURL, schema } = Astro.props;
 
-const {
-  title,
-  description,
-  ogImage,
-  canonicalURL,
-  schema,
-} = Astro.props;
+const categories = [
+  { slug: 'geography', name: '地理' },
+  { slug: 'history', name: '历史' },
+  { slug: 'politics', name: '政治' },
+  { slug: 'economy', name: '经济' },
+  { slug: 'education', name: '教育' },
+  { slug: 'culture', name: '文化' },
+];
 ---
 
 <!doctype html>
@@ -32,13 +25,60 @@ const {
     />
     <style is:global>
       @import '../styles/global.css';
+      @import '../styles/editorial.css';
     </style>
   </head>
-  <body>
-    <Header />
-    <main>{Astro.slot}</main>
-    <Footer />
-    <!-- Per-site widget -->
-    <script src="https://chat.anu.wiki/assistant.js" defer></script>
-  </body>
+  <body class="editorial">
+    <nav class="enav" id="enav">
+      <a href="/" class="ebrand">
+        <span class="emark">澳</span>
+        <span class="etitle"><b>澳洲百科</b><span>Aus.wiki</span></span>
+      </a>
+      <div class="enav-links">
+        <a href="/">首页</a>
+        {categories.map(cat => (
+          <a href={`/category/${cat.slug}/`}>{cat.name}</a>
+        ))}
+      </div>
+      <a href="/#articles" class="enav-cta">浏览词条</a>
+      <div class="ehamb" id="ehamb"><span></span><span></span><span></span></div>
+    </nav>
+
+    <main>
+      <slot />
+    </main>
+
+    <efooter>
+      <div class="efoot-grid">
+        <div class="efoot-brand">
+          <b>澳洲百科 · Aus.wiki</b>
+          <p>澳洲生活、学习、工作、移民综合百科，基于公开政府数据与学术文献。</p>
+        </div>
+        <div>
+          <h4>六大模块</h4>
+          {categories.map(cat => (
+            <a href={`/category/${cat.slug}/`}>{cat.name}</a>
+          ))}
+        </div>
+        <div>
+          <h4>信息</h4>
+          <a href="/about/">关于本知识库</a>
+          <a href="/sources/">数据来源</a>
+        </div>
+        <div>
+          <h4>链接</h4>
+          <a href="/">首页</a>
+          <a href="/#topics">主题</a>
+          <a href="/#articles">词条</a>
+        </div>
+      </div>
+      <div class="efoot-bottom">
+        <span>&copy; 2026 澳洲百科 · Aus.wiki</span>
+        <span>由 UNILINK 留学申请 · 優領教育持牌團隊整理 · MARA 1687552 · QEAC G167</span>
+      </div>
+    </efooter>
+
+
+    <!-- 留资入口中心化组件（吸底两按钮+桌面药丸+文中图片卡）改一处全站生效 -->
+</body>
 </html>

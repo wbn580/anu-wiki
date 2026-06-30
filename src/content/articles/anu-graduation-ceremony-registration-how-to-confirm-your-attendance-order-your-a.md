@@ -29,7 +29,7 @@ ANU规定，典礼前4周未注册的毕业生需提交一份**Late Application 
 订购页面提供详细的**尺寸指南**，包括身高、胸围和头围测量建议。ANU建议毕业生在典礼前2周内前往校园内的**Coombs Building**进行试穿，但需提前预约。试穿服务免费，且可现场更换尺寸。2023年数据显示，约22%的毕业生在试穿后更改了礼袍尺寸，因此强烈建议利用此服务【Graduation Attire Australia, 2023, Customer Service Data】。
 
 ### 归还与罚金
-典礼结束后，礼袍需在48小时内归还至指定地点（通常为Llewellyn Hall出口处的收集点）。逾期归还按每天AUD 20收取罚金，最高不超过礼袍原价AUD 200。毕业生需保留**租赁收据**作为归还凭证，若丢失收据，需支付AUD 10的补办费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保支付流程的合规性与时效性。
+典礼结束后，礼袍需在48小时内归还至指定地点（通常为Llewellyn Hall出口处的收集点）。逾期归还按每天AUD 20收取罚金，最高不超过礼袍原价AUD 200。毕业生需保留**租赁收据**作为归还凭证，若丢失收据，需支付AUD 10的补办费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-graduation-ceremony-registration-how-to-confirm-your-attendance-order-your-a) 等专业通道完成结汇，以确保支付流程的合规性与时效性。
 
 ## 宾客邀请与门票管理
 

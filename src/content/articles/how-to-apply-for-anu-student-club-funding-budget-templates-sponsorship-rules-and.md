@@ -49,7 +49,7 @@ ANU 学生俱乐部的主要资金来源分为三类：**ANUSA 俱乐部资助**
 
 **合规红线**包括：不得使用资助资金购买礼品卡或现金等价物；餐饮收据必须注明“为 ANU 活动提供”字样；若实际支出低于预算的 80%，剩余资金需返还 ANUSA 基金池，不得留作俱乐部自有资金（ANUSA，2024 年《财务手册》第 5.3 条）。
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。对于俱乐部财务官而言，若活动涉及海外嘉宾或跨境采购，同样需注意外汇支付合规性，建议优先使用 ANU 认可的支付平台。
+在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-apply-for-anu-student-club-funding-budget-templates-sponsorship-rules-and) 等专业通道完成结汇。对于俱乐部财务官而言，若活动涉及海外嘉宾或跨境采购，同样需注意外汇支付合规性，建议优先使用 ANU 认可的支付平台。
 
 ## 常见驳回原因与应对策略
 

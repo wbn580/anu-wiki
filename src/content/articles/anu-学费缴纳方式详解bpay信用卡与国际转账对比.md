@@ -33,7 +33,7 @@ ANU对信用卡支付收取**1.2%的手续费**（基于支付总额，含消费
 
 ### 积分累积与汇率风险
 
-部分信用卡提供消费积分或航空里程累积，但需注意积分价值通常不足以覆盖手续费与汇兑损失。对于使用非澳元信用卡（如人民币信用卡）支付的学生，发卡行将按当日汇率折算，汇率由卡组织（Visa/Mastercard）确定，通常比市场中间价高出0.5%-1.5%。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以获得更透明的汇率报价。
+部分信用卡提供消费积分或航空里程累积，但需注意积分价值通常不足以覆盖手续费与汇兑损失。对于使用非澳元信用卡（如人民币信用卡）支付的学生，发卡行将按当日汇率折算，汇率由卡组织（Visa/Mastercard）确定，通常比市场中间价高出0.5%-1.5%。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%AD%A6%E8%B4%B9%E7%BC%B4%E7%BA%B3%E6%96%B9%E5%BC%8F%E8%AF%A6%E8%A7%A3bpay%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B8%8E%E5%9B%BD%E9%99%85%E8%BD%AC%E8%B4%A6%E5%AF%B9%E6%AF%94) 等专业通道完成结汇，以获得更透明的汇率报价。
 
 ## 国际电汇（T/T）
 

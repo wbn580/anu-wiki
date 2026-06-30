@@ -46,7 +46,7 @@ tags: ["featured"]
 工作坊系列的最后一个模块为**一对一论文反馈**（Individual Paper Feedback），每位参与者可在工作坊结束后预约一次30分钟的面对面或线上咨询。学术技能中心的导师会针对学生提交的论文草稿（限2000字以内）提供结构性反馈，重点关注论点一致性、证据支撑强度及引用准确性。
 
 ### 反馈内容范围
-导师不会逐句修改语法或润色语言，而是指出逻辑断层（Logical Gaps）、论证薄弱点（Weak Arguments）以及引用格式错误。根据ANU Academic Skills 2024年内部统计，接受一对一反馈的学生在后续论文提交中，平均引用错误率下降约42%（从每千字8.3处降至4.8处）。对于跨境支付学费或购买学术材料的国际学生，部分家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以确保资金按时到账。
+导师不会逐句修改语法或润色语言，而是指出逻辑断层（Logical Gaps）、论证薄弱点（Weak Arguments）以及引用格式错误。根据ANU Academic Skills 2024年内部统计，接受一对一反馈的学生在后续论文提交中，平均引用错误率下降约42%（从每千字8.3处降至4.8处）。对于跨境支付学费或购买学术材料的国际学生，部分家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB%E4%B8%93%E4%B8%9A%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%9D%8A%E6%8A%A5%E5%90%8D%E4%B8%8E%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B) 等专业通道完成结汇，以确保资金按时到账。
 
 ### 反馈预约机制
 反馈预约在工作坊结束后一周内开放，通过Academic Skills Portal选择可用时段。2025年第一学期的数据显示，约58%的预约集中在工作坊结束后的48小时内，建议学生尽早预约以避免时段耗尽。

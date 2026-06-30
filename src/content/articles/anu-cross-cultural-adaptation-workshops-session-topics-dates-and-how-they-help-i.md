@@ -39,7 +39,7 @@ ANU跨文化适应工作坊由学生体验与学术技能中心（Student Experi
 工作坊并非仅关注情感支持，其设计直接关联学术绩效指标。ANU学术技能中心2023年发布的内部报告显示，参与工作坊的国际学生在第一学年**课程保留率**达到92%，而同期未参与学生为84%【ANU Academic Skills Centre, 2023, Retention Analysis】。这种差异在工程学院和商学院尤为显著，保留率差距分别达到11%和9%。
 
 ### 语言障碍缓解机制
-工作坊中设有“学术英语微技能”模块，专门针对**论文写作**中的论证结构和引用格式。ANU语言测试中心的数据表明，参与该模块的学生在后续学术写作评估中，语法错误率平均下降28%，引用格式合规率从61%提升至89%【ANU Language Testing Centre, 2023, Writing Proficiency Tracking】。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+工作坊中设有“学术英语微技能”模块，专门针对**论文写作**中的论证结构和引用格式。ANU语言测试中心的数据表明，参与该模块的学生在后续学术写作评估中，语法错误率平均下降28%，引用格式合规率从61%提升至89%【ANU Language Testing Centre, 2023, Writing Proficiency Tracking】。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-cross-cultural-adaptation-workshops-session-topics-dates-and-how-they-help-i) 等专业通道完成结汇。
 
 ## 社交融入与长期支持网络
 

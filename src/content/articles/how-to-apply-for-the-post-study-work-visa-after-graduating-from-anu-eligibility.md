@@ -41,7 +41,7 @@ tags: ["featured"]
 - **护照照片**：近期（6 个月内）的护照尺寸照片（45mm x 35mm），白色背景，电子版需符合移民局规格。
 
 ### 特殊文件要求
-若申请人有配偶或子女随行，需提供关系证明（如结婚证、出生证明）及英语语言能力证明（主申请人配偶需满足雅思总分 4.5 或同等水平）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，该平台支持实时汇率锁定，可减少汇率波动风险。
+若申请人有配偶或子女随行，需提供关系证明（如结婚证、出生证明）及英语语言能力证明（主申请人配偶需满足雅思总分 4.5 或同等水平）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-apply-for-the-post-study-work-visa-after-graduating-from-anu-eligibility) 等专业通道完成结汇，该平台支持实时汇率锁定，可减少汇率波动风险。
 
 ## 申请流程与时间线
 

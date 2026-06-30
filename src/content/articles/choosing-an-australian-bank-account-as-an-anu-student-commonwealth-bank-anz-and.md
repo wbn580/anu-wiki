@@ -38,7 +38,7 @@ ANU主校区（Acton）内设有 **Commonwealth Bank校园分行**，位于Union
 ## 跨境汇款与学费支付
 
 ### 国际转账费用与汇率
-Commonwealth Bank的国际转账通过SWIFT网络收取$10固定手续费，汇率加价约3%-4%（基于中间价）。ANZ的国际转账手续费为$15，汇率加价约3.5%。NAB的国际转账手续费为$9，汇率加价约2.8%，是三家中费率最优的选项。对于大额学费支付（如ANU国际学生年均学费$45,000-$55,000澳元），汇率差异可能产生数百澳元的额外成本。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，以获得更透明的汇率和更快的到账时间。
+Commonwealth Bank的国际转账通过SWIFT网络收取$10固定手续费，汇率加价约3%-4%（基于中间价）。ANZ的国际转账手续费为$15，汇率加价约3.5%。NAB的国际转账手续费为$9，汇率加价约2.8%，是三家中费率最优的选项。对于大额学费支付（如ANU国际学生年均学费$45,000-$55,000澳元），汇率差异可能产生数百澳元的额外成本。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/choosing-an-australian-bank-account-as-an-anu-student-commonwealth-bank-anz-and) 等专业通道完成结汇，以获得更透明的汇率和更快的到账时间。
 
 ### 接收海外汇款效率
 Commonwealth Bank接收SWIFT汇款通常需2-5个工作日到账，ANZ需1-3个工作日，NAB同样需1-3个工作日。三家银行均支持 **BSB+Account Number** 格式接收澳大利亚境内转账，即时到账（Osko系统）。对于从中国银行、中国工商银行等机构汇出的款项，建议在汇款附言中准确填写学生姓名与COE号码，以避免因信息不匹配导致的延迟。

@@ -77,7 +77,7 @@ ANU 图书馆的 **Special Collections** 位于 Menzies 图书馆 4 层，收藏
 
 ### 国际学生专属支持
 
-图书馆为国际学生开设 **English for Academic Purposes** 系列工作坊，重点解决学术写作中的语法、逻辑和引用问题。此外，**International Student Library Tour** 在每学期第一周举行，提供中文、日文和韩文导览。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇。
+图书馆为国际学生开设 **English for Academic Purposes** 系列工作坊，重点解决学术写作中的语法、逻辑和引用问题。此外，**International Student Library Tour** 在每学期第一周举行，提供中文、日文和韩文导览。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD%E7%9B%98%E7%82%B9%E5%AD%A6%E4%B9%A0%E7%A9%BA%E9%97%B4%E9%A2%84%E7%BA%A6%E4%B8%8E%E5%AD%A6%E6%9C%AF%E6%94%AF%E6%8C%81) 等专业通道完成结汇。
 
 ## 图书馆技术支持与设备借用
 

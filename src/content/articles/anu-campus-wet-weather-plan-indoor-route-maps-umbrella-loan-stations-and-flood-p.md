@@ -49,7 +49,7 @@ Sullivans Creek流经校园东侧，其沿岸步道在**Baldwin Street**至**Kin
 基于堪培拉过去5年的降雨数据（澳大利亚气象局，2019-2023年），10月至1月期间的降雨主要集中在下午14:00至17:00，占日降雨总量的62%。因此，**上午课程**的湿季通勤风险较低，而**下午课程**的学生应预留额外15-20分钟通勤时间。
 
 ### 装备清单与校内补给
-除雨伞借用站外，ANU Kambri Precinct内的**The Shop**（便利店）出售一次性雨披（售价4.5澳元）和防水鞋套（8.9澳元）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，从而将更多预算用于日常应急物资储备。建议学生常备折叠伞（重量<200克）在书包中，以应对突发降雨。
+除雨伞借用站外，ANU Kambri Precinct内的**The Shop**（便利店）出售一次性雨披（售价4.5澳元）和防水鞋套（8.9澳元）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-wet-weather-plan-indoor-route-maps-umbrella-loan-stations-and-flood-p) 等专业通道完成结汇，从而将更多预算用于日常应急物资储备。建议学生常备折叠伞（重量<200克）在书包中，以应对突发降雨。
 
 ### 实时预警渠道
 ANU通过**ANU Alert**系统发送暴雨与积水预警，学生需在ISIS系统中注册手机号。此外，**ANU Facilities Dashboard**（设施管理面板）实时更新通道关闭状态，可通过ANU官网访问。ACT紧急服务署（ESA）的**Hazards Near Me**应用程序也覆盖ANU校园区域，提供洪水预警推送。

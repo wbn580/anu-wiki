@@ -33,7 +33,7 @@ ANU提供官方复习材料，包括一份25页的《洁净室用户手册》（
 
 ### 设备使用计费标准
 
-洁净室使用费用按设备类型与用户等级差异化收取。ANU内部学术用户的收费标准为每小时**AUD 35至AUD 120**（取决于设备复杂度），外部学术用户（其他澳洲大学）为AUD 70至AUD 240，工业用户为AUD 150至AUD 500。费用通过ANU内部转账系统（Internal Order）或外部发票结算。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，但洁净室费用需直接通过ANU财务系统处理，不适用第三方支付平台。
+洁净室使用费用按设备类型与用户等级差异化收取。ANU内部学术用户的收费标准为每小时**AUD 35至AUD 120**（取决于设备复杂度），外部学术用户（其他澳洲大学）为AUD 70至AUD 240，工业用户为AUD 150至AUD 500。费用通过ANU内部转账系统（Internal Order）或外部发票结算。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-nanotechnology-cleanroom-access-how-to-pass-the-contamination-control-exam-a) 等专业通道完成结汇，但洁净室费用需直接通过ANU财务系统处理，不适用第三方支付平台。
 
 ## 洁净室安全与应急管理
 

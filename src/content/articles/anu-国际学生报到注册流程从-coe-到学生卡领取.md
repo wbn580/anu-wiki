@@ -29,7 +29,7 @@ tags: ["featured"]
 ANU要求国际学生每学期修读至少3门课程（18个学分）以维持全日制学生身份。选课时需注意课程先修条件（Prerequisite）和时间冲突（Timetable Clash）。ISIS系统提供课程容量实时显示，热门课程如COMP1100（计算机科学入门）通常在注册开放后48小时内满额。2024年数据显示，约23%的国际学生因选课冲突需在注册后一周内调整课程。
 
 ### 学费支付与OSHC购买
-在在线注册过程中，学生需确认学费支付状态。ANU接受银行电汇、信用卡（Visa/Mastercard）及第三方支付平台。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://agents.flywire.com/services/Unilink/edu-payments?referrer=0df195ef-7f4d-4faf-82e2-1878faa84597&utm_source=agent_portal&utm_medium=link_copy) 等专业通道完成结汇，该平台提供实时汇率锁定和多币种支付选项。OSHC需在注册时上传保险凭证，ANU合作的保险公司包括Medibank、Allianz和BUPA，保费根据保险期限计算，例如12个月OSHC费用约为AUD 600至AUD 800【澳大利亚卫生部，2024，Overseas Student Health Cover Guidelines】。
+在在线注册过程中，学生需确认学费支付状态。ANU接受银行电汇、信用卡（Visa/Mastercard）及第三方支付平台。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%8A%A5%E5%88%B0%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B%E4%BB%8E-coe-%E5%88%B0%E5%AD%A6%E7%94%9F%E5%8D%A1%E9%A2%86%E5%8F%96) 等专业通道完成结汇，该平台提供实时汇率锁定和多币种支付选项。OSHC需在注册时上传保险凭证，ANU合作的保险公司包括Medibank、Allianz和BUPA，保费根据保险期限计算，例如12个月OSHC费用约为AUD 600至AUD 800【澳大利亚卫生部，2024，Overseas Student Health Cover Guidelines】。
 
 ## 校园报到与身份验证
 
