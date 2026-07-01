@@ -8,6 +8,7 @@ author: cowork
 tags: []
 slug: anu-engineering-flexible-first-year-vs-direct-specialisation-entry-major-change
 ogImage: ""
+hideFromHome: true
 
 ---
 

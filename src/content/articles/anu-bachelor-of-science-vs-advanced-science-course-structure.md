@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU science degree comparison", "advanced science honours ANU", "research early entry science", "undergraduate science course structures", "Australian National University science"]
 slug: anu-bachelor-science-vs-advanced-science-course-structures-honours-research
 ogImage: ""
+hideFromHome: true
 
 ---
 

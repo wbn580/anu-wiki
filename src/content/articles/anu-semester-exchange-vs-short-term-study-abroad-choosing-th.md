@@ -8,6 +8,7 @@ author: cowork
 tags: ["anu semester exchange", "anu short term study abroad", "anu global programs comparison", "anu exchange vs study abroad", "study abroad australia"]
 slug: anu-semester-exchange-vs-short-term-study-abroad
 ogImage: ""
+hideFromHome: true
 
 ---
 

@@ -8,6 +8,7 @@ author: cowork
 tags: ["anu ba vs bsc", "anu arts or science", "anu bachelor degree comparison", "anu career pathways arts science", "australian national university"]
 slug: anu-bachelor-of-arts-vs-bachelor-of-science-career-goals
 ogImage: ""
+hideFromHome: true
 
 ---
 

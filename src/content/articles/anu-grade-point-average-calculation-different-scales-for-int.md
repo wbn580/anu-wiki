@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU GPA", "7 point scale", "academic transcript", "exchange grades", "honours applications"]
 slug: anu-gpa-calculation-scales-internal-external
 ogImage: ""
+hideFromHome: true
 
 ---
 

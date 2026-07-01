@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU computing degree comparison", "ANU advanced computing career outcomes", "ANU computer science specialisations", "ANU computing course structure", "Australian National University computing"]
 slug: anu-advanced-computing-vs-computer-science
 ogImage: ""
+hideFromHome: true
 
 ---
 

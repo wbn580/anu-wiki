@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU College", "pathway programs", "Foundation Studies", "Diploma", "international students", "university admission"]
 slug: anu-college-pathway-foundation-vs-diploma-bachelor
 ogImage: ""
+hideFromHome: true
 
 ---
 

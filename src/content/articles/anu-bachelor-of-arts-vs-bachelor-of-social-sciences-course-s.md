@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU", "Bachelor of Arts", "Bachelor of Social Sciences", "undergraduate degrees", "career outcomes"]
 slug: anu-bachelor-arts-vs-social-sciences-comparison
 ogImage: ""
+hideFromHome: true
 
 ---
 

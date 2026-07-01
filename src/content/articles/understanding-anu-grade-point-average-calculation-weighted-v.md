@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU GPA calculation", "ANU grading scale", "ANU academic transcript", "Australian university grades", "GPA conversion"]
 slug: anu-gpa-calculation-weighted-unweighted-rules
 ogImage: ""
+hideFromHome: true
 
 ---
 

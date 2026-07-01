@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU PhB vs BSc comparison", "ANU Bachelor of Philosophy research opportunities", "ANU PhB entry requirements and benefits", "ANU BSc Honours pathway", "difference between ANU PhB and advanced science"]
 slug: anu-phb-vs-bsc-research-goals
 ogImage: ""
+hideFromHome: true
 
 ---
 

@@ -3,6 +3,7 @@ title: "ANU Rankings · QS, THE, ARWU, and Subject Rankings"
 description: "ANU's performance in major global university rankings — historical trends, subject strengths, and how ANU compares with other Australian and international universities."
 category: "education"
 publishDate: "2026-05-15T07:15:00Z"
+hideFromHome: true
 
 ---
 

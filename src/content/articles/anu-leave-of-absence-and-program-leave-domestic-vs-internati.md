@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU leave of absence", "ANU program leave international student visa", "ANU maximum leave duration", "ANU domestic student leave policy", "ANU re-enrolment after leave"]
 slug: anu-leave-of-absence-program-leave-domestic-international-rules-visa-implications
 ogImage: ""
+hideFromHome: true
 
 ---
 

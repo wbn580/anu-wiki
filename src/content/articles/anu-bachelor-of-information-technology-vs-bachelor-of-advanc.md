@@ -8,6 +8,7 @@ author: cowork
 tags: ["ANU computing degrees", "information technology Australia", "advanced computing specializations", "Australian university IT programs", "ANU BIT vs BAC"]
 slug: anu-bit-vs-bac-computing-degree-comparison
 ogImage: ""
+hideFromHome: true
 
 ---
 
