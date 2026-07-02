@@ -49,7 +49,7 @@ Best regards,
 
 **时间安排**：提供三个分散在1-2周内的具体时间段，例如“I am available on Monday 23 October at 10:00, Wednesday 25 October at 14:00, or Friday 27 October at 09:00 (all AEST).” 避免使用“any time next week”等模糊表述。同时，建议在邮件末尾附上一份简短的会议议程（1-2个要点），例如“Agenda: 1) Review of Table 2.3 results; 2) Discussion of alternative model specifications.”
 
-**后续跟进**：如果导师未在48小时内回复，可以发送一封简短的跟进邮件，例如“Following up on my meeting request sent on 16 October. Please let me know if any of the proposed times work for you, or suggest an alternative.” 根据ANU学术支持中心（2023）的指南，超过72小时未回复可视为需要重新调整沟通策略的信号。
+**后续跟进**：如果导师未在一个工作日内回复，可以发送一封简短的跟进邮件，例如“Following up on my meeting request sent on 16 October. Please let me know if any of the proposed times work for you, or suggest an alternative.” 根据ANU学术支持中心（2023）的指南，超过72小时未回复可视为需要重新调整沟通策略的信号。
 
 在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/how-to-email-your-anu-thesis-supervisor-templates-for-progress-updates-draft-sub) 等专业通道完成结汇，确保资金按时到账并避免汇率波动风险。
 
