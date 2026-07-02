@@ -18,7 +18,6 @@ tags:
   - 'evaluation criteria'
   - 'Australian National University'
 ---
-
 # A Comprehensive Step-by-Step Guide for Crafting a Compelling Research Proposal for ANU Graduate Programs (MPhil/PhD)
 
 Applying to a research degree at the Australian National University is a competitive process, and your research proposal is the cornerstone of your application. Whether you’re aiming for an MPhil or a PhD, a well-crafted proposal demonstrates your intellectual readiness, the feasibility of your project, and alignment with ANU’s research strengths. This article delivers a comprehensive step-by-step guide for crafting a compelling research proposal for ANU graduate programs (MPhil/PhD). Covers structure, common pitfalls, supervisor contact tips, and evaluation criteria, drawing from official ANU guidelines and successful applicant experiences. By the end, you’ll have a clear roadmap to produce a proposal that stands out.
