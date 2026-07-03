@@ -7,6 +7,7 @@ publishDate: '2026-04-11T19:55:41Z'
 readingTime: 3
 tags: ["featured"]
 
+hideFromHome: true
 ---
 
 澳大利亚国立大学商业与经济学院（ANU College of Business and Economics, CBE）的全日制工商管理硕士（MBA）项目，在2024年《金融时报》全球MBA排名中位列第88位，其毕业生三年后平均年薪达到127,000美元【Financial Times, 2024, Global MBA Ranking 2024】。根据澳大利亚教育部2023年的毕业生成果调查，ANU MBA毕业生在毕业四个月内全职就业率为89.5%，高于澳大利亚八校联盟（Go8）MBA项目82.1%的平均水平【Australian Government Department of Education, 2023, Graduate Outcomes Survey】。在当前全球MBA申请竞争加剧的背景下，ANU CBE对申请者的工作年限、GMAT分数及职业支持服务的明确偏好，成为潜在申请者评估自身竞争力的关键参考。

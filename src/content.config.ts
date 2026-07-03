@@ -11,6 +11,7 @@ const articles = defineCollection({
     readingTime: z.number().optional(),
     tags: z.array(z.string()).default([]),
     ogImage: z.string().optional(),
+    hideFromHome: z.boolean().optional(),
     chapter: z.number().optional(),
     sources: z.array(z.object({
       title: z.string(),

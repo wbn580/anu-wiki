@@ -7,6 +7,7 @@ publishDate: '2026-05-02T19:59:39Z'
 readingTime: 3
 tags: ["featured"]
 
+hideFromHome: true
 ---
 
 澳大利亚国立大学（ANU）在2024年QS世界大学排名中位列第34位，其校内志愿者项目（Volunteering & Community Engagement）每年为超过1,200名国际学生提供实践机会，涵盖从校内行政支持到堪培拉本地社区服务的多个领域。根据澳大利亚政府2023年《国际学生战略》报告，参与社区志愿活动的国际学生毕业后在澳就业率比未参与者高出约18%。对于ANU的国际学生而言，志愿者经历不仅是简历上的加分项，更是获取官方推荐信（Reference Letter）的关键路径——ANU志愿者中心（Volunteer & Community Engagement Office）明确将“完成至少40小时的志愿服务”列为开具标准推荐信的基本门槛。

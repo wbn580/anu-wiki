@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
-const articles = await getCollection('articles', ({ data }) => !data.draft);
+const articles = (await getCollection('articles')).filter(e => !e.data.hideFromHome && !e.data.draft);
 articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime());
 
 const featured = articles.slice(0, 6);
@@ -24,12 +24,12 @@ const homeSchema = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'WebSite',
   name: '澳洲百科 · Aus.wiki',
-  url: 'https://aus.wiki',
+  url: 'https://anu.wiki',
   description: '澳洲国家百科 —— 地理、历史、政治、经济、教育、文化综合知识库',
   inLanguage: 'zh-CN',
   potentialAction: {
     '@type': 'SearchAction',
-    target: 'https://aus.wiki/?q={search_term_string}',
+    target: 'https://anu.wiki/?q={search_term_string}',
     'query-input': 'required name=search_term_string',
   },
 });

@@ -7,6 +7,7 @@ publishDate: '2026-03-26T19:52:26Z'
 readingTime: 14
 tags: ["featured"]
 
+hideFromHome: true
 ---
 
 澳大利亚国立大学（ANU）法律专业的模拟法庭竞赛（Moot Court）是该学院法学教育的核心组成部分，其历史可追溯至20世纪60年代。根据《2024年QS世界大学学科排名》，ANU法学院在法律与法律研究领域位列全球第24位，澳大利亚第2位【QS, 2024, QS World University Rankings by Subject】。ANU每年主办超过15场校内模拟法庭竞赛，并选派代表队参加包括杰赛普国际法模拟法庭辩论赛（Jessup Moot）在内的全球顶级赛事，后者每年吸引来自100多个国家的700余所法学院参与【国际法学生协会（ILSA）, 2024, Jessup Competition Records】。本指南为计划观赛或参赛的ANU学生提供从规则解析到备赛策略的系统参考。
