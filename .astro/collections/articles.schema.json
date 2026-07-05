@@ -27,6 +27,9 @@
     "ogImage": {
       "type": "string"
     },
+    "hideFromHome": {
+      "type": "boolean"
+    },
     "chapter": {
       "type": "number"
     },
