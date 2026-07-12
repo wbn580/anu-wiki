@@ -27,7 +27,7 @@ A **gap semester** is the most common form of leave, typically lasting for one s
 
 The very first step is a thorough self-assessment of your eligibility. Not all students qualify for an **ANU leave of absence**. You must have completed at least one semester of study in your current program. If you are a new student who has just arrived, you are generally expected to complete your first term before applying for a break. Furthermore, if you have outstanding fees, academic misconduct cases, or are on a conditional enrolment, your application will likely be denied until those issues are resolved.
 
-The most critical layer for you is the visa condition. Your student visa (subclass 500) is granted on the basis that you are a genuine temporary entrant pursuing a full-time, on-campus course. An approved **ANU enrollment suspension** for a **gap semester** changes your study load to zero. This is a breach of visa condition 8202 unless the leave is approved and the university reports it correctly. In 2026, the Department of Home Affairs has been scrutinizing students who take frequent or poorly justified leaves. Before you apply, ask yourself: can I justify this leave to an immigration officer if asked? A medical certificate or a detailed personal statement outlining a genuine reason is your shield against visa cancellation. If you are unsure, book an appointment with an ANU student welfare advisor *before* you submit anything.
+The most critical layer for you is the visa condition. Your student visa (subclass 500) is granted on the basis that you are a Genuine Student pursuing a full-time, on-campus course. An approved **ANU enrollment suspension** for a **gap semester** changes your study load to zero. This is a breach of visa condition 8202 unless the leave is approved and the university reports it correctly. In 2026, the Department of Home Affairs has been scrutinizing students who take frequent or poorly justified leaves. Before you apply, ask yourself: can I justify this leave to an immigration officer if asked? A medical certificate or a detailed personal statement outlining a genuine reason is your shield against visa cancellation. If you are unsure, book an appointment with an ANU student welfare advisor *before* you submit anything.
 
 ## Step 2: Seek Academic and Visa Advice Early
 
@@ -76,7 +76,7 @@ Taking one approved **international student gap semester** is unlikely to affect
 ## 参考资料
 
 *   Australian National University, *Program Leave for International Students Policy 2026*, ANU Academic Board.
-*   Department of Home Affairs, Australia, *Student Visa (Subclass 500) Conditions and Genuine Temporary Entrant Requirement*, 2026.
+*   Department of Home Affairs, Australia, *Student Visa (Subclass 500) Conditions and Genuine Student Requirement*, 2026.
 *   ANU Student Central, *Enrolment Variation and Leave of Absence Procedure Guide*, Version 5.2, March 2026.
 *   Australian Government, *Provider Registration and International Student Management System (PRISMS) User Guide for Education Providers*, 2026.
 *   ANU College of Business and Economics, *International Student Degree Progression and Leave Planning Checklist*, 2026.
