@@ -4,60 +4,55 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const aboutSchema = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'AboutPage',
-  name: '关于澳洲百科',
-  url: 'https://aus.wiki/about/',
-  description: '澳洲百科的编辑取向、数据来源与引用规范',
+  name: 'About ANU Wiki',
+  url: 'https://anu.wiki/about/',
+  description: 'About ANU Wiki — the independent knowledge base for the Australian National University',
   publisher: {
     '@type': 'Organization',
-    name: 'Aus.wiki 資料組',
+    name: 'ANU Wiki',
   },
 });
 ---
 
 <BaseLayout
-  title="关于本知识库"
-  description="澳洲百科的資料取向、数据来源与引用规范。一个基于公开政府数据与学术文献的澳洲综合国情知识库，由 Aus.wiki 資料組整理。"
+  title="About ANU Wiki"
+  description="About ANU Wiki — the independent knowledge base for the Australian National University. Admissions, academics, campus life, and student services."
   schema={aboutSchema}
 >
   <article class="article-body">
     <div class="prose">
-      <h1>关于本知识库</h1>
+      <h1>About ANU Wiki</h1>
 
       <section>
-        <h2>內容取向</h2>
+        <h2>What We Cover</h2>
         <p>
-          澳洲百科（Aus.wiki）是一个基于公开政府数据与学术文献的澳洲综合国情知识库。我們的整理原則是：<strong>以学术严谨度呈现澳大利亚联邦的地理、历史、政治、经济、教育、文化全貌</strong>。
+          ANU Wiki is an independent knowledge base dedicated to the <strong>Australian National University</strong>. We cover admissions, academics, campus life, student services, and everything you need to know about studying at ANU.
         </p>
         <p>
-          所有条目基于澳大利亚统计局（ABS）、外交贸易部（DFAT）、内政部（Department of Home Affairs）、澳大利亚储备银行（RBA）等政府公开数据，以及经同行评审的学术文献。我们不产出评论文章，只做事实性、结构化的知识卡片与深度专题。
-        </p>
-        <p>
-          当前知识库覆盖六大模块：地理（六州两领地的成因与气候差异）、历史（从原住民到联邦的六万年时间线）、政治（Westminster 体制与联邦制混合架构）、经济（矿业 + 服务业 + 教育出口三支柱）、教育（高等教育体系解析）、文化（多元文化构成与原住民艺术）。
+          Our articles are based on publicly available information from ANU's official websites, Australian Government education data, and peer-reviewed academic sources. We present information in a structured, factual format — not opinion pieces.
         </p>
       </section>
 
       <section>
-        <h2>引用规范</h2>
+        <h2>Sources</h2>
         <p>
-          每篇文章附带完整的引用来源，格式遵循 APA 7th。条目以政府公开数据与学术文献为主，引用源包括但不限于：
+          Articles cite official ANU sources, government data, and academic literature. Key sources include:
         </p>
         <ul>
-          <li><a href="https://www.abs.gov.au/">Australian Bureau of Statistics (ABS)</a> —— 澳洲官方统计机构</li>
-          <li><a href="https://www.dfat.gov.au/">Department of Foreign Affairs and Trade (DFAT)</a> —— 外交贸易部</li>
-          <li><a href="https://www.homeaffairs.gov.au/">Department of Home Affairs</a> —— 内政部</li>
-          <li><a href="https://www.rba.gov.au/">Reserve Bank of Australia (RBA)</a> —— 澳大利亚储备银行</li>
-          <li><a href="https://www.austrade.gov.au/">Austrade</a> —— 澳大利亚贸易投资委员会</li>
-          <li><a href="https://www.aihw.gov.au/">Australian Institute of Health and Welfare (AIHW)</a> —— 澳洲健康与福利研究所</li>
+          <li><a href="https://www.anu.edu.au/">ANU Official Website</a> — course information, policies, campus services</li>
+          <li><a href="https://www.education.gov.au/">Australian Department of Education</a> — higher education data and policy</li>
+          <li><a href="https://www.studyAustralia.gov.au/">Study Australia</a> — official international student portal</li>
+          <li><a href="https://www.teqsa.gov.au/">TEQSA</a> — tertiary education quality and standards</li>
         </ul>
       </section>
 
       <section>
-        <h2>資料整理</h2>
+        <h2>Editorial</h2>
         <p>
-          由 Aus.wiki 資料組整理。团队深耕澳洲教育与移民领域逾十年，力求以学术严谨度呈现事实，不做政策倾向性解读。
+          Compiled and maintained by the UNILINK editorial team, with over a decade of experience in Australian education and migration. We strive for factual accuracy without policy advocacy.
         </p>
         <p>
-          <strong>法律声明</strong>：本站内容仅供知识参考，不构成法律或移民建议。具体留学、签证、移民问题请咨询持牌专业人士。
+          <strong>Disclaimer</strong>: Content on this site is for informational purposes only and does not constitute legal, migration, or academic advice. For specific questions about study, visas, or migration, please consult a licensed professional.
         </p>
       </section>
     </div>

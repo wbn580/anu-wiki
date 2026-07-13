@@ -10,25 +10,28 @@ interface Props {
 const {
   title,
   description,
-  ogImage = '/og-image.png',
+  ogImage = '/img/og/default.jpg',
   canonicalURL,
   schema,
 } = Astro.props;
 
-const SITE_NAME = '澳洲百科 · Aus.wiki';
+const SITE_NAME = 'ANU Wiki';
 const BASE_URL = 'https://anu.wiki';
+
+// Ensure og:image is always an absolute URL
+const resolvedOgImage = ogImage && (ogImage.startsWith('http') ? ogImage : BASE_URL + (ogImage.startsWith('/') ? '' : '/') + ogImage);
 ---
 
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{title} — {SITE_NAME}</title>
+<title>{(title.includes(SITE_NAME) || title === SITE_NAME) ? title : title + " — " + SITE_NAME}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonicalURL || BASE_URL} />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={ogImage} />
+<meta property="og:image" content={resolvedOgImage} />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content={SITE_NAME} />
 

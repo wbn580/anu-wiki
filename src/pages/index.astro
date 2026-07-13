@@ -6,27 +6,16 @@ const articles = (await getCollection('articles')).filter(e => !e.data.hideFromH
 articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime());
 
 const featured = articles.slice(0, 6);
-const categories = [
-  { slug: 'geography', name: '地理', desc: '澳洲六州两领地 · 气候带分布 · 首府城市', icon: '🌏' },
-  { slug: 'history', name: '历史', desc: '原住民文明 · 殖民时期 · 联邦成立 · 现代澳洲', icon: '📜' },
-  { slug: 'politics', name: '政治', desc: 'Westminster 体制 · 联邦制 · 政党 · 外交', icon: '🏛️' },
-  { slug: 'economy', name: '经济', desc: '矿业出口 · 服务业 · 教育产业 · RBA 货币', icon: '💰' },
-  { slug: 'education', name: '教育', desc: 'K-12 学制 · 八大名校 · VET 体系 · 国际学生', icon: '🎓' },
-  { slug: 'culture', name: '文化', desc: '多元文化 · 原住民艺术 · 食物 · 体育 · 文学', icon: '🎨' },
-];
 
-const catNames: Record<string, string> = {
-  geography: '地理', history: '历史', politics: '政治',
-  economy: '经济', education: '教育', culture: '文化',
-};
+const DEFAULT_OG = '/img/og/default.jpg';
 
 const homeSchema = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: '澳洲百科 · Aus.wiki',
+  name: 'ANU Wiki',
   url: 'https://anu.wiki',
-  description: '澳洲国家百科 —— 地理、历史、政治、经济、教育、文化综合知识库',
-  inLanguage: 'zh-CN',
+  description: 'The independent knowledge base for the Australian National University — admissions, academics, campus life, and student services.',
+  inLanguage: 'en',
   potentialAction: {
     '@type': 'SearchAction',
     target: 'https://anu.wiki/?q={search_term_string}',
@@ -36,99 +25,50 @@ const homeSchema = JSON.stringify({
 ---
 
 <BaseLayout
-  title="澳洲百科 · 一个独立中立的知识库"
-  description="澳洲国家百科 —— 地理、历史、政治、经济、教育、文化综合知识库，基于公开政府数据与学术文献，以学术严谨度呈现澳洲综合国情。"
+  title="ANU Wiki — Your Independent Guide to the Australian National University"
+  description="Comprehensive guide to the Australian National University: admissions, academics, campus life, student services, and everything you need to know about studying at ANU."
   schema={homeSchema}
 >
   <!-- Hero -->
   <header class="ehero">
     <div class="ehero-inner">
-      <div class="eeyebrow">Aus.wiki · 澳洲国别百科</div>
-      <h1>关于澳洲的一切 都在这里查得到</h1>
-      <p class="elead">学习 生活 工作 移民 — 把这片大陆讲明白</p>
+      <div class="eeyebrow">ANU Wiki · Independent Knowledge Base</div>
+      <h1>Everything About the Australian National University</h1>
+      <p class="elead">Admissions, academics, campus life, and student services — your complete guide to ANU</p>
       <div class="ehero-actions">
-        <a href="/category/geography/">地理</a>
-        <a href="/category/history/">历史</a>
-        <a href="/category/politics/">政治</a>
-        <a href="/category/economy/">经济</a>
-        <a href="/category/education/">教育</a>
-        <a href="/category/culture/">文化</a>
+        <a href="/#articles">Browse Articles</a>
+        <a href="/about/">About</a>
       </div>
     </div>
     <div class="escroll-cue">SCROLL ↓</div>
   </header>
 
-  <!-- Category Bento Grid -->
-  <section id="topics">
-    <div class="ewrap">
-      <div class="esec-head">
-        <div class="ekicker">六大模块</div>
-        <h2>从一个词条开始了解澳洲</h2>
-      </div>
-      <div class="ebento">
-        {categories.map((cat, i) => {
-          const featImgs = [
-            'https://images.pexels.com/photos/68704/pexels-photo-68704.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=800&q=80',
-            'https://images.pexels.com/photos/261204/pexels-photo-261204.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=800&q=80',
-            'https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=800&q=80',
-            'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=800&q=80',
-            'https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=800&q=80',
-            'https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=800&q=80',
-          ];
-          if (i === 0) {
-            return (
-              <a href={`/category/${cat.slug}/`} class="ecard ec-feature" style={`background:linear-gradient(180deg,rgba(15,32,26,.1),rgba(15,32,26,.8)),url('${featImgs[i]}') center/cover`}>
-                <h3>{cat.name}</h3>
-                <p>{cat.desc}</p>
-              </a>
-            );
-          }
-          if (i === 1) {
-            return (
-              <a href={`/category/${cat.slug}/`} class="ecard ec-dark">
-                <h3>{cat.icon}</h3>
-                <p>{cat.name} — {cat.desc}</p>
-              </a>
-            );
-          }
-          return (
-            <a href={`/category/${cat.slug}/`} class="ecard">
-              <div class="eic">{cat.icon}</div>
-              <h3>{cat.name}</h3>
-              <p>{cat.desc}</p>
-            </a>
-          );
-        })}
-      </div>
-    </div>
-  </section>
-
   <!-- Featured Articles -->
   <section class="earticles" id="articles">
     <div class="ewrap">
       <div class="esec-head">
-        <div class="ekicker">最新词条</div>
-        <h2>資料組整理</h2>
+        <div class="ekicker">Latest Articles</div>
+        <h2>Recent ANU Guides</h2>
       </div>
       <div class="egrid">
         {featured.map((article) => (
           <a href={`/${article.slug}/`} class="epost">
             <div class="ethumb">
-              <img src={article.data.ogImage || 'https://images.pexels.com/photos/68704/pexels-photo-68704.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=600&q=60'} alt={article.data.title} loading="lazy" />
-              <span class="ecat">{catNames[article.data.category] || article.data.category}</span>
+              <img src={article.data.ogImage || DEFAULT_OG} alt={article.data.title} loading="lazy" />
+              <span class="ecat">{article.data.category}</span>
             </div>
             <div class="ebody">
               <h3>{article.data.title}</h3>
               <p>{article.data.description || ''}</p>
               <div class="emeta">
                 <time>{article.data.publishDate}</time>
-                {article.data.readingTime && (<><span class="edot"></span><span>{article.data.readingTime} 分钟</span></>)}
+                {article.data.readingTime && (<><span class="edot"></span><span>{article.data.readingTime} min</span></>)}
               </div>
             </div>
           </a>
         ))}
       </div>
-      <a href="/#articles" class="emore-link">查看全部词条 →</a>
+      <a href="/#articles" class="emore-link">View All Articles →</a>
     </div>
   </section>
 
@@ -136,9 +76,9 @@ const homeSchema = JSON.stringify({
   <section>
     <div class="ewrap">
       <div class="ecta-band" id="cta">
-        <h2>找不到想查的词条</h2>
-        <p>資料組持续扩充澳洲百科，也欢迎告诉我们你想了解什么。</p>
-        <a href="/#articles" class="ebtn ebtn-primary">浏览词条全集</a>
+        <h2>Can't find what you're looking for?</h2>
+        <p>Our team is continuously expanding the ANU Wiki. Let us know what topics you'd like to see.</p>
+        <a href="/#articles" class="ebtn ebtn-primary">Browse All Articles</a>
       </div>
     </div>
   </section>

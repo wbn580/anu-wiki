@@ -22,11 +22,6 @@ const {
 
 const siteUrl = 'https://anu.wiki';
 const slug = Astro.url.pathname;
-const catNames: Record<string, string> = {
-  geography: '地理', history: '历史', politics: '政治',
-  economy: '经济', education: '教育', culture: '文化',
-};
-const catName = catNames[category] || category;
 const articleSchema = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -36,11 +31,11 @@ const articleSchema = JSON.stringify({
   dateModified: publishDate,
   author: {
     '@type': 'Organization',
-    name: '澳洲百科 · UNILINK 研究案头',
+    name: 'ANU Wiki',
   },
   publisher: {
     '@type': 'Organization',
-    name: '澳洲百科',
+    name: 'ANU Wiki',
     url: siteUrl,
   },
   articleSection: category,
@@ -56,19 +51,19 @@ const articleSchema = JSON.stringify({
 >
   <article class="article-body">
     <nav class="breadcrumb">
-      <a href="/">首页</a> / <a href={`/category/${category}/`}>{catName}</a> / <span>{title}</span>
+      <a href="/">Home</a> / <a href={`/category/${category}/`}>{category}</a> / <span>{title}</span>
     </nav>
     <div class="prose">
       <h1>{title}</h1>
       <div class="meta">
         <time datetime={publishDate}>{new Date(publishDate).toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
-        {readingTime && <span>{readingTime} 分钟阅读</span>}
+        {readingTime && <span>{readingTime} min read</span>}
       </div>
       <slot />
     </div>
     <nav class="back-nav">
-      <a href="/">← 返回首页</a>
-      <a href={`/category/${category}/`}>更多{catName}文章 →</a>
+      <a href="/">← Back to Home</a>
+      <a href={`/category/${category}/`}>More in {category} →</a>
     </nav>
   </article>
 </BaseLayout>

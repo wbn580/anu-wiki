@@ -3,38 +3,40 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
-  return [
-    { params: { cat: 'geography' } },
-    { params: { cat: 'history' } },
-    { params: { cat: 'politics' } },
-    { params: { cat: 'economy' } },
-    { params: { cat: 'education' } },
-    { params: { cat: 'culture' } },
-  ];
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  // Collect unique categories with counts, sorted by count desc
+  const catCounts: Record<string, number> = {};
+  for (const a of articles) {
+    const c = a.data.category || 'general';
+    catCounts[c] = (catCounts[c] || 0) + 1;
+  }
+  // Return top categories (min 2 articles)
+  return Object.entries(catCounts)
+    .filter(([_, count]) => count >= 2)
+    .sort(([, a], [, b]) => b - a)
+    .slice(0, 12)
+    .map(([cat]) => ({ params: { cat } }));
 }
 
 const { cat } = Astro.params;
-const catNames: Record<string, string> = {
-  geography: '地理', history: '历史', politics: '政治',
-  economy: '经济', education: '教育', culture: '文化',
-};
-const catName = catNames[cat] || cat;
 
 const articles = await getCollection('articles', ({ data }) => data.category === cat && !data.draft);
 articles.sort((a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime());
+
+const catDisplay = cat;
 ---
 
 <BaseLayout
-  title={`${catName} · 澳洲百科`}
-  description={`澳洲百科 ${catName} 模块——全部条目按时间倒序排列。`}
+  title={`${catDisplay} · ANU Wiki`}
+  description={`ANU Wiki articles in "${catDisplay}" — ${articles.length} articles sorted by date.`}
 >
   <article class="article-body">
     <nav class="breadcrumb">
-      <a href="/">首页</a> / <span>{catName}</span>
+      <a href="/">Home</a> / <span>{catDisplay}</span>
     </nav>
     <div class="prose">
-      <h1>{catName}</h1>
-      <p>共 {articles.length} 篇</p>
+      <h1>{catDisplay}</h1>
+      <p>{articles.length} articles</p>
       <ul>
         {articles.map(article => (
           <li>
