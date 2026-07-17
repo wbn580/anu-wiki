@@ -7,7 +7,7 @@ description: Understand the critical ANU census dates for 2026, how they impact 
 author: Senior Education Editor
 tags: ["ANU", "census date", "enrolment", "fee liability", "academic administration"]
 slug: anu-census-dates-enrolment-guide-2026
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

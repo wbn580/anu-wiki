@@ -18,16 +18,15 @@ This is comparable to selective US public universities (UC Berkeley ~15%, UCLA ~
 
 Acceptance rates vary dramatically by program:
 
-| Program | Estimated Acceptance Rate |
-|---|---|
-| Bachelor of Philosophy (PhB) | 10–15% (limited places, holistic selection) |
-| Law (Honours) | 20–30% |
-| Medicine (MChD) | 6–8% (commonwealth-supported places, extremely competitive) |
-| Advanced Computing | 40–50% |
-| International Relations | 30–40% |
-| Commerce | 40–50% |
-| Science | 50–60% |
-| Arts | 55–65% |
+- **Bachelor of Philosophy (PhB)**: 10–15% (limited places, holistic selection)
+- **Law (Honours)**: 20–30%
+- **Medicine (MChD)**: 6–8% (commonwealth-supported places, extremely competitive)
+- **Advanced Computing**: 40–50%
+- **International Relations**: 30–40%
+- **Commerce**: 40–50%
+- **Science**: 50–60%
+- **Arts**: 55–65%
+
 
 ## Holistic Admissions Impact
 

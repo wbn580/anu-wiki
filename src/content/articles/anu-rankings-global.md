@@ -13,12 +13,11 @@ The Australian National University consistently ranks as Australia's #1 universi
 
 ### QS World University Rankings
 
-| Year | Global Rank | Australia Rank |
-|---|---|---|
-| 2026 | 31 | 1 |
-| 2025 | 30 | 1 |
-| 2024 | 34 | 1 |
-| 2023 | 30 | 1 |
+- **2026**: 31 · 1
+- **2025**: 30 · 1
+- **2024**: 34 · 1
+- **2023**: 30 · 1
+
 
 ANU has held the #1 position in Australia for over a decade in the QS rankings, though the gap with the University of Melbourne and University of Sydney has narrowed.
 
@@ -28,20 +27,18 @@ ANU's strongest QS pillar: Academic Reputation (scores in the 98th–99th percen
 
 ### Times Higher Education (THE) World University Rankings
 
-| Year | Global Rank |
-|---|---|
-| 2026 | 67 |
-| 2025 | 62 |
-| 2024 | 59 |
+- **2026**: 67
+- **2025**: 62
+- **2024**: 59
+
 
 ANU's THE ranking is lower than its QS ranking, partly reflecting THE's heavier emphasis on teaching metrics and industry income, areas where larger comprehensive universities have natural advantages.
 
 ### Academic Ranking of World Universities (ARWU / Shanghai)
 
-| Year | Global Rank |
-|---|---|
-| 2025 | 77 |
-| 2024 | 84 |
+- **2025**: 77
+- **2024**: 84
+
 
 ARWU is heavily weighted toward research output (Nobel Prizes, Fields Medals, highly cited researchers, Nature/Science publications). ANU's steady ranking reflects its strong but non-dominant research profile relative to the world's largest research universities.
 

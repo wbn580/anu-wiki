@@ -7,7 +7,7 @@ description: Master the ANU ISIS student portal with our comprehensive guide. Le
 author: StudyAbroad Editorial Team
 tags: ["ANU ISIS", "student portal", "enrolment system", "check grades", "update details"]
 slug: anu-isis-system-guide
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

@@ -7,7 +7,7 @@ description: A step-by-step guide to transferring credits to the Australian Nati
 author: Senior Academic Editor
 tags: ["ANU credit transfer", "recognition of prior learning", "advanced standing", "transfer credits", "study plan impact"]
 slug: transfer-credits-to-anu-australian-overseas-university
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

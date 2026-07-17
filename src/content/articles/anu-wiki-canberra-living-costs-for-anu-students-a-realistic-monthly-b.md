@@ -7,7 +7,7 @@ description: A comprehensive guide to monthly living costs for ANU students in 2
 author: Study Abroad Editor
 tags: ["Finance", "Living Costs", "ANU", "Canberra", "Student Budget"]
 slug: canberra-living-costs-anu-student-budget-2026
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

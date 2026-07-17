@@ -8,6 +8,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "postbuild": "python3 ../../cowork-cloud-tools/scripts/owner_fingerprint_gate.py --site anu-wiki --dist dist",
     "preview": "astro preview",
     "astro": "astro"
   },

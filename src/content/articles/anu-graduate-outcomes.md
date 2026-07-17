@@ -19,15 +19,14 @@ ANU's employment rates are solidly above average, though not dramatically above 
 
 ## Median Salaries by Discipline (2025)
 
-| Discipline | Median Starting Salary (AUD) |
-|---|---|
-| Medicine | $80,000+ |
-| Computer Science / IT | $68,000–75,000 |
-| Engineering | $66,000–72,000 |
-| Law (practising) | $62,000–70,000 |
-| Commerce / Economics | $60,000–68,000 |
-| Science | $55,000–62,000 |
-| Arts / Social Sciences | $52,000–60,000 |
+- **Medicine**: $80,000+
+- **Computer Science / IT**: $68,000–75,000
+- **Engineering**: $66,000–72,000
+- **Law (practising)**: $62,000–70,000
+- **Commerce / Economics**: $60,000–68,000
+- **Science**: $55,000–62,000
+- **Arts / Social Sciences**: $52,000–60,000
+
 
 The gap between top and bottom is driven by the public sector salary structure: APS (Australian Public Service) graduate programme starting salaries typically fall in the $65,000–$72,000 range, which pulls up arts/science graduate salaries relative to other universities.
 

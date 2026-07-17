@@ -7,7 +7,7 @@ description: Master your ANU exam preparation with proven strategies for accessi
 author: StudyAbroad Editorial Team
 tags: ["ANU exam preparation", "past papers", "study spaces", "revision tips", "exam venues"]
 slug: anu-exam-preparation-past-papers-study-spaces-revision-strategies
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

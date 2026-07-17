@@ -71,14 +71,13 @@ Students representing Australia in recognised sporting competitions or those wit
 
 Meeting the **ANU special exam evidence requirements** means understanding what each category demands. The following table summarises the key evidence types required for common deferral applications:
 
-| Ground for Deferral | Required Evidence | Common Pitfalls |
-|---|---|---|
-| Medical (physical illness) | Medical certificate with specific dates and clinical opinion | Certificate lacking practitioner's independent assessment |
-| Medical (mental health) | Letter from psychologist, psychiatrist, or GP with mental health treatment history | Generic stress or exam anxiety without clinical diagnosis |
-| Bereavement | Death certificate, funeral notice, or statutory declaration | Insufficient detail on relationship to deceased |
-| Personal trauma | Police report, counsellor letter, or statutory declaration | Delayed reporting without explanation |
-| Technical failure | Screenshots, error logs, IT Services confirmation | No timestamped evidence |
-| Elite sport / ADF | Official letter from organisation with dates | Letter not on official letterhead |
+- **Medical (physical illness)**: Medical certificate with specific dates and clinical opinion · Certificate lacking practitioner's independent assessment
+- **Medical (mental health)**: Letter from psychologist, psychiatrist, or GP with mental health treatment history · Generic stress or exam anxiety without clinical diagnosis
+- **Bereavement**: Death certificate, funeral notice, or statutory declaration · Insufficient detail on relationship to deceased
+- **Personal trauma**: Police report, counsellor letter, or statutory declaration · Delayed reporting without explanation
+- **Technical failure**: Screenshots, error logs, IT Services confirmation · No timestamped evidence
+- **Elite sport / ADF**: Official letter from organisation with dates · Letter not on official letterhead
+
 
 **Statutory declarations** are accepted for most non-medical grounds but carry less weight than third-party documentation. If you rely on a statutory declaration, it must be detailed, specific about dates and impacts, and ideally supported by at least one additional piece of corroborating evidence.
 

@@ -7,7 +7,7 @@ description: Master the ANU accommodation application process with this comprehe
 author: Senior Education Editor
 tags: ["ANU accommodation", "international student housing", "Australian National University", "student residence", "Canberra rental"]
 slug: anu-accommodation-application-guide-international-students
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

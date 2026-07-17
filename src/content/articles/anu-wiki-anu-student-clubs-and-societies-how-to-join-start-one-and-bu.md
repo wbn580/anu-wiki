@@ -7,7 +7,7 @@ description: Discover the vibrant world of ANU student clubs and societies. Lear
 author: StudyAbroad Editor
 tags: ["ANU student clubs", "societies", "ANUSA", "club registration", "student network"]
 slug: anu-student-clubs-societies-guide
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

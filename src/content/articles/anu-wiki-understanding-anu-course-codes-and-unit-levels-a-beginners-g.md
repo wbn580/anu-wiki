@@ -7,7 +7,7 @@ description: Decode ANU course codes and unit levels with this comprehensive gui
 author: Academic Insights
 tags: ["ANU course codes", "unit levels", "course numbering", "degree planning", "academic structure"]
 slug: understanding-anu-course-codes-unit-levels
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

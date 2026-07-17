@@ -41,12 +41,11 @@ Late payments are the most frequent financial issue reported by ANU students, wi
 
 Choosing the right payment method depends on your location, bank access, and urgency. The table below summarizes the key differences for 2026:
 
-| Payment Method | Processing Time | Fees | Best For |
-|----------------|-----------------|------|----------|
-| BPAY | 1–3 business days | None from ANU | Domestic students with Australian bank accounts |
-| Convera Bank Transfer | 3–5 business days | ~AUD 15 + exchange margin | International students seeking competitive FX rates |
-| Convera Credit Card | 2–3 business days | 2.5% of transaction | Urgent international payments |
-| Direct Deposit (Australian banks) | 1–2 business days | None | Domestic students who prefer in-branch transactions |
+- **BPAY**: 1–3 business days · None from ANU · Domestic students with Australian bank accounts
+- **Convera Bank Transfer**: 3–5 business days · ~AUD 15 + exchange margin · International students seeking competitive FX rates
+- **Convera Credit Card**: 2–3 business days · 2.5% of transaction · Urgent international payments
+- **Direct Deposit (Australian banks)**: 1–2 business days · None · Domestic students who prefer in-branch transactions
+
 
 For domestic students, **ANU BPAY tuition fee** payments are almost always the most efficient and cost-effective choice. International students should weigh the speed of credit card payments against the lower cost of bank transfers through the **ANU Convera payment guide**. Those on a tight budget benefit most from the **ANU instalment plan payment**, which reduces the immediate financial burden regardless of the payment channel. Always confirm your bank’s daily transfer limits before committing to a large transaction, as some institutions cap transfers at AUD 25,000 unless you request an increase in advance.
 

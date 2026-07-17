@@ -7,7 +7,7 @@ description: Master the ANU timetable building process with our comprehensive gu
 author: Senior Academic Editor
 tags: ["ANU timetable", "class registration", "myTimetable", "timetable clash", "preference entry"]
 slug: anu-timetable-clash-resolution-preference-entry
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

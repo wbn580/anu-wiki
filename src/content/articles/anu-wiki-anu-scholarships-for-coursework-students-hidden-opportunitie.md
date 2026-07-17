@@ -7,7 +7,7 @@ description: Discover lesser-known ANU scholarships for coursework students that
 author: Senior Education Editor
 tags: ["ANU scholarships coursework", "lesser-known scholarships", "eligibility tips", "application strategy", "financial aid"]
 slug: anu-scholarships-coursework-hidden-opportunities
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

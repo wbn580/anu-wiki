@@ -12,14 +12,13 @@ Canberra is more affordable than Sydney or Melbourne for students, but costs are
 
 ### International Undergraduate Students
 
-| Discipline | Annual Tuition (AUD) |
-|---|---|
-| Arts, Humanities, Social Sciences | $43,000–$45,000 |
-| Business, Commerce, Economics | $45,000–$48,000 |
-| Law (LLB) | $48,000–$50,000 |
-| Science | $47,000–$50,000 |
-| Engineering, Computing | $49,000–$52,000 |
-| Medicine (MChD) | Approx. $75,000–$80,000 |
+- **Arts, Humanities, Social Sciences**: $43,000–$45,000
+- **Business, Commerce, Economics**: $45,000–$48,000
+- **Law (LLB)**: $48,000–$50,000
+- **Science**: $47,000–$50,000
+- **Engineering, Computing**: $49,000–$52,000
+- **Medicine (MChD)**: Approx. $75,000–$80,000
+
 
 Range reflects variation by specific program. Check ANU Programs and Courses for exact fees.
 
@@ -36,12 +35,11 @@ HELP loans (HECS-HELP) cover the student contribution. No upfront payment requir
 
 ### On-Campus (Residential Colleges and Halls)
 
-| Accommodation Type | Weekly Cost (AUD) | Includes |
-|---|---|---|
-| Catered colleges (Burgmann, John XXIII, Ursula Hall) | $400–$550 | Room + 3 meals/day + utilities |
-| Self-catered halls (Burton & Garran, Fenner, Wamburun) | $250–$400 | Room + utilities (kitchen shared) |
-| UniLodge @ ANU | $280–$450 | Room + utilities + facilities |
-| Davey Lodge / Lena Karmel Lodge | $280–$420 | Room + utilities + facilities |
+- **Catered colleges (Burgmann, John XXIII, Ursula Hall)**: $400–$550 · Room + 3 meals/day + utilities
+- **Self-catered halls (Burton & Garran, Fenner, Wamburun)**: $250–$400 · Room + utilities (kitchen shared)
+- **UniLodge @ ANU**: $280–$450 · Room + utilities + facilities
+- **Davey Lodge / Lena Karmel Lodge**: $280–$420 · Room + utilities + facilities
+
 
 ### Off-Campus Shared Housing
 
@@ -51,15 +49,14 @@ HELP loans (HECS-HELP) cover the student contribution. No upfront payment requir
 
 ## Living Expenses (Weekly Budget)
 
-| Expense | Typical Weekly Cost (AUD) |
-|---|---|
-| Accommodation (see above) | $250–$500 |
-| Food (if self-catered) | $80–$150 |
-| Utilities (electricity, gas, internet) | $30–$50 |
-| Transport | $20–$40 |
-| Phone plan | $10–$25 |
-| Entertainment, social | $50–$100 |
-| Health insurance (OSHC for international students) | $10–$15 |
+- **Accommodation (see above)**: $250–$500
+- **Food (if self-catered)**: $80–$150
+- **Utilities (electricity, gas, internet)**: $30–$50
+- **Transport**: $20–$40
+- **Phone plan**: $10–$25
+- **Entertainment, social**: $50–$100
+- **Health insurance (OSHC for international students)**: $10–$15
+
 
 **Total weekly budget (self-catered, shared housing)**: ~$450–$650
 **Total weekly budget (catered college)**: ~$500–$700

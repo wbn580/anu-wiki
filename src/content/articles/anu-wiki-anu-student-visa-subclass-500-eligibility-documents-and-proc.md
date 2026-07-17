@@ -7,7 +7,7 @@ description: A comprehensive guide to the Student Visa Subclass 500 for Australi
 author: Senior Education Editor
 tags: ["student visa subclass 500", "ANU visa requirements", "GS Statement", "OSHC", "visa processing time"]
 slug: anu-student-visa-subclass-500-guide
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

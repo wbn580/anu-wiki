@@ -37,15 +37,14 @@ ANU's campus is notably green: over 10,000 trees cover the grounds, and the univ
 
 Following a major restructure in the 2000s, ANU consolidated its research schools into seven colleges:
 
-| College | Key Research Strengths |
-|---|---|
-| Arts & Social Sciences | History, philosophy, political science, IR |
-| Asia & the Pacific | Asia-Pacific studies, strategic studies, diplomacy |
-| Business & Economics | Economics, finance, public policy |
-| Engineering, Computing & Cybernetics | Systems engineering, computer science, 3A Institute |
-| Health & Medicine | Medical research, psychology, population health |
-| Law | Public law, international law, environmental law |
-| Science | Physics, biology, mathematics, earth sciences |
+- **Arts & Social Sciences**: History, philosophy, political science, IR
+- **Asia & the Pacific**: Asia-Pacific studies, strategic studies, diplomacy
+- **Business & Economics**: Economics, finance, public policy
+- **Engineering, Computing & Cybernetics**: Systems engineering, computer science, 3A Institute
+- **Health & Medicine**: Medical research, psychology, population health
+- **Law**: Public law, international law, environmental law
+- **Science**: Physics, biology, mathematics, earth sciences
+
 
 The **Crawford School of Public Policy** (within the College of Asia & the Pacific) is one of the world's leading public policy schools, particularly strong in Asia-Pacific governance. The **3A Institute** (Autonomy, Agency, and Assurance), founded by Distinguished Professor Genevieve Bell in 2017, represents ANU's bet on cyber-physical systems as a new branch of engineering.
 

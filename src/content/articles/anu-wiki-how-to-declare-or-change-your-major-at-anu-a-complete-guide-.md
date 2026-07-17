@@ -7,7 +7,7 @@ description: Master the process of declaring or changing your major at the Austr
 author: Study Abroad Editorial Team
 tags: ["ANU change major", "program variation", "degree structure", "major declaration", "academic plan"]
 slug: anu-declare-change-major-program-variation-guide
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

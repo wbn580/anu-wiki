@@ -23,13 +23,12 @@ The flagship scholarship for international undergraduates and postgraduates:
 
 Each academic college offers targeted scholarships:
 
-| College | Key Scholarship | Value |
-|---|---|---|
-| CBE | CBE International Merit Scholarship | 50% tuition reduction |
-| CECC | CECC International Scholarship | 50% tuition reduction |
-| CAP | CAP International Scholarship | 25–50% tuition reduction |
-| Science | ANU Science International Scholarship | 25% tuition reduction |
-| Law | ANU Law International Merit Scholarship | 50% tuition reduction |
+- **CBE**: CBE International Merit Scholarship · 50% tuition reduction
+- **CECC**: CECC International Scholarship · 50% tuition reduction
+- **CAP**: CAP International Scholarship · 25–50% tuition reduction
+- **Science**: ANU Science International Scholarship · 25% tuition reduction
+- **Law**: ANU Law International Merit Scholarship · 50% tuition reduction
+
 
 ### Australia Awards Scholarship (AAS)
 

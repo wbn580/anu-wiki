@@ -11,12 +11,11 @@ International students choosing between Australia's top universities — ANU (Ca
 
 ## Rankings Snapshot
 
-| | ANU | Melbourne | Sydney |
-|---|---|---|---|
-| QS 2026 | 31 (#1 AU) | 33 (#2) | 41 (#3) |
-| THE 2026 | 67 | 37 | 61 |
-| ARWU 2025 | 77 | 35 | 73 |
-| QS Employability | 79 | 8 | 4 |
+- **QS 2026**: 31 (#1 AU) · 33 (#2) · 41 (#3)
+- **THE 2026**: 67 · 37 · 61
+- **ARWU 2025**: 77 · 35 · 73
+- **QS Employability**: 79 · 8 · 4
+
 
 ## The Melbourne Model Difference
 
@@ -29,14 +28,13 @@ Melbourne uses the **Melbourne Model**: undergraduates complete a broad bachelor
 
 ## Location
 
-| | ANU (Canberra) | Melbourne | Sydney |
-|---|---|---|---|
-| City size | 450K | 5.2M | 5.4M |
-| Campus location | CBD (integrated) | Parkville (inner suburb) | Camperdown (inner city) |
-| Cost of living (weekly) | A$450–650 | A$500–700 | A$550–800 |
-| Part-time job availability | Moderate | High | High |
-| Nightlife/social | Modest | Excellent (Melbourne culture) | Excellent |
-| Weather | Cold winter (-5°C to 12°C), warm summer | Variable, "four seasons in a day" | Warm (8°C to 26°C) |
+- **City size**: 450K · 5.2M · 5.4M
+- **Campus location**: CBD (integrated) · Parkville (inner suburb) · Camperdown (inner city)
+- **Cost of living (weekly)**: A$450–650 · A$500–700 · A$550–800
+- **Part-time job availability**: Moderate · High · High
+- **Nightlife/social**: Modest · Excellent (Melbourne culture) · Excellent
+- **Weather**: Cold winter (-5°C to 12°C), warm summer · Variable, "four seasons in a day" · Warm (8°C to 26°C)
+
 
 ## Student Experience
 

@@ -64,14 +64,13 @@ This creates an economic incentive to guide you toward programs that end in enro
 
 ## Free Consultation vs. Going It Alone: An ANU Applicant’s Trade-Off Table
 
-| Factor | Free Agent Consultation | DIY ANU Application |
-|--------|------------------------|---------------------|
-| Cost | $0 upfront | ANU application fee (AU$110) + your time |
-| Information source | Agent + university portals | ANU website, admissions team, external forums |
-| Speed of document assessment | Agent checks before submission | You proof your own documents |
-| Migration advice | Included if agent holds MARN (Migration Agents Registration Number) or works with a registered migration agent | You must find independently |
-| Bias risk | Agent may steer toward higher-commission programs or universities | Bias comes from your own blind spots |
-| Best for | Complex profiles, border-line grades, GTE concerns | Strong match between your profile and published ANU requirements |
+- **Cost**: $0 upfront · ANU application fee (AU$110) + your time
+- **Information source**: Agent + university portals · ANU website, admissions team, external forums
+- **Speed of document assessment**: Agent checks before submission · You proof your own documents
+- **Migration advice**: Included if agent holds MARN (Migration Agents Registration Number) or works with a registered migration agent · You must find independently
+- **Bias risk**: Agent may steer toward higher-commission programs or universities · Bias comes from your own blind spots
+- **Best for**: Complex profiles, border-line grades, GTE concerns · Strong match between your profile and published ANU requirements
+
 
 For many ANU applicants, the optimal approach is a hybrid: attend one **free Australian education agent consultation** from an ANU-authorised agent, capture all the procedural tips, then submit the application yourself if you feel confident. You keep full control while benefiting from expert input — and you never pay a dollar for the advice.
 

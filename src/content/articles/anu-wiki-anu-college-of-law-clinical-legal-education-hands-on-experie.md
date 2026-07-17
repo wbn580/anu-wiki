@@ -7,7 +7,7 @@ description: Explore ANU clinical legal education programs that blend rigorous a
 author: 留学领域资深编辑
 tags: ["anu clinical legal education", "anu law clinic", "anu practical legal training", "anu community lawyering", "Australian legal education"]
 slug: anu-clinical-legal-education-community-lawyering
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

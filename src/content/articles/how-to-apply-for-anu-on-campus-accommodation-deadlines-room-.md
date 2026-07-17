@@ -35,23 +35,21 @@ Calculating **ANU on-campus housing costs for international students** requires 
 
 ### Fully Catered Residential Colleges (43-week contract)
 
-| College | Weekly Rate | Annual Total | Meal Plan |
-|---------|------------|--------------|-----------|
-| Bruce Hall | $525 | $22,575 | 21 meals/week |
-| Burgmann College | $540 | $23,220 | 21 meals/week |
-| John XXIII College | $505 | $21,715 | 21 meals/week |
-| Ursula Hall | $515 | $22,145 | 21 meals/week |
-| Wright Hall | $510 | $21,930 | 21 meals/week |
+- **Bruce Hall**: $525 · $22,575 · 21 meals/week
+- **Burgmann College**: $540 · $23,220 · 21 meals/week
+- **John XXIII College**: $505 · $21,715 · 21 meals/week
+- **Ursula Hall**: $515 · $22,145 · 21 meals/week
+- **Wright Hall**: $510 · $21,930 · 21 meals/week
+
 
 ### Self-Catered Lodges (48-week contract)
 
-| Lodge | Weekly Rate | Annual Total | Room Type |
-|-------|------------|--------------|-----------|
-| Davey Lodge | $345 | $16,560 | Standard single |
-| Kinloch Lodge | $355 | $17,040 | Standard single |
-| Warrumbul Lodge | $350 | $16,800 | Standard single |
-| Lena Karmel Lodge | $420 | $20,160 | Studio apartment |
-| SA5 Lodge | $435 | $20,880 | Studio apartment |
+- **Davey Lodge**: $345 · $16,560 · Standard single
+- **Kinloch Lodge**: $355 · $17,040 · Standard single
+- **Warrumbul Lodge**: $350 · $16,800 · Standard single
+- **Lena Karmel Lodge**: $420 · $20,160 · Studio apartment
+- **SA5 Lodge**: $435 · $20,880 · Studio apartment
+
 
 The **ANU lodge vs hall comparison** reveals a counterintuitive cost dynamic: while lodges appear cheaper on a weekly basis, their 48-week contracts mean the annual outlay for a studio at Lena Karmel Lodge ($20,160) approaches that of a fully catered hall like Wright Hall ($21,930). International students must also budget for a **$500 security deposit** (refundable) and a **$150 activities fee** charged by most residential colleges. Some colleges, including **Burgmann College**, charge an additional **$300 annual building levy** for capital maintenance.
 

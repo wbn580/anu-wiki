@@ -67,11 +67,10 @@ Graduates who completed studies at the **ANU College of Law** or **ANU Medical S
 
 ANU reviews transcript fees annually, with the 2026 schedule effective from January 1, 2026. Understanding current costs helps you budget accurately and select appropriate shipping options.
 
-| Document Type | Digital Only | Digital + Hard Copy | Priority Processing |
-|---------------|--------------|---------------------|---------------------|
-| Standard Transcript | AUD 35 | AUD 50 | + AUD 25 |
-| AHEGS (standalone) | AUD 20 | AUD 35 | + AUD 25 |
-| Interim Transcript | AUD 30 | Not available | + AUD 25 |
+- **Standard Transcript**: AUD 35 · AUD 50 · + AUD 25
+- **AHEGS (standalone)**: AUD 20 · AUD 35 · + AUD 25
+- **Interim Transcript**: AUD 30 · Not available · + AUD 25
+
 
 **Payment methods** include all major credit and debit cards processed through the ANU secure payment gateway. International students and graduates should verify that their card permits overseas transactions before initiating payment. BPAY remains available for domestic Australian bank account holders, though processing adds 1 to 2 business days to the overall timeline.
 

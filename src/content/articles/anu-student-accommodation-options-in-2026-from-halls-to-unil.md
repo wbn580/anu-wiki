@@ -45,13 +45,12 @@ Meeting the **ANU housing application timeline** is non-negotiable if you want a
 
 Budgeting accurately for your **ANU student rent cost** helps avoid financial stress during the academic year. The table below summarizes the average weekly costs for each accommodation type in 2026, based on ANU Accommodation Services figures and ACT market data.
 
-| Accommodation Type | Weekly Rent (2026) | Meals Included? | Utilities Included? |
-| :--- | :---: | :---: | :---: |
-| Catered Hall (Single Room) | $420 - $480 | Yes | Yes |
-| UniLodge Studio | $340 - $410 | No | Yes |
-| UniLodge Shared Apartment | $280 - $330 | No | Yes |
-| Off-Campus Share House | $250 - $340 | No | Usually no |
-| Off-Campus 1-Bed Apartment | $460 - $530 | No | No |
+- **Catered Hall (Single Room)**: $420 - $480 · Yes · Yes
+- **UniLodge Studio**: $340 - $410 · No · Yes
+- **UniLodge Shared Apartment**: $280 - $330 · No · Yes
+- **Off-Campus Share House**: $250 - $340 · No · Usually no
+- **Off-Campus 1-Bed Apartment**: $460 - $530 · No · No
+
 
 Beyond rent, factor in a one-time establishment cost of $1,000 to $2,000 for bond, bedding, kitchenware, and, for private rentals, whitegoods if the property is unfurnished. **ANU halls and UniLodge** do not require you to buy furniture, as rooms come with a bed, desk, chair, and wardrobe. International students should also budget for the Overseas Student Health Cover (OSHC) surcharge, which is separate from rent. Some colleges offer financial hardship bursaries that can reduce the effective rent by up to $1,500 per year, subject to an application and approval process.
 

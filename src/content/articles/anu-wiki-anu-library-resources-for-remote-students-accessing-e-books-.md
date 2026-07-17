@@ -7,7 +7,7 @@ description: A comprehensive guide to accessing ANU library resources for remote
 author: Study Abroad Editorial Team
 tags: ["ANU library remote access", "e-books", "digital databases", "off-campus study", "interlibrary loan"]
 slug: anu-library-resources-remote-students
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

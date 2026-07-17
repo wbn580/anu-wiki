@@ -23,14 +23,13 @@ The **ANU GPA calculation** converts your letter grades into numerical values on
 
 The **ANU grade scale** forms the foundation of all GPA calculations. Understanding this mapping is essential because even small differences in final marks can shift your grade point and affect your cumulative GPA. The table below outlines the standard ANU grade scale effective for the 2026 academic year.
 
-| Grade | Percentage Range | Grade Point | Description |
-|-------|------------------|-------------|-------------|
-| HD (High Distinction) | 80-100% | 7 | Outstanding work demonstrating deep understanding and originality |
-| D (Distinction) | 70-79% | 6 | Excellent work with comprehensive analysis |
-| CR (Credit) | 60-69% | 5 | Good work meeting all core requirements |
-| P (Pass) | 50-59% | 4 | Satisfactory completion of minimum requirements |
-| PS (Pass at Supplementary) | 50% | 4 | Pass awarded after supplementary assessment |
-| N (Fail) | 0-49% | 0 | Unsatisfactory performance |
+- **HD (High Distinction)**: 80-100% · 7 · Outstanding work demonstrating deep understanding and originality
+- **D (Distinction)**: 70-79% · 6 · Excellent work with comprehensive analysis
+- **CR (Credit)**: 60-69% · 5 · Good work meeting all core requirements
+- **P (Pass)**: 50-59% · 4 · Satisfactory completion of minimum requirements
+- **PS (Pass at Supplementary)**: 50% · 4 · Pass awarded after supplementary assessment
+- **N (Fail)**: 0-49% · 0 · Unsatisfactory performance
+
 
 **ANU also uses additional grade notations** that do not carry grade points and are excluded from GPA calculations. These include **CRS (Course Requirement Satisfied)** for courses completed on a pass/fail basis, **WD (Withdrawn Without Failure)** for courses dropped before the census date, and **PX (Offered Supplementary Assessment)** indicating a student has been granted a supplementary exam. Courses with a **WL (Withheld)** notation appear when results are pending due to administrative or academic integrity reviews. In 2026, ANU has clarified that **PX-graded courses** temporarily hold a zero grade point until the supplementary outcome is finalised, after which the grade updates to either PS or N.
 

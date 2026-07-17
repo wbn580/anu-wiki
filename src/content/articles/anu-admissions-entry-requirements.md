@@ -18,15 +18,14 @@ Unlike other Australian universities, ANU does not participate in the standard s
 
 ANU's ATAR cutoffs vary by program but are generally the highest in Australia for equivalent degrees:
 
-| Program Area | Approximate ATAR Requirement |
-|---|---|
-| Law (LLB) | 98+ |
-| Philosophy, Politics & Economics (PPE) | 98+ |
-| International Security Studies | 95+ |
-| Advanced Computing | 90-95 |
-| Science (Advanced) (Honours) | 95+ |
-| Arts | 80-85 |
-| Business Administration | 85-90 |
+- **Law (LLB)**: 98+
+- **Philosophy, Politics & Economics (PPE)**: 98+
+- **International Security Studies**: 95+
+- **Advanced Computing**: 90-95
+- **Science (Advanced) (Honours)**: 95+
+- **Arts**: 80-85
+- **Business Administration**: 85-90
+
 
 ANU assesses ATAR requirements as part of a holistic selection process. The university considers not just raw ATAR but also subject prerequisites, personal statements, and co-curricular activities. ANU was one of the first Australian universities to adopt a holistic admissions model, introduced in 2020.
 
@@ -65,34 +64,31 @@ ANU accepts IB Diploma scores, with competitive entry typically requiring:
 
 ANU accepts qualifications from most international education systems:
 
-| Country | Accepted Qualification | Typical Requirement |
-|---|---|---|
-| China | Gaokao | 525-675/750 depending on program |
-| India | CBSE/ISC Class XII | 85-95% aggregate |
-| Singapore | GCE A-Levels | AAA-ABB |
-| Malaysia | STPM / UEC | CGPA 3.0-3.5 / A1-B3 |
-| US | SAT/ACT + High School Diploma | SAT 1400+ / ACT 30+ |
-| UK | GCE A-Levels | A*AA-ABB |
+- **China**: Gaokao · 525-675/750 depending on program
+- **India**: CBSE/ISC Class XII · 85-95% aggregate
+- **Singapore**: GCE A-Levels · AAA-ABB
+- **Malaysia**: STPM / UEC · CGPA 3.0-3.5 / A1-B3
+- **US**: SAT/ACT + High School Diploma · SAT 1400+ / ACT 30+
+- **UK**: GCE A-Levels · A*AA-ABB
+
 
 ### English Language Requirements
 
 ANU requires demonstrable English proficiency. Accepted tests and minimum scores:
 
-| Test | Standard | Some Programs (Law, Medicine) |
-|---|---|---|
-| IELTS Academic | 6.5 overall (6.0 each band) | 7.0 overall (6.5 each band) |
-| TOEFL iBT | 80 (20 writing, 18 other) | 100 (24 writing) |
-| PTE Academic | 64 (55 each skill) | 70 (58 each skill) |
-| Cambridge C1 Advanced | 176 (169 each) | 185 (176 each) |
+- **IELTS Academic**: 6.5 overall (6.0 each band) · 7.0 overall (6.5 each band)
+- **TOEFL iBT**: 80 (20 writing, 18 other) · 100 (24 writing)
+- **PTE Academic**: 64 (55 each skill) · 70 (58 each skill)
+- **Cambridge C1 Advanced**: 176 (169 each) · 185 (176 each)
+
 
 ANU also accepts completion of Australian Year 12 English, IB English, or certain international qualifications taught entirely in English as satisfying the language requirement.
 
 ### Application Deadlines for International Students
 
-| Semester | Application Deadline |
-|---|---|
-| Semester 1 (February) | 15 December |
-| Semester 2 (July) | 31 May |
+- **Semester 1 (February)**: 15 December
+- **Semester 2 (July)**: 31 May
+
 
 Some programs (Medicine, some Law double degrees) only accept Semester 1 entry.
 

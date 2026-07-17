@@ -7,7 +7,7 @@ description: Navigate ANU Orientation Week with confidence. This survival guide 
 author: StudyAbroad Editorial Team
 tags: ["ANU orientation week", "first-year international student", "settling in Canberra", "campus tour", "orientation events"]
 slug: anu-orientation-week-survival-guide-first-year-international-students
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 

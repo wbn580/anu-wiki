@@ -20,15 +20,14 @@ Canberra is a planned city — designed by Walter Burley Griffin in 1913 — and
 
 ## Student Suburbs
 
-| Suburb | Distance to ANU | Shared Room (per week) |
-|---|---|---|
-| Turner | 5 min walk | $240–300 |
-| Braddon | 10 min walk | $230–290 |
-| Acton | On campus | Campus accommodation |
-| O'Connor | 10 min walk | $220–280 |
-| Reid | 10 min walk | $230–280 |
-| Belconnen | 15 min bus | $180–230 |
-| Dickson | 20 min walk/5 min bus | $190–250 |
+- **Turner**: 5 min walk · $240–300
+- **Braddon**: 10 min walk · $230–290
+- **Acton**: On campus · Campus accommodation
+- **O'Connor**: 10 min walk · $220–280
+- **Reid**: 10 min walk · $230–280
+- **Belconnen**: 15 min bus · $180–230
+- **Dickson**: 20 min walk/5 min bus · $190–250
+
 
 Turner and Braddon are the most popular and most expensive — closest to campus and to Braddon's restaurant/bar strip.
 

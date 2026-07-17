@@ -7,7 +7,7 @@ description: Master the ANU research proposal with this comprehensive guide cove
 author: Senior Research Editor
 tags: ["ANU research proposal", "supervisor matching", "graduate research application", "proposal format", "HDR application"]
 slug: anu-research-proposal-writing-format-expectations-supervisor-matching
-ogImage: /img/og/待配.jpg
+ogImage: /og-image.jpg
 
 ---
 
