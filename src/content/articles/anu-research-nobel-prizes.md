@@ -4,6 +4,9 @@ description: "ANU's research achievements — Nobel laureates, major discoveries
 category: "education"
 publishDate: "2026-05-15T07:20:00Z"
 
+
+tags:
+  - "education"
 ---
 
 ANU is Australia's only university created by an Act of Federal Parliament (1946) with an explicit research mandate. Its research intensity — measured by the proportion of staff engaged in research, citations per faculty, and research income per academic — is the highest in Australia.

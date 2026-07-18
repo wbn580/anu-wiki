@@ -4,6 +4,9 @@ description: "A detailed guide to ANU's 10 residential colleges and halls — ca
 category: "culture"
 publishDate: "2026-05-15T07:25:00Z"
 
+
+tags:
+  - "culture"
 ---
 
 ANU has one of Australia's most developed residential college systems, with approximately 5,000 students living in 10 affiliated colleges and halls on or near campus.

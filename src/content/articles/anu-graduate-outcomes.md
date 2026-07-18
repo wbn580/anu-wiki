@@ -4,6 +4,9 @@ description: "ANU graduate employment outcomes — salary data by discipline, em
 category: "education"
 publishDate: "2026-05-15T07:20:00Z"
 
+
+tags:
+  - "education"
 ---
 
 ANU graduates consistently record strong employment outcomes, with Canberra's concentration of government, research, and policy employers providing distinctive career pathways. This article analyses data from the QILT Graduate Outcomes Survey and ANU's own destination data.

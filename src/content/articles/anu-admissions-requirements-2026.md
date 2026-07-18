@@ -4,6 +4,9 @@ description: "ANU admission requirements for domestic and international students
 category: "education"
 publishDate: "2026-05-15T07:20:00Z"
 
+
+tags:
+  - "education"
 ---
 
 ANU has a unique admissions process in Australia — the most selective university for domestic admissions and one of the most flexible for international admissions. This article covers entry requirements for both cohorts.

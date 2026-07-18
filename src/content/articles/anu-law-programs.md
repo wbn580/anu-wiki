@@ -4,6 +4,9 @@ description: "ANU Law programs — the LLB (Honours), Juris Doctor (JD), and spe
 category: "education"
 publishDate: "2026-05-15T07:25:00Z"
 
+
+tags:
+  - "education"
 ---
 ANU College of Law is Australia's #1 ranked law school (QS subject rankings) and the national law school — deeply connected to the Australian Government, High Court, and parliamentary system.
 

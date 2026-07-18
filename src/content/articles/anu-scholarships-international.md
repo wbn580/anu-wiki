@@ -4,6 +4,9 @@ description: "All ANU scholarship options for international students — the ANU
 category: "education"
 publishDate: "2026-05-15T07:15:00Z"
 
+
+tags:
+  - "education"
 ---
 
 ANU offers a substantial scholarship programme for international students, with awards ranging from 25% to 100% tuition fee remission. This guide covers the major scholarship schemes, eligibility, and application strategy.

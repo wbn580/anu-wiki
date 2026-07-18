@@ -4,6 +4,9 @@ description: "A realistic breakdown of costs for ANU students — tuition fees b
 category: "education"
 publishDate: "2026-05-15T07:15:00Z"
 
+
+tags:
+  - "education"
 ---
 
 Canberra is more affordable than Sydney or Melbourne for students, but costs are not negligible. This article provides a detailed budget breakdown for ANU students. All figures in Australian dollars (AUD).

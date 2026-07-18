@@ -4,6 +4,9 @@ description: "The support services available to ANU international students — a
 category: "education"
 publishDate: "2026-05-15T07:20:00Z"
 
+
+tags:
+  - "education"
 ---
 
 ANU has one of Australia's most comprehensive international student support ecosystems. With approximately 8,500 international students from 130+ countries, the university invests significantly in dedicated international student services.

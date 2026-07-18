@@ -4,6 +4,9 @@ description: "ANU business programs — Bachelor of Commerce, Bachelor of Econom
 category: "education"
 publishDate: "2026-05-15T07:25:00Z"
 
+
+tags:
+  - "education"
 ---
 ANU College of Business and Economics (CBE) offers undergraduate and postgraduate programs with a strong quantitative and analytical emphasis. CBE's partnership with the Australian Treasury, Reserve Bank, and Productivity Commission provides distinctive policy-oriented career pathways.
 

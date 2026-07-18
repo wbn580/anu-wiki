@@ -5,6 +5,9 @@ category: "education"
 publishDate: "2026-05-15T07:15:00Z"
 hideFromHome: true
 
+
+tags:
+  - "education"
 ---
 
 The Australian National University consistently ranks as Australia's #1 university and among the world's top 50 institutions. This article analyses ANU's performance across the three major ranking systems and explains the methodology behind the numbers.

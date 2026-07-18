@@ -4,6 +4,9 @@ description: "Practical guide to living in Canberra as an ANU student — public
 category: "culture"
 publishDate: "2026-05-15T07:25:00Z"
 
+
+tags:
+  - "culture"
 ---
 
 Canberra is a planned city — designed by Walter Burley Griffin in 1913 — and is consistently ranked among the world's most liveable cities. For students, it offers a safe, green, and navigable environment with lower living costs than Sydney or Melbourne.
