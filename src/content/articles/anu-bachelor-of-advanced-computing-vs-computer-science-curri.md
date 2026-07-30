@@ -6,7 +6,7 @@ category: 'general'
 description: A detailed comparison of ANU's Bachelor of Advanced Computing and Bachelor of Computer Science degrees, covering curriculum structures, specialisation options, industry accreditation, and career outcomes to help prospective students make an informed choice.
 author: cowork
 tags: ["anu advanced computing vs computer science", "anu computing degrees comparison", "anu computer science curriculum", "anu advanced computing careers", "australian computing education"]
-slug: anu-advanced-computing-vs-computer-science
+
 ogImage: ""
 hideFromHome: true
 

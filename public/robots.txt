@@ -16,4 +16,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://aus.wiki/sitemap-index.xml
+Sitemap: https://anu.wiki/sitemap-index.xml
