@@ -1,0 +1,14 @@
+{
+  "site": "anu-wiki",
+  "domain": "anu.wiki",
+  "articles": [
+    {
+      "slug": "anu-wiki-0866",
+      "title": "2027 年澳大利亚国立大学（The Australian National University）录取要求与学术背景参考",
+      "release_date": "2026-07-11",
+      "source": "workbuddy-bulk-repair-v1",
+      "source_sha256": "03eb6aad405e51dbea974554988052ef433d53d3907f1a574a4699361453000f"
+    }
+  ],
+  "generated_at": "2026-08-01T12:28:15Z"
+}
