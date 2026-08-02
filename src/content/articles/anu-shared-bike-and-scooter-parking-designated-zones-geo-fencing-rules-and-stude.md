@@ -7,6 +7,7 @@ publishDate: '2026-05-14T20:01:55Z'
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-shared-bike-and-scooter-parking-designated-zones-geo-fencing-rules-and-stude-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）自2024年起，在Acton主校区及周边区域全面推行共享单车与电动滑板车停放管理新规。根据ANU交通与停车办公室2024年发布的《校园微出行管理计划》，校园内已划定47个指定停车区，并启用基于GPS的电子围栏（Geo-Fencing）技术，违规停放将被处以每次25澳元的罚款。同期，堪培拉交通局（Transport Canberra）2023年数据显示，共享微出行工具在堪培拉的使用量同比增长37%，其中18-30岁用户占比超过62%。这一政策旨在平衡校园通行效率与公共空间秩序，对依赖共享单车/滑板车通勤的学生产生直接影响。

@@ -7,6 +7,7 @@ publishDate: '2026-03-05T19:48:14Z'
 readingTime: 17
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-研究生导师选择指南研究方向匹配与沟通频率-2026-1880x1253.jpg"
 ---
 
 ANU 研究生导师选择指南：研究方向匹配与沟通频率

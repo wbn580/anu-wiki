@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU’s sponsorship financial guarantee pr
 author: cowork
 tags: ["ANU sponsorship financial guarantee", "ANU international sponsored student tuition", "ANU stipend top-up procedure", "ANU external sponsor letter", "ANU fee extension for sponsored students"]
 slug: anu-international-sponsorship-financial-guarantees-tuition-stipend-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-international-sponsorship-students-and-financial-guarant-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: A comprehensive guide on transferring to the Australian National Un
 author: cowork
 tags: []
 slug: transfer-to-anu-from-another-australian-university
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-transfer-to-anu-from-another-australian-university-cr-2026-1880x1253.jpg"
 
 ---
 

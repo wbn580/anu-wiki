@@ -7,6 +7,7 @@ publishDate: "2026-05-15T07:20:00Z"
 
 tags:
   - "education"
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-acceptance-rate-2026-1880x1253.jpg"
 ---
 
 ANU is Australia's most selective university by most measures. Its acceptance rate reflects a combination of high entry requirements, a relatively small student body (20,000 students), and the holistic admissions process that considers factors beyond raw academic scores.

@@ -7,7 +7,7 @@ description: Explore the fieldwork placements, Questacon and CSIRO internship pa
 author: cowork
 tags: ["ANU science communication internship", "ANU Questacon placement", "ANU science media fieldwork", "ANU MScComm portfolio", "ANU CSIRO internship"]
 slug: anu-master-science-communication-fieldwork-internships-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-science-communication-fieldwork-science-media--2026-1880x1253.jpg"
 
 ---
 

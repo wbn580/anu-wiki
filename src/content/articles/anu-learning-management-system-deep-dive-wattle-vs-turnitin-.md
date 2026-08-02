@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU's core digital learning ecosystem. Exp
 author: cowork
 tags: ["ANU Wattle guide", "ANU Turnitin similarity", "ANU Echo360 lectures", "ANU online submission", "ANU LMS tools"]
 slug: anu-learning-management-system-deep-dive-wattle-turnitin-echo360
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-learning-management-system-deep-dive-wattle-vs-turnitin--2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

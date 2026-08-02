@@ -7,7 +7,7 @@ description: Understand the critical ANU census dates for 2026 and their direct 
 author: cowork
 tags: ["ANU census date 2026", "ANU enrolment census meaning", "ANU withdraw before census", "ANU fee census international", "ANU census visa impact"]
 slug: anu-census-dates-2026-enrolment-fees-visa
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-census-dates-2026-explained-how-they-affect-your-enrolme-2026-1880x1253.jpg"
 
 ---
 

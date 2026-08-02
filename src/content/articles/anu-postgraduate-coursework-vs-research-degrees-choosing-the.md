@@ -7,7 +7,7 @@ description: Explore the key differences between ANU coursework and research pos
 author: cowork
 tags: ["ANU postgraduate degrees", "coursework vs research masters", "ANU admission requirements", "Australian higher education", "career outcomes"]
 slug: anu-postgraduate-coursework-vs-research-degrees
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-postgraduate-coursework-vs-research-degrees-choosing-the-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -7,6 +7,7 @@ publishDate: '2026-04-11T19:55:41Z'
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-write-a-cold-email-for-anu-phd-applications-supervisor-matching-strategie-2026-1880x1254.jpg"
 ---
 
 ANU 每年收到超过 4,000 份博士申请，但录取率仅为约 15%（ANU 研究生研究办公室，2023 年《招生统计报告》）。在竞争激烈的申请流程中，**冷邮件（Cold Email）** 是联系潜在导师、建立初步关系的关键第一步。一封结构清晰、策略得当的邮件，能显著提升回复率并增加录取机会。根据《自然》期刊 2022 年的一项调查，约 70% 的博士申请者通过导师匹配而非公开项目获得录取。本文基于 ANU 各学院公开的导师信息、研究生入学指南以及学术写作规范，系统梳理冷邮件的撰写策略、导师匹配方法及研究计划书起草技巧，为申请者提供可操作的实操路径。

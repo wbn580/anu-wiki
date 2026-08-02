@@ -7,7 +7,7 @@ description: Compare the Australian National University's Master of Internationa
 author: cowork
 tags: ["ANU international relations vs strategic studies", "ANU MIR program", "ANU MSSD career paths", "ANU strategic studies core courses", "ANU international relations research project"]
 slug: anu-mir-vs-mssd-choosing-right-program
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-international-relations-vs-master-of-strategic-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

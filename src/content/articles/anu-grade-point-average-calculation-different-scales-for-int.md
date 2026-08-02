@@ -7,7 +7,7 @@ description: A comprehensive guide to how the Australian National University cal
 author: cowork
 tags: ["ANU GPA", "7 point scale", "academic transcript", "exchange grades", "honours applications"]
 slug: anu-gpa-calculation-scales-internal-external
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-grade-point-average-calculation-different-scales-for-int-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

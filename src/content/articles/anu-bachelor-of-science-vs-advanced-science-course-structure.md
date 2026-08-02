@@ -7,7 +7,7 @@ description: A detailed comparison of the ANU Bachelor of Science and Bachelor o
 author: cowork
 tags: ["ANU science degree comparison", "advanced science honours ANU", "research early entry science", "undergraduate science course structures", "Australian National University science"]
 slug: anu-bachelor-science-vs-advanced-science-course-structures-honours-research
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-science-vs-advanced-science-course-structure-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU OSHC coverage for international studen
 author: cowork
 tags: ["ANU OSHC coverage details", "ANU international student health insurance", "ANU OSHC claim rejection reasons", "ANU Allianz OSHC benefits", "ANU health cover for dependents"]
 slug: anu-student-oshc-coverage-explained-health-services-claim-rejections
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-oshc-coverage-explained-what-health-services-are-2026-1880x1253.jpg"
 
 ---
 

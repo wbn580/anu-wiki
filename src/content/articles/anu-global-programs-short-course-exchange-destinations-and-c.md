@@ -7,7 +7,7 @@ description: Discover how ANU short term global programs offer flexible credit-b
 author: cowork
 tags: ["ANU global programs", "short-term exchange", "credit transfer", "OS-HELP loan", "study abroad Australia"]
 slug: anu-global-programs-short-course-exchange-credit-mapping
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-global-programs-short-course-exchange-destinations-and-c-2026-1880x1253.jpg"
 
 ---
 

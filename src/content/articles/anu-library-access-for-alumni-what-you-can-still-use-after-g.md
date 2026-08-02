@@ -7,7 +7,7 @@ description: Discover the full scope of ANU library access for alumni after grad
 author: cowork
 tags: ["ANU alumni", "library access", "graduate resources", "Australian National University", "alumni benefits"]
 slug: anu-library-access-alumni-after-graduation
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-library-access-for-alumni-what-you-can-still-use-after-g-2026-1880x1253.jpg"
 
 ---
 

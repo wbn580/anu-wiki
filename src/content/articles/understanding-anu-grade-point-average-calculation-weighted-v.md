@@ -7,7 +7,7 @@ description: Master the intricacies of ANU GPA calculation with this comprehensi
 author: cowork
 tags: ["ANU GPA calculation", "ANU grading scale", "ANU academic transcript", "Australian university grades", "GPA conversion"]
 slug: anu-gpa-calculation-weighted-unweighted-rules
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/understanding-anu-grade-point-average-calculation-weighted-v-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

@@ -7,6 +7,7 @@ publishDate: '2026-03-26T19:52:38Z'
 readingTime: 13
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-国际学生成绩单官方翻译与公证办理-2026-1880x1253.jpg"
 ---
 
 ANU 国际学生成绩单官方翻译与公证办理

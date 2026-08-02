@@ -7,7 +7,7 @@ description: Navigate the Australian National University campus with ease using 
 author: cowork
 tags: ["ANU campus facilities", "ANU parking permits", "ANU shuttle bus", "ANU cycling", "Canberra transport"]
 slug: anu-parking-transport-guide-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-parking-and-transport-guide-permits-free-shuttle-and-bik-2026-1880x1246.jpg"
 
 ---
 

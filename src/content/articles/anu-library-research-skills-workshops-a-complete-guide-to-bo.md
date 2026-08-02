@@ -7,7 +7,7 @@ description: Discover the full range of ANU Library research skills workshops fo
 author: cowork
 tags: ["ANU library research workshops", "ANU EndNote training", "ANU research data management", "ANU systematic review workshop", "Australian National University research skills"]
 slug: anu-library-research-skills-workshops-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-library-research-skills-workshops-a-complete-guide-to-bo-2026-1880x1253.jpg"
 
 ---
 

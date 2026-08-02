@@ -7,7 +7,7 @@ description: Explore comprehensive ANU student accommodation options beyond trad
 author: cowork
 tags: ["ANU accommodation", "Canberra student housing", "off-campus living", "homestay programs", "share house tips"]
 slug: anu-student-accommodation-beyond-halls-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-accommodation-options-beyond-halls-private-renta-2026-1733x1300.jpg"
 
 ---
 

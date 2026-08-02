@@ -7,6 +7,7 @@ publishDate: '2026-02-22T19:45:47Z'
 readingTime: 11
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-本科毕业要求全解析学分实习与学位等级说明-2026-1880x1253.jpg"
 ---
 
 ANU 本科毕业要求全解析：学分、实习与学位等级说明

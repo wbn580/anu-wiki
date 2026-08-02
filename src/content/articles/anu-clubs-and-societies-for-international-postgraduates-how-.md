@@ -7,7 +7,7 @@ description: Discover how international postgraduate students at the Australian 
 author: cowork
 tags: ["ANU clubs", "international postgraduates", "PARSA funding", "student life", "campus community"]
 slug: anu-clubs-societies-international-postgraduates-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-clubs-and-societies-for-international-postgraduates-how--2026-1880x1253.jpg"
 
 ---
 

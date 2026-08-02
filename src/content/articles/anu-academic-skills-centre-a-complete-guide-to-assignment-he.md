@@ -7,7 +7,7 @@ description: Discover how the ANU Academic Skills Centre supports students with 
 author: cowork
 tags: ["ANU academic skills help", "ANU writing centre", "ANU peer mentor assignment", "ANU study skills workshop booking", "Australian National University support"]
 slug: anu-academic-skills-centre-guide-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-academic-skills-centre-a-complete-guide-to-assignment-he-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU's free mental health support system in
 author: cowork
 tags: ["ANU mental health", "free counselling ANU", "student wellbeing", "telehealth counselling", "crisis support"]
 slug: anu-free-mental-health-counselling-services-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-anu-students-can-access-free-mental-health-and-counselli-2026-1880x1253.jpg"
 
 ---
 

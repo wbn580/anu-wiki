@@ -7,7 +7,7 @@ description: Discover the heart of student life at ANU Kambri Precinct in 2026. 
 author: cowork
 tags: ["ANU Campus Life", "Kambri Precinct", "Student Dining Canberra", "Study Spaces ANU", "University Events"]
 slug: anu-kambri-precinct-student-guide-eateries-shops-events
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-kambri-precinct-a-students-guide-to-eateries-shops-and-e-2026-1880x1253.jpg"
 
 ---
 

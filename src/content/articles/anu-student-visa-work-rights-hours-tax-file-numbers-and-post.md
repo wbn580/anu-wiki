@@ -7,7 +7,7 @@ description: A comprehensive guide for international students at the Australian 
 author: cowork
 tags: ["ANU student visa work hours", "international student TFN Australia", "ANU post-study work visa", "student visa conditions ANU", "ANU graduate visa pathway"]
 slug: anu-student-visa-work-rights-hours-tfn-post-study-options
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-work-rights-hours-tax-file-numbers-and-post-2026-1880x1253.jpg"
 
 ---
 

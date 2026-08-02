@@ -7,6 +7,7 @@ publishDate: '2026-05-13T20:01:48Z'
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-criminology-case-study-workshops-how-to-access-sensitive-materials-and-parti-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）的犯罪学（Criminology）课程以其注重实践与伦理的案例研究研讨会（Case Study Workshops）著称，为学生提供了接触法庭记录、警方档案、受害者访谈等**敏感材料**的独特机会。根据澳大利亚统计局（ABS）2023年发布的《犯罪受害者调查》（Crime Victimisation Survey），澳大利亚在2022-2023财年记录了约230万起个人犯罪受害事件，而ANU犯罪学系自2015年起便通过结构化研讨会，让学生直接分析这些真实案例的数据与文件。同时，澳大利亚研究理事会（ARC）2020年的一份报告指出，涉及人类敏感数据的学术项目需通过至少三级伦理审批，ANU的研讨会流程正是这一标准的实践范本。本文系统梳理ANU犯罪学案例研究研讨会的准入机制、材料获取路径、伦理辩论框架及学术支持资源，为计划参与或正在就读该课程的学生提供客观操作指南。

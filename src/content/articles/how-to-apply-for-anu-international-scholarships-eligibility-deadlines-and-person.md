@@ -8,6 +8,7 @@ readingTime: 3
 tags: ["featured"]
 
 hideFromHome: true
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-apply-for-anu-international-scholarships-eligibility-deadlines-and-person-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）在2025年QS世界大学排名中位列第30位，是澳大利亚唯一一所由联邦议会立法设立的国立大学。对于国际学生而言，该校提供的奖学金体系覆盖学费减免、生活津贴及研究支持等多个维度，2024年ANU国际学生奖学金总额超过1,200万澳元【ANU, 2024, Scholarships Annual Report】。根据澳大利亚教育部2023年数据，ANU国际学生奖学金申请量较上年增长18%，竞争日趋激烈【Department of Education, 2023, International Student Data】。本文基于ANU官方政策与历年录取数据，系统梳理奖学金类型、申请截止日期、资格门槛及个人陈述撰写策略，为18-30岁在读或计划入读ANU的学生提供可操作的申请指南。

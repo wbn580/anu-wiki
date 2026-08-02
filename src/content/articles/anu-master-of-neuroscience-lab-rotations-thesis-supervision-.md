@@ -7,7 +7,7 @@ description: Explore the ANU Master of Neuroscience program structure, lab rotat
 author: cowork
 tags: ["anu neuroscience master", "lab rotation anu", "eccles institute phd pathway", "neuroscience research master", "anu jcsnrm"]
 slug: anu-neuroscience-master-lab-rotations-thesis-phd-pathway
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-neuroscience-lab-rotations-thesis-supervision--2026-1880x1254.jpg"
 
 ---
 

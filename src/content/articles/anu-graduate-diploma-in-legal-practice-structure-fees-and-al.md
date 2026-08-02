@@ -7,7 +7,7 @@ description: A comprehensive guide to the ANU Graduate Diploma in Legal Practice
 author: cowork
 tags: ["ANU GDLP program", "ANU legal practice training", "ANU GDLP fees", "ANU law alumni discount GDLP", "Australian legal practice course"]
 slug: anu-graduate-diploma-legal-practice-structure-fees-alumni-discounts
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-graduate-diploma-in-legal-practice-structure-fees-and-al-2026-1880x1253.jpg"
 
 ---
 

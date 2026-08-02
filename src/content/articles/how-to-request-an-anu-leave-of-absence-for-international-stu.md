@@ -7,7 +7,7 @@ description: A comprehensive, step-by-step guide for international students at t
 author: cowork
 tags: []
 slug: anu-leave-of-absence-international-students-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-request-an-anu-leave-of-absence-for-international-stu-2026-1880x1253.jpg"
 
 ---
 

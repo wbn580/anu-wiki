@@ -7,7 +7,7 @@ description: A comprehensive guide for undergraduate students seeking to secure 
 author: cowork
 tags: []
 slug: anu-research-internship-undergraduate-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-apply-for-an-anu-research-internship-as-an-undergradu-2026-1880x1253.jpg"
 
 ---
 

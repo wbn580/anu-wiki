@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU visa compliance for international stud
 author: cowork
 tags: ["ANU visa compliance", "international students Australia", "student visa conditions", "ANU academic progress", "Home Affairs reporting"]
 slug: anu-student-visa-compliance-progress-attendance-reporting
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-compliance-course-progress-attendance-and-r-2026-1880x1253.jpg"
 
 ---
 

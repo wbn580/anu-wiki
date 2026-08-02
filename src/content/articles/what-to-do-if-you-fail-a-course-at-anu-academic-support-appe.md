@@ -7,7 +7,7 @@ description: A comprehensive guide for ANU students facing course failure in 202
 author: cowork
 tags: ["ANU fail course options", "ANU academic appeals process", "ANU supplementary assessment", "ANU special circumstances withdrawal", "ANU academic skills support"]
 slug: what-to-do-if-you-fail-course-anu-academic-support-appeals-reenrolment
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/what-to-do-if-you-fail-a-course-at-anu-academic-support-appe-2026-1880x1253.jpg"
 
 ---
 

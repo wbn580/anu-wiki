@@ -7,7 +7,7 @@ description: A comprehensive walkthrough for new Australian National University 
 author: cowork
 tags: ["ANU digital setup", "student IT orientation", "ISIS activation", "Wattle LMS", "Office 365 education"]
 slug: anu-student-email-digital-account-setup-isis-wattle-office365
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-email-and-digital-account-setup-activating-isis--2026-1880x1253.jpg"
 
 ---
 

@@ -7,6 +7,7 @@ publishDate: '2026-03-28T19:53:01Z'
 readingTime: 11
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-学生宿舍网络流量限制与高峰时段优化建议-2026-1880x1253.jpg"
 ---
 
 ANU 学生宿舍网络流量限制与高峰时段优化建议

@@ -7,7 +7,7 @@ description: A comprehensive guide to the ANU Master of International Relations 
 author: cowork
 tags: ["anu", "international relations", "thesis pathway", "postgraduate research", "australia"]
 slug: anu-mir-thesis-pathway-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-international-relations-thesis-pathway-require-2026-1880x1253.jpg"
 
 ---
 

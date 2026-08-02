@@ -7,7 +7,7 @@ description: Failing an ANU course can feel overwhelming, but you have clear aca
 author: cowork
 tags: ["ANU course fail", "ANU supplementary exam", "ANU academic support", "Australian university failure", "student academic recovery"]
 slug: what-to-do-if-you-fail-anu-course
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/what-to-do-if-you-fail-an-anu-course-academic-support-and-op-2026-1880x1253.jpg"
 
 ---
 

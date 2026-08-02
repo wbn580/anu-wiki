@@ -7,7 +7,7 @@ description: A comprehensive guide to part-time work rights for international st
 author: cowork
 tags: ["ANU part-time work", "student visa work rights", "international student employment", "Australian tax for students", "Canberra student jobs"]
 slug: anu-part-time-work-rights-international-students
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-part-time-work-rights-for-international-students-hours-t-2026-1733x1300.jpg"
 
 ---
 

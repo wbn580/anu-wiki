@@ -7,7 +7,7 @@ description: Prepare for Canberra's distinct seasons as an ANU international stu
 author: cowork
 tags: ["ANU pre-arrival", "Canberra weather guide", "international student packing", "seasonal preparedness", "ANU student life"]
 slug: anu-weather-seasonal-preparedness-canberra-packing-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-weather-and-seasonal-preparedness-what-to-pack-for-canbe-2026-1625x1300.jpg"
 
 ---
 

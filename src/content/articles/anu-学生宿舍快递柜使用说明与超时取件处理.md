@@ -7,6 +7,7 @@ publishDate: '2026-03-31T19:53:28Z'
 readingTime: 11
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-学生宿舍快递柜使用说明与超时取件处理-2026-1880x1253.jpg"
 ---
 
 ANU 学生宿舍快递柜使用说明与超时取件处理

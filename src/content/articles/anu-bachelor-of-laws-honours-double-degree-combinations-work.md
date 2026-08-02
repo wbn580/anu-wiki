@@ -7,7 +7,7 @@ description: Explore ANU law double degree combinations including Arts, Commerce
 author: cowork
 tags: ["ANU law double degree", "LLB honours workload", "course planning", "credit overlap", "Australian National University"]
 slug: anu-law-double-degree-workload-course-planning
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-laws-honours-double-degree-combinations-work-2026-1880x1253.jpg"
 
 ---
 

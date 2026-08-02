@@ -7,6 +7,7 @@ publishDate: '2026-03-23T19:51:55Z'
 readingTime: 20
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-校园二手市场线上平台与交易安全提示-2026-1880x1253.jpg"
 ---
 
 ANU 校园二手市场线上平台与交易安全提示

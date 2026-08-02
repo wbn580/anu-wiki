@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University's GPA c
 author: cowork
 tags: ["ANU GPA calculation", "ANU postgraduate admissions", "Australian university grading", "international GPA conversion", "ANU entry requirements"]
 slug: anu-gpa-calculation-postgraduate-applications
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/understanding-anus-grade-point-average-gpa-calculation-for-p-2026-1880x1253.jpg"
 
 ---
 

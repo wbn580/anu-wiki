@@ -7,7 +7,7 @@ description: A comprehensive guide to configuring your ANU student email on iOS 
 author: cowork
 tags: ["ANU email setup", "IMAP configuration", "Office 365 mobile", "MFA troubleshooting", "student email sync"]
 slug: anu-email-setup-phone-imap-mfa-troubleshooting
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-set-up-your-anu-email-account-on-a-phone-imap-mfa-and-2026-1880x1253.jpg"
 
 ---
 

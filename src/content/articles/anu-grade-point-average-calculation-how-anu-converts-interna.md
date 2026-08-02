@@ -7,7 +7,7 @@ description: Understand how the Australian National University calculates GPA fo
 author: cowork
 tags: ["ANU admissions", "GPA calculation", "international transcripts", "postgraduate requirements", "Australian grading system"]
 slug: anu-gpa-calculation-international-transcripts
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-grade-point-average-calculation-how-anu-converts-interna-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Master the ANU double major declaration process with this comprehen
 author: cowork
 tags: []
 slug: how-to-declare-a-double-major-at-anu
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-declare-a-double-major-at-anu-flexible-double-degree--2026-1880x1253.jpg"
 
 ---
 

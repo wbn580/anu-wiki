@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University student
 author: cowork
 tags: ["ANU student card", "campus access", "printing account", "student identification", "Australian National University"]
 slug: anu-student-card-functions-building-access-printing-identification
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-card-functions-building-access-printing-and-iden-2026-1880x1253.jpg"
 
 ---
 

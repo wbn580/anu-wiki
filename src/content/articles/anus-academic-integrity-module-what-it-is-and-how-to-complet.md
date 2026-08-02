@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University's Acade
 author: cowork
 tags: ["ANU academic integrity", "academic misconduct prevention", "university compliance training", "Australian National University support", "plagiarism education"]
 slug: anu-academic-integrity-module-completion-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anus-academic-integrity-module-what-it-is-and-how-to-complet-2026-1880x1253.jpg"
 
 ---
 

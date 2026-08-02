@@ -7,7 +7,7 @@ description: Navigate ANU emergency protocols with confidence. Learn how interna
 author: cowork
 tags: ["ANU emergency support", "international student safety ANU", "ANU bushfire plan", "ANU crisis protocol", "ANU student emergency contact"]
 slug: anu-emergency-procedures-international-students
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-emergency-procedures-for-international-students-a-compre-2026-1880x1253.jpg"
 
 ---
 

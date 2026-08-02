@@ -7,7 +7,7 @@ description: Compare the Australian National University's Bachelor of Informatio
 author: cowork
 tags: ["ANU computing degrees", "information technology Australia", "advanced computing specializations", "Australian university IT programs", "ANU BIT vs BAC"]
 slug: anu-bit-vs-bac-computing-degree-comparison
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-information-technology-vs-bachelor-of-advanc-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

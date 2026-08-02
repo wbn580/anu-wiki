@@ -7,7 +7,7 @@ description: Explore how the ANU Master of Finance program welcomes students fro
 author: cowork
 tags: ["ANU Master of Finance", "finance bridging courses", "postgraduate finance pathway", "non-commerce background finance", "ANU MFin prerequisites"]
 slug: anu-master-finance-bridging-courses-non-finance-backgrounds
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-finance-bridging-courses-and-pathways-for-non--2026-1635x1300.jpg"
 
 ---
 

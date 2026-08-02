@@ -7,7 +7,7 @@ description: Comprehensive guide to transferring between degrees at the Australi
 author: cowork
 tags: ["anu internal transfer", "anu degree transfer process", "switch programs anu", "anu course change", "australian national university transfer"]
 slug: anu-internal-degree-transfer-process-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-transfer-between-anu-degrees-internal-program-transfe-2026-1880x1253.jpg"
 
 ---
 

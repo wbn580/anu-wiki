@@ -7,7 +7,7 @@ description: Understand ANU GPA calculation and WAM differences for 2026. Learn 
 author: cowork
 tags: ["ANU GPA calculation", "ANU WAM explained", "ANU grade scale", "ANU academic standing", "ANU postgraduate GPA requirements"]
 slug: anu-gpa-calculation-wam-differences
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-grade-point-average-calculation-differences-between-gpa--2026-1880x1253.jpg"
 
 ---
 

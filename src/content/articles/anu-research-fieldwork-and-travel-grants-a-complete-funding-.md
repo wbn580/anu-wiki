@@ -7,7 +7,7 @@ description: Navigate ANU's fieldwork funding landscape with this comprehensive 
 author: cowork
 tags: ["ANU fieldwork funding", "HDR travel grants", "research conference funding", "PhD fieldwork budget", "internal research grants"]
 slug: anu-research-fieldwork-travel-grants-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-fieldwork-and-travel-grants-a-complete-funding--2026-1880x1253.jpg"
 
 ---
 

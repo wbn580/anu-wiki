@@ -7,7 +7,7 @@ description: A comprehensive comparison of student accommodation at ANU UniLodge
 author: cowork
 tags: ["ANU accommodation", "Turner Braddon rental", "student housing Canberra", "lease terms Australia", "bond disputes ACT"]
 slug: anu-unilodge-vs-private-rental-turner-braddon
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/living-in-anu-unilodge-vs-private-rental-in-turner-and-bradd-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

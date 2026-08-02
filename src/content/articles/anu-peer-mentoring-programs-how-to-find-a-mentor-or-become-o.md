@@ -7,7 +7,7 @@ description: Navigating university life at ANU can be challenging. Discover how 
 author: cowork
 tags: ["ANU peer mentoring", "ANU mentor program", "ANU student support network", "ANU new student mentor", "ANU college mentoring"]
 slug: anu-peer-mentoring-programs-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-peer-mentoring-programs-how-to-find-a-mentor-or-become-o-2026-1880x1253.jpg"
 
 ---
 

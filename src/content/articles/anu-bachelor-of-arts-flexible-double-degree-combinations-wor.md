@@ -7,7 +7,7 @@ description: Explore the most strategic ANU flexible double degree combinations 
 author: cowork
 tags: ["ANU Bachelor of Arts double degree", "ANU flexible double degree combinations", "ANU arts and law double degree", "ANU arts science double degree", "Australian National University"]
 slug: anu-bachelor-arts-flexible-double-degree-combinations-worth-considering
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-arts-flexible-double-degree-combinations-wor-2026-1880x1253.jpg"
 
 ---
 

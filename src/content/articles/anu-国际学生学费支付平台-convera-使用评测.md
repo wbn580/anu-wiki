@@ -7,6 +7,7 @@ publishDate: '2026-03-04T19:47:54Z'
 readingTime: 12
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-国际学生学费支付平台-convera-使用评测-2026-1880x1253.jpg"
 ---
 
 ANU 国际学生学费支付平台 Convera 使用评测

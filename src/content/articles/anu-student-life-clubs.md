@@ -7,6 +7,7 @@ publishDate: "2026-05-15T07:15:00Z"
 
 tags:
   - "culture"
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-life-clubs-2026-1625x1300.jpg"
 ---
 
 ANU's student life is shaped by two forces: the university's residential college system (which creates micro-communities) and Canberra's unique role as the national capital (which provides unparalleled access to political, cultural, and scientific institutions). Students repeatedly cite the combination of a "village feel" with world-class opportunities as ANU's defining social feature.

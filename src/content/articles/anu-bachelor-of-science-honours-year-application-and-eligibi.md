@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU Bachelor of Science Honours Year appli
 author: cowork
 tags: ["ANU Honours", "Science Honours Application", "ANU Eligibility", "Honours Year GPA", "Supervisor Matching"]
 slug: anu-bachelor-of-science-honours-application-eligibility-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-science-honours-year-application-and-eligibi-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Explore how the ANU Master of Public Policy integrates high-level i
 author: cowork
 tags: ["ANU public policy career", "ANU MPP internship", "APS graduate pathway", "Crawford School placements", "government graduate program"]
 slug: anu-mpp-internship-aps-graduate-pathways-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-public-policy-internship-placements-and-aps-gr-2026-1880x1253.jpg"
 
 ---
 

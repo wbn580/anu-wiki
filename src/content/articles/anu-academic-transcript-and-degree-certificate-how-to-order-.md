@@ -7,7 +7,7 @@ description: A complete guide to obtaining your ANU academic transcript and degr
 author: cowork
 tags: ["ANU academic transcript", "eQuals digital transcript", "degree certificate apostille", "official document processing", "Australian National University"]
 slug: anu-transcript-degree-certificate-order-apostille
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-academic-transcript-and-degree-certificate-how-to-order--2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

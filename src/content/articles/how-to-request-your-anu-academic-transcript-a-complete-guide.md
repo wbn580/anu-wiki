@@ -7,7 +7,7 @@ description: Learn the step-by-step process for requesting official ANU academic
 author: cowork
 tags: []
 slug: anu-academic-transcript-request-guide-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-request-your-anu-academic-transcript-a-complete-guide-2026-1880x1253.jpg"
 
 ---
 

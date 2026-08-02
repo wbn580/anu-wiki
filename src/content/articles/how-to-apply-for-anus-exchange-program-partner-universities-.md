@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University exchang
 author: cowork
 tags: ["ANU exchange", "study abroad Australia", "university exchange programs", "credit transfer", "ANU partner universities"]
 slug: anu-exchange-program-application-partner-universities-credits-costs
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-apply-for-anus-exchange-program-partner-universities--2026-1880x1253.jpg"
 
 ---
 

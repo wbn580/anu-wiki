@@ -7,7 +7,7 @@ description: An in-depth look at the Australian National University Master of Fi
 author: cowork
 tags: ["ANU Financial Economics", "Quantitative Finance", "Australian University Placement", "Finance Masters Prerequisites", "CBE Financial Economics"]
 slug: anu-master-financial-economics-quantitative-prerequisites-industry-placement
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-financial-economics-quantitative-prerequisites-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Discover everything about ANU parking permits for 2026, including z
 author: cowork
 tags: ["ANU parking permit", "ANU parking zones", "ANU campus transport", "ANU bike storage", "ANU shuttle bus"]
 slug: anu-parking-permits-campus-transport-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-parking-permits-and-campus-transport-zones-fees-and-alte-2026-1880x1246.jpg"
 
 ---
 

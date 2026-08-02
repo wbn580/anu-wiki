@@ -7,7 +7,7 @@ description: Failing a course at ANU can feel overwhelming, but structured pathw
 author: cowork
 tags: ["ANU supplementary exams", "ANU grade appeal", "academic support ANU", "international student visa ANU", "fail course recovery"]
 slug: anu-fail-course-supplementary-exams-appeals-support
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/what-to-do-if-you-fail-an-anu-course-supplementary-exams-app-2026-1880x1253.jpg"
 
 ---
 

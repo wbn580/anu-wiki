@@ -7,7 +7,7 @@ description: A detailed guide to securing on-campus housing at the Australian Na
 author: cowork
 tags: ["ANU accommodation", "on-campus housing", "international students", "residential colleges", "Australian National University"]
 slug: anu-on-campus-accommodation-application-guide-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-apply-for-anu-on-campus-accommodation-deadlines-room--2026-1733x1300.jpg"
 
 ---
 

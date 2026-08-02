@@ -7,7 +7,7 @@ description: Master the ANU exchange application process with expert strategies 
 author: cowork
 tags: ["ANU exchange partner universities","ANU study abroad application","ANU OS-HELP loan","ANU credit transfer exchange","ANU global programs"]
 slug: anu-exchange-program-application-tips-partner-universities-credits
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-exchange-program-application-tips-selecting-partner-univ-2026-1880x1253.jpg"
 
 ---
 

@@ -7,6 +7,7 @@ publishDate: '2026-04-06T19:54:34Z'
 readingTime: 15
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-国际学生个人信息更新系统操作指南-2026-1880x1253.jpg"
 ---
 
 ANU 国际学生个人信息更新系统操作指南

@@ -7,7 +7,7 @@ description: Explore the ANU Master of Business Information Systems in 2026. Dee
 author: cowork
 tags: ["ANU MBIS", "Business Information Systems", "Australian National University", "Postgraduate IT", "Industry Capstone"]
 slug: anu-master-business-information-systems-accreditation-capstone-industry
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-business-information-systems-accreditation-cap-2026-1635x1300.jpg"
 
 ---
 

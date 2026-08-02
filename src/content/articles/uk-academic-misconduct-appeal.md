@@ -6,7 +6,7 @@ pubDatetime: '2026-06-18T00:00:00Z'
 publishDate: '2026-06-18T00:00:00Z'
 modDatetime: '2026-06-18T00:00:00Z'
 slug: 'uk-academic-misconduct-appeal'
-ogImage: ''
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/uk-academic-misconduct-appeal-2026-1880x1111.jpg"
 tags: ['学术不端', '抄袭申诉', '英国大学', 'Academic Misconduct', 'OIA']
 ---
 

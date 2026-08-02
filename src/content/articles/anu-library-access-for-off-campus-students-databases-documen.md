@@ -7,7 +7,7 @@ description: Explore comprehensive guide to ANU library services for off-campus 
 author: cowork
 tags: ["ANU off-campus library", "ANU remote student resources", "ANU document delivery", "ANU library database access", "ANU postal loans"]
 slug: anu-library-access-off-campus-students-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-library-access-for-off-campus-students-databases-documen-2026-1880x1253.jpg"
 
 ---
 

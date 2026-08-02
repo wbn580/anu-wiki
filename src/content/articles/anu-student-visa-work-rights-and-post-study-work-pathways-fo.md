@@ -7,7 +7,7 @@ description: A comprehensive guide to work rights on an ANU student visa, includ
 author: cowork
 tags: ["ANU", "Student Visa", "Work Rights", "Subclass 485", "Post-Study Work"]
 slug: anu-student-visa-work-rights-post-study-pathways-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-work-rights-and-post-study-work-pathways-fo-2026-1880x1253.jpg"
 
 ---
 

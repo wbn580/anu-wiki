@@ -7,7 +7,7 @@ description: A comprehensive guide to crafting a winning research proposal for t
 author: cowork
 tags: ["ANU research proposal", "PhD application", "HDR guide", "supervisor expectations", "research methodology"]
 slug: anu-research-proposal-template-structure-formatting-supervisor-expectations
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-proposal-template-structure-formatting-and-supe-2026-1880x1253.jpg"
 
 ---
 

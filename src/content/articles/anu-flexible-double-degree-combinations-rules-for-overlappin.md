@@ -7,7 +7,7 @@ description: Master ANU flexible double degree rules for 2026. Understand overla
 author: cowork
 tags: ["ANU", "double degree", "flexible double degree", "course overlap", "degree planning"]
 slug: anu-flexible-double-degree-overlapping-courses-rules
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-flexible-double-degree-combinations-rules-for-overlappin-2026-1880x1253.jpg"
 
 ---
 

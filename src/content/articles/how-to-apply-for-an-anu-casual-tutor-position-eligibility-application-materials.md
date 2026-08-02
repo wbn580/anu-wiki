@@ -7,6 +7,7 @@ publishDate: '2026-04-29T19:59:11Z'
 readingTime: 7
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-apply-for-an-anu-casual-tutor-position-eligibility-application-materials-2026-1880x1253.jpg"
 ---
 
 The Australian National University (ANU) engages approximately 1,200 casual tutors each semester to deliver tutorials, workshops, and laboratory sessions across its seven colleges, according to the ANU Enterprise Agreement 2023–2026. This role represents the most common entry-level academic position for graduate students and early-career researchers, with the university reporting that casual teaching staff account for roughly 18% of all teaching hours at the institution (ANU Planning & Statistical Services, 2023). Understanding the application process, eligibility criteria, and workload expectations is essential for prospective applicants, as the university receives an average of 15 to 20 applications per advertised tutoring vacancy.

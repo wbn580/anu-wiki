@@ -7,7 +7,7 @@ description: A comprehensive analysis of the Australian National University's ac
 author: cowork
 tags: ["ANU academic misconduct penalties", "ANU academic integrity breach escalation", "ANU suspension for plagiarism", "ANU exclusion triggers", "ANU academic misconduct case outcomes"]
 slug: anu-academic-misconduct-penalty-ranges
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-academic-misconduct-penalty-ranges-from-warning-letters--2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: A comprehensive guide to deferring your Australian National Univers
 author: cowork
 tags: ["ANU defer offer", "ANU gap year policy", "ANU deferral international student visa", "ANU scholarship deferment", "university admissions"]
 slug: how-to-defer-anu-offer-gap-year-visa-scholarship
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-defer-your-anu-offer-gap-year-visa-and-scholarship-im-2026-1880x1253.jpg"
 
 ---
 

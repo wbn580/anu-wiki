@@ -7,6 +7,7 @@ publishDate: '2026-03-23T19:51:54Z'
 readingTime: 14
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-学生宿舍提前退宿申请流程与违约金计算-2026-1880x1253.jpg"
 ---
 
 ANU 学生宿舍提前退宿申请流程与违约金计算

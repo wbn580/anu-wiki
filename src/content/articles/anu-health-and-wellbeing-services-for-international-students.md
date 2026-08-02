@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU health services for international stud
 author: cowork
 tags: ["ANU Health Services", "International Student Wellbeing", "ANU Medical Centre", "Student Counselling", "Australian National University", "Campus Healthcare"]
 slug: anu-health-wellbeing-services-international-students
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-health-and-wellbeing-services-for-international-students-2026-1880x1253.jpg"
 
 ---
 

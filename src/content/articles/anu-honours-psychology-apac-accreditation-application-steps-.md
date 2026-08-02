@@ -7,7 +7,7 @@ description: Navigate the ANU Psychology Honours year with clarity. Explore the 
 author: cowork
 tags: ["ANU psychology honours", "APAC accreditation", "psychology thesis", "clinical psychology pathway", "Australian National University"]
 slug: anu-honours-psychology-apac-accreditation-application-thesis-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-honours-psychology-apac-accreditation-application-steps--2026-1880x1253.jpg"
 
 ---
 

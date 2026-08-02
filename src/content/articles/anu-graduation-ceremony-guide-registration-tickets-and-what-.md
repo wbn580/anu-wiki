@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University graduat
 author: cowork
 tags: ["ANU graduation", "graduation ceremony guide", "Australian National University", "academic dress hire", "graduation day preparation"]
 slug: anu-graduation-ceremony-guide-registration-tickets-what-to-expect
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-graduation-ceremony-guide-registration-tickets-and-what--2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Explore ANU College's comprehensive pathway programs, including Fou
 author: cowork
 tags: []
 slug: anu-college-pathway-foundation-undergraduate
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-college-pathway-programs-your-bridge-from-foundation-stu-2026-1880x1253.jpg"
 
 ---
 

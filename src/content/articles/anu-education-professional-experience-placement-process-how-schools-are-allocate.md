@@ -7,6 +7,7 @@ publishDate: '2026-04-20T19:57:25Z'
 readingTime: 6
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-education-professional-experience-placement-process-how-schools-are-allocate-2026-1880x1253.jpg"
 ---
 
 The Australian National University (ANU) mandates a minimum of **80 days** of supervised professional experience for its Bachelor of Education (Primary) and Master of Teaching programs, as stipulated by the Australian Institute for Teaching and School Leadership (AITSL) accreditation standards. This placement process, managed through the InPlace system, allocates students to a diverse network of over 400 partner schools across the Australian Capital Territory (ACT) and regional New South Wales (NSW). As the Australian Government Department of Education (2023) notes, the national teacher shortage has intensified the demand for qualified graduates, making the practicum a critical gateway into the profession. Understanding the allocation timeline, school selection criteria, and assessment requirements is essential for students to navigate this mandatory component successfully.

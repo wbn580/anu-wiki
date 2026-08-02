@@ -7,7 +7,7 @@ description: Master the ANU census date 2026 to protect your finances and academ
 author: cowork
 tags: ["ANU census date 2026", "ANU withdrawal deadline", "HECS census date ANU", "ANU enrolment changes", "Australian National University deadlines"]
 slug: anu-census-dates-2026-financial-academic-penalties
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/understanding-anu-census-dates-2026-how-to-avoid-financial-a-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Find out how to navigate the ANU internal transfer process, includi
 author: cowork
 tags: ["ANU internal transfer", "change degree ANU", "credit transfer ANU", "program switch", "Australian National University"]
 slug: anu-internal-transfer-college-change-guide-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-transfer-between-anu-colleges-internal-program-change-2026-1880x1253.jpg"
 
 ---
 

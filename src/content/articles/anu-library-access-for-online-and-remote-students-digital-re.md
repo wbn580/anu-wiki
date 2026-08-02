@@ -7,7 +7,7 @@ description: A comprehensive guide to accessing the Australian National Universi
 author: cowork
 tags: ["ANU Library", "Remote Student Resources", "Digital Ebooks", "Postal Loans", "Off-Campus Access", "Online Study Support"]
 slug: anu-library-access-online-remote-students-digital-resources-postal-loans
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-library-access-for-online-and-remote-students-digital-re-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: A comprehensive guide to accessing ANU Counselling and Mental Healt
 author: cowork
 tags: ["ANU counselling service", "ANU mental health support", "ANU student wellbeing booking", "ANU after-hours crisis support", "student mental health"]
 slug: anu-counselling-mental-health-services-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-counselling-and-mental-health-services-what-to-expect-an-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Understand the serious financial and academic consequences of dropp
 author: cowork
 tags: ["ANU census date", "course withdrawal penalty", "HECS-HELP", "retrospective withdrawal", "academic transcript"]
 slug: anu-census-date-financial-academic-penalties-drop-course-late
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-census-date-financial-and-academic-penalties-what-happen-2026-1880x1253.jpg"
 
 ---
 

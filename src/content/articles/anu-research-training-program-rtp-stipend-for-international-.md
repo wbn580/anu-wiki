@@ -7,7 +7,7 @@ description: Explore the Australian National University Research Training Progra
 author: cowork
 tags: ["ANU RTP international", "ANU research training program stipend", "ANU PhD scholarship eligibility", "ANU HDR funding international", "ANU RTP application process"]
 slug: anu-rtp-stipend-international-hdr-candidates-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-training-program-rtp-stipend-for-international--2026-1880x1253.jpg"
 
 ---
 

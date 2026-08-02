@@ -7,7 +7,7 @@ description: A comprehensive guide to finding ANU past exam papers through the l
 author: cowork
 tags: ["ANU past exam papers", "ANU exam database", "ANU previous exams", "ANU library exam search", "ANU old exam access"]
 slug: anu-past-exam-papers-database-search-copyright-missing
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-access-anu-past-exam-papers-database-search-tips-copy-2026-1880x1253.jpg"
 
 ---
 

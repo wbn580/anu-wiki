@@ -7,7 +7,7 @@ description: A complete guide to ANU Master of Finance prerequisites and bridgin
 author: cowork
 tags: ["ANU Master of Finance", "ANU finance prerequisites", "ANU bridging courses", "non-business finance master", "ANU MFin entry requirements"]
 slug: anu-master-finance-prerequisites-bridging-courses-non-business
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-finance-prerequisites-and-bridging-courses-for-2026-1635x1300.jpg"
 
 ---
 

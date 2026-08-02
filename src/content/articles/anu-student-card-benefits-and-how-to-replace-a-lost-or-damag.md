@@ -7,7 +7,7 @@ description: Explore the comprehensive benefits of your ANU student card, from c
 author: cowork
 tags: ["ANU student card benefits", "ANU lost student card replacement", "ANU ID card discounts", "ANU campus card office", "Australian National University"]
 slug: anu-student-card-benefits-and-replacement-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-card-benefits-and-how-to-replace-a-lost-or-damag-2026-1880x1253.jpg"
 
 ---
 

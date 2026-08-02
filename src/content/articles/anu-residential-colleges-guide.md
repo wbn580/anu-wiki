@@ -7,6 +7,7 @@ publishDate: "2026-05-15T07:25:00Z"
 
 tags:
   - "culture"
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-residential-colleges-guide-2026-1880x1253.jpg"
 ---
 
 ANU has one of Australia's most developed residential college systems, with approximately 5,000 students living in 10 affiliated colleges and halls on or near campus.

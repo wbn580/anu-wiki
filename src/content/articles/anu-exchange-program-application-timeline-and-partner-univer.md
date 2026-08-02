@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University exchang
 author: cowork
 tags: ["ANU exchange", "study abroad planning", "university exchange programs", "credit transfer", "global education"]
 slug: anu-exchange-program-application-timeline-partner-selection-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-exchange-program-application-timeline-and-partner-univer-2026-1880x1253.jpg"
 
 ---
 

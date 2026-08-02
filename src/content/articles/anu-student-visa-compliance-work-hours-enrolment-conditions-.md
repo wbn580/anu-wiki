@@ -7,7 +7,7 @@ description: A comprehensive guide to maintaining student visa compliance at ANU
 author: cowork
 tags: ["anu student visa work hours", "anu enrolment conditions visa", "anu isis update address", "international student compliance anu", "student visa obligations australia"]
 slug: anu-student-visa-compliance-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-compliance-work-hours-enrolment-conditions--2026-1880x1253.jpg"
 
 ---
 

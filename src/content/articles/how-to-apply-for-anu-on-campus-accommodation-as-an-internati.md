@@ -7,7 +7,7 @@ description: A comprehensive guide for international students on securing on-cam
 author: cowork
 tags: ["ANU accommodation", "international students Australia", "campus housing", "Canberra student life", "university residential halls"]
 slug: anu-on-campus-accommodation-international-students
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-apply-for-anu-on-campus-accommodation-as-an-internati-2026-1733x1300.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Navigate ANU parental leave, childcare support, and candidature lea
 author: cowork
 tags: ["ANU PhD parental leave", "ANU childcare support", "ANU candidature leave policy", "ANU student parent resources", "ANU campus childcare waitlist"]
 slug: anu-parental-leave-childcare-support-phd-candidates-staff-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-parental-leave-and-childcare-support-for-phd-candidates--2026-1880x1254.jpg"
 
 ---
 

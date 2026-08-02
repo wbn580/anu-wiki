@@ -7,7 +7,7 @@ description: Explore ANU’s exchange partner universities in Asia for 2026-2027
 author: cowork
 tags: ["ANU exchange Asia", "ANU partner universities Asia", "ANU semester abroad credit transfer", "ANU study abroad application", "ANU exchange eligibility"]
 slug: anu-exchange-partner-universities-asia-application-tips-credit-transfer-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-exchange-partner-universities-in-asia-application-tips-a-2026-1880x1253.jpg"
 
 ---
 

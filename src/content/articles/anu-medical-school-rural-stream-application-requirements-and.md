@@ -7,7 +7,7 @@ description: A comprehensive guide to the ANU Medical School Rural Stream coveri
 author: cowork
 tags: ["ANU rural medical program", "ANU MD rural pathway", "ANU rural clinical school", "ANU bonded medical places", "rural medicine Australia"]
 slug: anu-medical-school-rural-stream-application-requirements-placement-insights
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-medical-school-rural-stream-application-requirements-and-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: A detailed comparison of ANU’s Bachelor of Arts and Bachelor of S
 author: cowork
 tags: ["ANU", "Bachelor of Arts", "Bachelor of Social Sciences", "undergraduate degrees", "career outcomes"]
 slug: anu-bachelor-arts-vs-social-sciences-comparison
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-arts-vs-bachelor-of-social-sciences-course-s-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

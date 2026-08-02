@@ -7,6 +7,7 @@ publishDate: "2026-05-15T07:25:00Z"
 
 tags:
   - "education"
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-law-programs-2026-1880x1045.jpg"
 ---
 ANU College of Law is Australia's #1 ranked law school (QS subject rankings) and the national law school — deeply connected to the Australian Government, High Court, and parliamentary system.
 

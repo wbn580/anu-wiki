@@ -7,7 +7,7 @@ description: A comprehensive guide for Australian National University remote stu
 author: cowork
 tags: ["ANU remote library access", "off-campus database login", "document delivery service", "postal loan policy", "library proxy error fix"]
 slug: anu-remote-student-library-resources-off-campus-database-login-document-delivery-postal-loan-policies
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-remote-student-access-to-library-resources-off-campus-da-2026-1880x1253.jpg"
 
 ---
 

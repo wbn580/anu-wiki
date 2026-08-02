@@ -7,6 +7,7 @@ publishDate: "2026-05-15T07:25:00Z"
 
 tags:
   - "culture"
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/canberra-living-guide-anu-2026-1733x1300.jpg"
 ---
 
 Canberra is a planned city — designed by Walter Burley Griffin in 1913 — and is consistently ranked among the world's most liveable cities. For students, it offers a safe, green, and navigable environment with lower living costs than Sydney or Melbourne.

@@ -7,7 +7,7 @@ description: Explore the ANU Bachelor of Health Science with a focus on clinical
 author: cowork
 tags: ["anu health science", "pre-med australia", "clinical placements", "medicine pathway", "health degree career"]
 slug: anu-bachelor-health-science-clinical-placements-medicine-pathways
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-health-science-clinical-placements-and-postg-2026-1880x1253.jpg"
 
 ---
 

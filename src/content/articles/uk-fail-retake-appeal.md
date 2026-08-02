@@ -6,7 +6,7 @@ pubDatetime: '2026-06-18T00:00:00Z'
 publishDate: '2026-06-18T00:00:00Z'
 modDatetime: '2026-06-18T00:00:00Z'
 slug: 'uk-fail-retake-appeal'
-ogImage: ''
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/uk-fail-retake-appeal-2026-1880x869.jpg"
 tags: ['挂科', '重修', '补考', '成绩申诉', '英国大学']
 ---
 

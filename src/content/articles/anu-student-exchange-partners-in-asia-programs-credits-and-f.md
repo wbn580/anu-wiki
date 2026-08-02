@@ -7,7 +7,7 @@ description: Explore ANU’s top student exchange partners across Asia for 2026.
 author: cowork
 tags: ["ANU exchange Asia", "study abroad credits", "OS-HELP loan", "Australian university exchange", "semester abroad planning"]
 slug: anu-student-exchange-asia-programs-credits-funding
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-exchange-partners-in-asia-programs-credits-and-f-2026-1880x1253.jpg"
 
 ---
 

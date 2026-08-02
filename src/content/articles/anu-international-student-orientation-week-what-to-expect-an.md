@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University's inter
 author: cowork
 tags: ["ANU orientation", "ANU international student orientation", "ANU O-Week registration", "ANU orientation week schedule", "ANU new student orientation tips"]
 slug: anu-international-student-orientation-week-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-international-student-orientation-week-what-to-expect-an-2026-1880x1253.jpg"
 
 ---
 

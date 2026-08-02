@@ -7,7 +7,7 @@ description: A comprehensive guide to Australian National University health and 
 author: cowork
 tags: ["ANU health services", "student mental health", "university counseling", "international student wellbeing", "medical care on campus"]
 slug: anu-health-wellbeing-services-students-counseling-medical-mental-health
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-health-wellbeing-services-counseling-medical-car-2026-1880x1253.jpg"
 
 ---
 

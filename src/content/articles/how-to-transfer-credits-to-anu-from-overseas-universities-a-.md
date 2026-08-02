@@ -7,7 +7,7 @@ description: Learn how to transfer credits to the Australian National University
 author: cowork
 tags: ["ANU credit transfer", "advanced standing ANU", "international student admissions", "Australian National University", "overseas qualification recognition"]
 slug: anu-transfer-credits-overseas-eligibility-process
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-transfer-credits-to-anu-from-overseas-universities-a--2026-1880x1253.jpg"
 
 ---
 

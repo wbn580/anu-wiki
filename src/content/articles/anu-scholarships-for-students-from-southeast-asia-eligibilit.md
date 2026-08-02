@@ -7,7 +7,7 @@ description: A comprehensive guide to Australian National University scholarship
 author: cowork
 tags: ["ANU scholarships", "Southeast Asia", "international student funding", "scholarship essays", "Australian universities"]
 slug: anu-scholarships-southeast-asia-eligibility-deadlines-essays
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-scholarships-for-students-from-southeast-asia-eligibilit-2026-1880x1253.jpg"
 
 ---
 

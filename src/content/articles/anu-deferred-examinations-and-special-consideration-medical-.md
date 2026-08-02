@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU deferred exam applications and special
 author: cowork
 tags: ["ANU deferred exam", "special consideration", "medical certificate", "exam deferral", "Australian National University", "assessment policy"]
 slug: anu-deferred-examinations-special-consideration-evidence-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-deferred-examinations-and-special-consideration-medical--2026-1880x1253.jpg"
 
 ---
 

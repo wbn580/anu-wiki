@@ -7,7 +7,7 @@ description: Navigate ANU tuition fee payments with clarity. This guide covers B
 author: cowork
 tags: ["ANU fees", "international student payments", "BPAY tuition", "Convera guide", "instalment plans"]
 slug: anu-fee-payment-methods-deadlines-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-fee-payment-methods-and-deadlines-bpay-international-tra-2026-1880x1253.jpg"
 
 ---
 

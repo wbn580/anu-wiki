@@ -7,7 +7,7 @@ description: Explore comprehensive internship and industry placement opportuniti
 author: cowork
 tags: ["anu internship international students", "anu industry placement credit", "anu work integrated learning application", "anu career hub internship", "international student careers australia"]
 slug: anu-internship-industry-placement-international-students
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-internship-and-industry-placement-pathways-for-internati-2026-1733x1300.jpg"
 
 ---
 

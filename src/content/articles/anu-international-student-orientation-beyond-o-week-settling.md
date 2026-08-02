@@ -7,7 +7,7 @@ description: Navigate the full ANU international student orientation journey, fr
 author: cowork
 tags: ["ANU orientation", "settling in Canberra", "international student life", "TFN setup Australia", "Canberra communities"]
 slug: anu-international-student-orientation-beyond-o-week
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-international-student-orientation-beyond-o-week-settling-2026-1625x1300.jpg"
 
 ---
 

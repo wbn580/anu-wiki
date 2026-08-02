@@ -7,6 +7,7 @@ publishDate: '2026-05-11T20:01:28Z'
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-residential-hall-decoration-rules-for-holidays-fire-safe-materials-wall-dama-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）校内宿舍在假期期间的装饰管理，是保障居住安全与维护建筑完整性的关键环节。根据ANU住宿服务处（ANU Accommodation Services, 2024）发布的《居民手册》，宿舍内所有装饰物必须采用**阻燃等级**达到AS 1530.3标准的材料，该标准由澳大利亚标准协会（Standards Australia, 2023）规定，要求材料在接触火源后30秒内自行熄灭。此外，ANU宿舍墙壁多为石膏板结构，其表面涂层承重极限仅为每平方厘米0.05公斤（ANU Facilities Management, 2023），不当悬挂或粘贴装饰品可能导致永久性损坏。随着2025年寒假和圣诞假期的临近，了解这些规则对于避免罚款（最高可达500澳元）和保障人身安全至关重要。

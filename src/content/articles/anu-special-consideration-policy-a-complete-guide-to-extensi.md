@@ -7,7 +7,7 @@ description: Navigate ANU's Special Consideration Policy with confidence. Learn 
 author: cowork
 tags: ["ANU special consideration", "assessment extensions", "deferred exams", "academic support", "student wellbeing"]
 slug: anu-special-consideration-extensions-deferred-exams
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-special-consideration-policy-a-complete-guide-to-extensi-2026-1880x1253.jpg"
 
 ---
 

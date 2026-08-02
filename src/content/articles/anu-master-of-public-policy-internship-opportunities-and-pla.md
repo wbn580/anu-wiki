@@ -7,7 +7,7 @@ description: Explore the structured internship placement process for the ANU Mas
 author: cowork
 tags: ["ANU Master of Public Policy", "public policy internship Australia", "Crawford School placements", "policy career outcomes", "postgraduate internship credit"]
 slug: anu-master-public-policy-internship-placement-process
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-public-policy-internship-opportunities-and-pla-2026-1880x1253.jpg"
 
 ---
 

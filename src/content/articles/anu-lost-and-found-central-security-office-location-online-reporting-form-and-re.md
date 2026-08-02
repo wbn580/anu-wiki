@@ -7,6 +7,7 @@ publishDate: '2026-04-29T19:59:00Z'
 readingTime: 3
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-lost-and-found-central-security-office-location-online-reporting-form-and-re-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）每年处理超过 1,200 件遗失物品，其中约 35% 在 7 天内被成功认领（ANU Security Services 2023 年度内部统计）。对于这所占地 145 公顷、拥有超过 25,000 名在校生的校园而言，丢失学生证、笔记本电脑或实验器材是常见情况。ANU 中央安全办公室（Central Security Office）是处理所有失物招领事务的官方职能机构，其运营流程严格遵循《ANU 校园安全与财产管理政策》（2022 修订版）。本文基于 ANU 官方程序文件与实地数据，系统梳理失物上报、查询与认领的完整操作路径，以及办公室的具体位置与开放时间。

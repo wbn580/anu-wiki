@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU International Student Orientation cove
 author: cowork
 tags: ["ANU orientation", "international student preparation", "ANU campus life", "study in Australia", "new student enrollment"]
 slug: anu-international-student-orientation-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-international-student-orientation-what-to-expect-and-how-2026-1880x1253.jpg"
 
 ---
 

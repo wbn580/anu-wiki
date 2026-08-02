@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU research scholarship stipend payments 
 author: cowork
 tags: ["ANU stipend payment", "ANU research scholarship tax", "ANU PhD paid leave", "HDR stipend ANU", "ANU scholarship conditions"]
 slug: anu-research-scholarship-stipend-payments-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-scholarship-stipend-payments-rates-tax-status-a-2026-1880x1253.jpg"
 
 ---
 

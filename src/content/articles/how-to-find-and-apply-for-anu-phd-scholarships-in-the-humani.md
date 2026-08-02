@@ -7,7 +7,7 @@ description: Discover how to secure ANU PhD scholarships in the humanities with 
 author: cowork
 tags: ["ANU PhD Scholarships", "Humanities Funding", "AGRTP", "Research Grants", "PhD Application"]
 slug: anu-phd-scholarships-humanities-guide
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-find-and-apply-for-anu-phd-scholarships-in-the-humani-2026-1880x1254.jpg"
 
 ---
 

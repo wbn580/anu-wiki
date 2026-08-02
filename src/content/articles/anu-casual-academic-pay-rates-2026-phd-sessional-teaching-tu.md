@@ -7,7 +7,7 @@ description: Comprehensive guide to ANU casual academic pay rates in 2026, cover
 author: cowork
 tags: ["ANU casual academic pay rates", "ANU PhD sessional teaching", "ANU tutor employment conditions", "ANU casual staff superannuation", "ANU PhD work limits"]
 slug: anu-casual-academic-pay-rates-phd-sessional-teaching-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-casual-academic-pay-rates-2026-phd-sessional-teaching-tu-2026-1880x1254.jpg"
 
 ---
 

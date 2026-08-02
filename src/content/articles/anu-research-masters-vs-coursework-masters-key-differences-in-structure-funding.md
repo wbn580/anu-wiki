@@ -8,6 +8,7 @@ readingTime: 3
 tags: ["featured"]
 hideFromHome: true
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-masters-vs-coursework-masters-key-differences-in-structure-funding-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）在2025年QS世界大学排名中位列第30位，其研究生教育体系主要分为研究型硕士（Research Masters）和授课型硕士（Coursework Masters）两种路径。根据澳大利亚教育部2024年发布的《高等教育学生数据年度报告》，2023年全澳授课型硕士入学人数为198,437人，而研究型硕士仅为19,872人，两者在课程结构、资金支持及职业导向上存在显著差异。对于计划攻读ANU硕士的学生而言，理解这些差异直接影响学术规划与投资回报。

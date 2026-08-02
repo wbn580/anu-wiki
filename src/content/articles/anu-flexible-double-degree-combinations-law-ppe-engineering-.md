@@ -7,7 +7,7 @@ description: Explore the structure, workload, and strategic value of ANU flexibl
 author: cowork
 tags: ["ANU flexible double degree", "combined degree structure Australia", "Law PPE double degree", "Engineering Advanced Computing ANU", "undergraduate program planning"]
 slug: anu-flexible-double-degree-combinations-law-ppe-engineering-advanced-computing
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-flexible-double-degree-combinations-law-ppe-engineering--2026-1880x1253.jpg"
 
 ---
 

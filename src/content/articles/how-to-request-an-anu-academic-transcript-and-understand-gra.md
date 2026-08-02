@@ -7,7 +7,7 @@ description: A comprehensive guide to ordering your official ANU academic transc
 author: cowork
 tags: []
 slug: anu-transcript-grading-guide-2026
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-request-an-anu-academic-transcript-and-understand-gra-2026-1880x1253.jpg"
 
 ---
 

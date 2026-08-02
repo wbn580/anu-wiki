@@ -7,6 +7,7 @@ publishDate: '2026-03-24T19:52:00Z'
 readingTime: 13
 tags: ["featured"]
 
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-国际学生跨文化适应工作坊内容与时间表-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）自2000年起为国际学生开设跨文化适应工作坊（Intercultural Adjustment Workshop），旨在帮助来自120多个国家、占全校总学生数约42%的国际学生群体（2023年ANU年度报告数据）应对文化冲击与学术融入挑战。根据澳大利亚教育部2024年发布的《国际学生体验调查》，在澳国际学生中约37%在入学第一学期报告中等至重度文化适应困难，而ANU的工作坊体系被列为全国最佳实践案例之一。该系列工作坊每年在O-Week（迎新周）、Semester 1第3-5周、Semester 2第2-4周三个时段集中举办，2025年时间表已由ANU学生服务部（Student Central）于2024年11月公布。

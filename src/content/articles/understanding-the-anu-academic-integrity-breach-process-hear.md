@@ -7,7 +7,7 @@ description: A comprehensive guide to navigating the Australian National Univers
 author: cowork
 tags: ["anu academic integrity breach", "anu academic misconduct hearing", "anu integrity submission", "anu academic appeal process", "australian university student conduct"]
 slug: anu-academic-integrity-breach-process-hearings-submissions
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/understanding-the-anu-academic-integrity-breach-process-hear-2026-1880x1253.jpg"
 
 ---
 

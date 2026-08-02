@@ -7,7 +7,7 @@ description: A comprehensive guide to the ANU temporary withdrawal and leave of 
 author: cowork
 tags: ["ANU temporary withdrawal", "ANU leave of absence", "ANU medical withdrawal", "student visa leave of absence", "ANU return to study"]
 slug: anu-temporary-withdrawal-leave-of-absence-health-personal-reasons
-ogImage: ""
+ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-temporary-withdrawal-leave-of-absence-process-for-health-2026-1880x1253.jpg"
 
 ---
 
