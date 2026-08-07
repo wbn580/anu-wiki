@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU leave of absence and program leave pol
 author: cowork
 tags: ["ANU leave of absence", "ANU program leave international student visa", "ANU maximum leave duration", "ANU domestic student leave policy", "ANU re-enrolment after leave"]
 slug: anu-leave-of-absence-program-leave-domestic-international-rules-visa-implications
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-leave-of-absence-and-program-leave-domestic-vs-internati-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-leave-of-absence-and-program-leave-domestic-vs-internati-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

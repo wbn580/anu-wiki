@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University academi
 author: cowork
 tags: ["ANU", "academic integrity", "misconduct hearing", "appeal process", "student discipline"]
 slug: anu-academic-integrity-breach-hearing-appeal-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-academic-integrity-breach-process-what-to-expect-in-a-he-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-academic-integrity-breach-process-what-to-expect-in-a-he-2026-1880x1253.jpg"
 
 ---
 

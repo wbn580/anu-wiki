@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU parking permit rules for students in 2
 author: cowork
 tags: ["ANU parking", "student life Australia", "campus commuting", "Canberra transport", "university parking"]
 slug: anu-parking-permit-student-2025-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-parking-permit-rules-for-students-zones-costs-and-altern-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-parking-permit-rules-for-students-zones-costs-and-altern-2026-1880x1253.jpg"
 
 ---
 

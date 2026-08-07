@@ -7,7 +7,7 @@ description: Explore the comprehensive support ecosystem within ANU residential 
 author: cowork
 tags: ["ANU residential support", "ANU on-campus living", "student accommodation", "university halls", "peer mentoring"]
 slug: anu-residential-hall-culture-support
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-residential-hall-culture-and-support-senior-residents-ac-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residential-hall-culture-and-support-senior-residents-ac-2026-1880x1253.jpg"
 
 ---
 

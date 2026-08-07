@@ -7,7 +7,7 @@ description: A comprehensive guide to Overseas Student Health Cover for Australi
 author: cowork
 tags: ["ANU international student health insurance", "ANU OSHC providers", "OSHC claims ANU", "ANU on-campus health services", "student health cover Australia"]
 slug: anu-health-insurance-international-students-oshc-providers-coverage-claims
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-health-insurance-for-international-students-oshc-provide-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-health-insurance-for-international-students-oshc-provide-2026-1880x1253.jpg"
 
 ---
 

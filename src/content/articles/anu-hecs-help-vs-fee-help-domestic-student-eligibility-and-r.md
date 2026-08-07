@@ -7,7 +7,7 @@ description: Compare ANU HECS-HELP and FEE-HELP loan schemes for domestic studen
 author: cowork
 tags: ["ANU", "HECS-HELP", "FEE-HELP", "domestic students", "repayment threshold", "Commonwealth Supported Place"]
 slug: anu-hecs-help-vs-fee-help-eligibility-repayment-thresholds
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-hecs-help-vs-fee-help-domestic-student-eligibility-and-r-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-hecs-help-vs-fee-help-domestic-student-eligibility-and-r-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

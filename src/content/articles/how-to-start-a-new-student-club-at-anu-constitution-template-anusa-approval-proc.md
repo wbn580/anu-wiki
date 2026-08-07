@@ -7,7 +7,7 @@ publishDate: '2026-05-21T20:03:17Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-start-a-new-student-club-at-anu-constitution-template-anusa-approval-proc-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-start-a-new-student-club-at-anu-constitution-template-anusa-approval-proc-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）每年活跃着超过200个学生社团与俱乐部，其中约15至20个为新注册成立的团体，覆盖学术、文化、体育及兴趣等多个领域。根据ANU学生协会（ANUSA）2024年发布的《俱乐部指南》，新社团的成立需依次完成**起草章程（Constitution）**、**通过ANUSA审批（Approval）** 以及**申请初始资金（Funding）** 三个核心步骤。这一流程不仅受ANUSA章程第5条管辖，也需符合澳大利亚首都领地（ACT）《社团成立法》（Associations Incorporation Act 1991）的基本要求。对于希望在校园内发起新活动的学生而言，理解这套标准化程序是确保社团合法运营并获取每年最高2,000澳元活动资助的前提。

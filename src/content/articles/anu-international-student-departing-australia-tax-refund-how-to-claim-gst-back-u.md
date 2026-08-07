@@ -7,7 +7,7 @@ publishDate: '2026-05-21T20:03:17Z'
 readingTime: 9
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-international-student-departing-australia-tax-refund-how-to-claim-gst-back-u-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-international-student-departing-australia-tax-refund-how-to-claim-gst-back-u-2026-1880x1253.jpg"
 ---
 
 ANU International Student Departing Australia Tax Refund: How to Claim GST Back Under the Tourist Refund Scheme at the Airport

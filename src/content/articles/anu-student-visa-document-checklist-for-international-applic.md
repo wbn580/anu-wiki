@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University student
 author: cowork
 tags: ["ANU student visa documents", "Australian visa checklist ANU", "subclass 500 ANU requirements", "ANU visa financial proof", "ANU international admissions"]
 slug: anu-student-visa-document-checklist-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-document-checklist-for-international-applic-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-student-visa-document-checklist-for-international-applic-2026-1880x1253.jpg"
 
 ---
 

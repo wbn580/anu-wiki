@@ -7,7 +7,7 @@ description: A comprehensive guide to off-campus housing near the Australian Nat
 author: cowork
 tags: ["ANU accommodation", "Canberra student housing", "off-campus living", "international students Australia", "rental guide"]
 slug: anu-off-campus-housing-guide-suburbs-costs-lease-tips
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-off-campus-housing-options-suburbs-costs-and-lease-tips--2026-1733x1300.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-off-campus-housing-options-suburbs-costs-and-lease-tips--2026-1733x1300.jpg"
 
 ---
 

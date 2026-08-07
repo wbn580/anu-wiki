@@ -7,7 +7,7 @@ description: A comprehensive guide to navigating ANU grade appeal and academic r
 author: cowork
 tags: ['ANU grade appeal', 'ANU academic reconsideration', 'ANU assessment review', 'ANU academic decision challenge', 'ANU student rights']
 slug: anu-course-review-reconsideration-academic-decision-challenge
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-course-review-and-reconsideration-how-to-challenge-a-fin-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-course-review-and-reconsideration-how-to-challenge-a-fin-2026-1880x1253.jpg"
 
 ---
 

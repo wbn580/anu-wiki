@@ -7,7 +7,7 @@ description: Explore ANU short courses, micro-credentials, and non-award study o
 author: cowork
 tags: ["ANU short courses", "ANU micro-credential", "ANU non-award study", "ANU professional development", "ANU single unit enrolment"]
 slug: anu-short-courses-micro-credentials-non-award-study-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-short-courses-and-micro-credentials-a-complete-guide-to--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-short-courses-and-micro-credentials-a-complete-guide-to--2026-1880x1253.jpg"
 
 ---
 

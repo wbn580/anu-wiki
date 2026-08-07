@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU library borrowing limits, document del
 author: cowork
 tags: ["ANU library remote access", "ANU digital resources offshore student", "ANU library borrowing limit", "ANU document delivery service", "ANU online student library"]
 slug: anu-library-borrowing-digital-resources-access-rules-online-offshore-students
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-library-borrowing-and-digital-resources-access-rules-for-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-library-borrowing-and-digital-resources-access-rules-for-2026-1880x1253.jpg"
 
 ---
 

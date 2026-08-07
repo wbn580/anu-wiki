@@ -7,7 +7,7 @@ description: Discover what the ANU Master of Public Policy capstone project invo
 author: cowork
 tags: ["ANU MPP capstone", "public policy graduate project", "Australian National University", "policy analysis training", "graduate final project preparation"]
 slug: anu-mpp-capstone-project-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-public-policy-capstone-project-what-to-expect--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-public-policy-capstone-project-what-to-expect--2026-1880x1253.jpg"
 
 ---
 

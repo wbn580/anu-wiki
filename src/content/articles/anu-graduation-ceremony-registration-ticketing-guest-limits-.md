@@ -7,7 +7,7 @@ description: Complete guide to ANU graduation ceremony registration for 2026. Co
 author: cowork
 tags: ["ANU graduation registration", "ANU ceremony tickets", "ANU academic dress hire", "ANU guest limit graduation", "ANU graduation timeline"]
 slug: anu-graduation-ceremony-registration-ticketing-guest-limits-academic-dress-hire-timelines
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-graduation-ceremony-registration-ticketing-guest-limits--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-graduation-ceremony-registration-ticketing-guest-limits--2026-1880x1253.jpg"
 
 ---
 

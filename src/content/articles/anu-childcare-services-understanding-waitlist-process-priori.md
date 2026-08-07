@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU childcare services for student parents
 author: cowork
 tags: ["ANU childcare waitlist", "ANU student parent support", "ANU childcare subsidy", "ANU family services", "ANU daycare priority"]
 slug: anu-childcare-services-waitlist-priority-subsidy
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-childcare-services-understanding-waitlist-process-priori-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-childcare-services-understanding-waitlist-process-priori-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: A comprehensive guide to free mental health support at the Australi
 author: cowork
 tags: ["ANU counselling", "student mental health", "free wellbeing resources", "international student support", "telehealth services"]
 slug: anu-mental-health-wellbeing-free-resources-2025
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-mental-health-and-wellbeing-resources-whats-free-for-stu-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-mental-health-and-wellbeing-resources-whats-free-for-stu-2026-1880x1253.jpg"
 
 ---
 

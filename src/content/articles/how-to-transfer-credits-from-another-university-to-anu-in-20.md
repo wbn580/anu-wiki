@@ -7,7 +7,7 @@ description: A comprehensive guide to the ANU credit transfer policy, covering e
 author: cowork
 tags: []
 slug: transfer-credits-anu-guide-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-transfer-credits-from-another-university-to-anu-in-20-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-transfer-credits-from-another-university-to-anu-in-20-2026-1880x1253.jpg"
 
 ---
 

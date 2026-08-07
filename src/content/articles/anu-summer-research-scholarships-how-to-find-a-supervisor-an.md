@@ -7,7 +7,7 @@ description: A comprehensive guide to securing an ANU Summer Research Scholarshi
 author: cowork
 tags: []
 slug: anu-summer-research-scholarships-supervisor-application-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-summer-research-scholarships-how-to-find-a-supervisor-an-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-summer-research-scholarships-how-to-find-a-supervisor-an-2026-1880x1253.jpg"
 
 ---
 

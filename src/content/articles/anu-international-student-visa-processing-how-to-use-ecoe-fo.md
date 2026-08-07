@@ -7,7 +7,7 @@ description: A comprehensive guide to navigating ANU's international student vis
 author: cowork
 tags: ["ANU eCoE visa", "Australian student visa", "ANU international students", "streamlined visa processing", "ANU OSHC"]
 slug: anu-international-student-visa-ecoe-streamlined-processing
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-international-student-visa-processing-how-to-use-ecoe-fo-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-international-student-visa-processing-how-to-use-ecoe-fo-2026-1880x1253.jpg"
 
 ---
 

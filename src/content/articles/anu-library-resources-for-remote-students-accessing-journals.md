@@ -7,7 +7,7 @@ description: Discover how ANU remote students can fully access library journals,
 author: cowork
 tags: []
 slug: anu-library-resources-remote-students-journals-ebooks
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-library-resources-for-remote-students-accessing-journals-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-library-resources-for-remote-students-accessing-journals-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: '2026-03-18T19:50:42Z'
 readingTime: 14
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-学生宿舍访客登记制度与过夜规定-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-学生宿舍访客登记制度与过夜规定-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）校内住宿系统涵盖 17 座住宿楼（residential halls）与 8 座自助式公寓（lodges），截至 2024 年共容纳约 6,500 名学生。根据 ANU 住宿服务处（ANU Accommodation Services）2024 年发布的《住户手册》，所有住宿楼均执行统一的访客登记制度，其中过夜访客（overnight guest）的申请与批准流程是新生与交换生最常咨询的条款之一。该制度直接关联校园安全管理与住户隐私权平衡，在 2023 年 ANU 校园安全年度报告中，访客管理被列为住宿投诉的第三大来源（占投诉总量的 12.7%），因此了解现行规定对在校住宿生具有实际参考价值。

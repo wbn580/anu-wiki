@@ -7,7 +7,7 @@ description: Explore the ANU Bachelor of International Relations degree structur
 author: cowork
 tags: ["anu international relations", "language minor anu", "diplomatic career australia", "dfat graduate program", "international relations degree"]
 slug: anu-bir-language-minor-diplomatic-career
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-international-relations-language-minor-requi-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-international-relations-language-minor-requi-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: '2026-04-07T19:54:51Z'
 readingTime: 12
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-国际学生澳洲驾照考试流程与路考预约-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生澳洲驾照考试流程与路考预约-2026-1880x1253.jpg"
 ---
 
 ANU 国际学生澳洲驾照考试流程与路考预约

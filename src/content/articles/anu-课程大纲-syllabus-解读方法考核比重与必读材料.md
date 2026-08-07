@@ -7,7 +7,7 @@ publishDate: '2026-03-05T19:48:07Z'
 readingTime: 13
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-课程大纲-syllabus-解读方法考核比重与必读材料-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-课程大纲-syllabus-解读方法考核比重与必读材料-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）每学期向约 25,000 名学生（ANU 2023 年度报告）发布课程大纲（Course Outline / Syllabus），该文件是界定课程考核结构、学术诚信要求及必读材料的核心法律文件。根据澳大利亚高等教育质量标准局（TEQSA 2023）的规范，课程大纲必须包含至少 60% 的持续评估（如论文、小测）与期末考试的权重分配细则。对于 ANU 学生而言，正确解读 Syllabus 中的考核比重与必读材料，是制定学期学习策略、避免学术违规的首要步骤。

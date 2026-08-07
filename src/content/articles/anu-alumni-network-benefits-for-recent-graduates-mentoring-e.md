@@ -7,7 +7,7 @@ description: Discover how the ANU alumni network empowers recent graduates with 
 author: cowork
 tags: ["ANU alumni benefits", "ANU alumni career services", "ANU graduate network", "ANU alumni mentoring program", "Australian National University"]
 slug: anu-alumni-network-benefits-recent-graduates
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-alumni-network-benefits-for-recent-graduates-mentoring-e-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-alumni-network-benefits-for-recent-graduates-mentoring-e-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University academi
 author: cowork
 tags: ["ANU academic appeal", "ANU grade review", "ANU academic misconduct appeal", "ANU appeals committee", "ANU student grievance process"]
 slug: anu-academic-appeals-guide-grounds-evidence-committee
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/navigating-anu-academic-appeals-grounds-for-review-evidence--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/navigating-anu-academic-appeals-grounds-for-review-evidence--2026-1880x1253.jpg"
 
 ---
 

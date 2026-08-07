@@ -7,7 +7,7 @@ description: A detailed guide to Australian National University's fee payment pl
 author: cowork
 tags: ["ANU fees", "international student finance", "Australian university tuition", "fee payment plans", "late payment penalties"]
 slug: anu-fee-payment-plans-international-students
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-fee-payment-plans-for-international-students-installment-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-fee-payment-plans-for-international-students-installment-2026-1880x1253.jpg"
 
 ---
 

@@ -12,7 +12,7 @@ category: admissions
 lang: en
 language: en
 tags: ["anu-wiki 录取要求与学术背景参考"]
-ogImage: https://img.ulec.com.cn/留学-单校wiki/anu-wiki-guide-2026-07-30-5ccd75b524-image-01-2026-1880x1253.jpg
+ogImage: https://img.anu.wiki/留学-单校wiki/anu-wiki-guide-2026-07-30-5ccd75b524-image-01-2026-1880x1253.jpg
 type: fee
 article_type: fee
 target_query: "ANU申请中介"

@@ -7,7 +7,7 @@ description: Explore the Australian National University Master of Climate Change
 author: cowork
 tags: ["ANU climate change master", "ANU environmental master research", "ANU climate degree fieldwork", "ANU climate policy career", "ANU FSES climate program"]
 slug: anu-master-climate-change-fieldwork-research-policy-careers
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-climate-change-fieldwork-research-projects-and-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-climate-change-fieldwork-research-projects-and-2026-1880x1253.jpg"
 
 ---
 

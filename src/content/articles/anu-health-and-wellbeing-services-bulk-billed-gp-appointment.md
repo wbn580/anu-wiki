@@ -7,7 +7,7 @@ description: Explore the comprehensive health and wellbeing services at the Aust
 author: cowork
 tags: ["ANU medical centre", "ANU bulk billing GP", "ANU mental health support", "ANU counselling service", "ANU health referral"]
 slug: anu-health-wellbeing-services-gp-mental-health-referrals
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-health-and-wellbeing-services-bulk-billed-gp-appointment-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-health-and-wellbeing-services-bulk-billed-gp-appointment-2026-1880x1253.jpg"
 
 ---
 

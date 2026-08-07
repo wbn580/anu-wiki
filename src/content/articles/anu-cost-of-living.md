@@ -7,7 +7,7 @@ publishDate: "2026-05-15T07:15:00Z"
 
 tags:
   - "education"
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-cost-of-living-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-cost-of-living-2026-1880x1253.jpg"
 ---
 
 Canberra is more affordable than Sydney or Melbourne for students, but costs are not negligible. This article provides a detailed budget breakdown for ANU students. All figures in Australian dollars (AUD).

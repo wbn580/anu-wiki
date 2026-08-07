@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU cross-institutional study for students
 author: cowork
 tags: ["ANU cross-institutional study", "inter-university courses", "credit transfer Australia", "ANU study abroad", "Australian university exchange"]
 slug: anu-cross-institutional-study-other-australian-universities
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/navigating-anus-cross-institutional-study-taking-courses-at--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/navigating-anus-cross-institutional-study-taking-courses-at--2026-1880x1253.jpg"
 
 ---
 

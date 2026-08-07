@@ -7,7 +7,7 @@ description: Navigate the Australian National University's census dates and tuit
 author: cowork
 tags: ["ANU census date","Australian National University fees","international student refund","course withdrawal Australia","tuition fee policy"]
 slug: anu-census-dates-fee-refund-practical-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-census-dates-and-fee-refund-policies-a-practical-guide-f-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-census-dates-and-fee-refund-policies-a-practical-guide-f-2026-1880x1253.jpg"
 
 ---
 

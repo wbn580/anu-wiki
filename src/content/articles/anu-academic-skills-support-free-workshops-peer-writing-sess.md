@@ -7,7 +7,7 @@ description: Discover how ANU academic skills workshops, peer writing sessions, 
 author: cowork
 tags: ["ANU academic skills", "peer writing support", "learning adviser appointment", "referencing help free", "study skills Australia"]
 slug: anu-academic-skills-support-free-workshops-peer-writing-learning-advisers
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-academic-skills-support-free-workshops-peer-writing-sess-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-academic-skills-support-free-workshops-peer-writing-sess-2026-1880x1253.jpg"
 
 ---
 

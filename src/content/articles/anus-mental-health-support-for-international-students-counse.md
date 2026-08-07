@@ -7,7 +7,7 @@ description: Explore how the Australian National University provides comprehensi
 author: cowork
 tags: ["ANU mental health services", "international student wellbeing", "ANU counseling", "crisis support Australia", "student life"]
 slug: anu-mental-health-support-international-students-counseling-workshops-crisis-lines
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anus-mental-health-support-for-international-students-counse-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anus-mental-health-support-for-international-students-counse-2026-1880x1253.jpg"
 
 ---
 

@@ -26,7 +26,7 @@ const homeSchema = JSON.stringify({
 
 <BaseLayout
   title="ANU Wiki — Your Independent Guide to the Australian National University"
-  description="Comprehensive guide to the Australian National University: admissions, academics, campus life, student services, and everything you need to know about studying at ANU."
+  description="Comprehensive guide to the Australian National University: admissions, academics, campus life, student services."
   schema={homeSchema}
 >
   <!-- Hero -->
@@ -52,7 +52,7 @@ const homeSchema = JSON.stringify({
       </div>
       <div class="egrid">
         {featured.map((article) => (
-          <a href={`/${article.slug}/`} class="epost">
+          <a href={`/${(article.slug ?? article.id)}/`} class="epost">
             <div class="ethumb">
               <img src={article.data.ogImage || DEFAULT_OG} alt={article.data.title} loading="lazy" />
               <span class="ecat">{article.data.category}</span>

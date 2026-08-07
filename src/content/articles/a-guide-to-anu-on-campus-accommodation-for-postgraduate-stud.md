@@ -7,7 +7,7 @@ description: Discover the best options for ANU postgraduate accommodation in 202
 author: cowork
 tags: ["ANU accommodation", "postgraduate housing", "Australian National University", "graduate student life", "campus living"]
 slug: anu-on-campus-accommodation-postgraduate-students
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/a-guide-to-anu-on-campus-accommodation-for-postgraduate-stud-2026-1733x1300.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/a-guide-to-anu-on-campus-accommodation-for-postgraduate-stud-2026-1733x1300.jpg"
 
 ---
 

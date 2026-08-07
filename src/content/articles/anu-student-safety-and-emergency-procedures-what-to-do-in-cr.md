@@ -7,7 +7,7 @@ description: A comprehensive guide to Australian National University campus safe
 author: cowork
 tags: ["ANU campus safety", "student security Australia", "international student safety", "emergency procedures", "university crisis response"]
 slug: anu-student-safety-emergency-procedures-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-safety-and-emergency-procedures-what-to-do-in-cr-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-student-safety-and-emergency-procedures-what-to-do-in-cr-2026-1880x1253.jpg"
 
 ---
 

@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 
 hideFromHome: true
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-校友网络使用指南人脉拓展与职业内推机会-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校友网络使用指南人脉拓展与职业内推机会-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）校友网络覆盖全球超过140个国家与地区，拥有逾18万名注册校友，其中约4.2万人居住在澳大利亚境外（ANU Alumni Office, 2024, *ANU Global Alumni Database*）。根据《泰晤士高等教育》（THE）2024年全球就业能力排名，ANU毕业生就业力位列澳大利亚第1位、全球第30位，校友网络在职业内推与人脉拓展中扮演关键角色。对于在校生与应届毕业生而言，系统性地利用这一资源，可显著提升进入政府、科研与国际组织等目标行业的成功率。

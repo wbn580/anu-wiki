@@ -7,7 +7,7 @@ publishDate: '2026-05-13T20:01:46Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-campus-automated-external-defibrillator-locations-map-how-to-use-an-aed-and-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-automated-external-defibrillator-locations-map-how-to-use-an-aed-and-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）在Acton主校区部署了超过**50台**自动体外除颤器（AED），覆盖全部主要教学楼、图书馆、宿舍区和体育设施。根据澳大利亚心脏基金会（Heart Foundation, 2023）数据，心脏骤停发生后每延迟1分钟除颤，生存率下降7-10%，而AED可将院外心脏骤停存活率提升至**70%**以上。本条目汇总ANU校区AED地图位置、设备操作流程、校内第一响应人（First Responder）培训注册通道，以及相关安全政策依据，供在校师生与访客参考。

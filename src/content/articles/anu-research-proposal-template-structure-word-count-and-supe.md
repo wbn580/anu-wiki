@@ -7,7 +7,7 @@ description: A comprehensive guide to crafting a competitive research proposal f
 author: cowork
 tags: ["ANU research proposal", "PhD application Australia", "MPhil research statement", "graduate school admission", "ANU supervisor expectations"]
 slug: anu-research-proposal-template-structure-word-count
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-proposal-template-structure-word-count-and-supe-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-proposal-template-structure-word-count-and-supe-2026-1880x1253.jpg"
 
 ---
 

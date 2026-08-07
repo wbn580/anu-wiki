@@ -7,7 +7,7 @@ description: A comprehensive guide to securing ANU fieldwork grants and travel f
 author: cowork
 tags: ["ANU fieldwork grant", "ANU travel funding", "ANU research travel insurance", "ANU fieldwork safety", "ANU student travel approval"]
 slug: anu-fieldwork-travel-grants-funding-safety-insurance-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-fieldwork-and-travel-grants-funding-sources-safety-proto-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-fieldwork-and-travel-grants-funding-sources-safety-proto-2026-1880x1253.jpg"
 
 ---
 

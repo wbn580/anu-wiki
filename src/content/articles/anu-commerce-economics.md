@@ -7,7 +7,7 @@ publishDate: "2026-05-15T07:25:00Z"
 
 tags:
   - "education"
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-commerce-economics-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-commerce-economics-2026-1880x1253.jpg"
 ---
 ANU College of Business and Economics (CBE) offers undergraduate and postgraduate programs with a strong quantitative and analytical emphasis. CBE's partnership with the Australian Treasury, Reserve Bank, and Productivity Commission provides distinctive policy-oriented career pathways.
 

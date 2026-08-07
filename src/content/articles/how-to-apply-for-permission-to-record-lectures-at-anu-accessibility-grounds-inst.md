@@ -7,7 +7,7 @@ publishDate: '2026-05-16T20:02:18Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-apply-for-permission-to-record-lectures-at-anu-accessibility-grounds-inst-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-apply-for-permission-to-record-lectures-at-anu-accessibility-grounds-inst-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）于 2023 年修订的《课堂录音政策》（Lecture Recording Policy）规定，学生原则上不得未经授权录制课堂内容，但基于 **Accessibility（无障碍）** 理由的申请可获得例外。根据澳大利亚人权委员会（AHRC）2022 年发布的《高等教育无障碍报告》，全澳约 7.8% 的在读本科生持有经核实的残疾或慢性健康障碍，其中听觉处理障碍、焦虑症及慢性疲劳综合征是最常引用录音需求的三种情况。ANU 学生可通过 **ANU Access & Inclusion（A&I）** 部门提交正式申请，获批后即可获得 instructor consent（讲师许可）及设备支持。截至 2024 年，ANU 图书馆系统共保有 42 台便携式数字录音机可供外借，年外借次数超过 1,200 次。本文基于 ANU 官方政策文本及 Access & Inclusion 操作手册，系统梳理申请流程、许可要件及设备获取路径。

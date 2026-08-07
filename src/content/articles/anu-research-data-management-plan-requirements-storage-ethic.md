@@ -7,7 +7,7 @@ description: A comprehensive guide for HDR candidates at ANU on meeting research
 author: cowork
 tags: ["ANU data management plan", "ANU research data storage", "HDR data compliance ANU", "ANU ethics data", "ANU research milestone review"]
 slug: anu-research-data-management-plan-hdr-candidates
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-data-management-plan-requirements-storage-ethic-2026-1880x1299.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-data-management-plan-requirements-storage-ethic-2026-1880x1299.jpg"
 
 ---
 

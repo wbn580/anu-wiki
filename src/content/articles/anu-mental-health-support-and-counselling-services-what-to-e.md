@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU counselling services for students, cov
 author: cowork
 tags: ["ANU counselling", "mental health support", "student wellbeing", "academic adjustments", "crisis contacts"]
 slug: anu-mental-health-support-counselling-first-appointment
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-mental-health-support-and-counselling-services-what-to-e-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-mental-health-support-and-counselling-services-what-to-e-2026-1880x1253.jpg"
 
 ---
 

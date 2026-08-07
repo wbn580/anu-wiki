@@ -7,7 +7,7 @@ description: A detailed breakdown of Australian National University's PhD admiss
 author: cowork
 tags: ["ANU PhD admission", "PhD research proposal", "supervisor matching", "Australian doctoral programs", "graduate research assessment"]
 slug: how-anu-assesses-phd-applications-supervisor-matching-research-proposal-gpa
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-anu-assesses-phd-applications-supervisor-matching-resear-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-anu-assesses-phd-applications-supervisor-matching-resear-2026-1880x1253.jpg"
 
 ---
 

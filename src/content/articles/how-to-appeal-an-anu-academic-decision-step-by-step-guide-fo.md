@@ -7,7 +7,7 @@ description: A comprehensive guide for international students navigating the ANU
 author: coworks
 tags: []
 slug: anu-academic-appeal-guide-international-students
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-appeal-an-anu-academic-decision-step-by-step-guide-fo-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-appeal-an-anu-academic-decision-step-by-step-guide-fo-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Navigate the 2026 ANU parking permit system with clarity. Explore u
 author: cowork
 tags: ["ANU parking", "campus commuting", "student transport", "Acton campus", "sustainable travel"]
 slug: anu-parking-permit-guide-2026-zones-pricing-alternatives
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-parking-permit-guide-for-2026-zones-pricing-and-alternat-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-parking-permit-guide-for-2026-zones-pricing-and-alternat-2026-1880x1253.jpg"
 
 ---
 

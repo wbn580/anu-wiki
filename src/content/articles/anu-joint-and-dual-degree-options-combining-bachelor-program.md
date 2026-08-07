@@ -7,7 +7,7 @@ description: Explore ANU flexible double degree structures, joint degree interna
 author: cowork
 tags: ["anu double degree combinations", "anu flexible double degree structure", "anu joint degree international workload", "anu bachelor dual program", "Australian National University degrees"]
 slug: anu-joint-dual-degree-options-combining-bachelor-programs
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-joint-and-dual-degree-options-combining-bachelor-program-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-joint-and-dual-degree-options-combining-bachelor-program-2026-1880x1253.jpg"
 
 ---
 

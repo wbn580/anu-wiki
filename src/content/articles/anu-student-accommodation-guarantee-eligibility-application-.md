@@ -7,7 +7,7 @@ description: Everything you need to know about the ANU accommodation guarantee f
 author: cowork
 tags: ["ANU accommodation", "student housing Australia", "Canberra student life", "ANU residence halls", "university lodging"]
 slug: anu-student-accommodation-guarantee-eligibility-application-alternatives
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-accommodation-guarantee-eligibility-application--2026-1733x1300.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-student-accommodation-guarantee-eligibility-application--2026-1733x1300.jpg"
 
 ---
 

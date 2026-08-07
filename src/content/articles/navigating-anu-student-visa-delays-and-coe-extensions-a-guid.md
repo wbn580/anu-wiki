@@ -7,7 +7,7 @@ description: Practical strategies for international students facing Australian N
 author: cowork
 tags: ["ANU visa processing", "CoE extension", "international student enrolment", "visa delay support", "ANU student services"]
 slug: anu-visa-delays-coe-extension-enrolment-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/navigating-anu-student-visa-delays-and-coe-extensions-a-guid-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/navigating-anu-student-visa-delays-and-coe-extensions-a-guid-2026-1880x1253.jpg"
 
 ---
 

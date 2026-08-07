@@ -7,7 +7,7 @@ description: Explore the differences between ANU semester exchange and short-ter
 author: cowork
 tags: ["anu semester exchange", "anu short term study abroad", "anu global programs comparison", "anu exchange vs study abroad", "study abroad australia"]
 slug: anu-semester-exchange-vs-short-term-study-abroad
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-semester-exchange-vs-short-term-study-abroad-choosing-th-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-semester-exchange-vs-short-term-study-abroad-choosing-th-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

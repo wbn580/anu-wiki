@@ -7,7 +7,7 @@ description: A comprehensive guide for Australian National University remote stu
 author: cowork
 tags: ["ANU library", "remote learning", "academic resources", "database access", "document delivery"]
 slug: anu-library-resources-remote-students-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-library-resources-for-remote-students-accessing-database-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-library-resources-for-remote-students-accessing-database-2026-1880x1253.jpg"
 
 ---
 

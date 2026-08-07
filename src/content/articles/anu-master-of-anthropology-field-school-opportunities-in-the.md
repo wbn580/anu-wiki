@@ -7,7 +7,7 @@ description: Explore the Australian National University's Master of Anthropology
 author: cowork
 tags: ["anu anthropology field school", "anu master anthropology pacific", "anu anthropology research", "anu social science fieldwork", "anu anthropology phd preparation"]
 slug: anu-master-anthropology-field-school-pacific-southeast-asia
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-anthropology-field-school-opportunities-in-the-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-anthropology-field-school-opportunities-in-the-2026-1880x1253.jpg"
 
 ---
 

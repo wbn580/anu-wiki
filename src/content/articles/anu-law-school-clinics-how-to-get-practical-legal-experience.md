@@ -7,7 +7,7 @@ description: A comprehensive guide on how JD and LLB students can gain real-worl
 author: cowork
 tags: ["ANU law clinics", "ANU JD practical experience", "ANU legal clinic application", "ANU law student pro bono", "Australian legal education"]
 slug: anu-law-school-clinics-practical-experience-jd-llb
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-law-school-clinics-how-to-get-practical-legal-experience-2026-1880x1045.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-law-school-clinics-how-to-get-practical-legal-experience-2026-1880x1045.jpg"
 
 ---
 

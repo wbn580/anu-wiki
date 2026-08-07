@@ -7,7 +7,7 @@ description: Explore the key differences between ANU's Bachelor of Engineering F
 author: cowork
 tags: []
 slug: anu-engineering-flexible-first-year-vs-direct-specialisation-entry-major-change
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-engineering-flexible-first-year-vs-direct-sp-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-engineering-flexible-first-year-vs-direct-sp-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

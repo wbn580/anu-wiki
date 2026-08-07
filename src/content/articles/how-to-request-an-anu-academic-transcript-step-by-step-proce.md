@@ -7,7 +7,7 @@ description: A comprehensive guide on requesting an Australian National Universi
 author: cowork
 tags: []
 slug: anu-academic-transcript-request-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-request-an-anu-academic-transcript-step-by-step-proce-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-request-an-anu-academic-transcript-step-by-step-proce-2026-1880x1253.jpg"
 
 ---
 

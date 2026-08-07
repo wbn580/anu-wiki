@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU psychology honours admission requireme
 author: cowork
 tags: []
 slug: anu-psychology-honours-entry-requirements-gpa-research-referee
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-psychology-honours-entry-requirements-gpa-cutoffs-resear-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-psychology-honours-entry-requirements-gpa-cutoffs-resear-2026-1880x1253.jpg"
 
 ---
 

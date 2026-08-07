@@ -8,7 +8,7 @@ readingTime: 10
 tags: ["featured"]
 
 hideFromHome: true
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-艺术与设计专业作品集提交要求与评审标准-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-艺术与设计专业作品集提交要求与评审标准-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）艺术与设计学院（School of Art & Design）每年收到超过1,200份国际学生申请，其中约65%的申请者需提交作品集作为核心评审材料【ANU Admissions Data 2024】。根据2023年《泰晤士高等教育》世界大学排名，ANU在艺术与人文学科位列全球第30位，其作品集评审标准被行业视为澳大利亚顶尖艺术院校的基准【THE World University Rankings 2023】。随着2025年入学申请季的临近，理解ANU作品集的具体提交要求与评审权重，已成为申请者能否获得录取的关键变量。

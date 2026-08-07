@@ -7,7 +7,7 @@ description: Explore the flexible structure of the ANU Bachelor of Arts, includi
 author: cowork
 tags: ["ANU BA double major", "ANU arts major combinations", "ANU flexible degree structure", "program planning", "Australian National University"]
 slug: anu-bachelor-of-arts-flexible-double-major-rules-uncommon-combinations
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-anu-bachelor-of-arts-double-major-rules-let-you-build-an-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-anu-bachelor-of-arts-double-major-rules-let-you-build-an-2026-1880x1253.jpg"
 
 ---
 

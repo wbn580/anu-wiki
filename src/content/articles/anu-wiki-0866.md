@@ -11,13 +11,13 @@ lang: en
 language: en
 tags:
 - anu-wiki 录取要求与学术背景参考
-ogImage: https://img.ulec.com.cn/留学-单校wiki/anu-wiki-guide-2026-07-30-5ccd75b524-image-01-2026-1880x1253.jpg
+ogImage: https://img.anu.wiki/留学-单校wiki/anu-wiki-guide-2026-07-30-5ccd75b524-image-01-2026-1880x1253.jpg
 category: admissions
 ---
 
 澳大利亚国立大学（The Australian National University，简称 ANU）位于首都堪培拉，是澳大利亚联邦政府直属的研究型大学。学校在政治学、公共政策、国际关系、亚太研究以及自然科学领域具有长期积累，本科与研究生阶段的录取评估均以学术能力为核心，同时考察学科匹配度与独立研究潜力。
 
-![2027 年澳大利亚国立大学（The Australian National University）录取要求与学术背景参考](https://img.ulec.com.cn/留学-单校wiki/anu-wiki-guide-2026-07-30-5ccd75b524-image-01-2026-1880x1253.jpg)
+![2027 年澳大利亚国立大学（The Australian National University）录取要求与学术背景参考](https://img.anu.wiki/留学-单校wiki/anu-wiki-guide-2026-07-30-5ccd75b524-image-01-2026-1880x1253.jpg)
 
 本文梳理 ANU 本科与研究生申请中常见的学术背景要求、语言能力门槛以及评估逻辑，帮助申请者在准备阶段建立清晰的认知框架。所有信息均以稳定、可泛化的定性描述为主，具体课程的最新要求请以 ANU 各学院官网发布为准。
 

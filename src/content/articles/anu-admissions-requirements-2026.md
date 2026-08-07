@@ -7,7 +7,7 @@ publishDate: "2026-05-15T07:20:00Z"
 
 tags:
   - "education"
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-admissions-requirements-2026-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-admissions-requirements-2026-2026-1880x1253.jpg"
 ---
 
 ANU has a unique admissions process in Australia — the most selective university for domestic admissions and one of the most flexible for international admissions. This article covers entry requirements for both cohorts.

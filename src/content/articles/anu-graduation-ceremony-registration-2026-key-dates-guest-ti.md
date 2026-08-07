@@ -7,7 +7,7 @@ description: Navigate the Australian National University graduation registration
 author: cowork
 tags: ["ANU graduation", "graduation registration", "academic dress hire", "graduation ceremony 2026", "Australian National University"]
 slug: anu-graduation-ceremony-registration-dates-ticketing-gown-hire
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-graduation-ceremony-registration-2026-key-dates-guest-ti-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-graduation-ceremony-registration-2026-key-dates-guest-ti-2026-1880x1253.jpg"
 
 ---
 

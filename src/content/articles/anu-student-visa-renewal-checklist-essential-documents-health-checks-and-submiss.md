@@ -7,7 +7,7 @@ publishDate: '2026-04-11T19:55:36Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-renewal-checklist-essential-documents-health-checks-and-submiss-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-student-visa-renewal-checklist-essential-documents-health-checks-and-submiss-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）国际学生签证续签流程涉及多项法定要求与时间节点。根据澳大利亚内政事务部（Department of Home Affairs）2024年数据，学生签证（Subclass 500）平均处理时间为42天至4个月不等，而ANU在2023年共招收了10,415名国际学生（ANU 2023年度报告），其中约30%在就读期间需要至少一次签证续签。当前澳大利亚移民政策持续调整，2024年7月起实施的真实学生测试（Genuine Student Test, GST）替代了原有的真实学生者（Genuine Student, GS）要求，直接影响了续签材料的准备逻辑。本文系统梳理ANU学生签证续签的必备文件清单、健康检查流程及提交时间线，帮助国际学生规避因材料缺失或时间延误导致的签证逾期风险。

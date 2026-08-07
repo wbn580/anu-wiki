@@ -7,7 +7,7 @@ description: Struggling to choose between ANU Bachelor of Arts and Bachelor of S
 author: cowork
 tags: ["anu ba vs bsc", "anu arts or science", "anu bachelor degree comparison", "anu career pathways arts science", "australian national university"]
 slug: anu-bachelor-of-arts-vs-bachelor-of-science-career-goals
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-arts-vs-bachelor-of-science-how-to-decide-ba-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-arts-vs-bachelor-of-science-how-to-decide-ba-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

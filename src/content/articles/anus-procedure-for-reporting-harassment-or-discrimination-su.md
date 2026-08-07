@@ -7,7 +7,7 @@ description: A comprehensive guide to understanding and navigating the Australia
 author: cowork
 tags: ["ANU harassment reporting", "ANU discrimination complaint", "ANU student support services", "ANU respectful relationships policy", "campus safety"]
 slug: anu-procedure-reporting-harassment-discrimination-support-formal-complaints
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anus-procedure-for-reporting-harassment-or-discrimination-su-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anus-procedure-for-reporting-harassment-or-discrimination-su-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Decode the ANU course code system with this comprehensive guide. Le
 author: cowork
 tags: ["ANU course codes", "ANU enrolment guide", "Australian National University", "course prefixes", "university course levels"]
 slug: anu-course-codes-explained-letters-numbers-enrolment
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/understanding-anu-course-codes-what-letters-and-numbers-mean-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/understanding-anu-course-codes-what-letters-and-numbers-mean-2026-1880x1253.jpg"
 
 ---
 

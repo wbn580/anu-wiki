@@ -7,7 +7,7 @@ publishDate: '2026-05-19T20:03:01Z'
 readingTime: 8
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/what-happens-if-you-breach-your-student-visa-conditions-while-at-anu-consequence-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/what-happens-if-you-breach-your-student-visa-conditions-while-at-anu-consequence-2026-1880x1253.jpg"
 ---
 
 A breach of an Australian student visa (subclass 500) while enrolled at the Australian National University (ANU) carries specific legal consequences defined by the Migration Act 1958 and managed by the Department of Home Affairs. As of 2023–2024, the Australian Government reported that over 18,000 student visas were cancelled nationally for non-compliance with visa conditions, with work-hour violations and unsatisfactory course attendance being the two most common triggers【Department of Home Affairs, 2024, Student Visa Program Report】. For ANU students, understanding these conditions is critical: the university is legally obligated under the Education Services for Overseas Students (ESOS) Act 2000 to report certain breaches to Home Affairs, potentially leading to visa cancellation, a three-year exclusion from applying for a new visa (under the “no further stay” condition 8503 or the Public Interest Criterion 4013), and mandatory departure from Australia. This article provides a structured overview of the specific visa conditions relevant to ANU students, the reporting mechanisms used by the university, the immediate legal consequences of a breach, and the available avenues for administrative review or legal advice.

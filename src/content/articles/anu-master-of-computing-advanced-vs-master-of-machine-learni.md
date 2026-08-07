@@ -7,7 +7,7 @@ description: A detailed comparison of the Australian National University's Maste
 author: cowork
 tags: ["ANU postgraduate courses", "Master of Computing Advanced", "Master of Machine Learning and Computer Vision", "computing curriculum comparison", "Australian university career outcomes"]
 slug: anu-computing-advanced-vs-machine-learning-computer-vision-comparison
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-computing-advanced-vs-master-of-machine-learni-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-computing-advanced-vs-master-of-machine-learni-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

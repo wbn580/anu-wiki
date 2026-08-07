@@ -7,7 +7,7 @@ publishDate: "2026-05-15T07:20:00Z"
 
 tags:
   - "education"
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-international-student-support-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-international-student-support-2026-1880x1253.jpg"
 ---
 
 ANU has one of Australia's most comprehensive international student support ecosystems. With approximately 8,500 international students from 130+ countries, the university invests significantly in dedicated international student services.

@@ -7,7 +7,7 @@ description: A comprehensive guide to crafting a compelling research proposal at
 author: cowork
 tags: ['ANU research proposal', 'HDR application', 'ethics approval', 'supervisor feedback', 'academic writing']
 slug: anu-research-proposal-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-proposal-writing-formatting-ethics-approval-and-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-proposal-writing-formatting-ethics-approval-and-2026-1880x1253.jpg"
 
 ---
 

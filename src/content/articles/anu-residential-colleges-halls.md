@@ -6,7 +6,7 @@ publishDate: "2026-05-15T04:00:00Z"
 readingTime: 8
 tags: ["anu", "residential-colleges", "student-life", "accommodation"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-residential-colleges-halls-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residential-colleges-halls-2026-1880x1253.jpg"
 ---
 
 ANU is Australia's most residential university. More than 5,000 students live on campus — a figure unmatched by any other Australian university. The residential system comprises 11 colleges and halls, each with distinct cultures, governance structures, and price points.

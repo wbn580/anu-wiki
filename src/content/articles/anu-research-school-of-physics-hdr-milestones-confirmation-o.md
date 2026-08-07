@@ -7,7 +7,7 @@ description: A comprehensive guide to the ANU Research School of Physics HDR mil
 author: cowork
 tags: ["ANU physics PhD milestones", "ANU HDR confirmation of candidature", "ANU mid-term review physics", "ANU thesis submission timeline", "ANU research milestone deferral"]
 slug: anu-physics-hdr-milestones-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-school-of-physics-hdr-milestones-confirmation-o-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-school-of-physics-hdr-milestones-confirmation-o-2026-1880x1253.jpg"
 
 ---
 

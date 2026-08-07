@@ -7,7 +7,7 @@ description: A comprehensive guide to navigating ANU's Acton Campus using public
 author: cowork
 tags: ["ANU transport", "Canberra buses", "campus bike parking", "student commuting", "Acton Campus access"]
 slug: anu-public-transport-bike-facilities-acton-campus-suburbs
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-public-transport-and-bike-facilities-getting-to-acton-ca-2026-1880x1246.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-public-transport-and-bike-facilities-getting-to-acton-ca-2026-1880x1246.jpg"
 
 ---
 

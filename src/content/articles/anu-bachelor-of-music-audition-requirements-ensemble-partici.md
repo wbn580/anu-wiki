@@ -7,7 +7,7 @@ description: Explore the Australian National University's Bachelor of Music prog
 author: cowork
 tags: ["ANU music degree", "music audition preparation", "university music programs Australia", "international music student", "music ensemble performance"]
 slug: anu-bachelor-music-audition-ensemble-performance
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-music-audition-requirements-ensemble-partici-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-music-audition-requirements-ensemble-partici-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Navigate the Australian National University parking system in 2026 
 author: cowork
 tags: ["ANU parking permit", "ANU campus parking cost", "ANU virtual permit", "ANU bike parking", "ANU pay-as-you-go parking"]
 slug: anu-parking-permits-campus-transport-2026-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-parking-permits-and-campus-transport-a-2026-guide-to-vir-2026-1880x1246.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-parking-permits-and-campus-transport-a-2026-guide-to-vir-2026-1880x1246.jpg"
 
 ---
 

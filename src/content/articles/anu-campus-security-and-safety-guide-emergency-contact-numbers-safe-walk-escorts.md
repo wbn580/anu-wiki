@@ -7,7 +7,7 @@ publishDate: '2026-04-14T19:56:12Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-campus-security-and-safety-guide-emergency-contact-numbers-safe-walk-escorts-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-security-and-safety-guide-emergency-contact-numbers-safe-walk-escorts-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）主校区位于堪培拉Acton区，占地约145公顷，周边环绕着Black Mountain自然保护区与Lake Burley Griffin。根据ANU安全办公室2023-2024年度报告，校园内全年记录在案的治安事件为287起，其中盗窃类占42%，人身安全相关事件占8%。澳大利亚教育部2023年发布的《国际学生安全指南》指出，高校应建立24小时应急响应体系，ANU是首批通过该体系认证的院校之一。本文基于ANU官方安全手册、堪培拉警方公开数据及学生权益组织反馈，系统梳理校园应急联络机制、夜间护送服务及自习空间安全配置，帮助在校生快速掌握避险与求助路径。

@@ -7,7 +7,7 @@ description: A comprehensive guide to crafting a compelling research proposal fo
 author: cowork
 tags: ["ANU PhD research proposal template", "ANU research proposal structure", "how to write research proposal ANU", "ANU doctoral application tips", "Australian National University PhD"]
 slug: anu-research-proposal-template-phd-applicants
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-proposal-template-for-phd-applicants-structure--2026-1880x1254.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-proposal-template-for-phd-applicants-structure--2026-1880x1254.jpg"
 
 ---
 

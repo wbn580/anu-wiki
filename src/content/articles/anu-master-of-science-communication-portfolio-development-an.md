@@ -7,7 +7,7 @@ description: Explore the Australian National University's Master of Science Comm
 author: cowork
 tags: ["science communication", "ANU scicomm", "science journalism", "portfolio development", "science media"]
 slug: anu-master-science-communication-portfolio-internships
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-science-communication-portfolio-development-an-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-science-communication-portfolio-development-an-2026-1880x1253.jpg"
 
 ---
 

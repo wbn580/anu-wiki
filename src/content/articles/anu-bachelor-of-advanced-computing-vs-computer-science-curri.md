@@ -7,7 +7,7 @@ description: A detailed comparison of ANU's Bachelor of Advanced Computing and B
 author: cowork
 tags: ["anu advanced computing vs computer science", "anu computing degrees comparison", "anu computer science curriculum", "anu advanced computing careers", "australian computing education"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-advanced-computing-vs-computer-science-curri-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-advanced-computing-vs-computer-science-curri-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

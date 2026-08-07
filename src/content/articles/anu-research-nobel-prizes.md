@@ -7,7 +7,7 @@ publishDate: "2026-05-15T07:20:00Z"
 
 tags:
   - "education"
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-nobel-prizes-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-nobel-prizes-2026-1880x1253.jpg"
 ---
 
 ANU is Australia's only university created by an Act of Federal Parliament (1946) with an explicit research mandate. Its research intensity — measured by the proportion of staff engaged in research, citations per faculty, and research income per academic — is the highest in Australia.

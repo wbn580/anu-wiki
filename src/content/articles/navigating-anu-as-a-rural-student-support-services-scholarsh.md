@@ -7,7 +7,7 @@ description: A comprehensive guide for rural and regional students transitioning
 author: cowork
 tags: ["ANU rural student support", "ANU regional relocation guide", "ANU rural scholarship", "ANU country student services", "ANU remote area mentoring"]
 slug: anu-rural-regional-student-support-relocation-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/navigating-anu-as-a-rural-student-support-services-scholarsh-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/navigating-anu-as-a-rural-student-support-services-scholarsh-2026-1880x1253.jpg"
 
 ---
 

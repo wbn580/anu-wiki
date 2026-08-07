@@ -8,7 +8,7 @@ readingTime: 21
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-冬季小学期课程推荐短期集中修学分好机会-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-冬季小学期课程推荐短期集中修学分好机会-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）的冬季小学期（Winter Session）通常在每年6月下旬至7月运行，为期约4至6周，为在校生提供集中修读学分课程的机会。根据ANU官方学术日历，2025年冬季小学期授课时间为6月30日至7月25日，涵盖约30门本科及研究生课程【ANU 2025, Academic Calendar】。这一机制允许学生利用假期时间加速学业进度，或补修因挂科、转专业而缺失的学分。根据澳大利亚教育部2023年统计，约12%的澳洲大学本科生在学期间至少参加一次小学期课程，其中ANU的冬季小学期因课程紧凑、学分转换灵活而受到关注【Australian Government Department of Education 2023, Student Data Summary】。对于希望在毕业前修满学分、提前规划实习或研究的学生而言，冬季小学期是一个具有明确时间效益的选择。

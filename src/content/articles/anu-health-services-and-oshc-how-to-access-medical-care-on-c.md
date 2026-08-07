@@ -7,7 +7,7 @@ description: A comprehensive guide for international students on accessing medic
 author: cowork
 tags: ["ANU medical centre", "OSHC claims", "international student health", "bulk billing Canberra", "campus healthcare"]
 slug: anu-health-services-oshc-access-medical-care
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-health-services-and-oshc-how-to-access-medical-care-on-c-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-health-services-and-oshc-how-to-access-medical-care-on-c-2026-1880x1253.jpg"
 
 ---
 

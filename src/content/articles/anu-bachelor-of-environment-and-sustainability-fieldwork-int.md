@@ -7,7 +7,7 @@ description: Explore the ANU Bachelor of Environment and Sustainability, a degre
 author: cowork
 tags: ["ANU", "environment and sustainability", "fieldwork", "internships", "career outcomes"]
 slug: anu-bachelor-environment-sustainability-fieldwork-internships-careers
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-environment-and-sustainability-fieldwork-int-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-environment-and-sustainability-fieldwork-int-2026-1880x1253.jpg"
 
 ---
 

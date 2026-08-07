@@ -7,7 +7,7 @@ description: A comprehensive guide to the ANU defer offer process for undergradu
 author: cowork
 tags: ["ANU defer offer", "ANU defer admission postgraduate", "ANU deferral conditions scholarship", "defer ANU enrolment", "ANU gap year"]
 slug: how-to-defer-anu-offer-step-by-step-process-conditions-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-defer-your-anu-offer-step-by-step-process-and-conditi-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-defer-your-anu-offer-step-by-step-process-and-conditi-2026-1880x1253.jpg"
 
 ---
 

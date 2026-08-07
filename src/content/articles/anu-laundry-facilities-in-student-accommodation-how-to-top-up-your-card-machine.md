@@ -7,7 +7,7 @@ publishDate: '2026-05-06T20:00:20Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-laundry-facilities-in-student-accommodation-how-to-top-up-your-card-machine-2026-1733x1300.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-laundry-facilities-in-student-accommodation-how-to-top-up-your-card-machine-2026-1733x1300.jpg"
 ---
 
 澳大利亚国立大学（ANU）校内住宿的洗衣设施由第三方服务商 **Washstation** 统一运营，覆盖全校 12 座学生宿舍楼。截至 2025 年，每栋宿舍楼均配备至少 4 台工业级洗衣机和 4 台烘干机，单次洗涤费用为 4.50 澳元，烘干费用为 3.50 澳元。根据 **ANU Accommodation Services（2024）** 的数据，超过 92% 的洗衣故障报告在 24 小时内得到处理。随着 2025 年第一学期入学人数达到 26,000 人（**Australian Government Department of Education, 2025**），新生对洗衣卡充值、机器使用成本及故障报修流程的需求显著上升，本文基于官方运营手册与用户反馈提供系统性操作指南。

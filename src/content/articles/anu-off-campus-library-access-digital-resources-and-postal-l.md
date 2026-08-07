@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University's off-c
 author: cowork
 tags: ["ANU off-campus library", "remote student library access", "ANU digital resources", "postal loan service ANU", "ANU library ebooks"]
 slug: anu-off-campus-library-digital-resources-postal-loans
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-off-campus-library-access-digital-resources-and-postal-l-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-off-campus-library-access-digital-resources-and-postal-l-2026-1880x1253.jpg"
 
 ---
 

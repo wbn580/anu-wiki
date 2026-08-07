@@ -7,7 +7,7 @@ modDatetime: '2026-07-08T00:00:00Z'
 slug: 'free-education-agent-consultations-australia-anu'
 category: 'general'
 language: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-单校wiki/free-education-agent-consultations-australia-anu-2026-auto.jpg'
+ogImage: 'https://img.anu.wiki/留学-单校wiki/free-education-agent-consultations-australia-anu-2026-auto.jpg'
 verified: '2026-07-08T00:00:00Z'
 tags:
   - 'free education agent consultation Australia'
@@ -55,7 +55,7 @@ Used consistently, these questions transform a free Australian study abroad cons
 
 Free does not mean harmless if the advice is skewed. In your **free education agent consultation for Australia**, watch for these warning signs:
 
-![Free Education Agent Consultations for Studying in Australia: 6 Questions Every ANU Applicant Should Ask](https://img.ulec.com.cn/留学-单校wiki/free-education-agent-consultations-australia-anu-2026-auto.jpg)
+![Free Education Agent Consultations for Studying in Australia: 6 Questions Every ANU Applicant Should Ask](https://img.anu.wiki/留学-单校wiki/free-education-agent-consultations-australia-anu-2026-auto.jpg)
 
 
 - **Shifting the conversation away from ANU**: if you state clearly that ANU is your top preference and the agent immediately lists “higher-ranked” or “easier” options without acknowledging your reasons, they are likely guiding you to a partner that pays a higher commission.

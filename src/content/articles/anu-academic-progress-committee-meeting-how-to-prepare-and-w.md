@@ -7,7 +7,7 @@ description: Facing an Academic Progress Committee meeting at the Australian Nat
 author: cowork
 tags: ["ANU academic progress", "show cause meeting", "academic standing", "enrolment appeal", "student support"]
 slug: anu-academic-progress-committee-preparation-evidence
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-academic-progress-committee-meeting-how-to-prepare-and-w-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-academic-progress-committee-meeting-how-to-prepare-and-w-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: A comprehensive guide for domestic and international students seeki
 author: cowork
 tags: ["transfer to ANU", "ANU credit transfer", "inter-university transfer Australia", "ANU admission requirements transfer students", "university transfer Australia"]
 slug: transfer-to-anu-from-another-australian-university-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-transfer-to-anu-from-another-australian-university-a--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-transfer-to-anu-from-another-australian-university-a--2026-1880x1253.jpg"
 
 ---
 

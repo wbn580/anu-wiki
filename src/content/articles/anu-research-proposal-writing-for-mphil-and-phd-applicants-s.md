@@ -7,7 +7,7 @@ description: A comprehensive guide to crafting a competitive research proposal f
 author: cowork
 tags: ["ANU research proposal", "MPhil application", "PhD application", "graduate research admissions", "supervisor feedback"]
 slug: anu-research-proposal-writing-mphil-phd-applicants-structure-feedback
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-proposal-writing-for-mphil-and-phd-applicants-s-2026-1880x1254.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-proposal-writing-for-mphil-and-phd-applicants-s-2026-1880x1254.jpg"
 
 ---
 

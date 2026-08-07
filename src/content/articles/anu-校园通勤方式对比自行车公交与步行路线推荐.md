@@ -8,7 +8,7 @@ readingTime: 14
 tags: ["featured"]
 hideFromHome: true
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-校园通勤方式对比自行车公交与步行路线推荐-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园通勤方式对比自行车公交与步行路线推荐-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）主校区位于堪培拉市中心阿克顿（Acton）区，其校园通勤方式的选择直接影响学生每日的时间管理与出行成本。根据澳大利亚统计局（ABS）2021年人口普查数据，堪培拉居民采用**私家车**通勤的比例为62.4%，低于全国平均水平（72.5%），而公共交通与**主动出行**（步行与骑行）的使用率显著更高【ABS 2021, Census of Population and Housing】。同时，ANU 2023年校园可持续发展报告指出，校内约有4,200个自行车停车位，反映出校方对非机动车通勤的鼓励态度【ANU 2023, Campus Sustainability Report】。对于18至30岁的学生群体而言，在公交、自行车与步行之间做出选择，涉及通勤时间、经济成本与校园可达性等多维度权衡。

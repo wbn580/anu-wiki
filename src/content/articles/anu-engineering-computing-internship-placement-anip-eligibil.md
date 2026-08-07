@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University College
 author: cowork
 tags: ["ANU internship", "engineering placement Australia", "computing work experience", "ANIP program", "CECS career development"]
 slug: anu-engineering-computing-internship-placement-anip-eligibility-host-matching-credits
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-engineering-computing-internship-placement-anip-eligibil-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-engineering-computing-internship-placement-anip-eligibil-2026-1880x1253.jpg"
 
 ---
 

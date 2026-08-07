@@ -7,7 +7,7 @@ description: Comprehensive guide to ANU mental health services for international
 author: cowork
 tags: ["student wellbeing", "ANU counselling", "international student support", "mental health services", "Australian universities"]
 slug: anu-mental-health-support-international-students
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-mental-health-support-for-international-students-service-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-mental-health-support-for-international-students-service-2026-1880x1253.jpg"
 
 ---
 

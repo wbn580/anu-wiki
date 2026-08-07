@@ -70,7 +70,7 @@ body.editorial .ehero {
   display: flex; flex-direction: column; justify-content: flex-end;
   color: #fff; padding: 0 clamp(18px, 5vw, 40px);
   background: linear-gradient(180deg, rgba(15, 32, 26, .2), rgba(15, 32, 26, .55) 60%, rgba(15, 32, 26, .85)),
-    url("https://images.pexels.com/photos/995765/pexels-photo-995765.jpeg?auto=compress&cs=tinysrgb&w=1800&q=80") center/cover;
+    url("https://img.anu.wiki/rehost/cf0076039ad1.jpg") center/cover;
 }
 body.editorial .ehero-inner { max-width: 1180px; margin: 0 auto; width: 100%; padding-bottom: 48px; }
 body.editorial .ehero .eeyebrow {
@@ -115,7 +115,7 @@ body.editorial .ec-feature {
   color: #fff; border: none;
   display: flex; flex-direction: column; justify-content: flex-end;
   background: linear-gradient(180deg, rgba(15, 32, 26, .1), rgba(15, 32, 26, .8)),
-    url("https://images.pexels.com/photos/1878293/pexels-photo-1878293.jpeg?auto=compress&cs=tinysrgb&w=1000&q=70") center/cover;
+    url("https://img.anu.wiki/rehost/2262a87fe1e0.jpg") center/cover;
 }
 body.editorial .ec-feature h3 { font-family: "Microsoft YaHei", sans-serif; font-size: 26px; margin-bottom: 8px; }
 body.editorial .ec-feature p { color: rgba(255, 255, 255, .86); font-size: 14px; }

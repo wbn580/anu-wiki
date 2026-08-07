@@ -7,7 +7,7 @@ description: Explore which Australian National University Bachelor of Arts major
 author: cowork
 tags: ["ANU arts degree employment", "ANU BA graduate outcomes", "ANU political science careers", "ANU digital humanities jobs", "Australian National University Bachelor of Arts"]
 slug: anu-bachelor-of-arts-majors-employment-outcomes
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-arts-majors-with-strong-employment-outcomes--2026-1880x1299.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-arts-majors-with-strong-employment-outcomes--2026-1880x1299.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ description: Explore ANU Bachelor of Health Science anatomy lab facilities, indu
 author: cowork
 tags: ["ANU health science anatomy lab", "ANU clinical placement locations", "ANU BHSc practical facilities", "ANU health science hospital placements", "ANU anatomy lab induction"]
 slug: anu-health-science-anatomy-lab-clinical-placements
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/inside-anu-health-science-anatomy-lab-access-clinical-placem-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/inside-anu-health-science-anatomy-lab-access-clinical-placem-2026-1880x1253.jpg"
 
 ---
 

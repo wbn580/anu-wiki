@@ -7,7 +7,7 @@ description: A detailed comparison of the Australian National University’s Mas
 author: cowork
 tags: ["anu master of computing", "anu machine learning master", "anu computing vs mlcv", "anu postgraduate computer science", "anu tech master comparison"]
 slug: anu-master-computing-vs-machine-learning-computer-vision-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-computing-vs-master-of-machine-learning-and-co-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-computing-vs-master-of-machine-learning-and-co-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

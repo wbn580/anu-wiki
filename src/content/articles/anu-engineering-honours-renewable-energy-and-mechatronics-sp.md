@@ -7,7 +7,7 @@ description: Explore the Australian National University's Bachelor of Engineerin
 author: cowork
 tags: ["ANU engineering", "renewable energy degree", "mechatronics major", "Australian university engineering", "engineering specialisation choice"]
 slug: anu-engineering-honours-renewable-energy-mechatronics-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-engineering-honours-renewable-energy-and-mechatronics-sp-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-engineering-honours-renewable-energy-and-mechatronics-sp-2026-1880x1253.jpg"
 
 ---
 

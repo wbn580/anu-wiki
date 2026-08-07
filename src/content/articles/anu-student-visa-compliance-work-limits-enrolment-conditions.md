@@ -7,7 +7,7 @@ description: A comprehensive guide to maintaining your ANU student visa status, 
 author: cowork
 tags: ["ANU", "student visa", "visa compliance", "work limits", "enrolment conditions", "CoE cancellation", "Australia immigration"]
 slug: anu-student-visa-compliance-work-limits-enrolment-reporting
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-compliance-work-limits-enrolment-conditions-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-student-visa-compliance-work-limits-enrolment-conditions-2026-1880x1253.jpg"
 
 ---
 

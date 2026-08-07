@@ -7,7 +7,7 @@ description: Master your studies with the ANU Academic Skills Centre. This guide
 author: cowork
 tags: ["ANU academic skills tutoring", "ANU writing support", "ANU individual tutoring booking", "ANU study skills help", "academic support"]
 slug: anu-academic-skills-centre-how-to-book-individual-tutoring-and-writing-support
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-academic-skills-centre-how-to-book-individual-tutoring-a-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-academic-skills-centre-how-to-book-individual-tutoring-a-2026-1880x1253.jpg"
 
 ---
 

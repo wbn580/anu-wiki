@@ -7,7 +7,7 @@ description: Explore the ANU Master of Engineering project management specialisa
 author: cowork
 tags: ["ANU Master of Engineering", "project management specialisation", "engineering capstone project", "ANU industry mentor program", "engineering accreditation"]
 slug: anu-master-engineering-project-management-specialisation
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-engineering-project-management-specialisation--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-engineering-project-management-specialisation--2026-1880x1253.jpg"
 
 ---
 

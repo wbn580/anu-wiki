@@ -7,7 +7,7 @@ publishDate: '2026-05-11T20:01:23Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-public-health-placement-sites-how-to-rank-your-preferences-competitive-host-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-public-health-placement-sites-how-to-rank-your-preferences-competitive-host-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）公共卫生硕士（MPH）及相关学位的学生，在课程中必须完成至少一个**专业实习（Placement）**。根据ANU健康与医学院2024年发布的《Master of Public Health Placement Handbook》，实习总时长通常为120至160小时，学生需通过校内系统“InPlace”提交志愿排序。实习地点涵盖堪培拉本地、全澳各州及偏远地区，竞争程度因组织类型和地理位置差异显著。本文基于ANU官方手册、澳大利亚卫生与福利研究所（AIHW 2023）《Australia’s health workforce》报告以及澳大利亚偏远地区分类标准（ASGS-RA 2021），系统解析如何优化志愿排序、识别高竞争度机构，并评估远程地区选项的可行性。

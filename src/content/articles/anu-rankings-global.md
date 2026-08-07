@@ -8,7 +8,7 @@ hideFromHome: true
 
 tags:
   - "education"
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-rankings-global-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-rankings-global-2026-1880x1253.jpg"
 ---
 
 The Australian National University consistently ranks as Australia's #1 university and among the world's top 50 institutions. This article analyses ANU's performance across the three major ranking systems and explains the methodology behind the numbers.

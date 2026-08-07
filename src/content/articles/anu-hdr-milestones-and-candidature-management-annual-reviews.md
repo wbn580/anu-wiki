@@ -7,7 +7,7 @@ description: A comprehensive guide to managing your ANU HDR candidature mileston
 author: cowork
 tags: ["ANU HDR", "candidature management", "thesis submission", "annual review", "research milestones"]
 slug: anu-hdr-milestones-candidature-management
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-hdr-milestones-and-candidature-management-annual-reviews-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-hdr-milestones-and-candidature-management-annual-reviews-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: '2026-04-26T19:58:31Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-complete-the-anu-academic-integrity-module-a-mandatory-step-for-all-new-i-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-complete-the-anu-academic-integrity-module-a-mandatory-step-for-all-new-i-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）自 2020 年起，将学术诚信模块（Academic Integrity Module）列为所有新国际学生必须完成的入学前置条件。根据澳大利亚教育部《2023 年国际学生数据总结》，当年在澳国际学生总数超过 72 万人，其中约 15% 就读于八大名校联盟（Go8）院校。ANU 学术委员会 2022 年发布的《学术诚信年度报告》指出，未完成该模块的学生将被限制访问课程管理系统（Wattle），并可能影响其第一学期的课程注册资格。该模块旨在系统性地向学生解释 ANU 的学术诚信政策、引用规范以及常见的学术不端行为后果，对于初次接触西方学术评价体系的中国留学生而言，构成了适应期内的关键合规节点。

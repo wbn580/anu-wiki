@@ -7,7 +7,7 @@ description: A comprehensive guide to ANU leave of absence and program leave cov
 author: cowork
 tags: ["ANU leave of absence", "ANU program leave", "ANU study break application", "ANU ISIS leave request", "ANU fee refund policy"]
 slug: anu-leave-absence-program-leave-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-leave-of-absence-and-program-leave-eligibility-applicati-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-leave-of-absence-and-program-leave-eligibility-applicati-2026-1880x1253.jpg"
 
 ---
 

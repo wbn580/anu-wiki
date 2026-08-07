@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 
 hideFromHome: true
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-choose-an-anu-research-supervisor-evaluating-publication-records-lab-cult-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-choose-an-anu-research-supervisor-evaluating-publication-records-lab-cult-2026-1880x1253.jpg"
 ---
 
 选择一位合适的研究导师是澳大利亚国立大学（ANU）研究生阶段最关键的学术决策之一。ANU作为澳大利亚八校联盟（Go8）成员，在2024年QS世界大学排名中位列第34位，拥有超过3,200名研究生导师【QS, 2024】。然而，根据澳大利亚教育部2023年发布的数据，博士研究生平均完成时间约为4.2年，而导师匹配度是影响完成效率的核心变量之一【澳大利亚教育部, 2023】。本文基于公开可查的学术指标和ANU内部资源，为潜在研究生提供一套评估导师的框架，涵盖出版记录、实验室文化和指导风格三个维度。

@@ -7,7 +7,7 @@ description: Explore ANU accommodation options for 2026, including on-campus res
 author: cowork
 tags: []
 slug: anu-student-accommodation-2026-halls-unilodge-private-rentals
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-accommodation-options-in-2026-from-halls-to-unil-2026-1733x1300.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-student-accommodation-options-in-2026-from-halls-to-unil-2026-1733x1300.jpg"
 
 ---
 

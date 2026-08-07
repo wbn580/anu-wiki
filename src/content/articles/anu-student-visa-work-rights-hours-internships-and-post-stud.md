@@ -7,7 +7,7 @@ description: A comprehensive guide to Australian student visa work rights for AN
 author: cowork
 tags: ["ANU student visa work hours", "Australian student visa work rights", "ANU internship visa conditions", "post-study work visa ANU", "student employment Australia"]
 slug: anu-student-visa-work-rights-hours-internships-post-study
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-work-rights-hours-internships-and-post-stud-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-student-visa-work-rights-hours-internships-and-post-stud-2026-1880x1253.jpg"
 
 ---
 

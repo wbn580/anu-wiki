@@ -7,7 +7,7 @@ description: ANU's Bachelor of Arts features several majors with strict enrolmen
 author: cowork
 tags: ["ANU BA major enrolment cap", "ANU arts quota major", "ANU early major declaration strategy", "ANU capped major course availability", "ANU Bachelor of Arts planning"]
 slug: anu-ba-low-enrolment-cap-majors-planning
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-arts-majors-with-low-enrolment-caps-how-earl-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-arts-majors-with-low-enrolment-caps-how-earl-2026-1880x1253.jpg"
 
 ---
 

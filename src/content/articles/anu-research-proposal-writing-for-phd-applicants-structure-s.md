@@ -7,7 +7,7 @@ description: Master the ANU PhD research proposal with this comprehensive guide 
 author: cowork
 tags: ["ANU PhD application", "research proposal writing", "Australian National University", "PhD admission tips", "graduate research"]
 slug: anu-phd-research-proposal-guide-structure-supervisors-pitfalls
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-research-proposal-writing-for-phd-applicants-structure-s-2026-1880x1254.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-proposal-writing-for-phd-applicants-structure-s-2026-1880x1254.jpg"
 
 ---
 

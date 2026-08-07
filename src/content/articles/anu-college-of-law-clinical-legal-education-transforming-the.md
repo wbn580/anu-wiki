@@ -7,7 +7,7 @@ description: Explore the Australian National University College of Law clinical 
 author: cowork
 tags: ["ANU clinical legal education", "ANU law clinic program", "ANU prison legal literacy", "ANU law practical experience", "Australian legal education"]
 slug: anu-college-law-clinical-legal-education-hands-on-experience
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-college-of-law-clinical-legal-education-transforming-the-2026-1880x1045.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-college-of-law-clinical-legal-education-transforming-the-2026-1880x1045.jpg"
 
 ---
 

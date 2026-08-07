@@ -7,7 +7,7 @@ description: A comprehensive guide to understanding ANU census date consequences
 author: cowork
 tags: ["ANU", "Census Date", "Fee Refunds", "Visa Implications", "Withdrawal Grades"]
 slug: anu-census-date-consequences-fee-refunds-withdrawal-grades-visa-implications
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-census-date-consequences-fee-refunds-withdrawal-grades-a-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-census-date-consequences-fee-refunds-withdrawal-grades-a-2026-1880x1253.jpg"
 
 ---
 

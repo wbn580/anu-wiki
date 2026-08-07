@@ -7,7 +7,7 @@ description: Explore how to secure an early offer for the ANU Juris Doctor witho
 author: cowork
 tags: ["ANU JD", "Juris Doctor without LSAT", "ANU Graduate Diploma in Law", "ANU law internal transfer", "law alternative entry"]
 slug: anu-jd-early-offer-lsat-alternatives-graduate-diploma-transfer
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-college-of-law-jd-early-offer-and-lsat-alternatives-entr-2026-1880x1045.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-college-of-law-jd-early-offer-and-lsat-alternatives-entr-2026-1880x1045.jpg"
 
 ---
 

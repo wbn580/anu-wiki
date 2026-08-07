@@ -7,7 +7,7 @@ description: A comprehensive guide to navigating ANU's major and minor change pr
 author: cowork
 tags: ["ANU major change", "credit transfer ANU", "program transfer ANU", "ANU course selection", "higher education Australia"]
 slug: change-anu-major-minor-without-losing-credits
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-change-your-anu-degree-major-or-minor-without-losing--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-change-your-anu-degree-major-or-minor-without-losing--2026-1880x1253.jpg"
 
 ---
 

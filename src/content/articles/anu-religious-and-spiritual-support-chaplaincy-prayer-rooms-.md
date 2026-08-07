@@ -7,7 +7,7 @@ description: Explore the comprehensive religious and spiritual support services 
 author: cowork
 tags: ["ANU", "spiritual support", "chaplaincy", "prayer rooms", "student life"]
 slug: anu-religious-spiritual-support-chaplaincy-prayer-rooms-faith-groups
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-religious-and-spiritual-support-chaplaincy-prayer-rooms--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-religious-and-spiritual-support-chaplaincy-prayer-rooms--2026-1880x1253.jpg"
 
 ---
 

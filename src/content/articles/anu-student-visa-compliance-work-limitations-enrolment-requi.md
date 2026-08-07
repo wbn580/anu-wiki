@@ -7,7 +7,7 @@ description: Comprehensive guide to ANU student visa compliance covering work ho
 author: cowork
 tags: ["ANU student visa conditions", "ANU international student work hours", "ANU enrolment compliance", "ANU visa reporting", "ANU CoE requirements"]
 slug: anu-student-visa-compliance-work-limitations-enrolment-reporting
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-student-visa-compliance-work-limitations-enrolment-requi-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-student-visa-compliance-work-limitations-enrolment-requi-2026-1880x1253.jpg"
 
 ---
 

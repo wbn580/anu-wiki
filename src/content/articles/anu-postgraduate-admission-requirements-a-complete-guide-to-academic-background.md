@@ -8,7 +8,7 @@ readingTime: 3
 tags: ["featured"]
 
 hideFromHome: true
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-postgraduate-admission-requirements-a-complete-guide-to-academic-background-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-postgraduate-admission-requirements-a-complete-guide-to-academic-background-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）2025年研究生入学要求体系涵盖学术背景、英语能力证明及个人陈述（CV）三大核心维度。根据澳大利亚教育部2024年发布的《国际学生数据报告》，ANU在2023年共收到超过28,000份国际研究生申请，录取率约为37%，其中中国籍申请者占比达42%。同时，QS世界大学排名2025年数据显示，ANU位列全球第30位，其研究生项目的竞争激烈程度与入学标准逐年提升。本文基于ANU官方招生政策（2025年入学周期），系统解析学术成绩门槛、英语测试要求及CV准备要点，为有意申请者提供结构化参考。

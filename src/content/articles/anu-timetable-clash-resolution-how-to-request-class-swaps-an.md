@@ -7,7 +7,7 @@ description: A comprehensive guide to resolving ANU timetable clashes using ISIS
 author: cowork
 tags: ["ANU enrolment", "timetable clash", "ISIS class swap", "prerequisite override", "ANU course waiver"]
 slug: anu-timetable-clash-resolution-class-swaps-prerequisite-override-isis
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-timetable-clash-resolution-how-to-request-class-swaps-an-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-timetable-clash-resolution-how-to-request-class-swaps-an-2026-1880x1253.jpg"
 
 ---
 

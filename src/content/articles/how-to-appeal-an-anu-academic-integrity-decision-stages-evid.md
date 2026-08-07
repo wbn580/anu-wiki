@@ -7,7 +7,7 @@ description: A comprehensive guide to navigating the ANU academic integrity appe
 author: cowork
 tags: ["ANU academic integrity appeal", "ANU misconduct appeal process", "ANU student advocacy integrity", "ANU academic breach reconsideration", "ANU support services"]
 slug: anu-academic-integrity-appeal-stages-evidence-support
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/how-to-appeal-an-anu-academic-integrity-decision-stages-evid-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-appeal-an-anu-academic-integrity-decision-stages-evid-2026-1880x1253.jpg"
 
 ---
 

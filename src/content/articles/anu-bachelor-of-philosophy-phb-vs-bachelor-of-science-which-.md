@@ -7,7 +7,7 @@ description: A comprehensive comparison between the Australian National Universi
 author: cowork
 tags: ["ANU PhB vs BSc comparison", "ANU Bachelor of Philosophy research opportunities", "ANU PhB entry requirements and benefits", "ANU BSc Honours pathway", "difference between ANU PhB and advanced science"]
 slug: anu-phb-vs-bsc-research-goals
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-bachelor-of-philosophy-phb-vs-bachelor-of-science-which--2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-philosophy-phb-vs-bachelor-of-science-which--2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

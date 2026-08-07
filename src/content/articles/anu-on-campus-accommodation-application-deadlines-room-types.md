@@ -7,7 +7,7 @@ description: Navigate the Australian National University on-campus housing appli
 author: cowork
 tags: ["ANU accommodation", "on-campus housing", "Australian National University", "student residence application", "2026 academic year"]
 slug: anu-on-campus-accommodation-application-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-on-campus-accommodation-application-deadlines-room-types-2026-1733x1300.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-on-campus-accommodation-application-deadlines-room-types-2026-1733x1300.jpg"
 
 ---
 

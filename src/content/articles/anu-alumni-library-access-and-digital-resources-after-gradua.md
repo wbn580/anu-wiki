@@ -7,7 +7,7 @@ description: Discover how ANU graduates can maintain library borrowing rights, a
 author: cowork
 tags: ["ANU alumni library access", "ANU graduate benefits", "alumni digital resources", "post-graduation library services", "Australian university alumni"]
 slug: anu-alumni-library-access-digital-resources-after-graduation
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-alumni-library-access-and-digital-resources-after-gradua-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-alumni-library-access-and-digital-resources-after-gradua-2026-1880x1253.jpg"
 
 ---
 

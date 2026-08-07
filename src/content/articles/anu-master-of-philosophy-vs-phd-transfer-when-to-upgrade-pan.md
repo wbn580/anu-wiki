@@ -7,7 +7,7 @@ description: A comprehensive guide for ANU research candidates navigating the MP
 author: cowork
 tags: ["ANU research degrees", "MPhil to PhD upgrade", "Australian National University", "research scholarship transfer", "higher degree by research"]
 slug: anu-mphil-phd-transfer-upgrade-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-master-of-philosophy-vs-phd-transfer-when-to-upgrade-pan-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-philosophy-vs-phd-transfer-when-to-upgrade-pan-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

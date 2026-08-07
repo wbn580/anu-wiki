@@ -7,7 +7,7 @@ description: Comprehensive overview of Australian National University emergency 
 author: cowork
 tags: ["ANU campus safety", "international student security", "Australian university emergency procedures", "ANU security escort", "bushfire safety Canberra"]
 slug: anu-emergency-procedures-campus-safety-international-students
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-emergency-procedures-and-campus-safety-resources-for-int-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-emergency-procedures-and-campus-safety-resources-for-int-2026-1880x1253.jpg"
 
 ---
 

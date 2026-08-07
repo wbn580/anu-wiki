@@ -7,7 +7,7 @@ description: Compare ANU College Foundation Studies and Diploma programs as dire
 author: cowork
 tags: ["ANU College", "pathway programs", "Foundation Studies", "Diploma", "international students", "university admission"]
 slug: anu-college-pathway-foundation-vs-diploma-bachelor
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-college-pathway-programs-foundation-studies-vs-diploma-e-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-college-pathway-programs-foundation-studies-vs-diploma-e-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

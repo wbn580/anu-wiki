@@ -7,7 +7,7 @@ description: A comprehensive guide to the Australian National University's globa
 author: cowork
 tags: ["ANU exchange", "study abroad credit transfer", "ANU global programs", "partner universities", "international student mobility"]
 slug: anu-exchange-study-abroad-partner-universities-credit-transfer-guide
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-exchange-and-study-abroad-partner-universities-credit-tr-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-exchange-and-study-abroad-partner-universities-credit-tr-2026-1880x1253.jpg"
 
 ---
 

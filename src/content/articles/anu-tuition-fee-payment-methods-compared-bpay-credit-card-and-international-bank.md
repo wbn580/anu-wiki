@@ -7,7 +7,7 @@ publishDate: '2026-04-07T19:54:56Z'
 readingTime: 3
 tags: ["featured"]
 
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-tuition-fee-payment-methods-compared-bpay-credit-card-and-international-bank-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-tuition-fee-payment-methods-compared-bpay-credit-card-and-international-bank-2026-1880x1253.jpg"
 ---
 
 澳大利亚国立大学（ANU）在2024年录取了超过25,000名学生，其中国际学生占比约40%（澳大利亚教育部，2023，《国际学生数据年报》）。学费支付是每位注册学生必须完成的财务环节，ANU提供BPAY、信用卡和国际银行转账三种主要缴费通道。根据ANU财务处2024年发布的《学生缴费指南》，选择不同的支付方式可能产生0%至3.5%不等的附加费用，直接影响学生每学期的实际支出。本文基于ANU官方政策与澳大利亚竞争与消费者委员会（ACCC）2023年《跨境支付成本报告》，系统比较三种支付方式的到账时效、手续费和操作流程，帮助学生做出成本最优的决策。

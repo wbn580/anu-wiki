@@ -7,7 +7,7 @@ description: Explore the comprehensive benefits of the Australian National Unive
 author: cowork
 tags: ["ANU alumni benefits", "international graduates", "career services", "alumni network", "Australian National University", "professional development"]
 slug: anu-alumni-network-benefits-international-students-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-alumni-network-benefits-for-graduating-international-stu-2026-1880x1253.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-alumni-network-benefits-for-graduating-international-stu-2026-1880x1253.jpg"
 
 ---
 

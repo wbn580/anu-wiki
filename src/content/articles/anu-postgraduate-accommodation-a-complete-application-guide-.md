@@ -7,7 +7,7 @@ description: A step-by-step walkthrough for international postgraduate students 
 author: cowork
 tags: []
 slug: anu-postgraduate-accommodation-guide-international-2026
-ogImage: "https://img.ulec.com.cn/留学/单校wiki/anu-postgraduate-accommodation-a-complete-application-guide--2026-1733x1300.jpg"
+ogImage: "https://img.anu.wiki/留学/单校wiki/anu-postgraduate-accommodation-a-complete-application-guide--2026-1733x1300.jpg"
 
 ---
 
