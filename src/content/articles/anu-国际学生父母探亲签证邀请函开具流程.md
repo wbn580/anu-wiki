@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生父母探亲签证邀请函开具流程"
-description: "澳大利亚国立大学（ANU）国际学生在为其父母或亲属申请赴澳探亲签证（Subclass 600）时，需向校方申请一份正式的邀请函（Letter of Invitation）。根据澳大利亚内政部（Department of Home Affairs）2024年发布的《访客签证申请指南》，此类邀请函虽非签证获批的强制性…"
+slug: anu-国际学生父母探亲签证邀请函开具流程
+title: "How to Obtain an ANU Letter of Invitation for Your Parents' Visitor Visa"
+description: "Australian National University (ANU) international students applying for an Australian visitor visa (Subclass 600) for their parents or relatives must request a formal Letter of Invitation from the University. According to the Visitor Visa Application Guidelines issued by the Department of Home Affairs in 2024, such a letter, while not a mandatory requirement for visa approval, effectively demonstrates the applicant's family relationship with the student in Australia and the purpose of the visit, significantly improving visa processing efficiency. ANU International Student Services data for 2023 shows that more than 400 enrolled students apply for this letter each academic year, mainly to support their parents' visitor visa applications. This article systematically covers the eligibility requirements, document checklist, online submission process and key points to note for ANU invitation letters, providing enrolled students with an actionable practical guide."
 category: "ANU 国际学生父母探亲"
 pubDatetime: '2026-03-01T19:47:23Z'
 publishDate: '2026-03-01T19:47:23Z'
@@ -10,90 +11,90 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生父母探亲签证邀请函开具流程-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）国际学生在为其父母或亲属申请赴澳探亲签证（Subclass 600）时，需向校方申请一份正式的邀请函（Letter of Invitation）。根据澳大利亚内政部（Department of Home Affairs）2024年发布的《访客签证申请指南》，此类邀请函虽非签证获批的强制性材料，但能有效证明申请人与在澳学生的亲属关系及访问目的，显著提升签证审理效率。ANU国际学生服务中心（International Student Services）2023年统计数据显示，每学年约有超过400名在校学生申请此类邀请函，主要用于支持父母申请访客签证。本文系统梳理ANU邀请函的申请条件、材料清单、在线提交流程及常见注意事项，为在校学生提供一份可操作的实操指南。
+Australian National University (ANU) international students applying for an Australian visitor visa (Subclass 600) for their parents or relatives must request a formal Letter of Invitation from the University. According to the Visitor Visa Application Guidelines issued by the Department of Home Affairs in 2024, such a letter, while not a mandatory requirement for visa approval, effectively demonstrates the applicant's family relationship with the student in Australia and the purpose of the visit, significantly improving visa processing efficiency. Statistics from ANU International Student Services for 2023 show that more than 400 enrolled students apply for this letter each academic year, mainly to support their parents' visitor visa applications. This article provides a systematic overview of the eligibility requirements, document checklist, online submission process and common points to note for ANU invitation letters, offering enrolled students an actionable practical guide.
 
-## 申请资格与前提条件
+## Eligibility and Prerequisites
 
-**申请邀请函**需满足三项基本条件。第一，申请人必须为ANU在读国际学生，持有有效的学生签证（Subclass 500），且CoE（Confirmation of Enrollment）状态为“Active”。第二，邀请对象仅限学生的**父母、法定监护人或配偶**，不包括兄弟姐妹、祖父母或其他旁系亲属，此限制依据澳大利亚移民局2024年对访客签证“家庭担保人”定义的解释。第三，学生需在ANU学生信息系统（ISIS）中完成当前学期的注册，且无未结清的学费或学术处罚记录。
+**Applying for an invitation letter** requires meeting three basic conditions. First, the applicant must be a currently enrolled international student at ANU holding a valid student visa (Subclass 500), with a CoE (Confirmation of Enrollment) status of "Active". Second, the invitee is limited to the student's **parents, legal guardians or spouse**; siblings, grandparents and other collateral relatives are excluded, in line with the Department of Home Affairs' 2024 interpretation of the "family sponsor" definition for visitor visas. Third, the student must have completed enrolment for the current semester in the ANU Student Information System (ISIS) and have no outstanding tuition fees or academic penalty records.
 
-### 学生签证有效期要求
+### Student Visa Validity Requirements
 
-学生的**学生签证有效期**需覆盖被邀请人计划的访澳时间段。若学生签证剩余有效期不足6个月，校方可能要求提供续签证明或更新CoE后再行开具邀请函。内政部2023年发布的《学生签证条款》第8202条指出，学生必须维持注册状态，否则其担保资格可能失效。
+The **validity period of the student's student visa** must cover the invitee's planned travel period in Australia. If the student visa has fewer than 6 months of validity remaining, the University may require proof of visa renewal or an updated CoE before issuing the invitation letter. Clause 8202 of the Student Visa Conditions issued by the Department of Home Affairs in 2023 states that students must maintain their enrolment status, otherwise their sponsorship eligibility may lapse.
 
-### 被邀请人身份限制
+### Invitee Identity Restrictions
 
-被邀请人需持有有效的中国护照，且**护照有效期**须超过计划离境日期至少6个月。如果被邀请人此前曾因逾期居留、违反签证条件被澳大利亚拒签或取消签证，ANU国际学生服务中心有权拒绝开具邀请函。此类案例需先通过移民代理或法律顾问解决签证历史问题。
+The invitee must hold a valid Chinese passport, and the **passport validity** must extend at least 6 months beyond the planned date of departure from Australia. If the invitee has previously been refused an Australian visa or had a visa cancelled for overstaying or breaching visa conditions, ANU International Student Services reserves the right to refuse to issue the invitation letter. In such cases, the visa history issues must first be resolved through a migration agent or legal adviser.
 
-## 材料准备清单
+## Document Checklist
 
-申请邀请函前，学生需准备以下三类文件。第一，学生的**护照个人信息页**扫描件（PDF格式，文件大小不超过2MB）。第二，被邀请人的护照个人信息页扫描件。第三，证明亲属关系的文件，如**出生医学证明**或户口本中体现学生与父母关系的页面（需附英文翻译件，翻译件可由NAATI认证译员出具）。第四，学生当前学期的**注册确认信**（Enrolment Confirmation），可从ISIS系统下载。
+Before applying for the invitation letter, the student must prepare the following three categories of documents. First, a scan of the student's **passport bio-data page** (PDF format, file size no larger than 2MB). Second, a scan of the invitee's passport bio-data page. Third, documents proving the family relationship, such as a **birth certificate** or the pages of the household register (hukou) showing the relationship between the student and their parents (an English translation must be attached, which may be produced by a NAATI-accredited translator). Fourth, the student's **Enrolment Confirmation** for the current semester, which can be downloaded from the ISIS system.
 
-### 亲属关系证明文件要求
+### Family Relationship Documentation Requirements
 
-中国出生医学证明需经公证处公证，并由**中国外交部**或授权机构进行领事认证。澳大利亚内政部2024年更新的《文件认证指南》指出，未经认证的中文文件可能不被移民局认可。建议学生提前2-3个月办理公证与认证流程，以避免延误签证申请。
+Chinese birth certificates must be notarised by a notary office and then undergo consular authentication by the **Chinese Ministry of Foreign Affairs** or an authorised agency. The Document Authentication Guidelines updated by the Department of Home Affairs in 2024 point out that Chinese documents without authentication may not be accepted by the immigration department. Students are advised to allow 2-3 months for the notarisation and authentication process so as not to delay the visa application.
 
-### 翻译件规范
+### Translation Requirements
 
-所有非英文文件需由**NAATI认证译员**翻译，并附译员签名、NAATI编号及翻译日期。ANU国际学生服务中心不接受学生自行翻译或未认证翻译件。翻译件需与原件合并为一个PDF文件上传。
+All non-English documents must be translated by a **NAATI-accredited translator**, with the translator's signature, NAATI number and the date of translation attached. ANU International Student Services does not accept self-translations or translations that are not certified. The translation must be merged with the original document into a single PDF file for upload.
 
-## 在线提交流程
+## Online Submission Process
 
-ANU邀请函申请通过**ISIS系统**中的“Document Request”功能提交。学生登录ISIS后，选择“Student Services”>“Letter of Invitation”模块，填写被邀请人姓名、护照号码、出生日期、与学生的关系、计划入境与离境日期（精确到日）及访问目的（如“旅游”或“探亲”）。提交后，系统生成一个申请编号，学生需在24小时内上传所有材料。
+ANU invitation letter applications are submitted through the "Document Request" function in the **ISIS system**. After logging into ISIS, the student selects "Student Services" > "Letter of Invitation", then fills in the invitee's name, passport number, date of birth, relationship to the student, planned entry and departure dates (to the exact day) and the purpose of the visit (such as "tourism" or "family visit"). After submission, the system generates an application reference number, and the student must upload all documents within 24 hours.
 
-### 审核时间与结果通知
+### Review Timeframe and Outcome Notification
 
-ANU国际学生服务中心承诺在**5个工作日**内完成审核。审核通过后，邀请函将以PDF格式发送至学生ANU邮箱（以@anu.edu.au结尾）。若材料不完整，学生将在3个工作日内收到补件通知，补件后审核周期重新计算。根据ANU 2024年《学生服务时间标准》，紧急申请（如被邀请人已预订14天内出发的机票）可通过电话或亲临学生中心申请加急处理，加急审核时间为2个工作日。
+ANU International Student Services commits to completing the review within **5 working days**. Once the review is passed, the invitation letter is sent in PDF format to the student's ANU email (ending in @anu.edu.au). If the documents are incomplete, the student will receive a request for additional documents within 3 working days, after which the review period restarts. Under ANU's 2024 Student Service Standards, urgent applications (for example, when the invitee has already booked flights departing within 14 days) can be expedited by phone or in person at the Student Centre, with an expedited review time of 2 working days.
 
-### 邀请函内容解析
+### What the Invitation Letter Contains
 
-正式邀请函包含以下信息：学生全名、学生签证号（Visa Grant Number）、CoE号码、被邀请人全名及护照号、**关系声明**（如“该学生为被邀请人之子/女”）、访问起止日期、邀请人联系方式（电话及ANU地址）。该函件抬头印有ANU校徽及国际学生服务中心公章，需学生签字后生效。
+The official invitation letter includes the following information: the student's full name, student visa number (Visa Grant Number), CoE number, the invitee's full name and passport number, a **statement of relationship** (for example, "the student is the son/daughter of the invitee"), the start and end dates of the visit, and the inviter's contact details (phone number and ANU address). The letter is printed with the ANU crest and the official seal of International Student Services, and only takes effect once signed by the student.
 
-## 常见拒签原因与应对策略
+## Common Refusal Reasons and Countermeasures
 
-澳大利亚内政部2023年《访客签证拒签分析报告》显示，中国籍申请人被拒签的前三大原因为：**资金证明不足**（占拒签案例的42%）、**回国约束力弱**（占31%）、**访问目的不明确**（占18%）。ANU邀请函虽能佐证访问目的，但无法替代资金证明与回国约束力材料。
+The Department of Home Affairs' 2023 Visitor Visa Refusal Analysis Report shows that the top three reasons Chinese applicants are refused are: **insufficient financial evidence** (accounting for 42% of refusals), **weak ties to the home country** (31%) and **unclear purpose of visit** (18%). While an ANU invitation letter can corroborate the purpose of the visit, it cannot replace financial evidence or materials demonstrating ties to the home country.
 
-### 资金证明补充建议
+### Supplementary Financial Evidence
 
-建议被邀请人提供至少**5万元人民币**的银行存款证明（冻结至计划离境后1个月），或提供学生本人澳大利亚银行账户近3个月流水（余额不低于3000澳元）。ANU国际学生服务中心建议学生同时提供自己的**学费缴纳收据**作为经济能力辅助证明。
+It is recommended that the invitee provide a bank deposit certificate of at least **50,000 RMB** (frozen until 1 month after the planned departure date), or the student's own Australian bank account statements for the last 3 months (with a balance of no less than AUD 3,000). ANU International Student Services also recommends that students provide their own **tuition payment receipts** as supplementary evidence of financial capacity.
 
-### 回国约束力材料
+### Evidence of Ties to the Home Country
 
-被邀请人需提供**在职证明**（中文+英文翻译件，注明职位、薪资、准假期限）、房产证或车辆登记证复印件。退休人员需提供退休证及养老金流水。这些材料与ANU邀请函共同提交，可有效降低拒签风险。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%88%B6%E6%AF%8D%E6%8E%A2%E4%BA%B2%E7%AD%BE%E8%AF%81%E9%82%80%E8%AF%B7%E5%87%BD%E5%BC%80%E5%85%B7%E6%B5%81%E7%A8%8B) 等专业通道完成结汇，其交易记录可作为资金流动的辅助凭证。
+The invitee should provide a **certificate of employment** (in Chinese plus an English translation, stating position, salary and approved leave period), and copies of the property ownership certificate or vehicle registration certificate. Retirees should provide their retirement certificate and pension statements. Submitting these materials together with the ANU invitation letter can effectively reduce the risk of refusal. When making cross-border tuition payments, some student families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%88%B6%E6%AF%8D%E6%8E%A2%E4%BA%B2%E7%AD%BE%E8%AF%81%E9%82%80%E8%AF%B7%E5%87%BD%E5%BC%80%E5%85%B7%E6%B5%81%E7%A8%8B) to complete the currency conversion, and the transaction records can serve as supplementary evidence of fund flows.
 
-## 邀请函有效期与续签限制
+## Validity Period and Re-application Limits
 
-ANU开具的**邀请函有效期**通常为**3个月**，自签发之日起计算。若被邀请人未在有效期内递交签证申请，需重新申请邀请函。此外，每份邀请函仅限**单次访问**，不可用于多次往返签证（Subclass 600 常为单次或多次入境，但邀请函仅支持单次访问目的）。
+ANU-issued **invitation letters are generally valid for 3 months** from the date of issue. If the invitee does not lodge the visa application within the validity period, a new invitation letter must be requested. In addition, each invitation letter is limited to a **single visit** and cannot be used for a multiple-entry visa (Subclass 600 is often granted for single or multiple entry, but the invitation letter supports a single-visit purpose only).
 
-### 签证被拒后的重新申请
+### Re-applying After a Visa Refusal
 
-若被邀请人签证被拒，学生需重新提交邀请函申请，并附上拒签信（Refusal Letter）及补充材料。ANU国际学生服务中心2023年政策更新指出，同一被邀请人在12个月内最多可申请2次邀请函。超过2次需提交书面解释信，说明访问目的变化或材料改进情况。
+If the invitee's visa is refused, the student must submit a new invitation letter application together with the Refusal Letter and supplementary materials. In a 2023 policy update, ANU International Student Services stated that the same invitee may apply for an invitation letter at most 2 times within 12 months. Beyond 2 applications, a written explanation letter must be submitted describing changes in the purpose of the visit or improvements to the materials.
 
-## 费用与服务渠道
+## Fees and Service Channels
 
-ANU国际学生服务中心对国际学生**免费开具**邀请函，不收取任何行政费用。但学生需自行承担文件公证、翻译及邮寄费用（若需纸质版）。根据ANU 2024年《学生服务费目录》，纸质版邀请函邮寄费为15澳元（澳大利亚境内）或30澳元（国际快递）。
+ANU International Student Services **issues invitation letters to international students free of charge** and does not charge any administrative fees. However, students must bear the costs of document notarisation, translation and postage themselves (if a paper copy is required). Under ANU's 2024 Student Services Fee Schedule, postage for a paper invitation letter is AUD 15 (within Australia) or AUD 30 (international express).
 
-### 联系方式与办公时间
+### Contact Details and Office Hours
 
-学生可于周一至周五（澳大利亚东部时间9:00-17:00）通过以下渠道咨询：ANU国际学生服务中心（Building 12, 1210室）；电话：+61 2 6125 7258；邮箱：international@anu.edu.au。紧急情况可拨打ANU 24小时安全热线：+61 2 6125 2249。
+Students can seek advice through the following channels from Monday to Friday (9:00-17:00 Australian Eastern Time): ANU International Student Services (Building 12, Room 1210); phone: +61 2 6125 7258; email: international@anu.edu.au. In emergencies, call the ANU 24-hour security hotline: +61 2 6125 2249.
 
 ## FAQ
 
-### Q1：邀请函必须由学生本人申请吗？能否委托他人代办？
+### Q1: Must the invitation letter be applied for by the student personally? Can someone else apply on their behalf?
 
-必须由学生本人通过ISIS系统提交申请。ANU不接受第三方代办（包括留学中介）。若学生因故无法登录ISIS（如账号锁定），需携带学生证及护照原件亲赴国际学生服务中心重置密码。根据ANU 2023年《学生账户管理政策》，账号解锁处理时间为1个工作日。
+The application must be submitted by the student personally through the ISIS system. ANU does not accept third-party applications (including education agents). If a student is unable to log in to ISIS for some reason (such as a locked account), they must go to International Student Services in person with their student ID and original passport to reset the password. Under ANU's 2023 Student Account Management Policy, account unlocking takes 1 working day.
 
-### Q2：邀请函递交后，被邀请人签证审理通常需要多少天？
+### Q2: After the invitation letter is submitted, how long does the invitee's visa application usually take to process?
 
-中国护照持有人通过澳大利亚移民局在线系统递交Subclass 600签证后，审理时间中位数为**14天**（2024年1月-6月数据）。约75%的申请在21天内出结果，约90%在30天内出结果。建议预留至少**2个月**的签证申请周期，包括邀请函申请（5个工作日）、材料准备（1-2周）及签证审理（2-4周）。
+For Chinese passport holders who lodge a Subclass 600 application through the Department of Home Affairs' online system, the median processing time is **14 days** (data from January-June 2024). Around 75% of applications receive a decision within 21 days, and around 90% within 30 days. It is recommended to allow at least **2 months** for the whole visa application cycle, including the invitation letter application (5 working days), document preparation (1-2 weeks) and visa processing (2-4 weeks).
 
-### Q3：如果父母计划在澳停留超过3个月，邀请函需要注明吗？
+### Q3: If my parents plan to stay in Australia for more than 3 months, does the invitation letter need to state this?
 
-需要。邀请函中“计划离境日期”需填写实际离澳日期。澳大利亚访客签证（Subclass 600）允许单次停留最长**12个月**，但超过3个月通常需附加健康保险要求。移民局2024年《访客签证条款》第8101条指出，停留超过3个月需购买覆盖整个停留期的医疗保险（OVHC）。ANU国际学生服务中心建议学生在邀请函中注明“父母计划停留XX个月”，以便签证官评估。
+Yes. The "planned departure date" on the invitation letter must reflect the actual date of departure from Australia. An Australian visitor visa (Subclass 600) allows a maximum single stay of **12 months**, but stays of more than 3 months usually come with additional health insurance requirements. Clause 8101 of the Visitor Visa Conditions issued by the Department of Home Affairs in 2024 states that stays exceeding 3 months require medical insurance (OVHC) covering the entire stay. ANU International Student Services recommends that students note "parents plan to stay XX months" on the invitation letter so that the visa officer can assess the application accordingly.
 
-## 参考资料
+## References
 
-- 澳大利亚内政部 2024年 《访客签证申请指南》（Subclass 600）
-- 澳大利亚内政部 2023年 《学生签证条款》（第8202条）
-- 澳大利亚国立大学国际学生服务中心 2023年 《邀请函申请年度统计报告》
-- 澳大利亚内政部 2023年 《访客签证拒签分析报告》
-- UNILINK 2024年 《ANU国际学生服务数据库》
+- Department of Home Affairs. 2024. Visitor Visa Application Guidelines (Subclass 600)
+- Department of Home Affairs. 2023. Student Visa Conditions (Clause 8202)
+- Australian National University International Student Services. 2023. Annual Statistics Report on Invitation Letter Applications
+- Department of Home Affairs. 2023. Visitor Visa Refusal Analysis Report
+- UNILINK. 2024. ANU International Student Services Database

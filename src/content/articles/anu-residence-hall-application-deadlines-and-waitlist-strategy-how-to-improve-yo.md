@@ -1,6 +1,7 @@
 ---
+slug: anu-residence-hall-application-deadlines-and-waitlist-strategy-how-to-improve-yo
 title: "ANU Residence Hall Application Deadlines and Waitlist Strategy: How to Improve Your Chances of Getting a Room"
-description: "澳洲国立大学（ANU）校内住宿申请竞争激烈，2024年第一学期，ANU Accommodation Services共收到超过7,200份住宿申请，而校内住宿容量仅为约6,000个床位，供需缺口达1,200个以上【ANU Accommodation Services, 2024, Annual Housing R…"
+description: "On-campus housing applications at the Australian National University (ANU) are highly competitive: in Semester 1 2024, ANU Accommodation Services received more than 7,200 applications for only about 6,000 on-campus beds — a supply gap of over 1,200【ANU Accommodation Services, 2024, Annual Housing R…"
 category: "ANU"
 pubDatetime: '2026-04-17T19:56:50Z'
 publishDate: '2026-04-17T19:56:50Z'
@@ -10,65 +11,72 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residence-hall-application-deadlines-and-waitlist-strategy-how-to-improve-yo-2026-1880x1253.jpg"
 ---
 
-澳洲国立大学（ANU）校内住宿申请竞争激烈，2024年第一学期，ANU Accommodation Services共收到超过7,200份住宿申请，而校内住宿容量仅为约6,000个床位，供需缺口达1,200个以上【ANU Accommodation Services, 2024, Annual Housing Report】。对于18至30岁的在读或准ANU学生而言，掌握**申请截止日期**与**候补名单策略**是获得校内房间的关键。根据2025年官方数据，第一轮住宿申请截止日期为2024年10月31日，逾期申请者将自动进入候补名单，而候补名单的分配率在高峰期（12月至次年2月）仅为35%至45%【ANU Accommodation Services, 2025, Application Guidelines】。本文基于ANU官方政策和历年录取数据，提供一套可操作的策略，帮助申请者提升获得住宿的概率。
+On-campus housing applications at the Australian National University (ANU) are fiercely competitive: in Semester 1 2024, ANU Accommodation Services received more than 7,200 applications, yet on-campus capacity is only about 6,000 beds — a supply gap of more than 1,200【ANU Accommodation Services, 2024, Annual Housing Report】. For current and prospective ANU students aged 18 to 30, mastering the **application deadlines** and **waitlist strategy** is the key to securing an on-campus room. According to 2025 official data, the Round 1 application deadline was 31 October 2024; late applicants are automatically placed on the waitlist, where the allocation rate during the peak period (December to February) is only 35% to 45%【ANU Accommodation Services, 2025, Application Guidelines】. Based on ANU's official policies and historical allocation data, this article offers a practical set of strategies to help applicants improve their chances of getting accommodation.
 
-## 申请截止日期与时间线
+## Application Deadlines and Timeline
 
-ANU校内住宿申请遵循严格的时间节点，错过任一阶段都可能大幅降低分配机会。**第一轮申请**（Round 1）通常于每年8月开放，截止日期为10月31日（以2025年入学为例）。此轮申请者享有优先分配权，约70%的床位会在这一阶段分配完毕【ANU Accommodation Services, 2025, Application Guidelines】。
+ANU's on-campus housing application follows strict milestones, and missing any stage can significantly cut your chances of an allocation. **Round 1** applications typically open in August each year and close on 31 October (for 2025 entry, for example). Applicants in this round have priority, with about 70% of beds allocated during this phase【ANU Accommodation Services, 2025, Application Guidelines】.
 
-**第二轮申请**（Round 2）从11月1日持续至次年1月15日，主要处理第一轮未分配的剩余床位及因放弃申请而释放的空缺。此阶段分配率下降至约50%【ANU Accommodation Services, 2025, Application Guidelines】。**逾期申请**（Late Applications）在1月15日后提交，将自动归入候补名单，分配率低于20%。
+**Round 2** runs from 1 November to 15 January the following year and mainly handles beds left over from Round 1 plus vacancies freed up by applicants who withdrew. The allocation rate at this stage drops to about 50%【ANU Accommodation Services, 2025, Application Guidelines】. **Late applications** submitted after 15 January are automatically placed on the waitlist, with an allocation rate below 20%.
 
-**关键时间节点**包括：8月1日申请系统开放、10月31日第一轮截止、11月至12月第一轮分配结果发放、1月15日第二轮截止、2月初开学前最后一批分配。申请者应优先在**第一轮截止日期**前提交完整申请，包括所有支持文件（如个人陈述、推荐信），以确保进入优先队列。
+**Key dates** include: the application system opening on 1 August, the Round 1 deadline on 31 October, Round 1 offers released between November and December, the Round 2 deadline on 15 January, and the final batch of allocations in early February before the semester starts. Applicants should aim to submit a complete application — including all supporting documents (such as a personal statement and reference letters) — before the **Round 1 deadline** to secure a place in the priority queue.
 
-## 候补名单机制与运作原理
+## How the Waitlist Works
 
-候补名单（Waitlist）是ANU Accommodation Services管理床位供需的核心工具。当所有正式床位分配完毕后，未获宿舍的申请者自动进入候补名单，按**申请提交时间**和**优先级评分**排序。根据2024年数据，候补名单在2月开学前平均有1,200至1,500人，但实际获得分配的比例仅为35%至45%【ANU Accommodation Services, 2024, Annual Housing Report】。
+The waitlist is the core tool ANU Accommodation Services uses to manage bed supply and demand. Once all formal beds are allocated, applicants who missed out are automatically placed on the waitlist, ranked by **application submission time** and **priority score**. According to 2024 data, the waitlist averages 1,200 to 1,500 people before classes start in February, yet only 35% to 45% actually receive an allocation【ANU Accommodation Services, 2024, Annual Housing Report】.
 
-**候补名单优先级评分**由三个因素构成：申请日期（占40%权重）、住宿需求紧急度（如远程学生或家庭困难，占35%权重）、以及学术年份（新生优先于高年级学生，占25%权重）。例如，2024年一名在10月15日提交申请的新生，其优先级评分比1月5日提交的二年级学生高出约30个百分点【ANU Accommodation Services, 2024, Internal Allocation Data】。
+The **waitlist priority score** is made up of three factors: application date (40% weight), urgency of accommodation need (such as remote students or family hardship, 35% weight), and academic year (first-years ahead of senior students, 25% weight). For example, in 2024 a first-year who applied on 15 October scored about 30 percentage points higher than a second-year who applied on 5 January【ANU Accommodation Services, 2024, Internal Allocation Data】.
 
-**分配时机**集中在12月至次年2月。12月第一轮放弃的床位释放后，候补名单中的前10%至15%会收到offer；1月第二轮结束后，另有20%至25%获得分配。2月开学前一周，因临时退房，剩余5%至10%的床位会分配给候补名单中排名靠前的申请者。申请者应定期检查ANU Accommodation Portal，并在收到offer后的48小时内确认，否则床位将释放给下一人。
+**Allocation timing** is concentrated between December and February. After beds surrendered in Round 1 are released in December, the top 10% to 15% of the waitlist receive offers; after Round 2 ends in January, another 20% to 25% get allocated. In the week before classes start in February, the remaining 5% to 10% of beds — freed by last-minute cancellations — go to the highest-ranked waitlisted applicants. Applicants should check the ANU Accommodation Portal regularly and confirm any offer within 48 hours, or the bed is released to the next person.
 
-## 提升分配概率的申请策略
+## Strategies to Improve Your Chances
 
-### 提前提交申请与文件准备
-**提前提交申请**是提高分配概率的最有效手段。ANU采用滚动审核机制，申请提交时间直接影响优先级评分。建议申请者在系统开放后（8月1日）的**前两周内**完成提交，这比截止日前一周提交的申请在优先级评分上高出15至20分【ANU Accommodation Services, 2024, Internal Allocation Data】。准备文件时，需确保个人陈述清晰说明住宿需求（如距离、家庭情况），并附上至少一封推荐信（学术或雇主）。**文件完整性**也是审核因素之一，缺失材料的申请会被标记为“不完整”，延迟进入队列。
+### Apply Early and Prepare Your Documents
 
-### 选择多个宿舍选项
-ANU提供多种宿舍类型，包括**校内宿舍**（如Bruce Hall、Burgmann College）、**学生公寓**（如Lodge on Daley）和**校外合作公寓**（如UniGardens）。申请者应在系统中勾选至少3个选项，而非仅选1个。2024年数据表明，选择3个或以上选项的申请者，分配概率比仅选1个的申请者高出40%【ANU Accommodation Services, 2024, Annual Housing Report】。**低竞争宿舍**（如Burgmann College的共享房间）的分配率可达80%，而**高竞争宿舍**（如Bruce Hall的单人间）仅为30%。申请者可根据自身预算，优先勾选共享房间或较远宿舍以提升概率。
+**Applying early** is the single most effective way to improve your chances. ANU uses a rolling review process, so application timing directly affects your priority score. We recommend submitting within the **first two weeks** after the system opens (1 August) — this scores 15 to 20 points higher on priority than applying a week before the deadline【ANU Accommodation Services, 2024, Internal Allocation Data】. When preparing documents, make sure your personal statement clearly explains your housing needs (such as distance or family circumstances) and include at least one reference letter (academic or employer). **Document completeness** is also a review factor: applications with missing materials are flagged 'incomplete' and enter the queue late.
 
-### 利用候补名单的主动沟通
-候补名单并非被动等待。申请者可通过ANU Accommodation Services的**在线咨询系统**或电话（+61 2 6125 1234）主动更新个人情况，如家庭地址变更或紧急需求。2024年，主动联系并更新信息的候补申请者中，约25%在1个月内获得分配，而未主动联系者仅为10%【ANU Accommodation Services, 2024, Internal Allocation Data】。此外，申请者应关注**ANU Accommodation Facebook群组**和官方邮件，获取床位释放的实时通知。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residence-hall-application-deadlines-and-waitlist-strategy-how-to-improve-yo) 等专业通道完成结汇，确保资金及时到账，避免因财务问题延误住宿确认。
+### Select Multiple Housing Options
 
-## 宿舍类型与竞争程度分析
+ANU offers several housing types, including **traditional halls** (such as Bruce Hall and Burgmann College), **student apartments** (such as Lodge on Daley) and **off-campus co-op housing** (such as UniGardens). Select at least 3 options in the system rather than just 1. 2024 data shows applicants who choose 3 or more options have a 40% higher allocation rate than those who choose only 1【ANU Accommodation Services, 2024, Annual Housing Report】. **Low-competition halls** (such as shared rooms at Burgmann College) have allocation rates up to 80%, while **high-competition halls** (such as single rooms at Bruce Hall) sit at just 30%. Depending on your budget, prioritising shared rooms or halls further from campus can boost your chances.
 
-ANU校内宿舍可分为三类：**传统学院式宿舍**（如Bruce Hall、Burgmann College）、**现代公寓式宿舍**（如Lodge on Daley、Wright Hall）和**合作住房**（如UniGardens）。每类宿舍的竞争程度差异显著。
+### Stay Proactive on the Waitlist
 
-**传统学院式宿舍**提供餐饮计划和社区活动，深受新生青睐，但床位仅约1,800个，申请者与床位比达4:1【ANU Accommodation Services, 2024, Annual Housing Report】。这类宿舍的分配率在首轮仅为25%至30%，候补名单中几乎无机会。**现代公寓式宿舍**（约2,500个床位）提供独立卫浴和厨房，竞争相对较小，分配率约50%至60%。**合作住房**（约1,700个床位）由学生合作社管理，租金较低，但需参与社区劳动，分配率可达70%至80%。申请者若优先选择合作住房或现代公寓，可显著提高获得住宿的概率。
+The waitlist is not a passive waiting game. You can proactively update your circumstances — such as a change of home address or urgent needs — through ANU Accommodation Services' **online enquiry system** or by phone (+61 2 6125 1234). In 2024, about 25% of waitlisted applicants who proactively contacted the service and updated their information received an allocation within a month, compared with only 10% of those who did not【ANU Accommodation Services, 2024, Internal Allocation Data】. You should also follow the **ANU Accommodation Facebook group** and official emails for real-time notices of bed releases. When it comes to cross-border tuition payments, some study-abroad families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residence-hall-application-deadlines-and-waitlist-strategy-how-to-improve-yo) to complete their remittances, ensuring funds arrive on time and avoiding delays in confirming accommodation due to financial issues.
 
-## 住宿费用与预算规划
+## Hall Types and Competition Levels
 
-ANU校内住宿费用因类型而异，2025年数据如下：传统学院式宿舍（含餐饮）年费为18,000至22,000澳元（约合人民币85,000至104,000元）；现代公寓式宿舍（不含餐饮）年费为14,000至18,000澳元（约合人民币66,000至85,000元）；合作住房年费为10,000至12,000澳元（约合人民币47,000至57,000元）【ANU Accommodation Services, 2025, Fee Schedule】。**押金**通常为4周租金（约1,200至2,000澳元），需在确认offer后48小时内支付。
+ANU's on-campus housing falls into three categories: **traditional collegiate halls** (such as Bruce Hall and Burgmann College), **modern apartment-style residences** (such as Lodge on Daley and Wright Hall) and **cooperative housing** (such as UniGardens). Competition differs significantly across the categories.
 
-**预算规划**建议：第一学期总住宿支出（含押金、租金、餐饮）应控制在15,000至25,000澳元之间。申请者可利用ANU提供的**分期付款计划**，将年费分4期支付，每期约3,500至5,500澳元，缓解现金流压力。同时，部分宿舍（如合作住房）允许学生通过劳动抵扣部分租金，每周工作5至10小时可减免20%至30%费用。
+**Traditional collegiate halls** offer meal plans and community activities and are popular with first-years, but they have only about 1,800 beds, giving an applicant-to-bed ratio of 4:1【ANU Accommodation Services, 2024, Annual Housing Report】. Their allocation rate in Round 1 is just 25% to 30%, and there is almost no chance from the waitlist. **Modern apartment-style residences** (about 2,500 beds) offer private bathrooms and kitchens and are less competitive, with allocation rates around 50% to 60%. **Cooperative housing** (about 1,700 beds) is run by student cooperatives with lower rent, but residents contribute community labour; allocation rates reach 70% to 80%. Prioritising cooperative housing or modern apartments can significantly improve your odds of getting a room.
 
-## 校外住宿作为备选方案
+## Accommodation Costs and Budget Planning
 
-当校内住宿候补名单无望时，**校外住宿**是必要备选。ANU周边区域（如Acton、Braddon、Kingston）的租金中位数为每周350至500澳元（约合人民币1,650至2,360元），低于校内宿舍的每周400至550澳元【Real Estate Institute of Australia, 2024, Rental Market Report】。**寻找校外住宿**的渠道包括：ANU官方合作平台（如ANU Off-Campus Housing Database）、租房网站（如Domain、Realestate.com.au）以及学生社群（如ANU Student Facebook群组）。
+ANU on-campus housing costs vary by type; 2025 figures are as follows: traditional collegiate halls (meals included) cost AUD 18,000 to 22,000 per year (roughly RMB 85,000 to 104,000); modern apartment-style residences (meals not included) cost AUD 14,000 to 18,000 per year (roughly RMB 66,000 to 85,000); cooperative housing costs AUD 10,000 to 12,000 per year (roughly RMB 47,000 to 57,000)【ANU Accommodation Services, 2025, Fee Schedule】. The **deposit** is usually 4 weeks' rent (about AUD 1,200 to 2,000), payable within 48 hours of accepting an offer.
 
-**合租策略**可进一步降低成本：与2至3名学生合租一套公寓，每人每周租金可降至250至300澳元。建议在开学前8至12周开始搜索，2024年数据显示，提前2个月开始找房的申请者，找到合适住宿的概率为85%，而开学前2周开始找房的概率仅为30%【ANU Accommodation Services, 2024, Annual Housing Report】。此外，签署合同时需注意**租期灵活性**：部分房东要求12个月固定租约，而学生可协商6个月租期，以适应学期安排。
+**Budget planning** tip: keep total Semester 1 housing spend (deposit, rent and meals) between AUD 15,000 and 25,000. ANU offers an **instalment plan** that splits the annual fee into 4 payments of about AUD 3,500 to 5,500 each, easing cash-flow pressure. Some halls (such as cooperative housing) also let students work off part of the rent: 5 to 10 hours of work per week can reduce costs by 20% to 30%.
+
+## Off-Campus Housing as a Backup
+
+When the on-campus waitlist looks hopeless, **off-campus housing** is the necessary backup. Median rents in suburbs around ANU (such as Acton, Braddon and Kingston) run AUD 350 to 500 per week (roughly RMB 1,650 to 2,360), below the AUD 400 to 550 per week for on-campus halls【Real Estate Institute of Australia, 2024, Rental Market Report】. **Channels for finding off-campus housing** include ANU's official partner platform (such as the ANU Off-Campus Housing Database), rental websites (such as Domain and Realestate.com.au) and student communities (such as ANU student Facebook groups).
+
+**Flat-sharing** can cut costs further: sharing an apartment with 2 to 3 students brings per-person rent down to AUD 250 to 300 per week. Start searching 8 to 12 weeks before classes begin. 2024 data shows applicants who start looking 2 months early have an 85% chance of finding suitable housing, versus just 30% for those who start 2 weeks before the semester【ANU Accommodation Services, 2024, Annual Housing Report】. When signing a lease, watch the **lease flexibility**: some landlords require a fixed 12-month term, but students can often negotiate a 6-month lease to match the academic calendar.
 
 ## FAQ
 
-### Q1：ANU住宿申请的第一轮截止日期是什么时候？
-第一轮申请截止日期通常为每年10月31日（以2025年入学为例）。在此日期前提交的申请享有优先分配权，约70%的床位在此阶段分配。逾期提交将自动进入候补名单，分配率降至35%至45%。
+### Q1: When is the Round 1 deadline for ANU housing applications?
 
-### Q2：候补名单上的分配概率有多大？
-候补名单分配率在高峰期（12月至次年2月）为35%至45%。2024年数据显示，约1,200至1,500人在候补名单中，但仅420至675人最终获得床位。申请日期越早、优先级评分越高，分配概率越大。
+The Round 1 deadline is usually 31 October each year (for 2025 entry, for example). Applications submitted before this date get priority, with about 70% of beds allocated in this phase. Late submissions automatically go to the waitlist, where the allocation rate drops to 35% to 45%.
 
-### Q3：如果没拿到校内住宿，最快多久能找到校外住宿？
-建议在开学前8至12周开始搜索。2024年数据显示，提前2个月开始找房的申请者，85%在2周内找到合适住宿；而开学前2周开始找房，成功率仅为30%。校外住宿租金中位数为每周350至500澳元。
+### Q2: What are my chances of being allocated from the waitlist?
 
-## 参考资料
+The waitlist allocation rate during the peak period (December to February) is 35% to 45%. 2024 data shows about 1,200 to 1,500 people on the waitlist, but only 420 to 675 ultimately receive beds. The earlier your application date and the higher your priority score, the greater your chances.
+
+### Q3: If I don't get on-campus housing, how quickly can I find off-campus housing?
+
+Start searching 8 to 12 weeks before classes begin. 2024 data shows 85% of applicants who start 2 months early find suitable housing within 2 weeks, while those who start 2 weeks before the semester have only a 30% success rate. Median off-campus rent is AUD 350 to 500 per week.
+
+## References
+
 - ANU Accommodation Services, 2025, Application Guidelines
 - ANU Accommodation Services, 2024, Annual Housing Report
 - ANU Accommodation Services, 2024, Internal Allocation Data

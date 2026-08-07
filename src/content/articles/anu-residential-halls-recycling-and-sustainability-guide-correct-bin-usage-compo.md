@@ -1,6 +1,7 @@
 ---
+slug: anu-residential-halls-recycling-and-sustainability-guide-correct-bin-usage-compo
 title: "ANU Residential Halls Recycling and Sustainability Guide: Correct Bin Usage, Compost Programs, and Green Initiatives"
-description: "澳大利亚国立大学（ANU）的住宿学院系统每年容纳超过 6,500 名学生，其产生的废弃物总量占校园总废弃物的显著比例。根据 ANU 环境与安全局 2023 年发布的《校园废弃物审计报告》，住宿区生活垃圾中约有 35% 为可回收物，另有 12% 为可堆肥有机废物，但实际分类准确率仅为 62%。与此同时，澳大利亚首都…"
+description: "ANU's residential college system houses more than 6,500 students a year, and the waste it generates makes up a significant share of the campus total. According to the Campus Waste Audit Report released by ANU Environment and Safety in 2023, about 35% of general waste from residential areas is recyclable and a further 12% is compostable organic material — yet actual sorting accuracy is only 62%. At the same time, the Australian Capital…"
 category: "ANU"
 pubDatetime: '2026-05-03T19:59:51Z'
 publishDate: '2026-05-03T19:59:51Z'
@@ -10,111 +11,120 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residential-halls-recycling-and-sustainability-guide-correct-bin-usage-compo-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）的住宿学院系统每年容纳超过 6,500 名学生，其产生的废弃物总量占校园总废弃物的显著比例。根据 ANU 环境与安全局 2023 年发布的《校园废弃物审计报告》，住宿区生活垃圾中约有 35% 为可回收物，另有 12% 为可堆肥有机废物，但实际分类准确率仅为 62%。与此同时，澳大利亚首都领地（ACT）政府于 2022 年实施的《废弃物管理与资源回收战略》要求到 2025 年将填埋废弃物减少 15%，ANU 作为 ACT 最大的教育机构之一，其住宿学院的回收与堆肥实践直接影响该目标的达成。本指南系统梳理 ANU 各住宿学院的垃圾分类规则、堆肥项目运作机制及校园绿色倡议，为入住学生提供可操作的环保行动参考。
+ANU's residential college system houses more than 6,500 students a year, and the waste it generates makes up a significant share of the campus total. According to the Campus Waste Audit Report released by ANU Environment and Safety in 2023, about 35% of general waste from residential areas is recyclable and a further 12% is compostable organic material — yet actual sorting accuracy is only 62%. At the same time, the ACT Government's Waste Management and Resource Recovery Strategy, in force since 2022, requires landfill waste to fall by 15% by 2025; as one of the ACT's largest education institutions, ANU's recycling and composting practices in its residential colleges directly affect whether that target is met. This guide lays out the waste sorting rules at each ANU residential college, how the composting programs work, and the campus green initiatives, giving incoming students a practical playbook for environmentally friendly living.
 
-## 住宿学院标准垃圾分类系统
+## Standard Waste Sorting System in Residential Colleges
 
-ANU 住宿学院普遍采用 **三色桶分类系统**，与 ACT 政府规定的家庭废弃物分类标准一致。该系统自 2020 年起在全部 12 个住宿学院实施，覆盖率 100%。
+ANU residential colleges generally use a **three-bin colour-coded system**, matching the ACT Government's household waste sorting standards. The system has been in place across all 12 residential colleges since 2020, with 100% coverage.
 
-### 红色垃圾桶（一般废弃物）
-**红色垃圾桶** 用于不可回收、不可堆肥的残余垃圾。根据 ANU 设施管理部 2023 年发布的《住宿区废弃物管理手册》，允许投放的物品包括：受污染的纸巾、尿布、卫生用品、碎玻璃（需包装）、泡沫塑料（聚苯乙烯）、以及无法清洁的塑料包装。禁止投放电子废弃物（需单独回收）、电池（需送至指定收集点）及危险化学品。
+### Red Bin (General Waste)
 
-### 黄色垃圾桶（混合回收）
-**黄色垃圾桶** 接受清洁的纸张、纸板、塑料瓶（PET/HDPE/PP）、金属罐和玻璃瓶。ANU 与 ACT 政府签订的回收服务合同中明确规定，塑料容器需冲洗干净且瓶盖分离。2022 年 ACT 政府《回收质量报告》指出，ANU 住宿区黄色桶的污染率约为 8%，低于 ACT 平均水平 13%，但仍需注意食品残渣和软塑料（如保鲜膜、塑料袋）不可投放。
+The **red bin** is for residual waste that can't be recycled or composted. Under the Residential Waste Management Manual published by ANU Facilities Management in 2023, acceptable items include: contaminated tissues, nappies, sanitary products, broken glass (wrapped), polystyrene foam, and plastic packaging that can't be cleaned. Prohibited: e-waste (collected separately), batteries (take them to a designated collection point) and hazardous chemicals.
 
-### 绿色垃圾桶（有机废物与花园垃圾）
-**绿色垃圾桶** 在 ANU 住宿学院中主要用于收集食物残渣和花园修剪物。2023 年 ANU 在 Burgmann College 和 Ursula Hall 试点引入 **厨房食物桶**（Kitchen Caddy），将小型绿色桶放置于厨房台面，方便学生即时投放果皮、菜叶、咖啡渣和蛋壳。试点期间，两栋宿舍的有机废物回收率从 21% 提升至 44%。
+### Yellow Bin (Mixed Recycling)
 
-## 堆肥项目运作机制
+The **yellow bin** takes clean paper, cardboard, plastic bottles (PET/HDPE/PP), metal cans and glass bottles. ANU's recycling service contract with the ACT Government requires plastic containers to be rinsed and lids removed. The ACT Government's 2022 Recycling Quality Report puts the contamination rate in ANU residential yellow bins at about 8% — below the ACT average of 13% — but food scraps and soft plastics (cling wrap, plastic bags) still must not go in.
 
-ANU 运营着澳大利亚高校中规模最大的 **校园堆肥系统**，其核心设施位于 Acton 校区南侧的 ANU Farm。
+### Green Bin (Organics and Garden Waste)
 
-### 集中式堆肥设施
-该设施年处理能力为 120 吨有机废物，包括来自住宿学院食堂的食物残渣和校园绿地修剪物。堆肥过程采用 **静态好氧堆肥技术**，周期为 8 至 12 周。根据 ANU 可持续发展办公室 2024 年发布的《年度环境报告》，2023 年该设施共处理 87 吨有机废物，产生 42 吨成熟堆肥，其中 30% 用于校园景观绿化，70% 通过 ANU Farmers Market 免费发放给学生和教职员工。
+At ANU residential colleges the **green bin** mainly collects food scraps and garden prunings. In 2023 ANU trialled **kitchen caddies** at Burgmann College and Ursula Hall — small green bins kept on kitchen benches so students can toss in fruit peels, vegetable leaves, coffee grounds and eggshells on the spot. During the trial, organic waste recovery at the two halls rose from 21% to 44%.
 
-### 住宿学院小型堆肥项目
-除集中式设施外，Bruce Hall、John XXIII College 和 Fenner Hall 运营着 **独立小型堆肥箱**，用于处理宿舍厨房产生的少量有机废物。这些项目由各学院的环境代表（Green Reps）负责管理，学生需参加 30 分钟的培训后方可使用。培训内容包括：正确投放物料（禁止肉类、乳制品和油脂）、保持碳氮比（建议 3:1 棕色物料与绿色物料比例）、以及定期翻堆频率（每周 1-2 次）。
+## How the Compost Programs Work
 
-## 电子废弃物与特殊物品回收
+ANU operates the **largest campus composting system** among Australian universities, with its core facility at ANU Farm on the southern side of the Acton campus.
 
-ANU 住宿学院针对电子废弃物和危险物品设有 **专用回收通道**，与日常垃圾分类系统分离。
+### Centralised Composting Facility
 
-### 电子废弃物回收点
-每个住宿学院大堂或公共区域均设有 **电子废弃物回收箱**（E-waste Bins），接受小型电子设备：手机、充电器、耳机、计算器和数据线。大型设备（如打印机、显示器）需通过 ANU 设施管理部预约上门回收。2023 年，ANU 住宿区共回收 1.2 吨电子废弃物，其中 94% 被拆解并进入 ACT 政府认证的回收处理流程。
+The facility can process 120 tonnes of organic waste a year, including food scraps from residential college dining halls and campus green trimmings. Composting uses **static aerobic technology** over an 8–12 week cycle. Per the ANU Sustainability Office's 2024 Annual Environmental Report, the facility processed 87 tonnes of organic waste in 2023, producing 42 tonnes of mature compost — 30% went to campus landscaping and 70% was given away free to students and staff at the ANU Farmers Market.
 
-### 电池与化学物品
-**电池回收** 由 ANU 与 Battery World 合作运营，各学院前台提供专用收集袋。2023 年 ACT 政府《危险废弃物管理年报》显示，ANU 住宿区共回收 230 公斤电池，避免了重金属渗入填埋场的风险。对于荧光灯管、油漆和清洁剂等化学物品，学生需联系学院管理员获取处置指引，不可投入任何垃圾桶。
+### Small-Scale Composting in the Colleges
 
-## 绿色倡议与学生参与
+Beyond the central facility, Bruce Hall, John XXIII College and Fenner Hall run **independent small compost bins** for the modest organic waste from their kitchens. These programs are managed by each college's environmental representatives (Green Reps), and students must complete 30 minutes of training before using them. Training covers: what to add (no meat, dairy or grease), keeping the carbon-to-nitrogen balance (a recommended 3:1 ratio of brown to green material), and turning frequency (1–2 times a week).
 
-ANU 住宿学院系统内设有多个 **由学生主导的可持续发展项目**，旨在提升环保意识并减少碳足迹。
+## E-Waste and Special Item Recycling
 
-### Green Reps 项目
-**Green Reps** 是 ANU 住宿学院的环境代表网络，每个学院配备 2 至 4 名代表，负责组织回收教育活动、堆肥箱维护和能源审计。2023 年，该项目覆盖 12 个学院，共 40 名代表参与，举办了 24 场垃圾分类工作坊。根据 ANU 学生生活部 2024 年内部评估，参与 Green Reps 项目的学生宿舍楼平均废弃物分类准确率比非参与楼高 17 个百分点（78% 对比 61%）。
+ANU residential colleges have **dedicated recycling channels** for electronic waste and hazardous items, separate from the everyday sorting system.
 
-### 零废弃挑战（Zero Waste Challenge）
-每年 3 月，ANU 住宿学院举办为期 4 周的 **零废弃挑战**，鼓励学生将每周填埋垃圾量控制在 2 公斤以下。2024 年挑战中，Burgmann College 的 47 名学生参与，平均每周填埋垃圾量为 1.8 公斤，最低纪录为 0.6 公斤。挑战期间，学院提供可重复使用的购物袋、不锈钢吸管和堆肥桶，并每周称重记录。
+### E-Waste Collection Points
 
-### 与 ACT 政府的合作
-ANU 住宿学院的废弃物管理系统与 **ACT NoWaste 计划** 对接，该计划由 ACT 城市服务局运营，提供免费的分类指南海报和在线资源。2023 年，ANU 与 ACT NoWaste 联合开发了针对国际学生的多语言分类指南（中文、韩语、越南语、印地语），覆盖住宿学院中约 35% 的非英语母语学生群体。
+Every college foyer or common area has an **e-waste bin** accepting small electronics: phones, chargers, headphones, calculators and cables. Larger items (printers, monitors) need a pickup booked through ANU Facilities Management. In 2023, ANU residential areas recycled 1.2 tonnes of e-waste, 94% of which was dismantled and fed into ACT Government-certified recycling processes.
 
-## 常见分类错误与纠正措施
+### Batteries and Chemicals
 
-尽管 ANU 提供了明确的分类指引，部分物品的归属仍存在混淆。根据 ANU 环境与安全局 2023 年的审计数据，以下三类错误最为常见。
+**Battery recycling** runs in partnership with Battery World, with dedicated collection bags at each college's front desk. The ACT Government's 2023 Hazardous Waste Management Annual Report shows ANU residential areas collected 230 kg of batteries in 2023, keeping heavy metals out of landfill. For chemicals such as fluorescent tubes, paint and cleaning products, students must contact their college administrator for disposal instructions — never put them in any bin.
 
-### 软塑料误投
-**软塑料**（如保鲜膜、零食包装袋、气泡膜）是黄色回收桶中最常见的污染物，占错误投放物的 38%。这些物品不属于 ACT 的混合回收系统，应投入红色垃圾桶。ANU 在 2023 年引入了 **RedCycle 软塑料回收试点**（仅限 Burgess Hall 和 LK 楼），学生可将清洁的软塑料投放至指定红色回收袋，但该试点已于 2024 年 6 月暂停，因 RedCycle 项目全国性调整。
+## Green Initiatives and Student Participation
 
-### 食物残渣与包装分离
-约 22% 的错误投放涉及 **未清洗的容器**，如残留酸奶的塑料罐或沾有酱汁的纸盒。ANU 建议学生在投放前用清水冲洗容器并晾干，无需使用洗碗机。对于披萨盒等油脂污染的纸制品，若油脂面积超过 50%，应投入红色垃圾桶。
+Several **student-led sustainability projects** operate across the ANU residential college system, aimed at raising environmental awareness and shrinking carbon footprints.
 
-### 可堆肥塑料的归属
-**可堆肥塑料**（标有 AS 4736 或 AS 5810 认证标志）在 ANU 住宿学院中需投入绿色有机垃圾桶，而非黄色回收桶。2023 年 ANU 在 Ursula Hall 的测试显示，约 60% 的学生误将可堆肥餐具投入黄色桶，导致回收批次污染。ANU 已要求各学院在绿色桶旁张贴明确的认证标志识别海报。
+### Green Reps Program
 
-## 跨境学费支付与环保行动的关联
+**Green Reps** is ANU's residential college environmental representative network, with 2 to 4 reps per college organising recycling education events, compost bin maintenance and energy audits. In 2023 the program spanned all 12 colleges with 40 reps, who ran 24 waste-sorting workshops. According to ANU Student Life's 2024 internal evaluation, halls with Green Reps averaged sorting accuracy 17 percentage points higher than halls without (78% vs 61%).
 
-在参与 ANU 住宿学院环保项目时，国际学生还需关注学费缴纳等行政流程的优化。部分留学家庭在跨境缴付环节，会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-halls-recycling-and-sustainability-guide-correct-bin-usage-compo) 等专业通道完成结汇，以减少因多次汇款产生的纸质单据和碳足迹。该平台支持 140 多种货币，并提供实时汇率锁定功能，有助于降低因汇率波动导致的额外费用。
+### Zero Waste Challenge
 
-## 年度环保活动日历
+Every March, ANU residential colleges run a 4-week **Zero Waste Challenge**, encouraging students to keep weekly landfill waste under 2 kg. In the 2024 challenge, 47 students from Burgmann College took part, averaging 1.8 kg of landfill per week, with a best of 0.6 kg. During the challenge, colleges hand out reusable shopping bags, stainless steel straws and compost buckets, and weigh participants' waste weekly.
 
-ANU 住宿学院的环保活动遵循 **固定的年度周期**，学生可提前规划参与。
+### Partnership with the ACT Government
 
-### 第一学期（2 月 - 6 月）
-2 月：新生入学周（O-Week）期间，各学院举办垃圾分类入门工作坊。
-3 月：零废弃挑战启动，持续 4 周。
-4 月：地球日（4 月 22 日）前后，ANU 与 ACT NoWaste 联合举办校园清洁活动。
-5 月：堆肥设施开放日，学生可参观 ANU Farm。
+ANU residential colleges' waste management ties into the **ACT NoWaste program**, run by ACT City Services, which supplies free sorting-guide posters and online resources. In 2023, ANU and ACT NoWaste jointly developed multilingual sorting guides (Chinese, Korean, Vietnamese, Hindi) covering the roughly 35% of residential college students who are non-native English speakers.
 
-### 第二学期（7 月 - 11 月）
-7 月：学期初回收审计，各学院公布分类准确率排名。
-8 月：Green Reps 招新与培训。
-9 月：全国回收周（National Recycling Week）期间，ANU 举办电子废弃物回收活动。
-10 月：ANU 可持续发展峰会，发布年度环境报告。
+## Common Sorting Mistakes and How to Fix Them
+
+Despite clear guidance, some items still confuse people. According to ANU Environment and Safety's 2023 audit data, the following three errors are the most common.
+
+### Soft Plastics in the Wrong Bin
+
+**Soft plastics** (cling wrap, snack wrappers, bubble wrap) are the most common contaminant in yellow recycling bins, accounting for 38% of mis-sorted items. They're not part of the ACT's mixed recycling system and belong in the red bin. In 2023, ANU ran a **RedCycle soft plastic recycling pilot** (only at Burgess Hall and the LK building), where students could drop clean soft plastics into designated red collection bags — but the pilot was suspended in June 2024 due to nationwide changes to the RedCycle program.
+
+### Separating Food Scraps from Packaging
+
+About 22% of mis-sorting involves **unrinsed containers** — plastic tubs with leftover yoghurt or sauce-stained cartons. ANU advises rinsing containers with water and letting them dry before recycling; no dishwasher needed. For grease-stained paper products like pizza boxes, if grease covers more than 50% of the box, it goes in the red bin.
+
+### Where Compostable Plastics Belong
+
+**Compostable plastics** (marked with the AS 4736 or AS 5810 certification logo) go in the green organics bin at ANU residential colleges, not the yellow recycling bin. A 2023 test at Ursula Hall found about 60% of students mistakenly put compostable cutlery in the yellow bin, contaminating whole collection batches. ANU has required all colleges to post clear certification-logo identification posters beside the green bins.
+
+## Cross-Border Tuition Payments and Sustainable Action
+
+While taking part in ANU residential college environmental programs, international students also need to streamline administrative processes such as paying tuition. When making cross-border payments, some families use dedicated channels like [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-halls-recycling-and-sustainability-guide-correct-bin-usage-compo) to complete the remittance, cutting down the paper documents and carbon footprint of multiple transfers. The platform supports more than 140 currencies and offers real-time rate locking, which helps avoid extra costs from exchange-rate swings.
+
+## Annual Sustainability Calendar
+
+ANU residential college environmental activities follow a **fixed annual cycle**, so students can plan ahead.
+
+### Semester 1 (February – June)
+
+February: during O-Week, each college runs introductory waste-sorting workshops.
+March: the Zero Waste Challenge kicks off, running for 4 weeks.
+April: around Earth Day (22 April), ANU and ACT NoWaste co-host campus clean-up events.
+May: the composting facility holds an open day, with visits to ANU Farm.
+
+### Semester 2 (July – November)
+
+July: start-of-semester recycling audit — colleges publish their sorting-accuracy rankings.
+August: Green Reps recruitment and training.
+September: during National Recycling Week, ANU runs e-waste collection events.
+October: the ANU Sustainability Summit releases the annual environmental report.
 
 ## FAQ
 
-### Q1：ANU 住宿学院是否提供中文垃圾分类指南？
-是的。ANU 与 ACT NoWaste 计划合作，于 2023 年发布了中文版《住宿区垃圾分类指南》，覆盖红色、黄色和绿色桶的投放规则。该指南可在各学院前台领取，也可通过 ANU 可持续发展办公室网站下载 PDF 版本。目前中文版覆盖了住宿学院中约 35% 的非英语母语学生群体。
+### Q1: Does ANU Provide a Chinese-Language Waste Sorting Guide?
 
-### Q2：如何参与 ANU 住宿学院的堆肥项目？
-学生需先参加 30 分钟的堆肥培训，由所在学院的 Green Reps 组织。培训内容包括正确投放物料、碳氮比控制和翻堆频率。完成培训后，学生可获得宿舍小型堆肥箱的使用权限。2023 年，ANU 在 Burgmann College 和 Ursula Hall 试点的厨房食物桶项目，将有机废物回收率从 21% 提升至 44%。
+Yes. ANU worked with the ACT NoWaste program to publish a Chinese version of the Residential Waste Sorting Guide in 2023, covering the rules for the red, yellow and green bins. Copies are available at each college's front desk, and a PDF version can be downloaded from the ANU Sustainability Office website. The Chinese version currently covers the roughly 35% of residential college students who are non-native English speakers.
 
-### Q3：ANU 住宿学院如何处理电子废弃物？
-每个住宿学院大堂均设有电子废弃物回收箱，接受小型设备（手机、充电器、耳机、计算器等）。大型设备需通过 ANU 设施管理部预约上门回收。2023 年，ANU 住宿区共回收 1.2 吨电子废弃物，其中 94% 进入 ACT 政府认证的回收处理流程。电池回收由各学院前台提供专用收集袋，2023 年共回收 230 公斤电池。
+### Q2: How Do I Join ANU's Residential College Composting Program?
 
-## 参考资料
-- ANU 环境与安全局 2023 年《校园废弃物审计报告》
-- ACT 城市服务局 2022 年《废弃物管理与资源回收战略》
-- ANU 可持续发展办公室 2024 年《年度环境报告》
-- ACT 政府 2022 年《回收质量报告》
-- UNILINK 数据库 2024 年《澳洲高校国际学生环保参与度调研》
+First attend 30 minutes of compost training, organised by your college's Green Reps. Training covers what to add, carbon-to-nitrogen balance and turning frequency. Once you've completed it, you get access to your hall's small compost bins. In 2023, the kitchen caddy trial at Burgmann College and Ursula Hall lifted organic waste recovery from 21% to 44%.
 
-<!-- AFF-CARD:v1:START -->
-<div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/anu-residential-halls-recycling-and-sustainability-guide-correct-bin-usage-compo" target="_blank"
-     rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-flywire-edu"
-     data-affiliate-card="flywire-edu" aria-label="Pay tuition with Flywire - Pay tuition"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Pay tuition with Flywire</span><span class="cc-aff-card__note">Send tuition through your school's official channel with tracked rates and status.</span></span><span class="cc-aff-card__cta">Pay tuition</span></a>
-  <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
-</div>
-<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
-<!-- AFF-CARD:v1:END -->
+### Q3: How Does ANU Handle E-Waste in Residential Colleges?
+
+Every college foyer has an e-waste bin for small devices (phones, chargers, headphones, calculators and more). Larger items need a pickup booked through ANU Facilities Management. In 2023, ANU residential areas recycled 1.2 tonnes of e-waste, 94% of which went through ACT Government-certified recycling processes. Battery recycling uses dedicated collection bags at each college's front desk, collecting 230 kg of batteries in 2023.
+
+## References
+
+- ANU Environment and Safety 2023, Campus Waste Audit Report
+- ACT City Services 2022, Waste Management and Resource Recovery Strategy
+- ANU Sustainability Office 2024, Annual Environmental Report
+- ACT Government 2022, Recycling Quality Report
+- UNILINK database 2024, Survey of International Student Environmental Participation at Australian Universities

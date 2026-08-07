@@ -1,6 +1,7 @@
 ---
+slug: anu-academic-calendar-key-dates-2025-2026-census-dates-exam-blocks-and-holiday-s
 title: "ANU Academic Calendar Key Dates 2025-2026: Census Dates, Exam Blocks, and Holiday Schedules You Must Not Miss"
-description: "澳大利亚国立大学（ANU）2025–2026 学术日历已由校方于 2024 年 10 月发布，涵盖两个主要学期（Semester 1 和 Semester 2）及夏季学期（Summer Session）的起止日期。根据澳大利亚教育部 2023 年《国际学生年度报告》，ANU 在 2023 年注册国际学生人数为 1…"
+description: "The Australian National University (ANU) published its 2025–2026 academic calendar in October 2024, covering the start and end dates of the two main semesters (Semester 1 and Semester 2) and the Summer Session. According to the Australian Department of Education's 2023 Annual Report on International Students, ANU had 10,942 registered international students in 2023, around 67% of whom came from China, India and Southeast Asian countries..."
 category: "ANU"
 pubDatetime: '2026-04-15T19:56:24Z'
 publishDate: '2026-04-15T19:56:24Z'
@@ -10,121 +11,120 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-academic-calendar-key-dates-2025-2026-census-dates-exam-blocks-and-holiday-s-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）2025–2026 学术日历已由校方于 2024 年 10 月发布，涵盖两个主要学期（Semester 1 和 Semester 2）及夏季学期（Summer Session）的起止日期。根据澳大利亚教育部 2023 年《国际学生年度报告》，ANU 在 2023 年注册国际学生人数为 10,942 人，其中约 67% 来自中国、印度和东南亚国家，这些学生群体对 **Census Date（退课截止日）** 和 **Exam Block（考试期）** 的准确掌握直接关系到学费退还与签证合规。本 wiki 条目基于 ANU 官方日历（2024 年 10 月版）与澳大利亚内政部学生签证条款（8105 条款），提供 2025–2026 年关键时间节点的结构化摘要，供在读者与准新生参考。
+The Australian National University (ANU) published its 2025–2026 academic calendar in October 2024, covering the start and end dates of the two main semesters (Semester 1 and Semester 2) and the Summer Session. According to the Australian Department of Education's 2023 Annual Report on International Students, ANU had 10,942 registered international students in 2023, around 67% of whom came from China, India and Southeast Asian countries — cohorts for whom an accurate grasp of the **Census Date** (the withdrawal deadline) and **Exam Blocks** is directly tied to tuition refunds and visa compliance. This wiki entry draws on the official ANU calendar (October 2024 edition) and the Department of Home Affairs student visa condition 8105 to provide a structured summary of key dates for 2025–2026, for both current students and prospective newcomers.
 
-## Semester 1 2025 关键节点
+## Semester 1 2025 Key Dates
 
-**Semester 1 2025** 是 ANU 学年中规模最大的教学周期，覆盖 2 月至 6 月。根据 ANU 注册处 2024 年发布的《2025 年学术日历》，Semester 1 教学周数为 13 周（含期中假期 1 周），**Census Date** 设定在 2025 年 3 月 31 日。在此日期前退课的学生无需承担学费债务，且课程不会出现在成绩单上；逾期退课将产生全额学费责任，并可能影响学生签证的 **学习进度要求**（澳大利亚内政部，2024 年，学生签证条款 8202）。
+**Semester 1 2025** is the largest teaching period of the ANU academic year, running from February to June. According to the 2025 Academic Calendar published by the ANU Registrar in 2024, Semester 1 comprises 13 teaching weeks (including a 1-week mid-semester break), with the **Census Date** set for 31 March 2025. Students who withdraw before this date incur no tuition liability and the course does not appear on their transcript; withdrawing after this date creates full tuition liability and may affect the **satisfactory academic progress requirements** of a student visa (Department of Home Affairs, 2024, student visa condition 8202).
 
-### 教学与考试时间线
-- **开学日**：2025 年 2 月 17 日（星期一）
-- **期中假期**：2025 年 4 月 14 日–4 月 18 日（共 1 周）
-- **教学结束日**：2025 年 5 月 30 日（星期五）
-- **考试期**：2025 年 6 月 5 日–6 月 21 日（共 17 天）
-- **成绩发布日**：2025 年 7 月 3 日
+### Teaching and Exam Timeline
+- **Classes start**: Monday 17 February 2025
+- **Mid-semester break**: 14 April 2025 – 18 April 2025 (1 week)
+- **Teaching ends**: Friday 30 May 2025
+- **Exam period**: 5 June 2025 – 21 June 2025 (17 days)
+- **Results released**: 3 July 2025
 
-### 退课与学费相关
-所有在 Census Date 之后、教学结束日之前退课的学生，成绩单上将显示 **WD（Withdrawn without failure）** 标记，但学费不予退还。若在考试期开始后退课，则标记为 **WU（Withdrawn with failure）**，等同于挂科处理。ANU 财务处 2024 年数据显示，Semester 1 平均每门课程学费为 4,800 澳元（本科）至 5,600 澳元（研究生），逾期退课的成本显著。
+### Withdrawal and Fees
+Any student who withdraws after the Census Date but before the end of teaching will have a **WD (Withdrawn without failure)** notation on their transcript, but no tuition refund is given. Withdrawing after the exam period has begun results in a **WU (Withdrawn with failure)** notation, treated the same as a fail. ANU Finance Office 2024 data shows that the average Semester 1 course fee is AUD 4,800 (undergraduate) to AUD 5,600 (postgraduate), so late withdrawal is a costly mistake.
 
-## Semester 2 2025 关键节点
+## Semester 2 2025 Key Dates
 
-**Semester 2 2025** 紧随 Semester 1 之后，覆盖 7 月至 11 月。与 Semester 1 类似，该学期同样设有 13 周教学周期，但 **Census Date** 提前至 2025 年 8 月 31 日（星期日），实际生效日为下一个工作日（9 月 1 日）。对于持有学生签证的国际学生，澳大利亚内政部 8105 条款要求学生在学期期间每两周工作不得超过 48 小时，而 Census Date 是签证机构核查学生 **注册状态** 的关键时间点（澳大利亚内政部，2024 年，学生签证条款 8105）。
+**Semester 2 2025** follows Semester 1, running from July to November. Like Semester 1, it has a 13-week teaching cycle, but the **Census Date** moves earlier to Sunday 31 August 2025, taking effect on the next working day (1 September). For international students on a student visa, Department of Home Affairs condition 8105 limits work to no more than 48 hours per fortnight during the semester, and the Census Date is a key point at which visa authorities check a student's **enrolment status** (Department of Home Affairs, 2024, student visa condition 8105).
 
-### 教学与考试时间线
-- **开学日**：2025 年 7 月 21 日（星期一）
-- **期中假期**：2025 年 9 月 22 日–9 月 26 日（共 1 周）
-- **教学结束日**：2025 年 10 月 31 日（星期五）
-- **考试期**：2025 年 11 月 6 日–11 月 22 日（共 17 天）
-- **成绩发布日**：2025 年 12 月 4 日
+### Teaching and Exam Timeline
+- **Classes start**: Monday 21 July 2025
+- **Mid-semester break**: 22 September 2025 – 26 September 2025 (1 week)
+- **Teaching ends**: Friday 31 October 2025
+- **Exam period**: 6 November 2025 – 22 November 2025 (17 days)
+- **Results released**: 4 December 2025
 
-### 跨学期选课注意事项
-ANU 允许学生在 Semester 2 结束后通过 **Summer Session** 补修课程，但需注意：Summer Session 的 Census Date 为 2026 年 1 月 5 日，且学费标准与主学期一致。若学生计划在 2026 年 2 月前毕业，需确保所有课程在 2025 年 12 月 4 日成绩发布后仍满足学位要求。
+### Cross-Semester Enrolment Notes
+ANU allows students to catch up on courses through the **Summer Session** after Semester 2, but note that the Summer Session Census Date is 5 January 2026 and tuition rates are the same as in the main semesters. Students planning to graduate before February 2026 should make sure all courses still satisfy their degree requirements after results are released on 4 December 2025.
 
-## 夏季学期（Summer Session 2025–2026）
+## Summer Session 2025–2026
 
-**Summer Session** 是 ANU 提供的紧凑型教学周期，通常在 11 月底至次年 2 月间运行。根据 ANU 注册处 2024 年《夏季学期政策》，该学期教学周数仅为 6 周，但课程密度为每门课每周 4–6 小时授课时间，适合需要补修或加速学业的在读生。**Census Date** 设定在 2026 年 1 月 5 日，退课截止日为 2026 年 1 月 19 日。
+The **Summer Session** is ANU's intensive teaching period, usually running from late November to February. According to the ANU Registrar's 2024 Summer Session Policy, the session runs for only 6 teaching weeks, but courses are dense, with 4–6 hours of class time per course per week, making it suited to students who need to retake or accelerate their studies. The **Census Date** is 5 January 2026, and the withdrawal deadline is 19 January 2026.
 
-### 时间线
-- **开学日**：2025 年 11 月 24 日（星期一）
-- **教学结束日**：2026 年 1 月 16 日（星期五）
-- **考试期**：2026 年 1 月 19 日–1 月 23 日（共 5 天）
-- **成绩发布日**：2026 年 2 月 5 日
+### Timeline
+- **Classes start**: Monday 24 November 2025
+- **Teaching ends**: Friday 16 January 2026
+- **Exam period**: 19 January 2026 – 23 January 2026 (5 days)
+- **Results released**: 5 February 2026
 
-### 与主学期的衔接
-Summer Session 的成绩将在 2026 年 2 月 5 日前发布，恰好赶在 Semester 1 2026 开学（2 月 16 日）前。对于需要满足 **前置课程要求** 的学生，这是唯一能在学年内补足学分的时间窗口。ANU 2023 年内部统计显示，约 12% 的在读生每学年至少注册一门夏季课程。
+### Linkage with the Main Semesters
+Summer Session results are released by 5 February 2026, just in time for the start of Semester 1 2026 (16 February). For students who need to meet **prerequisite requirements**, this is the only window within the academic year to make up credit. ANU internal statistics for 2023 show that around 12% of current students enrol in at least one summer course each academic year.
 
-## 节假日与公共假期安排
+## Holidays and Public Holidays
 
-ANU 的学术日历包含澳大利亚首都领地（ACT）的法定公共假期，以及校方自行设定的 **期中假期** 和 **圣诞/新年闭校期**。根据 ACT 政府 2024 年发布的《2025 年公共假期公告》，ANU 校区在以下日期关闭或暂停行政服务。
+The ANU academic calendar incorporates Australian Capital Territory (ACT) statutory public holidays, as well as the university's own **mid-semester breaks** and **Christmas/New Year shutdown**. According to the ACT Government's 2025 Public Holidays Notice (published 2024), the ANU campus closes or suspends administrative services on the following dates.
 
-### ACT 公共假期（2025）
-- **澳大利亚日（补休）**：2025 年 1 月 27 日（星期一）
-- **堪培拉日**：2025 年 3 月 10 日（星期一）
-- **耶稣受难日**：2025 年 4 月 18 日（星期五）
-- **复活节星期一**：2025 年 4 月 21 日（星期一）
-- **澳新军团日**：2025 年 4 月 25 日（星期五）
-- **国王生日**：2025 年 6 月 9 日（星期一）
-- **劳动节**：2025 年 10 月 6 日（星期一）
-- **圣诞节**：2025 年 12 月 25 日（星期四）
-- **节礼日**：2025 年 12 月 26 日（星期五）
+### ACT Public Holidays (2025)
+- **Australia Day (observed)**: Monday 27 January 2025
+- **Canberra Day**: Monday 10 March 2025
+- **Good Friday**: Friday 18 April 2025
+- **Easter Monday**: Monday 21 April 2025
+- **Anzac Day**: Friday 25 April 2025
+- **King's Birthday**: Monday 9 June 2025
+- **Labour Day**: Monday 6 October 2025
+- **Christmas Day**: Thursday 25 December 2025
+- **Boxing Day**: Friday 26 December 2025
 
-### 校方闭校期
-ANU 在圣诞节与新年期间有 **强制闭校期**，通常为 12 月 24 日至 1 月 2 日。在此期间，所有行政办公室、图书馆（除 24 小时自习区外）及学生服务中心暂停运营。2025–2026 闭校期为 2025 年 12 月 24 日至 2026 年 1 月 2 日。学生需在此前完成所有成绩查询、签证更新或住宿续约手续。
+### University Shutdown
+ANU has a **mandatory shutdown period** over Christmas and New Year, usually from 24 December to 2 January. During this time all administrative offices, libraries (except 24-hour study areas) and student service centres suspend operations. The 2025–2026 shutdown runs from 24 December 2025 to 2 January 2026. Students should complete any results enquiries, visa renewals or accommodation contract renewals before this period.
 
-## 考试期与成绩发布规则
+## Exam Periods and Results Rules
 
-ANU 的考试期分为 **正式考试期** 和 **补考期**。正式考试期在每学期教学结束后立即开始，持续 17 天。根据 ANU 学术委员会 2024 年《考试政策》，所有考试时间表在考试期开始前 4 周公布，学生可通过 ISIS 系统查询个人考场与座位号。
+ANU exam periods are divided into the **main exam period** and the **supplementary exam period**. The main exam period begins immediately after teaching ends each semester and lasts 17 days. According to the ANU Academic Board's 2024 Examination Policy, all exam timetables are published 4 weeks before the exam period begins, and students can look up their individual venue and seat number via ISIS.
 
-### 考试类型与权重
-- **期末考试**：通常占课程总成绩的 40%–60%
-- **期中考试**：部分课程设有期中考试，权重为 15%–30%
-- **在线考试**：2025 年起，ANU 将 30% 的本科课程考试转为在线监考形式（ANU 数字学习办公室，2024 年，在线考试实施报告）
+### Exam Types and Weightings
+- **Final exams**: usually worth 40%–60% of the total course grade
+- **Mid-semester exams**: some courses have mid-semester exams worth 15%–30%
+- **Online exams**: from 2025, ANU has moved 30% of undergraduate course exams to online invigilation (ANU Digital Learning Office, 2024, Online Exam Implementation Report)
 
-### 补考与延期申请
-若学生因医疗或紧急情况无法参加考试，可在考试日期后 3 个工作日内提交 **延期考试申请**（Deferred Exam Application）。补考期安排在下一学期开学前 2 周：Semester 1 补考期为 2025 年 7 月 7 日–7 月 11 日；Semester 2 补考期为 2025 年 12 月 8 日–12 月 12 日。未通过期末考试的学生可申请 **补考（Supplementary Exam）**，但仅适用于最终成绩在 45–49 分之间的课程，且需支付 150 澳元补考费（ANU 财务处，2024 年，费用清单）。
+### Supplementary Exams and Deferral Applications
+Students who cannot sit an exam due to medical or emergency circumstances may submit a **Deferred Exam Application** within 3 working days of the exam date. The supplementary exam period is scheduled 2 weeks before the start of the next semester: Semester 1 supplementary exams run 7–11 July 2025; Semester 2 supplementary exams run 8–12 December 2025. Students who fail a final exam may apply for a **Supplementary Exam**, but only for courses with a final grade between 45 and 49, and a fee of AUD 150 applies (ANU Finance Office, 2024, Fees Schedule).
 
-## 签证合规与学术日历的关联
+## Visa Compliance and the Academic Calendar
 
-对于国际学生，ANU 学术日历中的 **Census Date** 和 **考试期** 直接关联学生签证的 8202 条款（学习进度要求）与 8105 条款（工作限制）。根据澳大利亚内政部 2024 年《学生签证合规指南》，学生在每个学期必须保持 **至少 75% 的出勤率** 或 **通过率**，否则可能面临签证取消风险。
+For international students, the **Census Dates** and **exam periods** in the ANU academic calendar are directly linked to student visa condition 8202 (satisfactory academic progress) and condition 8105 (work limitations). According to the Department of Home Affairs 2024 Student Visa Compliance Guidelines, students must maintain **at least a 75% attendance rate or pass rate** each semester, or risk visa cancellation.
 
-### 关键合规时间点
-- **Census Date**：此日期前退课不影响签证状态；逾期退课可能导致 **注册状态不足**，触发 8202 条款审查
-- **考试期**：若连续两个学期未通过 50% 以上的注册课程，ANU 将向内政部报告学生 **未满足学习进度要求**
-- **工作限制**：8105 条款规定学期期间每两周工作不超过 48 小时；假期期间（如期中假期、圣诞假期）无工作限制
+### Key Compliance Dates
+- **Census Date**: withdrawing before this date does not affect visa status; withdrawing after it may leave you with **insufficient enrolment status**, triggering a review under condition 8202
+- **Exam period**: if you fail more than 50% of your enrolled courses in two consecutive semesters, ANU must report to the Department of Home Affairs that you are **not meeting satisfactory academic progress requirements**
+- **Work limits**: condition 8105 caps work at 48 hours per fortnight during semester; there are no work limits during holiday periods (e.g. mid-semester breaks, Christmas holidays)
 
-### 实际操作建议
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-academic-calendar-key-dates-2025-2026-census-dates-exam-blocks-and-holiday-s) 等专业通道完成结汇，以确保资金在 Census Date 前到账并避免逾期费用。ANU 财务处建议学生在每学期开学前 2 周完成学费支付，以预留银行处理时间。
+### Practical Advice
+When paying tuition across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-academic-calendar-key-dates-2025-2026-census-dates-exam-blocks-and-holiday-s) to complete their currency exchange, making sure funds arrive before the Census Date and avoiding late fees. ANU Finance recommends paying tuition at least 2 weeks before the start of each semester to allow for bank processing time.
 
-## Semester 1 2026 预览
+## Semester 1 2026 Preview
 
-ANU 已于 2024 年 10 月同步发布 **Semester 1 2026** 的初步日历。根据 ANU 注册处 2024 年《2026 年学术日历草案》，Semester 1 2026 的开学日定为 2026 年 2 月 16 日（星期一），Census Date 为 2026 年 3 月 30 日。考试期预计为 2026 年 6 月 4 日–6 月 20 日。
+ANU released a preliminary calendar for **Semester 1 2026** at the same time in October 2024. According to the ANU Registrar's 2024 Draft 2026 Academic Calendar, Semester 1 2026 classes start on Monday 16 February 2026, with the Census Date on 30 March 2026. The exam period is expected to run 4–20 June 2026.
 
-### 与 2025 年的差异
-- **开学日提前 1 天**：2026 年 2 月 16 日 vs 2025 年 2 月 17 日
-- **期中假期**：2026 年 4 月 13 日–4 月 17 日（与 2025 年一致）
-- **成绩发布**：预计 2026 年 7 月 2 日
+### Differences from 2025
+- **Classes start 1 day earlier**: 16 February 2026 vs 17 February 2025
+- **Mid-semester break**: 13 April 2026 – 17 April 2026 (same length as 2025)
+- **Results**: expected 2 July 2026
 
-### 对长期规划的影响
-对于计划在 2026 年底毕业的学生，Semester 1 2026 的时间线意味着毕业论文（Honours 或 Master 论文）的提交截止日可能在 2026 年 10 月。建议学生参考 ANU 学位要求页面（ISIS 系统内）确认个人毕业路径。
+### Impact on Long-Term Planning
+For students planning to graduate at the end of 2026, the Semester 1 2026 timeline implies that thesis submission deadlines (Honours or Master's theses) may fall around October 2026. Students should check their individual graduation pathway against the ANU degree requirements page (within ISIS).
 
 ## FAQ
 
-### Q1：Census Date 之后退课会有什么后果？
-Census Date 之后退课，学生需承担该课程的全额学费，且成绩单上会显示 **WD** 标记（若在考试前退课）或 **WU** 标记（若在考试后退课）。根据 ANU 财务处 2024 年数据，本科课程平均退课成本为 4,800 澳元，研究生课程为 5,600 澳元。此外，国际学生需注意，连续两个学期退课超过 2 门课程可能触发澳大利亚内政部 8202 条款的审查，导致签证风险。
+### Q1: What happens if I withdraw after the Census Date?
+If you withdraw after the Census Date you are liable for the full tuition fee for the course, and your transcript will show a **WD** notation (if you withdrew before exams) or a **WU** notation (if after exams). According to ANU Finance Office 2024 data, the average cost of withdrawing from an undergraduate course is AUD 4,800, and AUD 5,600 for a postgraduate course. International students should also note that withdrawing from more than 2 courses across two consecutive semesters can trigger a review under Department of Home Affairs condition 8202, creating visa risk.
 
-### Q2：考试期冲突如何解决？
-ANU 允许学生在考试时间表公布后 5 个工作日内提交 **考试冲突申请**。若两门考试时间重叠超过 1 小时，或同一日内有三门考试，学生可申请调整。根据 ANU 学术委员会 2024 年政策，冲突申请通过率为 92%，调整后的考试通常安排在补考期（Semester 1 补考期：2025 年 7 月 7 日–7 月 11 日）。申请需通过 ISIS 系统提交，并附上课程协调员的确认邮件。
+### Q2: How do I resolve an exam timetable clash?
+ANU allows students to submit an **exam conflict application** within 5 working days of the timetable being published. If two exams overlap by more than 1 hour, or if there are three exams on the same day, you can apply for an adjustment. Under the ANU Academic Board's 2024 policy, 92% of conflict applications are approved, and adjusted exams are usually scheduled in the supplementary exam period (Semester 1 supplementary exams: 7–11 July 2025). Applications are submitted through ISIS and must include a confirmation email from the course convenor.
 
-### Q3：期中假期期间可以回国吗？
-可以，但需注意以下三点：第一，期中假期仅 1 周（2025 年 Semester 1 为 4 月 14 日–4 月 18 日），往返中国与澳大利亚的飞行时间约为 10–12 小时，实际停留时间可能不足 5 天；第二，回国期间需确保能访问 ANU 在线学习系统（Wattle），部分课程可能布置假期作业；第三，若持有学生签证，离境前需确认签证有效期，并携带 CoE（注册确认函）以备入境检查。澳大利亚内政部 2024 年数据显示，约 3% 的签证问题发生在假期返澳时。
+### Q3: Can I go home to China during the mid-semester break?
+Yes, but keep three things in mind. First, the mid-semester break is only 1 week (Semester 1 2025: 14–18 April), and the return flight between China and Australia takes about 10–12 hours, so your actual time at home may be less than 5 days. Second, while away you must still be able to access ANU's online learning system (Wattle), as some courses set holiday work. Third, if you hold a student visa, confirm your visa validity before departing and carry your CoE (Confirmation of Enrolment) for immigration checks on return. Department of Home Affairs 2024 data shows that around 3% of visa issues occur when students re-enter Australia after holidays.
 
-## 参考资料
-- 澳大利亚国立大学注册处 2024 年《2025 年学术日历》
-- 澳大利亚内政部 2024 年《学生签证合规指南》（条款 8202 与 8105）
-- 澳大利亚首都领地政府 2024 年《2025 年公共假期公告》
-- ANU 财务处 2024 年《学费与费用清单》
-- Unilink Education 2024 年《澳大利亚大学日历数据库》
-
+## References
+- Australian National University Registrar 2024, 2025 Academic Calendar
+- Australian Department of Home Affairs 2024, Student Visa Compliance Guidelines (conditions 8202 and 8105)
+- Australian Capital Territory Government 2024, 2025 Public Holidays Notice
+- ANU Finance Office 2024, Tuition and Fees Schedule
+- Unilink Education 2024, Australian University Calendar Database
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/anu-academic-calendar-key-dates-2025-2026-census-dates-exam-blocks-and-holiday-s" target="_blank"

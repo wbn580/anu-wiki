@@ -1,6 +1,7 @@
 ---
+slug: anu-careerhub-internship-search-how-to-filter-for-international-student-eligible
 title: "ANU CareerHub Internship Search: How to Filter for International Student-Eligible Roles and Set Up Job Alerts"
-description: "澳洲国立大学（ANU）CareerHub 是其官方职业发展平台，2024 年数据显示，该平台每年发布超过 8,000 个实习与毕业生岗位，其中约 35% 明确标注对国际学生开放（ANU Careers, 2024, *Annual Placement Report*）。对于 18-30 岁的 ANU 在读国际学生…"
+description: "ANU CareerHub is the university's official career development platform. 2024 data shows it posts over 8,000 internships and graduate roles each year, of which about 35% are explicitly marked as open to international students (ANU Careers, 2024, *Annual Placement Report*). For international students aged 18-30 currently enrolled at ANU, this guide explains how to filter for compliant roles and set up automatic job alerts."
 category: "ANU"
 pubDatetime: '2026-05-15T20:02:05Z'
 publishDate: '2026-05-15T20:02:05Z'
@@ -10,92 +11,82 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-careerhub-internship-search-how-to-filter-for-international-student-eligible-2026-1733x1300.jpg"
 ---
 
-澳洲国立大学（ANU）CareerHub 是其官方职业发展平台，2024 年数据显示，该平台每年发布超过 8,000 个实习与毕业生岗位，其中约 35% 明确标注对国际学生开放（ANU Careers, 2024, *Annual Placement Report*）。对于 18-30 岁的 ANU 在读国际学生而言，如何高效筛选出这些合规职位并设置自动提醒，直接关系到实习机会的获取效率——据澳大利亚政府教育部 2023 年统计，国际学生在澳完成至少 1 次与专业相关的实习后，毕业 6 个月内全职就业率提升 22 个百分点（Australian Government Department of Education, 2023, *International Graduate Outcomes Survey*）。本文基于 ANU 官方系统功能，提供一套可复用的过滤与提醒设置方法。
+ANU CareerHub is the university's official career development platform. 2024 data shows the platform posts more than 8,000 internship and graduate roles every year, of which about 35% are explicitly marked as open to international students (ANU Careers, 2024, *Annual Placement Report*). For international students aged 18-30 currently enrolled at ANU, filtering these compliant roles efficiently and setting up automatic alerts directly affects how quickly you can secure internship opportunities — according to Australian Government Department of Education 2023 statistics, international students who complete at least one internship related to their field in Australia see their full-time employment rate within 6 months of graduation rise by 22 percentage points (Australian Government Department of Education, 2023, *International Graduate Outcomes Survey*). Based on ANU's official system features, this article provides a reusable method for filtering roles and setting up alerts.
 
-## 平台登录与初始配置
+## Platform Login and Initial Setup
 
-**ANU CareerHub** 使用统一身份认证系统登录。学生需使用 ANU 学生 ID（格式为 u1234567）及对应密码，通过 ANU Single Sign-On 门户进入。首次登录后，系统会提示完成个人资料填写，包括学位层次（本科/硕士/博士）、毕业年份、专业领域以及签证类型。签证类型字段是后续过滤“国际学生可申请”角色的关键前提——若未正确选择“Student Visa (Subclass 500)”，系统将无法自动匹配合规岗位。
+**ANU CareerHub** uses the university's unified identity authentication system. Students log in with their ANU student ID (format u1234567) and corresponding password through the ANU Single Sign-On portal. After your first login, the system prompts you to complete your profile, including degree level (undergraduate/master's/PhD), graduation year, field of study, and visa type. The visa type field is the key prerequisite for filtering "open to international students" roles later — if you do not correctly select "Student Visa (Subclass 500)", the system will not be able to automatically match compliant roles.
 
-**个人资料完整性**直接影响系统推荐算法的精确度。根据 ANU Careers 官方指南，填写至少 80% 的字段（包括技能标签、行业偏好、可用工作日）后，平台推送的岗位匹配度平均提高 47%（ANU Careers, 2024, *CareerHub User Guide*）。建议学生在首次登录后 15 分钟内完成此项配置，避免因资料不全而错过早期投递窗口。
+**Profile completeness** directly affects the accuracy of the system's recommendation algorithm. According to the official ANU Careers guide, after filling in at least 80% of the fields (including skill tags, industry preferences, and available working days), the average match rate of recommended roles improves by 47% (ANU Careers, 2024, *CareerHub User Guide*). Students are advised to complete this configuration within 15 minutes of their first login so that an incomplete profile does not cause them to miss early application windows.
 
-## 核心过滤条件设置
+## Core Filter Settings
 
-### 签证状态筛选
+### Visa Status Filter
 
-在 CareerHub 的“Advanced Search”面板中，找到“Visa Status”下拉菜单。选择“International Student - Work Rights”选项。此操作会将搜索结果限定为雇主已明确标注“接受持有学生签证的申请人”的职位。ANU 职业顾问指出，约 65% 的未标注签证要求的岗位实际仍接受国际学生，但系统默认不显示，需额外使用关键词搜索（如“international students welcome”）来补充覆盖（ANU Careers, 2024, *CareerHub FAQ*）。
+In the "Advanced Search" panel of CareerHub, find the "Visa Status" dropdown menu and select "International Student - Work Rights". This restricts search results to roles where employers have explicitly stated they accept applicants holding a student visa. ANU career advisers point out that about 65% of roles without a stated visa requirement actually still accept international students, but the system does not show them by default; you need additional keyword searches (such as "international students welcome") to cover them (ANU Careers, 2024, *CareerHub FAQ*).
 
-### 工作类型与时长过滤
+### Work Type and Hours Filter
 
-国际学生受澳大利亚移民法规限制，每两周合法工作上限为 48 小时（2023 年 7 月 1 日起实施）。在“Work Type”过滤器中，选择“Casual”或“Part-time”以排除全职角色（通常要求每周 38 小时）。同时，在“Hours per Week”字段设置区间为 10-24 小时，这符合大多数国际学生的课业节奏。2024 年 ANU 内部调查显示，选择此区间的学生实习完成率比未设置者高 31%（ANU Careers, 2024, *Student Employment Survey*）。
+International students are subject to Australian immigration regulations: the legal work limit is 48 hours per fortnight (in effect since 1 July 2023). In the "Work Type" filter, select "Casual" or "Part-time" to exclude full-time roles (which usually require 38 hours per week). At the same time, set the "Hours per Week" field to a range of 10-24 hours, which fits the study pace of most international students. A 2024 internal ANU survey shows that students who select this range complete their internships at a rate 31% higher than those who do not (ANU Careers, 2024, *Student Employment Survey*).
 
-## 关键词搜索策略
+## Keyword Search Strategy
 
-### 职位标题关键词
+### Job Title Keywords
 
-使用布尔运算符（AND, OR, NOT）构建精确搜索字符串。推荐基础组合：`(intern OR internship OR "work experience" OR "industry placement") AND (student OR "international student" OR graduate)`。此组合可覆盖约 80% 的实习相关职位。若针对特定行业，可替换括号内内容，例如金融方向：`(analyst OR associate OR intern) AND (finance OR "financial services")`。
+Use Boolean operators (AND, OR, NOT) to build precise search strings. A recommended basic combination is: `(intern OR internship OR "work experience" OR "industry placement") AND (student OR "international student" OR graduate)`. This combination covers about 80% of internship-related roles. To target a specific industry, replace the content inside the parentheses — for example, for finance: `(analyst OR associate OR intern) AND (finance OR "financial services")`.
 
-### 排除非合规职位
+### Excluding Non-Compliant Roles
 
-在“NOT”字段中添加排除词，如 `NOT (citizen OR permanent resident OR "PR only" OR "Australian citizenship required")`。ANU CareerHub 的数据显示，约 12% 的职位描述中会明确排除国际学生申请资格（ANU Careers, 2024, *Platform Analytics*）。使用排除词可将误投率降低至 5% 以下，节省筛选时间。
+Add exclusion terms in the "NOT" field, such as `NOT (citizen OR permanent resident OR "PR only" OR "Australian citizenship required")`. ANU CareerHub data shows that about 12% of job descriptions explicitly exclude international students from eligibility (ANU Careers, 2024, *Platform Analytics*). Using exclusion terms can bring the misapplication rate down to below 5%, saving screening time.
 
-## 设置自动职位提醒
+## Setting Up Automatic Job Alerts
 
-### 提醒频率与渠道
+### Alert Frequency and Channels
 
-在完成上述过滤条件后，点击页面底部的“Save Search”按钮，命名该搜索（例如“Internship_International_2024”）。随后选择“Create Job Alert”。系统提供三种频率选项：每日（每天 08:00 AEST 推送）、每周（每周一 09:00 AEST 推送）或即时（每次新职位发布即发送）。对于实习申请高峰期（每年 3-4 月和 8-9 月），建议选择“每日”以抢占先机——ANU 职业中心统计显示，早期申请者（职位发布 48 小时内投递）获得面试的概率比普通申请者高 2.8 倍（ANU Careers, 2024, *Recruitment Cycle Data*）。
+After completing the filters above, click the "Save Search" button at the bottom of the page, name the search (for example "Internship_International_2024"), and then select "Create Job Alert". The system offers three frequency options: daily (pushed at 08:00 AEST every day), weekly (pushed at 09:00 AEST every Monday), or instant (sent as soon as a new role is posted). For the peak internship application periods (March-April and August-September each year), "daily" is recommended so you can get ahead — ANU Careers Centre statistics show that early applicants (those who apply within 48 hours of a role being posted) are 2.8 times more likely to be invited to an interview than ordinary applicants (ANU Careers, 2024, *Recruitment Cycle Data*).
 
-### 多组提醒的协同管理
+### Managing Multiple Alert Groups
 
-允许同时保存最多 20 组不同搜索条件。建议按行业或学期创建多组提醒：例如一组针对“会计实习”（过滤条件：会计专业 + 国际学生 + 兼职），另一组针对“数据分析实习”（过滤条件：数据科学 + 国际学生 + 远程工作）。每组提醒可独立设置推送邮箱。ANU 职业顾问推荐使用学生邮箱（uXXXXX@anu.edu.au）接收，以避免个人邮箱的过滤规则导致通知丢失。
+You can save up to 20 different search conditions at the same time. It is recommended to create multiple alert groups by industry or semester: for example, one group for "accounting internships" (filters: accounting major + international student + part-time) and another for "data analytics internships" (filters: data science + international student + remote work). Each group can be set to a separate delivery email. ANU career advisers recommend using your student email (uXXXXX@anu.edu.au) so that filtering rules on personal mailboxes do not cause notifications to be lost.
 
-## 简历与申请材料准备
+## Resume and Application Materials
 
-### 简历关键词优化
+### Resume Keyword Optimisation
 
-ANU CareerHub 内置简历解析工具，可自动提取简历中的技能标签并与职位描述匹配。为提高通过率，应在简历中显式包含职位描述中出现的硬技能（例如“Python”“R”“Stata”“Tableau”）。2024 年 ANU 对 2,000 份简历的分析显示，包含至少 3 个职位描述关键词的简历，被雇主标记为“高匹配”的概率增加 63%（ANU Careers, 2024, *Resume Parsing Report*）。
+ANU CareerHub has a built-in resume parser that automatically extracts skill tags from your resume and matches them against job descriptions. To improve your pass rate, you should explicitly include the hard skills that appear in the job description (for example "Python", "R", "Stata", "Tableau"). A 2024 ANU analysis of 2,000 resumes shows that resumes containing at least 3 keywords from the job description are 63% more likely to be marked as "high match" by employers (ANU Careers, 2024, *Resume Parsing Report*).
 
-### 求职信模板化
+### Cover Letter Templates
 
-平台提供求职信模板库，但建议学生根据每个职位定制开头段。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-careerhub-internship-search-how-to-filter-for-international-student-eligible) 等专业通道完成结汇，而求职信撰写同样需要专业工具——ANU 的“Cover Letter Builder”功能可自动填充个人信息，但需手动调整每段内容使其与职位要求对齐。
+The platform provides a cover letter template library, but students are advised to customise the opening paragraph for each role. When it comes to paying tuition fees across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-careerhub-internship-search-how-to-filter-for-international-student-eligible) to complete currency settlement, and writing a cover letter similarly calls for professional tools — ANU's "Cover Letter Builder" can auto-fill your personal information, but you still need to adjust each paragraph manually so that it aligns with the role requirements.
 
-## 常见陷阱与规避方法
+## Common Pitfalls and How to Avoid Them
 
-### 签证状态误选
+### Wrong Visa Status Selection
 
-约 18% 的国际学生首次登录时未正确选择“Student Visa”选项，导致系统默认显示仅限公民/永居的职位（ANU Careers, 2024, *User Error Log*）。纠正方法：进入“My Profile”→“Visa Details”，确认字段显示“Subclass 500 - Student Visa”。若持有过桥签证（Bridging Visa），需联系 ANU 国际学生支持团队手动更新权限。
+About 18% of international students fail to select the "Student Visa" option correctly at their first login, causing the system to display citizenship/PR-only roles by default (ANU Careers, 2024, *User Error Log*). To fix this: go to "My Profile" → "Visa Details" and confirm the field shows "Subclass 500 - Student Visa". If you hold a Bridging Visa, contact the ANU International Student Support team to have your permissions updated manually.
 
-### 过时职位清理
+### Clearing Stale Listings
 
-CareerHub 每 30 天自动清除未更新的职位。但部分雇主未及时关闭已招满的岗位，导致“僵尸职位”存在。建议只申请发布 14 天内的职位，并在投递前通过“Contact Employer”按钮确认岗位仍开放。ANU 数据显示，发布超过 21 天的职位，实际仍在招聘的比例不足 40%（ANU Careers, 2024, *Listing Freshness Analysis*）。
+CareerHub automatically removes listings that have not been updated for 30 days. However, some employers do not close already-filled roles in time, leaving "zombie listings" behind. It is recommended to only apply to roles posted within the last 14 days, and to confirm a role is still open via the "Contact Employer" button before applying. ANU data shows that fewer than 40% of roles posted more than 21 days ago are still actively recruiting (ANU Careers, 2024, *Listing Freshness Analysis*).
 
 ## FAQ
 
-### Q1：国际学生能否申请 ANU CareerHub 上未标注签证要求的职位？
+### Q1: Can international students apply for roles on ANU CareerHub that do not state a visa requirement?
 
-可以，但需谨慎。约 65% 的未标注职位实际接受国际学生。建议先通过“Contact Employer”功能发送简短询问（模板：“I am an international student holding a Subclass 500 visa with full work rights. Is this position open to international applicants?”）。若 5 个工作日内未回复，默认视为不适用。2024 年数据表明，使用此策略的学生成功率为 27%（ANU Careers, 2024, *User Inquiry Log*）。
+Yes, but with caution. About 65% of unmarked roles actually accept international students. It is recommended to send a short inquiry via the "Contact Employer" feature first (template: "I am an international student holding a Subclass 500 visa with full work rights. Is this position open to international applicants?"). If there is no reply within 5 working days, treat the role as not applicable. 2024 data shows that students using this strategy achieve a 27% success rate (ANU Careers, 2024, *User Inquiry Log*).
 
-### Q2：设置 Job Alert 后多久能收到第一批推荐？
+### Q2: How soon after setting up a Job Alert will I receive the first batch of recommendations?
 
-若选择“每日”频率，通常在次日 08:00 AEST 收到第一封通知。若选择“即时”频率，新职位发布后 10-15 分钟内推送。建议在学期开始前 4 周设置提醒，因为 3 月和 8 月是 ANU 实习发布高峰，日均新增 40-60 个岗位（ANU Careers, 2024, *Platform Analytics*）。
+If you choose the "daily" frequency, you usually receive the first notification at 08:00 AEST the next day. With the "instant" frequency, notifications are pushed within 10-15 minutes of a new role being posted. It is recommended to set up alerts 4 weeks before the semester starts, because March and August are ANU's internship posting peaks, with 40-60 new roles added per day on average (ANU Careers, 2024, *Platform Analytics*).
 
-### Q3：可以同时申请多个实习岗位吗？会影响签证吗？
+### Q3: Can I apply for multiple internships at the same time? Will it affect my visa?
 
-可以。澳大利亚学生签证（Subclass 500）不限制申请次数，只限制工作总时长（每两周 48 小时）。同时申请 5-10 个岗位是常见做法。但需注意，若多个实习时间冲突，需在入职前协调。ANU 职业中心建议每周投递不超过 3 个高质量申请，以保持每份材料的定制化水平。
+Yes. The Australian student visa (Subclass 500) does not limit the number of applications, only the total working hours (48 hours per fortnight). Applying for 5-10 roles at the same time is common practice. However, note that if multiple internships clash in timing, you need to coordinate before starting. ANU Careers Centre recommends submitting no more than 3 high-quality applications per week to keep each application customised.
 
-## 参考资料
+## References
 
 - ANU Careers. 2024. *Annual Placement Report*.
 - ANU Careers. 2024. *CareerHub User Guide*.
 - ANU Careers. 2024. *Student Employment Survey*.
 - Australian Government Department of Education. 2023. *International Graduate Outcomes Survey*.
 - UNILINK Education. 2024. *International Student Internship Database* (supplementary reference).
-
-<!-- AFF-CARD:v1:START -->
-<div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-careerhub-internship-search-how-to-filter-for-international-student-eligible" target="_blank"
-     rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"
-     data-affiliate-card="oshc-au" aria-label="Compare Australian OSHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OSHC plans</span><span class="cc-aff-card__note">The student-visa health cover required for subclass 500 — compare major insurers side by side.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
-  <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
-</div>
-<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
-<!-- AFF-CARD:v1:END -->

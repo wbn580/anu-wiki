@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生毕业典礼报名流程与学士服租借"
-description: "澳洲国立大学（ANU）每年举行三次毕业典礼，分别于二月、七月和十二月在堪培拉Llewellyn Hall举行。根据澳大利亚教育部2023年《国际学生数据报告》，ANU在2022-2023学年共授予超过3,800份国际学生学位证书，其中约65%的毕业生选择参加线下典礼。对于国际学生而言，毕业典礼的报名流程与学士服租…"
+slug: anu-国际学生毕业典礼报名流程与学士服租借
+title: "ANU International Student Graduation Ceremony: Registration Process and Academic Gown Hire"
+description: "The Australian National University (ANU) holds three graduation ceremonies each year, in February, July and December at Llewellyn Hall in Canberra. According to the Australian Department of Education's 2023 International Student Data Report, ANU awarded more than 3,800 international student degrees in the 2022-2023 academic year, with around 65% of graduates choosing to attend the ceremony in person. For international students, graduation ceremony registration and academic gown hire are two separate administrative steps that must each be completed before their respective deadlines. This article..."
 category: "ANU 国际学生毕业典礼"
 pubDatetime: '2026-03-29T19:53:03Z'
 publishDate: '2026-03-29T19:53:03Z'
@@ -10,87 +11,79 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生毕业典礼报名流程与学士服租借-2026-1880x1253.jpg"
 ---
 
-澳洲国立大学（ANU）每年举行三次毕业典礼，分别于二月、七月和十二月在堪培拉Llewellyn Hall举行。根据澳大利亚教育部2023年《国际学生数据报告》，ANU在2022-2023学年共授予超过3,800份国际学生学位证书，其中约65%的毕业生选择参加线下典礼。对于国际学生而言，毕业典礼的报名流程与学士服租借是两个独立的行政环节，需在截止日期前分别完成。本文基于ANU官方政策（2024年毕业典礼指南）及澳大利亚高等教育管理署（TEQSA）2023年注册数据，系统梳理报名时间线、注册系统操作、学士服租借渠道及费用结构，旨在为计划参加典礼的国际学生提供可执行的标准化参考。
+The Australian National University (ANU) holds three graduation ceremonies each year, in February, July and December at Llewellyn Hall in Canberra. According to the Australian Department of Education's 2023 International Student Data Report, ANU awarded more than 3,800 international student degrees in the 2022-2023 academic year, and around 65% of graduates chose to attend the ceremony in person. For international students, graduation ceremony registration and academic gown hire are two separate administrative steps that must each be completed before their respective deadlines. Based on ANU's official policies (2024 Graduation Ceremony Guide) and the Tertiary Education Quality and Standards Agency (TEQSA) 2023 registration data, this article systematically covers the registration timeline, the registration system procedures, academic gown hire channels and the fee structure, providing a practical, standardised reference for international students planning to attend the ceremony.
 
-## 毕业典礼报名时间线与注册系统
+## Graduation Ceremony Registration Timeline and Registration System
 
-### 典礼日程与报名开放周期
-ANU每年发布三场典礼的具体日期，通常提前6个月公布。以2024年12月典礼为例，报名系统于2024年7月1日开放，截止日期为2024年9月30日。国际学生需在**MyANU学生门户**的“Graduation”模块内完成在线注册，逾期申请需提交书面说明至学生中心，且可能产生50澳元滞纳金（ANU, 2024, Graduation Policy）。每场典礼的座位容量约为1,200人，先到先得。
+### Ceremony Schedule and Registration Window
+ANU announces the dates of its three ceremonies each year, typically six months in advance. For the December 2024 ceremony, for example, the registration system opened on 1 July 2024 and closed on 30 September 2024. International students must complete their online registration in the Graduation module of the **MyANU student portal**. Late applications require a written explanation submitted to the Student Centre and may incur a $50 late fee (ANU, 2024, Graduation Policy). Each ceremony has a seating capacity of about 1,200 people, allocated on a first-come, first-served basis.
 
-### 注册流程的核心步骤
-登录MyANU后，学生需确认学位状态为“已结业”（Award Conferred），即已完成所有课程要求且成绩已录入系统。随后填写个人信息，包括毕业证书邮寄地址（国际学生建议使用堪培拉本地地址，因证书在典礼后4-6周内寄出）。系统会生成一份**毕业典礼确认函**，需打印并携带至典礼当天签到。未完成注册的学生无法领取学位证书或参加队列。
+### Key Steps in the Registration Process
+After logging into MyANU, students must confirm that their degree status shows "Award Conferred", meaning all course requirements have been completed and grades have been recorded in the system. They then fill in their personal details, including the mailing address for the degree certificate (international students are advised to use a Canberra local address, since certificates are posted 4-6 weeks after the ceremony). The system generates a **Graduation Confirmation Letter**, which must be printed and brought to check-in on the day of the ceremony. Students who have not completed registration cannot collect their degree certificate or join the procession.
 
-### 特殊情形：延迟毕业与缺席典礼
-若学生因签证或行程问题无法参加典礼，可选择**缺席毕业（Graduation in Absentia）**。此选项在注册系统中勾选后，学位证书将直接邮寄至指定地址，无需支付典礼相关费用。根据ANU 2023年学生调查数据，约22%的国际学生选择缺席毕业，主要原因为签证审理周期（澳大利亚移民局2023-24财年学生签证平均审理时长为42天）与典礼时间冲突。
+### Special Cases: Deferred Graduation and Graduation in Absentia
+If a student cannot attend the ceremony due to visa or travel issues, they can choose **Graduation in Absentia**. Once this option is selected in the registration system, the degree certificate is posted directly to the nominated address and no ceremony-related fees are charged. According to ANU's 2023 student survey data, about 22% of international students choose to graduate in absentia, mainly because visa processing times (the Australian immigration department's average student visa processing time for the 2023-24 financial year was 42 days) conflict with the ceremony dates.
 
-## 学士服租借：供应商、费用与尺寸选择
+## Academic Gown Hire: Supplier, Fees and Size Selection
 
-### 官方指定供应商与租借窗口
-ANU毕业典礼的学士服由第三方供应商**Academic Dress Hire**独家提供，租借窗口与报名截止日期同步关闭。学生需在注册后48小时内进入供应商官网，输入MyANU系统生成的**毕业典礼ID**，方可进入租借页面。2024年费用标准为：学士学位服套装（含帽、袍、披肩）95澳元，硕士套装115澳元，博士套装145澳元。逾期租借需额外支付30澳元加急费。
+### Official Supplier and Hire Window
+Academic gowns for ANU graduation ceremonies are supplied exclusively by third-party provider **Academic Dress Hire**, and the hire window closes at the same time as the registration deadline. Students must visit the supplier's website within 48 hours of registering and enter the **Graduation ID** generated by the MyANU system to access the hire page. The 2024 fee schedule is: $95 for a bachelor's gown set (including cap, gown and hood), $115 for a master's set and $145 for a doctoral set. Late hire incurs an additional $30 express fee.
 
-### 尺寸测量与现场试穿
-供应商提供XS至3XL共7个尺码，需根据身高和胸围选择。ANU学生中心在典礼前两周（一般为11月中旬）设有**试穿点**，位于Kambri区的Student Village。国际学生若无法现场试穿，可使用供应商提供的在线尺寸指南（基于身高和体重区间）。根据Academic Dress Hire 2023年服务记录，约18%的订单因尺码不符需在典礼当天更换，建议优先选择现场试穿。
+### Size Measurement and On-site Fitting
+The supplier offers seven sizes from XS to 3XL, chosen according to height and chest measurement. The ANU Student Centre sets up a **fitting station** two weeks before the ceremony (usually mid-November) at the Student Village in the Kambri precinct. International students who cannot attend an in-person fitting can use the supplier's online size guide (based on height and weight ranges). According to Academic Dress Hire's 2023 service records, about 18% of orders had to be exchanged on the day of the ceremony due to incorrect sizing, so an in-person fitting is recommended where possible.
 
-### 退还流程与押金政策
-租借的学士服需在典礼结束后2小时内归还至Llewellyn Hall指定回收点。租借费用已包含清洁服务，无需额外支付。若未按时归还，供应商将从信用卡扣除**80澳元滞纳金**。国际学生使用非澳大利亚信用卡支付时，部分银行可能收取1.5%-3%的跨境交易手续费。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%8A%A5%E5%90%8D%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%AD%A6%E5%A3%AB%E6%9C%8D%E7%A7%9F%E5%80%9F) 等专业通道完成结汇，但学士服租借通常直接通过信用卡结算。
+### Return Process and Deposit Policy
+Hired gowns must be returned to the designated collection point at Llewellyn Hall within 2 hours after the ceremony ends. The hire fee already includes cleaning, so no extra charge applies. If a gown is not returned on time, the supplier will deduct an **$80 late fee** from the credit card. When international students pay with a non-Australian credit card, some banks may charge a 1.5%-3% cross-border transaction fee. For cross-border tuition payments, some study-abroad families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%8A%A5%E5%90%8D%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%AD%A6%E5%A3%AB%E6%9C%8D%E7%A7%9F%E5%80%9F) to settle foreign exchange, but gown hire is usually paid directly by credit card.
 
-## 典礼当天流程与入场要求
+## Ceremony Day Procedure and Entry Requirements
 
-### 签到时间与座位安排
-典礼当天，学生需在指定时间（通常为典礼开始前90分钟）抵达Llewellyn Hall的**Graduand Check-in**区域，出示确认函和有效护照（或澳大利亚驾照）。签到后领取姓名卡和座位号，座位按学院划分。ANU规定，每位毕业生最多可携带4位宾客入场，宾客需凭电子票入场。2023年12月典礼数据显示，平均入场时间为15分钟，但高峰期（签到开始后30分钟内）可能延长至30分钟。
+### Check-in Time and Seating Arrangements
+On the day of the ceremony, students must arrive at the **Graduand Check-in** area at Llewellyn Hall at the scheduled time (usually 90 minutes before the ceremony starts) and present their confirmation letter and a valid passport (or Australian driver licence). After check-in, they receive a name card and seat number, with seating arranged by college. ANU rules allow each graduate to bring up to 4 guests, who must enter with an e-ticket. Data from the December 2023 ceremony shows an average entry time of 15 minutes, though this can stretch to 30 minutes during peak periods (within 30 minutes of check-in opening).
 
-### 学位授予仪式与证书领取
-典礼流程包括校长致辞、学院代表宣读毕业生名单、学位授予仪式（学生依次上台与校长握手）以及合影环节。学位证书不在典礼现场发放，而是在典礼后4-6周内邮寄至注册地址。国际学生若需在典礼后立即使用证书（如申请工作签证），可向学生中心申请**数字成绩单**（Digital Transcript），该文件在典礼次日即可通过MyANU下载，具备与纸质证书同等的法律效力（澳大利亚教育部，2023，高等教育标准框架）。
+### Degree Conferral Ceremony and Certificate Collection
+The ceremony programme includes the Vice-Chancellor's address, college representatives reading out the list of graduates, the degree conferral ceremony (where students walk across the stage one by one to shake hands with the Vice-Chancellor) and a photo session. Degree certificates are not handed out at the ceremony; instead, they are posted to the registered address within 4-6 weeks after the ceremony. International students who need the certificate immediately after the ceremony (for example, to apply for a work visa) can request a **Digital Transcript** from the Student Centre. This document can be downloaded from MyANU the day after the ceremony and carries the same legal weight as the paper certificate (Australian Department of Education, 2023, Higher Education Standards Framework).
 
-### 摄影与直播服务
-ANU与官方摄影师**GradImages**合作，在典礼前后提供专业摄影服务。学生可在签到区预约拍照，套餐价格从45澳元（单张数字照片）至120澳元（全套含打印）不等。典礼全程通过ANU官方YouTube频道直播，无法到场的亲友可在线观看。直播录像在典礼后72小时内可回放。
+### Photography and Livestreaming Services
+ANU partners with official photographer **GradImages** to provide professional photography services before and after the ceremony. Students can book photo sessions at the check-in area, with packages ranging from $45 (a single digital photo) to $120 (a full package including prints). The entire ceremony is livestreamed on ANU's official YouTube channel so that friends and family who cannot attend can watch online. The recording is available to replay for 72 hours after the ceremony.
 
-## 毕业证书与成绩单的后续获取
+## Collecting Your Degree Certificate and Transcript Afterwards
 
-### 纸质证书邮寄与追踪
-学位证书由澳大利亚邮政（Australia Post）以挂号信方式寄出，国际邮寄需额外支付35澳元快递费。学生可在MyANU的“Graduation”模块查看邮寄状态。根据ANU 2023年数据，国际学生证书的平均投递时间为14个工作日（澳大利亚境内）或28个工作日（境外）。若证书在邮寄途中丢失，需向学生中心提交补办申请，费用为110澳元，补办周期为6-8周。
+### Paper Certificate Postage and Tracking
+Degree certificates are sent by registered mail via Australia Post; international postage requires an additional $35 courier fee. Students can check the posting status in the Graduation module of MyANU. According to ANU 2023 data, certificates for international students take an average of 14 business days to arrive within Australia, or 28 business days overseas. If a certificate is lost in the mail, a replacement application must be submitted to the Student Centre at a cost of $110, with a processing time of 6-8 weeks.
 
-### 电子证书与数字徽章
-自2022年起，ANU加入**My eQuals**数字证书平台，毕业生可永久访问电子版学位证书和成绩单。电子证书具备防伪二维码，雇主和移民局可通过扫描验证真伪。国际学生申请澳大利亚毕业生工作签证（Subclass 485）时，电子证书可直接作为学历证明提交，无需等待纸质版。根据澳大利亚移民局2023年政策更新，电子证书在签证申请中的接受率为100%。
+### Electronic Certificates and Digital Badges
+Since 2022, ANU has been part of the **My eQuals** digital certificate platform, giving graduates permanent access to electronic copies of their degree certificates and transcripts. Electronic certificates carry an anti-counterfeit QR code that employers and the immigration department can scan to verify authenticity. When international students apply for the Australian Temporary Graduate visa (Subclass 485), the electronic certificate can be submitted directly as proof of qualification without waiting for the paper version. According to the Australian immigration department's 2023 policy update, electronic certificates are accepted in 100% of visa applications.
 
-### 成绩单的额外申请
-若学生需要多份正式成绩单（如用于多个雇主或院校申请），可通过ANU学生中心在线申请，每份费用为25澳元。成绩单在申请后3-5个工作日内以数字形式发放，纸质版则需额外支付15澳元邮寄费。
+### Ordering Additional Transcripts
+Students who need multiple official transcripts (for example, for applications to several employers or institutions) can apply online through the ANU Student Centre at $25 per copy. Transcripts are issued digitally within 3-5 business days of the application, while paper copies require an additional $15 postage fee.
 
-## 签证与行程规划建议
+## Visa and Travel Planning Advice
 
-### 毕业生工作签证的衔接
-国际学生在完成学位后，可申请**Subclass 485毕业生工作签证**，该签证允许在澳大利亚全职工作2-4年（取决于学位层次）。申请该签证需在毕业典礼后6个月内提交，且需提供学位完成信（Completion Letter）和成绩单。ANU学生中心可在典礼前两周开具完成信，建议学生在参加典礼前提前申请，以避免签证审理延误。根据澳大利亚移民局2023-24财年数据，485签证的平均审理时长为58天。
+### Transitioning to the Temporary Graduate Visa
+After completing their degree, international students can apply for the **Subclass 485 Temporary Graduate visa**, which allows full-time work in Australia for 2-4 years (depending on the level of qualification). Applications must be lodged within 6 months of the graduation ceremony and require a Completion Letter and transcript. The ANU Student Centre can issue the Completion Letter two weeks before the ceremony; students are advised to apply for it before attending the ceremony to avoid visa processing delays. According to the Australian immigration department's 2023-24 financial year data, the average processing time for a 485 visa is 58 days.
 
-### 典礼期间的住宿与交通
-堪培拉在毕业典礼期间（2月、7月、12月）酒店入住率可达85%以上，建议国际学生提前3个月预订住宿。ANU校内住宿（如Lodge Apartments）在典礼期间对毕业生提供优惠价，单间每晚120-150澳元。从堪培拉机场到Llewellyn Hall的出租车费用约为35-45澳元，行程时间25分钟。堪培拉公共交通（Action Bus）提供机场直达线路，单程票价为5澳元。
+### Accommodation and Transport During the Ceremony
+Hotel occupancy in Canberra can exceed 85% during graduation periods (February, July and December), so international students should book accommodation at least 3 months in advance. ANU on-campus accommodation (such as Lodge Apartments) offers discounted rates to graduates during the ceremony period, at $120-150 per night for a single room. A taxi from Canberra Airport to Llewellyn Hall costs about $35-45 and takes 25 minutes. Canberra's public transport (Action Bus) operates a direct airport route with a single fare of $5.
 
-### 健康保险的覆盖期限
-国际学生需确保其海外学生健康保险（OSHC）覆盖至典礼日期之后。若保险在毕业前到期，需续保至典礼日。根据澳大利亚卫生部2023年规定，OSHC未覆盖期间产生的医疗费用由学生自行承担，且可能影响签证状态。建议学生在毕业典礼后至少保留OSHC覆盖30天，以应对突发医疗需求。
+### Health Insurance Coverage Period
+International students must make sure their Overseas Student Health Cover (OSHC) extends beyond the ceremony date. If the cover expires before graduation, it must be renewed through to the ceremony date. Under Australian Department of Health 2023 rules, medical costs incurred during a period without OSHC cover are borne by the student and may affect their visa status. Students are advised to maintain OSHC cover for at least 30 days after the graduation ceremony to handle unexpected medical needs.
 
 ## FAQ
 
-### Q1：毕业典礼报名截止后还能参加吗？
-可以，但需提交书面申请至ANU学生中心，并支付50澳元滞纳金。申请需在典礼前14天提交，且需提供合理理由（如签证延迟）。根据ANU 2023年数据，约8%的迟交申请获批，其中国际学生占65%。
+### Q1: Can I still attend if I miss the graduation registration deadline?
+Yes, but you must submit a written application to the ANU Student Centre and pay a $50 late fee. The application must be lodged at least 14 days before the ceremony and include a valid reason (such as a visa delay). According to ANU 2023 data, about 8% of late applications were approved, of which international students accounted for 65%.
 
-### Q2：学士服租借费用是否包含在学费中？
-不包含。学士服租借是独立收费项目，2024年学士套装费用为95澳元，需在供应商官网单独支付。学费仅涵盖课程和学位授予，典礼相关费用（学士服、摄影、宾客门票）均需额外支付。
+### Q2: Is the academic gown hire fee included in tuition?
+No. Gown hire is a separate charge — the 2024 bachelor's set costs $95 and must be paid separately on the supplier's website. Tuition only covers courses and the conferral of the degree; ceremony-related costs (gown hire, photography and guest tickets) are all paid extra.
 
-### Q3：毕业证书丢失后如何补办？
-需向ANU学生中心提交补办申请，费用为110澳元，补办周期为6-8周。补办证书与原件具有同等法律效力，但会标注“补办”字样。建议国际学生使用数字证书（My eQuals）作为备份，该平台永久免费。
+### Q3: How do I get a replacement if my degree certificate is lost?
+Submit a replacement application to the ANU Student Centre at a cost of $110, with a processing time of 6-8 weeks. The replacement certificate has the same legal effect as the original but will be marked "replacement". International students are advised to keep the digital certificate (My eQuals) as a backup, since the platform is free permanently.
 
-## 参考资料
+## References
 - Australian National University. 2024. Graduation Policy and Procedures.
 - Australian Department of Education. 2023. International Student Data Report.
 - Australian Department of Home Affairs. 2023. Student Visa and Graduate Visa Processing Times.
 - Tertiary Education Quality and Standards Agency (TEQSA). 2023. Higher Education Standards Framework.
 - Unilink Education. 2023. ANU International Student Graduation Database.
 
-<!-- AFF-CARD:v1:START -->
-<div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-国际学生毕业典礼报名流程与学士服租借" target="_blank"
-     rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"
-     data-affiliate-card="oshc-au" aria-label="Compare Australian OSHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OSHC plans</span><span class="cc-aff-card__note">The student-visa health cover required for subclass 500 — compare major insurers side by side.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
-  <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
-</div>
-<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
-<!-- AFF-CARD:v1:END -->
+<!-- AFF-CARD:v1:PLACEHOLDER -->

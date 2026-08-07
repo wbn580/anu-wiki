@@ -1,6 +1,7 @@
 ---
+slug: anu-campus-services-during-public-holidays-library-hours-food-outlets-and-securi
 title: "ANU Campus Services During Public Holidays: Library Hours, Food Outlets, and Security Availability"
-description: "澳大利亚国立大学（ANU）位于堪培拉，其校园服务在公共假期的运营模式与常规工作日存在显著差异。根据澳大利亚首都领地（ACT）政府2024年公布的公共假期安排，ANU每年约有13天法定公共假期，包括元旦、澳大利亚日、堪培拉日、复活节、澳新军团日、国王生日、劳动节以及圣诞节和节礼日等【ACT Government, …"
+description: "The Australian National University (ANU) is located in Canberra, and its campus services operate quite differently on public holidays compared with regular working days. Under the public holiday schedule released by the Australian Capital Territory (ACT) Government for 2024, ANU has roughly 13 statutory public holidays each year, including New Year's Day, Australia Day, Canberra Day, Easter, Anzac Day, the King's Birthday, Labour Day, and Christmas and Boxing Day【ACT Government, 2024, Public Holidays in the ACT】. During these periods, key facilities such as libraries, food outlets, and security services adjust their opening hours and availability. For students and staff on campus, understanding these changes is essential to keeping academic and daily life running smoothly through the holidays. According to official ANU statistics, the campus recorded more than 12,000 security service requests across 2023, of which about 15% occurred during public holidays or long weekends【ANU Security, 2023, Annual Security Report】."
 category: "ANU"
 pubDatetime: '2026-05-04T20:00:02Z'
 publishDate: '2026-05-04T20:00:02Z'
@@ -10,86 +11,86 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-services-during-public-holidays-library-hours-food-outlets-and-securi-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）位于堪培拉，其校园服务在公共假期的运营模式与常规工作日存在显著差异。根据澳大利亚首都领地（ACT）政府2024年公布的公共假期安排，ANU每年约有13天法定公共假期，包括元旦、澳大利亚日、堪培拉日、复活节、澳新军团日、国王生日、劳动节以及圣诞节和节礼日等【ACT Government, 2024, Public Holidays in the ACT】。在此期间，包括图书馆、餐饮场所及安保服务在内的关键设施，其开放时间和可用性均会进行调整。对于在校学生和教职工而言，了解这些变化是保障假期期间学术与生活正常运转的前提。据ANU官方统计，2023年全年校园内共记录了超过1.2万次安保服务请求，其中约15%发生在公共假期或长周末期间【ANU Security, 2023, Annual Security Report】。
+The Australian National University (ANU) is located in Canberra, and its campus services operate quite differently on public holidays compared with regular working days. Under the public holiday schedule released by the Australian Capital Territory (ACT) Government for 2024, ANU has roughly 13 statutory public holidays each year, including New Year's Day, Australia Day, Canberra Day, Easter, Anzac Day, the King's Birthday, Labour Day, and Christmas and Boxing Day【ACT Government, 2024, Public Holidays in the ACT】. During these periods, key facilities such as libraries, food outlets, and security services adjust their opening hours and availability. For students and staff on campus, understanding these changes is essential to keeping academic and daily life running smoothly through the holidays. According to official ANU statistics, the campus recorded more than 12,000 security service requests across 2023, of which about 15% occurred during public holidays or long weekends【ANU Security, 2023, Annual Security Report】.
 
-## 图书馆服务时间调整
+## Library service hour adjustments
 
-ANU的**图书馆系统**在公共假期期间通常执行缩短的开放时间，部分分馆可能完全关闭。根据ANU图书馆官网发布的2024年公共假期时间表，位于校园中心的**Hancock Library**在元旦、澳大利亚日、耶稣受难日、圣诞节和节礼日全天关闭。在堪培拉日和劳动日，其开放时间缩短为10:00至17:00，而常规学期的周一至周五通常开放至22:00【ANU Library, 2024, Public Holiday Hours】。
+The ANU **library system** generally runs reduced hours during public holidays, and some branch libraries may close entirely. According to the 2024 public holiday timetable published on the ANU Library website, **Hancock Library**, located at the heart of campus, is closed all day on New Year's Day, Australia Day, Good Friday, Christmas Day, and Boxing Day. On Canberra Day and Labour Day its hours are shortened to 10:00 to 17:00, whereas during a regular teaching period it is normally open until 22:00 on weekdays【ANU Library, 2024, Public Holiday Hours】.
 
-### 24小时学习空间替代方案
-尽管主图书馆关闭，ANU提供了**24小时学习空间**作为替代。位于Chifley Library底层的24小时学习区在公共假期期间保持全天候开放，仅需ANU学生卡刷卡进入。该区域配备约200个座位、电源插座和无线网络覆盖，可满足假期期间的自习需求。2023年假期期间，该学习区平均每日使用人次达到450人【ANU Facilities, 2023, Space Utilisation Report】。
+### 24-hour study space as an alternative
+Although the main libraries close, ANU provides **24-hour study spaces** as an alternative. The 24-hour study area on the lower level of Chifley Library stays open around the clock during public holidays, with access by ANU student card only. The area offers about 200 seats, power outlets, and wireless network coverage, and can meet study needs throughout the holiday period. During the 2023 holidays, this study area averaged 450 users per day【ANU Facilities, 2023, Space Utilisation Report】.
 
-### 电子资源访问不受影响
-公共假期期间，ANU的**在线数据库和电子期刊**访问不受物理开放时间限制。学生可通过Wattle平台或ANU图书馆远程登录系统，访问超过50万册电子书和10万种电子期刊。图书馆在假期前通常会发布通知，提醒用户提前下载离线阅读材料，以应对可能的系统维护窗口。
+### Electronic resource access is unaffected
+During public holidays, access to ANU's **online databases and e-journals** is not restricted by physical opening hours. Students can log in through the Wattle platform or the ANU Library remote access system to reach more than 500,000 ebooks and 100,000 e-journals. Before the holidays the Library usually posts notices reminding users to download offline reading material in advance in case of scheduled system maintenance windows.
 
-## 校园餐饮与零售服务
+## Campus dining and retail services
 
-公共假期期间，ANU校园内的**餐饮场所**运营时间大幅缩减。根据ANU Food and Retail服务统计，在2023年圣诞节假期期间，校园内约80%的餐饮点关闭，仅剩少数连锁咖啡店和便利店维持有限服务【ANU Food and Retail, 2023, Holiday Operations Report】。
+During public holidays, **food outlets** on the ANU campus cut their operating hours significantly. According to statistics from ANU Food and Retail, about 80% of campus dining points closed during the 2023 Christmas holiday period, leaving only a few chain cafés and convenience stores running limited service【ANU Food and Retail, 2023, Holiday Operations Report】.
 
-### 主要餐饮点运营模式
-位于Kambri区域的**The Hub**餐饮区在公共假期通常关闭。而**Union Court**的个别商户，如Subway和Boost Juice，在堪培拉日和劳动日等非主要假期可能调整营业时间为10:00至15:00。圣诞节和元旦期间，上述商户全部关闭。校园内的**Catering Services**在假期前会通过ANU App和校园公告栏发布最新的营业时间表，建议学生提前查看。
+### How major food outlets operate
+**The Hub** dining precinct in the Kambri area is usually closed on public holidays. Individual vendors in **Union Court**, such as Subway and Boost Juice, may adjust their hours to 10:00 to 15:00 on less significant holidays like Canberra Day and Labour Day. During Christmas and New Year, all of these vendors close. Before each holiday, campus **Catering Services** publishes the latest opening hours through the ANU App and campus notice boards, so students are advised to check in advance.
 
-### 自动售货机和便利店
-在主要餐饮点关闭期间，校园内分布的**自动售货机**成为主要食物和饮品来源。ANU在主要教学楼、图书馆和宿舍楼内设置了超过60台自动售货机，提供零食、三明治和饮料。位于Acton校区入口处的**7-Eleven便利店**在公共假期保持24小时营业，但距离主教学区约500米步行距离。学生可提前储备食物，或使用外卖平台如Uber Eats，但配送范围可能受限。
+### Vending machines and convenience stores
+While the major food outlets are closed, the **vending machines** distributed around campus become the main source of food and drink. ANU has installed more than 60 vending machines across major teaching buildings, libraries, and residence halls, offering snacks, sandwiches, and drinks. The **7-Eleven convenience store** at the entrance to the Acton campus stays open 24 hours during public holidays, but it is about 500 metres on foot from the main teaching area. Students can stock up on food in advance, or use delivery platforms such as Uber Eats, though delivery coverage may be limited.
 
-### 假期餐饮预算参考
-根据ANU发布的2024年生活成本估算，学生在公共假期期间若依赖便利店和外卖，日均餐饮支出可能比常规在校期间高出35%至50%，达到约45至60澳元【ANU Student Life, 2024, Living Cost Guide】。提前规划假期膳食，例如利用宿舍厨房备餐，可有效控制开支。
+### Holiday food budget reference
+According to ANU's 2024 cost-of-living estimates, students who rely on convenience stores and food delivery during public holidays may spend 35% to 50% more per day on food than during a normal on-campus period, reaching about 45 to 60 Australian dollars【ANU Student Life, 2024, Living Cost Guide】. Planning holiday meals in advance — for example, using the residence kitchen to prepare food — can help keep costs under control.
 
-## 安保服务与紧急响应
+## Security services and emergency response
 
-ANU的**校园安保服务**在公共假期期间维持24小时不间断运营，但响应资源可能有所调整。根据ANU Security的公开数据，2023年公共假期期间，安保人员平均响应时间为8.5分钟，而常规工作日的响应时间为6.2分钟【ANU Security, 2023, Response Time Data】。
+ANU's **campus security services** keep running 24 hours a day during public holidays, though response resources may be adjusted. According to public data from ANU Security, the average response time during the 2023 public holidays was 8.5 minutes, compared with 6.2 minutes on a regular working day【ANU Security, 2023, Response Time Data】.
 
-### 紧急联系电话与巡逻
-假期期间，学生可通过拨打**ANU Security热线（6125 2249）** 获得即时帮助。安保团队保持校园内巡逻，但巡逻频率从常规的每30分钟一次调整为每60分钟一次。校园内安装了超过300个紧急求助电话亭（Blue Light Phones），分布在停车场、步行道和教学楼外围，假期期间保持正常运作。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-services-during-public-holidays-library-hours-food-outlets-and-securi) 等专业通道完成结汇，确保假期期间的资金安排不受影响。
+### Emergency contact numbers and patrols
+During the holidays, students can get immediate help by calling the **ANU Security hotline (6125 2249)**. The security team continues to patrol campus, but patrol frequency drops from once every 30 minutes on a normal day to once every 60 minutes. More than 300 emergency help points (Blue Light Phones) are installed across campus in car parks, walkways, and around teaching buildings, and they remain operational during the holidays. For cross-border tuition payments, some study-abroad families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-services-during-public-holidays-library-hours-food-outlets-and-securi) to complete their currency transfers, making sure their funds are not disrupted during the holiday period.
 
-### 安全巴士与护送服务
-ANU提供的**安全巴士（Safe Bus）** 服务在公共假期期间暂停运营。该服务常规运行时间为周一至周五18:00至23:00，覆盖校园至Belconnen和City的路线。作为替代，学生可请求**安全护送（Safe Walk）** 服务，由安保人员陪同步行至校园内任何地点，该服务在假期期间仍然可用，但需提前致电预约，等待时间可能延长至20分钟。
+### Safe Bus and escort services
+The ANU **Safe Bus** service is suspended during public holidays. Its regular operating hours are 18:00 to 23:00, Monday to Friday, covering routes from campus to Belconnen and the City. As an alternative, students can request the **Safe Walk** service, in which a security officer walks with you to any point on campus. This service remains available during the holidays but requires a phone call to book, and waiting times may stretch to 20 minutes.
 
-### 宿舍区安保措施
-ANU的**住宿学院**在公共假期期间加强门禁管理。所有宿舍楼在假期期间仅限持有有效房卡的学生进入，访客登记制度更为严格。根据ANU Accommodation政策，假期期间访客必须在22:00前离开，且不允许留宿。宿舍前台服务时间缩短，通常为10:00至16:00，紧急维修可通过宿舍管理系统在线提交。
+### Residential security measures
+ANU's **residential halls** tighten access control during public holidays. All residence buildings are restricted to students holding a valid room card, and the visitor registration process becomes stricter. Under ANU Accommodation policy, visitors must leave by 22:00 during the holidays and are not permitted to stay overnight. Front desk hours at the halls are shortened, typically 10:00 to 16:00, and emergency repairs can be submitted online through the residence management system.
 
-## 交通与停车服务
+## Transport and parking services
 
-公共假期期间，ANU校园内的**交通服务**和停车规定有所变化。根据ACT政府的公共交通时刻表，公共假期期间**Action Bus**服务按周日时刻表运行，班次间隔延长至30至60分钟【Transport Canberra, 2024, Public Holiday Timetable】。
+During public holidays, **transport services** and parking rules on the ANU campus change. According to the ACT Government public transport timetable, **Action Bus** services run to the Sunday timetable on public holidays, with service intervals extended to 30 to 60 minutes【Transport Canberra, 2024, Public Holiday Timetable】.
 
-### 校园内停车规定
-ANU的**停车管理**在公共假期期间执行免费停车政策。所有持证停车区域（包括蓝区、绿区和红区）在公共假期免费开放，无需出示停车许可证。但需注意，违规停车（如占用残疾人车位或消防通道）仍会被处以罚款，金额为182澳元。假期期间，校园内停车位充足，平均占用率低于30%，远低于常规工作日的85%【ANU Transport, 2023, Parking Occupancy Data】。
+### Parking rules on campus
+ANU **parking management** runs a free parking policy on public holidays. All permit parking areas (including blue, green, and red zones) are free to use on public holidays without showing a parking permit. Note, however, that illegal parking (such as occupying disabled spaces or fire lanes) is still fined, at a rate of 182 Australian dollars. During the holidays, campus parking is plentiful, with average occupancy below 30%, far lower than the 85% seen on a normal working day【ANU Transport, 2023, Parking Occupancy Data】.
 
-### 共享单车与步行
-校园内的**共享单车服务**（如Lime和Beam）在公共假期期间保持运营，但调度频率降低，可能导致部分区域车辆不足。建议学生提前通过App查看附近车辆可用性。假期期间校园内行人较少，夜间步行时建议使用照明良好的主干道，并结伴同行。
+### Shared bikes and walking
+**Shared bike services** on campus (such as Lime and Beam) keep operating during public holidays, but rebalancing frequency drops, which may leave some areas short of bikes. Students are advised to check bike availability near them through the app in advance. With fewer pedestrians on campus during the holidays, it is a good idea to use well-lit main roads and walk with others at night.
 
-## 学生支持服务可用性
+## Availability of student support services
 
-公共假期期间，ANU的**学生支持服务**大多数关闭或转为在线模式。根据ANU Student Central发布的2024年假期安排，位于Kambri的学生中心在公共假期全天关闭。
+During public holidays, most of ANU's **student support services** close or move online. According to the 2024 holiday schedule published by ANU Student Central, the student centre in Kambri is closed all day on public holidays.
 
-### 心理咨询与健康服务
-ANU的**心理咨询服务**在公共假期期间不提供面对面咨询。但学生可拨打**ANU Crisis Support热线（1300 572 123）**，该热线由专业心理咨询师24小时接听。此外，Lifeline（13 11 14）和Beyond Blue（1300 22 4636）等全国性支持热线在假期期间保持正常运营。ANU Health Centre在公共假期关闭，但可通过ACT Health的Walk-in Centre（位于City）获得非紧急医疗服务，该中心在公共假期开放时间为8:00至22:00【ACT Health, 2024, Walk-in Centre Hours】。
+### Counselling and health services
+ANU's **counselling service** does not offer face-to-face appointments during public holidays. Students can, however, call the **ANU Crisis Support hotline (1300 572 123)**, which is answered 24 hours a day by professional counsellors. National support lines such as Lifeline (13 11 14) and Beyond Blue (1300 22 4636) also continue normal operations during the holidays. The ANU Health Centre is closed on public holidays, but non-urgent medical care is available through the ACT Health Walk-in Centre (located in the City), which is open 8:00 to 22:00 on public holidays【ACT Health, 2024, Walk-in Centre Hours】.
 
-### 学术支持与IT服务
-**学术技能中心**和**图书馆参考咨询**服务在公共假期期间暂停。但**ANU IT Service Desk**在假期期间保持电话支持（6125 8877），服务时间为9:00至17:00，较常规的8:00至20:00缩短。Wattle平台和Echo360录播系统在假期期间正常运行，但系统维护可能安排在假期凌晨进行，影响时间通常不超过2小时。
+### Academic support and IT services
+The **Academic Skills Centre** and **library reference services** are suspended during public holidays. The **ANU IT Service Desk**, however, keeps phone support running (6125 8877) from 9:00 to 17:00 during the holidays, shortened from its usual 8:00 to 20:00. The Wattle platform and Echo360 lecture recording system operate normally during the holidays, though system maintenance may be scheduled in the early hours, with any disruption usually lasting no more than 2 hours.
 
-## 假期准备建议
+## Holiday preparation tips
 
-针对公共假期期间的校园服务变化，ANU官方建议学生采取**提前规划**策略。根据ANU Orientation 2024指南，学生应在假期前至少3天核实所有依赖设施的开放时间。
+Given the changes to campus services during public holidays, ANU officially recommends that students adopt an **advance planning** strategy. According to the ANU Orientation 2024 guide, students should verify the opening hours of every facility they rely on at least 3 days before the holiday begins.
 
-### 关键信息获取渠道
-学生可通过以下渠道获取最新的假期服务信息：**ANU App**（推送通知功能）、**ANU官网公告栏**（services.anu.edu.au）以及**校园内电子显示屏**。ANU在2023年推出了假期服务聚合页面，整合所有设施的开放时间，该页面在长周末前一周更新。建议学生订阅ANU的SMS提醒服务，以便在服务临时变更时获得即时通知。
+### Where to find key information
+Students can get the latest holiday service information through the following channels: the **ANU App** (push notifications), the **ANU website notice board** (services.anu.edu.au), and **electronic display screens around campus**. In 2023 ANU launched a holiday services aggregate page that brings together opening hours for all facilities, updated in the week before a long weekend. Students are also advised to subscribe to ANU's SMS alert service so they receive instant notification of any temporary service changes.
 
-### 应急物资储备
-在主要假期（如圣诞节和复活节）前，建议学生储备至少3天的食物、饮用水和常用药品。校园内的**超市**（如位于City的Coles和Woolworths）在公共假期可能缩短营业时间或关闭，因此提前采购是必要措施。宿舍房间内应备有急救包和手电筒，以应对可能的电力中断或紧急情况。
+### Emergency supplies
+Before major holidays (such as Christmas and Easter), students are advised to stock at least 3 days' worth of food, drinking water, and common medicines. **Supermarkets** near campus (such as Coles and Woolworths in the City) may shorten their hours or close on public holidays, so shopping in advance is a necessary step. Residence rooms should also have a first-aid kit and a torch to cope with possible power outages or emergencies.
 
 ## FAQ
 
-### Q1：公共假期期间ANU图书馆是否完全关闭？
-不是完全关闭。Hancock Library等主要图书馆在元旦、圣诞节等重大假期全天关闭，但在堪培拉日和劳动日等假期开放时间为10:00至17:00。Chifley Library底层的24小时学习区在公共假期期间保持全天候开放，提供约200个座位。
+### Q1: Do ANU libraries close completely on public holidays?
+Not completely. Major libraries such as Hancock Library close all day on significant holidays like New Year's Day and Christmas, but are open 10:00 to 17:00 on holidays such as Canberra Day and Labour Day. The 24-hour study area on the lower level of Chifley Library remains open around the clock during public holidays, providing about 200 seats.
 
-### Q2：假期期间校园内哪里可以买到食物？
-约80%的餐饮点在公共假期关闭。仅Union Court的个别商户（如Subway）在部分假期营业10:00至15:00。校园内60台自动售货机提供零食和饮料。Acton校区入口处的7-Eleven便利店在假期保持24小时营业，距离主教学区约500米。
+### Q2: Where can I buy food on campus during the holidays?
+About 80% of dining outlets close on public holidays. Only a few Union Court vendors (such as Subway) open 10:00 to 15:00 on some holidays. The 60 vending machines around campus offer snacks and drinks. The 7-Eleven convenience store at the Acton campus entrance stays open 24 hours during holidays, about 500 metres from the main teaching area.
 
-### Q3：公共假期期间校园安保是否正常运作？
-是的，ANU安保服务24小时运营，但响应时间从常规的6.2分钟延长至8.5分钟。安全巴士暂停，但安全护送服务仍可用，需致电预约。校园内300个紧急求助电话亭保持正常运作，宿舍区访客必须在22:00前离开。
+### Q3: Does campus security operate normally during public holidays?
+Yes, ANU security services run 24 hours, but response times extend from the usual 6.2 minutes to 8.5 minutes. The Safe Bus is suspended, but the Safe Walk escort service remains available by phone booking. The 300 emergency help points on campus stay operational, and residential visitors must leave by 22:00.
 
-## 参考资料
+## References
 - ACT Government 2024, Public Holidays in the ACT
 - ANU Library 2024, Public Holiday Hours
 - ANU Security 2023, Annual Security Report

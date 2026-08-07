@@ -1,6 +1,7 @@
 ---
+slug: anu-academic-integrity-breach-process-what-to-expect-in-a-hearing-and-how-to-sub
 title: "ANU Academic Integrity Breach Process: What to Expect in a Hearing and How to Submit an Effective Appeal"
-description: "在澳大利亚国立大学（ANU）的学术体系中，学术诚信违规处理程序是学生面临的最严肃的行政流程之一。根据ANU 2023年发布的《学术诚信政策》（Academic Integrity Rule 2023），该校在2022年共处理了超过400起学术不端案件，其中约35%的案例涉及学生使用未经授权的生成式AI工具完成评估…"
+description: "In the Australian National University (ANU) academic system, the academic integrity breach process is one of the most serious administrative procedures a student can face. According to the Academic Integrity Rule 2023 published by ANU, the university handled more than 400 academic misconduct cases in 2022, around 35% of which involved students using unauthorised generative AI tools to complete assessment tasks..."
 category: "ANU"
 pubDatetime: '2026-04-09T19:55:20Z'
 publishDate: '2026-04-09T19:55:20Z'
@@ -10,60 +11,60 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-academic-integrity-breach-process-what-to-expect-in-a-hearing-and-how-to-sub-2026-1880x1253.jpg"
 ---
 
-在澳大利亚国立大学（ANU）的学术体系中，学术诚信违规处理程序是学生面临的最严肃的行政流程之一。根据ANU 2023年发布的《学术诚信政策》（Academic Integrity Rule 2023），该校在2022年共处理了超过400起学术不端案件，其中约35%的案例涉及学生使用未经授权的生成式AI工具完成评估任务，这一比例较2021年上升了12个百分点。对于收到违规通知的学生而言，理解听证会（Hearing）的结构和撰写有效上诉（Appeal）是关键环节，直接关系到能否避免挂科、留档甚至开除等后果。
+In the Australian National University (ANU) academic system, the academic integrity breach process is one of the most serious administrative procedures a student can face. According to the Academic Integrity Rule 2023 published by ANU, the university handled more than 400 academic misconduct cases in 2022, around 35% of which involved students using unauthorised generative AI tools to complete assessment tasks — up 12 percentage points from 2021. For students who receive a breach notice, understanding the structure of a Hearing and writing an effective Appeal is critical, and can be the difference between avoiding a fail, a record on file, or even exclusion.
 
-## 违规通知与初步应对
+## Breach Notices and Your Initial Response
 
-**收到违规通知**是程序启动的起点。ANU的学术诚信办公室（Academic Integrity Office）通常通过学生邮箱发送正式通知，内容包括涉嫌违规的具体条款、相关证据摘要以及要求学生在**10个工作日**内回应的截止日期。根据ANU 2023年学生纪律程序，未在截止日前回应的案例中，约68%被直接认定为违规并施加处罚。
+**Receiving a breach notice** is where the process begins. ANU's Academic Integrity Office usually sends a formal notice to the student's university email, setting out the specific provisions allegedly breached, a summary of the supporting evidence, and a deadline to respond within **10 working days**. According to the ANU 2023 student discipline procedures, around 68% of cases with no response by the deadline are directly found to be in breach and penalised.
 
-**初步回应的策略**直接影响后续结果。学生需要在通知中明确选择：接受违规并承担相应处罚，或否认违规并要求召开正式听证会。ANU官方数据显示，选择要求听证会的案例中，最终被撤销或减轻处罚的比例约为22%。在准备回应时，建议学生整理所有相关课程材料、时间戳记录以及通信记录，这些文件在后续程序中可能成为关键证据。部分学生也会在此时寻求ANU学生协会（ANUSA）的免费法律咨询。
+**Your initial response strategy** directly shapes what happens next. The notice requires you to choose: accept the breach and the associated penalty, or deny the breach and request a formal hearing. ANU official data shows that around 22% of cases where a hearing was requested ultimately had the penalty withdrawn or reduced. When preparing your response, gather all relevant course materials, timestamp records and correspondence — these documents can become key evidence later in the process. Some students also seek free legal advice from the ANU Students' Association (ANUSA) at this point.
 
-## 听证会前的准备阶段
+## Preparing for the Hearing
 
-**证据收集与整理**是听证会准备的基石。学生应系统性地收集三类材料：课程大纲（Course Outline）中关于评估要求的说明、与课程协调员（Course Convenor）的电子邮件往来、以及个人完成作业的过程记录（如草稿版本、参考文献列表、Turnitin相似度报告）。ANU允许学生申请获取学校调查过程中使用的全部证据，这一权利被称为“信息获取权”（Right to Information），申请需在收到通知后**5个工作日**内提交。
+**Evidence collection and organisation** is the foundation of hearing preparation. Students should systematically assemble three kinds of material: the assessment requirements set out in the Course Outline, email correspondence with the Course Convenor, and records of how you completed the work (drafts, reference lists, Turnitin similarity reports). ANU allows students to request access to all evidence used in the university's investigation — a right known as the "Right to Information" — and applications must be submitted within **5 working days** of receiving the notice.
 
-**了解听证会组成**能帮助学生预判流程。根据ANU《学生纪律条例》（Student Discipline Rule 2021），正式听证会由三名成员组成：一名来自学术诚信委员会的独立主席、一名来自学生所在学院的高级学术人员、以及一名来自其他学院的学术代表。听证会通常持续60至90分钟，学生有权携带一名支持人员（Support Person）出席，该人员可以是朋友、家人或ANUSA代表，但不能是律师。ANU在2023年共举行了约180场此类听证会，平均每场听证会涉及2.3项违规指控。
+**Understanding the hearing panel** helps you anticipate how the process will run. Under the ANU Student Discipline Rule 2021, a formal hearing consists of three members: an independent chair from the Academic Integrity Committee, a senior academic from the student's own college, and an academic representative from another college. Hearings typically run 60 to 90 minutes. Students may bring one Support Person — a friend, family member or ANUSA representative — but not a lawyer. ANU held around 180 such hearings in 2023, with an average of 2.3 alleged breaches per hearing.
 
-## 听证会流程详解
+## The Hearing Process in Detail
 
-**听证会开场阶段**由主席陈述程序规则。主席会首先确认各方身份、宣读指控内容、并说明听证会非对抗性质（Non-adversarial）。此时，学生会被要求确认是否理解指控，并可以选择是否做开场陈述。ANU的官方指南建议学生准备一份**不超过3分钟的书面开场陈述**，重点说明自身立场而非情绪化表达。
+**The opening phase** sees the chair set out the procedural rules. The chair confirms everyone's identity, reads out the allegations, and explains that the hearing is non-adversarial. At this point you will be asked to confirm that you understand the allegations, and given the option of making an opening statement. ANU's official guidance recommends preparing a **written opening statement of no more than 3 minutes**, focused on setting out your position rather than expressing emotion.
 
-**证据呈现与质询**是核心环节。学校调查员（Investigator）会先呈现指控方证据，包括Turnitin报告、AI检测工具结果、或其他学生证言。随后学生有机会进行回应和提问。根据ANU 2023年内部统计，约45%的听证会中，学生会质疑AI检测工具的准确性，ANU目前使用的主流检测工具为Turnitin AI检测模块，其官方声称的准确率为98%，但独立研究指出其在识别改写后AI内容时的误报率可能高达15%。学生可以要求学校提供检测报告的具体参数，包括相似度百分比和AI标记的具体段落。
+**Evidence presentation and questioning** is the core of the hearing. The university's Investigator presents the evidence against you first — Turnitin reports, AI detection results, or testimony from other students. You then have the opportunity to respond and ask questions. According to ANU's 2023 internal statistics, in around 45% of hearings students challenge the accuracy of AI detection tools. ANU's current mainstream tool is the Turnitin AI detection module, which the vendor claims is 98% accurate, though independent research suggests its false positive rate on paraphrased AI content may be as high as 15%. You can ask the university to provide the specific parameters of the detection report, including the similarity percentage and the specific passages flagged as AI-generated.
 
-**闭门审议与结果通知**在听证会结束后进行。听证委员会会退席进行闭门讨论，通常耗时30至60分钟。结果会在**5个工作日**内以书面形式发送至学生邮箱。书面结果必须包含：认定结论（是否违规）、处罚决定（如扣分、重交、挂科、或开除）、以及上诉权利说明。ANU 2023年数据显示，听证会后约74%的案例维持原指控，16%减轻处罚，10%撤销指控。
+**Closed deliberation and outcome notification** follow the hearing. The panel withdraws to deliberate in private, usually for 30 to 60 minutes. The outcome is sent to your university email in writing within **5 working days**. The written outcome must include: the finding (whether a breach occurred), the penalty decision (such as mark deduction, resubmission, fail, or exclusion), and a statement of your appeal rights. ANU 2023 data shows that after hearings, around 74% of cases upheld the original allegation, 16% had penalties reduced, and 10% had the allegation dismissed.
 
-## 处罚等级与学术影响
+## Penalty Tiers and Academic Impact
 
-**轻微违规的常见处罚**包括扣分或重交。对于首次违规且情节较轻（如引用格式错误、小范围抄袭），ANU通常给予**扣除该作业20%-50%分数**的处罚，或允许学生在**14天内**重新提交修改版。这类处罚不会记录在成绩单上，但会在校内系统中保留3年。根据ANU 2022年学术诚信年度报告，约55%的轻微违规案例最终以重交或扣分结案。
+**Common penalties for minor breaches** include mark deductions or resubmission. For a first offence that is minor in nature (such as incorrect citation formatting or small-scale plagiarism), ANU typically imposes a **deduction of 20%-50% of the assignment marks**, or allows the student to **resubmit a revised version within 14 days**. These penalties do not appear on the transcript, but are retained in the university's internal systems for 3 years. According to the ANU 2022 Academic Integrity Annual Report, around 55% of minor breach cases were closed with resubmission or mark deduction.
 
-**严重违规的后果**更为深远。涉及系统性抄袭、代写、或使用AI生成完整论文的行为，可能导致该门课程直接记为零分（Fail with 0），且成绩单上标注“学术诚信违规”（Academic Misconduct）。更严重的案例中，学生可能面临一学期至一年的停学（Suspension），甚至被开除（Exclusion）。ANU 2023年共开除23名学生，其中12例涉及代写服务。被开除的学生在**7年内**不得重新申请ANU任何课程，且该记录可能影响其他澳洲大学的入学申请。
+**The consequences of serious breaches** are far more significant. Conduct involving systematic plagiarism, contract cheating, or using AI to generate an entire essay can result in the course being recorded as a direct zero (Fail with 0), with an "Academic Misconduct" notation on the transcript. In more serious cases, students may face suspension for one semester to one year, or even exclusion. ANU excluded 23 students in 2023, 12 of whom were involved with ghostwriting services. Excluded students **cannot reapply to any ANU program for 7 years**, and the record may also affect applications to other Australian universities.
 
-## 上诉程序与有效策略
+## The Appeal Process and Effective Strategies
 
-**上诉的法定理由**有严格限制。根据ANU《学术上诉政策》（Academic Appeals Policy 2022），学生只能在三种情况下提起上诉：程序错误（Procedural Error，如听证会未遵循规定流程）、新证据（New Evidence，在听证会时无法合理获取）、或处罚过重（Disproportionate Penalty）。单纯对事实认定不满不构成上诉理由。2023年，ANU共收到142份上诉申请，其中仅26份（约18%）获得部分或全部支持。
+**The legal grounds for appeal are strictly limited.** Under the ANU Academic Appeals Policy 2022, a student may appeal only on three grounds: procedural error (e.g. the hearing failed to follow the prescribed process), new evidence (that could not reasonably have been obtained at the time of the hearing), or disproportionate penalty. Simply disagreeing with the factual findings is not a ground for appeal. In 2023, ANU received 142 appeal applications, of which only 26 (about 18%) were partially or fully upheld.
 
-**撰写有效上诉书的关键要素**包括结构和证据。上诉书应包含三个部分：引言（说明上诉依据的法律条款）、主体（逐条列举程序错误或新证据）、以及结论（请求的具体救济措施，如重新听证或减轻处罚）。ANU建议上诉书**不超过2000字**，并附上所有支持文件。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-academic-integrity-breach-process-what-to-expect-in-a-hearing-and-how-to-sub) 等专业通道完成结汇，确保在程序进行期间不会因财务问题影响学业状态。
+**The key elements of an effective appeal** are structure and evidence. An appeal submission should have three parts: an introduction (stating the policy provisions your appeal relies on), a body (listing each procedural error or piece of new evidence item by item), and a conclusion (the specific remedy sought, such as a rehearing or a reduced penalty). ANU recommends that appeals be **no more than 2000 words**, with all supporting documents attached. When paying tuition across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-academic-integrity-breach-process-what-to-expect-in-a-hearing-and-how-to-sub) to complete their currency exchange, ensuring that financial issues do not affect academic standing while the process is under way.
 
-**上诉的时间窗口**极为严格。学生必须在收到听证会结果通知后的**20个工作日**内提交上诉申请。逾期提交的上诉通常不被受理，除非能证明存在“特殊情况”（Exceptional Circumstances），如严重疾病或家庭紧急事件。ANU的学术上诉委员会（Academic Appeals Committee）会在收到申请后**30个工作日**内作出裁决，期间学生可以维持原学业状态，但需注意停学处罚在上诉期间仍可执行。
+**The appeal window is strictly enforced.** Students must submit an appeal within **20 working days** of receiving the hearing outcome. Late appeals are usually not accepted unless "Exceptional Circumstances" can be demonstrated, such as serious illness or a family emergency. The ANU Academic Appeals Committee will rule within **30 working days** of receiving the application. During this time you may maintain your current academic status, but note that a suspension penalty remains enforceable while the appeal is pending.
 
-## 预防措施与资源利用
+## Prevention and Support Resources
 
-**学术诚信培训资源**是减少违规风险的有效途径。ANU提供免费的在线课程“Academic Integrity Module”（AIM），完成该课程需要约2小时，内容涵盖引用规范、合作界限、以及AI工具使用边界。2023年，约85%的ANU新生完成了AIM课程，完成该课程的学生在后续学期中违规率比未完成者低47%。学校还定期举办“引用工作坊”（Referencing Workshops），由图书馆员指导APA、Harvard等主流引用格式。
+**Academic integrity training resources** are an effective way to reduce breach risk. ANU offers a free online course, the "Academic Integrity Module" (AIM), which takes about 2 hours to complete and covers citation standards, collaboration boundaries, and the limits of AI tool use. In 2023, around 85% of new ANU students completed AIM, and students who completed it had a 47% lower breach rate in subsequent semesters than those who did not. The university also runs regular "Referencing Workshops" where librarians teach major citation styles such as APA and Harvard.
 
-**利用支持服务**可以提升应对效率。ANU学生协会（ANUSA）提供免费的学术诚信咨询，每周一至周五下午2点至4点在校园内的“学生中心”开放。此外，ANU的“学习技能中心”（Academic Skills Centre）提供一对一辅导，帮助学生理解作业要求并避免无意违规。对于国际学生，学校还设有“国际学生支持办公室”（International Student Support Office），可提供中文、韩语、越南语等多语言服务。
+**Using support services** can make the process much more manageable. The ANU Students' Association (ANUSA) offers free academic integrity advice, available weekdays from 2pm to 4pm at the "Student Centre" on campus. ANU's Academic Skills Centre offers one-on-one tutoring to help students understand assignment requirements and avoid unintentional breaches. For international students, the International Student Support Office provides services in multiple languages, including Chinese, Korean and Vietnamese.
 
 ## FAQ
 
-### Q1：收到违规通知后，我应该在多少天内回复？
-根据ANU《学术诚信政策》2023版，学生必须在收到通知后的**10个工作日**内提交书面回应。逾期未回复的案例中，约68%被直接认定为违规并施加处罚。建议在收到通知后第一时间联系ANUSA获取咨询。
+### Q1: How many days do I have to respond after receiving a breach notice?
+Under the 2023 version of the ANU Academic Integrity Policy, students must submit a written response within **10 working days** of receiving the notice. Around 68% of cases with no response by the deadline are directly found to be in breach and penalised. Contact ANUSA for advice as soon as you receive the notice.
 
-### Q2：听证会需要自己准备律师吗？
-ANU听证会不允许律师出席，但学生可以携带一名支持人员（Support Person）。支持人员可以是朋友、家人或ANUSA代表。ANU 2023年数据显示，约32%的听证会学生选择了ANUSA代表作为支持人员，这些案例的减轻处罚比例比无支持人员的高出约15%。
+### Q2: Do I need to arrange my own lawyer for the hearing?
+Lawyers are not permitted at ANU hearings, but students may bring one Support Person. The support person can be a friend, family member or ANUSA representative. ANU 2023 data shows that around 32% of students at hearings chose an ANUSA representative as their support person, and these cases had a penalty reduction rate about 15% higher than cases without a support person.
 
-### Q3：上诉成功的概率有多大？
-根据ANU 2023年学术上诉委员会数据，当年共收到142份上诉申请，其中26份（约18%）获得部分或全部支持。最常见的成功理由是程序错误（占成功案例的58%），其次是新证据（占32%）。处罚过重的上诉成功率最低，仅为10%。
+### Q3: What are the chances of winning an appeal?
+According to ANU Academic Appeals Committee data for 2023, 142 appeal applications were received that year, of which 26 (about 18%) were partially or fully upheld. The most common successful ground was procedural error (58% of successful cases), followed by new evidence (32%). Appeals on the ground of disproportionate penalty had the lowest success rate, at just 10%.
 
-## 参考资料
+## References
 - Australian National University 2023, *Academic Integrity Rule 2023*
 - Australian National University 2023, *Student Discipline Rule 2021*
 - Australian National University 2022, *Academic Integrity Annual Report 2022*

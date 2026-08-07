@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生离校手续办理清单：退宿、注销与成绩单"
-description: "ANU 国际学生在完成学业或中途离校时，需履行一系列行政与财务手续，涉及退宿、账户注销、成绩单获取及签证合规等环节。根据澳大利亚教育部2024年发布的《国际学生数据报告》，2023年澳大利亚国际学生总数达713,144人，其中中国籍学生占比约20%；而澳洲国立大学（ANU）2023年年度报告显示，该校国际学生占学…"
+slug: anu-国际学生离校手续办理清单退宿注销与成绩单
+title: "Leaving ANU as an International Student: A Checklist for Accommodation Check-out, Account Cancellation and Transcripts"
+description: "When ANU international students complete their studies or leave mid-programme, they must work through a series of administrative and financial steps covering accommodation check-out, account cancellation, transcripts and visa compliance. According to the International Student Data Report published by the Australian Department of Education in 2024, Australia hosted 713,144 international students in 2023, around 20% of them from China; the Australian National University's (ANU) 2023 annual report shows international students made up 44% of its enrolments, roughly 11,000 students. With the Australian Department of Home Affairs tightening student visa conditions in 2024 (including a stronger Genuine Student Test), getting the leaving process right directly affects future visa applications and qualification authentication, so a systematic checklist is a practical necessity."
 category: "ANU 国际学生离校手续"
 pubDatetime: '2026-03-13T19:49:41Z'
 publishDate: '2026-03-13T19:49:41Z'
@@ -10,92 +11,99 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生离校手续办理清单退宿注销与成绩单-2026-1880x1253.jpg"
 ---
 
-ANU 国际学生在完成学业或中途离校时，需履行一系列行政与财务手续，涉及退宿、账户注销、成绩单获取及签证合规等环节。根据澳大利亚教育部2024年发布的《国际学生数据报告》，2023年澳大利亚国际学生总数达713,144人，其中中国籍学生占比约20%；而澳洲国立大学（ANU）2023年年度报告显示，该校国际学生占学生总数的44%，约11,000人。随着2024年澳大利亚移民局收紧学生签证条款（包括强化Genuine Student Test要求），离校手续的合规性直接影响未来签证申请与学历认证，因此制定一份系统化的办理清单具有现实必要性。
+When ANU international students complete their studies or leave mid-programme, they must work through a series of administrative and financial steps covering accommodation check-out, account cancellation, transcripts and visa compliance. According to the International Student Data Report published by the Australian Department of Education in 2024, Australia hosted 713,144 international students in 2023, around 20% of them from China; the Australian National University's (ANU) 2023 annual report shows international students made up 44% of its enrolments, roughly 11,000 students. With the Australian Department of Home Affairs tightening student visa conditions in 2024 (including a stronger Genuine Student Test), getting the leaving process right directly affects future visa applications and qualification authentication, so a systematic checklist is a practical necessity.
 
-## 退宿手续与住宿合同终止
+## Accommodation Check-out and Ending Your Housing Contract
 
-ANU校内住宿合同通常按学期或学年签署，提前离校需严格遵循合同条款。学生须在计划离校日期前至少28天向住宿服务办公室（Accommodation Services）提交书面通知，否则可能被收取相当于4周租金的违约金。校内住宿包括Bruce Hall、Ursula College等12个住宿学院，各学院合同细则略有差异，但统一适用ANU住宿政策（ANU Accommodation Policy 2023）。
+ANU on-campus housing contracts are normally signed per semester or per academic year, and leaving early means following the contract terms to the letter. Students must give Accommodation Services written notice at least 28 days before their planned departure date, otherwise they may be charged a penalty equal to 4 weeks of rent. On-campus housing spans 12 residential colleges, including Bruce Hall and Ursula College, each with slightly different contract details, but all are governed by the ANU Accommodation Policy 2023.
 
-### 房间检查与押金退还
-退宿前，学生需完成房间检查（Room Inspection），由宿舍管理员核实房间状况。**押金退还**通常需2-4周，若出现物品损坏或未清洁，ANU有权从押金（通常为4周租金）中扣除维修费用。根据ACT租赁法规（Residential Tenancies Act 1997），押金纠纷可向ACT民事与行政法庭（ACAT）申诉。建议学生在搬离时拍摄房间照片作为证据。
+### Room Inspection and Bond Refund
 
-### 公用事业账户注销
-在校外租房的学生需单独注销水电、燃气及网络账户。ANU学生服务处（Student Central）提供合作供应商列表，如ActewAGL和Origin Energy，注销时需提供最终读数表。**账户注销**须在租约结束前3-5个工作日完成，以避免产生额外费用。若未及时注销，供应商可能按默认费率继续计费，导致后续债务追讨。
+Before checking out, students must complete a Room Inspection, in which residential staff verify the condition of the room. **Bond refunds** typically take 2-4 weeks; if there is damage or the room was not cleaned, ANU is entitled to deduct repair costs from the bond (usually 4 weeks of rent). Under ACT tenancy law (Residential Tenancies Act 1997), bond disputes can be taken to the ACT Civil and Administrative Tribunal (ACAT). It is worth photographing the room when you move out and keeping the photos as evidence.
 
-## 学生账户与IT服务注销
+### Cancelling Utility Accounts
 
-离校后，ANU学生账户（包括ISIS系统、Wattle学习平台及ANU邮箱）将在毕业或离校后90天内被自动停用。学生需在停用前下载所有重要文件，包括成绩单、课程材料及个人数据。**ANU邮箱**（以anu.edu.au结尾）停用后，所有邮件将被永久删除，无法恢复。
+Students renting off campus need to cancel their electricity, gas and internet accounts separately. ANU Student Central keeps a list of preferred providers such as ActewAGL and Origin Energy, and cancellation requires submitting final meter readings. **Account cancellation** should be completed 3-5 business days before the lease ends to avoid extra charges. If you cancel too late, providers may keep billing at default rates, which can turn into debt collection down the track.
 
-### 数据备份与迁移
-建议学生使用ANU提供的OneDrive云存储（容量为1TB）进行数据备份，或通过USB设备本地保存。对于正在进行的学术项目，需联系导师或院系办公室确认数据迁移方案。ANU IT服务台（Service Desk）提供数据导出指导，但需在账户失效前提交请求。**数据备份**是离校手续中最易被忽视的环节，根据ANU 2023年IT服务统计，约12%的离校学生因未备份而丢失课程笔记或论文草稿。
+## Closing Your Student Account and IT Services
 
-### 校园卡与图书馆账户
-ANU学生卡（Campus Card）在离校后无需主动退还，但将失去所有功能，包括门禁、打印额度及图书馆借阅权限。图书馆账户需在离校前清还所有借阅书籍，逾期罚款将累计至个人财务账户。**图书馆账户**注销后，学生仍可申请校友图书馆访问权限（年费约50澳元），但无法使用电子资源数据库。
+After you leave, your ANU student account (covering ISIS, the Wattle learning platform and your ANU email) will be automatically deactivated 90 days after graduation or departure. Before that happens, download everything you need, including transcripts, course materials and personal data. Once your **ANU email** (ending in anu.edu.au) is deactivated, all messages are permanently deleted and cannot be recovered.
 
-## 成绩单与学历文件获取
+### Data Backup and Migration
 
-ANU通过My eQuals平台提供数字成绩单和毕业证书，该平台是澳大利亚高等教育机构的官方数字凭证系统。学生可在离校后随时登录My eQuals下载PDF版本，但需注意：**数字成绩单**的验证链接有效期为30天，雇主或院校需在此期限内完成核查。纸质成绩单需通过ANU Student Central申请，每份费用为35澳元（2024年标准），处理时间为5-10个工作日。
+It is a good idea to back up to ANU's OneDrive cloud storage (1TB of space) or to a USB drive. For ongoing academic projects, contact your supervisor or faculty office to confirm the data migration plan. The ANU IT Service Desk can guide you through exporting your data, but you need to lodge the request before your account expires. **Data backup** is the step students most often overlook: ANU's 2023 IT service statistics show that around 12% of departing students lost lecture notes or thesis drafts because they never backed up.
 
-### 学历认证与翻译
-对于计划回国发展的中国籍学生，需通过中国教育部留学服务中心（CSCSE）办理**学历学位认证**。认证要求提供ANU出具的学位证书、完整成绩单及护照签证页扫描件。认证周期通常为10-20个工作日，费用为360元人民币（2024年标准）。ANU国际学生办公室建议学生在离校前先获取一份官方成绩单副本，以避免后续跨国邮寄延误。
+### Campus Card and Library Account
 
-### 成绩单邮寄与快递选择
-若需将纸质成绩单寄送至海外地址，ANU使用澳大利亚邮政（Australia Post）国际快递服务，费用为45澳元（标准）至85澳元（特快）。学生也可选择DHL或FedEx等私人快递，但需自行承担额外费用。**成绩单邮寄**通常需7-14个工作日到达中国大陆主要城市。建议学生在离校前至少提前2周提交邮寄申请，以避开毕业季高峰（每年6月及12月）。
+Your ANU Campus Card does not need to be returned when you leave, but it loses all functionality, including building access, print credit and library borrowing. Before you go, return every library loan — late fines accumulate against your financial account. Once your **library account** is closed, you can still apply for alumni library access (around $50 a year), though this does not include access to electronic resource databases.
 
-## 签证合规与离境记录
+## Getting Transcripts and Academic Documents
 
-国际学生离校后，其学生签证（Subclass 500）将在课程结束日期后60天内自动失效。若学生提前退学，需在28天内通知澳大利亚移民局（Department of Home Affairs），否则可能面临签证取消记录，影响未来入境。**签证取消**记录会保留在移民局系统中，后续申请旅游或工作签证时需主动申报。
+ANU issues digital transcripts and testamurs through My eQuals, the official digital credential platform for Australian higher education institutions. You can log in to My eQuals and download PDF copies any time after you leave, but note that the **verification link** attached to a digital transcript expires after 30 days, so employers and institutions must check it within that window. Paper transcripts are ordered through ANU Student Central at $35 per copy (2024 rate), with 5-10 business days processing time.
 
-### 离境与过桥签证
-若学生计划在课程结束后继续留在澳大利亚（如参加毕业典礼），需申请**过桥签证B类**（BVB）或旅游签证（Subclass 600）。BVB允许学生在签证审理期间合法停留，但需在离校前通过ImmiAccount提交申请。移民局2024年数据显示，约15%的离校国际学生因未及时申请过桥签证而遭遇非法滞留记录。建议学生在课程结束前30天开始办理签证转换手续。
+### Qualification Authentication and Translation
 
-### 健康保险取消
-海外学生健康保险（OSHC）通常覆盖至学生签证到期日。离校后，学生需联系保险公司（如Medibank、Allianz Care或Bupa）取消保单，并申请**未使用保费退还**。根据OSHC规定，若提前退学，保险公司将按剩余天数比例退还保费，但需扣除管理费（通常为50-100澳元）。退款处理周期为4-6周，需提供退学证明或毕业证书。
+Chinese students planning to return home need to have their **degree and transcript authenticated** through the Chinese Service Center for Scholarly Exchange (CSCSE). Authentication requires ANU's degree certificate, a complete transcript and scanned copies of your passport and visa pages. Processing typically takes 10-20 working days and costs 360 RMB (2024 rate). ANU's International Student Office recommends ordering one official transcript before you leave so you are not caught up in international mailing delays later.
 
-## 财务结算与税务申报
+### Mailing Transcripts and Courier Options
 
-离校前，学生需结清所有ANU相关费用，包括学费欠款、图书馆罚款及住宿违约金。**财务账户**可通过ISIS系统查询，若有未结款项，ANU有权扣留成绩单或学历证书。学生需在离校前至少2周完成支付，以避免影响毕业审核。
+If a paper transcript has to be posted overseas, ANU uses Australia Post international express services, costing $45 (standard) to $85 (express). You can also use private couriers such as DHL or FedEx, but you pay any extra yourself. **Transcript mailing** to major cities in mainland China usually takes 7-14 working days. Submit your mailing request at least 2 weeks before you leave to beat the graduation-season rush (June and December each year).
 
-### 税务申报与TFN注销
-在澳大利亚有打工收入的国际学生，需在离境前完成税务申报。澳大利亚税务局（ATO）要求个人在离境后仍可继续提交报税表，但需保留澳大利亚银行账户以接收退税。**税号（TFN）**无需主动注销，若未使用超过4年，ATO会自动将其标记为休眠状态。学生可委托税务代理（费用约100-150澳元）处理离境后报税事宜。
+## Visa Compliance and Departure Records
 
-### 银行账户关闭
-澳大利亚银行账户（如Commonwealth Bank、ANZ或NAB）可在离境后通过网上银行关闭，但需确保账户余额清零。部分银行收取月费（如Commonwealth Bank的Smart Access账户每月4澳元），若余额不足可能产生透支。**银行账户**关闭后，学生需保留最终对账单作为财务记录。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%A6%BB%E6%A0%A1%E6%89%8B%E7%BB%AD%E5%8A%9E%E7%90%86%E6%B8%85%E5%8D%95%E9%80%80%E5%AE%BF%E6%B3%A8%E9%94%80%E4%B8%8E%E6%88%90%E7%BB%A9%E5%8D%95) 等专业通道完成结汇，但离校后无需继续使用此类服务。
+Once international students finish at ANU, their student visa (Subclass 500) automatically lapses 60 days after the course end date. If you withdraw early, you must notify the Department of Home Affairs within 28 days, or you risk a visa cancellation record that can affect future entry to Australia. **Visa cancellation** records stay on the Department's file, and you must declare them when applying for later tourist or work visas.
 
-## 校友资源与后续联系
+### Departure and Bridging Visas
 
-ANU校友办公室（Alumni Office）为离校学生提供终身校友邮箱（anu.edu.au别名）及校友网络访问权限。**校友福利**包括ANU图书馆访问、职业发展讲座及就业推荐服务。学生需在离校前通过ANU Alumni Portal注册，以保留校友身份。ANU 2023年校友调查显示，约68%的毕业生在离校后1年内使用了校友职业服务。
+If you plan to stay in Australia after your course ends (for example, to attend graduation), you need a **Bridging Visa B** (BVB) or a tourist visa (Subclass 600). A BVB lets you stay lawfully while your visa is being processed, but you must apply through ImmiAccount before leaving the university. Department of Home Affairs data from 2024 shows around 15% of departing international students ended up with unlawful-stay records because they did not apply for a bridging visa in time. Start the visa transition about 30 days before your course finishes.
 
-### 成绩单长期存档
-ANU通过My eQuals平台提供永久数字凭证存档，学生可随时登录查看。若My eQuals账户丢失，需通过ANU Student Central提交身份验证后重新获取。**长期存档**是学历认证的关键保障，建议学生在离校后每3年检查一次账户有效性。
+### Cancelling Health Insurance
 
-### 离校后支持服务
-ANU国际学生办公室提供离校后6个月的在线咨询，涵盖签证、就业及心理健康问题。学生可通过ANU Global Support Hub（全球支持中心）获取服务，该中心覆盖UTC+8至UTC+11时区。**支持服务**在离校后自动终止，但学生可付费延长至12个月（费用为150澳元）。
+Overseas Student Health Cover (OSHC) usually runs until your student visa expires. After you leave, contact your insurer (such as Medibank, Allianz Care or Bupa) to cancel the policy and claim a **refund of unused premiums**. Under OSHC rules, if you withdraw early the insurer refunds the premium pro rata for the remaining days, minus an administration fee (usually $50-100). Refunds take 4-6 weeks and you will need proof of withdrawal or your degree certificate.
+
+## Financial Settlement and Tax Returns
+
+Before you leave, settle every outstanding ANU charge, including unpaid tuition, library fines and accommodation break fees. Your **financial account** can be checked through ISIS; if anything is outstanding, ANU can hold your transcript or degree certificate. Pay at least 2 weeks before you go so your graduation clearance is not delayed.
+
+### Tax Returns and TFN Status
+
+International students who worked in Australia need to lodge a final tax return before departing. The Australian Taxation Office (ATO) lets you keep filing returns from overseas, but you need to keep an Australian bank account to receive any refund. Your **tax file number (TFN)** does not need to be formally cancelled — if it goes unused for more than 4 years, the ATO automatically marks it dormant. You can also engage a tax agent (roughly $100-150) to handle post-departure filings.
+
+### Closing Bank Accounts
+
+Australian bank accounts (with Commonwealth Bank, ANZ or NAB, for example) can be closed online from overseas, but the balance must be zero first. Some banks charge monthly fees (Commonwealth Bank's Smart Access account is $4 a month), and a balance that falls too low can tip you into overdraft. After closing the account, keep the final statement as a financial record. When it comes to paying tuition across borders, some families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%A6%BB%E6%A0%A1%E6%89%8B%E7%BB%AD%E5%8A%9E%E7%90%86%E6%B8%85%E5%8D%95%E9%80%80%E5%AE%BF%E6%B3%A8%E9%94%80%E4%B8%8E%E6%88%90%E7%BB%A9%E5%8D%95) to convert and remit funds, but once you have left the university there is no further need for such services.
+
+## Alumni Resources and Staying in Touch
+
+ANU's Alumni Office gives departing students a lifetime alumni email alias (anu.edu.au) and access to the alumni network. **Alumni benefits** include ANU library access, career development talks and job referral services. Register through the ANU Alumni Portal before you leave to keep your alumni status. ANU's 2023 alumni survey found that about 68% of graduates used alumni career services within a year of leaving.
+
+### Long-term Transcript Archiving
+
+ANU offers permanent digital credential archiving through My eQuals, which you can log into at any time. If you lose access to your My eQuals account, contact ANU Student Central to verify your identity and regain it. **Long-term archiving** is the key safeguard for qualification authentication — check that your account still works every 3 years or so after you leave.
+
+### Post-departure Support Services
+
+ANU's International Student Office provides online support for 6 months after you leave, covering visa, employment and mental health questions. You can access these services through the ANU Global Support Hub, which operates across time zones from UTC+8 to UTC+11. **Support services** end automatically after 6 months, but you can pay to extend them to 12 months (cost: $150).
 
 ## FAQ
 
-### Q1：离校后还能申请ANU成绩单吗？
-可以。ANU通过My eQuals平台提供永久数字成绩单，学生可随时登录下载。纸质成绩单需通过Student Central申请，每份35澳元，处理时间为5-10个工作日。数字版本验证链接有效期为30天，建议在申请学历认证前下载。
+### Q1: Can I still order ANU transcripts after I leave?
 
-### Q2：提前退学需要多久通知移民局？
-根据移民局规定，提前退学的学生需在课程终止后28天内通过ImmiAccount提交通知。未及时通知可能导致签证取消记录，影响未来5年内申请澳大利亚签证。2024年移民局数据显示，约22%的违规案例源于未按时申报退学。
+Yes. ANU provides permanent digital transcripts through My eQuals, which you can log into and download at any time. Paper transcripts are ordered through Student Central at $35 per copy, with 5-10 business days processing. The verification link on a digital copy is valid for 30 days, so download your copy before you apply for qualification authentication.
 
-### Q3：离校后银行账户可以保留吗？
-可以保留，但需确保账户余额不为零且无月费欠款。部分银行（如Commonwealth Bank）对余额低于2000澳元的账户收取月费。建议学生在离境前将账户转换为免月费的储蓄账户（如NetBank Saver），或直接关闭账户并保留最终对账单。
+### Q2: How much notice does Home Affairs need if I withdraw early?
+
+Under Department of Home Affairs rules, students who withdraw early must notify the Department through ImmiAccount within 28 days of the course ending. Failing to notify in time can result in a visa cancellation record that affects Australian visa applications for the next 5 years. Department data from 2024 shows around 22% of violation cases stemmed from failing to report a withdrawal on time.
+
+### Q3: Can I keep my Australian bank account after leaving?
+
+Yes, but the balance must stay above zero and you must not owe monthly fees. Some banks (Commonwealth Bank among them) charge monthly fees on accounts with balances below $2,000. Before you leave, consider switching to a fee-free savings account such as NetBank Saver, or simply close the account and keep the final statement.
 
 ## 参考资料
-- 澳大利亚教育部 2024 年《国际学生数据报告》
-- 澳洲国立大学 2023 年年度报告（ANU Annual Report 2023）
-- 澳大利亚移民局 2024 年《学生签证条款指南》
-- ACT 政府 1997 年《住宅租赁法》（Residential Tenancies Act 1997）
-- 中国教育部留学服务中心 2024 年《国（境）外学历学位认证指南》
+- Australian Department of Education, 2024, International Student Data Report
+- Australian National University, ANU Annual Report 2023
+- Australian Department of Home Affairs, 2024, Student Visa Conditions Guide
+- ACT Government, Residential Tenancies Act 1997
+- Chinese Service Center for Scholarly Exchange (CSCSE), 2024, Guide to Overseas Qualification Authentication
 
 <!-- AFF-CARD:v1:START -->
-<div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-国际学生离校手续办理清单退宿注销与成绩单" target="_blank"
-     rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"
-     data-affiliate-card="oshc-au" aria-label="Compare Australian OSHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OSHC plans</span><span class="cc-aff-card__note">The student-visa health cover required for subclass 500 — compare major insurers side by side.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
-  <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
-</div>
-<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
-<!-- AFF-CARD:v1:END -->

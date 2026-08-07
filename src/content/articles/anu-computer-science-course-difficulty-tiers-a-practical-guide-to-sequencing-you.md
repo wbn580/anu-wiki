@@ -1,6 +1,7 @@
 ---
+slug: anu-computer-science-course-difficulty-tiers-a-practical-guide-to-sequencing-you
 title: "ANU Computer Science Course Difficulty Tiers: A Practical Guide to Sequencing Your Units Without Overloading"
-description: "澳大利亚国立大学（ANU）计算机科学本科课程共包含 144 个学分，其中必修课占 48 学分，选修课占 96 学分，课程难度被学生社群和学术指南划分为五个明确层级。根据 2024 年 QS 世界大学学科排名，ANU 计算机科学与信息系统位列全球第 56 位，其课程设计以理论深度和数学严谨性著称，尤其在算法与形式语…"
+description: "The Australian National University (ANU) undergraduate Computer Science program comprises 144 credit points in total, of which core courses account for 48 credit points and electives for 96, with course difficulty divided into five clearly defined tiers by the student community and academic guides. According to the 2024 QS World University Rankings by Subject, ANU's Computer Science and Information Systems ranks 56th globally, and its course design is known for theoretical depth and mathematical rigour, especially in algorithms and formal languages. However, the ANU Students' Association's 2023 *Course Load Report* points out that about 38% of Computer Science undergraduates experienced overloaded semesters in their second year because of poor course sequencing, which in turn affected their grade point average (GPA). Based on the official ANU course outlines (2024 edition) and historical grade distribution data, this guide offers current students a practical unit sequencing strategy to avoid the risk of academic overload."
 category: "ANU"
 pubDatetime: '2026-04-11T19:55:33Z'
 publishDate: '2026-04-11T19:55:33Z'
@@ -11,66 +12,66 @@ hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-computer-science-course-difficulty-tiers-a-practical-guide-to-sequencing-you-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）计算机科学本科课程共包含 144 个学分，其中必修课占 48 学分，选修课占 96 学分，课程难度被学生社群和学术指南划分为五个明确层级。根据 2024 年 QS 世界大学学科排名，ANU 计算机科学与信息系统位列全球第 56 位，其课程设计以理论深度和数学严谨性著称，尤其在算法与形式语言方向。然而，ANU 学生会在 2023 年发布的《课程负荷报告》指出，约 38% 的计算机本科生在第二学年曾因选课顺序不当导致学期负荷过重，进而影响平均绩点（GPA）。本指南基于 ANU 官方课程大纲（2024 版）与历年学生成绩分布数据，为在读生提供一套可操作的单元排序策略，以规避学术超载风险。
+The Australian National University (ANU) undergraduate Computer Science program comprises 144 credit points in total, of which core courses account for 48 credit points and electives for 96, with course difficulty divided into five clearly defined tiers by the student community and academic guides. According to the 2024 QS World University Rankings by Subject, ANU's Computer Science and Information Systems ranks 56th globally, and its course design is known for theoretical depth and mathematical rigour, especially in algorithms and formal languages. However, the ANU Students' Association's 2023 *Course Load Report* points out that about 38% of Computer Science undergraduates experienced overloaded semesters in their second year because of poor course sequencing, which in turn affected their grade point average (GPA). Based on the official ANU course outlines (2024 edition) and historical grade distribution data, this guide offers current students a practical unit sequencing strategy to avoid the risk of academic overload.
 
-## 难度层级划分依据与数据来源
+## Basis for the difficulty tiers and data sources
 
-ANU 计算机科学课程的难度分级并非官方公开标签，而是基于**学生成绩分布**与**课程前置依赖关系**推导出的经验模型。ANU 教学评估办公室在 2023 年发布的《本科生成绩分布年度报告》显示，COMP1110（程序设计基础）的通过率为 91.2%，而 COMP3600（算法高级专题）的通过率降至 68.7%，两者相差 22.5 个百分点。这一差距主要源于课程对**数学抽象能力**与**编程熟练度**的要求差异。此外，ANU 课程大纲明确标注了每门课的“预期学习时间”，例如 COMP2600（形式语言与自动机）每周需投入约 12 小时，而 COMP3310（网络安全导论）仅需 8 小时。上述数据共同构成了五个层级的划分依据：基础层（L1）、核心层（L2）、进阶层（L3）、高难层（L4）与顶点层（L5）。
+The difficulty grading of ANU Computer Science courses is not an officially published label, but an empirical model derived from **grade distributions** and **course prerequisite dependencies**. The ANU Teaching Evaluation Office's 2023 *Annual Report on Undergraduate Grade Distribution* shows that COMP1110 (Introduction to Programming) has a pass rate of 91.2%, while COMP3600 (Advanced Topics in Algorithms) falls to 68.7% — a difference of 22.5 percentage points. This gap mainly stems from differing demands on **mathematical abstraction** and **programming proficiency**. In addition, the ANU course outlines explicitly state each course's "expected study time": for example, COMP2600 (Formal Languages and Automata) requires about 12 hours a week, while COMP3310 (Introduction to Network Security) needs only 8 hours. Together, this data forms the basis for the five tiers: Foundation (L1), Core (L2), Advanced (L3), High-Difficulty (L4), and Capstone (L5).
 
-### L1：基础入门层（第一学年）
+### L1: Foundation tier (first year)
 
-L1 层级包含 COMP1100（程序设计导论）、COMP1110（程序设计基础）与 MATH1005（离散数学）。这些课程**不设前置要求**，面向零编程基础学生。ANU 2024 年课程手册指出，COMP1110 的期末成绩中位数为 72 分（满分 100），属于全系最高区间之一。学生应在第一学期完成 COMP1100 与 MATH1005，随后在第二学期选修 COMP1110。过早同时注册三门 L1 课程可能导致**时间管理冲突**，因为 MATH1005 每周布置的习题集平均需要 6 小时完成。
+The L1 tier includes COMP1100 (Introduction to Programming), COMP1110 (Introduction to Programming), and MATH1005 (Discrete Mathematics). These courses **have no prerequisites** and are aimed at students with zero programming background. The ANU 2024 course handbook notes that the final grade median for COMP1110 is 72 out of 100, one of the highest ranges in the faculty. Students should complete COMP1100 and MATH1005 in the first semester, then take COMP1110 in the second semester. Enrolling in all three L1 courses at once too early can cause **time management conflicts**, since MATH1005's weekly problem sets take an average of 6 hours to complete.
 
-### L2：核心构建层（第一学年末至第二学年中）
+### L2: Core building tier (end of first year to mid-second year)
 
-L2 层级包括 COMP2100（软件构造）、COMP2300（计算机组织与架构）与 COMP2400（关系数据库）。这些课程要求先完成 COMP1110 或同等水平。ANU 2023 年学生调查显示，约 65% 的 L2 课程注册者同时选修了 STAT1008（统计建模），但 STAT1008 并非必修前置。**关键风险点**在于 COMP2300 包含硬件描述语言（VHDL）编程，与纯软件课程 COMP2100 的学习范式差异显著，同时注册这两门课会使每周实验时间超过 10 小时。建议将 COMP2100 与 COMP2400 安排在同一学期，将 COMP2300 单独放在下一学期。
+The L2 tier includes COMP2100 (Software Construction), COMP2300 (Computer Organisation and Architecture), and COMP2400 (Relational Databases). These courses require COMP1110 or equivalent to be completed first. A 2023 ANU student survey shows that about 65% of L2 enrollees also took STAT1008 (Statistical Modelling) at the same time, though STAT1008 is not a required prerequisite. The **key risk point** is that COMP2300 involves programming in a hardware description language (VHDL), which differs significantly from the learning paradigm of the pure-software COMP2100; enrolling in both at once pushes weekly lab time above 10 hours. It is recommended to pair COMP2100 with COMP2400 in the same semester and leave COMP2300 for the following semester on its own.
 
-## L3：进阶应用层（第二学年末至第三学年中）
+## L3: Advanced application tier (end of second year to mid-third year)
 
-L3 层级包含 COMP2550（软件工程）、COMP2600（形式语言与自动机）与 COMP2620（逻辑与计算）。这些课程是**专业方向分化的分水岭**，其中 COMP2600 被 ANU 计算机系列为“高难度课程”，2022 年该课程的补考率为 23.4%，远高于系平均水平 11.8%。学生必须在完成 MATH1005 与 COMP1110 后才能注册 COMP2600。**选课策略**上，应将 COMP2620 与 COMP2550 安排在同一学期，因为两者均侧重于理论证明，学习模式互补；而 COMP2600 需单独安排一个学期，并预留每周至少 14 小时的课外学习时间。
+The L3 tier includes COMP2550 (Software Engineering), COMP2600 (Formal Languages and Automata), and COMP2620 (Logic and Computation). These courses are the **watershed for specialisation**, and COMP2600 in particular is flagged by the ANU School of Computing as a "high-difficulty course": in 2022 its supplementary exam rate was 23.4%, far above the school average of 11.8%. Students must complete MATH1005 and COMP1110 before enrolling in COMP2600. As a **course selection strategy**, COMP2620 and COMP2550 should be placed in the same semester, since both focus on theoretical proof and their learning patterns complement each other; COMP2600 needs a semester of its own, with at least 14 hours of out-of-class study time reserved each week.
 
-### L3 内部的前置链管理
+### Managing the prerequisite chain within L3
 
-COMP2550 要求先完成 COMP2100，而 COMP2600 要求先完成 COMP1110 与 MATH1005。ANU 课程注册系统在 2024 年引入了**自动前置检查**，但仍有约 8% 的学生因手动选课错误而触发“课程冲突”警告。建议学生在每学期选课开放前（通常为学期第 8 周）使用 ANU 的“Degree Planner”工具模拟未来两个学期的选课组合，以避免 L3 课程因前置未修而被系统拒绝。
+COMP2550 requires COMP2100 to be completed first, while COMP2600 requires COMP1110 and MATH1005. The ANU course registration system introduced **automatic prerequisite checking** in 2024, but about 8% of students still trigger "course conflict" warnings through manual enrolment errors. Students are advised to use ANU's "Degree Planner" tool before enrolment opens each semester (usually in week 8) to simulate course combinations for the next two semesters, so that L3 courses are not rejected by the system for missing prerequisites.
 
-## L4：高难专业层（第三学年）
+## L4: High-difficulty professional tier (third year)
 
-L4 层级包括 COMP3600（算法高级专题）、COMP3620（人工智能导论）、COMP3300（操作系统实现）与 COMP3500（软件工程实践项目）。这些课程**平均每周学习时间**在 12 至 18 小时之间，且通常包含团队项目。ANU 2023 年《课程负荷报告》指出，同时注册两门 L4 课程的学生中，有 47% 在期中考试后报告“严重时间压力”。**核心建议**是每学期最多选修一门 L4 课程，并将 COMP3600 安排在第三学年第一学期，因为该课程是后续顶点课程（L5）的常见前置。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-computer-science-course-difficulty-tiers-a-practical-guide-to-sequencing-you) 等专业通道完成结汇。
+The L4 tier includes COMP3600 (Advanced Topics in Algorithms), COMP3620 (Introduction to Artificial Intelligence), COMP3300 (Operating System Implementation), and COMP3500 (Software Engineering Practice Project). These courses demand an **average weekly study time** of 12 to 18 hours and usually involve team projects. The ANU 2023 *Course Load Report* notes that of students enrolling in two L4 courses at once, 47% reported "severe time pressure" after midterms. The **core advice** is to take at most one L4 course per semester, and to schedule COMP3600 in the first semester of third year, since it is a common prerequisite for the capstone courses (L5) that follow. For cross-border tuition payments, some study-abroad families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-computer-science-course-difficulty-tiers-a-practical-guide-to-sequencing-you) to complete their currency transfers.
 
-### L4 课程的选择性策略
+### Selective strategy for L4 courses
 
-并非所有 L4 课程都要求严格的前置链。COMP3620 仅要求 COMP1110 与 MATH1005，因此可提前至第二学年末选修。但 COMP3300 要求先完成 COMP2300，且其项目工作量在系内被公认为最高——2022 年该课程的团队项目平均代码行数达 8,000 行。**数据表明**，在第二学年完成 COMP2300 的学生，在 COMP3300 中取得 Distinction（75 分以上）的概率比推迟至第三学年选修的学生高出 19 个百分点。
+Not every L4 course has a strict prerequisite chain. COMP3620 only requires COMP1110 and MATH1005, so it can be taken early, at the end of second year. But COMP3300 requires COMP2300 to be completed first, and its project workload is widely regarded as the heaviest in the school — the average team project in 2022 ran to 8,000 lines of code. **The data shows** that students who completed COMP2300 in second year were 19 percentage points more likely to achieve a Distinction (75 or above) in COMP3300 than those who delayed it to third year.
 
-## L5：顶点与研究层（第三学年末至第四学年）
+## L5: Capstone and research tier (end of third year to fourth year)
 
-L5 层级包含 COMP4500（高级软件工程）、COMP4600（算法与计算复杂性）以及荣誉年必修的 COMP8888（计算机科学研究项目）。这些课程通常**要求学生达到 65 分以上的加权平均分**才能注册。ANU 2024 年荣誉项目指南显示，COMP8888 的完成率约为 82%，主要障碍在于学生需要独立撰写一篇 12,000 字以上的技术报告。**时间规划**上，建议在第三学年第二学期完成 COMP4500 作为 L4 的收尾，随后在第四学年第一学期注册 COMP8888。若计划申请荣誉学位，应在第三学年第一学期结束前与导师确认研究方向，因为 COMP4600 的期末项目可转化为荣誉论文的初步章节。
+The L5 tier includes COMP4500 (Advanced Software Engineering), COMP4600 (Algorithms and Computational Complexity), and COMP8888 (Computer Science Research Project), which is compulsory in the honours year. These courses generally **require students to have a weighted average mark of 65 or above** to enrol. The ANU 2024 Honours Program Guide shows that the completion rate for COMP8888 is about 82%, with the main hurdle being the requirement to independently write a technical report of more than 12,000 words. For **timing**, it is recommended to complete COMP4500 in the second semester of third year as the wrap-up of L4, then enrol in COMP8888 in the first semester of fourth year. If you plan to apply for an honours degree, confirm your research direction with your supervisor before the end of the first semester of third year, because the final project of COMP4600 can be converted into the preliminary chapter of your honours thesis.
 
-### L5 与实习的兼容性
+### L5 and internship compatibility
 
-许多学生在 L5 学年同时进行实习（如 ANU 的“计算机科学实习项目”）。ANU 职业中心在 2023 年指出，全日制实习（每周 35 小时）与 COMP8888 同时进行时，学生的平均完成时间延长了 2.3 个月。**可行方案**是选择非全日制实习（每周 14 小时），或将实习安排在 L5 课程结束后的暑期（12 月至 2 月）。ANU 允许学生在实习期间申请“课程减负”，将学期学分从标准的 24 学分降至 18 学分。
+Many students do internships during their L5 year (such as ANU's "Computer Science Internship Program"). The ANU Careers Centre noted in 2023 that doing a full-time internship (35 hours a week) alongside COMP8888 extended students' average completion time by 2.3 months. A **workable option** is a part-time internship (14 hours a week), or scheduling the internship in the summer after the L5 courses end (December to February). ANU allows students to apply for a "reduced study load" during an internship, lowering the semester load from the standard 24 credit points to 18.
 
-## 学期负荷的量化管理框架
+## A quantitative framework for managing semester load
 
-ANU 每学期标准学分为 24 学分（通常为 4 门课程），但计算机系建议将**学分与预期学习时间**挂钩。根据 ANU 2024 年《课程负荷政策》，每学分对应约 10 小时总学习时间（含课堂、实验与自习）。因此，24 学分对应每周约 40 小时工作量。**风险阈值**出现在 L3 以上课程组合中：例如，同时注册 COMP2600（12 学分，每周 12 小时）、COMP2550（6 学分，每周 8 小时）与一门 L2 课程（6 学分，每周 6 小时），总每周工作量达 26 小时，尚在安全区间。但若替换一门 L4 课程（如 COMP3600，每周 18 小时），总工作量将升至 38 小时，接近全日制工作的上限。**实操建议**是使用 ANU 的“Workload Calculator”工具（位于 ISIS 系统内）输入每门课的官方学习时间，确保总每周时间不超过 35 小时。
+The standard ANU semester load is 24 credit points (usually 4 courses), but the School of Computing recommends tying **credit points to expected study time**. Under the ANU 2024 *Course Load Policy*, each credit point corresponds to about 10 hours of total study time (including classes, labs, and self-study). So 24 credit points means roughly 40 hours of work a week. The **risk threshold** appears in combinations of L3 and above: for example, enrolling in COMP2600 (12 credit points, 12 hours a week) plus COMP2550 (6 credit points, 8 hours a week) plus one L2 course (6 credit points, 6 hours a week) gives a total weekly workload of 26 hours, still within the safe zone. But swap in an L4 course instead (such as COMP3600, 18 hours a week) and the total rises to 38 hours, close to the ceiling of a full-time job. The **practical tip** is to use ANU's "Workload Calculator" tool (in the ISIS system) to enter each course's official study time and make sure the weekly total does not exceed 35 hours.
 
 ## FAQ
 
-### Q1：如果我在第一学期挂掉了 COMP1110，第二学期还能选 L2 课程吗？
+### Q1: If I fail COMP1110 in the first semester, can I still take L2 courses in the second semester?
 
-不能。COMP1110 是 COMP2100、COMP2300 与 COMP2400 的**直接前置课程**。ANU 2024 年学术政策规定，未通过前置课程的学生将被系统自动取消后续课程的注册资格。补救路径是在暑期学期（11 月至 2 月）重修 COMP1110，暑期学期该课程的通过率约为 74.5%，低于常规学期的 91.2%，但可确保在第二学年第一学期正常进入 L2 阶段。
+No. COMP1110 is a **direct prerequisite** for COMP2100, COMP2300, and COMP2400. Under ANU's 2024 academic policy, students who fail a prerequisite will have their enrolment in subsequent courses automatically cancelled by the system. The remedy is to retake COMP1110 in the summer semester (November to February); the pass rate for the summer offering is about 74.5%, lower than the regular semester's 91.2%, but it ensures you can enter the L2 stage normally in the first semester of second year.
 
-### Q2：我可以用 L4 课程替换 L3 课程来满足毕业要求吗？
+### Q2: Can I substitute L4 courses for L3 courses to meet my graduation requirements?
 
-部分可以，但需注意学分结构。ANU 计算机科学学士要求至少完成 48 学分的 3000 级以上课程。L4 课程（4000 级）可计入这 48 学分，但**不能替代** L3 的必修课 COMP2600 或 COMP2620。根据 2024 年课程手册，COMP2600 是唯一一门无替代选项的 L3 必修课。若试图用 COMP3600 替换 COMP2600，学位审核系统会标记为“必修未满足”，导致毕业延迟。
+Partially, but watch the credit structure. The ANU Bachelor of Computer Science requires at least 48 credit points of 3000-level or above courses. L4 courses (4000-level) count toward those 48 credit points, but **cannot replace** the L3 core courses COMP2600 or COMP2620. According to the 2024 course handbook, COMP2600 is the only L3 core course with no substitution option. If you try to swap COMP3600 in for COMP2600, the degree audit system will flag "core requirement not met", delaying graduation.
 
-### Q3：如何判断自己是否具备选修 L4 课程的能力？
+### Q3: How can I tell whether I am ready to take an L4 course?
 
-ANU 计算机系在 2023 年引入了一项**自评测试**，包含 20 道算法与离散数学选择题。该测试可在课程注册前通过 Wattle 平台完成。数据表明，得分在 15 分以上的学生在 L4 课程中取得 Pass 的概率为 89%，而得分低于 10 分的学生中仅有 52% 通过。建议学生在选修 COMP3600 前，先完成 COMP2600 并取得至少 65 分，因为 COMP2600 的期末成绩与 COMP3600 的期中成绩相关系数为 0.71（ANU 内部教学分析，2022）。
+In 2023 the ANU School of Computing introduced a **self-assessment test** containing 20 multiple-choice questions on algorithms and discrete mathematics. The test can be completed through the Wattle platform before course enrolment. The data shows that students scoring 15 or above have an 89% probability of passing L4 courses, while only 52% of those scoring below 10 pass. Students are advised to complete COMP2600 and score at least 65 before taking COMP3600, because the correlation coefficient between the final grade in COMP2600 and the midterm grade in COMP3600 is 0.71 (ANU internal teaching analysis, 2022).
 
-## 参考资料
+## References
 
-- 澳大利亚国立大学教学评估办公室 2023 《本科生成绩分布年度报告》
-- QS 世界大学排名 2024 《计算机科学与信息系统学科排名》
-- 澳大利亚国立大学学生会 2023 《课程负荷报告》
-- 澳大利亚国立大学计算机系 2024 《课程手册与前置要求》
-- Unilink Education 数据库 2024 《ANU 计算机科学选课模式分析》
+- Australian National University Teaching Evaluation Office 2023, *Annual Report on Undergraduate Grade Distribution*
+- QS World University Rankings 2024, *Computer Science and Information Systems Subject Rankings*
+- Australian National University Students' Association 2023, *Course Load Report*
+- Australian National University School of Computing 2024, *Course Handbook and Prerequisites*
+- Unilink Education Database 2024, *Analysis of ANU Computer Science Course Selection Patterns*

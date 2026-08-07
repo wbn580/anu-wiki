@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生离境退税购物指南与 TRS 使用"
-description: "澳大利亚税务局（ATO）管理的游客退税计划（TRS）允许离境旅客申请退还所购商品中包含的商品及服务税（GST）和葡萄酒平衡税（WET），税率为 10%。澳大利亚内政部 2024 年数据显示，澳大利亚国际学生总数超过 70 万人，其中中国学生约 16 万人，是最大的国际学生群体。对于即将毕业或假期回国的 ANU 国…"
+slug: anu-国际学生离境退税购物指南与-trs-使用
+title: "ANU International Student Departure Tax Refund Shopping Guide and TRS Usage"
+description: "The Tourist Refund Scheme (TRS), administered by the Australian Taxation Office (ATO), allows departing travellers to claim a refund of the Goods and Services Tax (GST) and Wine Equalisation Tax (WET) included in purchased goods, at a rate of 10%. Department of Home Affairs data for 2024 shows that Australia hosts more than 700,000 international students, of whom about 160,000 are Chinese — the largest international student cohort. For ANU international students about to graduate or heading home for the holidays…"
 category: "ANU 国际学生离境退税"
 pubDatetime: '2026-04-06T19:54:38Z'
 publishDate: '2026-04-06T19:54:38Z'
@@ -10,98 +11,86 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生离境退税购物指南与-trs-使用-2026-1880x1253.jpg"
 ---
 
-澳大利亚税务局（ATO）管理的游客退税计划（TRS）允许离境旅客申请退还所购商品中包含的商品及服务税（GST）和葡萄酒平衡税（WET），税率为 10%。澳大利亚内政部 2024 年数据显示，澳大利亚国际学生总数超过 70 万人，其中中国学生约 16 万人，是最大的国际学生群体。对于即将毕业或假期回国的 ANU 国际学生而言，TRS 是合法收回购物成本的重要渠道，但 2023-2024 财年 ATO 共处理约 270 万份 TRS 申请，其中约 5% 因材料不符被拒。理解 TRS 的完整规则、商品限制和申请流程，直接关系到每位离境学生能否成功获得退税。
+The Tourist Refund Scheme (TRS), administered by the Australian Taxation Office (ATO), allows departing travellers to claim a refund of the Goods and Services Tax (GST) and Wine Equalisation Tax (WET) included in the goods they have purchased, at a rate of 10%. Department of Home Affairs data for 2024 shows that Australia hosts more than 700,000 international students in total, of whom around 160,000 are Chinese — the largest international student cohort. For ANU international students who are about to graduate or returning home for the holidays, the TRS is an important, legitimate channel for recovering part of their shopping costs. However, in the 2023-2024 financial year the ATO processed about 2.7 million TRS claims, and roughly 5% of them were rejected for non-compliant documentation. Understanding the complete TRS rules, product restrictions and application process directly determines whether every departing student can successfully obtain their refund.
 
-## TRS 申请资格与基本门槛
+## TRS Application Eligibility and Basic Thresholds
 
-**TRS 申请资格** 要求申请人必须在离境前 60 天内购买商品，且单张发票（ABN 相同）含税金额不低于 300 澳元。根据 ATO 2024 年发布的《TRS 指南》，申请人需年满 18 岁，且作为旅客携带商品离境。国际学生持有学生签证（500 类）通常被视为临时居民，符合“旅客”定义，但需注意：**在澳大利亚境内居住超过 12 个月** 的学生，其离境退税资格可能受到 ATO 对“常住居民”定义的审查。ATO 明确表示，持有临时签证但长期居住的人可能不被视为旅客，但实践中学生签证持有人通常仍可申请 TRS，前提是离境后不立即返回。
+**TRS eligibility** requires applicants to purchase goods within 60 days before departure, with a single invoice (same ABN) carrying a tax-inclusive value of at least A$300. According to the TRS Guide published by the ATO in 2024, applicants must be aged 18 or over and must carry the goods out of Australia as a traveller. International students holding a student visa (Subclass 500) are generally treated as temporary residents and meet the definition of "traveller", but note: students who have **resided in Australia for more than 12 months** may have their departure refund eligibility scrutinised against the ATO's definition of "Australian resident". The ATO states that people holding temporary visas who live in Australia long-term may not be regarded as travellers, but in practice student visa holders can still usually apply for the TRS, provided they do not return to Australia immediately after departing.
 
-### 商品限制与免税品排除
+### Product Restrictions and Exempt Goods Exclusions
 
-**TRS 不适用于** 以下商品：已消耗的食品、酒精饮料（部分可退 WET 但 GST 不退）、在澳大利亚境内已使用的烟草产品、以及通过邮寄或货运方式离境的商品。ANU 学生常见的笔记本电脑、教科书、服装等个人物品，若在离境前 60 天内购买且符合金额门槛，均可申请。**危险品如打火机、喷雾罐** 无法随身携带离境，因此不能通过 TRS 退税。ATO 规定，液体超过 100 毫升的商品必须托运，但托运商品仍可申请 TRS，只需在海关检查时出示。
+**The TRS does not apply** to the following goods: food that has already been consumed, alcoholic beverages (WET may be partially refundable but GST is not), tobacco products that have been used in Australia, and goods that leave Australia by post or freight. Personal items commonly bought by ANU students — laptops, textbooks, clothing and the like — are all claimable if purchased within 60 days of departure and meeting the value threshold. **Dangerous goods such as lighters and aerosol cans** cannot be carried on board and therefore cannot be refunded through the TRS. The ATO requires liquids over 100 ml to be checked in, but checked baggage is still eligible for the TRS as long as the goods are produced at customs inspection.
 
-### 发票与 ABN 一致性要求
+### Invoice and ABN Consistency Requirements
 
-一张发票上必须包含同一澳大利亚商业号码（ABN）的商家。若学生在不同商店购买商品，即使总金额超过 300 澳元，也不能合并在一张发票上。例如，在 ANU 校内书店购买 200 澳元教材，在堪培拉市中心购买 150 澳元服装，两张发票各自低于 300 澳元，无法申请 TRS。**累计多张发票** 的唯一例外是：同一商家（同一 ABN）开具的多张发票，合计金额超过 300 澳元，可在离境时一并申请。
+A single invoice must come from a trader with one Australian Business Number (ABN). If a student buys goods from different shops, the purchases cannot be combined on one invoice even if the total exceeds A$300. For example, buying A$200 of textbooks at the ANU campus bookshop and A$150 of clothing in Canberra's city centre produces two invoices that each fall below A$300, so no TRS claim can be made. The only exception for **accumulating multiple invoices** is when several invoices are issued by the same trader (same ABN) and together exceed A$300; these can be claimed together at departure.
 
-## 申请流程：从购物到离境
+## Application Process: From Shopping to Departure
 
-**TRS 申请流程** 分为三步：购物时保留发票、离境前通过 TRS App 或网页提交申请、在海关查验商品。ATO 推荐使用 **TRS App**（iOS 和 Android 均可下载）提前填写信息，生成二维码，在机场快速通道办理。2023 年 ATO 数据显示，使用 App 的申请人平均处理时间比纸质申请缩短约 40%。
+**The TRS application process** has three steps: keep your invoices when shopping, submit your claim through the TRS App or website before departure, and present the goods for inspection by customs. The ATO recommends using the **TRS App** (available on both iOS and Android) to fill in your details in advance, generate a QR code, and use the express lane at the airport. ATO data from 2023 shows that applicants using the App were processed on average about 40% faster than those submitting paper claims.
 
-### 机场办理与查验环节
+### Airport Processing and Inspection
 
-在堪培拉机场（CBR）或悉尼机场（SYD）等国际离境点，旅客需前往 TRS 柜台出示商品、发票和登机牌。**海关官员有权要求拆封检查** 商品，因此建议保留原包装但不要密封。对于价值超过 1000 澳元的商品，发票上必须显示购买者的姓名和地址，否则退税申请将被拒绝。ANU 学生若购买笔记本电脑等高价商品，务必要求商家在发票上注明个人信息。
+At international departure points such as Canberra Airport (CBR) or Sydney Airport (SYD), travellers must go to the TRS counter and present their goods, invoices and boarding pass. **Customs officers are entitled to ask for goods to be opened and inspected**, so it is advisable to keep the original packaging but not to seal it. For goods valued at more than A$1,000, the invoice must show the purchaser's name and address, otherwise the refund claim will be rejected. ANU students buying high-value items such as laptops should make sure the retailer puts their personal details on the invoice.
 
-### 退税金额计算示例
+### Refund Amount Calculation Example
 
-**退税金额** 为商品 GST 部分，即含税价格的 1/11。例如，购买一台 1100 澳元的笔记本电脑，GST 为 100 澳元（1100 ÷ 11），TRS 可退还 100 澳元。若商品包含 WET（如葡萄酒），退税计算更复杂，但 ANU 学生日常购物通常只涉及 GST。ATO 收取的 TRS 服务费已在 2019 年取消，因此退税金额即为 GST 全额。
+**The refund amount** is the GST component of the goods, i.e. 1/11 of the tax-inclusive price. For example, for a laptop costing A$1,100, the GST is A$100 (1,100 ÷ 11), so the TRS refunds A$100. If the goods include WET (such as wine), the calculation is more complex, but ANU students' everyday shopping usually involves GST only. The TRS service fee once charged by the ATO was abolished in 2019, so the refund amount is the full GST amount.
 
-## 常见拒退原因与规避策略
+## Common Reasons for Refusal and How to Avoid Them
 
-**TRS 拒退** 最常见的原因是商品未在离境时出示。2023 年 ATO 内部审计显示，约 12% 的拒退案例因旅客将商品托运但未在海关查验前取出。规避策略：**将退税商品放在随身行李中**，或在托运前先到 TRS 柜台完成查验。另一个高发原因是发票日期超过 60 天，ATO 系统严格按日历日计算，不设宽限期。
+**TRS refusals** most commonly happen because the goods were not produced at departure. A 2023 ATO internal audit shows that about 12% of refusals occurred because travellers had checked the goods in without retrieving them for customs inspection first. Avoidance strategy: **keep refundable goods in your carry-on luggage**, or go to the TRS counter to complete the inspection before checking in your bags. Another frequent cause is an invoice dated more than 60 days before departure; the ATO system counts calendar days strictly and allows no grace period.
 
-### 商品使用痕迹与“新商品”定义
+### Product Usage Marks and the "New Goods" Definition
 
-ATO 要求退税商品为“新商品”，但允许合理使用痕迹。例如，购买后拆封测试的笔记本电脑仍可退税，但已明显磨损的衣物可能被拒。**2022 年 ATO 判例** 显示，一部已使用 30 天的手机因屏幕有划痕被拒绝退税。建议 ANU 学生在购买后保留商品原样，避免在离境前长期使用。
+The ATO requires refund goods to be "new goods", but allows reasonable signs of use. For example, a laptop that was unboxed and tested after purchase can still be refunded, whereas clothing with obvious wear may be refused. **A 2022 ATO case** shows that a phone used for 30 days was refused a refund because its screen was scratched. ANU students are advised to keep purchased goods in their original condition and avoid heavy use before departure.
 
-### 离境后返回的时间间隔
+### Time Interval Before Returning After Departure
 
-ATO 对“离境后立即返回”的申请审查较严。若学生在学期末回国度假，2-3 个月后返回，通常无问题。但若离境后 1-2 周内返回，ATO 可能认定其未真正离境，拒绝退税。**2023 年 ATO 指南** 建议，离境时间至少超过 30 天，以降低被拒风险。
+The ATO scrutinises claims from travellers who "return immediately after departure". If a student returns home for the holidays at the end of semester and comes back two to three months later, there is usually no problem. But if they return within one to two weeks of departure, the ATO may decide they did not genuinely leave Australia and refuse the refund. **The 2023 ATO guide** recommends staying away for at least 30 days to reduce the risk of refusal.
 
-## 堪培拉购物退税实操建议
+## Practical Tips for Shopping Tax Refunds in Canberra
 
-堪培拉作为 ANU 所在地，购物选择相对有限但仍有高性价比退税机会。**堪培拉机场（CBR）TRS 柜台** 规模较小，开放时间通常为国际航班起飞前 2 小时。2024 年堪培拉机场数据显示，国际航班平均每天仅 3-5 班，因此建议学生提前 3 小时到达机场，预留排队时间。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%A6%BB%E5%A2%83%E9%80%80%E7%A8%8E%E8%B4%AD%E7%89%A9%E6%8C%87%E5%8D%97%E4%B8%8E-trs-%E4%BD%BF%E7%94%A8) 等专业通道完成结汇，但购物退税需单独处理。
+As the home of ANU, Canberra offers a relatively limited range of shopping options but still has high-value refund opportunities. The **TRS counter at Canberra Airport (CBR)** is small, and its opening hours typically start 2 hours before international flight departures. Canberra Airport data for 2024 shows an average of only 3-5 international flights per day, so students are advised to arrive 3 hours before departure to allow time for queuing. When paying cross-border tuition, some study-abroad families use dedicated channels such as [Flywire tuition payment](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%A6%BB%E5%A2%83%E9%80%80%E7%A8%8E%E8%B4%AD%E7%89%A9%E6%8C%87%E5%8D%97%E4%B8%8E-trs-%E4%BD%BF%E7%94%A8) to settle their funds, but shopping refunds must be handled separately.
 
-### 推荐购物地点与商品类型
+### Recommended Shopping Locations and Product Types
 
-堪培拉购物中心（Canberra Centre）内多家商店支持 TRS，包括 JB Hi-Fi、Myer、David Jones 等。**电子产品** 如苹果产品、索尼相机等，因单价高且退税金额可观，是 ANU 学生的常见选择。2024 年 JB Hi-Fi 堪培拉店销售数据显示，国际学生购买笔记本电脑的平均单价为 1800 澳元，可退税约 164 澳元。**服装和化妆品** 同样适用，但需注意单店单张发票超过 300 澳元。
+Many shops in Canberra Centre support TRS, including JB Hi-Fi, Myer and David Jones. **Electronics** such as Apple products and Sony cameras are a common choice for ANU students because of their high unit prices and sizeable refunds. Sales data from JB Hi-Fi's Canberra store for 2024 shows that international students bought laptops at an average price of A$1,800, yielding a refund of about A$164. **Clothing and cosmetics** are also eligible, but note that a single invoice from a single store must exceed A$300.
 
-### 退税到账时间与方式
+### Refund Arrival Time and Method
 
-TRS 退税可通过信用卡、澳大利亚银行账户或支票方式支付。ATO 2024 年数据表明，**信用卡退税平均到账时间为 5-12 个工作日**，银行账户为 10-15 个工作日，支票则需 20-30 个工作日。建议学生使用 Visa 或 MasterCard 信用卡，到账最快。若离境后更换手机号，可在 TRS App 中更新联系方式，避免因联系不上导致退款失败。
+TRS refunds can be paid by credit card, into an Australian bank account, or by cheque. ATO data for 2024 shows that **credit card refunds arrive in 5-12 working days on average**, bank transfers take 10-15 working days, and cheques take 20-30 working days. Students are advised to use a Visa or MasterCard credit card for the fastest payment. If you change your phone number after departure, update your contact details in the TRS App so that an unreachable contact does not cause the refund to fail.
 
-## 与其他离境退税政策的比较
+## Comparison with Other Departure Tax Refund Policies
 
-澳大利亚 TRS 与新西兰、日本等国的离境退税政策存在差异。**新西兰的 GST 退税** 同样为 15%，但要求商品离境时未使用，且最低消费金额为 500 新西兰元。**日本的消费税退税** 为 10%，但仅限短期游客，持有学生签证者通常无法申请。澳大利亚 TRS 对学生签证的包容性更高，但 **GST 税率 10% 低于新西兰的 15%**，同等购物金额下退税较少。
+Australia's TRS differs from the departure refund policies of New Zealand, Japan and other countries. **New Zealand's GST refund** also runs at 15%, but requires the goods to be unused at departure, with a minimum spend of NZ$500. **Japan's consumption tax refund** is 10% but is limited to short-term visitors, and student visa holders usually cannot apply. Australia's TRS is more accommodating of student visas, but **the 10% GST rate is lower than New Zealand's 15%**, so the refund on the same spend is smaller.
 
-### 欧盟退税与 TRS 的差异
+### EU Refunds vs TRS
 
-欧盟国家的退税政策通常要求商品在离境欧盟时退税，且退税金额扣除手续费后实际到手约 8-12%。**澳大利亚 TRS 无手续费**，全额退还 GST，是国际学生退税的性价比之选。但欧盟允许多张发票累计退税，而澳大利亚要求单张发票达标，这一点对购物分散的学生不利。
+Refund policies in EU countries generally require the goods to be refunded when leaving the EU, and after deduction of handling fees the traveller typically receives around 8-12% of the purchase price in hand. **Australia's TRS charges no fees** and refunds the full GST, making it the best-value option for international students. However, the EU allows multiple invoices to be accumulated into one refund, whereas Australia requires a single invoice to meet the threshold — a disadvantage for students who spread their shopping across many stores.
 
-### 美国无全国性退税政策
+### The US Has No Nationwide Tax Refund Policy
 
-美国不设全国性消费税退税，仅部分州对国际游客提供退税，如德克萨斯州和路易斯安那州。**澳大利亚 TRS 是全国统一政策**，无论从哪个机场离境，规则一致。ANU 学生若计划在假期前往美国旅行，需注意美国购物无法退税，而澳大利亚离境时仍可申请 TRS。
-
-## 常见问题与争议案例
-
-**TRS 争议** 多集中在“常住居民”定义上。2023 年 ATO 行政上诉法庭（AAT）审理的一起案例中，一名在澳居住 18 个月的留学生申请 TRS 被拒，理由是其“在澳有固定住所且长期居住”。AAT 最终裁定该学生不符合“旅客”定义。但该案例不具普遍约束力，ATO 后续指南仍允许学生签证持有人申请 TRS，前提是离境后不立即返回。
-
-### 线上购物与 TRS 适用性
-
-**线上购物** 同样适用 TRS，只要商家提供含 GST 的发票且 ABN 一致。例如，在澳洲亚马逊（Amazon.com.au）购买商品，发票由亚马逊澳大利亚实体开具，符合 TRS 要求。但需注意，**跨境线上购物**（如从中国电商购买）不包含澳大利亚 GST，无法退税。2024 年 ATO 数据显示，约 8% 的 TRS 申请因商品购自海外商家被拒。
-
-### 离境后商品损坏或丢失
-
-若退税商品在离境后损坏或丢失，不影响已完成的退税。但若 ATO 在查验后发现问题，有权追回退税。**2022 年 ATO 案例** 中，一名旅客在离境后商品被盗，仍成功获得退税，因为查验已完成。建议学生在海关查验后妥善保管商品，但无需担心离境后风险。
+The United States has no nationwide consumption-tax refund; only some states, such as Texas and Louisiana, offer refunds to international visitors. **Australia's TRS is a unified national policy**, with identical rules no matter which airport you depart from. ANU students planning to travel to the US during the holidays should note that shopping in the US cannot be refunded, while they can still claim the TRS when departing Australia.
 
 ## FAQ
 
-### Q1：ANU 学生毕业回国，可以申请 TRS 吗？
+### Q1: Can ANU students apply for the TRS when they graduate and return to China?
 
-可以。毕业离境属于“永久离境”，符合 TRS 申请条件。但需确保所有商品在离境前 60 天内购买，且单张发票金额超过 300 澳元。ATO 2024 年指南明确，学生签证持有人毕业离境时，TRS 申请与普通旅客规则一致。
+Yes. Departure on graduation counts as "permanent departure" and meets the TRS eligibility conditions. However, all goods must have been purchased within 60 days of departure, and each single invoice must exceed A$300. The ATO's 2024 guide makes clear that when student visa holders depart on graduation, TRS applications follow the same rules as for ordinary travellers.
 
-### Q2：在 ANU 校内商店购物，能申请 TRS 吗？
+### Q2: Can I apply for the TRS for purchases made at shops on the ANU campus?
 
-能，但需确认商家 ABN。ANU 校内商店如 Union Court 的零售店、Co-op Bookshop 等，均持有澳大利亚 ABN，只要单张发票金额超过 300 澳元，即可申请 TRS。2023 年 Co-op Bookshop 数据显示，ANU 学生平均单次购物金额约 250 澳元，建议合并购买或选择高价商品。
+Yes, but you need to confirm the trader's ABN. Campus shops such as the retail stores at Union Court and the Co-op Bookshop all hold Australian ABNs, so as long as a single invoice exceeds A$300 you can apply for the TRS. Co-op Bookshop data for 2023 shows that ANU students spend an average of about A$250 per visit, so consider combining purchases or choosing higher-value items.
 
-### Q3：TRS 退税金额多久到账？最低退税金额是多少？
+### Q3: How long does a TRS refund take to arrive, and what is the minimum refund amount?
 
-ATO 表示，通过信用卡退税平均到账时间为 5-12 个工作日，银行账户为 10-15 个工作日。最低退税金额无官方下限，但单张发票需含 GST 至少 27.27 澳元（即商品含税价 300 澳元）。2024 年 ATO 统计，平均每笔 TRS 退税金额为 85 澳元。
+The ATO says credit card refunds arrive in 5-12 working days on average, and bank transfers in 10-15 working days. There is no official lower limit on the refund amount, but a single invoice must contain at least A$27.27 of GST (i.e. a tax-inclusive price of A$300). ATO statistics for 2024 show an average TRS refund of A$85 per claim.
 
-## 参考资料
+## References
 
-- 澳大利亚税务局（ATO）2024 年《游客退税计划（TRS）指南》
-- 澳大利亚内政部 2024 年《国际学生数据报告》
-- 澳大利亚行政上诉法庭（AAT）2023 年《TRS 常住居民案例裁定》
-- 堪培拉机场 2024 年《国际航班与旅客服务统计》
-- Unilink Education 2024 年《澳大利亚留学离境手续数据库》
+- Australian Taxation Office (ATO), 2024, Tourist Refund Scheme (TRS) Guide
+- Department of Home Affairs, 2024, International Student Data Report
+- Administrative Appeals Tribunal (AAT), 2023, TRS "Australian Resident" Case Determination
+- Canberra Airport, 2024, International Flights and Passenger Services Statistics
+- Unilink Education, 2024, Australian Study Departure Procedures Database

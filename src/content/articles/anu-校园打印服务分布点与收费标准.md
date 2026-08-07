@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园打印服务分布点与收费标准"
-description: "截至2025年第二季度，澳大利亚国立大学（ANU）在校园内共部署了超过 **60 台多功能打印设备**，覆盖 **7 个主要教学与公共区域**，为学生和教职员工提供统一的打印、复印与扫描服务。根据 ANU 信息技术服务部（ITS）2024年发布的《校园打印服务指南》，校内打印系统采用 **PaperCut 软件平…"
+slug: anu-校园打印服务分布点与收费标准
+title: "ANU Campus Printing Service Locations and Fees"
+description: "As of Q2 2025, the Australian National University (ANU) has deployed more than **60 multifunction printing devices** across campus, covering **7 major teaching and public areas**, providing students and staff with unified printing, copying and scanning services. According to the *Campus Print Services Guide* released by ANU Information Technology Services (ITS) in 2024, the campus printing system runs on the **PaperCut software pla…"
 category: "ANU 校园打印服务分布"
 pubDatetime: '2026-03-06T19:48:22Z'
 publishDate: '2026-03-06T19:48:22Z'
@@ -8,94 +9,96 @@ readingTime: 12
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园打印服务分布点与收费标准-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-截至2025年第二季度，澳大利亚国立大学（ANU）在校园内共部署了超过 **60 台多功能打印设备**，覆盖 **7 个主要教学与公共区域**，为学生和教职员工提供统一的打印、复印与扫描服务。根据 ANU 信息技术服务部（ITS）2024年发布的《校园打印服务指南》，校内打印系统采用 **PaperCut 软件平台**，支持学生卡刷卡取件与云端提交作业。该服务由 ANU ITS 统一运营，收费标准依据澳大利亚统计局（ABS）2024年教育类消费价格指数（CPI）调整，黑白单面打印每页为 **0.10 澳元**，彩色单面打印每页为 **0.50 澳元**。随着 2025 学年学术日历的推进，新生与返校学生均需熟悉这些分布点与计费规则，以优化学习期间的文档处理成本。
+As of the second quarter of 2025, the Australian National University (ANU) has deployed more than **60 multifunction printing devices** across campus, covering **7 major teaching and public areas**, to provide students and staff with a unified printing, copying and scanning service. According to the *Campus Print Services Guide* released by ANU Information Technology Services (ITS) in 2024, the campus printing system is built on the **PaperCut software platform**, supporting card-based job release at the device and cloud submission of assignments. The service is operated centrally by ANU ITS, and fees are adjusted in line with the education Consumer Price Index (CPI) published by the Australian Bureau of Statistics (ABS) in 2024: black-and-white single-sided printing costs **A$0.10 per page** and colour single-sided printing **A$0.50 per page**. As the 2025 academic calendar moves forward, both new and returning students need to be familiar with these locations and billing rules to optimise document-processing costs throughout their studies.
 
-## 主校区打印分布点
+## Main Campus Printing Locations
 
-ANU 的主校区 Acton Campus 是打印服务最密集的区域，所有设备均支持 24 小时自助服务。**Chifley Library** 是最大的打印节点，一层与二层共部署 **8 台多功能设备**，包括 4 台黑白打印机与 4 台彩色打印机。该图书馆的打印区还配备 2 台 **A3 幅面扫描仪**，支持 PDF 与 JPEG 格式输出。**Hancock Library** 设有 5 台设备，其中 1 台为高速黑白打印机，每分钟输出 **45 页**。**J.B. Chifley Building** 的学术技能中心（Academic Skills Centre）额外提供 2 台专用打印机，供预约辅导课程的学生使用。
+ANU's main Acton Campus is the most densely served area for printing, and all devices offer 24-hour self-service. **Chifley Library** is the largest printing node, with **8 multifunction devices** across levels 1 and 2, including 4 black-and-white printers and 4 colour printers. The library's printing area also has 2 **A3 flatbed scanners** supporting PDF and JPEG output. **Hancock Library** has 5 devices, one of which is a high-speed black-and-white printer producing **45 pages per minute**. The Academic Skills Centre in the **J.B. Chifley Building** provides an additional 2 dedicated printers for students attending booked tutoring sessions.
 
-### 教学楼的补充节点
+### Supplementary Nodes in Teaching Buildings
 
-在 **Marie Reay Teaching Centre**（MRTC）的 G 层与 L1 层，共部署 6 台打印机，主要服务大课教室与自习区。MRTC 的打印点支持 **无线提交**，学生可通过 PaperCut Mobile 应用从笔记本电脑直接发送任务，无需连接校园有线网络。**Coombs Building** 的公共走廊设有 3 台设备，覆盖社会科学与人文学院的学生需求。**Peter Baume Building** 的 2 台打印机专为法学院学生保留，需使用法学院学生卡权限解锁。
+The **Marie Reay Teaching Centre** (MRTC) has 6 printers on the G and L1 levels, mainly serving large lecture theatres and self-study areas. The MRTC printing points support **wireless submission**: students can send jobs directly from their laptops through the PaperCut Mobile app without connecting to the campus wired network. The public corridor of the **Coombs Building** has 3 devices, covering students in the social sciences and humanities. The 2 printers in the **Peter Baume Building** are reserved for law students and must be unlocked with a law school student card.
 
-### 宿舍区的有限覆盖
+### Limited Coverage in Residential Halls
 
-ANU 的 10 个住宿学院中，仅有 **Bruce Hall** 与 **Ursula Hall** 的公共休息室各配备 1 台黑白打印机。这些设备仅支持 **刷卡取件**，且每日打印上限为 **50 页**，超出部分需前往主图书馆完成。根据 ANU 住宿服务处 2024 年统计，约 35% 的住宿学生选择在宿舍区打印，但 60% 以上的打印任务仍集中在图书馆。
+Of ANU's 10 residential halls, only **Bruce Hall** and **Ursula Hall** each have 1 black-and-white printer in their common rooms. These devices support **card-release printing only**, with a daily limit of **50 pages**; anything beyond that must be printed at the main library. According to ANU Accommodation Services 2024 statistics, about 35% of residential students print within their halls, but more than 60% of print jobs are still concentrated in the libraries.
 
-## 收费标准与账户充值
+## Fees and Account Top-Up
 
-ANU 打印系统的费用结构由 ITS 统一制定，并定期根据运营成本调整。黑白打印的标准费率为 **每页 0.10 澳元**，双面打印（黑白）为 **每页 0.08 澳元**。彩色打印每页 **0.50 澳元**，双面彩色为 **0.40 澳元**。扫描服务完全免费，但输出文件大小限制为 **每份 50 MB**。复印功能与打印同价，但需通过设备触摸屏直接操作，不支持远程提交。
+ANU's printing fee structure is set centrally by ITS and adjusted periodically against operating costs. The standard rate for black-and-white printing is **A$0.10 per page**; duplex (black-and-white) printing is **A$0.08 per page**. Colour printing costs **A$0.50 per page**, and duplex colour **A$0.40 per page**. Scanning is completely free, but output files are limited to **50 MB per job**. Copying is priced the same as printing but must be operated directly on the device touchscreen; remote submission is not supported.
 
-### 账户充值方式
+### Topping Up Your Account
 
-学生需通过 ANU 学生门户网站的 **ePay 系统** 为打印账户充值，最低充值额为 **5 澳元**，单次最高为 **200 澳元**。充值后余额即时生效，并可在 PaperCut 网页界面查看交易记录。2024 年 ITS 数据显示，每位学生每学期平均打印支出约为 **12.50 澳元**，其中约 70% 用于黑白打印。未使用的余额在毕业时可申请退还，但需扣除 **2.50 澳元** 的手续费。
+Students top up their printing accounts through the **ePay system** in the ANU student portal. The minimum top-up is **A$5** and the maximum per transaction is **A$200**. Funds are available immediately after top-up, and transaction history can be viewed in the PaperCut web interface. ITS 2024 data shows that the average student spends about **A$12.50** per semester on printing, roughly 70% of which is black-and-white. Unused balances can be refunded at graduation, subject to a **A$2.50** handling fee.
 
-### 免费打印额度与限制
+### Free Printing Allowances and Limits
 
-部分学院为研究生提供每学期 **20 澳元** 的免费打印额度，涵盖在学费或研究经费中。例如，工程与计算机科学学院（CECS）为博士候选人提供每年 **100 澳元** 的打印补贴，需通过学院管理员申请。本科生不享有自动免费额度，但参与特定课程（如设计或建筑学）的学生可凭课程代码获得 **30 澳元** 的临时额度，有效期为一个学期。
+Some colleges give postgraduate students a free printing allowance of **A$20 per semester**, funded through tuition fees or research grants. For example, the College of Engineering and Computer Science (CECS) offers PhD candidates an annual printing subsidy of **A$100**, applied for through the college administrator. Undergraduates do not receive an automatic free allowance, but students enrolled in specific courses (such as design or architecture) can get a temporary **A$30** allowance by quoting their course code, valid for one semester.
 
-## 软件与提交方式
+## Software and Submission Methods
 
-所有 ANU 打印设备均运行 **PaperCut 22.0 版本**，支持 Windows、macOS 与 Linux 系统。学生可通过三种方式提交打印任务：**校园有线网络提交**（需连接 ANU-Secure Wi-Fi）、**PaperCut Mobile 应用**（iOS 与 Android 平台）以及 **电子邮件提交**（将文档发送至 studentnumber@print.anu.edu.au）。电子邮件提交功能自 2023 年启用，支持 PDF、Word 与图片格式，附件大小上限为 **20 MB**。
+All ANU printing devices run **PaperCut version 22.0**, with support for Windows, macOS and Linux. Students can submit print jobs in three ways: **over the campus wired network** (requiring connection to ANU-Secure Wi-Fi), **via the PaperCut Mobile app** (iOS and Android), and **by email** (sending documents to studentnumber@print.anu.edu.au). Email submission has been available since 2023 and supports PDF, Word and image formats, with an attachment size limit of **20 MB**.
 
-### 云端打印与远程提交
+### Cloud Printing and Remote Submission
 
-PaperCut Mobile 应用允许学生在校园外提前提交任务，到达打印机后通过学生卡或 PIN 码释放。该功能支持 **Google Drive**、**OneDrive** 与 **Dropbox** 的文档直接导入，无需下载至本地设备。根据 ITS 2024 年使用报告，约 45% 的打印任务通过移动应用提交，其中 **30%** 来自校外 IP 地址。对于跨境学生，在抵达校园前即可通过该应用完成作业打印准备。
+The PaperCut Mobile app lets students submit jobs in advance from off campus and release them at the printer using their student card or a PIN. The feature supports direct import of documents from **Google Drive**, **OneDrive** and **Dropbox**, with no need to download them to a local device. According to the ITS 2024 usage report, about 45% of print jobs are submitted through the mobile app, of which **30%** come from off-campus IP addresses. For cross-border students, assignments can be print-ready through the app before they even set foot on campus.
 
-### 打印队列管理
+### Managing the Print Queue
 
-在设备触摸屏上，学生可查看当前打印队列、删除未释放的任务或调整打印份数。每个账户最多可同时保留 **50 个未释放任务**，超出后新任务将被拒绝。任务在打印机中保留 **24 小时**，超时后自动删除且不扣费。ITS 建议学生在高峰时段（上午 10 点至下午 2 点）提前提交任务，避免设备排队。
+On the device touchscreen, students can view the current print queue, delete unreleased jobs or adjust the number of copies. Each account can hold up to **50 unreleased jobs** at any one time; new jobs are rejected once the limit is reached. Jobs are retained on the printer for **24 hours** and are deleted automatically after that without charge. ITS recommends submitting jobs early during peak periods (10:00 am to 2:00 pm) to avoid queues at the devices.
 
-## 故障排除与技术支持
+## Troubleshooting and Technical Support
 
-若设备出现卡纸、缺墨或网络故障，学生可通过设备触摸屏上的 **“报告问题”** 按钮直接向 ITS 发送工单。ITS 承诺在 **2 个工作小时内** 响应紧急故障，非紧急问题在 **24 小时内** 处理。2024 年 ITS 年度报告显示，校园打印机平均故障间隔时间（MTBF）为 **720 小时**，低于行业平均的 500 小时，归因于定期维护合同。
+If a device jams, runs out of toner or suffers a network fault, students can raise a ticket directly with ITS using the **"Report a Problem" button** on the device touchscreen. ITS commits to responding to urgent faults within **2 business hours** and to non-urgent issues within **24 hours**. The ITS 2024 annual report shows that campus printers have a mean time between failures (MTBF) of **720 hours**, better than the industry average of 500 hours, thanks to the scheduled maintenance contract.
 
-### 自助维修指南
+### Self-Service Repair Guide
 
-在设备触摸屏的“帮助”菜单中，内置了 **12 种常见故障的图文指南**，包括如何清除卡纸、更换墨盒与重启设备。ITS 还提供 **远程重启功能**，学生可拨打 **6125 9999** 请求远程重置。对于连续三次打印失败的文档，系统会自动发送电子邮件通知学生，并附上失败原因代码（如“纸张尺寸不匹配”或“文件损坏”）。
+The "Help" menu on the device touchscreen includes illustrated guides for **12 common faults**, covering how to clear paper jams, replace toner cartridges and restart the device. ITS also offers a **remote restart function**: students can call **6125 9999** to request a remote reset. If a document fails to print three times in a row, the system automatically emails the student with the failure reason code (such as "paper size mismatch" or "corrupted file").
 
-### 跨校区打印限制
+### Printing Restrictions at Other Campuses
 
-ANU 在 Acton 校区外的 **Kioloa Coastal Campus** 与 **Siding Spring Observatory** 未部署标准打印设备。这些校区的学生需提前在 Acton 校区打印所需文档，或使用当地商业打印服务（如 Kioloa 社区中心的打印点，每页收费 0.20 澳元）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E6%89%93%E5%8D%B0%E6%9C%8D%E5%8A%A1%E5%88%86%E5%B8%83%E7%82%B9%E4%B8%8E%E6%94%B6%E8%B4%B9%E6%A0%87%E5%87%86) 等专业通道完成结汇，但打印服务本身不涉及国际支付。
+ANU has not deployed standard printing devices at its campuses outside Acton — **Kioloa Coastal Campus** and **Siding Spring Observatory**. Students at these locations need to print their documents in advance at Acton, or use local commercial printing services (such as the print point at the Kioloa community centre, which charges A$0.20 per page). When paying cross-border tuition fees, some international families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E6%89%93%E5%8D%B0%E6%9C%8D%E5%8A%A1%E5%88%86%E5%B8%83%E7%82%B9%E4%B8%8E%E6%94%B6%E8%B4%B9%E6%A0%87%E5%87%86) to complete the currency transfer, although the printing service itself does not involve international payments.
 
-## 环保与可持续措施
+## Environmental and Sustainability Measures
 
-ANU 打印服务遵循校园可持续发展框架，所有设备均使用 **100% 再生纸**（由 Officeworks 供应，FSC 认证）。2024 年 ITS 数据显示，校园打印总量为 **1,200,000 页**，较 2019 年下降 18%，归因于双面打印默认设置与数字提交推广。设备默认设置为 **双面打印**、**黑白模式**，学生需手动更改为单面或彩色。每个打印点旁设有 **墨盒回收箱**，由 Close the Loop 公司每两周回收一次。
+ANU's printing service follows the campus sustainability framework, and all devices use **100% recycled paper** (supplied by Officeworks, FSC certified). ITS 2024 data shows total campus printing of **1,200,000 pages**, down 18% from 2019, driven by default duplex printing and the push toward digital submission. Devices default to **duplex printing** and **black-and-white mode**; students must manually switch to single-sided or colour. Every print point has a **toner cartridge recycling bin**, collected fortnightly by Close the Loop.
 
-### 碳足迹补偿计划
+### Carbon Footprint Offset Program
 
-自 2023 年起，每页打印费用中包含 **0.01 澳元** 的碳补偿税，由 ANU 环境办公室汇入 **Greenfleet 碳汇项目**。2024 年该项目共筹集 **12,000 澳元**，用于在澳大利亚东南部种植 **4,000 棵本土树木**。学生可在 PaperCut 账户页面查看个人打印碳足迹，以千克二氧化碳当量（kg CO₂e）显示。ITS 计划在 2026 年前将彩色打印比例降至总打印量的 **10%** 以下。
+Since 2023, each printed page has included a **A$0.01** carbon offset levy, remitted by the ANU Environment Office to the **Greenfleet carbon sink project**. In 2024 the program raised **A$12,000**, funding the planting of **4,000 native trees** in south-eastern Australia. Students can view their personal printing carbon footprint on their PaperCut account page, displayed in kilograms of carbon dioxide equivalent (kg CO₂e). ITS plans to reduce colour printing to below **10%** of total volume by 2026.
 
-### 数字替代方案
+### Digital Alternatives
 
-ANU 鼓励学生使用 **Turnitin 数字批改**、**OneNote 课堂笔记** 与 **Adobe Acrobat 电子签名** 减少纸质需求。自 2024 年起，所有本科课程作业均接受纯电子提交，仅部分设计类课程要求实物打印。ITS 与图书馆合作，在 Chifley Library 提供 **5 台扫描仪**，供学生免费将纸质文档转为数字格式，扫描分辨率最高为 **600 dpi**。
+ANU encourages students to use **Turnitin digital marking**, **OneNote for class notes** and **Adobe Acrobat e-signatures** to reduce paper demand. Since 2024, all undergraduate coursework is accepted in electronic form only; only some design courses still require physical printouts. ITS works with the library to provide **5 scanners** at Chifley Library, free for students to digitise paper documents at resolutions up to **600 dpi**.
 
-## 学期高峰期的使用策略
+## Strategies for the Peak Period of Semester
 
-在每学期最后两周的考试与论文提交高峰期，打印需求激增。根据 ITS 2024 年数据，高峰期每日打印量可达 **8,000 页**，是平时的 3 倍。Chifley Library 的打印点平均等待时间为 **12 分钟**，而 Hancock Library 仅为 **5 分钟**。学生可提前通过 PaperCut 网页查看各设备的实时队列长度，选择等待时间最短的节点。
+Print demand surges in the final two weeks of each semester, when exams and essay deadlines coincide. According to ITS 2024 data, daily print volume can reach **8,000 pages** during peak periods — three times the normal level. The average wait at Chifley Library's print points is **12 minutes**, while Hancock Library averages just **5 minutes**. Students can check real-time queue lengths at each device in advance through the PaperCut web portal and pick the node with the shortest wait.
 
-### 错峰打印建议
+### Printing Off-Peak
 
-ITS 建议学生在 **上午 8 点前** 或 **晚上 8 点后** 使用打印机，避开上午 10 点至下午 2 点的高峰时段。此外，**J.B. Chifley Building** 的打印点通常较少人使用，因其位于教学区而非图书馆。对于超过 **50 页** 的文档，ITS 推荐使用 **批量提交** 功能，将任务拆分为多个小批次，避免单次占用设备过久。
+ITS recommends printing **before 8:00 am** or **after 8:00 pm** to avoid the 10:00 am to 2:00 pm peak window. In addition, the print points in the **J.B. Chifley Building** tend to be less busy because they sit in the teaching zone rather than the library. For documents over **50 pages**, ITS recommends the **batch submission** feature, splitting the job into several smaller batches so that no single job ties up a device for too long.
 
-### 批量打印折扣
+### Bulk Printing Discounts
 
-对于研究小组或课程项目，ITS 提供 **批量打印折扣**：单次提交超过 **100 页** 的黑白打印可享受 **15% 折扣**，即每页 0.085 澳元。需通过学院管理员提交申请，并提供课程代码与项目编号。折扣额度在每个学期末清零，不可累积。
+For research groups or course projects, ITS offers **bulk printing discounts**: a single black-and-white submission of more than **100 pages** qualifies for a **15% discount**, i.e. A$0.085 per page. Applications must be submitted through the college administrator and include the course code and project number. Discount balances reset to zero at the end of each semester and cannot be carried over.
 
 ## FAQ
 
-### Q1：如何为 ANU 打印账户充值？
-通过 ANU 学生门户的 ePay 系统充值，最低 5 澳元，最高 200 澳元。充值后即时生效，支持 Visa、Mastercard 与 PayPal。余额可在毕业时申请退还，扣除 2.50 澳元手续费。
+### Q1: How do I top up my ANU printing account?
+Top up through the ePay system in the ANU student portal, with a minimum of A$5 and a maximum of A$200. Funds are available immediately, and Visa, Mastercard and PayPal are accepted. Balances can be refunded at graduation, minus a A$2.50 handling fee.
 
-### Q2：彩色打印与黑白打印的价格差异是多少？
-黑白打印每页 0.10 澳元，彩色打印每页 0.50 澳元，彩色价格是黑白的 **5 倍**。双面打印可节省 20% 费用：黑白双面每页 0.08 澳元，彩色双面每页 0.40 澳元。
+### Q2: What is the price difference between colour and black-and-white printing?
+Black-and-white printing costs A$0.10 per page and colour A$0.50 per page — colour is **5 times** the price of black-and-white. Duplex printing saves 20%: black-and-white duplex is A$0.08 per page and colour duplex A$0.40 per page.
 
-### Q3：如果打印机故障，如何获得帮助？
-通过设备触摸屏的“报告问题”按钮提交工单，ITS 承诺在 **2 个工作小时内** 响应紧急故障。也可拨打 6125 9999 请求远程重启，或参考内置的 12 种常见故障图文指南。
+### Q3: What should I do if a printer breaks down?
+Raise a ticket via the "Report a Problem" button on the device touchscreen; ITS commits to responding to urgent faults within **2 business hours**. You can also call 6125 9999 to request a remote restart, or consult the built-in illustrated guide covering 12 common faults.
 
-## 参考资料
+## References
 
 - ANU Information Technology Services. 2024. *Campus Print Services Guide*.
 - Australian Bureau of Statistics. 2024. *Education and Training Consumer Price Index, Australia*.

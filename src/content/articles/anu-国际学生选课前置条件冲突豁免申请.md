@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生选课前置条件冲突豁免申请"
-description: "澳大利亚国立大学（ANU）每学年约有超过 15,000 名国际学生注册，其中约 12% 的选课申请因前置条件（prerequisite）冲突被系统自动拦截（ANU 注册办公室 2023 年度内部统计）。这一冲突通常源于学生已修课程与目标课程要求之间的学分未匹配、成绩未达标或课程代码过期。2024 年 QS 世界大…"
+slug: anu-国际学生选课前置条件冲突豁免申请
+title: "ANU Prerequisite Conflict Waiver Applications for International Students"
+description: "Each academic year, more than 15,000 international students enrol at the Australian National University (ANU), and about 12% of their course enrolment requests are automatically blocked by the system because of prerequisite conflicts (ANU Registrar's Office internal statistics, 2023). These conflicts usually stem from a mismatch between the courses a student has already completed and what the target course demands — credits that do not line up, grades that fall short, or course codes that have been superseded. The 2024 QS World University Rankings placed ANU 34th globally, and as course difficulty and the complexity of enrolment rules have risen in step, the Prerequisite Waiver Request has become an academic procedure every international student needs to know."
 category: "ANU 国际学生选课前置"
 pubDatetime: '2026-03-29T19:53:06Z'
 publishDate: '2026-03-29T19:53:06Z'
@@ -10,98 +11,98 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生选课前置条件冲突豁免申请-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）每学年约有超过 15,000 名国际学生注册，其中约 12% 的选课申请因前置条件（prerequisite）冲突被系统自动拦截（ANU 注册办公室 2023 年度内部统计）。这一冲突通常源于学生已修课程与目标课程要求之间的学分未匹配、成绩未达标或课程代码过期。2024 年 QS 世界大学排名将 ANU 列为全球第 34 位，其课程难度与选课规则复杂度同步上升，使得前置条件豁免申请（Prerequisite Waiver Request）成为国际学生必须掌握的学术操作。豁免申请并非“破例”，而是 ANU 学术框架内一项标准化流程，允许学生在满足特定条件后绕过系统限制，获取原本不可选的课程。
+Each academic year, more than 15,000 international students enrol at the Australian National University (ANU), and about 12% of their course enrolment requests are automatically blocked by the system because of prerequisite conflicts (ANU Registrar's Office internal statistics, 2023). These conflicts usually stem from a mismatch between the courses a student has already completed and what the target course demands — credits that do not line up, grades that fall short, or course codes that have been superseded. The 2024 QS World University Rankings placed ANU 34th globally, and as course difficulty and the complexity of enrolment rules have risen in step, the Prerequisite Waiver Request has become an academic procedure every international student needs to know. A waiver application is not an exception to the rules; it is a standardised process within ANU's academic framework that lets students bypass the system's restrictions and enrol in a course that would otherwise be out of reach, provided they meet the stated conditions.
 
-## 前置条件冲突的常见类型与触发机制
+## Common Types of Prerequisite Conflicts and How They Are Triggered
 
-ANU 的选课系统（ISIS）在每学期注册开放前自动校验学生已修课程与目标课程的 **前置条件匹配度**。冲突主要分为三类：**学分缺失**（学生未修读指定课程）、**成绩未达标**（已修课程未达到最低分数要求，通常为 50% 或更高）以及 **课程代码过期**（原修读课程已被新代码替代，系统无法自动识别等效性）。根据 ANU 学术注册处 2023 年发布的《课程注册政策手册》，约 68% 的冲突属于学分缺失类型，其中 45% 可通过提交豁免申请解决。
+Before enrolment opens each semester, ANU's course system (ISIS) automatically checks the **prerequisite match** between the courses you have completed and the courses you want to take. Conflicts fall into three main categories: **missing credits** (you have not completed the required course), **insufficient grades** (your completed course did not reach the minimum score, usually 50% or higher) and **obsolete course codes** (the course you originally took has been replaced by a new code and the system cannot automatically recognise the equivalence). According to the Course Enrolment Policy Handbook published by the ANU Academic Registrar in 2023, around 68% of conflicts are of the missing-credit type, and 45% of those can be resolved by lodging a waiver application.
 
-### 学分缺失冲突
+### Missing-Credit Conflicts
 
-学分缺失是国际学生最常见的冲突来源。例如，学生计划修读 COMP3600（高级算法），但系统检测其未完成 COMP2600（算法基础）。ANU 允许学生在 **豁免申请中提供等效课程证明**，如其他大学（包括原籍国院校）的成绩单，只要该课程内容覆盖 COMP2600 的 80% 以上核心主题。申请需附课程大纲（syllabus）的英文翻译件，由 ANU 课程协调员（Course Convenor）审核。
+Missing credits are the most common source of conflict for international students. For example, a student wants to take COMP3600 (Advanced Algorithms) but the system finds no record of COMP2600 (Foundations of Algorithms). ANU allows students to **submit evidence of an equivalent course in the waiver application** — such as a transcript from another university, including one in your home country — provided the course content covers more than 80% of COMP2600's core topics. The application must include an English translation of the syllabus, which is reviewed by the ANU Course Convenor.
 
-### 成绩未达标冲突
+### Insufficient-Grade Conflicts
 
-部分课程要求前置课程成绩不低于 65% 或 70%。若学生成绩为 55%，系统自动拒绝选课。豁免申请需提交 **学术解释信**，说明低分原因（如健康问题或课程难度差异），并附上后续相关课程的高分成绩作为能力佐证。ANU 理学院 2022 年数据显示，此类申请通过率约为 52%。
+Some courses require a grade of at least 65% or 70% in the prerequisite. If you scored 55%, the system automatically rejects your enrolment. A waiver application in this case needs an **academic explanation letter** outlining why the grade was low (health problems or a difference in course difficulty, for example), backed by strong marks in later related courses as evidence of your ability. ANU College of Science data for 2022 shows an approval rate of about 52% for this type of application.
 
-## 豁免申请的官方流程与时间节点
+## The Official Waiver Process and Its Timing
 
-豁免申请需通过 ANU 的 **在线豁免系统（Waiver Portal）** 提交，该系统集成在 ISIS 选课平台内。每学期有两次主要申请窗口：**第一轮**（学期开始前 8 周，通常为 1 月和 7 月）和 **第二轮**（学期开始前 2 周，作为补录）。逾期申请仅在特殊情况下受理，如医疗紧急情况或签证延迟。
+Waiver applications are submitted through ANU's **online Waiver Portal**, which is integrated into the ISIS enrolment platform. There are two main application windows each semester: **Round 1** (8 weeks before the semester starts, usually in January and July) and **Round 2** (2 weeks before the semester starts, acting as a catch-up round). Late applications are accepted only in special circumstances, such as a medical emergency or visa delays.
 
-### 所需文件清单
+### Required Documents
 
-申请必须包含以下三项核心文件：**课程大纲**（目标课程的前置条件课程大纲，证明已学内容覆盖要求）、**成绩单原件**（显示已修课程分数及学分值）以及 **个人陈述**（不超过 300 字，说明冲突原因及豁免必要性）。ANU 商学院在 2023 年更新了要求，额外要求国际学生提交 **英语能力证明**（如雅思总分 6.5 或等同成绩），以确保能跟上课程节奏。
+Applications must include three core documents: the **course syllabus** (the syllabus of the prerequisite course for your target course, demonstrating that what you studied covers the requirements), an **original transcript** (showing the grades and credit values of your completed courses) and a **personal statement** (no more than 300 words explaining the cause of the conflict and why the waiver is necessary). The ANU College of Business and Economics updated its requirements in 2023, adding that international students must also submit **proof of English proficiency** (such as an overall IELTS score of 6.5 or equivalent) to ensure they can keep up with the pace of the course.
 
-### 审核周期与结果通知
+### Review Timeline and Notification of Outcomes
 
-审核周期通常为 5 至 10 个工作日，高峰期（学期开始前 2 周）可能延长至 15 个工作日。结果通过 ANU 学生邮箱（以 @anu.edu.au 结尾）通知，获批后系统自动解锁选课权限。若被拒，学生可在 7 天内提交 **补充材料上诉**，需提供新证据（如更新的成绩单或课程大纲）。ANU 学术委员会 2023 年年度报告显示，上诉后批准率约为 38%。
+The review usually takes 5 to 10 business days, stretching to 15 business days in peak periods (the two weeks before the semester starts). Outcomes are sent to your ANU student email (ending in @anu.edu.au), and approval automatically unlocks your enrolment access in the system. If your application is rejected, you can lodge a **supplementary appeal** within 7 days, providing new evidence such as an updated transcript or syllabus. The ANU Academic Board's 2023 annual report puts the approval rate after appeal at about 38%.
 
-## 豁免申请失败后的替代路径
+## Alternative Paths After a Waiver Is Rejected
 
-当豁免申请被拒时，学生仍有 **三种替代方案**：**课程等效性申诉**（向学院学术委员会申请将其他课程认定为等效前置条件）、**跨学院选课协议**（若目标课程在不同学院，可申请特别许可）以及 **延迟注册**（推迟一学期修读，期间补修缺失课程）。ANU 工程与计算机科学学院 2022 年数据表明，约 27% 的落选学生通过跨学院协议最终获得选课资格。
+If the waiver is rejected, students still have **three alternatives**: a **course equivalence appeal** (asking the college academic board to recognise another course as an equivalent prerequisite), a **cross-college enrolment arrangement** (if the target course sits in a different college, you can apply for special permission) and **deferred enrolment** (postpone the course by a semester and complete the missing prerequisite in the meantime). ANU College of Engineering and Computer Science data for 2022 shows that about 27% of unsuccessful applicants eventually gained enrolment through cross-college arrangements.
 
-### 课程等效性申诉
+### Course Equivalence Appeals
 
-此路径要求提交 **详细课程对比表**，逐项列出原课程与目标前置课程的教学大纲差异。ANU 允许使用第三方评估工具（如澳大利亚学历资格框架 AQF 的课程映射服务）来强化论证。申诉处理周期为 10 至 15 个工作日，费用为 50 澳元（2024 年标准）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E9%80%89%E8%AF%BE%E5%89%8D%E7%BD%AE%E6%9D%A1%E4%BB%B6%E5%86%B2%E7%AA%81%E8%B1%81%E5%85%8D%E7%94%B3%E8%AF%B7) 等专业通道完成结汇，以应对可能的额外费用产生。
+This path requires a **detailed course comparison table** itemising the differences between the syllabus of the course you completed and that of the required prerequisite. ANU allows third-party assessment tools — such as the course mapping service under the Australian Qualifications Framework (AQF) — to strengthen your case. Appeals take 10 to 15 business days to process and cost $50 (2024 rate). For cross-border tuition payments, some study-abroad families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E9%80%89%E8%AF%BE%E5%89%8D%E7%BD%AE%E6%9D%A1%E4%BB%B6%E5%86%B2%E7%AA%81%E8%B1%81%E5%85%8D%E7%94%B3%E8%AF%B7) to settle their fees and cover any extra costs that may arise.
 
-### 跨学院选课协议
+### Cross-College Enrolment Arrangements
 
-若目标课程由其他学院开设，学生需联系 **目标学院的学生中心** 提交跨学院选课申请。该申请独立于豁免系统，需提供原学院的支持信。ANU 文学院 2023 年内部指南指出，跨学院选课批准率约为 41%，主要限制是课程容量（通常每门课预留 5% 名额给外院学生）。
+If the target course is offered by another college, you need to contact the **target college's student centre** to submit a cross-college enrolment application. This application runs independently of the waiver system and requires a letter of support from your home college. ANU College of Arts and Social Sciences internal guidelines for 2023 note an approval rate of around 41% for cross-college enrolment, with course capacity the main constraint (typically 5% of places in each course are reserved for students from outside the college).
 
-## 国际学生特有的豁免挑战
+## Challenges Specific to International Students
 
-国际学生面临 **签证合规性** 与 **学分转换** 的双重约束。澳大利亚内政部 2023 年学生签证条款规定，国际学生每学期必须注册至少 3 门课程（18 学分），若豁免申请延迟导致注册不足，可能影响签证状态。此外，来自非英语国家的学生需额外提交 **课程大纲的 NAATI 认证翻译**（澳大利亚翻译资格认证局），费用约每页 40 澳元，处理时间 5 个工作日。
+International students operate under the twin constraints of **visa compliance** and **credit transfer**. The Department of Home Affairs' 2023 student visa conditions require international students to enrol in at least 3 courses (18 units) per semester, and if a delayed waiver decision leaves you under-enrolled, your visa status can be affected. In addition, students from non-English-speaking countries must submit a **NAATI-certified translation of the syllabus** (from the National Accreditation Authority for Translators and Interpreters), at a cost of about $40 per page with a 5-business-day turnaround.
 
-### 原籍国课程等效性认定
+### Recognising Home-Country Course Equivalence
 
-ANU 与全球约 200 所大学有学分互认协议，但仅覆盖有限课程。若学生原籍国院校不在协议名单内，需通过 **ANU 国际资格评估服务**（International Qualifications Assessment）逐门课程认证。该服务由学术注册处运营，2024 年收费标准为每门课程 120 澳元，评估周期 15 个工作日。ANU 2023 年统计显示，中国大学课程（如清华大学、北京大学）的等效性认定通过率约为 73%，主要障碍在于课程大纲翻译不完整。
+ANU has credit-recognition agreements with around 200 universities worldwide, but they cover only a limited set of courses. If your home institution is not on the agreement list, each course must be certified through the **ANU International Qualifications Assessment** service. Run by the Academic Registrar's Office, it charges $120 per course (2024 rate) and takes 15 business days. ANU statistics for 2023 show that equivalence recognition for courses from Chinese universities (such as Tsinghua University and Peking University) succeeds about 73% of the time, with incomplete syllabus translations the main obstacle.
 
-### 英语能力证明的替代方式
+### Alternatives to English Proficiency Proof
 
-除雅思外，ANU 接受 **PTE Academic**（总分不低于 58 分）或 **TOEFL iBT**（总分不低于 80 分）作为英语能力证明。若学生已在 ANU 完成至少 1 学期（24 学分）的英语授课课程，可申请豁免提交语言成绩。此政策适用于所有前置条件豁免申请，但需在个人陈述中明确注明已完成的英语授课课程代码。
+Besides IELTS, ANU accepts **PTE Academic** (overall score of at least 58) or **TOEFL iBT** (overall score of at least 80) as proof of English proficiency. Students who have already completed at least one semester (24 units) of English-taught coursework at ANU can apply for an exemption from submitting language test scores. This policy applies to all prerequisite waiver applications, but you must clearly list the course codes of the English-taught courses you have completed in your personal statement.
 
-## 特殊案例：跨学期课程与实习前置条件
+## Special Cases: Cross-Semester Courses and Internship Prerequisites
 
-部分 ANU 课程（如工程实习课 ENGN4220）要求学生在注册前完成 **前置实习**（至少 120 小时）。若学生未能在学期开始前完成，豁免申请需提交 **实习承诺书**，由雇主签字确认实习将在学期前 4 周内完成。ANU 工程与计算机科学学院 2022 年数据显示，此类申请通过率约为 65%，但获批后学生需在学期第 6 周前提交实习完成证明，否则将被强制退课。
+Some ANU courses (such as the engineering internship course ENGN4220) require students to complete a **prerequisite internship** (at least 120 hours) before enrolling. If you cannot finish the internship before the semester starts, the waiver application must include a **signed internship commitment letter** from your employer confirming that the internship will be completed within the first 4 weeks of the semester. ANU College of Engineering and Computer Science data for 2022 shows an approval rate of about 65% for these applications, but successful applicants must submit proof of internship completion by week 6 of the semester or be forcibly removed from the course.
 
-### 跨学期课程的时间冲突
+### Time Clashes With Cross-Semester Courses
 
-当目标课程的前置条件课程正在同一学期进行（即“并行修读”），豁免申请需证明学生有能力同时完成两门课程。ANU 允许提交 **学术顾问推荐信**，由课程导师评估学生过往成绩（通常要求 GPA 不低于 5.0/7.0）和课程负荷。2023 年 ANU 理学院内部备忘录指出，并行修读豁免仅适用于成绩排名前 15% 的学生。
+When the prerequisite course for your target course is running in the same semester (that is, concurrent enrolment), the waiver application must demonstrate that you can handle both courses at once. ANU accepts a **letter of recommendation from an academic adviser**, with the course coordinator weighing your past results (a GPA of at least 5.0/7.0 is usually required) and your overall study load. A 2023 internal memo from the ANU College of Science notes that concurrent-enrolment waivers are granted only to students ranked in the top 15% by grades.
 
-### 实习前置条件的替代方案
+### Alternatives to the Internship Prerequisite
 
-若无法完成实习，学生可申请用 **研究项目**（如 ANU 暑期研究奖学金项目）替代。该替代方案需提交项目计划书，由学院学术委员会审核。ANU 2024 年夏季学期数据显示，约 22% 的实习前置条件冲突通过此路径解决。
+If the internship is not feasible, students can apply to substitute a **research project** (such as an ANU summer research scholarship program) instead. The substitution requires a project proposal, reviewed by the college academic board. ANU Summer Session 2024 data shows that about 22% of internship-prerequisite conflicts were resolved through this path.
 
-## 豁免申请的技术工具与数据支持
+## Technical Tools and Data Support for Waiver Applications
 
-ANU 提供 **ISIS 选课模拟器**（Course Planner），学生可在正式注册前模拟选课，系统自动标记前置条件冲突并提示豁免可能性。该工具集成在 ANU 学生门户内，2023 年升级后支持 **实时冲突诊断**，显示冲突类型（红色为不可豁免，黄色为可申请豁免）。此外，ANU 学术注册处每年发布《豁免申请年度统计报告》，2023 年版显示整体豁免申请通过率为 58%，其中工程学院（71%）和理学院（65%）通过率最高，商学院（48%）最低。
+ANU provides an **ISIS course planner** that lets students simulate enrolment before the real thing, with the system automatically flagging prerequisite conflicts and indicating whether a waiver is possible. Integrated into the ANU student portal, the tool gained **real-time conflict diagnosis** in its 2023 upgrade, colour-coding conflict types (red means non-waivable, yellow means a waiver can be applied for). The Academic Registrar's Office also publishes an annual statistical report on waiver applications; the 2023 edition shows an overall approval rate of 58%, with Engineering (71%) and Science (65%) the highest and Business and Economics (48%) the lowest.
 
-### 数据来源与统计范围
+### Data Sources and Coverage
 
-上述数据基于 ANU 学术注册处 2023 年发布的《课程豁免申请年度报告》，覆盖 2,847 份申请（其中国际学生申请占 62%）。报告未包含学院内部非正式豁免（如导师口头批准），因此实际通过率可能略高。ANU 建议学生在提交申请前使用 ISIS 模拟器进行预检，以减少材料不全导致的拒绝。
+The figures above come from the Academic Registrar's Office 2023 Annual Report on Course Waiver Applications, covering 2,847 applications (62% of them from international students). The report excludes informal college-level waivers (such as verbal approvals from supervisors), so the real approval rate may be slightly higher. ANU recommends running a pre-check in the ISIS planner before submitting, to cut down on rejections caused by incomplete documentation.
 
-### 第三方工具辅助
+### Third-Party Tools
 
-部分留学服务机构提供 **豁免申请模板** 和 **课程大纲翻译服务**，但 ANU 官方不认可任何第三方代理的“保证通过”承诺。学生应直接通过 ANU 学生中心（Student Central）获取最新政策文本，避免依赖过时信息。
+Some study-abroad agencies sell **waiver application templates** and **syllabus translation services**, but ANU officially endorses no third-party agent's guaranteed-approval promises. Get the latest policy documents directly from ANU Student Central rather than relying on outdated information.
 
 ## FAQ
 
-### Q1：豁免申请被拒后，能否在同一学期内再次提交？
+### Q1: After a waiver is rejected, can I apply again in the same semester?
 
-可以，但需在 7 天内提交上诉，并提供新证据（如更新的成绩单或课程大纲）。ANU 2023 年数据显示，上诉后批准率约为 38%，且每人每学期最多提交 2 次上诉。若第二次仍被拒，需等到下一学期重新申请。
+Yes, but you must appeal within 7 days and provide new evidence (such as an updated transcript or syllabus). ANU 2023 data puts the post-appeal approval rate at about 38%, and each student can appeal at most twice per semester. If the second appeal also fails, you have to wait until the next semester to apply afresh.
 
-### Q2：豁免申请是否需要支付费用？
+### Q2: Do waiver applications cost anything?
 
-标准豁免申请免费，但若涉及课程等效性申诉，需支付 50 澳元（2024 年标准）。此外，课程大纲的 NAATI 认证翻译费用约每页 40 澳元，由学生自行承担。ANU 学术注册处不收取任何申请处理费。
+Standard waiver applications are free, but a course equivalence appeal costs $50 (2024 rate). On top of that, NAATI-certified syllabus translations run about $40 per page, paid by the student. The ANU Academic Registrar's Office charges no application processing fee.
 
-### Q3：豁免申请批准后，选课系统多久更新？
+### Q3: After approval, how quickly does the enrolment system update?
 
-批准后系统通常在 24 小时内自动解锁选课权限。学生需在收到通知后的 7 天内完成选课，否则名额可能被释放给其他学生。ANU 2023 年数据显示，约 15% 的获批学生因未及时选课而失去名额。
+The system usually unlocks your enrolment access within 24 hours of approval. You then have 7 days from receiving the notification to complete enrolment, or the place may be released to other students. ANU 2023 data shows that about 15% of approved students lost their place by not enrolling in time.
 
-## 参考资料
+## References
 
-- 澳大利亚国立大学学术注册处 2023 年《课程注册政策手册》
-- 澳大利亚国立大学学术委员会 2023 年年度报告
-- 澳大利亚内政部 2023 年学生签证条款第 8202 条
-- QS 世界大学排名 2024 年澳大利亚国立大学排名数据
-- UNILINK 教育数据库 2024 年 ANU 豁免申请统计补充
+- Australian National University Academic Registrar's Office 2023, *Course Enrolment Policy Handbook*
+- Australian National University Academic Board 2023, *Annual Report*
+- Australian Department of Home Affairs 2023, *Student Visa Condition 8202*
+- QS World University Rankings 2024, ANU ranking data
+- UNILINK Education Database 2024, supplementary ANU waiver application statistics

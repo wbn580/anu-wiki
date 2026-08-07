@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生课程录音许可申请与设备借阅"
-description: "澳大利亚国立大学（ANU）自2023年修订《学术诚信与课程录音政策》以来，国际学生申请课程录音许可及借阅设备的流程发生显著变化。根据ANU 2024年《学生支持服务年报》，全校约68%的国际学生（约9,800人）在入学第一年内至少使用过一次课程录音服务，而设备借阅系统在2025年第一学期处理了超过2,200次预约…"
+slug: anu-国际学生课程录音许可申请与设备借阅
+title: "Applying for Permission to Record Lectures at ANU and Borrowing Recording Equipment"
+description: "Since ANU revised its Academic Integrity and Lecture Recording Policy in 2023, the process for international students to apply for lecture recording permission and borrow equipment has changed noticeably. According to ANU's 2024 Student Support Services Annual Report, about 68% of international students at the university (roughly 9,800 people) used the lecture recording service at least once in their first year of enrolment, and the equipment loan system handled more than 2,200 booking requests in Semester 1 2025 (ANU 2024, Student Support Services Annual Report). These figures show that recording permission and equipment management have become a key part of international students' academic adjustment. Drawing on ANU's official policy documents and library service rules, this article sets out the application requirements, equipment types, compliance obligations and common questions as a practical reference for current students."
 category: "ANU 国际学生课程录音"
 pubDatetime: '2026-03-31T19:53:30Z'
 publishDate: '2026-03-31T19:53:30Z'
@@ -10,54 +11,57 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生课程录音许可申请与设备借阅-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）自2023年修订《学术诚信与课程录音政策》以来，国际学生申请课程录音许可及借阅设备的流程发生显著变化。根据ANU 2024年《学生支持服务年报》，全校约68%的国际学生（约9,800人）在入学第一年内至少使用过一次课程录音服务，而设备借阅系统在2025年第一学期处理了超过2,200次预约请求【ANU 2024, Student Support Services Annual Report】。这一数据反映出录音许可与设备管理已成为国际学生学术适应中的关键环节。本文基于ANU官方政策文本与图书馆服务细则，系统梳理申请条件、设备类型、合规要求及常见问题，为在校生提供可操作的参考指南。
+Since ANU revised its Academic Integrity and Lecture Recording Policy in 2023, the process for international students to apply for lecture recording permission and borrow equipment has changed noticeably. According to ANU's 2024 Student Support Services Annual Report, about 68% of international students at the university (roughly 9,800 people) used the lecture recording service at least once in their first year of enrolment, and the equipment loan system handled more than 2,200 booking requests in Semester 1 2025 (ANU 2024, Student Support Services Annual Report). These figures show that recording permission and equipment management have become a key part of international students' academic adjustment. Drawing on ANU's official policy documents and library service rules, this article sets out the application requirements, equipment types, compliance obligations and common questions as a practical reference for current students.
 
-## 申请资格与政策依据
+## Eligibility and Policy Basis
 
-**课程录音许可**的申请资格由ANU《学术诚信与课程录音政策》（Policy: Recording of Lectures and Course Content, 2023年修订版）界定。该政策适用于所有注册学生，但国际学生需额外满足签证合规要求——持有有效学生签证且课程出席率不低于80%。根据ANU法律事务办公室2024年发布的解读文件，录音许可并非自动授予，需基于“合理学术需求”审批，包括语言障碍、听力障碍或课程时间冲突等情形【ANU Legal Office 2024, Policy Interpretation Note No. 3】。
+Eligibility for **lecture recording permission** is defined by ANU's Academic Integrity and Lecture Recording Policy (Policy: Recording of Lectures and Course Content, 2023 revision). The policy applies to all enrolled students, but international students face additional visa compliance requirements — holding a valid student visa with a course attendance rate of no less than 80%. According to an interpretive note published by the ANU Legal Office in 2024, recording permission is not granted automatically; it is assessed against "reasonable academic need", including language barriers, hearing impairments or timetable clashes (ANU Legal Office 2024, Policy Interpretation Note No. 3).
 
-**申请流程**分为两步：首先通过ANU学生门户（ISIS）提交《课程录音申请表》，注明课程代码、授课教师姓名及录音理由；其次由课程协调员在5个工作日内审核。若申请获批，学生将收到一份“录音许可电子凭证”，有效期为单个学期。ANU 2024年数据表明，约82%的申请在首次提交后获得批准，最常见的驳回理由为“课程内容已提供完整讲义或录播”【ANU Registrar 2024, Academic Policy Compliance Data】。
+The **application process** has two steps: first, submit the Lecture Recording Application Form through the ANU student portal (ISIS), stating the course code, the lecturer's name and the reason for recording; second, the course convenor reviews it within 5 working days. If approved, you receive a "recording permission e-voucher" valid for a single semester. ANU 2024 data shows about 82% of applications were approved on first submission, with the most common rejection reason being "full lecture notes or recordings already provided for the course" (ANU Registrar 2024, Academic Policy Compliance Data).
 
-## 设备借阅服务与操作流程
+## Equipment Loan Service and How It Works
 
-**设备借阅**由ANU图书馆系统统一管理，主馆Hancock Library和Chifley Library设有专门的服务柜台。可借阅设备包括：Zoom H1n便携式录音笔（最高支持24位/96kHz音频录制）、Sennheiser MK 4数字麦克风（适用于小组讨论场景），以及Sony ICD-UX570数码录音机（电池续航约57小时）。每件设备借阅期限为7天，可续借一次（需无其他预约）。根据ANU图书馆2025年第一学期运营报告，Zoom H1n的预约等待时间平均为3.2天，而Sony录音机因库存充足（共48台），等待时间通常不超过1天【ANU Library 2025, Equipment Loan Operations Report Q1】。
+**Equipment loans** are managed centrally by the ANU library system, with dedicated service counters at the main libraries, Hancock Library and Chifley Library. Borrowable equipment includes: the Zoom H1n portable recorder (up to 24-bit/96kHz audio), the Sennheiser MK 4 digital microphone (suited to group discussion settings), and the Sony ICD-UX570 digital voice recorder (battery life around 57 hours). Each item loans for 7 days, renewable once (provided there are no other bookings). According to the ANU Library's Semester 1 2025 operations report, the average wait for a Zoom H1n was 3.2 days, while the Sony recorder — with 48 units in stock — usually waits no more than 1 day (ANU Library 2025, Equipment Loan Operations Report Q1).
 
-**借阅操作**需通过ANU图书馆在线系统“Library Search”完成。学生登录后选择“Equipment Loan”分类，输入课程代码（如COMP1110）即可查看与课程关联的推荐设备。取件时须出示学生证和录音许可电子凭证（纸质或电子版均可）。逾期归还的罚款标准为每日5澳元，最高罚款上限为设备重置成本的50%（例如Zoom H1n重置成本为299澳元，罚款上限为149.50澳元）。
+**Borrowing** is done through the ANU library's online system, "Library Search". After logging in, select the "Equipment Loan" category and enter your course code (for example, COMP1110) to see the recommended equipment linked to that course. Bring your student card and your recording permission e-voucher (paper or electronic) to collect the item. Overdue returns are fined $5 per day, capped at 50% of the equipment's replacement cost (for example, the Zoom H1n has a replacement cost of $299, so the fine cap is $149.50).
 
-## 录音使用合规要求
+## Compliance Requirements for Using Recordings
 
-**录音内容的使用范围**受ANU《版权与知识产权政策》（2022年修订版）严格限制。获批录音仅可用于个人学习目的，禁止上传至第三方平台、共享给非注册学生或用于商业用途。ANU学术诚信办公室在2024年查处了14起违规案例，其中7起涉及国际学生将课堂录音上传至社交媒体，处理结果包括取消录音许可、课程成绩降级及通报移民局【ANU Academic Integrity Office 2024, Annual Case Summary】。违规记录可能影响签证续签申请，因澳大利亚移民局（Department of Home Affairs）在评估“真实学生要求”时会参考学术诚信记录。
+**How recordings may be used** is strictly limited by ANU's Copyright and Intellectual Property Policy (2022 revision). Approved recordings are for personal study only — uploading them to third-party platforms, sharing them with non-enrolled students or using them commercially are all prohibited. In 2024 the ANU Academic Integrity Office investigated 14 violation cases, 7 of them involving international students who uploaded lecture recordings to social media; penalties included cancellation of recording permission, downgraded course grades and notification of the Department of Home Affairs (ANU Academic Integrity Office 2024, Annual Case Summary). A violation record can also affect visa renewal applications, because the Australian Department of Home Affairs considers academic integrity records when assessing the "genuine student requirement".
 
-**录音文件的存储与删除**也有明确时限。根据ANU数据保留政策，学生须在课程成绩公布后30天内删除所有录音文件。图书馆提供的设备均内置自动删除功能，录音笔在归还后会自动格式化存储卡。学生若使用个人设备录音，需自行承担数据管理责任。ANU 2024年学生调查显示，约41%的国际学生未能在规定时限内删除录音，主要原因为不清楚政策要求【ANU Student Experience Survey 2024, Data Management Section】。
+**Storage and deletion of recordings** also follow a strict timeline. Under ANU data retention policy, students must delete all recording files within 30 days after course results are released. All library-loaned devices have built-in auto-delete: the recorder's memory card is automatically formatted when it is returned. If you record on a personal device, data management is your own responsibility. ANU's 2024 student survey found about 41% of international students failed to delete recordings within the required period, mainly because they did not know the policy (ANU Student Experience Survey 2024, Data Management Section).
 
-## 特殊情形与替代方案
+## Special Cases and Alternatives
 
-**语言支持类录音许可**是国际学生最常见的申请类型。ANU语言中心（ANU Language Centre）与学术技能支持部门（Academic Skills and Learning Centre）合作，为雅思总分低于6.5分（或同等水平）的学生提供“加速录音通道”——申请审核时间缩短至2个工作日。2024年，该通道共处理了1,047份申请，其中92%来自非英语母语国家学生，以中国（占58%）、印度（占22%）和印度尼西亚（占12%）为主【ANU Language Centre 2024, International Student Support Data】。
+**Language-support recording permission** is the most common application type among international students. ANU's Language Centre, together with the Academic Skills and Learning Centre, offers an "express recording channel" for students with an overall IELTS score below 6.5 (or equivalent), cutting the review time to 2 working days. In 2024 the channel processed 1,047 applications, 92% of them from students of non-English-speaking backgrounds, led by China (58%), India (22%) and Indonesia (12%) (ANU Language Centre 2024, International Student Support Data).
 
-**设备借阅的替代路径**适用于无法亲自到馆的学生。ANU图书馆自2024年起推出“邮寄借阅”试点项目，覆盖堪培拉市区以外居住的学生（如远程学习者）。学生需提交书面申请并预付回邮邮费（澳大利亚境内统一为15澳元），设备寄出后预计3-5个工作日到达。截至2025年3月，该项目共服务了312名学生，设备丢失率仅为1.6%，低于柜台借阅的2.3%【ANU Library 2025, Remote Loan Pilot Evaluation Report】。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%AF%BE%E7%A8%8B%E5%BD%95%E9%9F%B3%E8%AE%B8%E5%8F%AF%E7%94%B3%E8%AF%B7%E4%B8%8E%E8%AE%BE%E5%A4%87%E5%80%9F%E9%98%85) 等专业通道完成结汇。
+**Alternatives to in-person borrowing** exist for students who cannot get to the library. Since 2024 ANU Library has run a "postal loan" pilot for students living outside the Canberra urban area (such as remote learners). Students submit a written request and prepay the return postage (a flat $15 within Australia); equipment typically arrives 3-5 working days after dispatch. As of March 2025 the pilot had served 312 students, with an equipment loss rate of just 1.6%, lower than the 2.3% for counter loans (ANU Library 2025, Remote Loan Pilot Evaluation Report). For cross-border tuition payments, some families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%AF%BE%E7%A8%8B%E5%BD%95%E9%9F%B3%E8%AE%B8%E5%8F%AF%E7%94%B3%E8%AF%B7%E4%B8%8E%E8%AE%BE%E5%A4%87%E5%80%9F%E9%98%85) to convert and remit funds.
 
-## 技术故障与应急处理
+## Technical Faults and Emergency Handling
 
-**设备故障报告**需在发现后24小时内提交至图书馆服务台或通过在线工单系统“ServiceNow”上报。常见故障包括：录音文件无法播放（占2024年报告的38%）、电池续航低于标称值（占27%）、以及麦克风收音失真（占19%）。ANU IT服务部门承诺在48小时内完成故障诊断，并提供替代设备。若故障系设备本身质量问题，学生无需承担维修费用；若因人为损坏（如液体泼溅），则按设备重置成本的30%收取赔偿。
+**Equipment fault reports** must be submitted within 24 hours of discovery, either at the library service desk or through the online ticketing system "ServiceNow". Common faults include: recordings that will not play (38% of 2024 reports), battery life below the stated figure (27%), and distorted microphone pickup (19%). ANU IT services promise fault diagnosis within 48 hours and will provide replacement equipment. If the fault is a quality problem with the device itself, there is no cost to the student; if it is human damage (such as a liquid spill), compensation is charged at 30% of the equipment's replacement cost.
 
-**录音数据丢失**的应急方案分三级：一级（设备存储卡物理损坏）——图书馆提供数据恢复服务，成功率约73%，恢复周期为5-10个工作日；二级（误删除文件）——学生在归还前可申请“数据导出协助”，图书馆工作人员在15分钟内完成文件拷贝；三级（个人设备录音文件损坏）——建议学生立即联系课程协调员申请“补录权限”，ANU政策允许在课程结束前额外补录一次，但需提供原始录音损坏的证明（如设备错误日志截图）。
+**Lost recording data** has a three-tier emergency response: tier one (physical damage to the memory card) — the library offers data recovery with a success rate of about 73% and a recovery time of 5-10 working days; tier two (accidentally deleted files) — students can request "data export assistance" before returning the device, and library staff copy the files within 15 minutes; tier three (files damaged on a personal device) — students should contact the course convenor immediately to request "supplementary recording permission", and ANU policy allows one extra recording before the course ends, provided you can show proof of the original recording's damage (such as a screenshot of the device error log).
 
-## 国际学生专属注意事项
+## Special Notes for International Students
 
-**签证条件影响**是国际学生需特别关注的维度。澳大利亚移民局（Department of Home Affairs）在2024年更新的《学生签证指南》中明确，违反学术机构录音政策的行为可能被视为“未遵守课程条款”，进而触发签证取消程序。ANU国际学生服务部（International Student Services）在2024年向所有新入学国际学生发送了政策提醒邮件，并建议学生保存录音许可电子凭证至少至课程结束后6个月，以备签证审查时提供。
+**Visa implications** are a dimension international students need to watch closely. The Australian Department of Home Affairs' updated 2024 Student Visa Guidelines state clearly that breaching an education provider's recording policy can be treated as "failure to comply with course conditions", which can trigger visa cancellation proceedings. In 2024 ANU International Student Services sent policy reminder emails to all newly enrolled international students and advised them to keep their recording permission e-voucher for at least 6 months after the course ends, ready to show in any visa review.
 
-**文化适应与政策认知**方面，ANU 2024年跨文化适应性调查显示，来自集体主义文化背景（如东亚、东南亚）的学生更倾向于将课堂录音分享给同学，认为这是“互助行为”。然而，ANU政策明确禁止此类行为，违者面临与上传至第三方平台相同的处罚力度。为减少文化冲突，ANU多元文化事务办公室自2025年起推出“学术合规双语工作坊”（中英双语），每学期举办4场，2025年第一学期已有237名国际学生参与【ANU Office of Multicultural Affairs 2025, Workshop Attendance Report】。
+**Cultural adjustment and policy awareness** matter too. ANU's 2024 cross-cultural adaptation survey found that students from collectivist cultural backgrounds (such as East and Southeast Asia) were more inclined to share lecture recordings with classmates, seeing it as "helping each other". ANU policy, however, explicitly prohibits this, and violators face the same penalties as those who upload recordings to third-party platforms. To reduce cultural friction, the ANU Office of Multicultural Affairs has run "academic compliance bilingual workshops" (in Chinese and English) since 2025, four per semester, with 237 international students attending in Semester 1 2025 (ANU Office of Multicultural Affairs 2025, Workshop Attendance Report).
 
 ## FAQ
 
-### Q1：申请录音许可被拒后能否申诉？
-可以。被拒学生可在收到通知后10个工作日内向学院学生事务主任（Associate Dean, Education）提交书面申诉。ANU 2024年数据显示，申诉成功率约为34%，最常见的改判理由是“申请人补充了医疗证明或语言能力测试报告”。申诉期间学生仍可正常上课，但不得进行任何形式的录音。
+### Q1: Can I appeal if my recording permission application is rejected?
 
-### Q2：设备逾期归还的罚款如何计算？
-逾期罚款按每日5澳元计算，从应还日次日零点起计，最高不超过设备重置成本的50%。例如，Zoom H1n录音笔重置成本为299澳元，罚款上限为149.50澳元。若逾期超过30天，图书馆将暂停该学生的所有借阅权限，并记录在学术档案中。2025年第一学期，平均逾期天数为2.1天，罚款总额为3,840澳元。
+Yes. Rejected students can submit a written appeal to the Associate Dean, Education of their college within 10 working days of receiving the notice. ANU 2024 data shows an appeal success rate of about 34%, with the most common ground for overturning being "the applicant submitted a medical certificate or language proficiency test report". While the appeal is pending you can keep attending classes, but you must not record in any form.
 
-### Q3：录音文件能否用于论文或研究引用？
-不能。根据ANU《学术诚信守则》（2024年修订版），课堂录音属于“未发表教学材料”，不得直接引用或作为学术论文的数据来源。若需引用教师口头陈述，应通过正式渠道（如邮件确认或查阅已发表讲义）获取书面授权。违反此规定可能被视为学术不端，最高处罚为课程不及格。
+### Q2: How are overdue fines for equipment calculated?
+
+Overdue fines accrue at $5 per day from midnight after the due date, capped at 50% of the equipment's replacement cost. For example, the Zoom H1n recorder has a replacement cost of $299, so the fine cap is $149.50. If an item is more than 30 days overdue, the library suspends all of the student's borrowing privileges and records the incident in the academic file. In Semester 1 2025 the average overdue period was 2.1 days, with total fines of $3,840.
+
+### Q3: Can recordings be cited in papers or research?
+
+No. Under ANU's Academic Integrity Code (2024 revision), lecture recordings count as "unpublished teaching materials" and cannot be cited directly or used as data sources in academic papers. If you need to cite a lecturer's spoken statements, obtain written authorisation through formal channels (such as email confirmation or consulting published lecture notes). Breaching this rule can be treated as academic misconduct, with a maximum penalty of failing the course.
 
 ## 参考资料
 - ANU 2024, Student Support Services Annual Report

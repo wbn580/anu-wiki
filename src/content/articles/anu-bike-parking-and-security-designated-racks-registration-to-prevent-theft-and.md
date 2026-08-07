@@ -1,6 +1,7 @@
 ---
+slug: anu-bike-parking-and-security-designated-racks-registration-to-prevent-theft-and
 title: "ANU Bike Parking and Security: Designated Racks, Registration to Prevent Theft, and Reporting a Stolen Bicycle"
-description: "澳大利亚国立大学（ANU）是澳大利亚自行车通勤率最高的大学之一，其校园内设有超过 2,000 个自行车停车位，分布在 Acton 校区的 40 余个指定区域。根据 ANU 交通与停车管理办公室 2023 年发布的《校园自行车规划》数据，校园注册自行车数量已超过 1,800 辆，但每年仍有约 60 起自行车盗窃报告…"
+description: "The Australian National University (ANU) is one of Australia's highest bike-commuting universities, with more than 2,000 bicycle parking spaces across over 40 designated areas of the Acton campus. According to the Campus Bicycle Plan released by the ANU Transport and Parking Office in 2023, registered bikes on campus number more than 1,800, yet around 60 bicycle thefts are still reported each year. With bicycle theft rates in the Canberra area around campus rising 12% in the 2022-2023 financial year (Australian Bureau of Crime Statistics, 2023, ACT Crime Statistics Quarterly Report), understanding ANU's bike parking rules, registration-based anti-theft mechanisms and theft reporting procedures is of direct practical value to students who commute by bike..."
 category: "ANU"
 pubDatetime: '2026-05-05T20:00:16Z'
 publishDate: '2026-05-05T20:00:16Z'
@@ -10,102 +11,99 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bike-parking-and-security-designated-racks-registration-to-prevent-theft-and-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）是澳大利亚自行车通勤率最高的大学之一，其校园内设有超过 2,000 个自行车停车位，分布在 Acton 校区的 40 余个指定区域。根据 ANU 交通与停车管理办公室 2023 年发布的《校园自行车规划》数据，校园注册自行车数量已超过 1,800 辆，但每年仍有约 60 起自行车盗窃报告。随着校园周边堪培拉市区自行车盗窃率在 2022-2023 财年上升 12%（澳大利亚犯罪统计局，2023，《ACT 犯罪统计季度报告》），了解 ANU 的自行车停放规范、注册防盗机制及失窃报案流程，对依赖自行车通勤的学生群体具有直接实用价值。
+The Australian National University (ANU) is one of Australia's highest bike-commuting universities, with more than 2,000 bicycle parking spaces across over 40 designated areas of the Acton campus. According to the Campus Bicycle Plan released by the ANU Transport and Parking Office in 2023, registered bikes on campus number more than 1,800, yet around 60 bicycle thefts are still reported each year. With bicycle theft rates in the Canberra area around campus rising 12% in the 2022-2023 financial year (Australian Bureau of Crime Statistics, 2023, ACT Crime Statistics Quarterly Report), understanding ANU's bike parking rules, registration-based anti-theft mechanisms and theft reporting procedures is of direct practical value to students who commute by bike.
 
-## 指定自行车停放架分布与容量
+## Location and Capacity of Designated Bicycle Racks
 
-ANU Acton 校区将自行车停放设施划分为 **核心教学区**、**住宿学院区** 和 **科研建筑区** 三大集群。核心教学区（如 Chifley Library、Marie Reay 教学中心周围）集中了约 850 个 **环形锁架**，每个架位间距为 0.9 米，符合澳大利亚标准 AS 2890.3-2015 对自行车停放设施的最小间距要求。住宿学院区（如 Bruce Hall、Ursula College 周边）设有 620 个带顶棚的 **遮蔽式停放架**，其中 30% 配备地面锚点，支持 U 型锁固定车架与车轮。
+ANU's Acton campus groups its bicycle parking facilities into three clusters: the **core teaching area**, the **residential college area** and the **research building area**. The core teaching area (around Chifley Library and the Marie Reay Teaching Centre) concentrates about 850 **ring-style racks**, with a spacing of 0.9 metres between racks, meeting the minimum spacing requirements for bicycle parking facilities under Australian Standard AS 2890.3-2015. The residential college area (around Bruce Hall and Ursula College) provides 620 covered **sheltered racks**, 30% of which are fitted with ground anchors that allow U-locks to secure both frame and wheels.
 
-### 主要停放点位置列表
+### List of Key Parking Locations
 
-根据 ANU Facilities & Services 2024 年更新的交互式校园地图，以下为使用率最高的五个停放点：
-- **Chifley Library 北侧**：220 个架位，24 小时照明覆盖，靠近公交枢纽
-- **Union Court 地下停车场**：180 个架位，仅限持有效 ANU 停车许可证的自行车使用
-- **Hancock Library 东侧**：150 个架位，配备维修工具站（含打气筒与六角扳手）
-- **Bruce Hall 入口区**：100 个架位，顶棚覆盖，距离住宿区步行 1 分钟
-- **Research School of Biology 南侧**：90 个架位，邻近实验室建筑，有监控摄像头
+According to the interactive campus map updated by ANU Facilities & Services in 2024, the five most heavily used parking points are:
+- **North side of Chifley Library**: 220 spaces, 24-hour lighting, near the bus interchange
+- **Union Court underground car park**: 180 spaces, restricted to bikes whose owners hold a valid ANU parking permit
+- **East side of Hancock Library**: 150 spaces, with a repair tool station (including a pump and hex keys)
+- **Bruce Hall entrance area**: 100 spaces, covered, a 1-minute walk from residential accommodation
+- **South side of the Research School of Biology**: 90 spaces, adjacent to laboratory buildings, under CCTV
 
-### 停放容量动态调整机制
+### Dynamic Capacity Adjustment Mechanism
 
-ANU 每学年开学首月（2 月和 7 月）会进行 **停放架使用率普查**。2023 年 3 月的普查数据显示，核心教学区在工作日 10:00-14:00 的架位占用率达 87%，而住宿学院区同期仅为 52%。针对高峰时段拥挤问题，校方在 2024 年第一学期增设了 120 个临时折叠式停放架，主要部署在 Kambri Precinct 与 ANU Sports Centre 之间的人行道旁。所有停放架均采用 **不锈钢材质**，地面固定螺栓深度为 15 厘米，可抵抗 200 公斤以上的横向拉力。
+ANU conducts a **rack occupancy census** in the first month of each semester (February and July). The March 2023 census showed the core teaching area reaching 87% occupancy on weekdays from 10:00-14:00, while the residential college area was only 52% over the same period. To address peak-hour congestion, the University installed 120 temporary folding racks in Semester 1 2024, mainly along the footpath between the Kambri Precinct and the ANU Sports Centre. All racks are made of **stainless steel**, with ground anchor bolts sunk 15 centimetres deep, able to resist lateral pull forces of more than 200 kilograms.
 
-## 自行车注册防盗系统
+## Bicycle Registration and Anti-Theft System
 
-ANU 安全办公室运营一套 **免费自行车注册系统**，面向所有在校学生与教职员工开放。注册流程通过 ANU Secure Portal 在线完成，需提供自行车品牌、型号、车架号（通常位于五通下方或头管侧面）及至少两张清晰照片。完成注册后，用户会收到一枚 **防篡改注册贴纸**，贴于车座立管位置。该贴纸采用全息防伪技术，撕除即损毁，防止被转移到被盗车辆上。
+ANU Security operates a **free bicycle registration system** open to all enrolled students and staff. Registration is completed online through the ANU Secure Portal and requires the bike's brand, model, frame number (usually located under the bottom bracket or on the side of the head tube) and at least two clear photos. Once registered, users receive a **tamper-evident registration sticker** to place on the seat tube. The sticker uses holographic anti-counterfeiting technology and is destroyed on removal, preventing it from being transferred to a stolen bike.
 
-### 注册数据与执法联动
+### Registration Data and Enforcement Linkages
 
-截至 2024 年 6 月，ANU 自行车注册数据库累计收录 2,340 辆自行车信息。校方安全巡逻队配备手持终端，可直接扫描停放自行车上的注册贴纸二维码，核对车辆状态。若发现未注册车辆，巡逻队会张贴提醒单，建议车主在 7 天内完成注册。注册系统与 **ACT 警务处（ACT Policing）** 的失窃数据库实现部分数据互通：2023 年通过该联动找回的自行车共 17 辆，占当年 ANU 校园失窃报案总数的 28%。
+As of June 2024, the ANU bicycle registration database held records for 2,340 bikes. Campus security patrols carry handheld terminals that can scan the QR code on registration stickers of parked bikes to verify their status. If an unregistered bike is found, patrols leave a reminder notice advising the owner to register within 7 days. The registration system shares partial data with the **ACT Policing** stolen-vehicle database: in 2023, 17 bikes were recovered through this linkage, accounting for 28% of all theft reports on the ANU campus that year.
 
-### 防盗硬件建议与补贴
+### Anti-Theft Hardware Advice and Subsidies
 
-ANU 安全办公室在开学迎新周期间发放 **U 型锁折扣券**，凭学生证可在校园内的 ANU Shop 以 15 澳元购买市价 35 澳元的 D 型锁。校方官方指南建议使用至少 **16 毫米锁梁直径** 的 U 型锁，并强调将锁穿过车架后轮与固定物体（如停放架横梁）是降低被盗风险的关键操作。根据 ANU 2023 年安全报告，使用 U 型锁的自行车被盗概率比使用钢缆锁的低 63%。
+During O-Week, the ANU Security Office distributes **U-lock discount vouchers**; with a student ID, students can buy a D-lock worth A$35 for A$15 at the ANU Shop on campus. Official University guidance recommends U-locks with a **shackle diameter of at least 16 mm** and stresses that passing the lock through the frame, rear wheel and a fixed object (such as a rack crossbar) is the key action for reducing theft risk. According to the ANU 2023 security report, bikes secured with U-locks are 63% less likely to be stolen than those secured with cable locks.
 
-## 失窃报案流程与官方渠道
+## Theft Reporting Procedure and Official Channels
 
-若自行车在 ANU 校园内被盗，失主应首先通过 **ANU 安全控制中心** 的 24 小时热线（+61 2 6125 2249）进行电话报案。该中心接线员会记录失窃时间、地点、车辆特征及注册编号（如有），并生成 ANU 内部事件编号。同时，失主需在 24 小时内通过 ACT 警务处在线报案系统提交 **正式失窃报告**，获取警局案件编号（Police Event Number）。
+If a bike is stolen on the ANU campus, the owner should first report it by phone to the **ANU Security Control Centre** 24-hour hotline (+61 2 6125 2249). Operators record the time, location, bike features and registration number (if any), and generate an internal ANU event number. At the same time, the owner must submit a **formal theft report** through the ACT Policing online reporting system within 24 hours to obtain a Police Event Number.
 
-### 校内调查与监控调取
+### Campus Investigation and CCTV Access
 
-ANU 安全办公室拥有覆盖校园主要停放点的 **闭路电视监控系统**，共部署 312 个高清摄像头，其中 85 个直接对准自行车停放区域。监控录像保留周期为 30 天。失主在提供 ANU 事件编号后，可申请调取特定时段与地点的录像片段。2023 年全年，安全办公室通过监控回放成功识别 12 名盗窃嫌疑人，其中 9 人被移交 ACT 警方处理。调取申请需填写 ANU 安全办公室的《监控录像访问申请表》，审批周期通常为 3-5 个工作日。
+The ANU Security Office operates a **closed-circuit television (CCTV) system** covering the main parking points across campus, with 312 high-definition cameras deployed, 85 of which point directly at bicycle parking areas. Footage is retained for 30 days. After providing the ANU event number, owners can apply to access footage for a specific time and location. During 2023, the Security Office identified 12 theft suspects through footage review, 9 of whom were referred to ACT Police. Access requests require the ANU Security Office's CCTV Footage Access Application Form, with approval typically taking 3-5 business days.
 
-### 保险理赔与后续步骤
+### Insurance Claims and Next Steps
 
-多数 ANU 学生持有的 **个人财产保险**（如通过 NUS 或各银行信用卡附带的保险）涵盖自行车失窃，但通常要求提供警局案件编号与购买凭证。建议学生在购买自行车后保留原始收据或电子发票，并拍摄带有车架号的特写照片。若自行车在宿舍楼内指定停放区被盗，还可向 **ANU Accommodation Services** 提交补充报告，该部门可能根据《住宿合同条款》第 8.2 条评估是否提供临时替代交通工具（如校园共享单车租用券）。2023 年，Accommodation Services 共发放 43 张价值 20 澳元的共享单车代金券作为失窃补偿。
+Most ANU students hold **personal property insurance** (such as through NUS or bank credit card add-ons) that covers bicycle theft, but insurers usually require the Police Event Number and proof of purchase. Students are advised to keep the original receipt or e-invoice after buying a bike and to photograph the frame number in close-up. If a bike is stolen from a designated parking area in a residential hall, students can also submit a supplementary report to **ANU Accommodation Services**, which may assess under clause 8.2 of the Residential Agreement Terms whether to provide temporary alternative transport (such as campus shared-bike vouchers). In 2023, Accommodation Services issued 43 shared-bike vouchers worth A$20 each as theft compensation.
 
-## 校园内自行车骑行规范
+## Cycling Rules on Campus
 
-ANU 校园内自行车骑行受《ANU 校园交通规则》（2023 年修订版）约束，该规则依据《ACT 道路安全法 2000》制定。在校园道路与车道上，自行车骑行者必须遵守 **限速 25 公里/小时** 的规定，并在人行道上骑行时需下车推行。校园内设有 6 条 **共享路径**（shared paths），总长度约 4.2 公里，连接校园南北两端，这些路径上自行车与行人共享空间，骑行者需优先让行行人。
+Cycling on the ANU campus is governed by the ANU Campus Traffic Rules (2023 revision), made under the ACT Road Safety Act 2000. On campus roads and lanes, cyclists must obey the **25 km/h speed limit** and must dismount and walk when riding on footpaths. There are 6 **shared paths** on campus, totalling about 4.2 kilometres, connecting the north and south ends of the campus; on these paths cyclists share space with pedestrians and must give way to them.
 
-### 照明与反光装备要求
+### Lighting and Reflector Requirements
 
-根据 ACT 法律，在日落后或能见度低于 200 米时骑行，自行车必须配备 **前白色灯** 与 **后红色灯**，且灯具需在 200 米外可见。ANU 安全办公室在每年 5 月（冬季开始前）举办免费 **自行车灯检查活动**，为未配备灯具的学生提供免费 LED 灯组。2023 年的活动共发放 340 套灯组，其中 28% 的受检自行车存在至少一项照明缺陷。校方建议同时安装车轮反光片与踏板反光片，以提升侧面可见度。
+Under ACT law, when riding after sunset or in visibility below 200 metres, bikes must be fitted with a **white front light** and a **red rear light**, visible from 200 metres away. Each May (before winter sets in), the ANU Security Office runs a free **bike light check event**, providing free LED light sets to students without lights. The 2023 event distributed 340 light sets, with 28% of inspected bikes found to have at least one lighting defect. The University also recommends fitting wheel reflectors and pedal reflectors to improve side visibility.
 
-### 违规处罚与教育替代
+### Penalties and Education Alternatives
 
-违反校园骑行规范的行为由 ANU 安全巡逻队与 ACT 警方联合执法。2023 年共发出 47 份 **违规警告通知**，主要针对超速骑行（时速超过 35 公里）与在人流密集区未下车推行。首次违规者可选择参加 90 分钟的 **自行车安全在线课程** 替代罚款；重复违规者则面临 50-150 澳元的罚款。该课程通过 ANU 学习管理系统（Wattle）提供，内容包括校园骑行路线图、事故案例分析与正确锁车示范视频。
+Breaches of campus cycling rules are enforced jointly by the ANU Security patrols and ACT Police. In 2023, 47 **breach warning notices** were issued, mainly for speeding (over 35 km/h) and failing to dismount in crowded areas. First-time offenders can choose to complete a 90-minute **online cycling safety course** instead of paying a fine; repeat offenders face fines of A$50-150. The course is delivered through the ANU learning management system (Wattle) and covers campus cycling route maps, accident case analyses and correct locking demonstration videos.
 
-## 长期停放车辆处理政策
+## Policy for Long-Term Abandoned Bikes
 
-ANU 对长期无人认领的自行车实行 **季度清理制度**。安全巡逻队每学期末（6 月与 11 月）对校园内所有停放点进行巡查，标记明显损坏、轮胎干瘪或覆盖厚尘的车辆。被标记车辆上会张贴 **黄色通知单**，注明清理日期（通常为通知后 14 天）。若车主在期限内未移走车辆，该车将被转移至 **ANU 仓储中心**（位于 Acton 校区南端，Building 137）存放 30 天。
+ANU runs a **quarterly clearance program** for long-abandoned bicycles. At the end of each semester (June and November), security patrols inspect all parking points on campus and flag bikes that are visibly damaged, have flat tyres or are covered in thick dust. Flagged bikes receive a **yellow notice** stating the clearance date (usually 14 days after the notice). If the owner has not removed the bike by then, it is moved to the **ANU storage facility** (Building 137, at the southern end of the Acton campus) and held for 30 days.
 
-### 认领与处置流程
+### Claiming and Disposal Process
 
-车主认领被清理车辆时需提供注册证明或购买凭证，并支付 25 澳元的仓储管理费。2023 年，ANU 仓储中心共接收 68 辆清理自行车，其中 31 辆被车主认领，剩余 37 辆在 30 天保管期结束后通过 **ANU 旧货拍卖** 处理。拍卖所得款项（2023 年总计 1,870 澳元）全部捐赠给 ANU 学生绿色基金，用于校园可持续交通项目。未认领的废弃车架会被拆解，金属部件送至堪培拉本地回收商处理。
+Owners claiming a cleared bike must provide proof of registration or purchase and pay a A$25 storage management fee. In 2023, the ANU storage facility received 68 cleared bikes; 31 were claimed by their owners, and the remaining 37 were sold through the **ANU second-hand auction** after the 30-day holding period. Auction proceeds (A$1,870 in total for 2023) were all donated to the ANU Student Green Fund to support campus sustainable transport projects. Unclaimed scrap frames are dismantled, with metal parts sent to local Canberra recyclers.
 
-### 季节性停放调整
+### Seasonal Parking Adjustments
 
-在每年 12 月至次年 2 月的夏季学期期间，ANU 会临时关闭部分高人流区域（如 Kambri Precinct 中央广场）的停放架，用于校园活动场地搭建。受影响停放点的自行车会被引导至附近替代区域，替代区域距离原停放点不超过 150 米。校方通过 ANU 安全应用推送通知与校园电子屏提前 7 天发布调整信息。2023-2024 夏季学期共涉及 4 个停放点的临时关闭，影响约 300 个架位。
+During the summer semester (December to February each year), ANU temporarily closes racks in some high-traffic areas (such as the central plaza of the Kambri Precinct) for campus event staging. Bikes affected are directed to nearby alternative areas no more than 150 metres from the original location. The University publishes adjustment notices 7 days in advance via the ANU security app and campus electronic screens. The 2023-2024 summer semester involved the temporary closure of 4 parking points, affecting about 300 spaces.
 
-## 校园自行车基础设施升级计划
+## Campus Cycling Infrastructure Upgrade Plan
 
-ANU 在 2024 年发布的《校园交通总体规划（2024-2028）》中，将自行车基础设施列为重点投资方向。计划投入 180 万澳元用于以下项目：在校园东侧入口（靠近 Sullivans Creek 沿岸）新建一个 **双层自行车停放架系统**，预计增加 300 个架位；在所有主要停放点安装 **太阳能充电站**，兼容电动自行车电池；以及升级现有监控摄像头的分辨率至 4K 标准，覆盖死角区域。
+In its Campus Transport Master Plan (2024-2028) released in 2024, ANU names cycling infrastructure as a key investment priority. A total of A$1.8 million is planned for the following projects: a new **two-tier bicycle rack system** at the eastern campus entrance (near Sullivans Creek), expected to add 300 spaces; **solar charging stations** at all major parking points, compatible with e-bike batteries; and upgrades to existing CCTV cameras to 4K resolution, covering blind spots.
 
-### 电动自行车与共享单车管理
+### E-Bike and Shared-Bike Management
 
-针对电动自行车数量增长（2023 年注册量较 2022 年增长 41%），ANU 在 2024 年第二季度推出了 **电动自行车专用停放区**，首批 3 个试点区域分别位于 Hancock Library、ANU Union 与 Research School of Engineering 附近。这些区域配备 16 个充电插座，每次充电限时 4 小时，需通过 ANU 安全应用预约。同时，校方与共享单车运营商（如 Lime 与 Beam）协商，在校园内划定 10 个 **共享单车停放点**，每个点可容纳 20-30 辆共享单车，禁止共享单车占用个人自行车架位。
+In response to the growth in e-bike numbers (registrations up 41% in 2023 versus 2022), ANU launched **dedicated e-bike parking areas** in Q2 2024, with the first 3 pilot zones near Hancock Library, ANU Union and the Research School of Engineering. These zones have 16 charging outlets, each limited to 4 hours per charge and bookable through the ANU security app. At the same time, the University has negotiated with shared-bike operators (such as Lime and Beam) to designate 10 **shared-bike parking points** on campus, each holding 20-30 shared bikes, and shared bikes are banned from occupying individual bike racks.
 
-### 社区反馈与参与机制
+### Community Feedback and Participation
 
-ANU 通过 **停车与交通咨询委员会**（Parking and Transport Advisory Committee）每学期召开一次公开会议，接收学生对自行车设施的改进建议。2024 年第一季度的会议共收到 23 条书面反馈，其中 17 条涉及停放架间距过窄（建议从 0.9 米扩至 1.2 米）与缺少维修工具站。校方回应称，将在 2025 年预算中优先考虑这些改进项。学生可通过 ANU 官网的 "Report an Issue" 表单随时提交关于自行车设施的投诉或建议，处理时限为 10 个工作日。
+ANU convenes a public meeting of the **Parking and Transport Advisory Committee** each semester to receive student suggestions on cycling facilities. The Q1 2024 meeting received 23 written submissions, 17 of which concerned rack spacing being too narrow (suggestions to widen from 0.9 metres to 1.2 metres) and the lack of repair tool stations. The University responded that these improvements would be prioritised in the 2025 budget. Students can submit complaints or suggestions about cycling facilities at any time via the "Report an Issue" form on the ANU website, with a processing time of 10 business days.
 
 ## FAQ
 
-### Q1：ANU 校园内自行车被盗后，最快多久能拿到监控录像？
+### Q1: After my bike is stolen on the ANU campus, how quickly can I get CCTV footage?
+CCTV footage access approval usually takes 3-5 business days, but owners can request urgent access through the ANU Security Control Centre within 24 hours of reporting, applicable to cases within 48 hours of the incident. In 2023, 3 cases received footage on the day of reporting, helping police recover the stolen bikes within 72 hours.
 
-监控录像调取审批通常需要 3-5 个工作日，但失主可在报案后 24 小时内通过 ANU 安全控制中心申请紧急调取，适用于案发后 48 小时内的案件。2023 年有 3 起案件在报案当天即获得录像片段，帮助警方在 72 小时内追回被盗车辆。
+### Q2: Will I be fined for not registering my bike?
+ANU does not require bike registration, but unregistered bikes have a significantly lower recovery rate after theft. Of the 17 bikes recovered in 2023, 14 were registered, or 82%. In addition, unregistered bikes are more likely to be mistaken for abandoned bikes in quarterly clearances, and owners must pay a A$25 storage fee to get them back.
 
-### Q2：不注册自行车会被罚款吗？
+### Q3: Do e-bikes need a special permit to ride on campus?
+No special permit is needed, but e-bikes must comply with the ACT legal **power limit (250 watts)** and **speed limit (25 km/h assisted)**. Illegally modified bikes (such as derestricted ones) may face a A$300 fine. For cross-border tuition payments, some international student families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-bike-parking-and-security-designated-racks-registration-to-prevent-theft-and) to complete their currency transfers.
 
-ANU 不强制要求自行车注册，但未注册车辆在失窃后找回概率显著降低。2023 年找回的 17 辆自行车中，有 14 辆是注册车辆，占比 82%。此外，未注册车辆在季度清理中更容易被误认为废弃车辆，车主需支付 25 澳元仓储费才能取回。
-
-### Q3：电动自行车在校园内骑行需要特殊许可证吗？
-
-不需要特殊许可证，但电动自行车必须符合 ACT 法律规定的 **功率限制（250 瓦）** 与 **速度限制（25 公里/小时辅助）**。违规改装车辆（如解除限速）可能面临 300 澳元罚款。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-bike-parking-and-security-designated-racks-registration-to-prevent-theft-and) 等专业通道完成结汇。
-
-## 参考资料
-- 澳大利亚国立大学 Facilities & Services 2024 《校园交通总体规划（2024-2028）》
-- 澳大利亚犯罪统计局 2023 《ACT 犯罪统计季度报告（2022-2023 财年）》
-- ACT 警务处 2023 《堪培拉自行车失窃年度数据简报》
-- 澳大利亚标准协会 2015 《AS 2890.3-2015 自行车停放设施》
-- Unilink Education 2024 《澳洲八大高校自行车管理数据库》
+## References
+- Australian National University Facilities & Services 2024, Campus Transport Master Plan (2024-2028)
+- Australian Bureau of Crime Statistics 2023, ACT Crime Statistics Quarterly Report (2022-2023 financial year)
+- ACT Policing 2023, Canberra Bicycle Theft Annual Data Briefing
+- Standards Australia 2015, AS 2890.3-2015 Bicycle Parking Facilities
+- Unilink Education 2024, Australian Group of Eight Universities Cycling Management Database

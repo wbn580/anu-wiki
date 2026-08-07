@@ -1,6 +1,7 @@
 ---
+slug: anu-residential-hall-fire-safety-evacuation-route-maps-fire-drill-requirements-a
 title: "ANU Residential Hall Fire Safety: Evacuation Route Maps, Fire Drill Requirements, and Prohibited Items in Rooms"
-description: "澳大利亚国立大学（ANU）校内共运营16栋住宿楼，覆盖约6,500名学生床位。根据澳大利亚首都领地（ACT）紧急服务局2023年发布的《住宿建筑消防安全指南》，ANU所有住宿楼均需配备符合AS 1851-2012标准的消防系统，并执行每学期至少一次的强制火警疏散演练。2024年ANU安全办公室年度报告显示，宿舍区…"
+description: "Australian National University (ANU) operates 16 residential buildings on campus, providing around 6,500 student beds. Under the Residential Building Fire Safety Guide issued by the ACT Emergency Services Agency in 2023, all ANU residential buildings must be fitted with fire systems compliant with AS 1851-2012 and run a mandatory fire evacuation drill at least once per semester. The 2024 ANU Safety Office annual report shows that halls triggered fire alarms 217 times across the year, with about 68% caused by cooking negligence, misuse of electrical appliances or smoke alarm false triggers. Drawing on the official ANU accommodation handbook, ACT fire regulations and the student accommodation terms as revised for 2025, this article walks through where to find evacuation route maps, how fire drills work and the list of prohibited items in rooms, as a verifiable compliance reference for current residents and incoming students."
 category: "ANU"
 pubDatetime: '2026-05-10T20:01:18Z'
 publishDate: '2026-05-10T20:01:18Z'
@@ -10,85 +11,85 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residential-hall-fire-safety-evacuation-route-maps-fire-drill-requirements-a-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）校内共运营16栋住宿楼，覆盖约6,500名学生床位。根据澳大利亚首都领地（ACT）紧急服务局2023年发布的《住宿建筑消防安全指南》，ANU所有住宿楼均需配备符合AS 1851-2012标准的消防系统，并执行每学期至少一次的强制火警疏散演练。2024年ANU安全办公室年度报告显示，宿舍区全年触发火警警报共计217次，其中约68%由烹饪疏忽、电器违规使用或烟雾报警器误触引起。本文基于ANU官方住宿手册、ACT消防法规及2025年最新修订的学生住宿条款，系统梳理宿舍疏散路线图获取方式、火警演练执行规则及房间内禁止携带物品清单，为在校生及准备入住的新生提供可查证的合规参考。
+Australian National University (ANU) runs 16 residential buildings on campus, covering around 6,500 student beds. Under the Residential Building Fire Safety Guide issued by the ACT Emergency Services Agency in 2023, every ANU residential building must be fitted with fire systems compliant with AS 1851-2012 and hold a mandatory fire evacuation drill at least once per semester. The ANU Safety Office's 2024 annual report shows that halls triggered fire alarms 217 times across the year, with about 68% caused by cooking negligence, misuse of electrical appliances or smoke alarm false triggers. Drawing on the official ANU accommodation handbook, ACT fire regulations and the student accommodation terms as revised for 2025, this article walks through where to find evacuation route maps, how fire drills work and the list of prohibited items in rooms — a verifiable compliance reference for current residents and new students preparing to move in.
 
-## 疏散路线图：位置、更新周期与获取方式
+## Evacuation Route Maps: Locations, Update Cycles and How to Get Them
 
-ANU每一栋住宿楼均依法在公共区域张贴**疏散路线图**，这些图纸需符合澳大利亚标准AS 3745-2010《建筑物应急管理计划》的图例规范。图纸通常固定在每层楼梯间入口处、电梯厅及主要走廊交叉点，采用荧光背板封装，确保断电后仍可辨识。根据ANU设施管理处2024年内部审计，全校住宿楼疏散图覆盖率为100%，但约12%的图纸存在张贴高度超过1.8米或局部遮挡的问题，不符合ACT消防安全（一般）条例2016第4.2条规定的“无障碍可视”要求。
+Every ANU residential building is legally required to display **evacuation route maps** in common areas. The diagrams must follow the legend requirements of Australian Standard AS 3745-2010, Planning for emergencies in facilities. They are usually fixed at the entrance to the stairwell on each floor, in lift lobbies and at major corridor junctions, mounted in fluorescent-backed frames so they remain readable in a blackout. According to ANU Facilities Management's 2024 internal audit, evacuation map coverage across all halls is 100%, but about 12% of the maps are mounted higher than 1.8 metres or partially obscured, which doesn't meet the "unobstructed visibility" requirement of clause 4.2 of the ACT Fire Safety (General) Regulation 2016.
 
-### 电子版获取路径
-除实体张贴外，ANU安全办公室自2023年起将**数字版疏散路线图**上传至学生门户网站“ANU Safety Hub”。学生登录后，在“My Residence”模块下选择对应楼栋，即可下载PDF格式的楼层平面图。每张图纸均标注了最近的两个独立逃生出口、消防楼梯位置、手动火警呼叫点及消防栓箱编号。ANU要求各栋图纸每学年至少更新一次，若楼内发生结构改造（如2024年Bruce Hall重建工程），则需在施工完成后的14天内完成图纸修订并重新张贴【ANU安全办公室，2024，Annual Fire Safety Compliance Report】。
+### Getting Digital Copies
+Alongside the printed maps, the ANU Safety Office has uploaded **digital evacuation route maps** to the student portal "ANU Safety Hub" since 2023. After logging in, students select their building under the "My Residence" module to download a PDF floor plan. Each plan marks the two nearest independent exits, the fire stair locations, manual fire alarm call points and fire hose reel cabinet numbers. ANU requires each building's plans to be updated at least once per academic year; if structural changes are made (such as the 2024 Bruce Hall rebuild), the plans must be revised and re-posted within 14 days of construction finishing [ANU Safety Office, 2024, Annual Fire Safety Compliance Report].
 
-### 关键标识解读
-疏散路线图上使用国际通用的**ISO 7010安全标志**。绿色箭头表示逃生路径，红色方框标记灭火器与消防卷盘，蓝色三角形代表手动报警按钮。ANU特别要求图纸上标注“避险点”（Warden Point）——即每层楼指定的集合区候命位置，通常位于消防楼梯门内侧。学生若发现图纸褪色、破损或与实际布局不符，应通过“Fix My Campus”系统提交报修，ANU规定响应时限为48小时。
+### Reading the Key Symbols
+Evacuation route maps use the international **ISO 7010 safety signs**. Green arrows mark escape routes, red squares mark fire extinguishers and hose reels, and blue triangles mark manual call points. ANU specifically requires maps to show the "Warden Point" — the designated assembly and standby position on each floor, usually just inside the fire stair door. If you notice maps that are faded, damaged or out of step with the actual layout, log a job through the "Fix My Campus" system; ANU's stated response time is 48 hours.
 
-## 火警演练：频率、参与义务与违规后果
+## Fire Drills: Frequency, Participation Obligations and Consequences
 
-ANU住宿合同条款第9.2条明确将**火警疏散演练**列为强制性住宿义务。根据ACT《工作健康与安全法》2011第40条及ANU住宿政策，每栋住宿楼每学期必须组织至少一次全楼疏散演练，时间通常安排在学期第一周或第二周的周三晚间19:00-20:00。2024年数据表明，全校16栋楼全年共完成演练32场，平均参与率为89.4%，其中Bruce Hall和Fenner Hall的参与率超过95%【ANU住宿服务，2024，Residential Life Annual Report】。
+Clause 9.2 of the ANU accommodation contract makes **fire evacuation drills** a mandatory accommodation obligation. Under section 40 of the ACT Work Health and Safety Act 2011 and ANU accommodation policy, every residential building must hold at least one full-building evacuation drill per semester, usually on a Wednesday evening between 19:00 and 20:00 in the first or second week of term. 2024 data shows the 16 buildings ran 32 drills across the year with an average participation rate of 89.4%, with Bruce Hall and Fenner Hall both above 95% [ANU Accommodation Services, 2024, Residential Life Annual Report].
 
-### 演练流程与时间标准
-演练启动时，楼内火警警报器会触发连续脉冲声（ISO 8201标准模式）。从警报响起至最后一名人员到达室外集合点，ANU设定的**目标疏散时间**为3分30秒，该基准参照澳大利亚建筑规范BCA 2019 Table E2.2a对高层住宿建筑的逃生时间要求。疏散过程中禁止使用电梯，必须通过消防楼梯下行。到达集合点后，每层楼的学生代表（Floor Tutor）会进行人数清点，并将结果报告给楼栋消防管理员（Building Warden）。未在集合点登记的学生会被记录为“未参与”，连续两次缺席将触发住宿纪律程序。
+### Drill Procedure and Time Standards
+When a drill starts, the building's fire alarm sounds a continuous pulsed tone (the ISO 8201 pattern). From the alarm sounding to the last person reaching the outdoor assembly point, ANU's **target evacuation time** is 3 minutes 30 seconds, a benchmark drawn from the escape time requirements for high-rise residential buildings in Table E2.2a of the National Construction Code (BCA 2019). Lifts must not be used during an evacuation — everyone exits via the fire stairs. At the assembly point, the student representative for each floor (Floor Tutor) takes a headcount and reports it to the Building Warden. Students who don't register at the assembly point are recorded as "not participating", and two consecutive absences trigger the residential discipline procedure.
 
-### 豁免与补练机制
-因医疗原因无法参与演练的学生，需提前向住宿服务办公室提交**医疗豁免证明**，并完成线上消防安全培训课程（时长约20分钟）。该课程包含交互式逃生路径模拟及灭火器使用演示，完成记录会保留在ANU安全培训系统中。若因课程时间冲突错过演练，学生可在演练后一个工作日内联系楼栋管理员，安排补练——补练形式为单独讲解逃生路线并签署确认书，不另行组织全楼模拟。
+### Exemptions and Make-Up Drills
+Students who can't take part for medical reasons must submit a **medical exemption certificate** to the Accommodation Services Office in advance, and complete the online fire safety training course (about 20 minutes). The course includes an interactive evacuation route simulation and a fire extinguisher demonstration; completion is recorded in the ANU safety training system. If you miss a drill because of a timetable clash, you can contact your building manager within one working day after the drill to arrange a make-up — this takes the form of a one-on-one walkthrough of the escape routes plus signing an acknowledgement, not another full-building simulation.
 
-## 房间内禁止物品与电器限制
+## Prohibited Items and Appliance Restrictions in Rooms
 
-ANU宿舍房间的**禁止物品清单**依据ACT《消防安全条例》第5章及ANU住宿政策2025版制定，覆盖电器、易燃物、改装设备三大类。违规物品一旦被发现，宿舍管理员有权当场没收，并记入学生住宿记录；多次违规可能导致住宿合同终止。
+The **prohibited items list** for ANU hall rooms is based on Chapter 5 of the ACT Fire Safety Regulation and the 2025 edition of ANU accommodation policy, and covers three categories: electrical appliances, flammable materials and modified equipment. If prohibited items are found, hall managers have the right to confiscate them on the spot and record the incident on your accommodation file; repeated violations can lead to termination of the accommodation contract.
 
-### 高功率电器与热源设备
-房间内禁止使用任何**额定功率超过1,500瓦**的加热设备，包括但不限于电暖器、电热毯（仅限低功率型号获批）、电饭煲、电磁炉、油炸锅及烤面包机。ANU宿舍每间标准单人间电路最大负载为2,400瓦，而共用厨房区域已配备合规的微波炉、电热水壶和电炉。2024年宿舍安全检查数据显示，全年共查处违规电器436件，其中电饭煲占32%、电暖器占28%、电热毯占15%【ANU住宿服务，2024，Room Inspection Summary】。禁止携带的物品还包括蜡烛、香薰炉、油灯及任何明火源，宿舍内全面禁烟，含电子烟。
+### High-Power Appliances and Heat Sources
+Any **heating device rated above 1,500 watts** is banned from rooms, including (but not limited to) electric heaters, electric blankets (only low-power models are approved), rice cookers, induction cookers, deep fryers and toasters. The electrical circuit in each standard single room at ANU has a maximum load of 2,400 watts, while shared kitchen areas already come with compliant microwaves, electric kettles and electric stoves. 2024 room inspection data shows 436 non-compliant appliances were found across the year: rice cookers 32%, electric heaters 28% and electric blankets 15% [ANU Accommodation Services, 2024, Room Inspection Summary]. Also banned are candles, oil burners, oil lamps and any open flame; halls are fully smoke-free, including e-cigarettes.
 
-### 改装与储存限制
-房间内禁止私自改装**烟雾报警器**，包括用塑料袋、浴帽或胶带遮盖报警器。ACT消防局2023年通报指出，ANU宿舍区因报警器被遮挡导致的误报延误平均每次增加2.1分钟，显著提高了真实火灾风险。此外，房间内不得存放超过5升的易燃液体（如酒精、油漆稀释剂），自行车及大型运动器材不得阻塞走廊或消防楼梯间。阳台区域禁止堆放纸箱、旧衣物等杂物，ANU规定阳台净空高度不得低于1.2米，以确保紧急情况下可作为备选逃生通道使用。
+### Modification and Storage Restrictions
+It's prohibited to tamper with your room's **smoke alarm**, including covering it with plastic bags, shower caps or tape. The ACT Fire and Rescue 2023 report noted that covered alarms in ANU halls added an average of 2.1 minutes of delay per false alarm, significantly increasing real fire risk. In addition, rooms may not store more than 5 litres of flammable liquids (such as alcohol or paint thinner), and bicycles and large sports equipment must not block corridors or fire stairwells. Balconies must stay clear of cardboard boxes, old clothes and similar clutter; ANU requires a clear height of at least 1.2 metres so the balcony can serve as an alternate escape route in an emergency.
 
-### 违规处理流程
-若房间检查或火警调查中发现违禁物品，宿舍管理员会开具**黄色违规通知单**，注明物品名称、发现日期及处理方式。首次违规通常给予书面警告，并要求学生在24小时内将物品带离宿舍或上交保管。第二次违规将触发住宿行为积分扣减（每名学生初始积分为100分，扣至70分以下将启动住宿合同审查）。2024年共有11名学生因累计违规被终止住宿合同，其中8起涉及多次使用高功率电暖器。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-fire-safety-evacuation-route-maps-fire-drill-requirements-a) 等专业通道完成结汇。
+### Handling Violations
+If room inspections or fire investigations turn up prohibited items, the hall manager issues a **yellow violation notice** listing the item, the date it was found and the action to be taken. A first offence usually brings a written warning and a requirement to remove the item from the hall or hand it in for safekeeping within 24 hours. A second offence triggers a deduction from your residential behaviour points (every student starts with 100 points; dropping below 70 starts a review of your accommodation contract). In 2024, 11 students had their accommodation contracts terminated for accumulated violations, 8 of them involving repeated use of high-power electric heaters. For cross-border tuition payments, some international student families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-fire-safety-evacuation-route-maps-fire-drill-requirements-a) to settle their remittances.
 
-## 火警误报：常见原因与法律责任
+## False Fire Alarms: Common Causes and Liability
 
-ANU宿舍区的**火警误报**是宿舍管理中最频发的安全事件。根据ANU安全办公室2024年数据，全年217次火警警报中，仅18次（8.3%）确认为真实火情（如烤箱起火、微波炉过热），其余均为误报。误报不仅干扰学生作息，还会触发ACT消防局出警，每次出警费用约为1,200澳元，由ANU承担后可能向责任学生追偿。
+**False fire alarms** are the most frequent safety incident in ANU halls. According to ANU Safety Office 2024 data, of the 217 alarms that year, only 18 (8.3%) were confirmed real fires (such as oven fires or overheating microwaves); the rest were false alarms. False alarms don't just disrupt residents' sleep and study — they also send ACT Fire and Rescue crews out, at a cost of about AUD 1,200 per callout, which ANU pays and may then recover from the student responsible.
 
-### 常见误报触发源
-统计显示，烹饪产生的蒸汽及烟雾是误报的首要原因，占全年误报总数的47%。ANU宿舍厨房区域安装的离子式烟雾探测器对烹饪气溶胶极为敏感，尤其在未开启抽油烟机的情况下。其次为**淋浴蒸汽**（21%），尤其是浴室门未完全关闭导致蒸汽扩散至走廊报警器。第三大类为**电子烟及香薰机**（12%），尽管宿舍禁止吸烟，但部分学生使用电子烟或超声波香薰机释放的细小颗粒物仍能触发高灵敏度报警器。
+### Common False Alarm Triggers
+Statistics show that cooking steam and smoke are the leading cause of false alarms, accounting for 47% of the annual total. The ionisation smoke detectors in ANU hall kitchens are extremely sensitive to cooking aerosols, especially when the range hood isn't running. Next comes **shower steam** (21%), particularly when bathroom doors are left open and steam drifts out to corridor alarms. The third category is **e-cigarettes and aroma diffusers** (12%) — smoking is banned in halls, but fine particles from e-cigarettes or ultrasonic diffusers can still trip the highly sensitive detectors.
 
-### 责任认定与费用分摊
-若调查确认误报由特定学生的行为直接导致（如使用违禁电器、遮盖报警器、在房间内吸烟），该学生需承担**消防出警费用**的50%，即约600澳元。ANU住宿政策2025版第8.4条规定，费用将从学生住宿押金中扣除，并记录在学生行为档案中。若无法确定具体责任人，费用由该楼层全体学生分摊——2024年Bruce Hall某楼层因一起未查明来源的误报，每位学生被扣除12.50澳元。学生可在收到费用通知后的10个工作日内向住宿服务办公室提交书面申诉。
+### Determining Responsibility and Sharing Costs
+If an investigation confirms a false alarm was directly caused by a specific student's actions (such as using a banned appliance, covering an alarm or smoking in a room), that student pays **50% of the fire brigade callout fee**, around AUD 600. Clause 8.4 of the 2025 edition of the ANU accommodation policy states the fee is deducted from the student's accommodation bond and recorded on their behaviour file. If no specific person can be identified, the cost is shared by all students on that floor — in 2024, one unidentified false alarm at Bruce Hall cost each student on the floor AUD 12.50. Students can submit a written appeal to the Accommodation Services Office within 10 working days of receiving the fee notice.
 
-## 消防安全培训与证书要求
+## Fire Safety Training and Certification
 
-ANU要求所有住宿学生完成**在线消防安全培训**，作为入住的前提条件。该培训由ANU安全办公室与ACT消防局联合开发，内容涵盖火灾预防、报警器识别、疏散程序及灭火器使用。培训通过ANU的“Compass”学习管理系统发布，学生需在收到住宿确认后的7天内完成，并获得结业证书。
+ANU requires all residential students to complete **online fire safety training** as a condition of moving in. The training was developed jointly by the ANU Safety Office and ACT Fire and Rescue, and covers fire prevention, alarm recognition, evacuation procedures and fire extinguisher use. It's delivered through ANU's "Compass" learning management system; students must finish it within 7 days of receiving their accommodation confirmation and obtain a completion certificate.
 
-### 培训内容与时长
-培训模块包含4个章节，总时长约35分钟。第一章介绍宿舍内常见火灾风险（如电器过载、烹饪油温过高），第二章演示烟雾报警器与热感报警器的区别，第三章展示疏散路线图解读方法，第四章通过3D模拟动画呈现一栋8层宿舍楼的全员疏散流程。学生需在每章末尾完成5道选择题，正确率需达到80%以上方可进入下一章。培训完成后，系统自动生成**PDF证书**，证书编号与ANU学生ID绑定，有效期为12个月。入住时，学生需向宿舍前台出示该证书，未提供者无法领取房间钥匙。
+### Training Content and Duration
+The course has 4 chapters totalling about 35 minutes. Chapter 1 covers common fire risks in halls (such as appliance overload and overheated cooking oil); Chapter 2 demonstrates the difference between smoke alarms and heat alarms; Chapter 3 shows how to read evacuation route maps; Chapter 4 uses a 3D animated simulation of a full evacuation from an 8-storey hall. Each chapter ends with 5 multiple-choice questions, and you need a score of at least 80% to move on. On completion, the system automatically generates a **PDF certificate** tied to your ANU student ID and valid for 12 months. At check-in you must show this certificate at the hall reception desk — without it, you won't get your room key.
 
-### 复训与特殊角色培训
-每学年开始前，学生需重新完成培训并更新证书。对于担任**Floor Tutor**或**Building Warden**的学生，还需额外参加为期半天的线下实战演练，内容包括使用灭火器扑灭模拟火源、操作消防栓系统及引导残障人士疏散。2024年共有142名学生完成了此类进阶培训，其中96%的参与者通过了最终实操考核【ACT消防局，2024，Residential Fire Safety Training Report】。ANU规定，楼栋消防管理员必须持有有效的“一级消防管理员”证书，该证书由澳大利亚消防协会（Fire Protection Association Australia）认证，有效期为3年。
+### Refresher and Specialist Role Training
+At the start of each academic year, students must retake the training and renew their certificate. Students serving as **Floor Tutors** or **Building Wardens** must additionally attend a half-day practical session covering extinguishing a simulated fire with an extinguisher, operating the fire hose reel system and guiding people with disabilities to evacuate. In 2024, 142 students completed this advanced training, and 96% of participants passed the final practical assessment [ACT Fire and Rescue, 2024, Residential Fire Safety Training Report]. ANU requires every Building Warden to hold a valid "Level 1 Fire Warden" certificate accredited by the Fire Protection Association Australia, valid for 3 years.
 
-## 特殊群体：残障学生的疏散方案
+## Supporting Students with Disabilities: Evacuation Arrangements
 
-ANU依据《残疾人歧视法》1992及ACT《紧急管理法》2014，为有**行动、视觉或听觉障碍**的住宿学生制定个性化疏散计划。该计划由ANU无障碍服务办公室与楼栋消防管理员共同制定，并在每学期初进行更新。
+Under the Disability Discrimination Act 1992 and the ACT Emergency Management Act 2014, ANU develops individual evacuation plans for residential students with **mobility, vision or hearing impairments**. The plans are drawn up jointly by the ANU Access & Inclusion Office and the Building Warden, and updated at the start of each semester.
 
-### 个人紧急疏散计划（PEEP）
-残障学生需在入住时填写**PEEP申请表**，注明障碍类型、所需辅助设备及日常活动范围。ANU无障碍服务办公室会在5个工作日内完成评估，并指定一名或多名“疏散助手”（通常为同楼层学生志愿者）。疏散助手负责在警报响起时协助学生到达消防楼梯或指定避险区，并使用“疏散椅”（Evacuation Chair）——一种专为楼梯间设计的履带式搬运设备，承重上限为150公斤——将学生转移至地面层。2024年全校共有34名学生注册了PEEP，涉及16栋住宿楼。
+### Personal Emergency Evacuation Plans (PEEP)
+Students with disabilities fill in a **PEEP application form** at check-in, stating their impairment type, the assistive equipment they need and their usual daily activity range. The ANU Access & Inclusion Office completes its assessment within 5 working days and assigns one or more "evacuation assistants" (usually student volunteers from the same floor). When the alarm sounds, the assistants help the student reach the fire stairs or a designated refuge area, and use an "Evacuation Chair" — a tracked transport device designed for stairwells, with a 150 kg weight limit — to move the student to ground level. In 2024, 34 students across the 16 residential buildings were registered on a PEEP.
 
-### 报警器适配与演练调整
-对于听力障碍学生，ANU在宿舍房间内安装**闪光式烟雾报警器**，其频闪灯亮度为1,200坎德拉，符合AS 1670.4-2018标准。视觉障碍学生的房间门口设有触觉标记，楼梯扶手处安装盲文楼层指示牌。在每学期演练前，楼栋管理员会提前48小时以邮件和短信两种方式通知PEEP注册学生，并安排疏散助手进行一对一预演。演练当天，该学生可在警报响起后延迟90秒开始疏散，以便疏散助手就位。ACT消防局2023年审计指出，ANU的PEEP覆盖率及演练适配度在堪培拉地区高校中排名第一，残障学生疏散成功率连续三年达到100%。
+### Alarm Adaptation and Drill Adjustments
+For students with hearing impairments, ANU installs **flashing smoke alarms** in rooms, with strobes rated at 1,200 candela, compliant with AS 1670.4-2018. Rooms of students with vision impairments have tactile markings at the door, and braille floor indicators on stair handrails. Before each semester's drill, building managers notify PEEP-registered students at least 48 hours in advance by both email and SMS, and arrange a one-on-one rehearsal with their evacuation assistant. On drill day, the student may start evacuating 90 seconds after the alarm sounds, giving the assistant time to get into position. A 2023 ACT Fire and Rescue audit ranked ANU first among Canberra universities for PEEP coverage and drill accessibility, with a 100% successful evacuation rate for students with disabilities for three consecutive years.
 
 ## FAQ
 
-### Q1：ANU宿舍火警演练可以请假吗？请假后需要补吗？
-可以请假。学生需在演练开始前至少24小时向楼栋管理员提交书面请假申请（如课程冲突、医疗预约），获批后需在演练后48小时内完成补练——补练形式为单独听取逃生路线讲解并签署确认书，不另行组织全楼模拟。2024年数据表明，全校演练请假率约为10.6%，其中约92%的学生在48小时内完成了补练【ANU住宿服务，2024，Residential Life Annual Report】。
+### Q1: Can I get out of a fire drill? Do I need to make it up?
+Yes, you can apply for leave. Submit a written request to your building manager at least 24 hours before the drill (for example, for a timetable clash or medical appointment). If approved, you must complete a make-up within 48 hours of the drill — a one-on-one walkthrough of the escape routes plus signing an acknowledgement, not another full-building simulation. 2024 data shows the hall-wide leave rate was about 10.6%, and about 92% of those students completed their make-up within 48 hours [ANU Accommodation Services, 2024, Residential Life Annual Report].
 
-### Q2：宿舍房间内可以使用电热毯吗？
-仅可使用低功率型号（额定功率不超过150瓦）的电热毯，且必须带有自动断电功能。学生需在入住时向宿舍前台登记电热毯品牌及型号，并接受安全检查。2024年宿舍检查中发现，约有8%的学生使用的电热毯功率超过150瓦或缺少过热保护装置，这些物品被当场没收。ANU建议学生优先使用羽绒被或保暖床垫套替代电热毯，以降低电气火灾风险。
+### Q2: Can I use an electric blanket in my room?
+Only low-power models (rated at no more than 150 watts) with an automatic shut-off feature are allowed. At check-in you must register the brand and model of your electric blanket at reception and pass a safety inspection. In 2024 inspections, about 8% of students were found using blankets above 150 watts or without overheat protection, and these were confiscated on the spot. ANU recommends a doona or a thermal mattress topper instead, to reduce the risk of electrical fires.
 
-### Q3：宿舍火警误报后，费用由谁承担？
-若调查确认误报由特定学生行为导致（如使用违禁电器、遮盖报警器），该学生需承担50%的出警费用（约600澳元）。若无法确定责任人，费用由该楼层全体学生分摊，2024年Bruce Hall某次误报导致每位学生被扣除12.50澳元。学生可在收到费用通知后的10个工作日内向住宿服务办公室提交书面申诉，申诉成功率约为15%。
+### Q3: Who pays for a false alarm?
+If the investigation finds the false alarm was caused by a specific student's behaviour (such as using a banned appliance or covering an alarm), that student pays 50% of the callout fee (about AUD 600). If no one is identified, the cost is shared by all students on the floor — in 2024, one false alarm at Bruce Hall cost each student AUD 12.50. You can submit a written appeal to the Accommodation Services Office within 10 working days of the fee notice; the appeal success rate is about 15%.
 
-## 参考资料
-- ACT紧急服务局 2023 《住宿建筑消防安全指南》
-- ANU安全办公室 2024 Annual Fire Safety Compliance Report
-- ANU住宿服务 2024 Residential Life Annual Report
-- ACT消防局 2023 Residential Fire Safety Training Report
-- 澳大利亚消防协会 2024 Fire Safety in Residential Buildings: AS 1851-2012 Compliance
+## References
+- ACT Emergency Services Agency 2023, Residential Building Fire Safety Guide
+- ANU Safety Office 2024, Annual Fire Safety Compliance Report
+- ANU Accommodation Services 2024, Residential Life Annual Report
+- ACT Fire and Rescue 2023, Residential Fire Safety Training Report
+- Fire Protection Association Australia 2024, Fire Safety in Residential Buildings: AS 1851-2012 Compliance

@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生社团创立流程与经费申请指南"
-description: "澳大利亚国立大学（ANU）目前拥有超过 200 个注册学生社团，其中约 30% 由国际学生创立或主导运营（ANU Student Life, 2023）。根据澳大利亚教育、技能与就业部（DESE, 2022）的《国际学生数据年度报告》，ANU 的国际学生占比达 44.8%，这意味着校园内存在大量未被满足的文化、学…"
+slug: anu-国际学生社团创立流程与经费申请指南
+title: "A Guide to Founding an International Student Club at ANU and Applying for Funding"
+description: "The Australian National University (ANU) currently has more than 200 registered student clubs, around 30% of which were founded or are led by international students (ANU Student Life, 2023). According to the International Student Data Annual Report of the Australian Department of Education, Skills and Employment (DESE, 2022), international students make up 44.8% of ANU enrolment, which means there are many unmet cultural, academic and social needs on campus, driving a continuing stream of new club registrations. This article systematically outlines the complete process for ANU international students, from idea development, club registration and funding applications to ongoing operations, citing ANU's official policy documents and the compliance requirements of the Australian Charities and Not-for-profits Commission (ACNC), to provide students who wish to found a club with an actionable pathway."
 category: "ANU 国际学生社团创立"
 pubDatetime: '2026-04-06T19:54:46Z'
 publishDate: '2026-04-06T19:54:46Z'
@@ -10,71 +11,88 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生社团创立流程与经费申请指南-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）目前拥有超过 200 个注册学生社团，其中约 30% 由国际学生创立或主导运营（ANU Student Life, 2023）。根据澳大利亚教育、技能与就业部（DESE, 2022）的《国际学生数据年度报告》，ANU 的国际学生占比达 44.8%，这意味着校园内存在大量未被满足的文化、学术与社交需求，催生了持续的新社团注册需求。本文系统梳理 ANU 国际学生从创意构思、社团注册、经费申请到持续运营的完整流程，引用 ANU 官方政策文件及澳大利亚慈善与非营利机构委员会（ACNC）的合规要求，为有意创立社团的学生提供可操作的路径参考。
+The Australian National University (ANU) currently has more than 200 registered student clubs, around 30% of which were founded or are led by international students (ANU Student Life, 2023). According to the International Student Data Annual Report of the Australian Department of Education, Skills and Employment (DESE, 2022), international students make up 44.8% of ANU enrolment, which means there are many unmet cultural, academic and social needs on campus, driving a continuing stream of new club registrations. This article systematically outlines the complete process for ANU international students, from idea development, club registration and funding applications to ongoing operations, citing ANU's official policy documents and the compliance requirements of the Australian Charities and Not-for-profits Commission (ACNC), to provide students who wish to found a club with an actionable pathway.
 
-## 注册前准备与资格要求
+## Pre-Registration Preparation and Eligibility Requirements
 
-### 核心成员与指导老师
-ANU 规定，任何新社团在提交注册申请前，必须至少拥有 **5 名创始成员**，其中 **3 人须为当前在校注册学生**（含国际学生）。创始成员中需指定 **主席、财务主管、秘书** 三个职务，且财务主管不得由主席兼任（ANU Clubs & Societies Policy, 2024, Section 3.1）。此外，社团必须邀请一名 **ANU 在职教职员工** 担任指导老师（Staff Advisor），该老师需签署书面同意函，确认知晓并支持社团活动。指导老师不参与日常管理，但需对社团财务与活动合规性承担监督责任。
+### Core Members and Staff Advisor
 
-### 社团定位与章程起草
-申请者需提交一份 **社团章程（Constitution）**，内容须涵盖社团名称、宗旨、会员资格规则、选举程序、财务管理制度及解散条款。章程模板可从 ANU 学生协会（ANUSA）官网下载。对于国际学生社团，章程中应明确 **语言使用政策**（如中英双语会议记录）、**文化敏感性条款** 以及 **反歧视声明**，以符合《澳大利亚人权委员会法 1986》的相关要求。章程最终需经全体创始成员投票通过，并在注册时附上签字页。
+ANU requires that, before submitting a registration application, any new club must have at least **5 founding members**, of whom **3 must be currently enrolled students** (international students included). Among the founding members, the three officer positions of **President, Treasurer and Secretary** must be appointed, and the Treasurer cannot be the same person as the President (ANU Clubs & Societies Policy, 2024, Section 3.1). In addition, the club must invite a **current ANU staff member** to serve as Staff Advisor; the advisor must sign a written consent letter confirming awareness of and support for the club's activities. The Staff Advisor does not take part in day-to-day management, but is responsible for oversight of the club's finances and the compliance of its activities.
 
-## 注册流程与审批周期
+### Club Positioning and Drafting the Constitution
 
-### 在线提交与材料清单
-注册通过 **ANU Clubs & Societies Portal** 在线完成。申请者需上传以下文件：章程草案、指导老师同意函、创始成员名单（含学号与签名）、**风险评估表**（针对计划中的活动类型，如户外活动或餐饮聚会）。国际学生还需提供 **签证副本** 以证明持有有效的学生签证（Subclass 500），因为社团财务主管若为非澳大利亚居民，需额外遵守《外国投资法》中关于银行账户的申报规定（ANU Finance Policy, 2023, Appendix B）。
+Applicants must submit a **club constitution** covering the club's name, purpose, membership rules, election procedures, financial management rules and dissolution clause. A constitution template can be downloaded from the ANU Student Association (ANUSA) website. For international student clubs, the constitution should specify a **language use policy** (such as bilingual Chinese-English meeting minutes), **cultural sensitivity clauses** and an **anti-discrimination statement**, to comply with the relevant requirements of the Australian Human Rights Commission Act 1986. The final constitution must be approved by a vote of all founding members, and the signed page must be attached at registration.
 
-### 审批时间与复审机制
-ANU 学生生活办公室（Student Life）承诺在 **15 个工作日** 内完成初审。常见驳回原因包括：章程条款与 ANU 政策冲突（如未明确禁止政治游说）、风险评估不完整、或指导老师未提供官方邮箱。若被驳回，申请者有 **30 天** 修改后重新提交。根据 ANUSA 2023 年度报告，**约 65% 的首次申请在 2 次以内通过**。通过后，社团即获得 **临时注册资格**，有效期为 12 个月；临时期内需完成至少 3 次正式活动，方可转为永久注册。
+## Registration Process and Approval Timeline
 
-## 经费来源与申请路径
+### Online Submission and Document Checklist
 
-### ANU 学生协会（ANUSA）拨款
-ANUSA 每年向注册社团提供 **两类拨款**：**活动拨款（Event Grant）** 和 **运营拨款（Operational Grant）**。活动拨款上限为 **1,500 澳元/次**，用于覆盖场地租赁、设备租赁、餐饮等直接成本；运营拨款上限为 **3,000 澳元/学年**，用于社团日常办公、印刷、网站维护等。申请需在活动开始前 **至少 4 周** 提交，并附上详细预算表与活动计划。拨款资金不可用于购买酒精饮品或支付成员酬劳（ANUSA Grants Policy, 2024, Section 5.2）。
+Registration is completed online through the **ANU Clubs & Societies Portal**. Applicants must upload the following documents: the draft constitution, the Staff Advisor's consent letter, the list of founding members (with student IDs and signatures) and a **risk assessment form** (covering the planned activity types, such as outdoor activities or catering events). International students must also provide a **copy of their visa** to prove they hold a valid student visa (Subclass 500), because if the club Treasurer is not an Australian resident, the club must additionally comply with the reporting requirements on bank accounts under the Foreign Acquisitions and Takeovers Act (ANU Finance Policy, 2023, Appendix B).
 
-### 研究生协会（PARSA）专项基金
-针对研究生社团（包括国际研究生），**PARSA 提供 Community Grant**，上限为 **2,000 澳元/学年**，且允许用于学术研讨会、职业发展工作坊等非社交类活动。国际学生社团若聚焦学术支持（如论文写作互助小组），可优先申请此类基金。PARSA 还设有 **Travel Grant**，用于资助社团代表参加全国性会议（如澳大利亚国际学生联合会会议），单人最高报销 **500 澳元**。
+### Approval Timeframe and Resubmission Mechanism
 
-### 外部赞助与合规限制
-社团可接收校外企业赞助，但须提前向 ANU 法律事务办公室报备。根据 ANU Sponsorship Policy (2023)，**单笔超过 5,000 澳元** 的赞助需签订书面协议，并明确赞助方不得干预社团活动内容。国际学生社团若涉及跨境资金流动（如从母国企业接收赞助），还需遵守《反洗钱与反恐怖融资法 2006》，向 **澳大利亚交易报告与分析中心（AUSTRAC）** 申报。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%A4%BE%E5%9B%A2%E5%88%9B%E7%AB%8B%E6%B5%81%E7%A8%8B%E4%B8%8E%E7%BB%8F%E8%B4%B9%E7%94%B3%E8%AF%B7%E6%8C%87%E5%8D%97) 等专业通道完成结汇，但社团经费账户管理则需使用 ANU 认可的澳大利亚本地银行账户。
+The ANU Student Life office commits to completing the initial review within **15 working days**. Common reasons for rejection include: constitution clauses that conflict with ANU policy (such as failing to explicitly prohibit political lobbying), incomplete risk assessments, or the Staff Advisor not providing an official email address. If rejected, applicants have **30 days** to revise and resubmit. According to the ANUSA 2023 annual report, **around 65% of first-time applications are approved within 2 attempts**. Once approved, the club receives **provisional registration status** valid for 12 months; during the provisional period the club must complete at least 3 official activities before it can convert to permanent registration.
 
-## 财务管理与审计要求
+## Funding Sources and Application Pathways
 
-### 银行账户与账目记录
-每个注册社团必须在 **澳大利亚本地银行**（如 Commonwealth Bank、NAB）开设专用账户，账户名须包含社团全称。财务主管需每月更新 **收支明细表**，并在每学期末提交至 ANU Student Life。国际学生财务主管若英语非母语，可申请使用 **双语记账模板**（ANUSA 提供中文版）。根据 ACNC 规定（ACNC Governance Standards, 2023），年度收入超过 **10 万澳元** 的社团需接受外部审计，但绝大多数 ANU 国际学生社团收入低于此阈值，仅需完成内部审计。
+### ANU Student Association (ANUSA) Grants
 
-### 报销流程与凭证保存
-所有支出需保留 **原始收据或发票**，电子版或纸质版均可。报销申请需经主席与财务主管双签，单笔超过 **200 澳元** 的支出还需指导老师批准。ANUSA 要求拨款使用后 **30 天内** 提交报销凭证，逾期未提交将影响后续拨款申请。社团解散时，剩余资金须按章程规定处置（通常捐赠给 ANU 指定慈善机构或返还 ANUSA）。
+ANUSA provides registered clubs with **two types of grants** each year: **Event Grants** and **Operational Grants**. Event Grants are capped at **AUD 1,500 per event** and cover direct costs such as venue hire, equipment hire and catering; Operational Grants are capped at **AUD 3,000 per academic year** and cover day-to-day club office costs, printing, website maintenance and the like. Applications must be submitted at least **4 weeks** before the event, together with a detailed budget table and an activity plan. Grant funds cannot be used to purchase alcoholic beverages or pay member remuneration (ANUSA Grants Policy, 2024, Section 5.2).
 
-## 活动策划与合规运营
+### Postgraduate Association (PARSA) Dedicated Funds
 
-### 活动审批与保险要求
-所有面向公众的活动（包括非会员参加的活动）需提前 **14 天** 向 ANU Events Team 提交活动申请，并购买 **公共责任保险**（Public Liability Insurance）。ANU 为注册社团提供团体保险，但仅限于校园内活动；校外活动需社团自行购买额外保险，费用可从拨款中支出。国际学生社团举办文化节、美食节等活动时，还需遵守 **ACT 政府食品卫生法规**，提前申请临时食品经营许可证（费用约 50 澳元/天）。
+For postgraduate clubs (including international postgraduate students), **PARSA offers the Community Grant**, capped at **AUD 2,000 per academic year**, and it can be used for non-social activities such as academic seminars and career development workshops. International student clubs focused on academic support (such as thesis-writing mutual-help groups) can apply for this fund as a priority. PARSA also offers a **Travel Grant** to fund club representatives attending national conferences (such as the Council of International Students Australia conference), with a maximum reimbursement of **AUD 500** per person.
 
-### 会员管理与非歧视原则
-社团不得以国籍、种族、宗教或性别为由拒绝会员申请，但可设定合理的语言要求（如活动以中文进行）。会员名单需每学期向 ANU Student Life 更新一次，以确认所有会员均持有有效学生签证。根据 ANU 反性骚扰政策（2024），社团活动必须指定至少一名 **安全联系人（Safety Contact）**，该联系人需完成 ANU 提供的在线培训课程（时长约 2 小时）。
+### External Sponsorship and Compliance Restrictions
 
-## 持续运营与年度审核
+Clubs may accept sponsorship from external companies, but must notify the ANU Legal Office in advance. Under the ANU Sponsorship Policy (2023), **sponsorship exceeding AUD 5,000 in a single payment** requires a written agreement, and must state that the sponsor cannot interfere with the content of the club's activities. If an international student club is involved in cross-border fund flows (such as receiving sponsorship from companies in their home country), it must also comply with the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 and report to the **Australian Transaction Reports and Analysis Centre (AUSTRAC)**. When making cross-border tuition payments, some student families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%A4%BE%E5%9B%A2%E5%88%9B%E7%AB%8B%E6%B5%81%E7%A8%8B%E4%B8%8E%E7%BB%8F%E8%B4%B9%E7%94%B3%E8%AF%B7%E6%8C%87%E5%8D%97) for the currency conversion, but club funding accounts must be managed through ANU-recognised Australian local bank accounts.
 
-### 年度报告与续签
-每年 **10 月 31 日** 前，所有社团需提交年度报告，内容包括：活动总结（至少 3 次）、财务报表（经内部审计）、会员人数统计（需区分国际与本地学生）以及下一年度计划。未提交报告的社团将被 **自动终止注册**，且 12 个月内不得重新申请。根据 ANU Student Life 2023 年数据，**约 18% 的社团因未按时提交报告而被注销**，其中国际学生社团占 25%。
+## Financial Management and Audit Requirements
 
-### 领导层过渡与培训
-每学年末，社团需举行 **换届选举**，选举结果须在 7 天内报备 ANUSA。新一届主席与财务主管必须参加 ANUSA 举办的 **社团管理培训工作坊**（每年 2 月与 7 月各一期），内容涵盖财务合规、活动安全、反歧视法律等。国际学生社团可额外申请 **跨文化沟通培训**，由 ANU 国际学生办公室免费提供。
+### Bank Accounts and Bookkeeping
+
+Every registered club must open a dedicated account with an **Australian local bank** (such as Commonwealth Bank or NAB), and the account name must include the club's full name. The Treasurer must update the **income and expenditure statement** monthly and submit it to ANU Student Life at the end of each semester. International student Treasurers whose first language is not English can apply to use a **bilingual bookkeeping template** (a Chinese version is provided by ANUSA). Under ACNC rules (ACNC Governance Standards, 2023), clubs with annual income above **AUD 100,000** must undergo an external audit, but the vast majority of ANU international student clubs earn below this threshold and only need to complete an internal audit.
+
+### Reimbursement Process and Record Keeping
+
+All expenditure must be supported by **original receipts or invoices**, either electronic or paper. Reimbursement applications require the dual signatures of the President and the Treasurer, and expenditure exceeding **AUD 200** per transaction also requires the Staff Advisor's approval. ANUSA requires reimbursement claims to be submitted within **30 days** of using grant funds; late submission will affect future grant applications. When a club is dissolved, remaining funds must be disposed of according to the constitution (usually donated to an ANU-designated charity or returned to ANUSA).
+
+## Event Planning and Compliant Operations
+
+### Event Approval and Insurance Requirements
+
+All events open to the public (including events attended by non-members) must be submitted to the ANU Events Team at least **14 days** in advance, and the club must purchase **Public Liability Insurance**. ANU provides group insurance for registered clubs, but it covers only on-campus events; for off-campus events the club must purchase additional insurance itself, and the cost can be paid from grant funds. When international student clubs hold cultural festivals, food festivals and similar events, they must also comply with **ACT Government food hygiene regulations** and apply in advance for a temporary food business permit (costing around AUD 50 per day).
+
+### Membership Management and Non-Discrimination Principles
+
+Clubs may not refuse membership applications on the grounds of nationality, ethnicity, religion or gender, but may set reasonable language requirements (for example, activities conducted in Chinese). The membership list must be updated with ANU Student Life once per semester to confirm that all members hold a valid student visa. Under the ANU anti-sexual-harassment policy (2024), club activities must designate at least one **Safety Contact**, who must complete the online training course provided by ANU (approximately 2 hours).
+
+## Ongoing Operations and Annual Review
+
+### Annual Reports and Renewal
+
+By **31 October** each year, all clubs must submit an annual report including: a summary of activities (at least 3), financial statements (internally audited), membership numbers (distinguishing international and local students) and the plan for the following year. Clubs that fail to submit the report will have their **registration automatically terminated**, and may not reapply for 12 months. According to ANU Student Life 2023 data, **around 18% of clubs were deregistered for failing to submit reports on time**, of which international student clubs accounted for 25%.
+
+### Leadership Transition and Training
+
+At the end of each academic year, clubs must hold **committee elections**, and the results must be reported to ANUSA within 7 days. The new President and Treasurer must attend the **club management training workshops** held by ANUSA (one session in February and one in July each year), covering financial compliance, event safety, anti-discrimination law and more. International student clubs can additionally apply for **cross-cultural communication training**, provided free of charge by the ANU International Student Office.
 
 ## FAQ
 
-### Q1：国际学生创立社团是否需要额外签证批准？
-不需要。持有有效澳大利亚学生签证（Subclass 500）的国际学生可正常担任社团负责人，但社团银行账户需以澳大利亚本地地址注册。若社团涉及商业活动（如销售商品），则需向 **澳大利亚商业登记局（ASIC）** 查询是否需要额外许可，但一般非营利社团活动豁免此项要求。
+### Q1: Do international students need additional visa approval to found a club?
 
-### Q2：社团经费申请被拒后，多久可以再次申请？
-被拒后 **30 天** 内不可就同一活动再次申请同一拨款类型。但社团可申请其他拨款类型（如从活动拨款转为运营拨款），或修改活动方案后重新提交。根据 ANUSA 2023 年数据，**约 40% 的首次申请被拒后，第二次申请在 2 个月内获批**。
+No. International students holding a valid Australian student visa (Subclass 500) can serve as club leaders normally, but the club bank account must be registered with an Australian local address. If the club is involved in commercial activities (such as selling goods), you should check with the **Australian Securities and Investments Commission (ASIC)** whether an additional licence is required, but generally non-profit club activities are exempt from this requirement.
 
-### Q3：社团解散后，剩余资金如何处理？
-根据 ANUSA 拨款协议，若社团解散时剩余资金来自 ANUSA 拨款，需全额返还至 ANUSA 社团基金。若资金来自会费或外部赞助，则按章程规定处置——通常捐赠给 ANU 认可的慈善机构（如 ANU 学生紧急援助基金），或按比例退还缴费会员。解散程序需在 **60 天内** 完成，并向 ANU Student Life 提交最终财务报告。
+### Q2: After a funding application is rejected, how soon can the club apply again?
 
-## 参考资料
+After a rejection, the club cannot apply again for the same grant type for the same activity within **30 days**. However, the club can apply for a different grant type (for example, switching from an Event Grant to an Operational Grant), or revise the activity plan and resubmit. According to ANUSA 2023 data, **around 40% of rejected first-time applications are approved on the second attempt within 2 months**.
+
+### Q3: What happens to remaining funds after a club is dissolved?
+
+Under the ANUSA grant agreement, if the remaining funds at dissolution came from ANUSA grants, they must be returned in full to the ANUSA clubs fund. If the funds came from membership fees or external sponsorship, they are disposed of according to the constitution — usually donated to an ANU-recognised charity (such as the ANU Student Emergency Assistance Fund) or refunded proportionally to members who paid fees. The dissolution process must be completed within **60 days**, and a final financial report must be submitted to ANU Student Life.
+
+## References
+
 - ANU Student Life. 2023. *Clubs & Societies Annual Report 2023*.
 - Australian Education, Skills and Employment Department (DESE). 2022. *International Student Data: Year-to-Year Summary*.
 - ANU Clubs & Societies Policy. 2024. Section 3.1–5.4.

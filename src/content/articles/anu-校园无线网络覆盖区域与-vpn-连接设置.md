@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园无线网络覆盖区域与 VPN 连接设置"
-description: "澳大利亚国立大学（ANU）主校区Acton Campus部署了覆盖超过95%教学与公共区域的无线网络系统，由ANU IT Services统一管理，截至2024年，校园内共设有超过1,200个无线接入点（AP），支持eduroam与ANU-Secure两套SSID，日均连接设备数超过18,000台【ANU IT …"
+slug: anu-校园无线网络覆盖区域与-vpn-连接设置
+title: "ANU Campus Wi-Fi Coverage Areas and VPN Connection Setup"
+description: "The Australian National University (ANU) main Acton Campus runs a wireless network covering more than 95% of teaching and public areas, managed centrally by ANU IT Services. As of 2024, the campus has more than 1,200 wireless access points (APs) supporting two SSIDs — eduroam and ANU-Secure — with an average of more than 18,000 devices connecting each day [ANU IT …"
 category: "ANU 校园无线网络覆盖"
 pubDatetime: '2026-03-17T19:50:40Z'
 publishDate: '2026-03-17T19:50:40Z'
@@ -8,120 +9,122 @@ readingTime: 11
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园无线网络覆盖区域与-vpn-连接设置-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-澳大利亚国立大学（ANU）主校区Acton Campus部署了覆盖超过95%教学与公共区域的无线网络系统，由ANU IT Services统一管理，截至2024年，校园内共设有超过1,200个无线接入点（AP），支持eduroam与ANU-Secure两套SSID，日均连接设备数超过18,000台【ANU IT Services, 2024, Wireless Network Annual Report】。随着2025年澳大利亚政府网络安全强化政策生效，所有连接校园网络的设备必须通过多因素认证（MFA）验证，这使得VPN（虚拟专用网络）成为校外访问图书馆数据库、内部系统及研究资源的必要工具【Australian Cyber Security Centre, 2024, Essential Eight Maturity Model Update】。本文基于ANU官方技术文档，系统梳理校园无线网络覆盖区域、连接参数与VPN配置流程，为在校生与研究人员提供可操作的设置指南。
+The Australian National University (ANU) main Acton Campus runs a wireless network covering more than 95% of teaching and public areas, managed centrally by ANU IT Services. As of 2024, the campus has more than 1,200 wireless access points (APs) supporting two SSIDs — eduroam and ANU-Secure — with an average of more than 18,000 devices connecting each day [ANU IT Services, 2024, *Wireless Network Annual Report*]. With the Australian Government's strengthened cybersecurity policies taking effect in 2025, all devices connecting to campus networks must pass multi-factor authentication (MFA) verification, which has made the VPN (virtual private network) an essential tool for accessing library databases, internal systems and research resources from off campus [Australian Cyber Security Centre, 2024, *Essential Eight Maturity Model Update*]. Based on ANU's official technical documentation, this article maps out the campus wireless coverage areas, connection parameters and VPN configuration workflow, giving students and researchers an actionable setup guide.
 
-## 校园无线网络覆盖范围与信号强度
+## Campus Wireless Coverage and Signal Strength
 
-ANU主校区无线网络采用802.11ax（Wi-Fi 6）标准，核心覆盖区域包括**Chifley Library**、**Hancock Library**、**Marie Reay Teaching Centre**及**Peter Baume Building**等高频使用建筑。根据ANU IT Services 2024年秋季覆盖测试数据，图书馆区域信号强度维持在-45 dBm至-55 dBm区间，满足4K视频流与大型文件下载需求。
+The ANU main campus wireless network uses the 802.11ax (Wi-Fi 6) standard, with core coverage in high-use buildings including **Chifley Library**, **Hancock Library**, **Marie Reay Teaching Centre** and **Peter Baume Building**. According to ANU IT Services' autumn 2024 coverage testing, signal strength in the library areas sits between -45 dBm and -55 dBm, sufficient for 4K video streaming and large file downloads.
 
-### 室内覆盖细节
-- **教学区**：所有Lecture Theatre（如Manning Clark Hall、Llewellyn Hall）均配备双频AP，支持2.4 GHz与5 GHz并发连接。高峰时段（上午10点至下午2点）平均连接延迟低于15毫秒。
-- **宿舍区**：Bruce Hall、Ursula College等12栋住宿楼每层走廊安装AP，但房间内信号可能因钢筋混凝土结构衰减至-70 dBm。ANU建议宿舍用户优先使用有线以太网接口（每间提供1 Gbps端口）。
-- **户外区域**：Union Court、University Avenue及Sullivans Creek沿岸部署了室外防水AP，覆盖半径约30米，但风速超过30 km/h时信号可能中断。
+### Indoor Coverage Details
+- **Teaching areas**: All lecture theatres (such as Manning Clark Hall and Llewellyn Hall) have dual-band APs supporting concurrent 2.4 GHz and 5 GHz connections. Average connection latency during peak hours (10:00 am to 2:00 pm) is below 15 milliseconds.
+- **Residential areas**: APs are installed in the corridor of every floor of the 12 residential buildings, including Bruce Hall and Ursula College, but in-room signals can attenuate to -70 dBm due to reinforced concrete. ANU recommends that residents prioritise the wired Ethernet port (each room offers a 1 Gbps port).
+- **Outdoor areas**: Weatherproof outdoor APs are deployed around Union Court, University Avenue and along Sullivans Creek, covering a radius of about 30 metres, though signals may drop when wind speeds exceed 30 km/h.
 
-### 覆盖盲区与解决方案
-部分地下室区域（如Jaeger 8楼以下实验室）及建筑角落（如Copland Building东翼）存在弱信号区。ANU IT Services提供**便携式Wi-Fi热点租赁**服务，学生可凭学生证免费借用7天，押金为50澳元【ANU IT Services, 2024, Loan Equipment Policy】。
+### Coverage Gaps and Solutions
+Some basement areas (such as the laboratories below level 8 of Jaeger) and building corners (such as the eastern wing of the Copland Building) have weak-signal zones. ANU IT Services offers a **portable Wi-Fi hotspot rental service**: students can borrow a hotspot free of charge for 7 days with their student ID, against a A$50 deposit [ANU IT Services, 2024, *Loan Equipment Policy*].
 
-## 无线网络连接参数与认证方式
+## Wireless Connection Parameters and Authentication
 
-ANU校园网提供两个主要SSID：**ANU-Secure**（加密，需EAP认证）与**eduroam**（全球教育漫游联盟，适用于访问学者）。连接参数因操作系统而异，以下为通用配置。
+The ANU campus network offers two main SSIDs: **ANU-Secure** (encrypted, requiring EAP authentication) and **eduroam** (the global education roaming alliance, for visiting scholars). Connection parameters vary by operating system; the following is a general configuration.
 
-### ANU-Secure 连接步骤
-1. **选择网络**：在设备Wi-Fi列表中选择“ANU-Secure”。
-2. **认证协议**：选择WPA2-Enterprise（或WPA3，如设备支持），EAP方法设为PEAP。
-3. **凭据输入**：用户名填写完整ANU邮箱（如u1234567@anu.edu.au），密码为ANU Identity账户密码。CA证书无需勾选，但需接受服务器证书。
-4. **MFA验证**：首次连接后，系统会要求通过Microsoft Authenticator或短信完成MFA验证。此过程约需30秒。
+### Connecting to ANU-Secure
+1. **Select the network**: Choose "ANU-Secure" from your device's Wi-Fi list.
+2. **Authentication protocol**: Select WPA2-Enterprise (or WPA3, if your device supports it), and set the EAP method to PEAP.
+3. **Enter credentials**: Use your full ANU email address as the username (e.g. u1234567@anu.edu.au) and your ANU Identity account password as the password. No CA certificate needs to be selected, but you must accept the server certificate.
+4. **MFA verification**: On first connection, the system will ask you to complete MFA via Microsoft Authenticator or SMS. This takes about 30 seconds.
 
-### eduroam 配置要点
-eduroam采用相同底层协议，但用户名需追加“@anu.edu.au”后缀。对于国际访客，其所属机构若已加入eduroam联盟，可直接使用原机构凭据登录。ANU在2023年处理了约4,500次eduroam访客连接请求【eduroam Australia, 2024, Annual Usage Statistics】。
+### eduroam Configuration Notes
+eduroam uses the same underlying protocol, but the username needs the "@anu.edu.au" suffix. International visitors whose home institution is part of the eduroam alliance can log in directly with their home credentials. ANU handled about 4,500 eduroam guest connection requests in 2023 [eduroam Australia, 2024, *Annual Usage Statistics*].
 
-### 常见连接故障
-- **证书错误**：若设备时间与ANU NTP服务器不同步（偏差超过5分钟），会导致TLS握手失败。解决方案：手动同步设备时间至“time.anu.edu.au”。
-- **MAC地址过滤**：部分Android设备开启随机MAC后无法通过认证。需在Wi-Fi设置中关闭“随机MAC”选项。
+### Common Connection Problems
+- **Certificate errors**: If your device's clock is out of sync with ANU's NTP server (by more than 5 minutes), TLS handshakes will fail. Fix: manually sync the device clock to "time.anu.edu.au".
+- **MAC address filtering**: Some Android devices fail authentication when randomised MAC addressing is enabled. Turn off the "Random MAC" option in the Wi-Fi settings.
 
-## VPN 连接的必要性与适用场景
+## Why a VPN Is Necessary and When to Use It
 
-ANU要求所有校外访问受限资源的用户必须通过VPN连接。该政策基于澳大利亚政府《信息安全手册》（ISM）2024年修订版，旨在防止数据泄露。VPN服务由ANU IT Services托管，支持**OpenVPN协议**与**IPsec IKEv2**两种模式。
+ANU requires all users accessing restricted resources from off campus to connect through the VPN. The policy is based on the 2024 revision of the Australian Government's *Information Security Manual* (ISM) and is designed to prevent data breaches. The VPN service is hosted by ANU IT Services and supports both the **OpenVPN protocol** and **IPsec IKEv2**.
 
-### 必须使用VPN的场景
-- **访问图书馆订阅数据库**：如JSTOR、Scopus、Web of Science等，校外IP无法直接访问。
-- **登录内部管理系统**：如ISIS（学生信息系统）、Turnitin提交系统、HPC（高性能计算集群）。
-- **远程桌面连接**：连接实验室或办公室的校内计算机。
+### When a VPN Is Required
+- **Accessing library subscription databases**: JSTOR, Scopus, Web of Science and similar services cannot be reached directly from off-campus IPs.
+- **Logging into internal systems**: such as ISIS (the student information system), the Turnitin submission system and the HPC (high-performance computing cluster).
+- **Remote desktop connections**: connecting to lab or office computers on campus.
 
-### 不需要VPN的场景
-- 浏览公开网页（如ANU官网、课程大纲页面）。
-- 使用Canvas学习管理系统（已通过OAuth 2.0协议实现校外直接访问）。
-- 收发ANU邮箱（通过Outlook Web App，已启用HTTPS）。
+### When a VPN Is Not Needed
+- Browsing public websites (such as the ANU homepage and course outline pages).
+- Using the Canvas learning management system (already accessible from off campus via the OAuth 2.0 protocol).
+- Sending and receiving ANU email (via Outlook Web App, which has HTTPS enabled).
 
-## VPN 客户端安装与配置流程（Windows/macOS/Linux）
+## VPN Client Installation and Configuration (Windows/macOS/Linux)
 
-ANU提供官方VPN客户端配置指南，覆盖三大操作系统。以下为截至2025年3月的标准流程。
+ANU provides official VPN client configuration guides for all three major operating systems. The following is the standard procedure as of March 2025.
 
-### Windows 10/11 配置
-1. **下载客户端**：访问ANU Software Hub（software.anu.edu.au），搜索“Cisco AnyConnect Secure Mobility Client”并安装。该软件已通过ANU数字签名验证。
-2. **输入服务器地址**：启动后输入“vpn.anu.edu.au”，点击连接。
-3. **凭据与MFA**：输入ANU Identity用户名和密码，随后在手机端完成MFA验证。首次连接需下载配置文件，耗时约2分钟。
-4. **连接验证**：成功后，系统托盘图标显示绿色锁状标志。可访问“whatismyip.com”确认IP已切换至ANU网段。
+### Windows 10/11 Configuration
+1. **Download the client**: Visit the ANU Software Hub (software.anu.edu.au), search for "Cisco AnyConnect Secure Mobility Client" and install it. The software has been verified with ANU's digital signature.
+2. **Enter the server address**: After launching, enter "vpn.anu.edu.au" and click Connect.
+3. **Credentials and MFA**: Enter your ANU Identity username and password, then complete MFA verification on your phone. The first connection downloads a configuration profile, which takes about 2 minutes.
+4. **Verify the connection**: Once connected, a green padlock icon appears in the system tray. You can visit "whatismyip.com" to confirm that your IP has switched to the ANU network range.
 
-### macOS 配置
-macOS用户可使用系统内置的IKEv2 VPN，无需第三方客户端。步骤：系统设置 > 网络 > VPN > 添加VPN配置，类型选“IKEv2”，服务器地址填“vpn.anu.edu.au”，远程ID填“vpn.anu.edu.au”，本地ID留空。认证方式选“用户名”，输入ANU凭据。ANU在2024年测试显示，IKEv2连接速度比OpenVPN快约15%【ANU IT Services, 2024, VPN Performance Benchmark】。
+### macOS Configuration
+macOS users can use the built-in IKEv2 VPN without any third-party client. Steps: System Settings > Network > VPN > Add VPN Configuration, choose type "IKEv2", enter "vpn.anu.edu.au" as the server address, enter "vpn.anu.edu.au" as the remote ID, and leave the local ID blank. Choose "Username" as the authentication method and enter your ANU credentials. ANU's 2024 testing shows that IKEv2 connections are about 15% faster than OpenVPN [ANU IT Services, 2024, *VPN Performance Benchmark*].
 
-### Linux 配置
-Ubuntu/Debian用户需安装“network-manager-strongswan”包。命令行配置参考ANU GitHub仓库（github.com/ANU-IT/vpn-scripts），该仓库提供自动化脚本，支持自动重连与日志记录。建议使用OpenVPN模式，因IKEv2在部分旧版内核上存在兼容性问题。
+### Linux Configuration
+Ubuntu/Debian users need to install the "network-manager-strongswan" package. Command-line configuration is documented in the ANU GitHub repository (github.com/ANU-IT/vpn-scripts), which provides automated scripts supporting auto-reconnect and logging. OpenVPN mode is recommended, as IKEv2 has compatibility issues on some older kernels.
 
-## 网络性能与带宽限制
+## Network Performance and Bandwidth Limits
 
-ANU校园网出口带宽为10 Gbps，由澳大利亚学术与研究网络（AARNet）提供。校内连接延迟通常低于2毫秒，但国际出口（如访问中国服务器）延迟可能达到200-300毫秒。
+The ANU campus network has a 10 Gbps uplink provided by the Australian Academic and Research Network (AARNet). On-campus latency is typically below 2 milliseconds, but international routes (such as to servers in China) can see 200-300 milliseconds of latency.
 
-### 带宽分配策略
-- **教学时间**（周一至周五9:00-17:00）：每用户限速20 Mbps下行、10 Mbps上行。
-- **非高峰时段**（18:00-次日8:00及周末）：限速提升至50 Mbps下行。
-- **宿舍区**：每房间独立端口，不共享带宽，但禁止运行P2P下载软件，违者将暂停网络访问24小时。
+### Bandwidth Allocation Policy
+- **Teaching hours** (Monday to Friday 9:00 am–5:00 pm): each user is capped at 20 Mbps down and 10 Mbps up.
+- **Off-peak hours** (6:00 pm–8:00 am and weekends): the cap rises to 50 Mbps down.
+- **Residential halls**: each room has a dedicated port and does not share bandwidth, but P2P download software is prohibited — offenders will have their network access suspended for 24 hours.
 
-### 流量监控与限制
-ANU使用**Palo Alto Networks**防火墙进行流量深度包检测（DPI）。2024年数据显示，约12%的校园流量来自流媒体服务（Netflix、YouTube等），ANU未对此类服务进行额外限速，但保留在考试周（Week 12-14）限制非学术流量的权利。
+### Traffic Monitoring and Limits
+ANU uses **Palo Alto Networks** firewalls for deep packet inspection (DPI). 2024 data shows that about 12% of campus traffic comes from streaming services (Netflix, YouTube and the like). ANU does not throttle these services, but reserves the right to restrict non-academic traffic during exam weeks (Weeks 12-14).
 
-## 网络安全策略与MFA实施
+## Network Security Policy and MFA Implementation
 
-2024年11月，ANU强制启用MFA，所有校园网与VPN登录均需二次验证。该措施源于2023年一起针对eduroam的中间人攻击事件，ANU响应后于2024年2月启动试点【ANU IT Security, 2024, Incident Report 2023-004】。
+In November 2024, ANU made MFA mandatory — all campus network and VPN logins now require a second verification step. The measure followed a man-in-the-middle attack targeting eduroam in 2023; ANU responded and launched a pilot in February 2024 [ANU IT Security, 2024, *Incident Report 2023-004*].
 
-### MFA验证方式
-- **Microsoft Authenticator**（推荐）：推送通知，响应时间约5秒。
-- **短信验证码**：发送至注册手机号，平均到达时间30秒。
-- **硬件令牌**：仅限无手机设备用户申请，需联系IT服务台。
+### MFA Methods
+- **Microsoft Authenticator** (recommended): push notification, with a response time of about 5 seconds.
+- **SMS verification codes**: sent to your registered mobile number, with an average delivery time of 30 seconds.
+- **Hardware tokens**: available only to users without mobile phones, on request to the IT Service Desk.
 
-### 安全注意事项
-- **公共Wi-Fi风险**：在校园外使用VPN时，建议同时开启防火墙。ANU不推荐在机场、咖啡店等公共网络下登录VPN，因存在DNS劫持风险。
-- **设备合规**：所有连接校园网的设备必须安装最新安全补丁。未打补丁的Windows 10（版本低于22H2）设备将被强制断开连接。
+### Security Notes
+- **Public Wi-Fi risks**: when using the VPN off campus, it is advisable to enable your firewall as well. ANU does not recommend logging into the VPN on public networks such as airports and cafés, because of the risk of DNS hijacking.
+- **Device compliance**: all devices connecting to campus networks must have the latest security patches installed. Unpatched Windows 10 devices (versions below 22H2) will be forcibly disconnected.
 
-## 故障排除与IT服务支持
+## Troubleshooting and IT Support
 
-ANU IT Services提供7×24小时支持，可通过电话（+61 2 6125 4321）、在线工单（it.anu.edu.au）或亲身前往**IT Service Desk**（Hancock Library一楼）获得帮助。
+ANU IT Services provides 7×24 support by phone (+61 2 6125 4321), online ticket (it.anu.edu.au) or in person at the **IT Service Desk** (ground floor of Hancock Library).
 
-### 常见问题速查
-- **VPN连接超时**：检查防火墙是否阻止UDP 500/4500端口。ANU提供端口检测工具（it.anu.edu.au/port-check）。
-- **Wi-Fi频繁断连**：尝试“忘记网络”后重新连接。若问题持续，可能是MAC地址冲突，需联系IT重置DHCP租约。
-- **MFA无法接收通知**：确认手机时间与网络时间同步（偏差超过5分钟会失败）。或改用短信验证码作为备用。
+### Quick Reference for Common Issues
+- **VPN connection timeout**: check whether your firewall is blocking UDP ports 500/4500. ANU provides a port-checking tool (it.anu.edu.au/port-check).
+- **Frequent Wi-Fi disconnects**: try "Forget Network" and reconnect. If the problem persists, it may be a MAC address conflict — contact IT to reset the DHCP lease.
+- **MFA notifications not arriving**: make sure your phone's clock is synchronised with network time (a drift of more than 5 minutes causes failures). Alternatively, switch to SMS codes as a backup.
 
-### 自助资源
-ANU维护了详细的**知识库**（kb.anu.edu.au），包含超过200篇技术文章，覆盖从无线配置到VPN高级设置的完整流程。此外，学生可通过**ANU App**（iOS/Android）实时查看校园网络状态图，绿色表示正常，红色表示中断。
+### Self-service Resources
+ANU maintains a detailed **knowledge base** (kb.anu.edu.au) with more than 200 technical articles covering everything from wireless configuration to advanced VPN settings. Students can also use the **ANU App** (iOS/Android) to check the real-time campus network status map — green means normal, red means outage.
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E8%A6%86%E7%9B%96%E5%8C%BA%E5%9F%9F%E4%B8%8E-vpn-%E8%BF%9E%E6%8E%A5%E8%AE%BE%E7%BD%AE) 等专业通道完成结汇。
+When paying cross-border tuition fees, some international families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E8%A6%86%E7%9B%96%E5%8C%BA%E5%9F%9F%E4%B8%8E-vpn-%E8%BF%9E%E6%8E%A5%E8%AE%BE%E7%BD%AE) to complete the currency transfer.
 
 ## FAQ
 
-### Q1：ANU校园网是否支持游戏主机（如PS5、Xbox）连接？
-支持。游戏主机需连接“ANU-Secure”SSID，但需在浏览器中完成Web认证。ANU未对游戏流量进行限速，但高峰时段延迟可能升至50-80毫秒。2024年调查显示，约8%的宿舍学生定期使用游戏主机连接校园网【ANU Student Accommodation, 2024, Resident Survey Report】。
+### Q1: Can game consoles (such as PS5 and Xbox) connect to the ANU campus network?
+Yes. Consoles need to connect to the "ANU-Secure" SSID and complete web authentication in a browser. ANU does not throttle game traffic, but latency can rise to 50-80 ms during peak hours. A 2024 survey found that about 8% of residential students regularly connect game consoles to the campus network [ANU Student Accommodation, 2024, *Resident Survey Report*].
 
-### Q2：VPN连接后，能否访问Netflix等流媒体服务？
-可以，但Netflix可能因IP归属地变化而限制内容库。VPN连接后IP显示为ANU网段（位于澳大利亚），因此Netflix澳大利亚内容库可正常访问。但若使用第三方VPN（非ANU官方），则可能触发Netflix反VPN检测机制。ANU官方VPN在2024年测试中未被Netflix屏蔽。
+### Q2: Can I access streaming services like Netflix over the VPN?
+Yes, but Netflix may restrict its content library based on IP location. Connected via the VPN, your IP shows as the ANU network range (located in Australia), so the Australian Netflix library is accessible normally. However, if you use a third-party VPN (not ANU's official one), you may trigger Netflix's anti-VPN detection. ANU's official VPN was not blocked by Netflix in 2024 testing.
 
-### Q3：毕业离校后，VPN账户多久失效？
-毕业离校后，ANU Identity账户在学位授予日（通常为毕业典礼后30天）自动停用，VPN访问同步失效。校友可通过申请“Alumni Email”服务获得有限网络访问权限（仅限图书馆公开资源），但无法使用VPN访问订阅数据库。校友账户有效期为毕业后2年【ANU Alumni Relations, 2024, Alumni Benefits Policy】。
+### Q3: How long does my VPN account stay active after graduation?
+After you graduate, your ANU Identity account is automatically deactivated on the degree conferral date (usually 30 days after the graduation ceremony), and VPN access stops at the same time. Alumni can apply for the "Alumni Email" service to obtain limited network access (library public resources only), but cannot use the VPN to reach subscription databases. Alumni accounts remain valid for 2 years after graduation [ANU Alumni Relations, 2024, *Alumni Benefits Policy*].
 
-## 参考资料
+## References
 - ANU IT Services. 2024. *Wireless Network Annual Report*.
 - Australian Cyber Security Centre. 2024. *Essential Eight Maturity Model Update*.
 - eduroam Australia. 2024. *Annual Usage Statistics*.

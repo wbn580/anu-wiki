@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生父母陪读签证可行性分析与替代方案"
-description: "澳大利亚移民局自 2024 年 7 月起进一步收紧学生签证（Subclass 500）附属申请人政策，明确**国际学生父母无法通过学生签证获得陪读签证**。根据澳大利亚内政部 2024 年统计数据，学生监护人签证（Subclass 590）仅允许未满 18 周岁学生的父母或法定监护人申请，且该签证持有人不得在澳工…"
+slug: anu-国际学生父母陪读签证可行性分析与替代方案
+title: "Parental Companion Visas for ANU International Students: Feasibility Analysis and Alternatives"
+description: "Since July 2024, the Australian immigration authorities have further tightened the policy on accompanying applicants under the student visa (Subclass 500), making clear that parents of international students cannot obtain an accompanying visa through the student visa. According to 2024 statistics from the Department of Home Affairs, the Student Guardian visa (Subclass 590) may only be applied for by the parents or legal guardians of students under 18 years of age, and holders of this visa are not permitted to work in Australia. For international students over 18 enrolled at universities such as the Australian National University (ANU), parents who wish to stay long-term must look to other visa pathways. This article systematically analyses the feasibility of parental accompaniment and the alternative options available, based on Australian migration regulations and ANU institutional policy."
 category: "ANU 国际学生父母陪读"
 pubDatetime: '2026-03-27T19:52:44Z'
 publishDate: '2026-03-27T19:52:44Z'
@@ -10,89 +11,93 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生父母陪读签证可行性分析与替代方案-2026-1880x1253.jpg"
 ---
 
-澳大利亚移民局自 2024 年 7 月起进一步收紧学生签证（Subclass 500）附属申请人政策，明确**国际学生父母无法通过学生签证获得陪读签证**。根据澳大利亚内政部 2024 年统计数据，学生监护人签证（Subclass 590）仅允许未满 18 周岁学生的父母或法定监护人申请，且该签证持有人不得在澳工作【澳大利亚内政部，2024，Student Visa Program Report】。对于就读澳大利亚国立大学（ANU）等高校的 18 岁以上国际学生，父母若希望长期陪同，需转向其他签证路径。这一政策变化直接影响了约 12 万名在澳高等教育国际学生家庭（2023 年数据），其中 ANU 国际学生占比约 28%（2024 年 QS 世界大学排名数据）。本文基于澳大利亚移民法规与 ANU 校方政策，系统分析父母陪读的可行性及替代方案。
+Since July 2024, the Australian immigration authorities have further tightened the policy on accompanying applicants under the student visa (Subclass 500), making clear that **parents of international students cannot obtain an accompanying visa through the student visa**. According to 2024 statistics from the Department of Home Affairs, the Student Guardian visa (Subclass 590) may only be applied for by the parents or legal guardians of students under 18 years of age, and holders of this visa are not permitted to work in Australia [Department of Home Affairs, 2024, Student Visa Program Report]. For international students over 18 enrolled at universities such as the Australian National University (ANU), parents who wish to stay with them long-term must look to other visa pathways. This policy change directly affects the families of around 120,000 international students in Australian higher education (2023 data), of whom ANU international students account for approximately 28% (QS World University Rankings data, 2024). Based on Australian migration regulations and ANU institutional policy, this article systematically analyses the feasibility of parental accompaniment and the alternative options available.
 
-## 学生监护人签证的适用边界
+## Scope of the Student Guardian Visa
 
-**学生监护人签证（Subclass 590）** 是唯一允许父母陪同国际学生在澳生活的签证类别，但其适用条件极为严格。根据澳大利亚内政部 2024 年《移民条例》，该签证仅限未满 18 周岁的学生申请，且每名学生仅允许一名监护人。监护人需与学生同住，并承担住宿、福利及日常监护责任。对于 ANU 本科及研究生课程（通常入学年龄为 18 岁以上），学生自动失去申请该签证的资格。
+**The Student Guardian visa (Subclass 590)** is the only visa category that allows a parent to accompany an international student living in Australia, but its conditions are extremely strict. Under the Migration Regulations issued by the Department of Home Affairs in 2024, this visa is limited to students under 18 years of age, and each student may have only one guardian. The guardian must live with the student and take responsibility for accommodation, welfare and day-to-day care. For ANU undergraduate and postgraduate programs (which normally enrol students aged 18 and over), students automatically lose eligibility for this visa.
 
-### 年龄门槛与例外情形
+### Age Threshold and Exceptions
 
-若学生未满 18 周岁，父母可申请 590 签证，但需满足以下条件：学生已获得 ANU 的正式录取通知书（CoE），且监护人需提供无犯罪记录证明及健康保险（OSHC）。2023 年，澳大利亚内政部共批准约 4,200 份 590 签证，其中 98% 与学生年龄小于 18 岁直接相关【澳大利亚内政部，2024，Student Visa Grant Data】。对于已满 18 岁但仍在读高中或预科课程的学生（如 ANU 预科课程），部分案例可申请豁免，但需个案评估。
+If the student is under 18, parents can apply for a Subclass 590 visa, provided the following conditions are met: the student has received a formal Confirmation of Enrolment (CoE) from ANU, and the guardian must provide a police clearance certificate and health insurance (OSHC). In 2023, the Department of Home Affairs approved around 4,200 Subclass 590 visas, 98% of which were directly linked to students under 18 [Department of Home Affairs, 2024, Student Visa Grant Data]. For students over 18 who are still studying high school or foundation programs (such as the ANU Foundation Program), some cases may qualify for an exemption, but each case is assessed individually.
 
-### 学生签证附属申请人的限制
+### Restrictions on Accompanying Applicants Under the Student Visa
 
-**学生签证（Subclass 500）** 的附属申请人仅限配偶或事实伴侣（De facto partner）及子女。父母不被视为附属家庭成员。2024 年 7 月，移民局进一步强化了对学生签证附属申请人的审查，要求配偶必须提供真实关系证明，且学生本人需证明有足够资金支持附属申请人。这意味着 ANU 国际学生无法通过主签证为父母申请任何形式的陪读。
+**Accompanying applicants under the student visa (Subclass 500)** are limited to spouses or de facto partners and dependent children. Parents are not considered dependent family members. In July 2024, the immigration authorities further strengthened scrutiny of accompanying applicants on student visas, requiring spouses to provide evidence of a genuine relationship and requiring the student to demonstrate sufficient funds to support the accompanying applicant. This means ANU international students cannot obtain any form of parental accompaniment visa through their primary visa.
 
-## 替代签证路径：访客签证与长期停留
+## Alternative Visa Pathways: Visitor Visa and Long Stays
 
-对于希望短期探望子女的父母，**访客签证（Subclass 600）** 是最直接的选项。该签证允许每次停留最长 12 个月，但通常批签时长为 3 至 6 个月。2023 年，澳大利亚访客签证平均审理时间为 28 天，拒签率约 12%（主要因资金不足或移民倾向）【澳大利亚内政部，2024，Visitor Visa Processing Times】。
+For parents who wish to visit their children for short periods, the **visitor visa (Subclass 600)** is the most direct option. This visa allows a maximum stay of 12 months per visit, but is typically granted for 3 to 6 months. In 2023, the average processing time for Australian visitor visas was 28 days, with a refusal rate of around 12% (mainly due to insufficient funds or migration intent) [Department of Home Affairs, 2024, Visitor Visa Processing Times].
 
-### 多次往返签证的申请策略
+### Strategy for Applying for a Multiple-Entry Visa
 
-父母可申请**多次入境访客签证**，有效期最长 10 年，但每次停留不得超过 3 个月。ANNU 校方建议国际学生父母在申请时提供以下材料：学生就读证明（如 CoE）、父母在职证明、房产证明及银行存款证明（建议不低于 5 万澳元）。2024 年，中国公民申请澳大利亚访客签证的通过率为 85%，但移民局对频繁短期停留（如每年超过 6 个月）的申请会重点审查【澳大利亚内政部，2024，Country-Specific Visa Statistics】。
+Parents can apply for a **multiple-entry visitor visa** valid for up to 10 years, but each stay must not exceed 3 months. ANU advises international students' parents to provide the following documents when applying: proof of the student's enrolment (such as the CoE), the parents' employment certificates, property certificates and bank deposit certificates (recommended to be no less than AUD 50,000). In 2024, the approval rate for Chinese citizens applying for Australian visitor visas was 85%, but the immigration authorities focus scrutiny on applications involving frequent short stays (for example, more than 6 months per year) [Department of Home Affairs, 2024, Country-Specific Visa Statistics].
 
-### 医疗与保险要求
+### Medical and Insurance Requirements
 
-访客签证持有人需购买**海外访客医疗保险（OVHC）**，覆盖住院及门诊费用。ANU 健康服务中心（ANU Health Service）提供 OVHC 推荐列表，年均保费约为 1,200 至 2,500 澳元。若父母在澳期间突发疾病，ANU 国际学生服务办公室可协助联系中文翻译及医疗资源，但无法承担费用。
+Visitor visa holders must purchase **Overseas Visitor Health Cover (OVHC)** covering hospital and outpatient costs. ANU Health Service provides a recommended list of OVHC providers, with average annual premiums of around AUD 1,200 to 2,500. If a parent falls ill suddenly while in Australia, the ANU International Student Services office can help arrange Chinese-language interpreters and medical resources, but cannot cover the costs.
 
-## 父母移民签证的长期规划
+## Long-Term Planning: Parent Migration Visas
 
-对于希望长期在澳陪伴子女的父母，**父母移民签证** 是唯一可获永久居留权的路径。但此类签证审理周期极长，且费用高昂。根据澳大利亚内政部 2024 年数据，付费类父母移民签证（Subclass 143）的审理时间约为 6 至 12 年，而排队类（Subclass 103）则需 30 年以上。
+For parents who wish to stay in Australia long-term to be with their children, the **parent migration visa** is the only pathway that leads to permanent residency. However, processing times for these visas are extremely long and costs are high. According to 2024 data from the Department of Home Affairs, the contributory parent visa (Subclass 143) takes around 6 to 12 years to process, while the queue-based parent visa (Subclass 103) takes more than 30 years.
 
-### 付费类签证的经济门槛
+### The Financial Threshold for Contributory Visas
 
-**付费类父母移民签证** 要求申请人支付贡献金（当前为 47,955 澳元/人）及申请费（约 4,000 澳元）。此外，子女需作为担保人，且需满足收入测试（2024 年标准为年收入不低于 83,455 澳元）。ANU 国际学生若毕业后留澳工作，可考虑此路径，但需注意移民局对担保人居住要求（在澳居住满 2 年）。
+The **contributory parent migration visa** requires applicants to pay a contribution (currently AUD 47,955 per person) and an application fee (around AUD 4,000). In addition, the child must act as the sponsor and must meet an income test (the 2024 standard requires an annual income of no less than AUD 83,455). ANU international students who stay in Australia to work after graduation may consider this pathway, but should note the immigration authorities' sponsor residence requirement (2 years of residence in Australia).
 
-### 临时父母签证的试点项目
+### The Temporary Parent Visa Pilot Program
 
-**临时父母签证（Subclass 870）** 允许父母在澳停留最长 5 年，无需频繁离境。该签证要求子女作为担保人，且需通过收入测试（2024 年标准为年收入不低于 83,455 澳元）。签证费用为 5,090 澳元（3 年期）或 10,180 澳元（5 年期）。2023 年，该类签证获批约 3,500 份，其中 60% 来自中国申请人【澳大利亚内政部，2024，Temporary Parent Visa Data】。对于 ANU 学生家庭，此签证可作为中期过渡方案。
+The **Temporary Parent visa (Subclass 870)** allows parents to stay in Australia for up to 5 years without needing to leave the country frequently. This visa requires the child to act as the sponsor and to pass an income test (the 2024 standard requires an annual income of no less than AUD 83,455). The visa fee is AUD 5,090 (3-year term) or AUD 10,180 (5-year term). In 2023, around 3,500 of these visas were granted, 60% of them to Chinese applicants [Department of Home Affairs, 2024, Temporary Parent Visa Data]. For ANU student families, this visa can serve as a medium-term transitional option.
 
-## ANU 校方支持资源
+## Support Resources at ANU
 
-ANU 国际学生服务办公室（International Student Services）为父母提供多项支持资源。学生可向办公室申请**父母访校邀请函**，用于辅助访客签证申请。此外，ANU 每年举办两次“国际学生家长会”（Parent Information Session），通过线上平台提供签证政策解读及住宿建议。
+ANU International Student Services offers a range of support resources for parents. Students can apply to the office for a **letter of invitation for parents to visit campus**, which can assist with visitor visa applications. In addition, ANU holds "Parent Information Sessions" twice a year, providing visa policy briefings and accommodation advice through online platforms.
 
-### 住宿与生活安排
+### Accommodation and Daily Living Arrangements
 
-对于短期探访的父母，ANU 提供**校内短期住宿**（如 University House 及 Lodge），价格约为 150 至 250 澳元/晚。长期停留的父母可选择校外租房，堪培拉两居室公寓月租金约为 1,800 至 2,500 澳元（2024 年数据）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%88%B6%E6%AF%8D%E9%99%AA%E8%AF%BB%E7%AD%BE%E8%AF%81%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90%E4%B8%8E%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88) 等专业通道完成结汇。
+For parents on short visits, ANU offers **on-campus short-term accommodation** (such as University House and the Lodge), priced at around AUD 150 to 250 per night. Parents staying longer can rent off campus; the monthly rent for a two-bedroom apartment in Canberra is around AUD 1,800 to 2,500 (2024 data). When making cross-border tuition payments, some student families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%88%B6%E6%AF%8D%E9%99%AA%E8%AF%BB%E7%AD%BE%E8%AF%81%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90%E4%B8%8E%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88) to complete the currency conversion.
 
-### 心理健康与社区支持
+### Mental Health and Community Support
 
-ANU 咨询中心（ANU Counselling）提供免费心理咨询服务，学生可代父母预约中文翻译。此外，堪培拉华人社区组织（如 Canberra Chinese Community Association）定期举办社交活动，帮助父母建立本地支持网络。
+ANU Counselling provides free psychological counselling services, and students can book Chinese-language interpreters for their parents. In addition, Canberra Chinese community organisations (such as the Canberra Chinese Community Association) regularly hold social events to help parents build a local support network.
 
-## 签证申请中的常见陷阱
+## Common Pitfalls in Visa Applications
 
-**材料真实性** 是签证拒签的首要原因。2023 年，澳大利亚内政部因虚假材料拒签约 1,200 份访客签证申请，其中 15% 涉及中国申请人【澳大利亚内政部，2024，Fraud Detection Report】。父母应避免伪造在职证明或银行流水，移民局会通过第三方数据库验证。
+**Document authenticity** is the leading cause of visa refusals. In 2023, the Department of Home Affairs refused around 1,200 visitor visa applications due to fraudulent materials, 15% of which involved Chinese applicants [Department of Home Affairs, 2024, Fraud Detection Report]. Parents should avoid fabricating employment certificates or bank statements, as the immigration authorities verify materials through third-party databases.
 
-### 停留期限的合规风险
+### Compliance Risks Around Length of Stay
 
-访客签证持有人需严格遵守**停留期限**。超期停留将导致 3 年入境禁令，且影响未来签证申请。2024 年，移民局加强了对离境记录的审查，使用生物识别技术追踪停留时间。父母可通过 myVEVO 系统（移民局在线工具）实时查询签证状态。
+Visitor visa holders must strictly observe the **length-of-stay conditions**. Overstaying results in a 3-year re-entry ban and affects future visa applications. In 2024, the immigration authorities strengthened checks on departure records, using biometric technology to track the duration of stays. Parents can check their visa status in real time through the myVEVO system (the immigration authorities' online tool).
 
-### 工作与学习限制
+### Work and Study Restrictions
 
-访客签证禁止任何形式的工作，包括远程为海外雇主工作。2024 年，移民局明确将“数字游民”行为视为违规。父母在澳期间不得注册任何课程（不超过 3 个月的短期课程除外）。违反规定可能导致签证取消及遣返。
+The visitor visa prohibits any form of work, including remote work for an overseas employer. In 2024, the immigration authorities explicitly classified "digital nomad" behaviour as a breach of conditions. Parents may not enrol in any courses while in Australia (except short courses of no more than 3 months). Breaching the conditions can lead to visa cancellation and deportation.
 
-## 替代方案总结与决策框架
+## Summary of Alternatives and a Decision Framework
 
-综合上述分析，ANU 国际学生父母无法通过学生签证实现陪读，但可通过以下路径实现阶段性陪同：**短期探访**（访客签证，每次 3-6 个月）、**中期停留**（临时父母签证，最长 5 年）、**长期定居**（付费类父母移民，需等待 6-12 年）。决策需基于家庭经济状况（预算至少 5 万澳元用于临时签证或 10 万澳元用于移民）、学生年龄（18 岁以下可申请 590 签证）及父母在澳时间需求（每年超过 6 个月建议考虑临时父母签证）。
+Taken together, the analysis above shows that ANU international students' parents cannot accompany them through a student visa, but can achieve staged accompaniment through the following pathways: **short visits** (visitor visa, 3-6 months each time), **medium-term stays** (Temporary Parent visa, up to 5 years) and **long-term settlement** (contributory parent migration, requiring a 6-12 year wait). The decision should be based on the family's financial situation (a budget of at least AUD 50,000 for temporary visas or AUD 100,000 for migration), the student's age (students under 18 can apply for a Subclass 590 visa) and the parents' time needs in Australia (if more than 6 months per year, the Temporary Parent visa is recommended).
 
 ## FAQ
 
-### Q1：ANU 国际学生父母可以申请陪读签证吗？
-不可以。澳大利亚移民法规明确规定，**学生监护人签证（Subclass 590）** 仅适用于未满 18 周岁的学生。ANU 本科及研究生课程学生年龄通常超过 18 岁，因此父母无法通过此签证陪读。替代方案包括访客签证（每次停留 3-6 个月）或临时父母签证（最长 5 年）。
+### Q1: Can the parents of an ANU international student apply for an accompanying visa?
 
-### Q2：父母申请澳大利亚访客签证的通过率是多少？
-2024 年，中国公民申请澳大利亚访客签证的通过率为 85%。若父母提供完整材料（在职证明、房产证、银行存款不低于 5 万澳元），通过率可升至 92% 以上。拒签主因是资金不足或移民倾向【澳大利亚内政部，2024，Country-Specific Visa Statistics】。
+No. Australian migration regulations clearly state that the **Student Guardian visa (Subclass 590)** applies only to students under 18 years of age. ANU undergraduate and postgraduate students are usually over 18, so parents cannot accompany them under this visa. Alternatives include the visitor visa (3-6 months per stay) or the Temporary Parent visa (up to 5 years).
 
-### Q3：父母在澳期间能否工作或学习？
-不能。访客签证（Subclass 600）禁止任何形式的工作，包括远程为海外雇主工作。学习方面，仅允许注册不超过 3 个月的短期课程（如语言课程）。违反规定可能导致签证取消及 3 年入境禁令。
+### Q2: What is the approval rate for parents applying for an Australian visitor visa?
 
-## 参考资料
-- 澳大利亚内政部，2024，Student Visa Program Report
-- 澳大利亚内政部，2024，Visitor Visa Processing Times
-- 澳大利亚内政部，2024，Temporary Parent Visa Data
-- 澳大利亚内政部，2024，Country-Specific Visa Statistics
-- UNILINK Education，2024，International Student Visa Guide Database
+In 2024, the approval rate for Chinese citizens applying for Australian visitor visas was 85%. If parents provide complete materials (employment certificate, property certificate and bank deposits of no less than AUD 50,000), the approval rate can rise to over 92%. The main reasons for refusal are insufficient funds or migration intent [Department of Home Affairs, 2024, Country-Specific Visa Statistics].
+
+### Q3: Can parents work or study while in Australia?
+
+No. The visitor visa (Subclass 600) prohibits any form of work, including remote work for an overseas employer. As for study, parents may only enrol in short courses of no more than 3 months (such as language courses). Breaching the conditions can lead to visa cancellation and a 3-year re-entry ban.
+
+## References
+
+- Department of Home Affairs, 2024, Student Visa Program Report
+- Department of Home Affairs, 2024, Visitor Visa Processing Times
+- Department of Home Affairs, 2024, Temporary Parent Visa Data
+- Department of Home Affairs, 2024, Country-Specific Visa Statistics
+- UNILINK Education, 2024, International Student Visa Guide Database
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>

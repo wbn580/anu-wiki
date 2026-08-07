@@ -1,6 +1,7 @@
 ---
+slug: anu-annual-progress-review-for-hdr-students-how-to-prepare-your-report-organise
 title: "ANU Annual Progress Review for HDR Students: How to Prepare Your Report, Organise Your Panel, and Document Outcomes"
-description: "澳大利亚国立大学（ANU）所有攻读高等研究学位（HDR）的学生，包括哲学博士（PhD）和研究型硕士（MPhil），均须在每学年结束前完成一次年度进展评审（Annual Progress Review, APR）。根据澳大利亚研究培训计划（RTP）2016年发布的《研究培训计划指南》，所有接受联邦资助的HDR学生必…"
+description: "All Higher Degree Research (HDR) students at the Australian National University (ANU) — including Doctor of Philosophy (PhD) and Master of Philosophy (MPhil) candidates — must complete an Annual Progress Review (APR) before the end of each academic year. Under the Research Training Program Guidelines published by the Australian Research Training Program (RTP) in 2016, all Commonwealth-funded HDR students must demonstrate their research progress through a formal review mechanism..."
 category: "ANU"
 pubDatetime: '2026-04-27T19:58:47Z'
 publishDate: '2026-04-27T19:58:47Z'
@@ -10,86 +11,86 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-annual-progress-review-for-hdr-students-how-to-prepare-your-report-organise-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）所有攻读高等研究学位（HDR）的学生，包括哲学博士（PhD）和研究型硕士（MPhil），均须在每学年结束前完成一次年度进展评审（Annual Progress Review, APR）。根据澳大利亚研究培训计划（RTP）2016年发布的《研究培训计划指南》，所有接受联邦资助的HDR学生必须通过正式评审机制证明其研究进展，否则可能影响奖学金续期及学籍状态。ANU研究生部（Dean of Students, Research）在2024年更新的《HDR学生手册》中明确指出，APR的核心目的是评估学生是否在合理时间框架内达成里程碑，并为下一阶段研究制定清晰计划。该评审通常涉及提交书面报告、组织监督小组会议以及记录已发表或已提交的研究成果，整个过程需在每年11月30日前完成。
+All Higher Degree Research (HDR) students at the Australian National University (ANU) — including Doctor of Philosophy (PhD) and Master of Philosophy (MPhil) candidates — must complete an Annual Progress Review (APR) before the end of each academic year. Under the Research Training Program Guidelines published by the Australian Research Training Program (RTP) in 2016, all Commonwealth-funded HDR students must demonstrate their research progress through a formal review mechanism; otherwise their scholarship renewal and enrolment status may be affected. The ANU Dean of Students (Research) states clearly in the HDR Student Handbook (updated 2024) that the core purpose of the APR is to assess whether a student is meeting milestones within a reasonable timeframe and to set a clear plan for the next phase of research. The review typically involves submitting a written report, organising a supervisory panel meeting, and documenting published or submitted research outputs. The whole process must be completed by 30 November each year.
 
-## 年度进展评审的基本框架与时间节点
+## The Basic Framework and Timeline of the Annual Progress Review
 
-ANU的APR流程遵循统一的学年周期，但各学院（College）可能在细节上存在差异。根据ANU研究生部2024年发布的《APR操作指南》，评审周期从每年3月启动，学生需在8月前完成自我评估报告初稿，并在10月前与监督小组（Supervisory Panel）召开正式评审会议。最终报告需在11月30日前通过ANU的HDR管理系统（HDR Management System, HDRMS）提交。未按时提交报告的学生将收到警告通知，若连续两次未完成评审，可能面临研究奖学金暂停的风险，该规定依据ANU政策库中的《HDR学生进展政策》第5.3条。
+The ANU APR process follows a uniform academic-year cycle, though individual Colleges may differ in detail. According to the APR Operational Guidelines issued by the ANU Dean of Students (Research) in 2024, the review cycle begins in March each year: students must complete a draft self-assessment report by August, and hold a formal review meeting with their Supervisory Panel before October. The final report must be submitted through ANU's HDR Management System (HDRMS) by 30 November. Students who fail to submit on time receive a warning notice; if the review is missed twice in a row, the research scholarship may be at risk of suspension — a rule set out in clause 5.3 of the HDR Student Progress Policy in the ANU policy library.
 
-**关键时间节点**包括：3月1日—系统开放报告填写；8月31日—学生提交自我评估初稿；10月1日至11月15日—监督小组会议窗口期；11月30日—最终报告截止日。对于入学不足12个月的学生，首次APR可延至入学后第15个月完成，但需向研究生部提交延期申请并说明理由。
+**Key dates** are: 1 March — the system opens for report entry; 31 August — students submit their self-assessment draft; 1 October to 15 November — the supervisory panel meeting window; 30 November — final report deadline. For students enrolled for less than 12 months, the first APR may be deferred to the 15th month after enrolment, but a deferral application with reasons must be submitted to the Dean of Students (Research).
 
-### 报告内容的基本构成
+### Basic Structure of the Report
 
-APR书面报告通常包含五个核心部分。第一部分为**研究项目摘要**，需用300至500字概述当前研究问题、方法论及已取得的主要进展。第二部分为**里程碑达成情况**，学生需对照入学时制定的研究计划（Research Plan）逐项列出已完成或延迟的任务，并附上具体证据，如实验数据、田野调查记录或文献综述章节。第三部分为**发表与传播记录**，包括已发表论文、会议报告、预印本提交或正在审稿中的稿件。第四部分为**技能发展**，需描述本年度参加的研究培训课程，如ANU研究生部提供的学术写作工作坊或数据管理讲座。第五部分为**下一阶段工作计划**，需提出未来12个月的详细时间表。
+The APR written report usually has five core sections. The first is the **research project summary**, a 300-to-500-word overview of the current research question, methodology and key progress to date. The second is **milestone achievement**, where students go item by item through the tasks completed or delayed against the Research Plan agreed at enrolment, with concrete evidence such as experimental data, fieldwork records or literature review chapters. The third is the **publication and dissemination record**, covering published papers, conference presentations, preprint submissions or manuscripts under review. The fourth is **skills development**, describing research training courses attended during the year, such as the academic writing workshops or data management lectures offered by the ANU Dean of Students (Research). The fifth is the **work plan for the next stage**, setting out a detailed timetable for the coming 12 months.
 
-### 监督小组的角色与职责
+### Role and Responsibilities of the Supervisory Panel
 
-ANU要求每位HDR学生配备由首席导师（Primary Supervisor）、联合导师（Co-supervisor）及一名独立评审人（Independent Assessor）组成的**监督小组**。根据ANU《研究监督政策》第4.2条，独立评审人不得与学生或首席导师存在直接合作或利益关系，通常由同一学院或相关领域的其他教授担任。监督小组会议需至少持续45分钟，会上学生需进行10至15分钟的口头陈述，随后接受导师与评审人的提问。会议结束后，监督小组需填写《会议纪要表》并上传至HDRMS系统，该表格需经所有成员签字确认。
+ANU requires every HDR student to have a **Supervisory Panel** consisting of a Primary Supervisor, a Co-supervisor and an Independent Assessor. Under clause 4.2 of the ANU Research Supervision Policy, the Independent Assessor must have no direct collaboration or conflict of interest with the student or the Primary Supervisor, and is usually another professor from the same college or a related field. Supervisory panel meetings must last at least 45 minutes. At the meeting the student gives a 10-to-15-minute oral presentation and then takes questions from the supervisors and assessor. After the meeting, the panel completes the Meeting Minutes Form and uploads it to HDRMS; the form must be signed by all members.
 
-## 如何准备书面报告
+## How to Prepare the Written Report
 
-准备APR书面报告需从整理研究记录开始。ANU研究生部建议学生在每年6月前建立**研究进展日志**，记录每月完成的任务、遇到的困难及解决方案。日志内容可作为报告第二部分“里程碑达成情况”的直接素材。报告撰写时，学生应避免使用主观表述，而是用具体数据或事件支撑结论。例如，不应写“实验进展顺利”，而应写“2024年4月至6月期间完成了120次PCR扩增实验，其中85次成功扩增目标基因片段，成功率为70.8%”。
+Preparing the APR written report starts with organising your research records. The ANU Dean of Students (Research) recommends that students keep a **research progress log** by June each year, recording tasks completed each month, difficulties encountered and solutions found. The log's contents can feed directly into section two of the report, "Milestone Achievement". When writing the report, avoid subjective phrasing; support conclusions with specific data or events. For example, instead of writing "the experiments went smoothly", write "between April and June 2024, 120 PCR amplification experiments were completed, of which 85 successfully amplified the target gene fragment, a success rate of 70.8%".
 
-**数据整理与引用**是报告的关键环节。学生需列出本年度所有已发表或提交的学术成果，包括期刊论文、会议摘要、书籍章节及预印本。对于尚未正式发表但已获得同行评审意见的稿件，应在报告中注明“under review”并附上投稿日期及期刊名称。ANU图书馆2023年发布的《开放获取政策》要求所有HDR学生将已接受论文的最终版本存入ANU开放获取库（ANU Open Research Repository），该信息需在报告中标注。
+**Data organisation and citation** is a critical part of the report. Students must list all academic outputs published or submitted during the year, including journal articles, conference abstracts, book chapters and preprints. For manuscripts not yet formally published but already through peer review, note "under review" in the report and include the submission date and journal name. The ANU Library's 2023 Open Access Policy requires all HDR students to deposit the final accepted version of their papers in the ANU Open Research Repository, and this should be noted in the report.
 
-### 常见错误与规避策略
+### Common Mistakes and How to Avoid Them
 
-根据ANU研究生部2022年对过往APR报告的统计分析，最常见的三类错误是：**目标设定过于模糊**（占被退回报告的42%）、**未提供进展证据**（占31%）以及**未提及伦理审批更新**（占18%）。规避方法包括：将研究目标分解为可量化的子任务，如“完成第3章初稿”而非“推进论文写作”；在报告中插入图表或数据表格作为附录；若研究涉及人类或动物实验，需在报告中注明伦理审批编号及最新审批日期。
+According to an ANU Dean of Students (Research) statistical analysis of past APR reports in 2022, the three most common mistakes are: **goals set too vaguely** (42% of returned reports), **no evidence of progress provided** (31%), and **no mention of ethics approval renewal** (18%). Ways to avoid them: break research goals into quantifiable sub-tasks — e.g. "complete the draft of Chapter 3" rather than "advance thesis writing"; include figures or data tables as appendices; and if the research involves human or animal subjects, state the ethics approval number and the latest approval date in the report.
 
-## 组织监督小组会议
+## Organising the Supervisory Panel Meeting
 
-监督小组会议是APR流程中最具互动性的环节。学生需在会议前至少两周将书面报告草案发送给所有小组成员，以便他们提前审阅。会议通常以学生口头陈述开始，内容应聚焦于**关键发现**与**未解决问题**，而非重复报告全文。ANU研究生部建议陈述时间控制在10至12分钟，剩余时间用于问答。独立评审人通常会针对研究方法的合理性、数据解释的严谨性及下一步计划的可行性提出质疑，学生需准备应对这些问题。
+The supervisory panel meeting is the most interactive part of the APR process. Students must send the draft written report to all panel members at least two weeks before the meeting so they can review it in advance. The meeting usually begins with the student's oral presentation, which should focus on **key findings** and **unresolved problems** rather than repeating the whole report. The ANU Dean of Students (Research) recommends keeping the presentation to 10-12 minutes, leaving the rest of the time for questions. The Independent Assessor typically probes the soundness of the research methodology, the rigour of the data interpretation and the feasibility of the next-step plan — be prepared for these questions.
 
-**会议记录与后续行动**是容易被忽视的环节。会议结束后，首席导师需在5个工作日内完成《会议纪要表》，其中需列出所有讨论要点、导师建议及学生承诺的行动项。该表经所有成员电子签名后上传至HDRMS系统。若会议中提出重大修改建议，学生应在会后两周内提交修订版计划给导师确认。ANU政策规定，未及时上传会议纪要可能导致该次APR被视为“未完成”。
+**Meeting minutes and follow-up actions** are easy to overlook. After the meeting, the Primary Supervisor must complete the Meeting Minutes Form within 5 working days, listing all discussion points, supervisor advice and the action items the student has committed to. The form is signed electronically by all members and uploaded to HDRMS. If significant revisions are proposed at the meeting, the student should submit a revised plan to the supervisor for confirmation within two weeks. ANU policy states that failing to upload the minutes in time can result in the APR being treated as "not completed".
 
-### 远程与混合模式会议
+### Remote and Hybrid Meetings
 
-对于身处海外或在校外进行田野调查的学生，ANU允许通过视频会议平台（如Zoom或Microsoft Teams）召开**远程监督小组会议**。根据ANU信息技术服务部2024年发布的《远程会议指南》，学生需确保会议全程录音（经所有参与者同意），并在会后将录音文件上传至ANU云存储作为备份。远程会议的时间安排需考虑时差因素，确保所有成员能在正常工作时间内参与。ANU建议在会议开始前进行5分钟的技术测试，以避免连接问题影响评审效率。
+For students overseas or doing fieldwork away from campus, ANU permits **remote supervisory panel meetings** via video conferencing platforms such as Zoom or Microsoft Teams. Under the Remote Meeting Guidelines issued by ANU Information Technology Services in 2024, students must record the entire meeting (with the consent of all participants) and upload the recording to ANU cloud storage as a backup. Remote meetings should be scheduled with time zones in mind so all members can attend during normal working hours. ANU recommends a 5-minute technical test before the meeting to avoid connectivity problems eating into review time.
 
-## 成果记录与发表策略
+## Documenting Outputs and Publication Strategy
 
-APR报告中的“发表与传播记录”部分不仅是对过去一年成果的总结，也是**未来奖学金续期**的重要依据。根据澳大利亚研究理事会（ARC）2023年发布的《研究产出评估框架》，HDR学生的发表记录需按类别分类：已发表论文（注明期刊名称、卷期号及DOI）、已接受稿件（注明接受日期）、在审稿件（注明投稿日期及期刊名称）、会议报告（注明会议名称、日期及地点）。对于合作论文，学生需明确标注自己的贡献比例，通常以第一作者或共同第一作者身份为主。
+The "Publication and Dissemination Record" section of the APR report is not just a summary of the past year's outputs — it is also **important evidence for future scholarship renewal**. Under the Research Output Assessment Framework published by the Australian Research Council (ARC) in 2023, HDR students' publication records should be categorised: published papers (with journal name, volume/issue and DOI), accepted manuscripts (with acceptance date), manuscripts under review (with submission date and journal name), and conference presentations (with conference name, date and location). For co-authored papers, students must clearly state their own contribution, usually as first author or co-first author.
 
-**预印本与开放获取**已成为重要趋势。ANU图书馆2023年统计显示，该校HDR学生中约有67%在论文正式发表前将预印本上传至arXiv、bioRxiv或SSRN等平台。APR报告中可包含预印本信息，但需注明该版本尚未经过同行评审。此外，若研究涉及数据共享，学生需在报告中提及数据存储位置，如ANU数据共享平台（ANU Data Commons）或外部数据库如Figshare。
+**Preprints and open access** have become an important trend. ANU Library 2023 statistics show that about 67% of the university's HDR students upload preprints to platforms such as arXiv, bioRxiv or SSRN before formal publication. Preprint information can be included in the APR report, but must be noted as not yet peer-reviewed. In addition, if the research involves data sharing, the report should state where the data are stored, such as the ANU data sharing platform (ANU Data Commons) or an external database like Figshare.
 
-### 成果转化与影响力记录
+### Research Translation and Impact Records
 
-除学术发表外，APR报告还可记录**非传统研究成果**，如政策简报、专利申请书、软件工具或开源代码库。ANU创新与商业化办公室（ANU Innovation and Commercialisation Office）2024年发布的《研究影响力指南》建议学生将此类成果纳入报告，并说明其潜在社会或经济影响。例如，若研究开发了一种新型算法，可注明该算法已被GitHub上的其他项目引用次数，或已与某企业签署了技术许可意向书。这类记录有助于学生在未来申请研究岗位或行业职位时展示综合能力。
+Beyond academic publication, the APR report can also document **non-traditional research outputs**, such as policy briefs, patent applications, software tools or open-source code repositories. The ANU Innovation and Commercialisation Office's 2024 Research Impact Guide recommends including such outputs in the report and explaining their potential social or economic impact. For example, if the research developed a new algorithm, you can note how many times it has been cited by other projects on GitHub, or that a technology licensing letter of intent has been signed with a company. These records help students demonstrate a well-rounded profile when applying for research positions or industry roles later.
 
-## 常见问题与应对方案
+## Common Problems and Solutions
 
-APR过程中可能出现**研究进度滞后**的情况。ANU《HDR学生进展政策》第7.2条允许学生在报告中说明延迟原因，并提供修订后的时间表。常见原因包括实验设备故障、田野调查受天气影响、伦理审批延迟或健康问题。学生需附上相关证据，如设备维修记录、旅行禁令文件或医疗证明。若延迟超过6个月，学生需与导师共同制定《补救计划》，并提交给研究生部审批。该计划需包含具体补救措施、时间节点及评估标准。
+**Research progress delays** can occur during the APR process. Clause 7.2 of the ANU HDR Student Progress Policy allows students to explain the reasons for delay in the report and provide a revised timetable. Common causes include equipment failure, fieldwork affected by weather, ethics approval delays or health problems. Students must attach supporting evidence, such as equipment repair records, travel restriction documents or medical certificates. If the delay exceeds 6 months, the student must develop a Remedial Plan together with the supervisor and submit it to the Dean of Students (Research) for approval. The plan must include specific remedial measures, milestones and assessment criteria.
 
-**导师变更**是另一常见问题。若学生在APR周期内更换了首席导师或联合导师，需在报告中注明变更日期及新任导师的姓名。ANU要求新旧导师在《导师变更表》上签字，并说明交接过程中研究项目的连续性。若独立评审人在会议中提出导师指导不足的问题，学生可申请由研究生部指派一名额外导师提供短期辅导。
+**Supervisor changes** are another common issue. If a student changes their Primary Supervisor or Co-supervisor during the APR cycle, the report must note the date of the change and the name of the new supervisor. ANU requires both the outgoing and incoming supervisors to sign the Supervisor Change Form, and to describe how continuity of the research project was maintained through the handover. If the Independent Assessor raises concerns about inadequate supervision at the meeting, the student may request the Dean of Students (Research) to assign an additional supervisor for short-term support.
 
-### 伦理审批与数据管理更新
+### Ethics Approval and Data Management Updates
 
-进行人类或动物研究的学生需在APR报告中确认**伦理审批**仍处于有效期内。ANU人类研究伦理委员会（ANU Human Research Ethics Committee）的审批有效期通常为12个月，需每年续期。若研究方案发生重大变更，如增加新的人群样本或修改实验流程，学生需在APR前提交修正申请。数据管理方面，ANU要求所有HDR学生遵守《研究数据管理政策》，在报告中说明数据存储位置、备份频率及共享计划。未遵守数据管理要求的学生可能面临研究暂停的处罚。
+Students conducting human or animal research must confirm in the APR report that their **ethics approval** is still valid. ANU Human Research Ethics Committee approvals are typically valid for 12 months and must be renewed annually. If the research protocol changes materially — such as adding a new population sample or modifying the experimental procedures — students must submit a variation application before the APR. On data management, ANU requires all HDR students to comply with the Research Data Management Policy, stating in the report where data are stored, how often they are backed up, and the sharing plan. Students who fail to meet data management requirements may face suspension of research.
 
-## 评审结果与后续流程
+## Review Outcomes and Next Steps
 
-APR完成后，研究生部将根据监督小组的评估结果给出三种可能结论：**进展良好**（Satisfactory Progress）、**存在风险**（At Risk）或**进展不足**（Unsatisfactory Progress）。根据ANU 2023年内部统计，约78%的学生获得“进展良好”评级，15%被列为“存在风险”，7%被评为“进展不足”。获得“存在风险”评级的学生需在60天内提交改进计划，并由导师每月进行进度检查。连续两次获得“进展不足”评级的学生将被要求退出研究项目，但可申请转入授课型硕士课程。
+After the APR is completed, the Dean of Students (Research) issues one of three outcomes based on the supervisory panel's assessment: **Satisfactory Progress**, **At Risk** or **Unsatisfactory Progress**. According to ANU internal statistics for 2023, about 78% of students received a "Satisfactory Progress" rating, 15% were listed as "At Risk", and 7% were rated "Unsatisfactory Progress". Students rated "At Risk" must submit an improvement plan within 60 days, with monthly progress checks by the supervisor. Students rated "Unsatisfactory Progress" twice in a row are required to exit the research program, though they may apply to transfer to a coursework master's degree.
 
-**结果通知与申诉**流程如下：研究生部在会议纪要上传后10个工作日内通过HDRMS系统发布正式结果通知。学生若对结果有异议，可在收到通知后14个工作日内向学院研究生委员会（College Research Committee）提交书面申诉。申诉需包含具体理由及支持证据，如导师的书面说明或外部专家评估意见。ANU《学生申诉政策》第8.1条明确禁止因申诉而对学术记录产生不利影响。
+**Outcome notification and appeals** work as follows: the Dean of Students (Research) publishes the formal outcome via HDRMS within 10 working days of the meeting minutes being uploaded. Students who disagree with the outcome may submit a written appeal to the College Research Committee within 14 working days of receiving the notice. The appeal must include specific reasons and supporting evidence, such as a written statement from the supervisor or an external expert assessment. Clause 8.1 of the ANU Student Appeal Policy explicitly prohibits an appeal from having an adverse effect on the student's academic record.
 
-### 奖学金续期与签证要求
+### Scholarship Renewal and Visa Requirements
 
-APR结果直接影响**研究奖学金**的续期。ANU提供的国际研究生奖学金（ANU International Research Scholarship, AURS）及国内研究奖学金均要求每年通过APR才能续期。根据澳大利亚内政部2024年发布的《学生签证条款》第8202条，持有学生签证（Subclass 500）的HDR学生需维持令人满意的学术进展，否则可能面临签证取消风险。APR报告中的“进展不足”评级可能被内政部视为违反签证条件，学生需在收到评级后28天内向内政部提交解释信及改进计划。
+The APR outcome directly affects **research scholarship** renewal. Both the ANU International Research Scholarship (AURS) and the domestic research scholarships require a successful APR each year for renewal. Under condition 8202 of the Student Visa Conditions published by the Department of Home Affairs in 2024, HDR students holding a student visa (Subclass 500) must maintain satisfactory academic progress or face visa cancellation risk. An "Unsatisfactory Progress" rating in the APR report may be treated by the Department of Home Affairs as a breach of visa conditions; students must submit an explanation letter and improvement plan to the department within 28 days of receiving the rating.
 
 ## FAQ
 
-### Q1：APR报告提交后多久能收到结果？
-ANU研究生部通常在监督小组会议纪要上传后的10个工作日内发布正式结果通知。2023年数据显示，约85%的学生在15个工作日内收到结果，剩余15%因需要额外审核而延迟至20个工作日。学生可通过HDRMS系统查看最新状态。
+### Q1: How long after submitting the APR report will I get the outcome?
+The ANU Dean of Students (Research) usually issues the formal outcome within 10 working days of the supervisory panel meeting minutes being uploaded. 2023 data shows that about 85% of students received their outcome within 15 working days; the remaining 15% were delayed to 20 working days because additional review was needed. You can check the latest status in HDRMS.
 
-### Q2：如果导师在APR会议前没有回复我的报告，该怎么办？
-学生应在会议前至少两周发送报告，并以邮件形式确认收到。若导师在会议前3天仍未回复，学生应通过学院行政办公室联系导师，并抄送研究生部。ANU政策规定，导师无故缺席APR会议需向研究生部提交书面解释。2022年案例中，约6%的会议因此被重新安排。
+### Q2: What if my supervisor hasn't responded to my report before the APR meeting?
+Send the report at least two weeks before the meeting and confirm receipt by email. If the supervisor still hasn't replied 3 days before the meeting, contact them through the college administrative office, copying in the Dean of Students (Research). ANU policy requires supervisors who miss an APR meeting without justification to submit a written explanation to the Dean of Students (Research). In 2022, about 6% of meetings were rescheduled for this reason.
 
-### Q3：APR结果会影响我的奖学金金额吗？
-“进展良好”评级不会影响奖学金金额，但“存在风险”评级可能导致奖学金暂停发放，直至学生提交改进计划并获得批准。根据ANU 2024年奖学金条款，暂停期间奖学金将按日扣除，但恢复后补发。连续两次“进展不足”评级将导致奖学金终止，学生需自付后续学费及生活费。
+### Q3: Will the APR outcome affect my scholarship amount?
+A "Satisfactory Progress" rating does not affect the scholarship amount, but an "At Risk" rating can lead to suspension of scholarship payments until the student submits an improvement plan and it is approved. Under the ANU scholarship terms for 2024, payments during the suspension period are deducted on a daily basis but back-paid once the scholarship is restored. Two consecutive "Unsatisfactory Progress" ratings result in scholarship termination, and the student must then self-fund tuition and living costs.
 
-## 参考资料
-- 澳大利亚教育部 2016年《研究培训计划指南》
-- 澳大利亚国立大学研究生部 2024年《HDR学生手册》
-- 澳大利亚国立大学政策库《HDR学生进展政策》（最新更新2023年）
-- 澳大利亚研究理事会（ARC）2023年《研究产出评估框架》
-- 澳大利亚内政部 2024年《学生签证条款》第8202条
+## References
+- Australian Department of Education 2016, Research Training Program Guidelines
+- Australian National University Dean of Students (Research) 2024, HDR Student Handbook
+- Australian National University Policy Library, HDR Student Progress Policy (last updated 2023)
+- Australian Research Council (ARC) 2023, Research Output Assessment Framework
+- Australian Department of Home Affairs 2024, Student Visa Conditions, condition 8202

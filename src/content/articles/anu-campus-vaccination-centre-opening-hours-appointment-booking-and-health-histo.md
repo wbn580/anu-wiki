@@ -1,6 +1,7 @@
 ---
+slug: anu-campus-vaccination-centre-opening-hours-appointment-booking-and-health-histo
 title: "ANU Campus Vaccination Centre: Opening Hours, Appointment Booking, and Health History Form Submission"
-description: "澳大利亚国立大学（ANU）校园疫苗接种中心（ANU Campus Vaccination Centre）于 2022 年 1 月 10 日正式运营，至 2023 年 6 月 30 日停止现场接种服务，期间共完成超过 45,000 剂 COVID-19 疫苗和流感疫苗的接种【ANU 2023，ANU Campus …"
+description: "The Australian National University (ANU) Campus Vaccination Centre began operations on 10 January 2022 and stopped on-site vaccination services on 30 June 2023, completing more than 45,000 doses of COVID-19 and influenza vaccines in that time【ANU 2023, ANU Campus Vaccination Centre Closure Notice】. The centre was established by ANU in partnership with the Australian Capital Territory (ACT) Health Directorate, and was one of the first large-scale vaccination points set up inside a university in the ACT, handling up to 400 appointments a day at its peak. Although the centre is now closed, its operating model, appointment process, and Health History Form submission workflow still provide a reference template for ANU's current and future public health management. For students who need catch-up vaccinations or proof of vaccination, understanding the centre's historical operating details and the alternative service pathways has direct practical value."
 category: "ANU"
 pubDatetime: '2026-05-08T20:01:00Z'
 publishDate: '2026-05-08T20:01:00Z'
@@ -10,87 +11,87 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-vaccination-centre-opening-hours-appointment-booking-and-health-histo-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）校园疫苗接种中心（ANU Campus Vaccination Centre）于 2022 年 1 月 10 日正式运营，至 2023 年 6 月 30 日停止现场接种服务，期间共完成超过 45,000 剂 COVID-19 疫苗和流感疫苗的接种【ANU 2023，ANU Campus Vaccination Centre Closure Notice】。该中心由 ANU 与澳大利亚首都领地（ACT）卫生局合作设立，是 ACT 地区首批在高校内部设立的规模化疫苗接种点之一，高峰期每日可处理 400 人次预约。尽管该中心现已关闭，但其运营模式、预约流程及健康史提交流程（Health History Form）仍为 ANU 当前及未来公共卫生管理提供了可参照的模板。对于需要补种疫苗或获取疫苗接种证明的在校学生，了解该中心的历史运作细节及替代服务路径具有直接参考价值。
+The Australian National University (ANU) Campus Vaccination Centre began operations on 10 January 2022 and stopped on-site vaccination services on 30 June 2023, completing more than 45,000 doses of COVID-19 and influenza vaccines in that time【ANU 2023, ANU Campus Vaccination Centre Closure Notice】. The centre was established by ANU in partnership with the Australian Capital Territory (ACT) Health Directorate, and was one of the first large-scale vaccination points set up inside a university in the ACT, handling up to 400 appointments a day at its peak. Although the centre is now closed, its operating model, appointment process, and Health History Form submission workflow still provide a reference template for ANU's current and future public health management. For students who need catch-up vaccinations or proof of vaccination, understanding the centre's historical operating details and the alternative service pathways has direct practical value.
 
-## 运营时间与开放周期
+## Opening hours and operating period
 
-ANU 校园疫苗接种中心位于校园内的 **University House** 底层，开放时间根据 ACT 卫生局的疫苗供应和校园疫情形势动态调整。运营初期（2022 年 1 月至 3 月）为每周七天开放，每日 08:00 至 18:00；2022 年 4 月起调整为周一至周五 09:00 至 17:00，周末关闭。该中心在 **2023 年 6 月 30 日** 正式结束现场接种服务，此后所有疫苗接种需求转至 ACT 卫生局指定的社区药房和全科医生诊所。
+The ANU Campus Vaccination Centre was located on the lower level of **University House** on campus, with opening hours dynamically adjusted according to ACT Health's vaccine supply and the campus epidemic situation. In the early period of operations (January to March 2022) it was open seven days a week, 08:00 to 18:00 daily; from April 2022 it moved to Monday to Friday 09:00 to 17:00, closed on weekends. The centre officially ended on-site vaccination services on **30 June 2023**, after which all vaccination needs were redirected to community pharmacies and general practitioner clinics designated by ACT Health.
 
-### 季节性调整安排
-在 2022 年冬季流感高峰期（6 月至 8 月），中心曾临时延长周末服务时间至 13:00-17:00，以应对流感疫苗与 COVID-19 加强针的叠加需求。2023 年 1 月，随着 ACT 地区疫苗接种率突破 95%（12 岁以上人群两剂覆盖率），中心将运营时间缩减为每周三天（周三至周五 10:00-16:00）【ACT Health 2023，COVID-19 Vaccination Program Update】。
+### Seasonal adjustments
+During the 2022 winter flu peak (June to August), the centre temporarily extended weekend service hours to 13:00-17:00 to cope with the combined demand for flu vaccines and COVID-19 boosters. In January 2023, as the ACT's vaccination rate passed 95% (two-dose coverage among people aged 12 and over), the centre cut its operating hours to three days a week (Wednesday to Friday 10:00-16:00)【ACT Health 2023, COVID-19 Vaccination Program Update】.
 
-### 当前替代服务时间
-对于需要接种疫苗的在校学生，ACT 卫生局推荐使用 **HealthDirect** 网站查询附近药房营业时间。目前 ANU 校园内及周边 1 公里范围内共有 6 家社区药房提供免预约疫苗接种服务，营业时间多为周一至周五 09:00-17:30，部分药房周六上午开放。
+### Current alternative service hours
+For students who need vaccinations, ACT Health recommends using the **HealthDirect** website to check nearby pharmacy opening hours. At present, 6 community pharmacies within the ANU campus and a 1-kilometre radius offer walk-in vaccination services, mostly open Monday to Friday 09:00-17:30, with some pharmacies also open Saturday mornings.
 
-## 预约流程与系统
+## Appointment process and system
 
-该中心采用 **ACT COVID-19 疫苗预约系统**（后整合至澳大利亚联邦政府的 Vaccine Clinic Finder 平台）进行管理。用户需通过 ACT Health 官方网站或 Vaccine Clinic Finder 选择 ANU 校园接种中心，并填写个人信息、选择疫苗类型（辉瑞/莫德纳/诺瓦瓦克斯）及预约时段。
+The centre used the **ACT COVID-19 Vaccine Appointment System** (later integrated into the Australian Government's Vaccine Clinic Finder platform) for management. Users needed to select the ANU campus vaccination centre through the ACT Health official website or Vaccine Clinic Finder, then enter personal details, choose the vaccine type (Pfizer/Moderna/Novavax), and pick an appointment slot.
 
-### 预约方式分类
-- **在线预约**：通过 ACT Health 预约门户提交，需提供 Medicare 卡号（如有）或 Individual Healthcare Identifier（IHI）。无 Medicare 的国际学生可使用护照号码完成预约。
-- **电话预约**：ACT 卫生局疫苗接种热线（1800 020 080）提供中文、韩语、阿拉伯语等多语种协助，工作日上午 8:00 至晚上 8:00 运营。
-- **免预约（Walk-in）**：中心在运营期间每日预留 30% 的免预约名额，但建议优先在线预约以避免等待。2022 年 3 月数据显示，免预约者平均等待时间为 47 分钟，而预约者仅为 12 分钟【ANU 2022，Campus Vaccination Centre Operational Report】。
+### Appointment methods
+- **Online booking**: submitted through the ACT Health booking portal, requiring a Medicare card number (if available) or an Individual Healthcare Identifier (IHI). International students without Medicare can complete bookings using their passport number.
+- **Phone booking**: the ACT Health vaccination hotline (1800 020 080) offers assistance in Chinese, Korean, Arabic, and other languages, operating 8:00 am to 8:00 pm on working days.
+- **Walk-in**: the centre reserved 30% of daily slots for walk-ins during its operating period, but online booking was recommended to avoid waiting. March 2022 data shows walk-in patients waited an average of 47 minutes, compared with just 12 minutes for those with appointments【ANU 2022, Campus Vaccination Centre Operational Report】.
 
-### 预约确认与提醒
-成功预约后，用户会收到包含二维码的确认邮件和短信。中心要求所有到访者出示该二维码及有效身份证明（学生证、护照或驾照）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-vaccination-centre-opening-hours-appointment-booking-and-health-histo) 等专业通道完成结汇。
+### Appointment confirmation and reminders
+After a successful booking, users received a confirmation email and SMS containing a QR code. The centre required all visitors to show this QR code plus valid identification (student card, passport, or driver's licence). For cross-border tuition payments, some study-abroad families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-vaccination-centre-opening-hours-appointment-booking-and-health-histo) to complete their currency transfers.
 
-## 健康史表格（Health History Form）提交要求
+## Health History Form submission requirements
 
-所有接种者必须在接种前提交 **Health History Form**，该表格用于筛查禁忌症、过敏史及当前健康状况。表格分为纸质版和电子版两种形式，电子版通过 ACT Health 的在线系统在预约时同步填写。
+Every recipient had to submit a **Health History Form** before vaccination, used to screen for contraindications, allergy history, and current health status. The form came in both paper and electronic versions, with the electronic version completed online at the time of booking through the ACT Health system.
 
-### 表格核心内容
-表格包含三个主要部分：**个人信息**（姓名、出生日期、Medicare 编号）、**疫苗接种史**（既往 COVID-19 感染日期、已接种疫苗类型和日期）、**健康状况筛查**（是否正在发热、是否有严重过敏反应史、是否在接种前 14 天内接种过其他疫苗）。对于 12-17 岁未成年人，还需监护人签署同意书。
+### Core content of the form
+The form has three main sections: **personal information** (name, date of birth, Medicare number), **vaccination history** (dates of any previous COVID-19 infection, and the types and dates of vaccines already received), and **health status screening** (whether currently running a fever, whether there is a history of severe allergic reactions, and whether any other vaccine was received within 14 days before this one). For minors aged 12-17, a guardian's consent form was also required.
 
-### 提交方式与时限
-- **电子提交**：在预约时间前 24 小时内通过 ACT Health 门户上传，系统会自动生成确认编号。2022 年 5 月数据显示，约 78% 的接种者选择电子提交。
-- **现场提交**：未提前提交者可在接种中心现场填写纸质表格，但需额外预留 15-20 分钟。中心建议国际学生优先使用电子提交，以避免语言障碍导致的填写错误。
+### Submission methods and deadlines
+- **Electronic submission**: upload through the ACT Health portal within 24 hours before the appointment time, and the system automatically generates a confirmation number. May 2022 data shows about 78% of recipients chose electronic submission.
+- **On-site submission**: those who did not submit in advance could fill in a paper form on site at the vaccination centre, but needed to allow an extra 15-20 minutes. The centre advised international students to prefer electronic submission to avoid errors caused by language barriers.
 
-## 疫苗类型与适用人群
+## Vaccine types and eligible groups
 
-ANU 校园疫苗接种中心提供三种 **COVID-19 疫苗** 和季节性 **流感疫苗**。疫苗选择依据澳大利亚免疫接种技术咨询小组（ATAGI）的阶段性建议进行调整。
+The ANU Campus Vaccination Centre offered three **COVID-19 vaccines** and the seasonal **influenza vaccine**. Vaccine choices were adjusted according to the staged recommendations of the Australian Technical Advisory Group on Immunisation (ATAGI).
 
-### COVID-19 疫苗
-- **辉瑞（Comirnaty）**：适用于 12 岁及以上人群，两剂间隔 21 天。2022 年 1 月至 2023 年 6 月期间，该中心共接种辉瑞疫苗 28,400 剂，占总接种量的 63%。
-- **莫德纳（Spikevax）**：适用于 18 岁及以上人群，两剂间隔 28 天。2022 年 3 月起增加供应，主要作为辉瑞的替代选项。
-- **诺瓦瓦克斯（Nuvaxovid）**：2022 年 2 月获批后引入，适用于对 mRNA 疫苗有禁忌症的人群，接种量较小（约 1,200 剂）。
+### COVID-19 vaccines
+- **Pfizer (Comirnaty)**: for people aged 12 and over, with a 21-day interval between doses. From January 2022 to June 2023, the centre administered 28,400 Pfizer doses, accounting for 63% of all doses given.
+- **Moderna (Spikevax)**: for people aged 18 and over, with a 28-day interval between doses. Supply was added from March 2022, mainly as an alternative to Pfizer.
+- **Novavax (Nuvaxovid)**: introduced after approval in February 2022 for people with contraindications to mRNA vaccines, with a relatively small number of doses (about 1,200).
 
-### 流感疫苗
-2022 年 4 月起，中心开始提供 **四价流感疫苗**（FluQuadri），适用于 6 个月以上人群。2022 年冬季共接种流感疫苗 8,600 剂，其中约 35% 为国际学生【ANU 2022，Annual Health Services Report】。流感疫苗可与 COVID-19 加强针同时接种，但需在不同手臂注射。
+### Influenza vaccine
+From April 2022, the centre began offering the **quadrivalent influenza vaccine** (FluQuadri), for people aged 6 months and over. In the 2022 winter, 8,600 flu vaccine doses were administered, of which about 35% went to international students【ANU 2022, Annual Health Services Report】. The flu vaccine can be given at the same time as a COVID-19 booster, but in different arms.
 
-## 接种后观察与不良反应报告
+## Post-vaccination observation and adverse reaction reporting
 
-所有接种者在完成注射后需在指定区域观察 **15 分钟**（有过敏史者观察 30 分钟）。中心配备有 ACT 卫生局授权的急救人员，并备有肾上腺素自动注射器（EpiPen）等急救设备。
+After receiving the injection, all recipients had to stay in a designated area for observation for **15 minutes** (30 minutes for those with an allergy history). The centre had first-aid staff authorised by ACT Health on site, along with emergency equipment such as EpiPen auto-injectors.
 
-### 常见不良反应统计
-根据中心 2022 年 1 月至 12 月的数据，接种后最常见的不良反应为注射部位疼痛（报告率 42%）、疲劳（28%）、头痛（19%）。严重不良反应（如过敏性休克）报告率为 0.02%，即每 5,000 剂中出现 1 例，均得到及时处理【ACT Health 2023，Adverse Event Following Immunisation (AEFI) Surveillance Report】。
+### Common adverse reaction statistics
+According to the centre's data from January to December 2022, the most common post-vaccination adverse reactions were injection site pain (reported by 42%), fatigue (28%), and headache (19%). The rate of serious adverse reactions (such as anaphylaxis) was 0.02%, i.e. 1 case per 5,000 doses, and all were handled promptly【ACT Health 2023, Adverse Event Following Immunisation (AEFI) Surveillance Report】.
 
-### 不良反应报告途径
-接种者可通过 **AusVaxSafety** 平台或 ACT Health 的 AEFI 报告系统提交不良反应信息。中心工作人员会在接种后 48 小时通过短信进行随访，收集不良反应数据。对于出现持续发热（>38.5°C 超过 48 小时）或呼吸困难等症状的接种者，建议直接联系 ANU 校内医疗中心（University Health Service）或拨打 000 急救电话。
+### How to report adverse reactions
+Recipients could report adverse reactions through the **AusVaxSafety** platform or the ACT Health AEFI reporting system. Centre staff followed up by SMS 48 hours after vaccination to collect adverse reaction data. Recipients with persistent fever (above 38.5°C for more than 48 hours) or symptoms such as difficulty breathing were advised to contact the ANU on-campus medical centre (University Health Service) directly or call 000 for emergency services.
 
-## 疫苗接种证明获取
+## Getting proof of vaccination
 
-完成接种后，接种者可通过 **澳大利亚免疫登记系统（Australian Immunisation Register, AIR）** 获取官方疫苗接种证明。该证明可通过 Medicare 在线账户、Express Plus Medicare 应用程序或 myGov 账户下载。
+After completing vaccination, recipients could obtain official proof of vaccination through the **Australian Immunisation Register (AIR)**. The certificate can be downloaded through a Medicare online account, the Express Plus Medicare app, or a myGov account.
 
-### 国际学生特别说明
-无 Medicare 的国际学生需在接种后 **7-14 个工作日** 内通过 myGov 账户链接 Individual Healthcare Identifier（IHI）来查看接种记录。如果 IHI 未自动关联，可联系澳大利亚服务局（Services Australia）或前往 ANU 学生中心寻求协助。2022 年 7 月数据显示，约 12% 的国际学生在首次接种后未能及时获取电子证明，主要原因为 IHI 未正确激活【UNILINK 2023，International Student Vaccination Data Database】。
+### Special notes for international students
+International students without Medicare need to link their Individual Healthcare Identifier (IHI) through their myGov account within **7-14 working days** after vaccination to view their vaccination records. If the IHI is not automatically linked, students can contact Services Australia or visit the ANU student centre for help. July 2022 data shows that about 12% of international students could not obtain their electronic certificate promptly after their first dose, mainly because the IHI was not correctly activated【UNILINK 2023, International Student Vaccination Data Database】.
 
-### 纸质证明申请
-对于无法使用数字系统的接种者，可前往 ANU 校园内的 Medicare 服务中心（位于 Civic 区）申请纸质免疫接种历史声明（Immunisation History Statement），处理时间为 5-10 个工作日。
+### Applying for a paper certificate
+For recipients who cannot use digital systems, a paper Immunisation History Statement can be requested from the Medicare service centre on the ANU campus (located in the Civic area), with a processing time of 5-10 working days.
 
 ## FAQ
 
-### Q1：ANU 校园疫苗接种中心现在还开放吗？
-该中心已于 **2023 年 6 月 30 日** 正式关闭。目前 ANU 学生如需接种 COVID-19 加强针或流感疫苗，可前往 ACT 地区 6 家社区药房或全科医生诊所，免预约服务覆盖 90% 的药房。
+### Q1: Is the ANU Campus Vaccination Centre still open?
+The centre officially closed on **30 June 2023**. ANU students who now need a COVID-19 booster or flu vaccine can go to the 6 community pharmacies or general practitioner clinics in the ACT, with walk-in services covering 90% of pharmacies.
 
-### Q2：国际学生没有 Medicare 卡怎么预约接种？
-无 Medicare 的国际学生可使用 **护照号码** 在 Vaccine Clinic Finder 平台完成预约，或拨打 ACT 卫生局热线 1800 020 080 进行电话预约。接种后需通过 myGov 账户链接 IHI 获取电子接种证明，该过程通常需要 7-14 个工作日。
+### Q2: How do international students without a Medicare card book a vaccination?
+International students without Medicare can book through the Vaccine Clinic Finder platform using their **passport number**, or call the ACT Health hotline on 1800 020 080 for a phone booking. After vaccination, they need to link their IHI through a myGov account to obtain the electronic vaccination certificate, a process that usually takes 7-14 working days.
 
-### Q3：健康史表格（Health History Form）必须提前提交吗？
-建议在预约时间前 **24 小时内** 通过 ACT Health 门户电子提交。如果未提前提交，可在接种现场填写纸质表格，但需额外预留 15-20 分钟。2022 年数据显示，约 22% 的接种者选择现场提交，平均等待时间增加 18 分钟。
+### Q3: Does the Health History Form have to be submitted in advance?
+It is recommended to submit electronically through the ACT Health portal within **24 hours** before the appointment time. If not submitted in advance, you can fill in a paper form on site, but allow an extra 15-20 minutes. 2022 data shows that about 22% of recipients submitted on site, with an average additional waiting time of 18 minutes.
 
-## 参考资料
-- ANU 2023，ANU Campus Vaccination Centre Closure Notice
-- ACT Health 2023，COVID-19 Vaccination Program Update
-- ANU 2022，Campus Vaccination Centre Operational Report
-- ACT Health 2023，Adverse Event Following Immunisation (AEFI) Surveillance Report
-- UNILINK 2023，International Student Vaccination Data Database
+## References
+- ANU 2023, ANU Campus Vaccination Centre Closure Notice
+- ACT Health 2023, COVID-19 Vaccination Program Update
+- ANU 2022, Campus Vaccination Centre Operational Report
+- ACT Health 2023, Adverse Event Following Immunisation (AEFI) Surveillance Report
+- UNILINK 2023, International Student Vaccination Data Database

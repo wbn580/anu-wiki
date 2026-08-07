@@ -1,6 +1,7 @@
 ---
+slug: anu-college-of-law-mooting-competitions-how-to-watch-a-grand-final-join-a-team-a
 title: "ANU College of Law Mooting Competitions: How to Watch a Grand Final, Join a Team, and Prepare Your Oral Submissions"
-description: "澳大利亚国立大学法学院（ANU College of Law）的模拟法庭竞赛（Mooting Competitions）是其法学教育的核心组成部分，每年吸引超过200名学生参与校内选拔。根据《澳大利亚法律教育评论》2023年的数据，参与模拟法庭竞赛的ANU法学院毕业生在毕业后6个月内的全职就业率达到92.3%，显…"
+description: "Mooting competitions are a core component of legal education at the ANU College of Law, attracting more than 200 students to internal selection each year. According to 2023 data from the Australian Legal Education Review, ANU law graduates who took part in mooting achieved a full-time employment rate of 92.3% within 6 months of graduation, well above the 84.1% for non-participants."
 category: "ANU"
 pubDatetime: '2026-05-09T20:01:03Z'
 publishDate: '2026-05-09T20:01:03Z'
@@ -10,82 +11,82 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-college-of-law-mooting-competitions-how-to-watch-a-grand-final-join-a-team-a-2026-1880x1045.jpg"
 ---
 
-澳大利亚国立大学法学院（ANU College of Law）的模拟法庭竞赛（Mooting Competitions）是其法学教育的核心组成部分，每年吸引超过200名学生参与校内选拔。根据《澳大利亚法律教育评论》2023年的数据，参与模拟法庭竞赛的ANU法学院毕业生在毕业后6个月内的全职就业率达到92.3%，显著高于未参与者的84.1%。这一话题之所以值得关注，是因为模拟法庭不仅锻炼学生的法律论证与口头陈述能力，还直接关联到法律职业准入——澳大利亚法律执业者准入委员会（LPAB）在2022年的一份报告中明确指出，模拟法庭经验可被视为“法律实践技能”的重要组成部分。本文将从赛事结构、观赛途径、加入团队方式以及口头陈述准备四个维度，系统梳理ANU法学院模拟法庭竞赛的运作机制。
+Mooting competitions at the ANU College of Law are a core component of its legal education, attracting more than 200 students to internal selection each year. According to 2023 data from the *Australian Legal Education Review*, ANU law graduates who participated in mooting achieved a full-time employment rate of 92.3% within 6 months of graduation, significantly above the 84.1% for non-participants. This topic deserves attention because mooting not only hones students' legal argumentation and oral advocacy skills, but also connects directly to entry into the legal profession — the Legal Profession Admission Board (LPAB) stated explicitly in a 2022 report that mooting experience can be regarded as an important component of "legal practice skills". This article systematically examines the operation of ANU College of Law mooting competitions from four angles: competition structure, how to spectate, how to join a team, and preparing oral submissions.
 
-## 赛事结构与学术日历
+## Competition Structure and the Academic Calendar
 
-ANU法学院每年举办超过12场正式模拟法庭竞赛，涵盖国际公法、商法、刑法、宪法等多个领域。这些竞赛通常遵循澳大利亚法律教育界的标准赛制：每场由两名或三名学生组成一队，代表原告或被告方，在模拟法官面前进行口头辩论。每轮比赛时长约为45分钟，其中每方各有15分钟陈述时间，剩余15分钟用于法官提问与回应。
+The ANU College of Law holds more than 12 formal mooting competitions each year, spanning public international law, commercial law, criminal law, constitutional law, and more. These competitions generally follow the standard format of Australian legal education: teams of two or three students represent the applicant or respondent side and make oral arguments before a panel of moot judges. Each round lasts about 45 minutes, with each side receiving 15 minutes of speaking time and the remaining 15 minutes for judges' questions and responses.
 
-**校内竞赛**主要分为两类：一是面向一年级学生的“初级模拟法庭”（Junior Moot），通常在每年第二学期第4周至第8周举行；二是面向高年级学生的“高级模拟法庭”（Senior Moot），安排在每年第一学期第6周至第12周。根据ANU法学院2024年学术日历，初级模拟法庭的注册截止日期为3月15日，高级模拟法庭的注册截止日期为8月1日。
+**Internal competitions** fall into two main categories: the "Junior Moot" for first-year students, usually held from Week 4 to Week 8 of the second semester, and the "Senior Moot" for senior students, scheduled from Week 6 to Week 12 of the first semester. According to the ANU College of Law 2024 academic calendar, the registration deadline for the Junior Moot is 15 March and for the Senior Moot is 1 August.
 
-**国际竞赛**方面，ANU法学院每年选派2至4支队伍参加“杰赛普国际法模拟法庭竞赛”（Philip C. Jessup International Law Moot Court Competition）和“威廉·维斯国际商事仲裁模拟法庭”（Willem C. Vis International Commercial Arbitration Moot）。选拔过程通常在竞赛前一年的9月至11月进行，入选学生需在次年1月至3月完成书面诉状提交，并于4月赴海外参赛。
+**International competitions**: each year the ANU College of Law selects 2 to 4 teams to enter the Philip C. Jessup International Law Moot Court Competition and the Willem C. Vis International Commercial Arbitration Moot. Selection usually runs from September to November of the year before the competition; selected students must submit written memorials between January and March of the following year and travel overseas to compete in April.
 
-## 如何观看决赛
+## How to Watch a Grand Final
 
-观看模拟法庭决赛是了解ANU法学院学术氛围和竞赛标准的直接途径。决赛通常对外公开，允许法学院师生、校友及公众旁听。
+Watching a moot grand final is a direct way to experience the ANU College of Law's academic atmosphere and competition standards. Finals are generally open to the public, allowing College of Law staff, students, alumni, and the general public to observe.
 
-### 决赛时间与地点
+### Final Date and Venue
 
-决赛一般在每年10月的第一周举行，地点位于ANU校园内的“法学院模拟法庭厅”（Moot Court Room, Building 7）。该厅配备高清录播系统和实时转播设备，可容纳约120名观众。2023年高级模拟法庭决赛于10月6日下午2点至5点举行，吸引了超过80名现场观众。
+Finals are usually held in the first week of October each year, in the "Moot Court Room" (Building 7) on the ANU campus. The room is equipped with HD recording and live broadcast facilities and seats about 120 spectators. The 2023 Senior Moot grand final was held from 2:00 to 5:00 pm on 6 October, attracting more than 80 on-site spectators.
 
-### 线上直播与录像回放
+### Live Streaming and Recordings
 
-自2021年起，ANU法学院开始提供决赛的线上直播服务。直播链接通常通过法学院官方邮件列表和Facebook页面发布。此外，所有决赛录像均被上传至ANU法学院YouTube频道，截至2024年3月，该频道已积累超过1.2万次观看。录像回放可供任何人在任意时间访问，无需注册或登录。
+Since 2021, the ANU College of Law has offered live streaming of finals. Stream links are usually published through the College of Law's official mailing list and Facebook page. In addition, all final recordings are uploaded to the ANU College of Law YouTube channel, which had accumulated more than 12,000 views as of March 2024. The recordings are accessible to anyone at any time, with no registration or login required.
 
-### 观赛礼仪与注意事项
+### Spectator Etiquette and Notes
 
-观众在决赛现场需遵守以下规则：进入模拟法庭厅时须关闭手机或调至静音模式；不得在辩论过程中拍照或录音；禁止在法官提问阶段鼓掌或发出声响。违反上述规则者可能被要求离场。根据ANU法学院学生手册（2023年版），观赛者可在辩论结束后与参赛者进行交流，但应避免就案件实体内容发表评价。
+Spectators at finals must observe the following rules: turn off phones or switch them to silent mode when entering the Moot Court Room; no photography or recording during the arguments; no applause or noise during the judges' questioning phase. Those who breach these rules may be asked to leave. According to the ANU College of Law Student Handbook (2023 edition), spectators may talk with competitors after the arguments conclude, but should avoid commenting on the substance of the case.
 
-## 如何加入团队
+## How to Join a Team
 
-加入模拟法庭团队需要经过选拔流程，该流程通常包括书面申请和面试两个环节。
+Joining a mooting team requires going through a selection process, which usually comprises a written application and an interview.
 
-### 选拔标准
+### Selection Criteria
 
-选拔委员会（由法学院教授和往届获奖选手组成）主要考察以下三项能力：法律分析能力（权重40%）、口头表达能力（权重35%）、团队协作能力（权重25%）。申请人需提交一份不超过500字的个人陈述，说明为何希望参与竞赛，并附上一份学术成绩单。根据2023年的数据，高级模拟法庭的录取率约为30%，初级模拟法庭的录取率约为45%。
+The selection panel (composed of law professors and former prize winners) assesses three capabilities: legal analysis (40% weight), oral advocacy (35% weight), and teamwork (25% weight). Applicants must submit a personal statement of no more than 500 words explaining why they want to compete, together with an academic transcript. According to 2023 data, the Senior Moot admission rate was about 30% and the Junior Moot rate about 45%.
 
-### 选拔时间线
+### Selection Timeline
 
-选拔流程通常在竞赛开始前6至8周启动。以2024年高级模拟法庭为例：注册截止日为8月1日，面试安排在8月8日至12日，结果公布于8月15日。入选学生随后需参加为期两周的赛前培训，培训内容包括法律检索技巧、口头陈述演练和模拟法官提问应对。
+The selection process usually begins 6 to 8 weeks before the competition starts. Taking the 2024 Senior Moot as an example: registration closed on 1 August, interviews were held from 8 to 12 August, and results were announced on 15 August. Selected students then attend two weeks of pre-competition training covering legal research skills, oral submission practice, and handling moot judges' questions.
 
-### 团队角色与分工
+### Team Roles and Division of Labour
 
-每支队伍由2至3名学生组成，其中一名学生担任“首席陈述人”（Lead Counsel），负责开场陈述和主要法律论点阐述；另一名学生担任“辅助陈述人”（Junior Counsel），负责补充论点和回应法官提问。在部分竞赛中，队伍还可指定一名“研究员”（Researcher），负责法律检索和书面诉状撰写。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-college-of-law-mooting-competitions-how-to-watch-a-grand-final-join-a-team-a) 等专业通道完成结汇。
+Each team consists of 2 to 3 students: one serves as **Lead Counsel**, delivering the opening statement and main legal arguments; another serves as **Junior Counsel**, adding supplementary arguments and responding to judges' questions. In some competitions, a team may also designate a **Researcher** responsible for legal research and drafting the written memorial. When paying tuition fees across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-college-of-law-mooting-competitions-how-to-watch-a-grand-final-join-a-team-a) to complete currency settlement.
 
-## 口头陈述准备流程
+## Preparing Your Oral Submissions
 
-口头陈述是模拟法庭竞赛的核心环节，其质量直接影响法官的评分。根据ANU法学院《模拟法庭竞赛评分标准》（2023年版），口头陈述占总分的60%，书面诉状占40%。
+Oral submissions are the heart of a moot competition, and their quality directly affects the judges' scoring. According to the ANU College of Law *Mooting Competition Marking Criteria* (2023 edition), oral submissions account for 60% of the total mark and written memorials for 40%.
 
-### 法律论点构建
+### Building Legal Arguments
 
-陈述人需在比赛前至少4周完成法律论点的初步构建。这一过程包括：阅读案件材料（通常为50至80页的虚构案件事实）、检索相关判例和法条、撰写论点大纲。每方需提出2至3个核心论点，每个论点应附有至少2个判例支持。ANU法学院图书馆的“法律数据库”模块（Westlaw、LexisNexis）是检索判例的主要工具，使用门槛为持有ANU学生证。
+Advocates should complete the initial construction of their legal arguments at least 4 weeks before the competition. This process includes: reading the case materials (usually a fictional fact pattern of 50 to 80 pages), researching relevant precedents and statutes, and drafting an argument outline. Each side must present 2 to 3 core arguments, each supported by at least 2 precedents. The "legal databases" module of the ANU College of Law library (Westlaw, LexisNexis) is the main tool for precedent research, requiring an ANU student card for access.
 
-### 口头陈述演练
+### Practising Oral Submissions
 
-演练是提升陈述质量的关键。建议每支队伍在正式比赛前进行至少5次完整模拟，每次模拟时长45分钟，并邀请至少1名法学院教授或往届选手担任模拟法官。根据2022年的一项内部调查，参与过3次以上模拟演练的队伍在决赛中的平均得分比仅演练1次的队伍高出12.7个百分点。演练时可使用手机或电脑录像，之后回放分析语速、停顿、手势等非语言因素。
+Practice is the key to improving delivery. Each team is advised to run at least 5 full mock rounds before the competition, each lasting 45 minutes, with at least 1 law professor or former competitor acting as a moot judge. According to a 2022 internal survey, teams that practised more than 3 times scored on average 12.7 percentage points higher in finals than teams that practised only once. During practice, use a phone or computer to record, then review and analyse non-verbal factors such as pace, pauses, and gestures.
 
-### 应对法官提问
+### Handling Judges' Questions
 
-法官提问是模拟法庭中最具挑战性的部分。每场比赛中，法官通常会提出5至10个问题，每个问题要求陈述人在30秒内开始回应。应对策略包括：保持冷静，先复述问题以确认理解正确；如果无法立即回答，可请求“短暂停顿”（不超过10秒）以组织思路；避免使用“我不确定”或“这个问题不重要”等措辞。ANU法学院教授John Williams在2023年的一场讲座中建议，陈述人应在赛前准备一份“问题预测清单”，列出法官可能提出的10至15个问题，并提前撰写回应草稿。
+Judges' questions are the most challenging part of a moot. In each round, judges typically ask 5 to 10 questions, and each question expects the advocate to begin responding within 30 seconds. Coping strategies include: staying calm, restating the question first to confirm understanding; if you cannot answer immediately, asking for a "brief pause" (no longer than 10 seconds) to organise your thoughts; and avoiding phrases like "I'm not sure" or "this question isn't important". ANU College of Law Professor John Williams suggested in a 2023 lecture that advocates prepare a "question prediction list" before the competition, writing down the 10 to 15 questions judges are likely to ask and drafting responses in advance.
 
 ## FAQ
 
-### Q1：模拟法庭竞赛对留学申请有帮助吗？
+### Q1: Does mooting experience help with study-abroad applications?
 
-模拟法庭竞赛经历对申请澳大利亚、英国或美国的法学研究生项目（如JD或LLM）有显著加分。根据QS世界大学排名2024年的数据，参与过模拟法庭竞赛的申请者，在法学研究生项目中的录取率比未参与者高出18.2个百分点。建议在申请文书中具体描述你在竞赛中担任的角色、处理的案件类型以及获得的奖项。
+Mooting experience is a significant plus for applications to postgraduate law programs (such as JD or LLM) in Australia, the UK, or the US. According to QS World University Rankings 2024 data, applicants with mooting experience had an admission rate 18.2 percentage points higher in postgraduate law programs than those without. It is recommended to describe specifically in your application essays the role you played, the types of cases you handled, and the awards you won.
 
-### Q2：国际学生可以参加模拟法庭竞赛吗？
+### Q2: Can international students participate in mooting competitions?
 
-可以。ANU法学院的所有模拟法庭竞赛均向国际学生开放，不设国籍或签证类型限制。根据ANU学生事务办公室2023年的统计，国际学生在高级模拟法庭参赛者中占比约为35%，在初级模拟法庭中占比约为42%。国际学生需注意，竞赛期间可能涉及海外参赛行程，需提前确认签证有效期。
+Yes. All ANU College of Law mooting competitions are open to international students, with no restrictions on nationality or visa type. According to ANU Student Affairs Office 2023 statistics, international students made up about 35% of Senior Moot participants and about 42% of Junior Moot participants. International students should note that competitions may involve overseas travel, so visa validity should be confirmed in advance.
 
-### Q3：模拟法庭竞赛的评分标准是什么？
+### Q3: What are the marking criteria for mooting competitions?
 
-评分标准分为四项：法律准确性（权重30%）、论证逻辑（权重25%）、口头表达（权重25%）、法庭礼仪（权重20%）。每项评分从1到10分，总分40分。法官在赛后提供书面评语，指出优点和待改进之处。根据ANU法学院2023年高级模拟法庭决赛的评分记录，获胜队伍的平均总分为34.6分，落败队伍的平均总分为31.2分。
+The marking criteria comprise four items: legal accuracy (30% weight), argumentation logic (25%), oral presentation (25%), and courtroom etiquette (20%). Each item is scored from 1 to 10, for a total of 40 points. Judges provide written feedback after the competition, noting strengths and areas for improvement. According to the scoring records of the ANU College of Law 2023 Senior Moot grand final, the winning team averaged 34.6 points and the losing team 31.2 points.
 
-## 参考资料
+## References
 
-- 澳大利亚法律教育委员会 2023 《法律教育质量评估报告》
-- 澳大利亚法律执业者准入委员会 2022 《法律实践技能认定标准》
-- ANU法学院 2024 《学术日历与竞赛日程》
-- ANU法学院 2023 《模拟法庭竞赛评分标准》
-- UNILINK 2024 《澳大利亚法学院竞赛参与数据库》
+- Australian Legal Education Council 2023 *Legal Education Quality Assessment Report*
+- Legal Profession Admission Board 2022 *Recognition Standards for Legal Practice Skills*
+- ANU College of Law 2024 *Academic Calendar and Competition Schedule*
+- ANU College of Law 2023 *Mooting Competition Marking Criteria*
+- UNILINK 2024 *Database of Australian Law School Competition Participation*

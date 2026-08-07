@@ -1,6 +1,7 @@
 ---
+slug: anu-academic-progress-monitoring-for-international-students-understanding-the-th
 title: "ANU Academic Progress Monitoring for International Students: Understanding the Three-Stage Intervention and Support Framework"
-description: "澳大利亚国立大学（ANU）自2019年起实施了一套针对国际学生的**学术进度监测（Academic Progress Monitoring）** 三级干预与支持框架，旨在将学业风险识别前置化。根据澳大利亚教育部2023年发布的《国际学生年度数据报告》，ANU国际学生占全校学生总数的44.2%（约10,200人），…"
+description: "Since 2019, the Australian National University (ANU) has operated a three-stage intervention and support framework for international students — Academic Progress Monitoring — designed to identify academic risk early. According to the Australian Department of Education's 2023 Annual International Student Data Report, international students make up 44.2% of ANU's total student body (about 10,200 students)..."
 category: "ANU"
 pubDatetime: '2026-04-24T19:58:09Z'
 publishDate: '2026-04-24T19:58:09Z'
@@ -10,89 +11,88 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-academic-progress-monitoring-for-international-students-understanding-the-th-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）自2019年起实施了一套针对国际学生的**学术进度监测（Academic Progress Monitoring）** 三级干预与支持框架，旨在将学业风险识别前置化。根据澳大利亚教育部2023年发布的《国际学生年度数据报告》，ANU国际学生占全校学生总数的44.2%（约10,200人），其中每年约有6%-8%的学生触发至少一级学业预警。该框架由ANU学术委员会（Academic Board）制定，核心逻辑是区分"学业风险"与"学术不端"，通过**三阶段递进式干预**——从早期预警（Stage 1）到正式介入（Stage 2），再到暂停或取消注册（Stage 3）——为国际学生提供结构化支持，同时确保符合澳大利亚《海外学生教育服务法案》（ESOS Act 2000）对签证合规性的要求。本文基于ANU官方政策文件（2024年修订版）及澳大利亚高等教育质量与标准署（TEQSA）的注册标准，系统拆解该框架的触发条件、操作流程及学生可获取的学术支持资源。
+Since 2019, the Australian National University (ANU) has operated a **three-stage intervention and support framework for international students — Academic Progress Monitoring** — designed to identify academic risk early. According to the Australian Department of Education's 2023 Annual International Student Data Report, international students make up 44.2% of ANU's total student body (about 10,200 students), and each year around 6%-8% of them trigger at least one level of academic warning. The framework was developed by the ANU Academic Board, and its core logic is to distinguish "academic risk" from "academic misconduct". Through **three progressive stages of intervention** — from early warning (Stage 1) to formal intervention (Stage 2), and then to suspension or exclusion (Stage 3) — it provides structured support to international students while ensuring compliance with the visa requirements of Australia's Education Services for Overseas Students Act (ESOS Act 2000). This article is based on ANU's official policy documents (2024 revision) and the registration standards of the Tertiary Education Quality and Standards Agency (TEQSA), and systematically unpacks the framework's trigger conditions, operational procedures and the academic support resources available to students.
 
-## 第一阶段：早期干预预警（Stage 1 - Early Intervention）
+## Stage 1: Early Intervention
 
-**Stage 1** 是ANU学术进度监测体系中最基础的层级，旨在**识别学期内表现低于基准线的学生**，并主动提供非惩罚性支持。根据ANU《学术进度政策》（Academic Progress Policy, 2024），触发条件包括：单学期加权平均分（GPA）低于3.0/7.0，或一门课程成绩不及格（Fail）。该阶段不记录于官方成绩单，也不影响学生签证状态。
+**Stage 1** is the most basic level of the ANU academic progress monitoring system. Its purpose is to **identify students performing below the benchmark within a semester** and proactively offer non-punitive support. Under the ANU Academic Progress Policy (2024), the trigger conditions are: a single-semester weighted average (GPA) below 3.0/7.0, or a Fail in one course. This stage is not recorded on the official transcript and does not affect student visa status.
 
-### 触发后的标准化流程
-当学生触发Stage 1时，ANU学术技能中心（Academic Skills Centre）会在学期结束后14个工作日内通过电子邮件发送**早期预警通知**，并附上《学业支持资源清单》。该通知明确告知学生：当前表现未达到学术要求，但尚未进入正式干预程序。学生需在21天内完成以下两项任务之一：预约一次学术顾问（Academic Advisor）咨询，或参加在线学习策略工作坊（Study Skills Workshop）。2023年数据显示，约73%的Stage 1学生通过完成上述任务避免了进入下一阶段【ANU内部数据, 2023】。
+### Standard Process After Triggering
+When a student triggers Stage 1, the ANU Academic Skills Centre sends an **early warning notice** by email within 14 working days after the end of semester, together with an Academic Support Resources List. The notice makes clear that current performance does not yet meet academic requirements, but that formal intervention has not begun. The student must complete one of two tasks within 21 days: book a consultation with an Academic Advisor, or attend an online Study Skills Workshop. 2023 data shows that around 73% of Stage 1 students avoided moving to the next stage by completing one of these tasks [ANU internal data, 2023].
 
-### 国际学生的特殊考量
-对于国际学生，Stage 1的触发不会自动触发澳大利亚移民局（Department of Home Affairs）的签证报告义务。但ANU国际学生支持办公室（International Student Support）会同步发送多语言版本的提示（含简体中文），强调**按时完成干预动作**是维持良好签证记录的基础。该阶段的核心目标是降低后续Stage 2的触发概率，而非惩罚。
+### Special Considerations for International Students
+For international students, triggering Stage 1 does not automatically create a visa reporting obligation to the Department of Home Affairs. However, the ANU International Student Support office simultaneously sends a multilingual reminder (including Simplified Chinese) emphasising that **completing the intervention actions on time** is the foundation of a good visa record. The core goal of this stage is to reduce the likelihood of Stage 2, not to punish.
 
-## 第二阶段：正式学术介入（Stage 2 - Formal Academic Intervention）
+## Stage 2: Formal Academic Intervention
 
-**Stage 2** 是ANU学术进度监测框架的核心层级，**直接关联签证合规性**。触发条件比Stage 1更为严格：连续两个学期GPA低于3.0/7.0，或单学期GPA低于2.0/7.0。根据ANU《学术进展委员会程序》（Academic Progress Committee Procedures, 2024），一旦触发Stage 2，学生必须参加由学术进展委员会（Academic Progress Committee, APC）主持的正式听证会。
+**Stage 2** is the core level of the ANU academic progress monitoring framework and is **directly linked to visa compliance**. The trigger conditions are stricter than Stage 1: a GPA below 3.0/7.0 for two consecutive semesters, or a single-semester GPA below 2.0/7.0. Under the ANU Academic Progress Committee Procedures (2024), once Stage 2 is triggered the student must attend a formal hearing chaired by the Academic Progress Committee (APC).
 
-### 听证会与干预计划
-APC听证会通常在学期结束后6周内举行，学生需提交一份**书面解释信**（Written Submission），说明成绩下滑的原因（如健康问题、家庭变故、语言适应困难等），并附带证明材料（如医疗证明、心理咨询记录等）。委员会在15个工作日内做出裁决，常见结果包括：批准一份《学术改进计划》（Academic Improvement Plan），要求学生在下学期达到GPA 3.5/7.0以上；或直接发出《签证风险通知》（Visa Risk Notification），要求学生在28天内向移民局报告学术状态。2022年ANU学术进展委员会年报显示，Stage 2学生中约62%获批改进计划，38%被要求立即报告签证风险【ANU APC, 2022】。
+### The Hearing and Intervention Plan
+APC hearings are usually held within 6 weeks after the end of semester. The student must submit a **Written Submission** explaining the reasons for their poor performance (such as health problems, family circumstances, language adaptation difficulties), accompanied by supporting evidence (such as medical certificates or counselling records). The committee decides within 15 working days. Common outcomes include approving an **Academic Improvement Plan** requiring the student to reach a GPA above 3.5/7.0 in the next semester, or issuing a **Visa Risk Notification** requiring the student to report their academic status to the Department of Home Affairs within 28 days. The ANU Academic Progress Committee annual report for 2022 shows that about 62% of Stage 2 students had an improvement plan approved, while 38% were required to report visa risk immediately [ANU APC, 2022].
 
-### 签证合规性影响
-根据澳大利亚ESOS Act第19条，教育机构必须在学生**连续两个学期未达到学术进度要求**后的14天内通知移民局。这意味着Stage 2一旦生效，国际学生的学生签证（Subclass 500）将面临被取消的风险。ANU国际学生支持办公室会在此阶段提供**免费移民法律咨询**（通过ANU Legal Service），帮助学生理解签证条件。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-academic-progress-monitoring-for-international-students-understanding-the-th) 等专业通道完成结汇，确保在签证风险期内学费缴付不出现延迟。
+### Visa Compliance Impact
+Under section 19 of the Australian ESOS Act, education providers must notify the Department of Home Affairs within 14 days if a student **fails to meet academic progress requirements for two consecutive semesters**. This means that once Stage 2 takes effect, an international student's student visa (Subclass 500) is at risk of cancellation. At this stage, the ANU International Student Support office provides **free migration legal advice** (through ANU Legal Service) to help students understand their visa conditions. When paying tuition across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-academic-progress-monitoring-for-international-students-understanding-the-th) to complete their currency exchange, ensuring tuition payments are not delayed during the visa risk period.
 
-## 第三阶段：暂停或取消注册（Stage 3 - Suspension or Exclusion）
+## Stage 3: Suspension or Exclusion
 
-**Stage 3** 是ANU学术进度监测体系的最终层级，**代表最严重的学术不达标状态**。触发条件为：在Stage 2改进计划执行期内，GPA仍低于3.0/7.0，或出现学术不端行为（如抄袭、代考）。根据ANU《学生行为条例》（Student Conduct Rules, 2024），Stage 3的决定由学术进展委员会全体会议（APC Full Meeting）做出，并需经ANU副校长（学术）批准。
+**Stage 3** is the final level of the ANU academic progress monitoring system and **represents the most serious state of academic underperformance**. The trigger conditions are: a GPA still below 3.0/7.0 during the Stage 2 improvement plan period, or academic misconduct (such as plagiarism or sitting an exam for someone else). Under the ANU Student Conduct Rules (2024), Stage 3 decisions are made by the Academic Progress Committee Full Meeting and require the approval of the ANU Deputy Vice-Chancellor (Academic).
 
-### 暂停与取消的差异
-暂停（Suspension）通常为期一个学期至两个学期，期间学生不能注册任何课程，但保留重新申请的权利。取消注册（Exclusion）则意味着学生被永久开除，且ANU会在**14天内向移民局提交取消注册报告**，导致学生签证自动失效。2023年ANU年报显示，全年共处理Stage 3案例47起，其中暂停28起、取消注册19起【ANU Annual Report, 2023】。被取消注册的学生需在28天内离境澳大利亚，除非获得移民部长干预。
+### Suspension vs Exclusion
+**Suspension** usually lasts one to two semesters, during which the student cannot enrol in any courses but retains the right to reapply. **Exclusion** means permanent expulsion, and ANU must **submit a report to the Department of Home Affairs within 14 days**, causing the student visa to lapse automatically. The ANU Annual Report 2023 shows that 47 Stage 3 cases were processed that year — 28 suspensions and 19 exclusions [ANU Annual Report, 2023]. Excluded students must leave Australia within 28 days unless the Minister for Immigration intervenes.
 
-### 申诉与重新入学路径
-ANU为Stage 3学生提供**正式申诉渠道**：学生可在收到决定通知后20个工作日内，向ANU学生申诉委员会（Student Appeals Committee）提交书面申诉。申诉理由必须基于程序错误或新证据（如误诊的医疗证明）。若申诉被驳回，学生可进一步向ACT民事与行政法庭（ACAT）申请外部审查。重新入学申请需在暂停期结束后6个月内提交，并附上证明学业能力改善的材料（如语言成绩、预科成绩）。ANU官网数据显示，2022年暂停学生中约41%成功重新入学【ANU Student Appeals, 2022】。
+### Appeals and Re-Enrolment Pathways
+ANU provides a **formal appeal channel** for Stage 3 students: within 20 working days of receiving the decision notice, students may submit a written appeal to the ANU Student Appeals Committee. Grounds for appeal must be procedural error or new evidence (such as a misdiagnosed medical certificate). If the appeal is dismissed, students may seek external review from the ACT Civil and Administrative Tribunal (ACAT). Re-enrolment applications must be submitted within 6 months after the suspension period ends, with materials demonstrating improved academic capacity (such as language test results or foundation program results). ANU website data shows that about 41% of suspended students in 2022 successfully re-enrolled [ANU Student Appeals, 2022].
 
-## 学术支持资源体系
+## The Academic Support Resource System
 
-ANU为处于不同学业预警阶段的学生提供**分层式学术支持**，涵盖语言、学习策略、心理健康及财务咨询四大领域。该体系由ANU学生服务部（Student Services Division）统一协调，2024年预算为1,270万澳元【ANU Budget, 2024】。
+ANU provides **tiered academic support** for students at different warning stages, covering four areas: language, study strategies, mental health and financial counselling. The system is coordinated centrally by the ANU Student Services Division, with a 2024 budget of AUD 12.7 million [ANU Budget, 2024].
 
-### 学术技能中心
-学术技能中心（Academic Skills Centre）提供**一对一辅导**（每周最多2次，每次50分钟）、写作工作坊（每周3场，每场90分钟）以及在线自评工具（如Academic Writing Self-Assessment）。对于Stage 1学生，该中心会强制要求参加至少3次工作坊。2023年参与该中心项目的学生中，67%在下一学期GPA提高了至少0.5分【Academic Skills Centre, 2023】。
+### Academic Skills Centre
+The Academic Skills Centre offers **one-on-one tutoring** (maximum 2 sessions per week, 50 minutes each), writing workshops (3 per week, 90 minutes each) and online self-assessment tools (such as the Academic Writing Self-Assessment). For Stage 1 students, the centre requires attendance at at least 3 workshops. Of the students who took part in the centre's programs in 2023, 67% improved their GPA by at least 0.5 points the following semester [Academic Skills Centre, 2023].
 
-### 语言与文化支持
-针对国际学生，ANU英语语言中心（ANU English）开设**学术英语课程**（Academic English for University Studies），每期10周，费用为3,960澳元（2024年标准）。该课程被TEQSA认可为满足学生签证语言条件的替代路径。此外，多元文化支持项目（Multicultural Support Program）提供**同伴辅导**（Peer Mentoring），由高年级国际学生担任导师，每周1次线上或线下辅导。
+### Language and Cultural Support
+For international students, ANU English offers the **Academic English for University Studies** course, which runs for 10 weeks and costs AUD 3,960 (2024 rates). The course is recognised by TEQSA as an alternative pathway for meeting student visa language conditions. In addition, the Multicultural Support Program offers **Peer Mentoring**, with senior international students acting as mentors in weekly online or in-person sessions.
 
-### 心理健康与财务咨询
-ANU心理咨询服务（ANU Counselling）为所有学生提供**免费短期咨询**（最多6次），2023年共处理1,247例与学业压力相关的咨询。财务援助办公室（Financial Assistance Office）可提供**紧急贷款**（最高2,000澳元）及预算规划服务，帮助国际学生应对因学业问题导致的学费支付困难。
+### Mental Health and Financial Counselling
+ANU Counselling provides **free short-term counselling** (up to 6 sessions) for all students, handling 1,247 cases related to academic stress in 2023. The Financial Assistance Office can provide **emergency loans** (up to AUD 2,000) and budgeting services to help international students manage tuition payment difficulties caused by academic problems.
 
-## 政策合规与签证风险规避
+## Policy Compliance and Avoiding Visa Risk
 
-国际学生理解ANU学术进度监测框架与**澳大利亚签证法规**的衔接关系至关重要。根据澳大利亚移民局2024年更新的《学生签证条款》（Student Visa Conditions 8202），学生必须保持注册课程的全日制学习状态，并满足**学术进度要求**（Satisfactory Academic Progress）。
+It is essential for international students to understand how the ANU academic progress monitoring framework connects with **Australian visa regulations**. Under the Student Visa Conditions 8202 updated by the Department of Home Affairs in 2024, students must maintain full-time enrolment in their registered course and meet **Satisfactory Academic Progress** requirements.
 
-### ESOS Act下的报告义务
-ANU作为CRICOS注册机构（代码00120C），必须遵守ESOS Act第19条和第20条。第19条要求机构在学生**未开始课程或退出课程**后的14天内通知移民局。第20条则要求机构在认为学生**可能无法完成课程**时发出警告通知。ANU学术进度监测框架的Stage 2和Stage 3直接对应第20条的触发条件。2023年，ANU共向移民局提交了312份学术进度相关报告，其中Stage 2占82%，Stage 3占18%【ANU Compliance Report, 2023】。
+### Reporting Obligations Under the ESOS Act
+As a CRICOS-registered provider (code 00120C), ANU must comply with sections 19 and 20 of the ESOS Act. Section 19 requires providers to notify the Department of Home Affairs within 14 days if a student **fails to commence a course or withdraws from a course**. Section 20 requires providers to issue a warning notice when it believes a student **may not be able to complete their course**. Stages 2 and 3 of the ANU academic progress monitoring framework map directly onto the section 20 trigger conditions. In 2023, ANU submitted 312 academic progress reports to the Department of Home Affairs — 82% from Stage 2 and 18% from Stage 3 [ANU Compliance Report, 2023].
 
-### 签证取消后的恢复路径
-如果学生因学术进度问题被取消签证，可依据《移民条例》（Migration Regulations 1994）第500.217条申请**签证取消撤销**（Revocation of Cancellation），但必须在收到取消通知后的28天内提交。ANU国际学生支持办公室会提供免费的法律转介服务（通过ANU Legal Service）。2022年数据显示，ANU学生签证取消撤销申请的成功率约为34%【Department of Home Affairs, 2023】。
+### Pathway After Visa Cancellation
+If a student's visa is cancelled due to academic progress issues, they may apply for a **Revocation of Cancellation** under regulation 500.217 of the Migration Regulations 1994, but the application must be lodged within 28 days of receiving the cancellation notice. The ANU International Student Support office provides free legal referral services (through ANU Legal Service). 2022 data shows that the success rate for ANU student visa cancellation revocation applications was around 34% [Department of Home Affairs, 2023].
 
-## 学术申诉与外部审查机制
+## Academic Appeals and External Review Mechanisms
 
-ANU学术进度监测框架内置了**多层申诉渠道**，确保学生的程序性权利得到保障。申诉流程分为内部和外部两个层级。
+The ANU academic progress monitoring framework includes **multiple layers of appeal** to protect students' procedural rights. The appeal process operates at two levels: internal and external.
 
-### 内部申诉：学生申诉委员会
-学生申诉委员会（Student Appeals Committee, SAC）由三名成员组成：一名学术委员会提名的教授、一名学生代表、一名独立行政人员。SAC在收到申诉后30个工作日内做出裁决，可维持原决定、修改决定或要求重新审理。2023年SAC共受理73起申诉，其中23起（31.5%）获得部分或全部支持【SAC Annual Report, 2023】。
+### Internal Appeals: The Student Appeals Committee
+The Student Appeals Committee (SAC) consists of three members: a professor nominated by the Academic Board, a student representative, and an independent administrative officer. The SAC rules within 30 working days of receiving an appeal and may uphold the original decision, modify it, or order a rehearing. In 2023 the SAC accepted 73 appeals, of which 23 (31.5%) were partially or fully upheld [SAC Annual Report, 2023].
 
-### 外部审查：ACAT与Ombudsman
-如果内部申诉被驳回，学生可向ACT民事与行政法庭（ACAT）申请外部审查。ACAT有权要求ANU重新做出决定，或直接推翻原决定。此外，澳大利亚联邦监察专员（Commonwealth Ombudsman）可对ANU的行政程序进行调查。2022年，ACAT受理了11起与ANU学术进度相关的案件，其中4起裁定学生胜诉【ACAT, 2022】。
+### External Review: ACAT and the Ombudsman
+If an internal appeal is dismissed, students may apply to the ACT Civil and Administrative Tribunal (ACAT) for external review. ACAT has the power to require ANU to make a new decision or to overturn the original decision directly. In addition, the Commonwealth Ombudsman can investigate ANU administrative processes. In 2022, ACAT accepted 11 cases related to ANU academic progress, ruling in favour of the student in 4 of them [ACAT, 2022].
 
 ## FAQ
 
-### Q1：如果我在Stage 1后完成了干预任务，但下学期GPA仍然低于3.0，会直接进入Stage 3吗？
-不会。根据ANU政策，Stage 1后若GPA仍低于3.0但未低于2.0，会触发Stage 2而非Stage 3。2023年数据显示，约56%的Stage 1学生在下一学期GPA仍低于3.0，其中82%进入Stage 2，仅18%因GPA低于2.0直接进入Stage 3【ANU Academic Progress Committee, 2023】。
+### Q1: If I complete the intervention tasks after Stage 1 but my GPA is still below 3.0 next semester, will I go straight to Stage 3?
+No. Under ANU policy, if your GPA is still below 3.0 after Stage 1 but not below 2.0, Stage 2 is triggered rather than Stage 3. 2023 data shows that about 56% of Stage 1 students still had a GPA below 3.0 the following semester; of these, 82% entered Stage 2 and only 18% went straight to Stage 3 because their GPA fell below 2.0 [ANU Academic Progress Committee, 2023].
 
-### Q2：Stage 2听证会需要准备哪些材料？必须本人出席吗？
-学生必须提交书面解释信（不超过1,000字）及证明材料，并本人出席听证会（可通过Zoom远程参加）。2024年政策规定，缺席听证会导致委员会直接依据现有材料做出裁决，且后续申诉成功率下降约40%【ANU APC Procedures, 2024】。
+### Q2: What materials do I need for the Stage 2 hearing, and must I attend in person?
+Students must submit a written submission (no more than 1,000 words) with supporting evidence, and must attend the hearing in person (attendance by Zoom is permitted). Under the 2024 policy, failing to attend means the committee decides on the available materials, and the success rate of any subsequent appeal falls by around 40% [ANU APC Procedures, 2024].
 
-### Q3：如果被取消注册，我还能申请其他澳大利亚大学吗？
-可以。被ANU取消注册的学生仍可申请其他大学，但需在申请时披露ANU的取消决定。澳大利亚大学录取中心（UAC）数据显示，2022年有23名被ANU取消注册的学生成功转入其他大学，其中15名进入非八大学校【UAC, 2023】。转学申请需提供新的学术能力证明（如雅思成绩或预科成绩）。
+### Q3: If I am excluded, can I still apply to other Australian universities?
+Yes. Students excluded from ANU may still apply to other universities, but must disclose the ANU exclusion decision in their applications. Universities Admissions Centre (UAC) data shows that in 2022, 23 students excluded from ANU successfully transferred to other universities, 15 of them to non-Go8 institutions [UAC, 2023]. Transfer applications must provide new evidence of academic ability (such as IELTS results or foundation program results).
 
-## 参考资料
-- 澳大利亚教育部 2023 《国际学生年度数据报告》
-- 澳大利亚国立大学学术委员会 2024 《学术进度政策（Academic Progress Policy）》
-- 澳大利亚高等教育质量与标准署（TEQSA） 2024 《注册标准与合规指南》
-- 澳大利亚移民局 2024 《学生签证条款8202》
-- UNILINK Education 2024 《澳大利亚八大学业预警机制数据库》
-
+## References
+- Australian Department of Education 2023, Annual International Student Data Report
+- Australian National University Academic Board 2024, Academic Progress Policy
+- Tertiary Education Quality and Standards Agency (TEQSA) 2024, Registration Standards and Compliance Guidelines
+- Australian Department of Home Affairs 2024, Student Visa Condition 8202
+- UNILINK Education 2024, Go8 Academic Warning Mechanisms Database
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/anu-academic-progress-monitoring-for-international-students-understanding-the-th" target="_blank"

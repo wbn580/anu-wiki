@@ -1,6 +1,7 @@
 ---
+slug: anu-biology-lab-safety-induction-how-to-complete-the-mandatory-online-module-and
 title: "ANU Biology Lab Safety Induction: How to Complete the Mandatory Online Module and In-Person Competency Test"
-description: "澳洲国立大学（ANU）所有涉及生物实验室操作的本科生、研究生及研究人员，必须在获得实验室准入前完成两阶段安全认证：**ANU Biology Lab Safety Induction**。该流程包含一个约90分钟的线上模块（Online Module）和一次现场实操能力测试（In-Person Competenc…"
+description: "All undergraduates, postgraduates and researchers at the Australian National University (ANU) who work in biology laboratories must complete a two-stage safety certification before gaining lab access: the **ANU Biology Lab Safety Induction**. The process comprises an online module of about 90 minutes and an in-person competency test. According to the Laboratory Safety Training Annual Report released by the ANU Health and Safety Office in 2023, 1,247 people completed the certification in the 2022 academic year, but the first-attempt pass rate was only 68%..."
 category: "ANU"
 pubDatetime: '2026-04-22T19:57:45Z'
 publishDate: '2026-04-22T19:57:45Z'
@@ -10,98 +11,95 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-biology-lab-safety-induction-how-to-complete-the-mandatory-online-module-and-2026-1880x1253.jpg"
 ---
 
-澳洲国立大学（ANU）所有涉及生物实验室操作的本科生、研究生及研究人员，必须在获得实验室准入前完成两阶段安全认证：**ANU Biology Lab Safety Induction**。该流程包含一个约90分钟的线上模块（Online Module）和一次现场实操能力测试（In-Person Competency Test）。根据ANU健康与安全办公室2023年发布的《实验室安全培训年度报告》，2022学年共有1,247名人员完成了该认证，但初次通过率仅为68%，其中线上模块的完成率接近100%，而实操测试的首次未通过率高达32%，主要集中于生物安全柜操作和废弃物处理两个环节。这一数据表明，仅完成线上课程远不足以满足准入要求。澳大利亚联邦科学与工业研究组织（CSIRO）2021年发布的《生物实验室安全实践指南》亦指出，标准化实操评估是降低实验室事故发生率的关键手段，ANU的认证体系与该指南的核心建议高度一致。本文基于ANU官方培训材料、实验室安全手册及2024年最新政策更新，系统拆解从模块注册到实操考核的全流程。
+All undergraduates, postgraduates and researchers at the Australian National University (ANU) who work in biology laboratories must complete a two-stage safety certification before gaining lab access: the **ANU Biology Lab Safety Induction**. The process comprises an online module of about 90 minutes and an in-person competency test. According to the Laboratory Safety Training Annual Report released by the ANU Health and Safety Office in 2023, 1,247 people completed the certification in the 2022 academic year, but the first-attempt pass rate was only 68%. Completion of the online module was close to 100%, while the first-attempt failure rate for the practical test was as high as 32%, concentrated mainly in biosafety cabinet operation and waste disposal. This data shows that completing the online course alone is far from sufficient to meet the access requirements. The CSIRO 2021 Biological Laboratory Safety Practice Guide also notes that standardised practical assessment is a key means of reducing laboratory accident rates, and the ANU certification system is highly consistent with the guide's core recommendations. Based on official ANU training materials, the laboratory safety manual and the latest 2024 policy updates, this article breaks down the full process from module registration to the practical assessment.
 
-## 线上模块的注册与访问路径
+## Registering for and Accessing the Online Module
 
-所有用户必须通过ANU的Wattle学习管理系统访问线上模块。ANU IT服务部门在2024年1月更新了系统，要求用户使用统一身份认证（Unified Authentication）登录。**线上模块**的入口位于Wattle的“Staff & Student Safety”板块下，搜索“Biological Safety Induction”即可找到对应课程。课程代码为BIOL8001，每年1月、3月、7月、10月自动重置，用户需在每次重置后重新完成模块，若实验室准入期超过12个月。
+All users must access the online module through ANU's Wattle learning management system. ANU IT Services updated the system in January 2024, requiring users to log in with Unified Authentication. **The online module** is located under the "Staff & Student Safety" section of Wattle; search for "Biological Safety Induction" to find the course. The course code is BIOL8001, and it resets automatically every January, March, July and October; users must redo the module after each reset if their lab access period exceeds 12 months.
 
-### 模块内容与学习时长
+### Module Content and Study Time
 
-线上模块由6个学习单元组成，总时长约为90分钟。根据ANU生物安全委员会2023年内部审计数据，每个单元包含3至5个交互式场景模拟，覆盖**生物安全柜操作**、个人防护装备（PPE）穿戴顺序、溢出物处理流程及废弃物分类。用户必须完成所有单元并达到100%的测验正确率才能获得完成证书。系统允许用户暂停并保存进度，但每次退出后需重新登录Wattle。
+The online module consists of 6 study units totalling about 90 minutes. According to internal audit data from the ANU Biosafety Committee for 2023, each unit contains 3 to 5 interactive scenario simulations covering **biosafety cabinet operation**, personal protective equipment (PPE) donning order, spill handling procedures and waste classification. Users must complete all units and achieve a 100% quiz accuracy rate to receive the completion certificate. The system allows users to pause and save progress, but they must log back into Wattle after each exit.
 
-### 证书获取与有效期
+### Certificate Issuance and Validity
 
-完成线上模块后，系统自动生成一份PDF格式的**完成证书**，该证书有效期仅为12个月。证书上印有用户姓名、完成日期及课程代码。用户需将此证书打印或保存为电子版，用于预约实操测试。ANU健康与安全办公室2024年政策更新明确，证书过期后需重新完成线上模块，无法通过补考或延期方式延续。
+After completing the online module, the system automatically generates a **completion certificate** in PDF format, valid for only 12 months. The certificate shows the user's name, completion date and course code. Users must print or save the certificate electronically to book the practical test. The ANU Health and Safety Office 2024 policy update makes clear that once the certificate expires, the online module must be redone; it cannot be extended through a supplementary exam or deferral.
 
-## 实操测试的预约与准备
+## Booking and Preparing for the Practical Test
 
-实操测试由ANU生物安全委员会授权的实验室安全官（Laboratory Safety Officer）主持。测试地点通常位于各学院指定的生物实验室，例如林纳尤斯楼（Linnaeus Building）的B层实验室。**预约流程**通过ANU的“LabAccess”在线系统进行，用户需在系统中上传线上模块完成证书，并选择可用的测试时段。根据ANU 2023年《实验室准入统计》，测试时段每周开放3次，每次最多容纳8人，平均等待时间为5个工作日。
+The practical test is run by laboratory safety officers authorised by the ANU Biosafety Committee. Test locations are usually the designated biology laboratories of each college, such as the B-level laboratories in the Linnaeus Building. **The booking process** goes through ANU's "LabAccess" online system, where users upload their online module completion certificate and select an available test slot. According to ANU 2023 Laboratory Access Statistics, test sessions are offered 3 times per week with a maximum of 8 people per session, and the average wait time is 5 business days.
 
-### 测试前的自备材料
+### Materials to Bring to the Test
 
-参加测试时，用户必须携带以下材料：线上模块完成证书（纸质或电子版）、ANU学生证或员工卡、以及个人实验服。实验室安全官会现场检查PPE的合规性，包括实验服长度（必须覆盖膝盖）和鞋类（必须为封闭式鞋）。ANU生物安全手册第4.2条明确规定，未携带上述材料者将被拒绝入场，且该次预约视为放弃，需重新排队。
+When attending the test, users must bring: the online module completion certificate (paper or electronic), an ANU student or staff card, and a personal lab coat. The lab safety officer checks PPE compliance on the spot, including lab coat length (must cover the knees) and footwear (must be closed-toe). Clause 4.2 of the ANU Biosafety Manual states clearly that anyone without the required materials will be refused entry, the booking will be treated as forfeited, and they must rejoin the queue.
 
-### 核心考核项目清单
+### Core Assessment Items
 
-实操测试包含5个核心考核项目，每个项目由安全官根据ANU生物安全委员会2023年制定的评分标准进行打分，满分为100分，合格线为80分。项目包括：**生物安全柜的启动与关闭流程**（20分）、个人防护装备的穿戴与脱除顺序（20分）、液体溢出物处理（20分）、锐器废弃物处置（20分）、以及实验后工作台清洁与记录（20分）。ANU官方数据显示，2022学年考生在“生物安全柜的启动与关闭流程”项目上平均得分最低，仅为14.2分。
+The practical test covers 5 core assessment items, each scored by the safety officer against the marking criteria set by the ANU Biosafety Committee in 2023. The total is out of 100, with a passing mark of 80. The items are: **biosafety cabinet start-up and shutdown procedure** (20 points), PPE donning and doffing order (20 points), liquid spill handling (20 points), sharps waste disposal (20 points), and post-experiment bench cleaning and recording (20 points). Official ANU data shows that in the 2022 academic year, candidates scored lowest on average — just 14.2 points — in the "biosafety cabinet start-up and shutdown procedure" item.
 
-## 生物安全柜操作的关键要点
+## Key Points of Biosafety Cabinet Operation
 
-生物安全柜是ANU生物实验室中最常被误用的设备之一。根据ANU 2023年实验室安全审计报告，约45%的首次未通过考生在**生物安全柜操作**环节失分。测试要求考生演示二级生物安全柜（Class II, Type A2）的正确启动顺序：首先关闭前窗至操作高度（标记线处），然后开启紫外灯消毒15分钟，最后开启风机并等待至少5分钟直至气流稳定。安全官会检查考生是否在操作前确认了柜内无残留物品。
+The biosafety cabinet is one of the most misused pieces of equipment in ANU biology laboratories. According to the ANU 2023 laboratory safety audit report, about 45% of first-attempt failures lost marks in **biosafety cabinet operation**. The test requires candidates to demonstrate the correct start-up sequence for a Class II, Type A2 biosafety cabinet: first close the front sash to the operating height (at the marked line), then switch on the UV lamp for 15 minutes of disinfection, and finally start the blower and wait at least 5 minutes until the airflow stabilises. The safety officer checks whether the candidate confirms the cabinet is free of residual items before starting.
 
-### 常见操作错误
+### Common Operating Errors
 
-ANU生物安全手册（2024版）列出了三个最常见的操作错误：启动前未检查HEPA过滤器压力表读数（正常范围应为0.5至1.0英寸水柱）、操作过程中手臂频繁进出柜体（破坏气流屏障）、以及实验结束后未保持风机运行至少10分钟。这些错误在实操测试中会被直接扣分，每个错误最多扣除5分。安全官会在测试结束后提供口头反馈，但不会重新评分。
+The ANU Biosafety Manual (2024 edition) lists the three most common operating errors: failing to check the HEPA filter pressure gauge reading before start-up (the normal range should be 0.5 to 1.0 inches of water column), moving arms in and out of the cabinet frequently during operation (disrupting the airflow barrier), and failing to keep the blower running for at least 10 minutes after the experiment. These errors incur direct mark deductions in the practical test, with up to 5 points deducted per error. The safety officer provides verbal feedback after the test but does not rescore.
 
-### 气流与屏障概念
+### Airflow and Containment Concepts
 
-测试中会涉及对**气流屏障**原理的口头问答。用户需解释二级A2生物安全柜如何通过向下气流和进气格栅形成物理屏障，保护操作者、样品和环境。ANU生物安全委员会要求考生能够描述“前窗开口处向内气流速度不应低于0.5米/秒”这一标准，并说明如何通过风速计验证。此部分不直接计入实操分数，但若回答错误，安全官有权在总分中额外扣除2分。
+The test includes an oral Q&A on the principles of the **airflow barrier**. Users must explain how a Class II Type A2 cabinet forms a physical barrier through downflow air and the intake grille, protecting the operator, samples and the environment. The ANU Biosafety Committee requires candidates to state the standard that "the inward airflow velocity at the front sash opening must not be below 0.5 metres per second" and to explain how it is verified with an anemometer. This section does not count directly towards the practical score, but if the answer is wrong, the safety officer may deduct an additional 2 points from the total.
 
-## 个人防护装备的穿戴与脱除
+## PPE Donning and Doffing
 
-PPE的穿戴与脱除顺序是ANU实操测试中另一个高失分环节。根据ANU 2022年《实验室安全培训数据分析》，约28%的首次未通过考生在此项目上低于16分（满分20分）。**穿戴顺序**要求考生依次完成：实验服（扣好所有纽扣）、护目镜（贴合面部）、丁腈手套（覆盖实验服袖口）。安全官会检查实验服是否完全覆盖前身和手臂，以及手套是否无破损。
+PPE donning and doffing order is another section with high mark losses in the ANU practical test. According to the ANU 2022 Laboratory Safety Training Data Analysis, about 28% of first-attempt failures scored below 16 points (out of 20) in this item. **The donning order** requires candidates to complete, in sequence: the lab coat (all buttons done up), safety goggles (fitted to the face), and nitrile gloves (overlapping the lab coat cuffs). The safety officer checks that the lab coat fully covers the front of the body and arms, and that the gloves are free of damage.
 
-### 脱除顺序与污染控制
+### Doffing Order and Contamination Control
 
-脱除顺序与穿戴顺序相反，且要求考生在脱除过程中避免接触污染面。ANU生物安全手册第6.1条明确规定，手套应在实验服之前脱除，且脱除时需采用“内翻法”（将手套内侧向外翻转），以防止污染物外露。安全官会观察考生是否在脱除手套后立即洗手，以及是否将使用过的实验服放入指定的污染衣物收集袋中。未完成洗手步骤将被扣3分。
+The doffing order is the reverse of donning, and candidates must avoid touching contaminated surfaces while removing PPE. Clause 6.1 of the ANU Biosafety Manual states clearly that gloves must be removed before the lab coat, using the "inside-out method" (turning the gloves inside out) to prevent exposure to contaminants. The safety officer observes whether the candidate washes hands immediately after removing gloves and whether used lab coats go into the designated contaminated clothing collection bag. Missing the handwashing step costs 3 points.
 
-### 特殊PPE要求
+### Special PPE Requirements
 
-对于涉及BSL-2及以上级别病原体的实验室，ANU要求考生额外穿戴**一次性防护帽**和**鞋套**。实操测试中，若考生选择的实验项目涉及此类材料，安全官会随机提问这些额外PPE的穿戴时机。ANU健康与安全办公室2024年备忘录指出，此类提问不直接计分，但若考生无法回答，安全官有权在总分中扣除1至2分。
+For laboratories involving pathogens at BSL-2 or above, ANU requires candidates to additionally wear **disposable caps** and **shoe covers**. In the practical test, if the candidate's chosen experiment involves such materials, the safety officer may ask random questions about when these additional PPE items should be worn. An ANU Health and Safety Office 2024 memo notes that such questions do not count directly towards the score, but if the candidate cannot answer, the safety officer may deduct 1 to 2 points from the total.
 
-## 溢出物处理与废弃物管理
+## Spill Handling and Waste Management
 
-液体溢出物处理是ANU实操测试中唯一一个需要考生完整模拟全流程的项目。根据ANU 2023年《生物废弃物处理年度报告》，2022学年共记录12起实验室溢出事件，其中7起因处理不当导致区域封闭。**溢出物处理**流程要求考生在2分钟内完成以下步骤：通知周围人员撤离、戴上备用手套、用吸收垫覆盖溢出物、从外围向中心喷洒1%次氯酸钠消毒液、静置10分钟后清理。安全官会使用计时器记录时间，超时者将被扣5分。
+Liquid spill handling is the only item in the ANU practical test requiring candidates to simulate the full process. According to the ANU 2023 Annual Report on Biohazardous Waste Disposal, 12 laboratory spills were recorded in the 2022 academic year, 7 of which led to area closures due to improper handling. **The spill handling procedure** requires candidates to complete the following steps within 2 minutes: notify people in the vicinity to evacuate, put on spare gloves, cover the spill with absorbent pads, spray 1% sodium hypochlorite disinfectant from the outer edge towards the centre, and clean up after a 10-minute contact time. The safety officer uses a timer; going over time costs 5 points.
 
-### 废弃物分类与标识
+### Waste Classification and Labelling
 
-ANU生物实验室废弃物分为三类：锐器废弃物（针头、玻片）、生物危害废弃物（培养皿、手套）和普通化学废弃物。**锐器废弃物**必须直接放入专用锐器盒，且盒体填充量不得超过三分之二。ANU生物安全手册第8.2条要求，所有生物危害废弃物袋上必须标注“生物危害”标识、日期及操作者姓名。安全官会检查考生是否在模拟操作中正确粘贴标识，遗漏标识将被扣3分。
+ANU biology laboratory waste falls into three categories: sharps waste (needles, glass slides), biohazardous waste (culture dishes, gloves) and general chemical waste. **Sharps waste** must be placed directly into dedicated sharps containers, which must not be filled beyond two-thirds. Clause 8.2 of the ANU Biosafety Manual requires all biohazardous waste bags to be labelled with the "biohazard" symbol, the date and the operator's name. The safety officer checks whether the candidate affixes the labels correctly during the simulation; a missing label costs 3 points.
 
-### 溢出物报告流程
+### Spill Reporting Procedure
 
-测试中，安全官会询问考生在真实溢出事件后的报告流程。根据ANU 2024年《事故报告政策》，任何涉及生物材料的溢出事件必须在24小时内通过“SafeWork ANU”在线系统提交报告。考生需回答报告应包含的内容：事件时间、地点、涉及材料、处理措施及目击者信息。此部分为口头问答，回答完整得5分，遗漏关键信息扣2分。
+During the test, the safety officer asks candidates about the reporting procedure after a real spill. Under the ANU 2024 Incident Reporting Policy, any spill involving biological materials must be reported within 24 hours through the "SafeWork ANU" online system. Candidates must state what the report should contain: the time of the incident, location, materials involved, actions taken and witness information. This is an oral Q&A section: a complete answer earns 5 points, and missing key information costs 2 points.
 
-## 测试评分与补考机制
+## Test Scoring and Resit Mechanism
 
-ANU实操测试的评分采用实时记录方式，安全官会使用ANU生物安全委员会2023年制定的标准化评分表，在测试过程中逐项打分。**评分标准**分为三个等级：完全符合（满分）、部分符合（扣50%分数）、不符合（0分）。总分80分以上为通过，80分以下需重新预约补考。ANU 2022年数据显示，首次未通过考生中，约55%在补考中通过，平均补考等待时间为10个工作日。
+The ANU practical test is scored in real time: the safety officer uses the standardised score sheet developed by the ANU Biosafety Committee in 2023 and marks each item during the test. **The marking scale** has three levels: fully compliant (full marks), partially compliant (50% of marks) and non-compliant (0 marks). A total of 80 or above is a pass; below 80, candidates must rebook a resit. ANU 2022 data shows that about 55% of first-attempt failures passed on resit, with an average resit wait time of 10 business days.
 
-### 补考流程与费用
+### Resit Process and Fees
 
-补考需通过“LabAccess”系统重新预约，且需再次上传线上模块完成证书（若证书仍在有效期内）。ANU健康与安全办公室2024年政策更新明确，**补考费用**为每次50澳元，通过ANU财务系统支付。若考生在补考中仍未通过，需等待30天后才能再次预约，且需重新完成线上模块。ANU官方2023年统计显示，仅有3%的考生需要第三次补考。
+Resits must be rebooked through the "LabAccess" system, and the online module completion certificate must be uploaded again (if still valid). The ANU Health and Safety Office 2024 policy update confirms the **resit fee** is A$50 per attempt, paid through the ANU finance system. If a candidate fails the resit, they must wait 30 days before booking again and must redo the online module. Official ANU 2023 statistics show that only 3% of candidates need a third attempt.
 
-### 申诉与复核
+### Appeals and Reviews
 
-若考生对评分结果有异议，可在测试结束后5个工作日内向ANU生物安全委员会提交书面申诉。**申诉流程**要求考生提供测试日期、安全官姓名及具体争议项目。委员会将在10个工作日内调取测试录像（ANU所有实操测试均被录像存档）进行复核，并以书面形式通知结果。ANU 2023年共受理12起申诉，其中2起因评分记录错误而调整了分数。
+If a candidate disputes the result, they may submit a written appeal to the ANU Biosafety Committee within 5 business days of the test. **The appeal process** requires the candidate to provide the test date, the safety officer's name and the specific items in dispute. The Committee will retrieve the test recording (all ANU practical tests are video-recorded and archived) for review within 10 business days and notify the outcome in writing. In 2023, ANU received 12 appeals, 2 of which resulted in score adjustments due to recording errors.
 
 ## FAQ
 
-### Q1：线上模块完成后，证书多久能生成？
+### Q1: How long after completing the online module does the certificate appear?
+The certificate is generated automatically within 30 minutes of completing the online module and appears on the "My Certificates" page in Wattle. ANU IT Services data for 2023 shows that 99.2% of users can download the certificate within 15 minutes. If it still has not appeared after 1 hour, contact the ANU Service Desk to check the system records.
 
-线上模块完成后，证书会在30分钟内自动生成并出现在Wattle的“My Certificates”页面。ANU IT服务部门2023年数据显示，99.2%的用户在15分钟内即可下载证书。若超过1小时仍未显示，建议联系ANU服务台（Service Desk）检查系统记录。
+### Q2: How long is the practical test valid? Do I need to retake it every year?
+Certification from a passed practical test is valid for 12 months, matching the validity of the online module certificate. Under the ANU Biosafety Committee's 2024 policy, all lab access personnel must redo the online module and book the practical test within 30 days before their certification expires. 2022 data shows that about 67% of users complete re-certification within 14 days of expiry.
 
-### Q2：实操测试的有效期是多久？需要每年重考吗？
+### Q3: If I fail the practical test, how soon can I rebook?
+After a first failure, users can immediately rebook a resit through the "LabAccess" system, but must pay the A$50 resit fee. The average resit wait time is 10 business days. If the resit is also failed, candidates must wait 30 days before booking again and must redo the online module. ANU 2023 statistics show a resit pass rate of 55%.
 
-实操测试通过后的认证有效期为12个月，与线上模块证书有效期一致。ANU生物安全委员会2024年政策规定，所有实验室准入人员需在认证到期前30天内重新完成线上模块并预约实操测试。2022年数据显示，约67%的用户选择在到期前14天内完成重认证。
+## References
 
-### Q3：如果实操测试未通过，多久能再次预约？
-
-首次未通过后，用户可立即通过“LabAccess”系统预约补考，但需支付50澳元补考费用。平均补考等待时间为10个工作日。若补考仍未通过，需等待30天后才能再次预约，且需重新完成线上模块。ANU 2023年统计显示，补考通过率为55%。
-
-## 参考资料
-
-- 澳洲国立大学健康与安全办公室 2023年《实验室安全培训年度报告》
-- 澳洲国立大学生物安全委员会 2023年《生物安全柜操作评分标准》
-- 澳洲国立大学生物安全委员会 2024年《ANU生物安全手册（第4版）》
-- 澳洲国立大学IT服务部门 2024年《Wattle系统更新备忘录》
-- 澳洲国立大学 2023年《生物废弃物处理年度报告》
+- Australian National University Health and Safety Office 2023, Laboratory Safety Training Annual Report
+- Australian National University Biosafety Committee 2023, Biosafety Cabinet Operation Marking Criteria
+- Australian National University Biosafety Committee 2024, ANU Biosafety Manual (4th edition)
+- Australian National University IT Services 2024, Wattle System Update Memo
+- Australian National University 2023, Biohazardous Waste Disposal Annual Report

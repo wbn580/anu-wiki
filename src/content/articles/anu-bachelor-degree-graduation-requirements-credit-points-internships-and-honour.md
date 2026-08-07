@@ -1,6 +1,7 @@
 ---
+slug: anu-bachelor-degree-graduation-requirements-credit-points-internships-and-honour
 title: "ANU Bachelor Degree Graduation Requirements: Credit Points, Internships, and Honours Classification Rules"
-description: "澳洲国立大学（ANU）的学士学位毕业要求由**学分（Credit Points）**、**实习（Internships）** 和**荣誉学位（Honours）** 分类规则三部分构成。根据ANU 2024年《课程与评估政策》（Curriculum and Assessment Policy），所有学士学位课程需完…"
+description: "Bachelor degree graduation requirements at the Australian National University (ANU) rest on three pillars: **Credit Points**, **Internships** and **Honours** classification rules. Under ANU's 2024 Curriculum and Assessment Policy, all bachelor degree programs must complete at least 144 credit points, with compulsory courses accounting for no less than 50%. Meanwhile, the Australian Department of Education's 2023 Higher Education Completion Rates Report shows ANU's six-year undergraduate completion rate is 74.2%, above the national average of 71.1%..."
 category: "ANU"
 pubDatetime: '2026-04-08T19:55:06Z'
 publishDate: '2026-04-08T19:55:06Z'
@@ -10,104 +11,104 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-degree-graduation-requirements-credit-points-internships-and-honour-2026-1880x1253.jpg"
 ---
 
-澳洲国立大学（ANU）的学士学位毕业要求由**学分（Credit Points）**、**实习（Internships）** 和**荣誉学位（Honours）** 分类规则三部分构成。根据ANU 2024年《课程与评估政策》（Curriculum and Assessment Policy），所有学士学位课程需完成至少144个学分，其中必修课程占比不低于50%。同时，澳大利亚教育部2023年发布的《高等教育毕业率报告》（Higher Education Completion Rates Report）显示，ANU本科六年毕业率为74.2%，高于全国平均水平（71.1%）。本文系统梳理ANU学士学位的毕业条件，包括学分构成、实习要求、荣誉学位分类规则，以及常见问题解答。
+Bachelor degree graduation requirements at the Australian National University (ANU) rest on three pillars: **credit points**, **internships** and **Honours** classification rules. Under ANU's 2024 Curriculum and Assessment Policy, all bachelor degree programs require at least 144 credit points, with compulsory courses accounting for no less than 50% of the total. Meanwhile, the Australian Department of Education's 2023 Higher Education Completion Rates Report shows ANU's six-year undergraduate completion rate is 74.2%, above the national average of 71.1%. This article systematically sets out the graduation requirements for an ANU bachelor degree, covering credit structure, internship requirements, Honours classification rules, and answers to common questions.
 
-## 学分要求与课程结构
+## Credit Requirements and Course Structure
 
-ANU学士学位采用**学分累积制**，每门课程通常为6或12个学分。标准三年制学士学位需完成**144个学分**，四年制课程（如工程荣誉学士）则需192个学分。
+ANU bachelor degrees use a **credit accumulation system**, with each course usually worth 6 or 12 credit points. A standard three-year bachelor degree requires **144 credit points**, while four-year programs (such as the Bachelor of Engineering Honours) require 192 credit points.
 
-### 必修课程与选修课程
-学位课程分为三个层级：
-- **基础课程（1000-level）**：最多60个学分，通常在第一年完成。
-- **进阶课程（2000-level）**：至少24个学分，为专业核心内容。
-- **高级课程（3000-level）**：至少24个学分，包括专业高阶课和毕业项目。
+### Compulsory and Elective Courses
+Degree programs are organised in three levels:
+- **Introductory courses (1000-level)**: up to 60 credit points, usually completed in the first year.
+- **Advanced courses (2000-level)**: at least 24 credit points, forming the core of the major.
+- **Senior courses (3000-level)**: at least 24 credit points, including advanced major courses and the capstone project.
 
-根据ANU 2024年《课程与评估政策》，学生需在毕业前完成至少一个**专业（Major）**（通常48个学分）或一个**主修（Specialisation）**（24-48个学分）。选修课程可跨学科选择，但不得超过总学分的25%。
+Under ANU's 2024 Curriculum and Assessment Policy, students must complete at least one **Major** (usually 48 credit points) or one **Specialisation** (24-48 credit points) before graduating. Electives may be chosen across disciplines but cannot exceed 25% of total credit points.
 
-### 学分转换与豁免
-国际学生可通过先前学历获得**学分豁免（Credit Transfer）**，上限为48个学分（即一年课程）。豁免申请需提交官方成绩单和课程大纲，由ANU学术委员会审核。2023年，ANU批准了约12%的学分豁免申请，平均豁免量为24个学分（ANU 2023年《学分豁免统计年报》）。
+### Credit Transfer and Exemptions
+International students can obtain **credit transfer** for prior study, capped at 48 credit points (equivalent to one year of study). Transfer applications require official transcripts and course outlines, reviewed by the ANU Academic Board. In 2023, ANU approved about 12% of credit transfer applications, with an average transfer of 24 credit points (ANU 2023 Credit Transfer Statistics Annual Report).
 
-## 实习与工作整合学习要求
+## Internship and Work-Integrated Learning Requirements
 
-部分学士学位课程将**实习（Internship）** 或**工作整合学习（Work-Integrated Learning, WIL）** 设为毕业必修环节。
+Some bachelor degree programs make **internships** or **Work-Integrated Learning (WIL)** a compulsory graduation component.
 
-### 必修实习课程
-以下专业要求完成特定实习：
-- **工程荣誉学士（Bachelor of Engineering Honours）**：需完成至少**60天**的行业实习（ENGN4600课程），占12个学分。
-- **护理学士（Bachelor of Nursing）**：需完成**800小时**临床实习（NURS3100课程），占24个学分。
-- **教育学士（Bachelor of Education）**：需完成**80天**教学实习（EDUC4000课程），占18个学分。
+### Compulsory Internship Courses
+The following majors require specific internships:
+- **Bachelor of Engineering Honours**: at least **60 days** of industry placement (ENGN4600), worth 12 credit points.
+- **Bachelor of Nursing**: **800 hours** of clinical placement (NURS3100), worth 24 credit points.
+- **Bachelor of Education**: **80 days** of teaching placement (EDUC4000), worth 18 credit points.
 
-### 选修实习机会
-其他专业可通过**ANU实习课程（ANIP3001）** 获取学分，该课程为6-12个学分，需在第三年完成。实习时长通常为120-240小时，需由ANU实习办公室审核批准。2023年，ANU共安排了约1,200名学生参与实习项目（ANU 2023年《实习项目年度报告》）。
+### Optional Internship Opportunities
+Students in other majors can earn credit through the **ANU Internship Course (ANIP3001)**, worth 6-12 credit points, completed in the third year. Internships typically run 120-240 hours and must be approved by the ANU Internship Office. In 2023, ANU arranged internships for around 1,200 students (ANU 2023 Internship Program Annual Report).
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-bachelor-degree-graduation-requirements-credit-points-internships-and-honour) 等专业通道完成结汇。
+For cross-border tuition payments, some international student families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-bachelor-degree-graduation-requirements-credit-points-internships-and-honour) to complete their currency transfers.
 
-## 荣誉学位分类规则
+## Honours Classification Rules
 
-ANU的**荣誉学位（Honours）** 是四年制学士学位（包含一年研究课程），其成绩分类基于**加权平均分（Weighted Average Mark, WAM）** 和**荣誉论文（Honours Thesis）** 成绩。
+ANU's **Honours** degree is a four-year bachelor program (including one year of research), with the classification based on the **Weighted Average Mark (WAM)** and the **Honours Thesis** grade.
 
-### 荣誉等级划分
-ANU将荣誉学位分为四个等级，依据以下标准：
-- **一等荣誉（First Class Honours）**：WAM ≥ 80，且论文成绩 ≥ 80（满分100）。
-- **二等上荣誉（Second Class Honours, Division A）**：WAM 70-79，且论文成绩 ≥ 70。
-- **二等下荣誉（Second Class Honours, Division B）**：WAM 60-69，且论文成绩 ≥ 60。
-- **三等荣誉（Third Class Honours）**：WAM 50-59，且论文成绩 ≥ 50。
+### Honours Classifications
+ANU divides Honours degrees into four classes, according to the following criteria:
+- **First Class Honours**: WAM ≥ 80, and thesis grade ≥ 80 (out of 100).
+- **Second Class Honours, Division A**: WAM 70-79, and thesis grade ≥ 70.
+- **Second Class Honours, Division B**: WAM 60-69, and thesis grade ≥ 60.
+- **Third Class Honours**: WAM 50-59, and thesis grade ≥ 50.
 
-### 荣誉学位申请条件
-学生需在第三年结束时达到**GPA 5.0/7.0**（相当于WAM 65）以上，方可申请荣誉学位。申请需提交研究计划（Research Proposal），由学院教授委员会审核。2023年，ANU共授予约450个荣誉学位，其中一等荣誉占比约18%（ANU 2023年《荣誉学位授予统计》）。
+### Honours Application Requirements
+Students must reach a **GPA of 5.0/7.0** (equivalent to a WAM of 65) or above by the end of their third year to apply for Honours. Applications require a research proposal, reviewed by the College Professorial Board. In 2023, ANU awarded around 450 Honours degrees, with First Class Honours accounting for about 18% (ANU 2023 Honours Degree Award Statistics).
 
-### 荣誉学位与研究生衔接
-获得一等或二等上荣誉的学生可直接申请ANU博士（PhD）或研究型硕士（Master by Research）项目，无需额外考试。2023年，ANU研究生院录取的博士生中，约35%持有本校荣誉学位（ANU 2023年《研究生招生报告》）。
+### Honours and Postgraduate Pathways
+Students with First Class or Second Class Division A Honours can apply directly to ANU PhD or Master by Research programs without additional examinations. In 2023, about 35% of PhD students admitted by the ANU graduate school held an ANU Honours degree (ANU 2023 Postgraduate Admissions Report).
 
-## 毕业评估与成绩计算
+## Graduation Assessment and Grade Calculation
 
-ANU使用**加权平均分（WAM）** 作为核心毕业指标，而非传统GPA。WAM计算公式为：每门课程成绩×学分之和 ÷ 总学分。
+ANU uses the **Weighted Average Mark (WAM)** as its core graduation indicator rather than the traditional GPA. The WAM formula is: sum of (course grade × credit points) ÷ total credit points.
 
-### WAM与毕业资格
-- **最低毕业要求**：所有课程成绩需达到**50分（Pass）** 以上，且WAM ≥ 50。
-- **学术警告**：若WAM低于50，学生将被列入学术观察名单，需在下一学期提高至50以上，否则可能被劝退。
-- **学位等级**：毕业证书上不标注WAM，但成绩单会显示。荣誉学位则直接标注等级。
+### WAM and Graduation Eligibility
+- **Minimum graduation requirement**: all course grades must be **50 (Pass)** or above, and the WAM must be ≥ 50.
+- **Academic warning**: if the WAM falls below 50, students are placed on an academic monitoring list and must raise it above 50 the following semester, or risk being asked to withdraw.
+- **Degree classification**: the WAM is not printed on the degree certificate but appears on the transcript. Honours degrees show the classification directly.
 
-### 补考与重修政策
-- **补考（Supplementary Exam）**：仅限成绩在45-49分之间的课程，每学期最多补考2门。
-- **重修（Repeat）**：成绩低于45分必须重修，重修课程成绩上限为50分（Pass）。2023年，ANU约8%的学生至少重修了一门课程（ANU 2023年《学术进展报告》）。
+### Supplementary Exams and Course Repetition
+- **Supplementary Exam**: available only for courses graded 45-49, with a maximum of 2 supplementary exams per semester.
+- **Repeat**: courses graded below 45 must be repeated, and the repeated course grade is capped at 50 (Pass). In 2023, about 8% of ANU students repeated at least one course (ANU 2023 Academic Progress Report).
 
-## 毕业申请流程
+## Graduation Application Process
 
-学生需在最后一个学期结束前通过**ANU ISIS系统**提交毕业申请。关键时间节点如下：
-- **申请截止日期**：每年6月30日（年中毕业）或12月31日（年末毕业）。
-- **毕业典礼**：每年7月（年中）和12月（年末），需在典礼前确认出席。
-- **证书发放**：毕业证书在典礼后4-6周内邮寄至注册地址。
+Students must submit their graduation application through the **ANU ISIS system** before the end of their final semester. Key dates are:
+- **Application deadline**: 30 June each year (mid-year graduation) or 31 December (end-of-year graduation).
+- **Graduation ceremonies**: held in July (mid-year) and December (end-of-year); attendance must be confirmed before the ceremony.
+- **Certificate dispatch**: degree certificates are posted to the registered address within 4-6 weeks after the ceremony.
 
-### 成绩单与证明文件
-- **官方成绩单**：可通过ANU eTranscript系统申请，费用为25澳元/份。
-- **毕业证明信**：免费提供，用于雇主或移民局审核。
+### Transcripts and Supporting Documents
+- **Official transcripts**: available through the ANU eTranscript system, at A$25 per copy.
+- **Graduation confirmation letter**: provided free of charge for employer or immigration review.
 
-## 国际学生特别要求
+## Special Requirements for International Students
 
-国际学生需额外满足**澳大利亚学生签证（Subclass 500）** 的条款：
-- **学习进度**：每学期需通过至少75%的课程（即每学期4门课中通过3门）。
-- **出勤率**：未设硬性出勤要求，但若课程有实习环节，需满足出勤记录。
-- **签证时长**：标准三年制学士学位签证有效期为5年，若延毕需申请新签证。
+International students must additionally satisfy the conditions of the **Australian Student Visa (Subclass 500)**:
+- **Academic progress**: pass at least 75% of courses each semester (i.e. 3 out of 4 courses).
+- **Attendance**: no hard attendance requirement, but courses with placement components must meet attendance records.
+- **Visa duration**: the standard three-year bachelor visa is valid for 5 years; students who extend their studies must apply for a new visa.
 
-根据澳大利亚内政部2024年《学生签证合规指南》，ANU每学期向移民局报告一次学生进度，出勤率低于80%或挂科超过50%的学生可能面临签证取消。
+Under the Department of Home Affairs 2024 Student Visa Compliance Guidelines, ANU reports student progress to the immigration department once per semester; students with attendance below 80% or failure in more than 50% of courses may face visa cancellation.
 
 ## FAQ
 
-### Q1：ANU学士学位最低需要多少学分才能毕业？
-标准三年制学士学位需完成**144个学分**，四年制课程（如工程荣誉学士）需**192个学分**。每门课程通常为6或12个学分，学生需在6年内完成（国际学生签证限制为5年）。
+### Q1: What is the minimum number of credit points to graduate from an ANU bachelor degree?
+A standard three-year bachelor degree requires **144 credit points**, while four-year programs (such as the Bachelor of Engineering Honours) require **192 credit points**. Each course is usually worth 6 or 12 credit points, and students must complete the degree within 6 years (limited to 5 years by the international student visa).
 
-### Q2：荣誉学位（Honours）和普通学士学位有什么区别？
-荣誉学位是四年制课程，包含一年研究项目，毕业时按WAM和论文成绩分为四个等级（一等、二等上、二等下、三等）。普通学士学位为三年制，无研究要求。一等荣誉毕业生可直接申请博士，而普通学位需先读荣誉年或硕士。
+### Q2: What is the difference between an Honours degree and a standard bachelor degree?
+An Honours degree is a four-year program that includes one year of research, and graduates are classified into four classes (First, Second Division A, Second Division B and Third) based on WAM and thesis grade. A standard bachelor degree is three years with no research requirement. First Class Honours graduates can apply directly for a PhD, while standard degree holders usually need to complete an Honours year or a Masters degree first.
 
-### Q3：如果毕业时WAM低于50，还能拿到学位吗？
-不能。WAM低于50分的学生需通过补考或重修提高成绩。若连续两个学期WAM低于50，可能被劝退。2023年，ANU约3%的学生因学术表现未达标而无法毕业（ANU 2023年《毕业率统计年报》）。
+### Q3: Can I still get my degree if my WAM is below 50 at graduation?
+No. Students with a WAM below 50 must improve it through supplementary exams or repeating courses. If the WAM stays below 50 for two consecutive semesters, students may be asked to withdraw. In 2023, about 3% of ANU students were unable to graduate due to unsatisfactory academic performance (ANU 2023 Graduation Rate Statistics Annual Report).
 
-## 参考资料
+## References
 
-- 澳洲国立大学 2024年《课程与评估政策》（Curriculum and Assessment Policy）
-- 澳大利亚教育部 2023年《高等教育毕业率报告》（Higher Education Completion Rates Report）
-- 澳洲国立大学 2023年《荣誉学位授予统计》（Honours Degree Award Statistics）
-- 澳洲国立大学 2023年《实习项目年度报告》（Internship Program Annual Report）
-- 澳大利亚内政部 2024年《学生签证合规指南》（Student Visa Compliance Guidelines）
-- UNILINK 2024年《澳洲大学学位要求数据库》（Australian University Degree Requirements Database）
+- Australian National University 2024, Curriculum and Assessment Policy
+- Australian Department of Education 2023, Higher Education Completion Rates Report
+- Australian National University 2023, Honours Degree Award Statistics
+- Australian National University 2023, Internship Program Annual Report
+- Australian Department of Home Affairs 2024, Student Visa Compliance Guidelines
+- UNILINK 2024, Australian University Degree Requirements Database

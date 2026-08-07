@@ -1,6 +1,7 @@
 ---
+slug: anu-residential-hall-mail-and-parcel-collection-notification-methods-pickup-loca
 title: "ANU Residential Hall Mail and Parcel Collection: Notification Methods, Pickup Locations, and Storage Time Limits"
-description: "澳大利亚国立大学（ANU）校内住宿系统每年服务约 6,000 名住校生，其中超过 70% 为国际学生（ANU Accommodation Services, 2024, *Annual Occupancy Report*）。邮件与包裹的收发是住校生高频使用的日常服务，但各宿舍楼在通知方式、领取地点与存储时限上存在…"
+description: "The Australian National University (ANU) on-campus accommodation system serves about 6,000 resident students a year, over 70% of whom are international students (ANU Accommodation Services, 2024, *Annual Occupancy Report*). Mail and parcel handling is one of the most-used daily services for residents, yet halls differ significantly in how they notify students, where parcels are collected and how long they are stored. Drawing on official ANU Accommodation Services policy and individual hall operating manuals, this article maps out the mail and parcel collection process across ANU's 13 main residential buildings, including Bruce Hall, Ursula College and Wright Hall, and gives residents a practical timeline to work with."
 category: "ANU"
 pubDatetime: '2026-04-26T19:58:32Z'
 publishDate: '2026-04-26T19:58:32Z'
@@ -10,85 +11,102 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residential-hall-mail-and-parcel-collection-notification-methods-pickup-loca-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）校内住宿系统每年服务约 6,000 名住校生，其中超过 70% 为国际学生（ANU Accommodation Services, 2024, *Annual Occupancy Report*）。邮件与包裹的收发是住校生高频使用的日常服务，但各宿舍楼在通知方式、领取地点与存储时限上存在显著差异。本文基于 ANU 住宿服务官方政策与各宿舍楼操作手册，系统梳理校内 13 座主要住宿楼（包括 Bruce Hall、Ursula College、Wright Hall 等）的邮件包裹领取流程，为住校生提供可操作的时效参考。
+The Australian National University (ANU) on-campus accommodation system serves about 6,000 resident students every year, more than 70% of whom are international students (ANU Accommodation Services, 2024, *Annual Occupancy Report*). Sending and receiving mail and parcels is one of the most-used day-to-day services for residents, yet halls differ significantly in how they notify students, where parcels are picked up and how long they are stored. Drawing on official ANU Accommodation Services policies and individual hall operating manuals, this article maps out the mail and parcel collection process across ANU's 13 main residential buildings (including Bruce Hall, Ursula College and Wright Hall) and gives residents a practical timeline to work with.
 
-## 通知机制：电子化推送与物理标识
+## Notification mechanisms: digital alerts and physical signage
 
-**邮件包裹到达通知**主要依赖两种渠道：电子邮件推送和宿舍前台公告板。自 2022 年起，ANU Accommodation Services 统一要求各宿舍楼在包裹到达后 2 小时内发送通知邮件至学生 ANU 邮箱（ANU IT Policy, 2023, *Email Communication Standards*）。部分宿舍如 Burgmann College 和 John XXIII College 额外使用短信提醒，覆盖约 85% 的住校生。
+**Arrival notifications for mail and parcels** rely on two main channels: email alerts and front-desk noticeboards. Since 2022, ANU Accommodation Services has required all halls to send a notification email to the student's ANU inbox within 2 hours of a parcel arriving (ANU IT Policy, 2023, *Email Communication Standards*). A few halls, such as Burgmann College and John XXIII College, additionally send SMS reminders, covering around 85% of residents.
 
-### 前台公告板与电子屏
-Johns Hopkins House 和 Fenner Hall 在入口处设有 LED 电子屏，滚动显示待取包裹的学生姓名和房间号。Bruce Hall 和 Ursula College 则使用传统纸质公告板，每日更新两次（上午 9:00 和下午 15:00）。ANU 住宿服务建议学生每日至少检查一次邮箱或公告板，以避免错过领取窗口。
+### Front-desk noticeboards and electronic screens
 
-### 第三方快递通知差异
-DHL、Australia Post 与 FedEx 等快递公司在 ANU 校区内的派送流程不同。Australia Post 通常将包裹直接送至宿舍前台，而 DHL 要求收件人签署授权书才能由前台代收。学生需在快递到达前通过 ANU 住宿门户（MyUniAccommodation）登记授权信息，否则包裹可能被退回发件地。
+Johns Hopkins House and Fenner Hall have LED screens at their entrances that scroll the names and room numbers of students with parcels waiting. Bruce Hall and Ursula College instead use traditional paper noticeboards, updated twice a day (9:00 am and 3:00 pm). ANU Accommodation Services recommends that students check their email or the noticeboard at least once a day so they don't miss the collection window.
 
-## 领取地点：前台、邮件室与自助柜
+### Differences in third-party courier notifications
 
-**包裹领取地点**按宿舍类型分为三类：统一前台、独立邮件室和自助储物柜。约 60% 的宿舍楼（如 Wright Hall、Davey Lodge）使用前台代收模式，其余宿舍设有专用邮件室。
+Couriers such as DHL, Australia Post and FedEx follow different delivery procedures on campus. Australia Post usually hands parcels straight to the hall front desk, while DHL requires the recipient to sign an authorisation form before the desk can accept parcels on their behalf. Students need to register this authorisation in the ANU accommodation portal (MyUniAccommodation) before the courier arrives; otherwise the parcel may be returned to the sender.
 
-### 前台代收流程
-在 Bruce Hall 和 Ursula College，包裹由前台工作人员签收后登记在册，学生凭学生证或护照领取。前台工作时间为周一至周五 8:00–20:00，周末 10:00–16:00。ANU 住宿服务规定，前台仅代收尺寸不超过 60 cm × 40 cm × 40 cm 的包裹，超出此范围的大件物品需学生自行联系快递公司安排二次派送。
+## Collection points: front desk, mail room and self-service lockers
 
-### 自助储物柜系统
-Lena Karmel Lodge 和 Warrumbul Lodge 自 2023 年起引入 Parcel Locker 系统，学生收到短信验证码后可在 24 小时内通过储物柜自取。该系统覆盖约 1,200 个床位，年处理包裹量超过 15,000 件（ANU Facilities Management, 2024, *Parcel Locker Deployment Report*）。自助柜位置通常设于宿舍楼入口或地下停车场，操作语言支持英文和中文。
+**Parcel collection points** fall into three categories depending on the hall: a central front desk, a dedicated mail room, or self-service lockers. Around 60% of halls (such as Wright Hall and Davey Lodge) use front-desk acceptance, while the rest have a dedicated mail room.
 
-## 存储时限：7 天至 30 天的分级规则
+### Front-desk collection process
 
-**存储时间限制**因宿舍楼和包裹类型而异，最短为 7 天，最长可达 30 天。ANU 住宿服务统一规定，所有未领取包裹在存储期满后将转至校区邮政中心（Kambri Precinct Post Office）或退回发件人。
+At Bruce Hall and Ursula College, front-desk staff sign for parcels and log them in, and students collect them with their student ID or passport. Front desk hours are Monday to Friday 8:00–20:00 and weekends 10:00–16:00. ANU Accommodation Services rules say the front desk will only accept parcels up to 60 cm × 40 cm × 40 cm; anything larger must be arranged directly with the courier for a second delivery attempt.
 
-### 标准包裹存储期
-多数宿舍楼（如 Bruce Hall、Wright Hall、Fenner Hall）对普通包裹设置 14 天存储期。自包裹签收日起算，第 7 天和第 13 天各发送一次提醒邮件。若第 14 天仍未领取，包裹将被移至 Kambri Post Office 并收取 5 澳元/件的保管费（ANU Accommodation Services, 2024, *Parcel Storage Policy*）。
+### Self-service locker systems
 
-### 冷链与易损物品
-生鲜食品、药品等冷链包裹的存储期缩短至 24 小时。宿舍前台在收到此类包裹后立即电话或短信通知收件人，若 6 小时内无人响应，包裹将被丢弃或捐赠至校区食物银行。ANU 健康中心建议学生避免将处方药通过普通快递寄送，应使用澳洲药房协会认可的冷链服务（Pharmacy Guild of Australia, 2023, *Cold Chain Guidelines*）。
+Lena Karmel Lodge and Warrumbul Lodge introduced a Parcel Locker system in 2023: students receive an SMS verification code and can collect their parcel from a locker within 24 hours. The system covers around 1,200 beds and processes more than 15,000 parcels a year (ANU Facilities Management, 2024, *Parcel Locker Deployment Report*). Lockers are usually located at the hall entrance or in the basement car park, and the interface supports English and Chinese.
 
-### 节假日与学期末调整
-在学期末（每年 6 月和 11 月）和圣诞假期期间，存储期自动延长至 21 天。ANU 住宿服务会在假期前两周通过邮件通知所有住校生，并在宿舍公告板张贴中英文告示。学生如需提前离校，可填写《包裹代领授权表》委托室友代取。
+## Storage limits: a tiered 7- to 30-day rule
 
-## 大件物品与特殊包裹处理
+**Storage time limits** vary by hall and parcel type, from as little as 7 days up to 30 days. ANU Accommodation Services applies a uniform rule: any parcel not collected once its storage period ends is moved to the campus mail centre (Kambri Precinct Post Office) or returned to the sender.
 
-**大件物品（尺寸超过 60 cm × 40 cm × 40 cm）** 不通过宿舍前台代收，需学生自行联系快递公司安排至校区仓库（Building 152）自取。该仓库开放时间为周一至周五 9:00–17:00，需提前 24 小时预约。
+### Standard parcel storage period
 
-### 家具与电器
-从 IKEA 或 Kmart 购买的大型家具（如书桌、床垫）通常由第三方物流直接配送。ANU 住宿服务要求学生在订购时填写宿舍楼具体楼层信息，并预留 2 小时收货窗口。若配送时学生不在场，包裹将被退回配送中心，重新派送需支付 35 澳元/次的手续费。
+Most halls (such as Bruce Hall, Wright Hall and Fenner Hall) hold standard parcels for 14 days. Counting from the day the parcel is signed for, a reminder email is sent on day 7 and again on day 13. If the parcel is still uncollected on day 14, it is moved to Kambri Post Office, where a holding fee of 5 AUD per item applies (ANU Accommodation Services, 2024, *Parcel Storage Policy*).
 
-### 国际邮件清关
-来自中国、美国等非欧盟国家的包裹可能被澳洲边境执法局（ABF）抽查。ABF 规定，价值超过 1,000 澳元的物品需缴纳 10% 的商品及服务税（GST）（Australian Border Force, 2024, *Import Regulations*）。ANU 住宿服务不承担清关责任，学生需通过澳洲邮政官网或快递公司线上系统自行处理。
+### Cold-chain and perishable items
 
-## 遗失与错领处理流程
+Cold-chain parcels such as fresh food and medicine have their storage period cut to 24 hours. When the front desk receives one of these, it phones or texts the recipient immediately; if there is no response within 6 hours, the parcel is disposed of or donated to the campus food bank. ANU Health Centre advises students not to send prescription medication by ordinary courier, and to use cold-chain services accredited by the Pharmacy Guild of Australia (Pharmacy Guild of Australia, 2023, *Cold Chain Guidelines*).
 
-**包裹遗失或错领**每年发生约 200 起，占 ANU 宿舍包裹总量的 1.3%（ANU Accommodation Services, 2024, *Incident Report*）。处理流程分为三个步骤：核查签收记录、调取监控录像、申请赔偿。
+### End-of-semester and holiday adjustments
 
-### 核查与监控
-学生发现包裹未收到后，应首先向前台索取签收凭证（含签名和时间戳）。若签名非本人，前台将调取 72 小时内的监控录像。ANU 安保部规定，监控录像仅保存 30 天，因此学生需在发现遗失后 48 小时内提交书面申请。
+During the end-of-semester period (June and November each year) and the Christmas break, storage periods automatically extend to 21 days. ANU Accommodation Services emails all residents two weeks before the break and posts bilingual notices (Chinese and English) on hall noticeboards. Students leaving early can fill in a Parcel Collection Authorisation Form to have a flatmate collect parcels on their behalf.
 
-### 赔偿上限
-Australia Post 对未保价包裹的最高赔偿额为 100 澳元（Australia Post, 2024, *Terms & Conditions*）。DHL 和 FedEx 的保价服务费用为包裹价值的 1.5%–2.5%，学生可在寄件时选择购买。ANU 住宿服务建议，价值超过 200 澳元的物品应使用保价快递并购买运输保险。
+## Large items and special parcels
 
-## 跨宿舍转移与代收服务
+**Large items (over 60 cm × 40 cm × 40 cm)** are not accepted at the hall front desk. Students must arrange with the courier to collect them from the campus warehouse (Building 152), which is open Monday to Friday 9:00–17:00 and requires 24 hours' notice for pickup.
 
-**跨宿舍包裹转移**适用于住校生更换宿舍或短期交换的情况。学生需在 MyUniAccommodation 系统中提交转移申请，审核通过后包裹在 3 个工作日内转至新宿舍前台。该服务免费，但每年仅限使用 2 次。
+### Furniture and appliances
 
-### 假期存储服务
-在学期结束后的 30 天内，学生可将未领取包裹申请转为假期存储。ANU 住宿服务提供 3 个月免费存储（每年 12 月至次年 2 月），超期后按 10 澳元/周收费。存储地点为 Building 152 仓库，学生需在开学后两周内凭学生证领取。
+Large furniture bought from IKEA or Kmart (desks, mattresses and the like) is usually delivered directly by third-party logistics. ANU Accommodation Services requires students to include their hall and floor details when ordering, and to allow a 2-hour delivery window. If the student is not there when the delivery arrives, the parcel is returned to the distribution centre and redelivery costs 35 AUD per attempt.
 
-### 代收授权
-学生可通过纸质授权书或 MyUniAccommodation 电子表单指定代收人。代收人需出示本人学生证或身份证，并在签收簿上登记。ANU 住宿服务建议，代收授权有效期不超过 30 天，且仅限同一宿舍楼内的住校生。
+### International mail customs
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-mail-and-parcel-collection-notification-methods-pickup-loca) 等专业通道完成结汇，确保资金按时到账，避免因汇率波动或延迟影响宿舍申请确认。
+Parcels from non-EU countries such as China and the US may be inspected by the Australian Border Force (ABF). Under ABF rules, items worth more than 1,000 AUD attract a 10% Goods and Services Tax (GST) (Australian Border Force, 2024, *Import Regulations*). ANU Accommodation Services takes no responsibility for customs clearance; students must handle it themselves via the Australia Post website or the courier's online system.
+
+## Lost and misdelivered parcels
+
+**Lost or misdelivered parcels** account for around 200 cases a year, or 1.3% of all parcels at ANU halls (ANU Accommodation Services, 2024, *Incident Report*). The process has three steps: checking the signed receipt, reviewing CCTV footage and claiming compensation.
+
+### Checking records and CCTV
+
+If a parcel has not turned up, students should first ask the front desk for the proof of delivery (including signature and timestamp). If the signature is not theirs, the front desk will review CCTV footage from the previous 72 hours. ANU Security keeps CCTV recordings for only 30 days, so students must lodge a written request within 48 hours of noticing the parcel is missing.
+
+### Compensation caps
+
+Australia Post's maximum compensation for an uninsured parcel is 100 AUD (Australia Post, 2024, *Terms & Conditions*). DHL and FedEx charge 1.5%–2.5% of the parcel's value for insurance, which students can opt into when sending. ANU Accommodation Services recommends using insured courier services and buying shipping insurance for anything worth more than 200 AUD.
+
+## Cross-hall transfers and authorised collection
+
+**Cross-hall parcel transfers** cover residents who change halls or go on short exchanges. Students submit a transfer request in MyUniAccommodation, and once it is approved the parcel is moved to the new hall's front desk within 3 working days. The service is free but limited to 2 uses per year.
+
+### Vacation storage
+
+Within 30 days of the end of semester, students can ask for uncollected parcels to be put into vacation storage. ANU Accommodation Services offers 3 months of free storage (December to February each year), after which a fee of 10 AUD per week applies. Parcels are stored at the Building 152 warehouse, and students must collect them with their student ID within two weeks of the new semester starting.
+
+### Collection authorisation
+
+Students can nominate someone to collect parcels for them using a paper authorisation form or the electronic form in MyUniAccommodation. The nominated person must show their own student ID or identity document and sign the collection register. ANU Accommodation Services recommends that authorisations stay valid for no more than 30 days and apply only to residents of the same hall.
+
+When paying tuition fees from overseas, some families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-mail-and-parcel-collection-notification-methods-pickup-loca) to complete the currency transfer, ensuring funds arrive on time and avoiding exchange-rate fluctuations or delays that could hold up hall application confirmation.
 
 ## FAQ
 
-### Q1：包裹在宿舍前台最多能存放多少天？
-标准包裹存储期为 14 天，生鲜食品等冷链物品仅 24 小时。学期末和节假日期间自动延长至 21 天。超期未领取的包裹将移至 Kambri Post Office，需支付 5 澳元/件的保管费。
+### Q1: How long can a parcel stay at the hall front desk?
 
-### Q2：如何查询包裹是否已到达宿舍？
-可通过三个渠道查询：ANU 邮箱（接收通知邮件）、宿舍前台公告板或电子屏、MyUniAccommodation 系统“包裹追踪”栏目。自助储物柜宿舍还会发送短信验证码，约 85% 的住校生在包裹到达后 2 小时内收到通知。
+Standard parcels are held for 14 days, while cold-chain items such as fresh food are kept for only 24 hours. During end-of-semester and holiday periods this automatically extends to 21 days. Parcels not collected in time are moved to Kambri Post Office, where a holding fee of 5 AUD per item applies.
 
-### Q3：如果包裹被退回发件地，如何处理？
-包裹退回后，学生需联系快递公司重新派送。Australia Post 的重新派送费用为 9.5 澳元/次，DHL 为 25 澳元/次。ANU 住宿服务不承担退回产生的任何费用，建议学生使用保价快递并确保收件地址填写完整。
+### Q2: How do I check whether my parcel has arrived at the hall?
 
-## 参考资料
+You can check through three channels: your ANU email (for notification emails), the hall's front-desk noticeboard or electronic screen, and the Parcel Tracking section of MyUniAccommodation. Halls with self-service lockers also send an SMS verification code; around 85% of residents receive their notification within 2 hours of the parcel arriving.
+
+### Q3: What should I do if my parcel is returned to the sender?
+
+Once a parcel is returned, contact the courier to arrange redelivery. Australia Post charges 9.5 AUD per redelivery and DHL charges 25 AUD. ANU Accommodation Services does not cover any costs arising from returns, so it is best to use an insured courier and make sure your delivery address is complete.
+
+## References
+
 - ANU Accommodation Services, 2024, *Annual Occupancy Report*
 - ANU Facilities Management, 2024, *Parcel Locker Deployment Report*
 - Australian Border Force, 2024, *Import Regulations*

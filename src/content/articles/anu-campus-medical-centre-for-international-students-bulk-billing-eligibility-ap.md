@@ -1,6 +1,7 @@
 ---
+slug: anu-campus-medical-centre-for-international-students-bulk-billing-eligibility-ap
 title: "ANU Campus Medical Centre for International Students: Bulk Billing Eligibility, Appointment Types, and After-Hours Care"
-description: "澳大利亚国立大学（ANU）校内医疗中心（Campus Medical Centre）是该校为全体学生及教职工提供初级医疗服务的官方机构。根据澳大利亚政府卫生部2023年发布的《医疗保险福利计划（MBS）统计报告》，持有有效海外学生医疗保险（OSHC）的国际学生在校内医疗中心就诊时，可享受全额报销（即Bulk Bi…"
+description: "The ANU Campus Medical Centre is the university's official provider of primary medical services to all students and staff. According to the Medicare Benefits Schedule (MBS) Statistics Report published by the Australian Government Department of Health in 2023, international students with valid Overseas Student Health Cover (OSHC) can enjoy full reimbursement (i.e. Bulk Billing) when visiting the campus medical centre, with no out-of-pocket fees…"
 category: "ANU"
 pubDatetime: '2026-05-19T20:02:55Z'
 publishDate: '2026-05-19T20:02:55Z'
@@ -10,116 +11,115 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-medical-centre-for-international-students-bulk-billing-eligibility-ap-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）校内医疗中心（Campus Medical Centre）是该校为全体学生及教职工提供初级医疗服务的官方机构。根据澳大利亚政府卫生部2023年发布的《医疗保险福利计划（MBS）统计报告》，持有有效海外学生医疗保险（OSHC）的国际学生在校内医疗中心就诊时，可享受全额报销（即Bulk Billing），无需自付诊金。该中心每年接待超过25,000人次就诊，其中约40%为国际学生。随着2024年澳大利亚学生签证医疗保险费用调整至每年约700澳元，了解校内医疗服务的覆盖范围与使用规则，对国际学生管理健康预算具有直接现实意义。
+The ANU Campus Medical Centre is the university's official provider of primary medical services to all students and staff. According to the Medicare Benefits Schedule (MBS) Statistics Report published by the Australian Government Department of Health in 2023, international students with valid Overseas Student Health Cover (OSHC) can enjoy full reimbursement (i.e. Bulk Billing) when visiting the campus medical centre, with no out-of-pocket consultation fees. The centre sees more than 25,000 visits a year, of which about 40% are international students. With Australian student visa health insurance costs rising to around AUD 700 per year in 2024, understanding what the campus medical service covers and how to use it has direct, practical relevance for international students managing their health budgets.
 
-## Bulk Billing 资格与条件
+## Bulk Billing Eligibility and Conditions
 
-**Bulk Billing** 是澳大利亚医疗保险体系中的一项直接结算机制。根据澳大利亚政府卫生部（2023年）的定义，当医疗服务提供者接受Bulk Billing时，患者无需支付任何费用，由医疗服务提供者直接向Medicare或OSHC保险公司收取费用。
+**Bulk Billing** is a direct billing mechanism in Australia's healthcare system. As defined by the Australian Government Department of Health (2023), when a healthcare provider accepts Bulk Billing, the patient pays nothing and the provider bills Medicare or the OSHC insurer directly.
 
-### OSHC 持有者的适用性
+### Eligibility for OSHC Holders
 
-持有澳大利亚移民局认可的OSHC保单的国际学生，在ANU校内医疗中心就诊时，可享受Bulk Billing服务。需满足以下条件：保单处于有效期内、就诊项目属于MBS覆盖范围（如全科医生咨询、部分病理检查）、就诊时出示有效的OSHC会员卡及学生证。2024年，澳大利亚最大的OSHC提供商包括Allianz Care、Bupa、Medibank和nib，这些公司的保单均被ANU校内医疗中心认可。
+International students holding an OSHC policy recognised by the Australian Department of Home Affairs can access Bulk Billing at the ANU Campus Medical Centre. The following conditions must be met: the policy is active; the service falls within MBS coverage (such as GP consultations and certain pathology tests); and a valid OSHC membership card and student ID are presented at the time of the visit. In 2024, Australia's largest OSHC providers include Allianz Care, Bupa, Medibank and nib, and policies from all of these companies are accepted by the ANU Campus Medical Centre.
 
-### 非Bulk Billing 项目
+### Services Not Covered by Bulk Billing
 
-部分医疗服务不适用Bulk Billing，包括：疫苗接种（如流感疫苗、HPV疫苗）、旅行健康咨询、出国前体检、部分专科转诊后的专科医生费用、牙科服务及物理治疗。根据ANU校内医疗中心2024年公布的收费标准，流感疫苗接种费用约为25澳元，HPV疫苗每剂约200澳元，这些费用需学生自付或通过OSHC的附加福利报销。
+Some services are not bulk-billed, including: vaccinations (such as flu and HPV vaccines), travel health consultations, pre-departure medicals, some specialist fees after specialist referrals, dental services, and physiotherapy. According to the ANU Campus Medical Centre's 2024 fee schedule, a flu vaccination costs around AUD 25 and each dose of the HPV vaccine around AUD 200; these must be paid by the student or claimed through OSHC extras.
 
-## 预约类型与流程
+## Appointment Types and Process
 
-ANU校内医疗中心提供多种预约方式，以适应不同紧急程度的医疗需求。根据该中心2024年运营数据，约65%的就诊通过提前预约完成。
+The ANU Campus Medical Centre offers several ways to book appointments to suit different levels of urgency. According to the centre's 2024 operating data, about 65% of consultations are booked in advance.
 
-### 标准预约
+### Standard Appointments
 
-标准预约适用于非紧急健康问题，如感冒、流感、常规体检、慢性病随访等。学生可通过以下方式预约：电话（02 6125 3598）、在线预约系统（HotDoc平台）或到前台直接预约。标准预约时长为15至20分钟，如需更长时间咨询（如心理健康评估），可申请双倍时长预约（30至40分钟）。建议国际学生在抵达澳洲后两周内完成首次注册和健康评估，以便建立个人健康档案。
+Standard appointments suit non-urgent health issues such as colds, flu, routine check-ups, and chronic condition follow-ups. Students can book by phone (02 6125 3598), through the online booking system (HotDoc platform), or in person at reception. Standard appointments run 15 to 20 minutes; if you need a longer consultation (such as a mental health assessment), you can request a double-length appointment (30 to 40 minutes). International students are advised to complete their first registration and health assessment within two weeks of arriving in Australia so a personal health record can be created.
 
-### 紧急预约与Walk-in
+### Urgent Appointments and Walk-ins
 
-中心每日保留部分紧急预约名额，供突发疾病或轻微外伤（如扭伤、割伤）的学生使用。Walk-in（无需预约直接就诊）服务仅在工作日上午8:30至9:30开放，先到先得。根据2023年中心年度报告，Walk-in平均等待时间为45至90分钟，而提前预约的平均等待时间仅为15分钟。对于严重紧急情况（如胸痛、呼吸困难、严重出血），应直接拨打000呼叫救护车，而非前往校内医疗中心。
+The centre keeps a number of urgent appointment slots each day for students with sudden illness or minor injuries (such as sprains or cuts). Walk-in service (no appointment needed) is available only on weekday mornings from 8:30 to 9:30, first come, first served. According to the centre's 2023 annual report, the average walk-in wait time was 45 to 90 minutes, whereas the average wait for booked appointments was only 15 minutes. For serious emergencies (such as chest pain, difficulty breathing, or severe bleeding), call 000 for an ambulance directly rather than going to the campus medical centre.
 
-## 营业时间与节假安排
+## Opening Hours and Public Holiday Arrangements
 
-ANU校内医疗中心的营业时间遵循澳大利亚首都领地（ACT）的公共假期安排，并在学期期间与假期期间有所调整。
+The ANU Campus Medical Centre's opening hours follow the Australian Capital Territory (ACT) public holiday schedule, with adjustments between semesters and holidays.
 
-### 学期内营业时间
+### Opening Hours During Semester
 
-学期期间（2024年第一学期为2月19日至6月1日，第二学期为7月22日至11月2日），中心营业时间为：周一至周五上午8:30至下午5:00，周六上午8:30至中午12:00。周日及ACT公共假期关闭。根据ACT政府2024年公布的公共假期列表，包括劳动节（3月11日）、堪培拉日（3月11日）、澳新军团日（4月25日）、国王生日（6月10日）等日期中心均不开放。
+During semester (Semester 1 2024: 19 February to 1 June; Semester 2: 22 July to 2 November), the centre is open Monday to Friday 8:30 am to 5:00 pm and Saturday 8:30 am to 12:00 pm. It is closed on Sundays and ACT public holidays. According to the ACT Government's 2024 public holiday list, the centre is closed on Labour Day (11 March), Canberra Day (11 March), Anzac Day (25 April), the King's Birthday (10 June), and other public holiday dates.
 
-### 假期与考试期调整
+### Holiday and Exam Period Adjustments
 
-在学期假期（Mid-semester break）和暑假期间，中心营业时间缩短为周一至周五上午9:00至下午4:00，周六服务暂停。考试期间（每年6月和11月），中心会延长周一至周四的营业时间至下午6:00，以应对学生因压力导致的健康问题增加。2023年考试期间，中心接诊量较平时增长约22%，其中心理健康相关咨询占比最高。
+During mid-semester breaks and the summer holidays, the centre shortens its hours to Monday to Friday 9:00 am to 4:00 pm, with Saturday services suspended. During exam periods (June and November each year), the centre extends Monday to Thursday hours to 6:00 pm to cope with the increase in stress-related health issues. In the 2023 exam period, consultations rose about 22% above normal levels, with mental-health-related consultations making up the largest share.
 
-## 心理健康服务
+## Mental Health Services
 
-ANU校内医疗中心提供整合式心理健康服务，作为澳大利亚政府“Head to Health”计划（2022年启动）的一部分。该服务旨在为国际学生提供文化敏感的咨询与治疗。
+The ANU Campus Medical Centre provides integrated mental health services as part of the Australian Government's 'Head to Health' program (launched in 2022). The service aims to offer culturally sensitive counselling and treatment to international students.
 
-### 校内心理咨询
+### On-Campus Psychological Counselling
 
-中心配备注册心理学家和心理健康社会工作者，提供短期心理咨询（通常6至12次）。首次咨询时长为50分钟，后续每次40分钟。国际学生可通过OSHC报销部分费用：以Allianz Care为例，2024年保单每年可报销最多10次心理咨询，每次报销上限为85澳元。预约时需明确说明为“心理健康咨询”，以避免被误认为标准全科医生预约。
+The centre employs registered psychologists and mental health social workers offering short-term counselling (usually 6 to 12 sessions). The first session runs 50 minutes; subsequent sessions are 40 minutes each. International students can claim part of the cost through OSHC: for example, Allianz Care's 2024 policy covers up to 10 psychology sessions a year with a maximum rebate of AUD 85 per session. When booking, make clear you want a 'mental health consultation' so the appointment is not mistaken for a standard GP visit.
 
-### 全科医生心理健康计划
+### GP Mental Health Treatment Plan
 
-对于需要长期治疗的学生，中心的全科医生可开具“心理健康治疗计划”（Mental Health Treatment Plan，简称MHTP）。持有该计划的学生可享受Medicare或OSHC对最多20次心理学家咨询的补贴。根据澳大利亚政府卫生部2023年数据，持有MHTP的患者每次咨询自付费用平均降低60%至75%。国际学生在申请MHTP时需提供至少6个月的OSHC保单有效期证明。
+For students needing longer-term treatment, the centre's GPs can issue a 'Mental Health Treatment Plan' (MHTP). Students with this plan can receive Medicare or OSHC subsidies for up to 20 psychologist sessions. According to Australian Government Department of Health 2023 data, patients with an MHTP see their average out-of-pocket cost per session fall by 60% to 75%. International students applying for an MHTP must provide proof that their OSHC policy has at least 6 months remaining.
 
-## 紧急与下班后护理
+## Emergency and After-Hours Care
 
-当校内医疗中心关闭时，国际学生可使用以下替代医疗服务渠道。根据ACT政府2024年发布的《初级医疗资源指南》，这些渠道均对OSHC持有者开放。
+When the campus medical centre is closed, international students can use the following alternative care channels. According to the ACT Government's 2024 Primary Care Resources Guide, all of these are open to OSHC holders.
 
-### 下班后全科医生服务
+### After-Hours GP Services
 
-ACT提供“下班后全科医生”（After-Hours GP）热线，号码为1800 022 222，每周七天下午6:00至上午8:00运营。该服务提供电话咨询，必要时可安排上门出诊或推荐至24小时医疗中心。电话咨询完全免费，上门出诊需支付约120至150澳元，可凭OSHC报销85%至100%（取决于保单条款）。ANU学生可通过校内医疗中心网站获取ACT地区指定的5家下班后诊所名单。
+The ACT runs an 'After-Hours GP' helpline on 1800 022 222, operating seven days a week from 6:00 pm to 8:00 am. The service offers phone consultations and, where necessary, can arrange home visits or refer you to a 24-hour medical centre. Phone consultations are completely free; home visits cost about AUD 120 to 150, of which 85% to 100% can be claimed on OSHC (depending on policy terms). ANU students can get the list of 5 designated after-hours clinics in the ACT from the campus medical centre's website.
 
-### 急诊与医院
+### Emergency Departments and Hospitals
 
-距离ANU校园最近的24小时急诊医院为堪培拉医院（Canberra Hospital），位于Garran区，车程约15分钟。另一家为Calvary公立医院，位于Bruce区，车程约10分钟。根据澳大利亚卫生与福利研究所（AIHW）2023年发布的《急诊护理报告》，堪培拉医院急诊科平均等待时间（非紧急病例）为120分钟，紧急病例为30分钟。国际学生前往急诊时需携带OSHC会员卡和护照，急诊费用（约400至600澳元）可通过OSHC全额报销，但需先自付后提交报销申请。
+The nearest 24-hour emergency hospital to the ANU campus is Canberra Hospital in Garran, about 15 minutes' drive away. Another option is Calvary Public Hospital in Bruce, about 10 minutes' drive. According to the Australian Institute of Health and Welfare (AIHW) 2023 Emergency Care Report, the average wait at Canberra Hospital's emergency department is 120 minutes for non-urgent cases and 30 minutes for urgent cases. International students going to emergency should carry their OSHC card and passport; emergency costs (about AUD 400 to 600) can be fully claimed on OSHC, but you must pay first and then submit a claim.
 
-## 疫苗接种与预防保健
+## Vaccinations and Preventive Care
 
-ANU校内医疗中心提供澳大利亚国家免疫计划（NIP）规定的疫苗接种服务。根据澳大利亚政府卫生部2023年《免疫接种手册》，NIP覆盖的疫苗对国际学生免费或低价提供。
+The ANU Campus Medical Centre provides vaccinations under Australia's National Immunisation Program (NIP). According to the Australian Government Department of Health's 2023 Immunisation Handbook, NIP-covered vaccines are free or low-cost for international students.
 
-### 强制与推荐疫苗
+### Mandatory and Recommended Vaccines
 
-澳大利亚移民局要求所有国际学生在签证获批前完成以下疫苗接种：麻疹-腮腺炎-风疹（MMR）疫苗（两剂）、百日咳疫苗（一剂，10年内有效）、水痘疫苗（两剂）。这些疫苗可在入境前于中国完成，或在抵达后于校内医疗中心补种。NIP覆盖的疫苗在校内医疗中心接种完全免费。此外，建议国际学生接种流感疫苗（每年一次，费用约25澳元）和COVID-19加强针（免费）。
+The Australian Department of Home Affairs requires all international students to complete the following vaccinations before their visa is granted: measles-mumps-rubella (MMR) vaccine (two doses), pertussis vaccine (one dose, valid for 10 years), and varicella (chickenpox) vaccine (two doses). These can be done in China before departure or caught up at the campus medical centre after arrival. NIP-covered vaccines are completely free at the campus medical centre. International students are also advised to get a flu shot (once a year, about AUD 25) and the COVID-19 booster (free).
 
-### 健康检查与出国前咨询
+### Health Checks and Pre-Departure Consultations
 
-中心提供“旅行健康咨询”服务，适用于计划前往澳大利亚偏远地区或出国旅行的学生。咨询内容包括目的地疾病风险、所需疫苗（如黄热病、伤寒、甲肝疫苗）、疟疾预防药物等。该服务不适用Bulk Billing，每次咨询费用为80至120澳元。根据世界卫生组织（WHO）2024年《国际旅行与健康》报告，前往东南亚和太平洋岛国旅行的澳大利亚留学生中，约15%在旅行期间报告过腹泻或呼吸道感染，提前接种疫苗可降低约70%的感染风险。
+The centre offers 'travel health consultation' services for students planning to travel to remote areas of Australia or overseas. Consultations cover destination disease risks, required vaccines (such as yellow fever, typhoid, and hepatitis A), and malaria prevention medication. This service is not bulk-billed and costs AUD 80 to 120 per consultation. According to the World Health Organization (WHO) 2024 International Travel and Health report, about 15% of Australian students travelling to Southeast Asia and Pacific island nations reported diarrhoea or respiratory infections during their trips; vaccinating in advance can cut the infection risk by about 70%.
 
-## 费用与报销流程
+## Fees and Reimbursement Process
 
-理解OSHC的报销机制，可帮助国际学生避免不必要的财务负担。ANU校内医疗中心提供清晰的费用说明和报销协助。
+Understanding how OSHC claims work can help international students avoid unnecessary financial burden. The ANU Campus Medical Centre provides clear fee information and claims assistance.
 
-### 报销比例与上限
+### Reimbursement Rates and Caps
 
-Bulk Billing项目无需学生操作，中心直接向OSHC保险公司收费。非Bulk Billing项目（如心理咨询、专科转诊）需学生先支付费用，再通过OSHC保险公司的在线平台或手机App提交报销申请。以Bupa OSHC 2024年保单为例：全科医生咨询报销100%（MBS标准费用），专科医生报销85%，处方药报销上限为每张处方50澳元（年度上限300澳元），住院费用报销100%。报销申请通常在5至10个工作日内处理完成。
+Bulk-billed services require no action from the student — the centre bills the OSHC insurer directly. Non-bulk-billed services (such as psychology and specialist referrals) must be paid first, then claimed through the OSHC insurer's online portal or mobile app. Using Bupa OSHC's 2024 policy as an example: GP consultations are reimbursed at 100% (MBS schedule fee), specialists at 85%, prescription medicines up to AUD 50 per prescription (with an AUD 300 annual cap), and hospital costs at 100%. Claims are usually processed within 5 to 10 business days.
 
-### 处方药与病理检查
+### Prescription Medicines and Pathology Tests
 
-校内医疗中心开具的处方药可在校内药店（ANU Pharmacy）或校外Chemist Warehouse等连锁药房购买。OSHC对处方药的报销有年度上限（各保险公司不同，2024年Allianz Care为300澳元，Medibank为400澳元）。病理检查（如血常规、尿检）由中心全科医生开具后，学生可前往ACT Pathology实验室（位于校内或堪培拉医院）完成，费用通过OSHC全额报销。
+Prescriptions written at the campus medical centre can be filled at the on-campus pharmacy (ANU Pharmacy) or off-campus chain pharmacies such as Chemist Warehouse. OSHC applies an annual cap to prescription medicine claims (varying by insurer — AUD 300 for Allianz Care and AUD 400 for Medibank in 2024). For pathology tests (such as blood counts and urine tests), the centre's GP writes the request and students go to an ACT Pathology laboratory (on campus or at Canberra Hospital); the cost is fully claimed through OSHC.
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-medical-centre-for-international-students-bulk-billing-eligibility-ap) 等专业通道完成结汇，以确保资金安全到达学校账户。
+In cross-border tuition payments, some study-abroad families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-medical-centre-for-international-students-bulk-billing-eligibility-ap) to settle their currency transfers and ensure funds arrive safely in the university account.
 
 ## FAQ
 
-### Q1：国际学生没有OSHC可以看病吗？
+### Q1: Can international students see a doctor without OSHC?
 
-不可以。澳大利亚移民局规定，持有学生签证的国际学生必须全程持有OSHC。若在无OSHC状态下就诊，需全额自付费用。ANU校内医疗中心2024年标准诊费为85澳元（15分钟咨询），病理检查另计。未参保学生可当场购买OSHC（如Allianz Care提供即时生效保单），但购买后需等待2天方可使用Bulk Billing。
+No. The Australian Department of Home Affairs requires all international students on student visas to hold OSHC for the entire duration of their studies. Without OSHC, you must pay all costs out of pocket. The ANU Campus Medical Centre's 2024 standard consultation fee is AUD 85 (15-minute consultation), with pathology tests charged separately. Uninsured students can buy OSHC on the spot (Allianz Care, for example, offers policies with immediate effect), but must wait 2 days after purchase before using Bulk Billing.
 
-### Q2：校内医疗中心的医生会说中文吗？
+### Q2: Do the doctors at the campus medical centre speak Chinese?
 
-ANU校内医疗中心目前配备2名会说普通话的全科医生和1名会说粤语的全科医生（2024年数据）。预约时可在备注中注明语言需求，中心会优先安排。若无法安排，中心提供免费电话口译服务（TIS National），覆盖超过160种语言，等待时间通常为3至5分钟。
+The ANU Campus Medical Centre currently has 2 GPs who speak Mandarin and 1 GP who speaks Cantonese (2024 data). You can note your language preference in the booking comments and the centre will prioritise matching you. If no match is possible, the centre provides a free telephone interpreting service (TIS National) covering more than 160 languages, with typical wait times of 3 to 5 minutes.
 
-### Q3：如果晚上10点发烧，去哪里看病？
+### Q3: Where should I go if I have a fever at 10 pm?
 
-晚上10点后，校内医疗中心已关闭。可拨打“下班后全科医生”热线（1800 022 222）进行电话咨询，或前往堪培拉医院急诊科（24小时开放）。轻微发烧可先在宿舍休息，使用非处方退烧药（如Panadol，药房售价约8澳元），若体温超过39°C或持续超过48小时，建议就医。
+After 10 pm, the campus medical centre is closed. Call the After-Hours GP helpline (1800 022 222) for phone advice, or go to the Canberra Hospital emergency department (open 24 hours). For a mild fever, you can rest in your accommodation and use over-the-counter fever medication (such as Panadol, about AUD 8 at pharmacies); if your temperature exceeds 39°C or lasts more than 48 hours, seek medical care.
 
-## 参考资料
+## References
 
-- 澳大利亚政府卫生部 2023年《医疗保险福利计划（MBS）统计报告》
-- 澳大利亚移民局 2024年《学生签证条款与OSHC要求》
-- 澳大利亚卫生与福利研究所（AIHW）2023年《急诊护理报告》
-- 世界卫生组织（WHO）2024年《国际旅行与健康》报告
-- Unilink Education 2024年《澳大利亚高校医疗资源数据库》
-
+- Australian Government Department of Health 2023, Medicare Benefits Schedule (MBS) Statistics Report
+- Australian Department of Home Affairs 2024, Student Visa Conditions and OSHC Requirements
+- Australian Institute of Health and Welfare (AIHW) 2023, Emergency Care Report
+- World Health Organization (WHO) 2024, International Travel and Health
+- Unilink Education 2024, Australia Higher Education Health Resources Database
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-campus-medical-centre-for-international-students-bulk-billing-eligibility-ap" target="_blank"

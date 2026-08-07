@@ -1,6 +1,7 @@
 ---
+slug: anu-anthropology-fieldwork-funding-how-to-apply-for-research-grants-track-expens
 title: "ANU Anthropology Fieldwork Funding: How to Apply for Research Grants, Track Expenses, and Submit Your Travel Report"
-description: "澳大利亚国立大学（ANU）为人类学专业学生提供多种实地考察（fieldwork）资助计划，2024-2025学年可申请的校内专项基金总额超过120万澳元，涵盖交通、住宿、翻译及设备租赁等开支。根据ANU人类学学院2024年发布的《田野研究资助指南》，每位硕士或博士研究生单次可申请最高8,000澳元的研究经费。随着…"
+description: "The Australian National University (ANU) offers anthropology students a range of fieldwork funding schemes; in the 2024-2025 academic year, more than A$1.2 million in dedicated on-campus funds was available, covering transport, accommodation, translation and equipment hire. According to the Fieldwork Funding Guidelines published by the ANU School of Anthropology in 2024, each Masters or PhD candidate can apply for up to A$8,000 in research funding per trip. With the rising cost of international fieldwork in recent years (ABS data for 2023 shows overseas research-related spending rose 14.7% year on year), mastering the application process, expense tracking and reimbursement reporting has become a key skill for ANU anthropology students completing their degrees..."
 category: "ANU"
 pubDatetime: '2026-05-02T19:59:38Z'
 publishDate: '2026-05-02T19:59:38Z'
@@ -10,82 +11,72 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-anthropology-fieldwork-funding-how-to-apply-for-research-grants-track-expens-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）为人类学专业学生提供多种实地考察（fieldwork）资助计划，2024-2025学年可申请的校内专项基金总额超过120万澳元，涵盖交通、住宿、翻译及设备租赁等开支。根据ANU人类学学院2024年发布的《田野研究资助指南》，每位硕士或博士研究生单次可申请最高8,000澳元的研究经费。随着近年国际田野调查成本上升（澳洲统计局ABS 2023年数据显示海外研究相关支出同比上涨14.7%），系统掌握申请流程、费用追踪与报销报告规范，已成为ANU人类学学生顺利完成学位的关键能力。
+The Australian National University (ANU) offers anthropology students a range of fieldwork funding schemes. In the 2024-2025 academic year, more than A$1.2 million in dedicated on-campus funds was available, covering transport, accommodation, translation and equipment hire. According to the Fieldwork Funding Guidelines published by the ANU School of Anthropology in 2024, each Masters or PhD candidate can apply for up to A$8,000 in research funding per trip. With the rising cost of international fieldwork in recent years — Australian Bureau of Statistics (ABS) data for 2023 shows overseas research-related spending rose 14.7% year on year — systematically mastering the application process, expense tracking and reimbursement reporting standards has become a key capability for ANU anthropology students completing their degrees.
 
-## 资助来源与资格要求
+## Funding Sources and Eligibility Requirements
 
-**ANU人类学田野基金**主要来源于校内两大渠道：**ANU人类学学院专项研究基金**与**澳大利亚研究理事会（ARC）配套拨款**。学院基金每年分两轮开放申请（3月与9月），面向已获得导师批准研究计划的全日制硕士（MPhil）与博士（PhD）学生。ARC配套拨款则优先支持与澳大利亚联邦政府优先研究领域（如太平洋岛屿文化变迁、原住民语言记录）相关的项目。
+**The ANU Anthropology Fieldwork Fund** draws mainly on two on-campus channels: the **ANU School of Anthropology Dedicated Research Fund** and **Australian Research Council (ARC) matched funding**. The School fund opens for applications twice a year (March and September) and is open to full-time Masters (MPhil) and PhD students whose research plans have been approved by their supervisors. ARC matched funding gives priority to projects aligned with Australian Government priority research areas, such as cultural change in Pacific island societies and the documentation of Indigenous languages.
 
-**资格门槛**包括：学生须完成人类学方法课程（ANTH8001或同等课程），且GPA不低于5.5/7.0。申请者须提交导师签名的《田野研究安全评估表》与ANU风险管理办公室核准的《实地工作安全计划》。2023年学院数据显示，约68%的首次申请者因缺少安全计划而被延迟审批。
+**Eligibility thresholds** include: students must have completed an anthropology methods course (ANTH8001 or equivalent) and hold a GPA of at least 5.5/7.0. Applicants must submit a supervisor-signed Fieldwork Risk Assessment Form and a Fieldwork Safety Plan approved by the ANU Risk Management Office. School data for 2023 shows that around 68% of first-time applicants had their approval delayed for lack of a safety plan.
 
-### 国际学生特别通道
+### Special Pathway for International Students
 
-持有学生签证的国际申请者需额外提供**澳大利亚外交贸易部（DFAT）**认可的海外保险证明（覆盖整个田野周期）。ANU国际学生办公室2024年统计显示，国际生获批率约为52%，低于本地生的71%，主要差距在于预算编制规范性。
+International applicants on a student visa must additionally provide **overseas insurance certification** recognised by the **Australian Department of Foreign Affairs and Trade (DFAT)** covering the entire fieldwork period. ANU International Student Office statistics for 2024 show an approval rate of about 52% for international students, below the 71% for domestic students, with the main gap being the quality of budget preparation.
 
-## 申请文书与预算编制
+## Application Documents and Budget Preparation
 
-**研究计划书**需包含不超过3页的田野方法论描述，重点说明数据收集手段（如参与观察、深度访谈、家户调查）与伦理审批状态。ANU人类学学院要求所有涉及人类受试者的研究必须获得**ANU人类研究伦理委员会（HREC）**的批准编号，该流程通常需要4-6周。
+**The research proposal** must include a fieldwork methodology description of no more than 3 pages, focusing on data collection methods (such as participant observation, in-depth interviews and household surveys) and the status of ethics approval. The ANU School of Anthropology requires all research involving human subjects to hold an approval number from the **ANU Human Research Ethics Committee (HREC)**; this process usually takes 4-6 weeks.
 
-**预算表**是评审关键项。学院提供标准Excel模板，要求按以下分类列支：国际/国内机票、每日生活津贴（按ANU标准：海外每日80澳元，澳洲境内每日55澳元）、当地交通、语言翻译费（每小时不超过45澳元）、设备租赁与耗材。2024年获批案例中，预算编制精确到每位受访者补偿金（通常为15-25澳元/次）的项目比笼统估算的项目通过率高27%。
+**The budget table** is a key item in the review. The School provides a standard Excel template and requires itemised costs under the following categories: international/domestic airfares, daily living allowance (per ANU rates: A$80 per day overseas, A$55 per day within Australia), local transport, translation fees (no more than A$45 per hour), and equipment hire and consumables. Among 2024 successful applications, projects whose budgets itemised per-interviewee compensation (usually A$15-25 per session) had a 27% higher approval rate than those with lump-sum estimates.
 
-### 常见拒因与修正策略
+### Common Rejection Reasons and How to Fix Them
 
-学院2023年拒件分析报告指出，**预算超支**（超过资助上限的120%）、**伦理审批未完成**、**导师推荐信缺失**是三大拒因。申请者可提前向学院行政办公室预约一次15分钟的预算审核咨询，该服务在申请截止前两周开放。
+The School's 2023 analysis of rejected applications identified three main reasons: **budget overruns** (exceeding 120% of the funding cap), **ethics approval not yet obtained**, and **missing supervisor reference letters**. Applicants can book a free 15-minute budget review consultation with the School administrative office, available in the two weeks before the application deadline.
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-anthropology-fieldwork-funding-how-to-apply-for-research-grants-track-expens) 等专业通道完成结汇。
+For cross-border tuition payments, some international student families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-anthropology-fieldwork-funding-how-to-apply-for-research-grants-track-expens) to complete their currency transfers.
 
-## 费用追踪与报销流程
+## Expense Tracking and the Reimbursement Process
 
-**费用记录**是报销的基础。ANU要求所有资助使用者通过**ANU Finance Online系统**提交月度费用报告，保留所有原始收据（电子版或纸质扫描件）。收据必须包含供应商名称、日期、金额与货币类型；非英语收据需附英文翻译件。
+**Expense records** are the foundation of reimbursement. ANU requires all funding recipients to submit monthly expense reports through the **ANU Finance Online system**, keeping all original receipts (electronic or paper scans). Receipts must show the supplier name, date, amount and currency type; non-English receipts must be accompanied by an English translation.
 
-**报销时限**严格：田野结束后的60个日历日内必须提交最终报销申请。逾期未交者，剩余资助将被收回，且可能影响下一轮申请资格。2024年学院数据显示，约15%的学生因未及时提交收据而损失平均1,200澳元的可报销金额。
+**Reimbursement deadlines** are strict: the final reimbursement claim must be submitted within 60 calendar days after fieldwork ends. If the deadline is missed, remaining funding is clawed back and eligibility for the next round may be affected. School data for 2024 shows that around 15% of students lost an average of A$1,200 in reimbursable amounts by not submitting receipts on time.
 
-### 可报销与不可报销项目
+### Reimbursable and Non-Reimbursable Items
 
-可报销项目包括：**往返田野地点的经济舱机票**、**疫苗与预防性药物**（需医生处方）、**研究助理薪酬**（需提前报批）。不可报销项目包括：个人旅游开支、罚款、超额行李费、非研究用途的通讯费。
+Reimbursable items include: **economy-class airfares to and from the fieldwork site**, **vaccinations and preventive medication** (with a doctor's prescription), and **research assistant wages** (pre-approved). Non-reimbursable items include: personal travel expenses, fines, excess baggage fees, and communication costs not related to the research.
 
-## 旅行报告撰写规范
+## Travel Report Writing Standards
 
-**田野旅行报告**是资助闭环的最终文件。ANU人类学学院要求报告长度在1,500-2,500词之间（含附录），结构包括：**田野地点与时间**、**方法论执行情况**（与申请计划对比）、**初步发现**、**预算执行对照表**、**伦理合规声明**。
+**The fieldwork travel report** is the final document that closes out the funding cycle. The ANU School of Anthropology requires reports of 1,500-2,500 words (including appendices), structured as: **fieldwork site and dates**, **methodology implementation** (compared against the application plan), **preliminary findings**, **budget execution comparison table**, and **ethics compliance statement**.
 
-报告须使用**ANU报告模板**（可从学院网站下载），包含封面页、目录、正文与附录。附录应附上田野照片（不超过5张，每张需有50字以内的说明）或数据样本（如访谈转录片段）。学院评审委员会通常在收到报告后的6-8周内完成审核，审核通过后剩余资助（如有）将在10个工作日内发放。
+Reports must use the **ANU report template** (downloadable from the School website) and include a cover page, table of contents, main text and appendices. Appendices should include fieldwork photos (no more than 5, each with a caption of up to 50 characters) or data samples (such as interview transcript excerpts). The School review committee typically completes its assessment within 6-8 weeks of receiving the report; once approved, any remaining funding is paid out within 10 business days.
 
-### 常见扣分点与修正
+### Common Deduction Points and Corrections
 
-2023年报告评审数据显示，**预算执行差异超过15%**且未附书面解释的报告，被要求修改的概率高达83%。另外，未在报告末尾附上导师签字页的案例占退回总量的41%。
+2023 report review data shows that reports with **budget execution variances above 15%** and no written explanation were sent back for revision in as many as 83% of cases. In addition, cases without a supervisor signature page at the end of the report accounted for 41% of all returns.
 
-## 延期与特殊情况处理
+## Extensions and Special Circumstances
 
-**田野延期**需提前至少30天向学院提交书面申请，附上更新后的时间表与预算调整说明。自然灾害、政治动荡或健康紧急情况可申请**紧急资助追加**，上限为原资助额的50%。ANU风险管理办公室2024年记录显示，太平洋地区田野项目因热带气旋导致延期的案例占该地区项目的22%。
+**Fieldwork extensions** require a written application to the School at least 30 days in advance, attaching an updated schedule and budget adjustment explanation. Natural disasters, political unrest or health emergencies may qualify for an **emergency top-up**, capped at 50% of the original award. ANU Risk Management Office records for 2024 show that fieldwork projects in the Pacific region delayed by tropical cyclones accounted for 22% of projects in that region.
 
-**资金未用完**的处理方式：余额超过500澳元的部分需退回学院基金池；余额低于500澳元的部分可保留用于后续数据分析或会议差旅（需在12个月内使用）。
+**Unused funds** are handled as follows: balances above A$500 must be returned to the School's fund pool; balances below A$500 may be kept for follow-up data analysis or conference travel (to be used within 12 months).
 
-### 特殊情况下的伦理重审
+### Ethics Re-review in Special Circumstances
 
-田野地点变更或研究方法重大调整（如从参与观察转为结构化问卷）需重新提交**伦理变更申请**，该流程通常需要2-3周。未获批准前不得使用资助资金进行新方法下的数据收集。
-
-## 常见问题与策略建议
-
-**提前准备**是提高获批率的核心。建议学生在田野出发前至少4个月开始准备申请材料，预留伦理审批的缓冲期。**导师沟通**频率：每月至少一次书面进展汇报，有助于在预算超支前获得预警。
-
-**收据管理**建议使用扫描应用（如Adobe Scan或CamScanner）实时数字化，按日期和类别命名文件（格式：YYYYMMDD_类别_金额）。学院推荐使用**云端存储**备份，防止田野期间设备丢失。
-
-### 跨学科合作机会
-
-ANU人类学学院与**澳大利亚国立大学原住民研究中心（CAEPR）**、**太平洋研究学院**有联合资助计划，允许学生申请最高12,000澳元的跨学科田野基金。此类申请需额外说明跨学科方法论价值。
+Changes to the fieldwork site or major changes to research methods (for example, switching from participant observation to structured questionnaires) require a fresh **ethics amendment application**, a process that usually takes 2-3 weeks. No funding may be used for data collection under the new method before approval is granted.
 
 ## FAQ
 
-### Q1：申请ANU人类学田野基金需要雅思成绩吗？
-不需要。雅思成绩是入学要求的一部分，但资助申请本身不设语言测试门槛。评审委员会主要评估研究计划质量与预算合理性。不过，所有申请文书（含预算表）必须用英语撰写，非英语母语者建议由导师或学院写作中心预审。
+### Q1: Do I need an IELTS score to apply for ANU anthropology fieldwork funding?
+No. IELTS is part of the admission requirements, but the funding application itself has no language test barrier. The review committee focuses mainly on the quality of the research plan and the reasonableness of the budget. However, all application documents (including the budget table) must be written in English; non-native speakers are advised to have their materials pre-reviewed by their supervisor or the School writing centre.
 
-### Q2：如果田野期间生病或遇到安全事件，资助是否覆盖医疗撤离费用？
-ANU资助不自动包含医疗撤离保险。学生必须自行购买覆盖田野地区的旅行保险（建议保额不低于50万澳元）。学院2023年安全记录显示，太平洋地区田野项目中有3起医疗撤离案例，平均费用为12,400澳元，均由学生个人保险承担。
+### Q2: If I get sick or face a safety incident during fieldwork, does the funding cover medical evacuation costs?
+ANU funding does not automatically include medical evacuation insurance. Students must purchase their own travel insurance covering the fieldwork region (a minimum cover of A$500,000 is recommended). School safety records for 2023 show 3 medical evacuation cases in Pacific fieldwork projects, with an average cost of A$12,400, all covered by students' personal insurance.
 
-### Q3：田野结束后多久必须提交旅行报告？逾期会怎样？
-田野结束后的60个日历日内必须提交最终报告。逾期30天内提交者，资助余额将被扣减20%；逾期超过60天者，剩余资助全部收回，且下一轮申请将被自动降级为低优先级。2024年学院数据显示，约5%的学生因逾期未交报告而失去全部未发放资助。
+### Q3: How soon after fieldwork must I submit the travel report? What happens if I'm late?
+The final report must be submitted within 60 calendar days after fieldwork ends. Reports submitted within 30 days late have 20% deducted from the funding balance; beyond 60 days late, all remaining funding is clawed back and the next application is automatically downgraded to low priority. School data for 2024 shows that around 5% of students lost all undisbursed funding for failing to submit reports on time.
 
-## 参考资料
+## References
 
 - ANU College of Arts and Social Sciences 2024, *Fieldwork Funding Guidelines for Anthropology Students*
 - Australian Bureau of Statistics 2023, *International Research Expenditure Survey, 2022-23*

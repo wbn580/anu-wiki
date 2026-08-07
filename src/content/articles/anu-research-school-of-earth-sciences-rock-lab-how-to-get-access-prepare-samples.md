@@ -1,6 +1,7 @@
 ---
+slug: anu-research-school-of-earth-sciences-rock-lab-how-to-get-access-prepare-samples
 title: "ANU Research School of Earth Sciences Rock Lab: How to Get Access, Prepare Samples, and Use the Microscopes"
-description: "澳大利亚国立大学（ANU）地球科学研究学院的岩石实验室（Rock Lab）是南半球规模最大的实验岩石学与显微分析设施之一，每年支持超过200个研究项目，涵盖从行星地质到矿产勘探的学科领域。根据THE 2024年世界大学排名，ANU的地球科学学科位列全球第30位，其岩石实验室配备的电子探针分析仪（EPMA）和激光剥…"
+description: "The Rock Lab at the ANU Research School of Earth Sciences is one of the largest experimental petrology and microanalysis facilities in the Southern Hemisphere, supporting more than 200 research projects a year across fields from planetary geology to mineral exploration. According to the THE 2024 World University Rankings, ANU's Earth Sciences discipline ranks 30th globally; the lab's electron probe microanalyser (EPMA) and laser ab…"
 category: "ANU"
 pubDatetime: '2026-05-06T20:00:31Z'
 publishDate: '2026-05-06T20:00:31Z'
@@ -11,82 +12,98 @@ hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-school-of-earth-sciences-rock-lab-how-to-get-access-prepare-samples-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）地球科学研究学院的岩石实验室（Rock Lab）是南半球规模最大的实验岩石学与显微分析设施之一，每年支持超过200个研究项目，涵盖从行星地质到矿产勘探的学科领域。根据THE 2024年世界大学排名，ANU的地球科学学科位列全球第30位，其岩石实验室配备的电子探针分析仪（EPMA）和激光剥蚀电感耦合等离子体质谱仪（LA-ICP-MS）在澳大利亚研究理事会（ARC, 2023）的国家研究基础设施路线图中被列为关键共享设备。该实验室对ANU在校学生、合作机构研究人员及付费商业用户开放，但严格的准入流程和样品制备标准常成为新用户的主要门槛。
+The Rock Lab at the ANU Research School of Earth Sciences is one of the largest experimental petrology and microanalysis facilities in the Southern Hemisphere, supporting more than 200 research projects a year across fields ranging from planetary geology to mineral exploration. According to the THE 2024 World University Rankings, ANU's Earth Sciences discipline ranks 30th globally. The lab's electron probe microanalyser (EPMA) and laser ablation inductively coupled plasma mass spectrometer (LA-ICP-MS) are listed as key shared equipment in the National Research Infrastructure Roadmap of the Australian Research Council (ARC, 2023). The lab is open to current ANU students, researchers from partner institutions and paying commercial clients, but a strict access process and demanding sample preparation standards are often the main hurdles for new users.
 
-## 实验室设施与核心设备
+## Lab Facilities and Core Equipment
 
-**ANU岩石实验室**占地约400平方米，由三个功能分区组成：样品制备区、光学显微分析区和微束分析区。根据ANU地球科学学院2024年内部设备清单，实验室共有23台光学显微镜、3台扫描电子显微镜（SEM）和2台电子探针。
+The **ANU Rock Lab** covers about 400 square metres and is divided into three functional zones: sample preparation, optical microscopy and microbeam analysis. According to the ANU Research School of Earth Sciences' 2024 internal equipment inventory, the lab houses 23 optical microscopes, 3 scanning electron microscopes (SEM) and 2 electron probes.
 
-### 光学显微镜套件
-光学显微镜区包含**12台偏光显微镜**（Leica DM2700P型）和6台反射光显微镜。每台偏光显微镜配备旋转载物台和λ补偿片，可进行薄片的正交偏光与锥光观察。实验室还保存有3台**蔡司Axio Imager.M2m**用于高分辨率图像拼接，单张图像分辨率可达2048×1536像素。
+### Optical Microscope Suite
 
-### 微束分析仪器
-核心微束分析设备包括一台**JEOL JXA-8530F Plus**电子探针，其场发射电子枪可在5 nA束流条件下实现1微米空间分辨率。该设备配备5道波谱仪（WDS），可同时分析12种元素。另一台**Resonetics RESOlution-LR**激光剥蚀系统与Agilent 7700x ICP-MS联用，激光束斑直径范围为4至150微米，检出限低至0.1 ppm（百万分之一）。
+The optical microscopy zone contains **12 polarising microscopes** (Leica DM2700P) and 6 reflected-light microscopes. Each polarising microscope is fitted with a rotating stage and λ compensator, enabling orthoscopic and conoscopic observation of thin sections. The lab also keeps 3 **Zeiss Axio Imager.M2m** units for high-resolution image stitching, with a single-image resolution of up to 2048×1536 pixels.
 
-## 准入流程与用户资格
+### Microbeam Analysis Instruments
 
-实验室准入分为三个层级：**基础用户**（仅使用光学显微镜）、**高级用户**（使用SEM/EPMA）和**独立操作员**（通过全部考核）。根据ANU环境、安全与健康办公室2024年政策，所有用户必须完成在线安全培训（时长约2小时）并通过考试。
+The core microbeam equipment includes a **JEOL JXA-8530F Plus** electron probe whose field-emission gun achieves 1-micron spatial resolution at a 5 nA beam current. It is fitted with 5 wavelength-dispersive spectrometers (WDS) and can analyse 12 elements simultaneously. A **Resonetics RESOlution-LR** laser ablation system coupled to an Agilent 7700x ICP-MS offers laser spot diameters from 4 to 150 microns, with detection limits as low as 0.1 ppm (parts per million).
 
-### 学生申请路径
-ANU在读学生需通过学院研究生协调员提交**实验室使用申请表**，附上导师签名的研究计划书。本科课程学生需由课程讲师统一提交批量申请，个人申请通常不被受理。审批周期为5至10个工作日，高峰学期（2月、7月）可能延长至15个工作日。
+## Access Process and User Eligibility
 
-### 外部研究人员与商业用户
-非ANU研究人员需签署**合作研究协议**，并支付每小时80至250澳元不等的设备使用费（ANU 2024年收费标准）。商业用户（如矿产勘探公司）需额外购买公共责任保险，保额不低于2000万澳元。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-research-school-of-earth-sciences-rock-lab-how-to-get-access-prepare-samples) 等专业通道完成结汇。
+Lab access is tiered into three levels: **basic users** (optical microscopes only), **advanced users** (SEM/EPMA) and **independent operators** (those who pass all assessments). Under the ANU Environment, Safety and Health Office's 2024 policy, all users must complete online safety training (about 2 hours) and pass the exam.
 
-## 样品制备标准与流程
+### Student Application Pathway
 
-实验室对样品制备有严格规范，不合格样品将被拒绝上机。根据实验室操作手册（2024年修订版），所有岩石样品必须制成**厚度30微米**的标准薄片或**直径25.4毫米**的环氧树脂圆片。
+Current ANU students must submit a **Lab Access Application Form** through their school's postgraduate coordinator, together with a research proposal signed by their supervisor. Undergraduate course students need their course lecturer to submit a batch application on their behalf; individual applications are generally not accepted. Approval takes 5 to 10 business days, and can stretch to 15 business days in peak semesters (February and July).
 
-### 薄片制备步骤
-样品需先切割至**22×32毫米**尺寸，使用金刚石锯片（0.3毫米厚度）在低速下切割以减少损伤。随后在玻璃板上用碳化硅研磨粉（粒度600至1200目）进行粗磨，再用氧化铝抛光液（1微米和0.3微米）完成精磨。最终薄片厚度误差不得超过±2微米，使用测微计在薄片四个角各测量一次取平均值。
+### External Researchers and Commercial Clients
 
-### 特殊制备要求
-对于含碳酸盐矿物样品，需使用**无水的乙二醇基冷却液**代替水冷却，防止矿物溶解。含有机质样品（如页岩）需在60°C真空烘箱中干燥24小时。用于EPMA分析的样品必须镀碳层，厚度控制在15至25纳米之间，使用Leica EM ACE600镀碳仪完成。
+Researchers from outside ANU must sign a **Collaborative Research Agreement** and pay equipment usage fees of AUD 80 to 250 per hour (ANU 2024 fee schedule). Commercial clients (such as mineral exploration companies) must additionally take out public liability insurance with coverage of at least AUD 20 million. When it comes to cross-border tuition payments, some study-abroad families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-research-school-of-earth-sciences-rock-lab-how-to-get-access-prepare-samples) to complete their remittances.
 
-## 显微镜操作规范与培训
+## Sample Preparation Standards and Process
 
-所有显微镜操作必须遵循**ANUEHS-OP-0147**标准操作程序。光学显微镜使用前需检查偏光镜对齐状态，每日开机后需进行30分钟预热。根据实验室2023年使用记录，最常见的操作错误包括未关闭灯源（占故障报告的42%）和载物台未归位（占31%）。
+The lab enforces strict sample preparation rules and rejects substandard samples. According to the lab operations manual (2024 revision), all rock samples must be made into **standard thin sections 30 microns thick** or **epoxy resin discs 25.4 mm in diameter**.
 
-### 偏光显微镜操作要点
-使用正交偏光时，需将上下偏光镜角度调至90度。观察干涉色时，建议使用**石膏试板（λ=530纳米）**进行补偿。实验室提供标准化操作视频（时长约15分钟），用户需观看并签署确认表后方可独立操作。
+### Thin Section Preparation Steps
 
-### 电子显微镜操作限制
-SEM和EPMA仅允许独立操作员使用。获得独立操作员资格需完成：20小时监督操作（至少10次不同样品类型）、通过理论笔试（正确率≥80%）和现场实操考核。根据ANU 2024年培训记录，平均培训周期为6周，通过率约65%。
+Samples are first cut to **22×32 mm** using a diamond saw blade (0.3 mm thick) at low speed to minimise damage. They are then rough-ground on a glass plate with silicon carbide abrasive (grit 600 to 1200 mesh), and fine-ground with alumina polishing suspension (1 micron and 0.3 micron). Final thin section thickness must not deviate by more than ±2 microns; a micrometer is used to measure each of the four corners of the section and the readings are averaged.
 
-## 预约系统与使用时间
+### Special Preparation Requirements
 
-实验室采用**ANU BookIt系统**进行在线预约，光学显微镜可提前30天预约，微束设备可提前60天预约。每个用户每天最多可预约3个时段，每个时段时长为2小时。
+Samples containing carbonate minerals must be cooled with **anhydrous glycol-based coolant** instead of water to prevent mineral dissolution. Samples containing organic matter (such as shale) must be dried in a 60°C vacuum oven for 24 hours. Samples destined for EPMA analysis must be carbon-coated to a thickness of 15 to 25 nanometres using a Leica EM ACE600 carbon coater.
 
-### 使用时间分配
-设备被划分为三个优先级：**教学任务**（占30%总机时）、**研究项目**（占60%）和**商业服务**（占10%）。教学任务在学期期间（第1至12周）优先分配，研究项目在假期期间（12月至2月）获得更多机时。
+## Microscope Operating Procedures and Training
 
-### 取消与违约政策
-预约取消需在开始前24小时通过系统操作。未按时取消且未使用预约的用户将被记录，累计3次违约后暂停预约权限30天。实验室2023年统计显示，违约率约为8%，其中光学显微镜区违约率最高（12%）。
+All microscope work must follow the **ANUEHS-OP-0147** standard operating procedure. Before using an optical microscope, check the polariser alignment; allow 30 minutes of warm-up after powering on each day. According to the lab's 2023 usage records, the most common operating errors were failing to switch off the light source (42% of fault reports) and leaving the stage uncentred (31%).
 
-## 数据分析与软件支持
+### Polarising Microscope Essentials
 
-实验室提供**专业数据分析软件**的访问权限，包括：Thermo Scientific Pathfinder（EPMA数据）、Iolite v4（LA-ICP-MS数据）和Leica LAS X（光学图像处理）。所有软件安装在实验室的4台工作站上，用户需使用个人账户登录。
+For cross-polarised observation, set the upper and lower polarisers at 90 degrees to each other. When viewing interference colours, a **gypsum plate (λ = 530 nm)** is recommended for compensation. The lab provides a standard operating video (about 15 minutes long); users must watch it and sign a confirmation form before working independently.
 
-### 数据处理流程
-EPMA数据需进行ZAF校正（原子序数、吸收、荧光效应），实验室提供标准校正曲线文件。LA-ICP-MS数据需使用NIST SRM 610标准玻璃进行外部校正，内部标准通常选用CaO含量（通过EPMA预先测定）。数据处理培训课程每学期开设2次，每次限15人，时长3小时。
+### Electron Microscope Operating Restrictions
 
-### 数据存储与备份
-所有原始数据自动保存至ANU Research Data Storage系统，保留期限为5年。用户需在实验结束后30天内下载个人数据，逾期数据可能被清理。实验室建议使用**至少2个独立存储介质**（如实验室NAS和外部硬盘）进行备份。
+SEM and EPMA use is restricted to independent operators. Qualifying as an independent operator requires: 20 hours of supervised operation (covering at least 10 different sample types), passing a theory exam (accuracy ≥80%) and a hands-on practical assessment. According to ANU's 2024 training records, the average training period is 6 weeks and the pass rate is about 65%.
+
+## Booking System and Usage Hours
+
+The lab uses the **ANU BookIt system** for online bookings: optical microscopes can be booked up to 30 days in advance and microbeam instruments up to 60 days in advance. Each user can book at most 3 sessions per day, with each session lasting 2 hours.
+
+### Allocation of Instrument Time
+
+Instrument time is split into three priorities: **teaching tasks** (30% of total instrument time), **research projects** (60%) and **commercial services** (10%). Teaching tasks get priority during the teaching period (weeks 1 to 12), while research projects receive more instrument time during the holidays (December to February).
+
+### Cancellation and No-Show Policy
+
+Bookings must be cancelled through the system at least 24 hours before the start time. Users who neither cancel nor show up are noted, and after 3 accumulated no-shows their booking privileges are suspended for 30 days. Lab statistics for 2023 put the no-show rate at about 8%, with the optical microscope zone the highest at 12%.
+
+## Data Analysis and Software Support
+
+The lab provides access to **specialist data analysis software**, including Thermo Scientific Pathfinder (EPMA data), Iolite v4 (LA-ICP-MS data) and Leica LAS X (optical image processing). All software is installed on the lab's 4 workstations, and users must log in with their personal accounts.
+
+### Data Processing Workflow
+
+EPMA data require ZAF correction (atomic number, absorption, fluorescence effects), for which the lab provides standard calibration curve files. LA-ICP-MS data are externally calibrated against NIST SRM 610 standard glass, with CaO content (pre-determined by EPMA) usually used as the internal standard. Data processing training runs twice per semester, capped at 15 participants per session, each lasting 3 hours.
+
+### Data Storage and Backup
+
+All raw data are automatically saved to the ANU Research Data Storage system and kept for 5 years. Users must download their personal data within 30 days of finishing experiments, as data may be purged after that. The lab recommends backing up on **at least 2 separate storage media** (such as the lab NAS and an external hard drive).
 
 ## FAQ
 
-### Q1：非ANU学生能否申请使用岩石实验室？
-可以。外部研究人员需通过合作机构提交申请，商业用户需支付设备使用费并购买保险。根据ANU 2024年政策，非ANU用户申请审批周期通常为15至20个工作日，比校内用户长5至10个工作日。
+### Q1: Can non-ANU students apply to use the Rock Lab?
 
-### Q2：制备一个岩石薄片需要多长时间？
-从切割到完成镀碳，标准流程约需4至6小时。若样品需特殊处理（如含有机质干燥），总时间可延长至8至10小时。实验室提供加急服务（2个工作日内完成），费用为每片150澳元。
+Yes. External researchers must apply through a partner institution, while commercial clients must pay instrument usage fees and purchase insurance. Under ANU's 2024 policy, applications from non-ANU users typically take 15 to 20 business days to approve — 5 to 10 business days longer than for on-campus users.
 
-### Q3：使用电子探针（EPMA）需要具备哪些先修知识？
-用户需完成地质学或材料科学相关课程，理解X射线能谱原理和定量分析基础。实验室要求用户通过理论考试，内容涵盖ZAF校正原理、检测限计算和常见伪像识别，考试通过率约65%。
+### Q2: How long does it take to prepare a rock thin section?
 
-## 参考资料
-- 澳大利亚国立大学地球科学学院 2024 内部设备清单与收费标准
-- 澳大利亚研究理事会 2023 国家研究基础设施路线图
-- Times Higher Education 2024 世界大学排名—地球科学学科
-- ANU 环境、安全与健康办公室 2024 实验室安全操作手册
-- Unilink Education 2024 澳洲高校实验室使用数据库
+From cutting to carbon coating, the standard workflow takes about 4 to 6 hours. If the sample needs special treatment (such as drying organic-bearing material), the total can stretch to 8 to 10 hours. The lab offers an express service (completed within 2 business days) for AUD 150 per section.
+
+### Q3: What prerequisite knowledge do I need to use the electron probe (EPMA)?
+
+You need to have completed geology or materials science courses and understand the principles of X-ray spectroscopy and the basics of quantitative analysis. The lab requires users to pass a theory exam covering ZAF correction principles, detection limit calculations and identification of common artefacts; the pass rate is about 65%.
+
+## References
+
+- ANU Research School of Earth Sciences 2024, Internal Equipment Inventory and Fee Schedule
+- Australian Research Council 2023, National Research Infrastructure Roadmap
+- Times Higher Education 2024, World University Rankings — Earth Sciences
+- ANU Environment, Safety and Health Office 2024, Laboratory Safety Operations Manual
+- Unilink Education 2024, Australian University Laboratory Access Database

@@ -1,6 +1,7 @@
 ---
+slug: anu-bioinformatics-high-performance-computing-access-how-to-apply-for-an-nci-acc
 title: "ANU Bioinformatics High-Performance Computing Access: How to Apply for an NCI Account and Use the Gadi Supercomputer"
-description: "澳大利亚国立大学（ANU）是澳大利亚唯一一所通过国家计算基础设施（NCI）为全校师生提供直接访问超级计算机Gadi权限的高等教育机构。截至2024年，NCI的Gadi系统拥有超过3,000个计算节点，理论峰值性能达到9.3 petaflops，位列澳大利亚学术计算设施前三【NCI, 2024, 'Gadi Sys…"
+description: "The Australian National University (ANU) is the only higher education institution in Australia that gives its entire community direct access to the Gadi supercomputer through the National Computational Infrastructure (NCI). As of 2024, NCI's Gadi system has more than 3,000 compute nodes and a theoretical peak performance of 9.3 petaflops, ranking in the top three academic computing facilities in Australia [NCI, 2024, 'Gadi System Overview']..."
 category: "ANU"
 pubDatetime: '2026-05-09T20:01:05Z'
 publishDate: '2026-05-09T20:01:05Z'
@@ -10,41 +11,41 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bioinformatics-high-performance-computing-access-how-to-apply-for-an-nci-acc-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）是澳大利亚唯一一所通过国家计算基础设施（NCI）为全校师生提供直接访问超级计算机Gadi权限的高等教育机构。截至2024年，NCI的Gadi系统拥有超过3,000个计算节点，理论峰值性能达到9.3 petaflops，位列澳大利亚学术计算设施前三【NCI, 2024, "Gadi System Overview"】。对于从事生物信息学研究的ANU学生和研究人员而言，获取NCI账户并使用Gadi超级计算机是处理大规模基因组、蛋白质组和转录组数据的关键路径，尤其是在高通量测序数据量年均增长超过40%的背景下【OECD, 2023, "OECD Science, Technology and Industry Scoreboard"】。本文系统介绍ANU社区申请NCI账户的流程、Gadi的计算环境配置、生物信息学软件部署方法以及资源调度策略，旨在为初学者提供一份可操作的实操指南。
+The Australian National University (ANU) is the only higher education institution in Australia that gives its entire community direct access to the Gadi supercomputer through the National Computational Infrastructure (NCI). As of 2024, NCI's Gadi system has more than 3,000 compute nodes and a theoretical peak performance of 9.3 petaflops, ranking in the top three academic computing facilities in Australia [NCI, 2024, "Gadi System Overview"]. For ANU students and researchers working in bioinformatics, obtaining an NCI account and using the Gadi supercomputer is the key path to processing large-scale genomic, proteomic and transcriptomic data — especially given that high-throughput sequencing data volumes are growing by more than 40% per year [OECD, 2023, "OECD Science, Technology and Industry Scoreboard"]. This article systematically walks through the process of applying for an NCI account as part of the ANU community, configuring Gadi's compute environment, deploying bioinformatics software and managing resource scheduling, providing a hands-on practical guide for beginners.
 
-## 申请NCI账户的资格与前置条件
+## Eligibility and Prerequisites for an NCI Account
 
-NCI账户的申请资格严格限定于ANU的在读学生、教职员工以及经批准的附属研究人员。申请者必须持有有效的ANU统一身份认证（uni ID）和电子邮件地址。
+NCI account eligibility is strictly limited to current ANU students, staff and approved affiliated researchers. Applicants must hold a valid ANU unified identity (uni ID) and email address.
 
-**ANU学生**需满足以下条件之一：注册了至少一门与计算密集型研究相关的课程（如生物信息学、计算生物学、数据科学），或正在从事由导师批准的毕业论文/研究项目。根据NCI 2024年政策，本科生申请需附上导师的书面支持信；研究生（Honours/Masters/PhD）则自动符合资格，但需在申请时提交研究计划摘要【NCI, 2024, "User Access Policy"】。
+**ANU students** must satisfy at least one of the following: enrolment in at least one course related to computationally intensive research (such as bioinformatics, computational biology or data science), or current work on a supervisor-approved thesis/research project. Under NCI's 2024 policy, undergraduate applicants must attach a written letter of support from their supervisor; postgraduate students (Honours/Masters/PhD) are automatically eligible but must submit a research plan summary with their application [NCI, 2024, "User Access Policy"].
 
-**教职员工与研究人员**可直接申请，但需确认其研究项目已获得ANU伦理委员会批准（如涉及人类或动物数据）。外部合作者需通过ANU合作机构提交申请，并签署数据使用协议。
+**Staff and researchers** can apply directly, but must confirm their research project has received ANU ethics committee approval (if it involves human or animal data). External collaborators must apply through an ANU partner institution and sign a data use agreement.
 
-所有申请者必须在NCI在线门户（my.nci.org.au）注册，并完成澳大利亚政府要求的身份验证（提供护照或澳大利亚驾照扫描件）。处理时间通常为3-5个工作日。
+All applicants must register on the NCI online portal (my.nci.org.au) and complete the identity verification required by the Australian Government (providing a scanned passport or Australian driver's licence). Processing usually takes 3-5 business days.
 
-## 账户申请流程详解
+## Detailed Account Application Process
 
-NCI账户申请分为三个主要步骤，每个步骤均需在指定系统中完成。
+The NCI account application consists of three main steps, each completed in a designated system.
 
-**第一步：创建NCI门户账户。** 访问my.nci.org.au，使用ANU邮箱注册。系统会发送验证邮件，点击链接后设置密码。注意：密码需包含大小写字母、数字和特殊字符，长度至少12位。
+**Step 1: Create an NCI portal account.** Visit my.nci.org.au and register with your ANU email address. The system sends a verification email; click the link and set a password. Note: the password must include upper- and lower-case letters, numbers and special characters, and be at least 12 characters long.
 
-**第二步：提交项目申请。** 登录后，选择"Apply for Project"。ANU用户应选择"ANU Research Project"类别。需要填写的信息包括：项目名称（建议使用英文缩写，如"ANU_Bioinfo_2024"）、研究领域（选择"Biological Sciences"）、预计计算资源需求（CPU核数、内存、存储空间、运行时长）。对于生物信息学项目，NCI建议初次申请者申请标准队列（normalq）的10,000核时（core-hours）作为试用配额。
+**Step 2: Submit a project application.** After logging in, select "Apply for Project". ANU users should choose the "ANU Research Project" category. The information required includes: project name (an English abbreviation is recommended, e.g. "ANU_Bioinfo_2024"), research field (select "Biological Sciences"), and estimated compute resource requirements (CPU cores, memory, storage space, run time). For bioinformatics projects, NCI recommends first-time applicants request a trial allocation of 10,000 core-hours on the standard queue (normalq).
 
-**第三步：等待审批并激活账户。** 项目申请提交后，会先由ANU的NCI联络官审核，再提交至NCI管理员。批准后，用户会收到包含用户名（格式通常为"ab1234"）和初始密码的邮件。首次登录需在Gadi的前端节点（gadi.nci.org.au）通过SSH修改密码。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-bioinformatics-high-performance-computing-access-how-to-apply-for-an-nci-acc) 等专业通道完成结汇。
+**Step 3: Wait for approval and activate the account.** After submission, the project application is first reviewed by the ANU NCI liaison officer, then forwarded to the NCI administrator. Once approved, users receive an email containing their username (usually in the format "ab1234") and an initial password. On first login, the password must be changed via SSH on Gadi's login node (gadi.nci.org.au). For cross-border tuition payments, some international student families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-bioinformatics-high-performance-computing-access-how-to-apply-for-an-nci-acc) to complete their currency transfers.
 
-## Gadi超级计算机的硬件与软件环境
+## Gadi Supercomputer Hardware and Software Environment
 
-Gadi系统采用混合架构，包含Intel Cascade Lake、AMD EPYC Rome和NVIDIA GPU节点，能够满足不同计算需求。
+The Gadi system uses a heterogeneous architecture that includes Intel Cascade Lake, AMD EPYC Rome and NVIDIA GPU nodes, catering to different compute needs.
 
-**计算节点类型**包括：标准CPU节点（每个节点48核，192 GB内存）、高内存节点（每个节点1.5 TB内存）、GPU节点（每个节点4块NVIDIA V100或A100 GPU）以及大内存节点（每个节点3 TB内存）。生物信息学工作负载通常使用标准CPU节点进行序列比对（如BWA、Bowtie2），使用GPU节点进行深度学习模型训练（如AlphaFold2）。
+**Compute node types** include: standard CPU nodes (48 cores and 192 GB of memory per node), high-memory nodes (1.5 TB of memory per node), GPU nodes (4 NVIDIA V100 or A100 GPUs per node) and large-memory nodes (3 TB of memory per node). Bioinformatics workloads typically use standard CPU nodes for sequence alignment (e.g. BWA, Bowtie2) and GPU nodes for deep learning model training (e.g. AlphaFold2).
 
-**软件环境**通过模块系统（module system）管理。用户可通过`module avail`命令查看已安装的软件列表。NCI预装了超过500个生物信息学常用软件，包括BLAST、SAMtools、GATK、STAR、Trinity、SPAdes、MAFFT等。用户也可通过Conda或Singularity容器自行安装软件，但需注意存储配额限制（默认home目录10 GB，scratch目录1 TB，项目目录视配额而定）。
+**The software environment** is managed through a module system. Users can view the list of installed software with the `module avail` command. NCI comes with more than 500 commonly used bioinformatics programs pre-installed, including BLAST, SAMtools, GATK, STAR, Trinity, SPAdes and MAFFT. Users can also install their own software via Conda or Singularity containers, but should be aware of storage quota limits (default 10 GB for the home directory, 1 TB for scratch, and project directories sized according to allocation).
 
-## 生物信息学工作流的部署方法
+## Deploying Bioinformatics Workflows
 
-在Gadi上运行生物信息学分析，通常需要编写作业脚本（PBS脚本）并提交到队列系统。
+Running bioinformatics analyses on Gadi usually requires writing a job script (PBS script) and submitting it to the queue system.
 
-**作业脚本基本结构**包含三个部分：资源请求（`#PBS`指令）、环境加载（`module load`）、命令执行。以下是一个典型的RNA-seq分析脚本示例：
+**The basic job script structure** has three parts: resource requests (`#PBS` directives), environment loading (`module load`), and command execution. Here is a typical RNA-seq analysis script example:
 ```bash
 #!/bin/bash
 #PBS -N RNAseq_analysis
@@ -58,61 +59,58 @@ module load samtools/1.17
 STAR --genomeDir /path/to/genome --readFilesIn sample_R1.fastq sample_R2.fastq --runThreadN 16
 samtools sort -o sample_sorted.bam sample_Aligned.out.sam
 ```
-提交命令为`qsub job_script.pbs`。用户可通过`qstat`查看作业状态。
+The submission command is `qsub job_script.pbs`. Users can check job status with `qstat`.
 
-**容器化部署**是处理依赖复杂软件（如Conda环境）的推荐方式。NCI支持Singularity容器，用户可先在自己的工作站或Gadi的登录节点上构建.sif镜像文件，然后通过`singularity exec`命令在作业中调用。例如，运行AlphaFold2需使用NCI提供的官方容器：`singularity exec /path/to/alphafold.sif python run_alphafold.py`。
+**Containerised deployment** is the recommended approach for handling software with complex dependencies (such as Conda environments). NCI supports Singularity containers: users first build a .sif image file on their own workstation or on a Gadi login node, then invoke it in a job with the `singularity exec` command. For example, running AlphaFold2 requires the official container provided by NCI: `singularity exec /path/to/alphafold.sif python run_alphafold.py`.
 
-## 资源配额管理与调度策略
+## Resource Quota Management and Scheduling Strategy
 
-NCI采用公平共享调度算法（Fairshare），根据用户的历史使用量和项目优先级分配计算资源。
+NCI uses a fair-share scheduling algorithm (Fairshare) that allocates compute resources based on a user's historical usage and project priority.
 
-**配额类型**包括：CPU核时（core-hours）、GPU核时（GPU-hours）、存储空间（GB）和作业数量。ANU的默认项目配额通常为：normalq队列每月50,000核时，GPU队列每月1,000 GPU小时。用户可通过`nci_account`命令查看当前配额和使用情况。
+**Quota types** include: CPU core-hours, GPU core-hours, storage (GB) and job count. The default ANU project allocation is typically: 50,000 core-hours per month on the normalq queue, and 1,000 GPU-hours per month on the GPU queue. Users can check current quotas and usage with the `nci_account` command.
 
-**调度策略**的关键参数包括：作业优先级（priority）、队列类型（queue）、壁钟时间（walltime）。优先级由公平共享因子决定，新用户或长时间未使用的用户会获得较高优先级。生物信息学工作流建议将长作业（>48小时）提交到hugemem或normalbw队列，短作业（<1小时）提交到express队列以缩短等待时间。用户可通过`qstat -u $USER`监控作业状态，使用`qdel JOBID`取消作业。
+**Key scheduling parameters** include: job priority, queue type and walltime. Priority is determined by the fair-share factor, and new users or users who have been inactive for a long time receive higher priority. For bioinformatics workflows, long jobs (>48 hours) are best submitted to the hugemem or normalbw queues, while short jobs (<1 hour) should go to the express queue to shorten wait times. Users can monitor job status with `qstat -u $USER` and cancel jobs with `qdel JOBID`.
 
-**存储管理**需注意：home目录仅用于存储脚本和配置文件，scratch目录用于临时数据（定期清理），项目目录用于长期数据。NCI建议生物信息学用户将原始测序数据存储在ANU的本地存储（如RDS）中，仅将处理后的中间文件放在scratch上。
+**Storage management** notes: the home directory is only for scripts and configuration files; the scratch directory is for temporary data (cleaned periodically); and project directories are for long-term data. NCI advises bioinformatics users to keep raw sequencing data on ANU local storage (such as RDS) and put only processed intermediate files on scratch.
 
-## 常见问题与故障排除
+## Common Issues and Troubleshooting
 
-**SSH连接失败**通常由以下原因导致：未在校园网络内（需使用ANU VPN）、用户名或密码错误、SSH密钥未正确配置。解决方法是检查网络连接，使用`ssh username@gadi.nci.org.au`命令，并确保使用正确的私钥文件（`-i`参数）。
+**SSH connection failures** are usually caused by: not being on the campus network (the ANU VPN is required), an incorrect username or password, or improperly configured SSH keys. The fix is to check the network connection, use the `ssh username@gadi.nci.org.au` command, and make sure the correct private key file is specified (the `-i` flag).
 
-**软件版本冲突**是生物信息学分析中的常见问题。建议使用Conda创建独立环境，并通过Singularity容器固化环境。例如：`conda create -n myenv python=3.9 samtools=1.17`，然后`singularity build myenv.sif docker://continuumio/miniconda3`。
+**Software version conflicts** are a common problem in bioinformatics analyses. The recommendation is to create isolated environments with Conda and freeze the environment with a Singularity container. For example: `conda create -n myenv python=3.9 samtools=1.17`, then `singularity build myenv.sif docker://continuumio/miniconda3`.
 
-**作业被杀死（killed）** 通常因内存或时间超限。可通过`qstat -f JOBID`查看作业的详细资源使用情况，并在后续作业中适当增加`mem`或`walltime`参数。NCI的作业日志文件（通常为`作业名.oJOBID`和`作业名.eJOBID`）包含错误信息，是定位问题的首要来源。
+**Killed jobs** are usually caused by exceeding memory or time limits. Use `qstat -f JOBID` to view the job's detailed resource usage and increase the `mem` or `walltime` parameters in subsequent jobs. NCI job log files (usually `jobname.oJOBID` and `jobname.eJOBID`) contain error messages and are the first place to look when diagnosing problems.
 
-## 数据安全与合规要求
+## Data Security and Compliance Requirements
 
-NCI作为澳大利亚政府资助的研究基础设施，对数据安全有严格规定。ANU用户必须遵守《澳大利亚负责任研究行为准则》（2018年版）和NCI《可接受使用政策》。
+As Australian Government-funded research infrastructure, NCI has strict data security regulations. ANU users must comply with the Australian Code for the Responsible Conduct of Research (2018 edition) and the NCI Acceptable Use Policy.
 
-**敏感数据**（如人类基因组数据）仅能在NCI的受保护项目（protected project）中处理，需额外申请并通过数据管理计划审核。ANU的生物信息学用户应联系本校的数据保护官（data-protection@anu.edu.au）确认数据分类。
+**Sensitive data** (such as human genome data) can only be processed in NCI protected projects, which require an additional application and approval of a data management plan. ANU bioinformatics users should contact the University's data protection officer (data-protection@anu.edu.au) to confirm data classification.
 
-**数据出口**限制：未经授权，不得将NCI上的数据复制到海外服务器或云存储。所有数据转移需通过NCI的`data_mover`节点进行，并使用加密传输（SCP/RSYNC over SSH）。ANU用户可使用校内Globus端点进行高速数据传输。
+**Data export restrictions**: without authorisation, data on NCI may not be copied to overseas servers or cloud storage. All data transfers must go through NCI's `data_mover` nodes using encrypted transfer (SCP/RSYNC over SSH). ANU users can use the on-campus Globus endpoint for high-speed data transfer.
 
-**软件许可**：部分商业软件（如CLC Genomics Workbench）需用户自行购买许可并在NCI上安装。开源软件（如BWA、GATK）可直接使用，但需遵守其各自的许可证（如GPL、MIT）。
+**Software licensing**: some commercial software (such as CLC Genomics Workbench) must be licensed by the user and installed on NCI themselves. Open-source software (such as BWA and GATK) can be used directly but must comply with its respective licence (e.g. GPL, MIT).
 
-## 培训与支持资源
+## Training and Support Resources
 
-NCI提供定期培训课程，涵盖Linux基础、PBS作业提交、生物信息学软件使用等主题。ANU学生可通过NCI培训门户（training.nci.org.au）免费注册。2024年课程包括："Introduction to HPC for Bioinformatics"（每月一次）和"Advanced RNA-seq Analysis on Gadi"（每季度一次）。
+NCI offers regular training courses covering topics such as Linux fundamentals, PBS job submission and bioinformatics software usage. ANU students can register free of charge through the NCI training portal (training.nci.org.au). Courses in 2024 include "Introduction to HPC for Bioinformatics" (monthly) and "Advanced RNA-seq Analysis on Gadi" (quarterly).
 
-**ANU内部支持**：生物信息学用户可联系本校的Bioinformatics Core Facility（bioinformatics@anu.edu.au），该团队提供软件安装、工作流优化和数据分析咨询。此外，ANU的Research School of Biology和John Curtin School of Medical Research也设有专门的HPC联络员。
+**Internal ANU support**: bioinformatics users can contact the University's Bioinformatics Core Facility (bioinformatics@anu.edu.au), whose team provides software installation, workflow optimisation and data analysis consulting. In addition, the ANU Research School of Biology and the John Curtin School of Medical Research have dedicated HPC liaison officers.
 
-**在线文档**：NCI用户指南（nci.org.au/user-guide）提供完整的命令参考和故障排除案例。ANU的IT服务台（servicedesk@anu.edu.au）可协助解决账户和网络问题。
+**Online documentation**: the NCI user guide (nci.org.au/user-guide) provides a complete command reference and troubleshooting cases. The ANU IT Service Desk (servicedesk@anu.edu.au) can help with account and network issues.
 
 ## FAQ
 
-### Q1：申请NCI账户需要多长时间？
+### Q1: How long does it take to apply for an NCI account?
+From submission to receiving the activation email usually takes 3-5 business days. If the application materials are incomplete (such as a missing supervisor support letter or identity verification documents), processing can extend to 10 business days. It is recommended to submit your application at least 2 weeks before your project starts.
 
-从提交申请到获得激活邮件通常需要3-5个工作日。如果申请材料不完整（如缺少导师支持信或身份验证文件），处理时间可能延长至10个工作日。建议在项目开始前至少2周提交申请。
+### Q2: What bioinformatics software can I run on Gadi?
+NCI has more than 500 bioinformatics programs pre-installed, including BLAST (version 2.14.0), GATK (version 4.4.0), STAR (version 2.7.10a) and Trinity (version 2.15.1). Users can also install software that is not pre-installed via Conda or Singularity containers, but should be aware of storage quota limits (10 GB home directory, 1 TB scratch directory).
 
-### Q2：Gadi上可以运行哪些生物信息学软件？
+### Q3: How do I check my compute resource usage?
+Use the `nci_account` command to view your current project's CPU core-hours, GPU-hours and storage quota usage. More detailed job history is available via `qstat -u $USER` and `qacct -j JOBID`. NCI also provides a web dashboard (my.nci.org.au) with monthly usage reports.
 
-NCI预装了超过500个生物信息学软件，包括BLAST（版本2.14.0）、GATK（版本4.4.0）、STAR（版本2.7.10a）、Trinity（版本2.15.1）等。用户还可通过Conda或Singularity容器安装未预装的软件，但需注意存储配额限制（home目录10 GB，scratch目录1 TB）。
-
-### Q3：如何查看我的计算资源使用情况？
-
-使用`nci_account`命令可查看当前项目的CPU核时、GPU小时和存储配额使用情况。更详细的作业历史可通过`qstat -u $USER`和`qacct -j JOBID`命令获取。NCI还提供网页版仪表盘（my.nci.org.au），可查看月度使用报告。
-
-## 参考资料
+## References
 
 - NCI 2024, "Gadi System Overview", National Computational Infrastructure
 - NCI 2024, "User Access Policy", National Computational Infrastructure

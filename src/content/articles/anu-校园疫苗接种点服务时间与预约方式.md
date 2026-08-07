@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园疫苗接种点服务时间与预约方式"
-description: "澳大利亚国立大学（ANU）校园内的疫苗接种服务由校内健康中心（ANU Health Centre）及合作药房提供，面向在校学生、教职工及部分社区成员。根据澳大利亚卫生部（Department of Health and Aged Care）2024年发布的《国家免疫计划》（National Immunizatio…"
+slug: anu-校园疫苗接种点服务时间与预约方式
+title: "ANU Campus Vaccination Clinic Hours and Booking Methods"
+description: "Vaccination services on the Australian National University (ANU) campus are provided by the on-campus health centre (ANU Health Centre) and partner pharmacies, serving enrolled students, staff and some community members. According to the *National Immunization Program* (National Immunizatio…) released by the Australian Department of Health and Aged Care in 2024…"
 category: "ANU 校园疫苗接种点服"
 pubDatetime: '2026-03-25T19:52:21Z'
 publishDate: '2026-03-25T19:52:21Z'
@@ -8,76 +9,78 @@ readingTime: 14
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园疫苗接种点服务时间与预约方式-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-澳大利亚国立大学（ANU）校园内的疫苗接种服务由校内健康中心（ANU Health Centre）及合作药房提供，面向在校学生、教职工及部分社区成员。根据澳大利亚卫生部（Department of Health and Aged Care）2024年发布的《国家免疫计划》（National Immunization Program, NIP），ANU健康中心提供包括流感疫苗、COVID-19疫苗以及HPV疫苗在内的多种接种服务。2023年，ANU健康中心共完成超过4,200剂次疫苗接种，其中约68%为学生预约。随着2025年冬季流感季临近，了解校园接种点的服务时间与预约方式，对于保障学生群体免疫覆盖率具有直接现实意义。
+Vaccination services on the Australian National University (ANU) campus are provided by the on-campus health centre (ANU Health Centre) and partner pharmacies, and are open to enrolled students, staff and some community members. Under the *National Immunization Program* (NIP) released by the Australian Department of Health and Aged Care in 2024, the ANU Health Centre offers a range of vaccination services including influenza, COVID-19 and HPV vaccines. In 2023, the ANU Health Centre administered more than 4,200 vaccine doses, of which about 68% were booked by students. With the 2025 winter flu season approaching, knowing the campus vaccination clinics' service hours and booking methods has direct practical relevance for maintaining high immunisation coverage among the student population.
 
-## 主要接种点与服务时间
+## Main Vaccination Clinics and Service Hours
 
-### ANU健康中心（ANU Health Centre）
-ANU健康中心位于校园核心区域（Building 4, 15 Childers Street），是校内最主要的疫苗接种服务提供方。该中心在学期期间（2月至11月）的**服务时间为**周一至周五上午8:30至下午17:00，周六上午9:00至12:00；学期假期（12月至次年1月）缩减为周一至周五上午9:00至16:30，周六暂停服务。根据ANU健康中心2024年发布的年度运营报告，其流感疫苗预约平均等待时间为2.3个工作日，COVID-19加强针预约等待时间为1.8个工作日。
+### ANU Health Centre
+The ANU Health Centre, in the heart of campus (Building 4, 15 Childers Street), is the main vaccination provider on campus. During semester (February to November), its **service hours are** Monday to Friday 8:30 am-5:00 pm and Saturday 9:00 am-12:00 pm; during semester breaks (December to January) hours reduce to Monday to Friday 9:00 am-4:30 pm, with Saturday services suspended. According to the ANU Health Centre's 2024 annual operations report, the average wait for a flu vaccine appointment is 2.3 business days, and 1.8 business days for a COVID-19 booster appointment.
 
-### 校园合作药房（ANU Pharmacy）
-位于校园内Kambri区域的ANU Pharmacy（Shop 5, Kambri Precinct）提供无需预约的**Walk-in接种服务**。该药房营业时间为周一至周五上午8:00至18:00，周六上午9:00至17:00，周日及公共假日休息。药房持有澳大利亚药学会（Pharmaceutical Society of Australia, 2024）认证的接种资格，可提供流感疫苗、COVID-19疫苗及百白破疫苗。Walk-in服务的平均等待时间在非高峰时段（10:00-14:00）约为15-30分钟，高峰时段（17:00-18:00）可能延长至45分钟。
+### ANU Pharmacy (Campus Partner Pharmacy)
+ANU Pharmacy (Shop 5, Kambri Precinct) in the campus Kambri area offers **walk-in vaccination** with no appointment required. The pharmacy is open Monday to Friday 8:00 am-6:00 pm and Saturday 9:00 am-5:00 pm, closed on Sundays and public holidays. The pharmacy holds vaccination accreditation from the Pharmaceutical Society of Australia (2024) and can provide flu, COVID-19 and whooping cough (dTpa) vaccines. Average wait times for walk-ins are about 15-30 minutes in off-peak periods (10:00 am-2:00 pm) and can extend to 45 minutes in peak periods (5:00 pm-6:00 pm).
 
-## 预约方式与流程
+## Booking Methods and Process
 
-### 在线预约系统
-ANU健康中心采用**HotDoc在线预约平台**，学生可通过HotDoc网站或移动应用完成预约。具体步骤为：注册账户并关联ANU学生身份（使用ANU邮箱），选择“Vaccination Appointment”服务类别，选择疫苗类型（流感/COVID-19/HPV等），系统自动显示最近3个工作日的可用时段。根据ANU健康中心2024年用户数据，约78%的预约通过HotDoc完成，剩余22%通过电话或现场登记。HotDoc系统在流感季（4月至6月）会开放额外时段，每日可预约名额从常规的15个增加至30个。
+### Online Booking System
+The ANU Health Centre uses the **HotDoc online booking platform**; students can book through the HotDoc website or mobile app. The steps are: register an account and link your ANU student identity (using your ANU email), select the "Vaccination Appointment" service category, choose the vaccine type (flu/COVID-19/HPV, etc.), and the system automatically shows available slots for the next 3 business days. According to ANU Health Centre 2024 user data, about 78% of appointments are booked through HotDoc, with the remaining 22% booked by phone or in person. During flu season (April to June), HotDoc opens extra slots, raising the daily booking capacity from the usual 15 to 30.
 
-### 电话与现场预约
-对于无法使用在线系统的学生，ANU健康中心提供**电话预约**（+61 2 6125 3598），服务时间为工作日上午9:00至17:00。电话预约的平均处理时间为4.7分钟（ANU健康中心内部统计，2024）。现场预约可在健康中心前台直接登记，但仅适用于非高峰时段（如工作日下午14:00-16:00），且不保证当日接种。ANU Pharmacy的Walk-in服务无需预约，但建议学生在前往前通过药房官网或电话（+61 2 6125 2200）确认当日疫苗库存情况。
+### Phone and Walk-in Booking
+For students who cannot use the online system, the ANU Health Centre offers **phone booking** (+61 2 6125 3598), available on business days from 9:00 am to 5:00 pm. The average phone booking takes 4.7 minutes (ANU Health Centre internal statistics, 2024). Walk-in bookings can be registered at the front desk, but only during off-peak periods (such as business-day afternoons from 2:00 pm to 4:00 pm), and same-day vaccination is not guaranteed. ANU Pharmacy's walk-in service needs no appointment, but students are advised to check the day's vaccine stock on the pharmacy's website or by phone (+61 2 6125 2200) before visiting.
 
-### 紧急与临时接种安排
-在澳大利亚首都领地（ACT）卫生局发布**公共卫生警报**期间（如2023年9月COVID-19变异株爆发期间），ANU健康中心会增设临时接种点。2023年9月至11月，该中心在校园Llewellyn Hall设立了额外接种站，服务时间延长至每周六全天（9:00-17:00），共完成1,847剂次加强针接种。此类临时安排通常通过ANU学生邮箱、校园公告板及ANU App推送通知，提前48小时发布。学生无需额外预约，持学生证即可直接前往。
+### Emergency and Temporary Vaccination Arrangements
+When the ACT Health Directorate issues a **public health alert** (such as during the September 2023 COVID-19 variant outbreak), the ANU Health Centre sets up temporary vaccination points. From September to November 2023, the centre ran an additional vaccination station at Llewellyn Hall on campus, with hours extended to all day Saturday (9:00 am-5:00 pm), administering 1,847 booster doses in total. Such temporary arrangements are typically announced 48 hours in advance via ANU student email, campus noticeboards and ANU App push notifications. No appointment is needed — students can go directly with their student card.
 
-## 疫苗种类与适用人群
+## Vaccine Types and Eligible Groups
 
-### 流感疫苗
-ANU健康中心每年4月至6月提供**季节性流感疫苗**，适用人群为所有年满6个月以上的ANU学生及教职工。根据澳大利亚免疫技术咨询小组（ATAGI, 2024）建议，18-64岁健康成人每年接种一剂标准剂量流感疫苗。ANU健康中心提供的疫苗品牌为Seqirus的Afluria Quad（四价灭活疫苗），单剂价格为25澳元（学生价），持有澳大利亚医保卡（Medicare）的学生可享受国家免疫计划（NIP）全额补贴，即免费接种。2024年流感季，ANU健康中心共接种流感疫苗2,340剂次，其中学生占比71%。
+### Influenza Vaccine
+The ANU Health Centre offers the **seasonal influenza vaccine** every year from April to June, for all ANU students and staff aged 6 months and over. Following the advice of the Australian Technical Advisory Group on Immunisation (ATAGI, 2024), healthy adults aged 18-64 should receive one standard-dose flu vaccine each year. The vaccine provided by the ANU Health Centre is Seqirus's Afluria Quad (quadrivalent inactivated vaccine), priced at A$25 per dose (student price); students holding an Australian Medicare card receive it fully subsidised — i.e. free — under the National Immunization Program (NIP). In the 2024 flu season, the ANU Health Centre administered 2,340 flu doses, 71% of them to students.
 
-### COVID-19疫苗
-ANU健康中心提供**辉瑞（Comirnaty）和莫德纳（Spikevax）**两款mRNA疫苗，适用于所有年满5岁的人群。根据澳大利亚卫生部2024年更新指南，18岁以上人群建议每12个月接种一剂加强针，高风险人群（如免疫缺陷者）可缩短至6个月。疫苗接种记录可通过澳大利亚免疫登记系统（Australian Immunisation Register, AIR）查询，ANU健康中心在接种后48小时内自动上传数据。2024年，该中心共完成COVID-19疫苗接种1,860剂次，其中加强针占62%。
+### COVID-19 Vaccine
+The ANU Health Centre offers two mRNA vaccines — **Pfizer (Comirnaty) and Moderna (Spikevax)** — for everyone aged 5 and over. Under the Australian Department of Health's 2024 updated guidance, adults aged 18 and over are advised to have a booster every 12 months, with high-risk groups (such as immunocompromised individuals) able to shorten the interval to 6 months. Vaccination records can be checked on the Australian Immunisation Register (AIR); the ANU Health Centre uploads data automatically within 48 hours of vaccination. In 2024, the centre administered 1,860 COVID-19 doses, of which boosters accounted for 62%.
 
-### HPV及其他疫苗
-ANU健康中心为18-26岁学生提供**HPV疫苗（Gardasil 9）**，共需接种2-3剂（取决于起始年龄）。根据澳大利亚国家免疫计划（NIP, 2024），26岁以下持有Medicare卡的学生可免费接种（原价每剂约220澳元）。此外，中心还提供百白破疫苗（Boostrix，适用于成人）、甲肝/乙肝联合疫苗（Twinrix）以及旅行相关疫苗（如伤寒疫苗、黄热病疫苗）。旅行疫苗需提前4周预约，因为部分疫苗（如黄热病）需从ACT地区药房调货，处理时间约为7-10个工作日。
+### HPV and Other Vaccines
+The ANU Health Centre provides the **HPV vaccine (Gardasil 9)** for students aged 18-26, which requires 2-3 doses depending on the starting age. Under the Australian National Immunization Program (NIP, 2024), students under 26 with a Medicare card can receive it free of charge (the list price is about A$220 per dose). The centre also offers the whooping cough vaccine (Boostrix, for adults), the combined hepatitis A/B vaccine (Twinrix) and travel-related vaccines (such as typhoid and yellow fever). Travel vaccines need to be booked at least 4 weeks in advance, as some (such as yellow fever) have to be sourced from ACT-area pharmacies, which takes about 7-10 business days.
 
-## 接种前准备与注意事项
+## Preparing for Vaccination and Things to Note
 
-### 所需文件
-接种当日需携带**有效身份证明**（ANU学生证或护照）及澳大利亚医保卡（如适用）。对于国际学生，若未持有Medicare卡，需提供海外学生健康保险（OSHC）信息——部分疫苗（如流感疫苗）可通过OSHC报销，但需先自付费用后向保险公司申请理赔。ANU健康中心建议学生在接种前登录澳大利亚免疫登记系统（AIR）查询个人既往接种记录，以避免重复接种。2024年，约12%的预约因缺少文件而被重新安排。
+### Required Documents
+On the day of vaccination, bring **valid identification** (ANU student card or passport) and your Australian Medicare card (if applicable). International students without a Medicare card should provide their Overseas Student Health Cover (OSHC) details — some vaccines (such as the flu vaccine) can be claimed back through OSHC, but you must pay upfront and then lodge a claim with your insurer. The ANU Health Centre recommends checking your previous vaccination record on the Australian Immunisation Register (AIR) before your appointment to avoid duplicate doses. In 2024, about 12% of appointments were rescheduled because of missing documents.
 
-### 健康评估与禁忌症
-接种前，医护人员会进行简短的**健康筛查**，内容包括询问近期是否发烧、是否对疫苗成分过敏（如鸡蛋蛋白对流感疫苗）、是否处于妊娠期等。根据澳大利亚免疫技术咨询小组（ATAGI, 2024）指南，以下情况需推迟接种：急性发热性疾病（体温≥38.5°C）、既往接种后出现严重过敏反应（如过敏性休克）以及正在接受免疫抑制治疗（需医生评估）。健康筛查通常耗时5-10分钟，若学生有慢性病史（如哮喘、糖尿病），建议提前携带主治医师的书面评估意见。
+### Health Assessment and Contraindications
+Before vaccination, healthcare staff conduct a brief **health screening**, asking whether you have recently had a fever, whether you are allergic to any vaccine components (such as egg protein in the flu vaccine), and whether you are pregnant. Under the Australian Technical Advisory Group on Immunisation (ATAGI, 2024) guidelines, vaccination should be deferred in the following situations: acute febrile illness (temperature of 38.5°C or above), a history of severe allergic reaction to a previous dose (such as anaphylaxis), and ongoing immunosuppressive treatment (requires a doctor's assessment). The screening usually takes 5-10 minutes; students with chronic conditions (such as asthma or diabetes) are advised to bring a written assessment from their treating doctor in advance.
 
-## 费用与支付方式
+## Fees and Payment Methods
 
-### 费用结构
-疫苗接种费用根据疫苗类型和学生身份有所不同。**流感疫苗**：持有Medicare卡的学生免费（NIP补贴），无Medicare卡的学生支付25澳元。**COVID-19疫苗**：所有学生（包括国际学生）免费，由澳大利亚联邦政府全额资助（Australian Government Department of Health, 2024）。**HPV疫苗**：持有Medicare卡的26岁以下学生免费，无Medicare卡者每剂220澳元（共2-3剂）。**旅行疫苗**：价格从50澳元（伤寒疫苗）至180澳元（黄热病疫苗）不等，不享受政府补贴。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%82%B9%E6%9C%8D%E5%8A%A1%E6%97%B6%E9%97%B4%E4%B8%8E%E9%A2%84%E7%BA%A6%E6%96%B9%E5%BC%8F) 等专业通道完成结汇，但疫苗接种费用需在校园内直接支付。
+### Fee Structure
+Vaccination fees vary by vaccine type and student status. **Flu vaccine**: free for students with a Medicare card (NIP-subsidised); A$25 for students without one. **COVID-19 vaccine**: free for all students, including international students, fully funded by the Australian Government (Australian Government Department of Health, 2024). **HPV vaccine**: free for students under 26 with a Medicare card; A$220 per dose for those without (2-3 doses in total). **Travel vaccines**: priced from A$50 (typhoid) to A$180 (yellow fever), with no government subsidy. When paying cross-border tuition fees, some international families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E7%82%B9%E6%9C%8D%E5%8A%A1%E6%97%B6%E9%97%B4%E4%B8%8E%E9%A2%84%E7%BA%A6%E6%96%B9%E5%BC%8F) to complete the currency transfer, but vaccination fees must be paid directly on campus.
 
-### 支付方式
-ANU健康中心接受**多种支付方式**：澳大利亚银行卡（EFTPOS）、信用卡（Visa/Mastercard）、现金及支付宝（Alipay）。ANU Pharmacy同样支持以上支付方式，并额外接受微信支付（WeChat Pay）。对于持有OSHC的国际学生，建议保留付款收据，以便后续向保险公司（如Medibank、Allianz Care）申请报销。2024年，ANU健康中心统计显示，约65%的国际学生使用信用卡支付，25%使用支付宝，其余使用现金或银行卡。
+### Payment Methods
+The ANU Health Centre accepts **a range of payment methods**: Australian bank cards (EFTPOS), credit cards (Visa/Mastercard), cash and Alipay. ANU Pharmacy supports the same methods and additionally accepts WeChat Pay. International students with OSHC are advised to keep their payment receipts so they can claim reimbursement from their insurer (such as Medibank or Allianz Care). In 2024, ANU Health Centre statistics show that about 65% of international students paid by credit card, 25% by Alipay, and the rest by cash or bank card.
 
-## 接种后反应与记录管理
+## Post-vaccination Reactions and Record Management
 
-### 常见反应与处理
-接种后常见的**局部反应**包括注射部位疼痛（发生率约40%）、红肿（约25%）及轻微发热（约10%），通常在24-48小时内自行缓解。根据澳大利亚免疫技术咨询小组（ATAGI, 2024）数据，严重不良反应（如过敏性休克）发生率低于百万分之一。ANU健康中心要求学生在接种后留观15分钟（首次接种）或5分钟（重复接种），以便医护人员及时处理急性反应。若出现持续发热超过48小时或注射部位严重肿胀，建议联系健康中心或前往ACT Health的急诊服务。
+### Common Reactions and Management
+Common **local reactions** after vaccination include pain at the injection site (occurring in about 40% of cases), redness or swelling (about 25%) and mild fever (about 10%), usually resolving on their own within 24-48 hours. According to Australian Technical Advisory Group on Immunisation (ATAGI, 2024) data, severe adverse reactions (such as anaphylaxis) occur in fewer than one in a million doses. The ANU Health Centre requires patients to stay for observation for 15 minutes (first dose) or 5 minutes (repeat doses) so that staff can manage any acute reaction promptly. If a fever lasts more than 48 hours or there is severe swelling at the injection site, contact the Health Centre or visit ACT Health's emergency services.
 
-### 记录查询与补录
-接种记录自动上传至**澳大利亚免疫登记系统（AIR）**，学生可通过MyGov账户或Medicare App查询。对于在海外接种的疫苗（如中国接种的HPV疫苗），ANU健康中心可协助进行“境外疫苗记录补录”，需提供原始接种记录（英文翻译件）及疫苗批次信息。补录处理时间约为5-10个工作日，费用为30澳元（2024年标准）。2024年，共有约140名国际学生申请了境外疫苗记录补录，其中约85%成功录入AIR系统。
+### Record Lookup and Overseas Record Upload
+Vaccination records are automatically uploaded to the **Australian Immunisation Register (AIR)**, and students can check them through their MyGov account or the Medicare App. For vaccines received overseas (such as an HPV vaccine given in China), the ANU Health Centre can assist with "overseas vaccination record upload" — you need to provide the original vaccination record (with an English translation) and the vaccine batch information. Processing takes about 5-10 business days and costs A$30 (2024 rate). In 2024, about 140 international students applied for overseas record upload, of which about 85% were successfully recorded in the AIR system.
 
 ## FAQ
 
-### Q1：国际学生没有Medicare卡，可以在ANU接种流感疫苗吗？
-可以。无Medicare卡的国际学生可在ANU健康中心自费接种流感疫苗，费用为25澳元（2024年价格）。接种后，学生可凭收据向OSHC保险公司（如Medibank、Allianz Care）申请报销，报销比例通常为75%-100%（取决于保险计划）。2023年，ANU国际学生流感疫苗接种率为34%，低于本地学生（62%），主要原因是信息获取不足。
+### Q1: Can international students without a Medicare card get a flu vaccine at ANU?
+Yes. International students without a Medicare card can pay out of pocket for the flu vaccine at the ANU Health Centre, at A$25 (2024 price). After vaccination, students can claim reimbursement from their OSHC insurer (such as Medibank or Allianz Care) using the receipt; the reimbursement rate is usually 75%-100%, depending on the insurance plan. In 2023, the flu vaccination rate among ANU international students was 34%, below the 62% for domestic students, mainly due to a lack of information.
 
-### Q2：ANU校园疫苗接种点周末是否开放？
-ANU健康中心在学期期间周六上午9:00-12:00开放，ANU Pharmacy周六上午9:00-17:00开放。周日及公共假日（如澳大利亚国庆日1月26日、澳新军团日4月25日）所有接种点关闭。2024年，周六接种占总预约量的18%，其中上午10:00-11:00为最繁忙时段。建议学生提前通过HotDoc系统预约周六时段，Walk-in服务在周六上午11:00后可能因名额满员而暂停。
+### Q2: Are the ANU campus vaccination clinics open on weekends?
+The ANU Health Centre is open on Saturdays from 9:00 am to 12:00 pm during semester, and ANU Pharmacy is open on Saturdays from 9:00 am to 5:00 pm. All clinics are closed on Sundays and public holidays (such as Australia Day on 26 January and ANZAC Day on 25 April). In 2024, Saturday appointments accounted for 18% of total bookings, with 10:00 am-11:00 am the busiest slot. It is advisable to book Saturday times in advance through HotDoc; walk-in service may be suspended after 11:00 am on Saturdays once slots are full.
 
-### Q3：接种COVID-19疫苗后多久可以接种流感疫苗？
-根据ATAGI 2024年指南，COVID-19疫苗与流感疫苗可同时接种（不同手臂），或间隔任意时间接种。此前建议的14天间隔已在2022年取消。2024年，ANU健康中心约22%的学生在同一预约中同时接种两种疫苗，未报告不良反应增加。若学生选择分开接种，建议先接种COVID-19疫苗，因为其反应（如发热）可能更明显，间隔2-3天再接种流感疫苗可减少不适叠加。
+### Q3: How long after a COVID-19 vaccine can I get a flu vaccine?
+Under the ATAGI 2024 guidelines, the COVID-19 and flu vaccines can be given at the same time (in different arms) or at any interval apart. The previously recommended 14-day interval was removed in 2022. In 2024, about 22% of ANU Health Centre patients received both vaccines in a single appointment, with no increase in reported adverse reactions. If you prefer to have them separately, it is recommended to get the COVID-19 vaccine first — as its reactions (such as fever) can be more pronounced — and wait 2-3 days before the flu shot to reduce overlapping discomfort.
 
-## 参考资料
+## References
 - Australian Government Department of Health and Aged Care. 2024. *National Immunization Program (NIP) Schedule*.
 - Australian Technical Advisory Group on Immunisation (ATAGI). 2024. *Clinical Guidance on Vaccination Administration*.
 - ANU Health Centre. 2024. *Annual Service Report 2023-2024*.
@@ -93,3 +96,4 @@ ANU健康中心在学期期间周六上午9:00-12:00开放，ANU Pharmacy周六�
 </div>
 <style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
 <!-- AFF-CARD:v1:END -->
+

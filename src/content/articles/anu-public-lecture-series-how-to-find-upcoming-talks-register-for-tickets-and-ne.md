@@ -1,6 +1,7 @@
 ---
+slug: anu-public-lecture-series-how-to-find-upcoming-talks-register-for-tickets-and-ne
 title: "ANU Public Lecture Series: How to Find Upcoming Talks, Register for Tickets, and Network with Visiting Scholars"
-description: "澳洲国立大学（ANU）每年通过其七个学院及二十余个研究中心举办超过 400 场公开讲座（Public Lectures），涵盖从气候变化政策到量子计算前沿的广泛学科。根据 ANU 官方活动日历的数据，2023 年该校公开讲座的现场出席人数累计超过 35,000 人次，线上直播观看量则达到 62,000 次【ANU…"
+description: "The Australian National University (ANU) hosts more than 400 Public Lectures each year across its seven colleges and more than twenty research centres, spanning disciplines from climate change policy to the frontiers of quantum computing. According to data from the ANU official events calendar, in 2023 total in-person attendance at the university's public lectures exceeded 35,000, while online livestream views reached 62,000 [ANU 2023 Annual Report]. For current students, these lectures are not only a free channel to frontier knowledge but also an academic networking entry point for building direct connections with world-leading scholars. This guide systematically covers the full workflow, from finding lecture information and registering for tickets to using lectures effectively to expand your academic network."
 category: "ANU"
 pubDatetime: '2026-04-21T19:57:41Z'
 publishDate: '2026-04-21T19:57:41Z'
@@ -10,119 +11,116 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-public-lecture-series-how-to-find-upcoming-talks-register-for-tickets-and-ne-2026-1880x1253.jpg"
 ---
 
-澳洲国立大学（ANU）每年通过其七个学院及二十余个研究中心举办超过 400 场公开讲座（Public Lectures），涵盖从气候变化政策到量子计算前沿的广泛学科。根据 ANU 官方活动日历的数据，2023 年该校公开讲座的现场出席人数累计超过 35,000 人次，线上直播观看量则达到 62,000 次【ANU 2023 Annual Report】。对于在校学生而言，这些讲座不仅是获取前沿知识的免费渠道，更是与全球顶尖学者建立直接联系的**学术社交网络入口**。本指南系统梳理了从查找讲座信息、注册门票到有效利用讲座机会进行学术人脉拓展的全流程操作路径。
+The Australian National University (ANU) hosts more than 400 Public Lectures each year through its seven colleges and more than twenty research centres, covering a wide range of disciplines from climate change policy to the frontiers of quantum computing. According to data from the ANU official events calendar, in 2023 total in-person attendance at the university's public lectures exceeded 35,000, while online livestream views reached 62,000 [ANU 2023 Annual Report]. For current students, these lectures are not only a free channel to frontier knowledge but also an **academic networking entry point** for building direct connections with the world's leading scholars. This guide systematically walks through the full workflow: finding lecture information, registering for tickets, and using lectures effectively to expand your academic network.
 
-## 查找公开讲座的官方渠道
+## Official Channels for Finding Public Lectures
 
-ANU 的公开讲座信息分散在多个官方平台，掌握正确的检索方法可节省大量时间。以下三个渠道覆盖了从提前规划到即时发现的全场景需求。
+ANU public lecture information is scattered across several official platforms, and knowing the right search methods saves a lot of time. The three channels below cover everything from advance planning to last-minute discovery.
 
-### ANU Events 日历系统
+### The ANU Events Calendar System
 
-ANU Events（events.anu.edu.au）是该校最权威的活动聚合平台。该网站每日更新，提供按**日期、学院、活动类型**（讲座、研讨会、工作坊）筛选的功能。用户可创建个人账户并设置兴趣标签，系统会在新讲座上线时发送邮件提醒。数据显示，约 70% 的公开讲座在活动前 4-6 周即发布在该平台上【ANU Digital Services 2023 User Analytics】。
+ANU Events (events.anu.edu.au) is the university's most authoritative event aggregation platform. Updated daily, it offers filtering by **date, college and event type** (lectures, seminars, workshops). Users can create a personal account, set interest tags, and receive email alerts when new lectures go live. Data shows that about 70% of public lectures are published on the platform 4-6 weeks before the event [ANU Digital Services 2023 User Analytics].
 
-### 各学院与研究中心独立页面
+### Individual College and Research Centre Pages
 
-部分高规格讲座（如 Crawford School 的年度公共政策讲座、RSPhys 的物理学前沿系列）仅在所属学院的独立活动页面发布。建议学生将以下核心单位的活动页面加入浏览器书签：Crawford School of Public Policy、Research School of Physics、School of Philosophy、以及**Australian National Centre for the Public Awareness of Science**。这些页面通常包含讲座摘要、演讲者简历以及后续的论文或视频链接。
+Some high-profile lectures (such as the Crawford School's annual public policy lecture and RSPhys's frontiers of physics series) are published only on the individual pages of the hosting college or centre. Students are advised to bookmark the event pages of these key units: the Crawford School of Public Policy, the Research School of Physics, the School of Philosophy, and the **Australian National Centre for the Public Awareness of Science**. These pages usually include the lecture abstract, the speaker's biography, and links to related papers or videos afterwards.
 
-### 学术邮件列表与社交媒体
+### Academic Mailing Lists and Social Media
 
-ANU 的学术邮件列表（Mailing Lists）是获取独家讲座信息的另一重要途径。学生可通过 ISIS 系统订阅“Events & Seminars”类别的通知。此外，ANU 官方 Twitter/X 账号（@ANUmedia）以及各学院的 LinkedIn 页面会实时推送讲座预告，尤其是针对**突发性学术活动**（如诺贝尔奖得主临时到访）的即时通知。
+ANU's academic Mailing Lists are another important route to exclusive lecture information. Students can subscribe to "Events & Seminars" category notifications through the ISIS system. In addition, the official ANU Twitter/X account (@ANUmedia) and individual colleges' LinkedIn pages push lecture announcements in real time, especially for **spontaneous academic events** such as surprise visits by Nobel laureates.
 
-## 注册门票与入场规则
+## Ticket Registration and Entry Rules
 
-不同讲座的注册要求和入场规则存在显著差异，了解这些细节可避免因错过注册而无法入场的情况。
+Registration requirements and entry rules vary significantly between lectures; understanding these details prevents being turned away at the door for missing registration.
 
-### 免费注册与付费讲座
+### Free Registration and Paid Lectures
 
-约 85% 的 ANU 公开讲座对校内师生免费开放，但绝大多数要求提前通过 Eventbrite 或 TryBooking 平台注册。注册时需提供 ANU 学生邮箱（@anu.edu.au），系统会生成电子门票（PDF 或二维码）。少数由外部机构赞助的讲座（如“ANU Crawford Leadership Forum”）可能收取 20-50 澳元的入场费，但学生常享有 50% 折扣。对于热门讲座（如 2024 年 Malala Yousafzai 的线上对话），门票通常在发布后 48 小时内被领取完毕。
+About 85% of ANU public lectures are free for staff and students, but most require advance registration through Eventbrite or TryBooking. Registration requires an ANU student email (@anu.edu.au), and the system generates an e-ticket (PDF or QR code). A small number of lectures sponsored by external organisations (such as the "ANU Crawford Leadership Forum") may charge an entry fee of AUD 20-50, though students usually get a 50% discount. For popular lectures (such as the 2024 online conversation with Malala Yousafzai), tickets are typically claimed within 48 hours of release.
 
-### 现场签到与候补机制
+### On-Site Check-In and the Waitlist Mechanism
 
-讲座当日，需在入口处出示电子门票或学生证进行签到。ANU 采用**实名制入场**，门票不可转让。若注册后无法出席，建议提前 24 小时在 Eventbrite 上取消注册，以释放名额给候补名单上的学生。未取消注册且未到场的行为，部分学院会记入“缺席记录”，可能影响未来注册优先级。
+On the day, attendees must show their e-ticket or student ID at the entrance to check in. ANU uses **real-name entry**, and tickets are non-transferable. If you register but cannot attend, cancel your registration on Eventbrite at least 24 hours in advance to free up a place for students on the waitlist. Some colleges record no-shows who neither cancelled nor attended in an "absence record", which can affect future registration priority.
 
-### 线上直播与回放
+### Livestreams and Replays
 
-约 60% 的公开讲座提供 Zoom 或 YouTube 同步直播，注册时需勾选“线上参与”选项。直播链接通常在讲座开始前 2 小时通过邮件发送。多数讲座的录制视频会在 7 个工作日内上传至 ANU TV（tv.anu.edu.au）或学院 YouTube 频道，供师生免费回看。
+About 60% of public lectures offer simultaneous livestreaming via Zoom or YouTube; tick the "attend online" option when registering. The livestream link is usually emailed 2 hours before the lecture starts. Recordings of most lectures are uploaded to ANU TV (tv.anu.edu.au) or the college's YouTube channel within 7 business days for staff and students to watch free of charge.
 
-## 讲座前的准备策略
+## Preparation Strategies Before the Lecture
 
-有效的参与始于充分的准备。提前了解演讲者背景和讲座主题，能显著提升信息吸收效率和人脉拓展效果。
+Effective participation starts with thorough preparation. Knowing the speaker's background and the lecture topic in advance significantly improves how much you absorb and how well you network.
 
-### 研究演讲者学术背景
+### Research the Speaker's Academic Background
 
-在讲座前 3-5 天，利用 Google Scholar、ResearchGate 或 ANU Researchers 数据库搜索演讲者的**近期论文和学术项目**。重点关注其近 2 年内发表的 3-5 篇高被引论文，以及其在 LinkedIn 上列出的当前研究兴趣。这有助于在问答环节提出有深度的问题，而非泛泛而谈。
+In the 3-5 days before the lecture, use Google Scholar, ResearchGate or the ANU Researchers database to look up the speaker's **recent papers and research projects**. Focus on 3-5 highly cited papers from the past 2 years and the current research interests listed on their LinkedIn profile. This lets you ask substantive questions in the Q&A rather than speaking in generalities.
 
-### 准备针对性问题
+### Prepare Targeted Questions
 
-基于对演讲者研究的了解，准备 2-3 个具体问题。有效的问题通常具备以下特征：引用演讲者论文中的具体数据或结论；将理论与现实问题（如澳洲本地政策、全球性危机）相联系；或提出跨学科视角的延伸思考。避免提问“你的研究有什么意义”这类过于宽泛的问题。
+Based on your knowledge of the speaker's research, prepare 2-3 specific questions. Effective questions usually share these traits: they cite specific data or conclusions from the speaker's papers; they connect the theory to real-world issues (such as Australian local policy or global crises); or they offer cross-disciplinary extension. Avoid overly broad questions like "What is the significance of your research?"
 
-### 携带学术社交工具
+### Bring Academic Networking Tools
 
-建议携带以下物品：**名片**（可选，但推荐使用 ANU 学生设计的名片模板）、笔记本和笔（用于记录关键观点和后续联系线索）、以及一台已充满电的设备（用于现场查询演讲者信息或记录笔记）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-public-lecture-series-how-to-find-upcoming-talks-register-for-tickets-and-ne) 等专业通道完成结汇，但讲座现场无需此类工具。
+Recommended items to bring: **business cards** (optional, but ANU student-designed card templates are recommended), a notebook and pen (for key points and follow-up contact leads), and a fully charged device (for looking up speaker information on the spot or taking notes). When making cross-border tuition payments, some international student families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-public-lecture-series-how-to-find-upcoming-talks-register-for-tickets-and-ne) to complete the currency transfer, but no such tools are needed at the lecture itself.
 
-## 讲座中的有效参与技巧
+## Effective Participation Techniques During the Lecture
 
-讲座现场是信息获取和人脉积累的关键场景，掌握正确的参与方式至关重要。
+The lecture hall is the key setting for absorbing information and building connections, so getting the participation style right matters.
 
-### 座位选择与笔记方法
+### Seat Selection and Note-Taking Methods
 
-选择**前三排中间区域**的座位，这能确保清晰的视线和更好的提问机会。采用“Cornell Note-Taking System”记录：在页面左侧记录核心论点，右侧记录个人思考与疑问，底部总结 3 个关键行动点。避免逐字记录，重点捕捉演讲者引用的数据来源、未发表的案例以及未来研究方向的暗示。
+Choose a seat in the **centre of the front three rows**, which ensures a clear view and better chances of being called on to ask questions. Use the "Cornell Note-Taking System": record core arguments on the left side of the page, your own thoughts and questions on the right, and summarise 3 key action points at the bottom. Avoid transcribing verbatim; instead capture the data sources the speaker cites, unpublished cases and hints about future research directions.
 
-### 问答环节的时机与话术
+### Timing and Wording in the Q&A Session
 
-问答环节通常安排在讲座最后 15-20 分钟。若想提问，应在主持人宣布开始时立即举手，因为热门讲座的提问名额常被快速抢占。提问时先自报姓名和学院，然后直接引用演讲者的一句话或一个数据作为引子，最后提出自己的问题。例如：“Dr. Smith，您在刚才提到 2023 年 IPCC 报告中关于碳捕获成本下降了 40% 的数据，我的问题是，这一趋势在发展中国家是否具有可复制性？”
+The Q&A session is usually scheduled for the final 15-20 minutes of the lecture. If you want to ask a question, raise your hand as soon as the moderator opens the floor, because question slots at popular lectures are grabbed quickly. When asking, first state your name and college, then quote one sentence or figure from the speaker as a hook, and finally pose your question. For example: "Dr. Smith, you mentioned earlier that the 2023 IPCC report shows the cost of carbon capture fell by 40%. My question is whether this trend is replicable in developing countries."
 
-### 社交茶歇的破冰策略
+### Ice-Breaking Strategies at the Networking Reception
 
-讲座结束后通常设有 30-60 分钟的茶歇或招待会。这是建立联系的黄金窗口。**破冰策略**：先与同排的其他学生或学者交流（降低社交压力），然后自然地转向演讲者。接近演讲者时，先感谢其演讲，然后提及自己准备的问题或研究兴趣。交换联系方式时，建议使用 LinkedIn 的二维码功能，而非纸质名片。
+A 30-60 minute tea break or reception usually follows the lecture. This is the golden window for building connections. **Ice-breaking strategy**: first chat with other students or scholars in your row (lower social pressure), then naturally move toward the speaker. When approaching the speaker, thank them for the talk first, then mention the question you prepared or your research interests. When exchanging contact details, use LinkedIn's QR code feature rather than paper business cards.
 
-## 讲座后的关系维护与跟进
+## Maintaining Relationships and Following Up After the Lecture
 
-讲座结束后 48 小时内的跟进行为，决定了初次接触能否转化为持续的学术关系。
+What you do within 48 hours of the lecture determines whether an initial contact turns into a lasting academic relationship.
 
-### 发送跟进邮件
+### Sending a Follow-Up Email
 
-在讲座结束后 24 小时内，向演讲者发送一封简洁的跟进邮件。邮件结构应包括：感谢对方的演讲、提及一个具体的讨论点（如“您提到的 X 研究让我联想到 Y 领域的应用”）、以及一个开放性的问题或邀请（如“如果您有时间，我很想就这个主题进一步讨论”）。邮件应使用 ANU 学生邮箱发送，主题行建议包含“Follow-up from [讲座名称] - [你的姓名]”。
+Within 24 hours of the lecture, send the speaker a concise follow-up email. The structure should include: thanks for the talk, a mention of one specific discussion point (such as "the X research you mentioned made me think of applications in the Y field"), and an open question or invitation (such as "if you have time, I would love to discuss this topic further"). Send the email from your ANU student email, and use a subject line like "Follow-up from [lecture name] - [your name]".
 
-### 连接 LinkedIn 并互动
+### Connecting on LinkedIn and Engaging
 
-在发送邮件后，通过 LinkedIn 向演讲者发送连接请求。在请求信息中注明“在 ANU 的 [讲座名称] 上听过您的演讲”。连接后，定期对其发布的学术动态进行有深度的评论（而非仅点赞），这有助于维持长期的专业联系。
+After sending the email, send the speaker a LinkedIn connection request. Note in the request that you "heard their talk at ANU's [lecture name]". Once connected, regularly leave thoughtful comments on their academic updates (rather than just liking), which helps sustain a long-term professional relationship.
 
-### 将讲座内容用于学术产出
+### Turning Lecture Content into Academic Output
 
-将讲座中获取的灵感转化为实际学术产出：撰写一篇 500-800 字的讲座反思博客（可投稿至 ANU Student Blog 或学院通讯）；在课程论文或研究提案中引用讲座中提及的未发表数据或方法论；或向演讲者申请获取其演讲的幻灯片或参考文献列表，用于个人研究。
+Convert the inspiration from the lecture into tangible academic output: write a 500-800 word lecture reflection blog post (which can be submitted to the ANU Student Blog or your college newsletter); cite unpublished data or methodology mentioned in the lecture in course papers or research proposals; or ask the speaker for their slides or reference list for your own research.
 
-## 常见问题与注意事项
+## Common Issues and Points to Note
 
-参与公开讲座时需注意一些潜在问题，以确保体验顺畅。
+A few potential issues are worth keeping in mind when attending public lectures to ensure a smooth experience.
 
-### 版权与记录限制
+### Copyright and Recording Restrictions
 
-多数讲座禁止未经授权的录音或录像。若需拍照，应在讲座开始前征得演讲者同意。部分涉及未发表研究成果的讲座，演讲者可能要求**不公开讨论具体数据**，参与者应尊重这一要求。
+Most lectures prohibit unauthorised audio or video recording. If you want to take photos, ask the speaker's permission before the lecture begins. For lectures involving unpublished research, the speaker may ask that **specific data not be discussed publicly**; participants should respect this.
 
-### 语言与文化适应
+### Language and Cultural Adaptation
 
-对于非英语母语的学生，若担心听力理解困难，可提前向活动组织方申请获取演讲摘要或幻灯片。ANU 多元文化事务办公室（Office of Multicultural Affairs）提供免费的学术英语支持服务，包括讲座听力技巧工作坊。
+For non-native English speakers worried about listening comprehension, request the talk abstract or slides from the organisers in advance. The ANU Office of Multicultural Affairs offers free academic English support services, including workshops on lecture listening skills.
 
-### 特殊需求与无障碍设施
+### Special Needs and Accessibility
 
-ANU 承诺所有公开讲座提供无障碍设施。有特殊需求（如轮椅通道、手语翻译、听力辅助设备）的学生，应在注册时通过“Special Requirements”字段提前 7 天告知。ANU Access and Inclusion 团队会在讲座现场提供支持。
+ANU is committed to making all public lectures accessible. Students with special needs (such as wheelchair access, sign language interpretation or hearing assistance devices) should indicate this through the "Special Requirements" field at registration at least 7 days in advance. The ANU Access and Inclusion team provides on-site support at lectures.
 
 ## FAQ
 
-### Q1：参加 ANU 公开讲座需要支付费用吗？
+### Q1: Do I have to pay to attend ANU public lectures?
+About 85% of lectures are free for ANU staff and students, but advance registration through Eventbrite or TryBooking is required. A small number of lectures sponsored by external organisations (such as the annual policy forum) may charge an entry fee of AUD 20-50, with students usually receiving a 50% discount. 2024 data shows the average ticket price across all university public lectures was only AUD 4.2 [ANU Finance 2024 Event Revenue Report].
 
-约 85% 的讲座对 ANU 师生免费开放，但需提前通过 Eventbrite 或 TryBooking 注册。少数由外部机构赞助的讲座（如年度政策论坛）可能收取 20-50 澳元入场费，学生常享有 50% 折扣。2024 年数据显示，全校公开讲座的平均票价仅为 4.2 澳元【ANU Finance 2024 Event Revenue Report】。
+### Q2: How can I be sure to get tickets to popular lectures?
+Tickets for popular lectures (such as those by Nobel laureates) are often claimed within 48 hours of release. Turn on email alerts in the ANU Events system and set the notification frequency to "instant". Also follow the speaker's college social media accounts (such as Twitter/X), since some lectures post "places remaining" warnings on social media 24 hours in advance.
 
-### Q2：如何确保能抢到热门讲座的门票？
+### Q3: How do I build a long-term connection with a speaker after the lecture?
+The most effective way is to send a follow-up email within 24 hours of the lecture, citing specific content and asking a substantive follow-up question, then send a LinkedIn connection request. Data shows that with this two-step approach, the speaker reply rate reaches 62%, compared with only 18% for adding directly on LinkedIn alone [ANU Career Development 2023 Networking Survey].
 
-热门讲座（如诺贝尔奖得主讲座）的门票常在发布后 48 小时内被领取完毕。建议开启 ANU Events 系统的邮件提醒功能，并将通知频率设为“即时”。此外，关注演讲者所在学院的社交媒体账号（如 Twitter/X），部分讲座会提前 24 小时在社交平台发布“剩余名额”预警。
-
-### Q3：讲座后如何与演讲者建立长期联系？
-
-最有效的方式是在讲座结束后 24 小时内发送跟进邮件，引用讲座中的具体内容并提出有深度的后续问题。随后在 LinkedIn 上发送连接请求。数据显示，采用这种两步法的学生，演讲者回复率可达 62%，而仅通过 LinkedIn 直接添加的回复率仅为 18%【ANU Career Development 2023 Networking Survey】。
-
-## 参考资料
+## References
 
 - ANU 2023 Annual Report – Events and Engagement Section
 - ANU Digital Services 2023 User Analytics – Events Platform Usage Data

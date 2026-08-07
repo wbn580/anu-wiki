@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生语言交换伙伴项目报名与匹配机制"
-description: "澳大利亚国立大学（ANU）国际学生语言交换伙伴项目（Language Exchange Partner Program）是该校为促进跨文化交际与语言习得而设立的官方配对机制。该项目由ANU全球项目办公室（ANU Global Programs）与澳国立学生协会（ANUSA）联合运营，每年服务超过1,200名注册参…"
+slug: anu-国际学生语言交换伙伴项目报名与匹配机制
+title: "ANU International Student Language Exchange Partner Program: Sign-up and Matching"
+description: "The Language Exchange Partner Program at the Australian National University (ANU) is the university's official matching mechanism for promoting cross-cultural communication and language acquisition. The program is run jointly by ANU Global Programs and the Australian National University Students' Association (ANUSA), serving more than 1,200 registered participants a year, about 65% of them international students and 35% local Australian students. According to the Australian Department of Education's 2023 International Student Data Summary, ANU took in 10,524 international students from more than 100 countries in the 2022-2023 academic year, and the language exchange program has become a core part of its campus integration strategy. Through a structured sign-up process and an algorithm-based matching system, pairings are completed within a 4-week window at the start of each semester, giving participants at least 1 hour a week of face-to-face or online language practice."
 category: "ANU 国际学生语言交换"
 pubDatetime: '2026-03-18T19:50:47Z'
 publishDate: '2026-03-18T19:50:47Z'
@@ -10,64 +11,67 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生语言交换伙伴项目报名与匹配机制-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）国际学生语言交换伙伴项目（Language Exchange Partner Program）是该校为促进跨文化交际与语言习得而设立的官方配对机制。该项目由ANU全球项目办公室（ANU Global Programs）与澳国立学生协会（ANUSA）联合运营，每年服务超过1,200名注册参与者，其中约65%为国际学生，35%为本地澳大利亚学生。根据澳大利亚教育部2023年《国际学生数据摘要》，ANU在2022-2023学年接收了来自超过100个国家的10,524名国际学生，语言交换项目成为其校园融合策略的核心组成部分。该项目通过结构化报名流程与算法匹配系统，在学期初的4周窗口期内完成配对，旨在为参与者提供每周至少1小时的面对面或线上语言实践机会。
+The Language Exchange Partner Program at the Australian National University (ANU) is the university's official matching mechanism for promoting cross-cultural communication and language acquisition. The program is run jointly by ANU Global Programs and the Australian National University Students' Association (ANUSA), serving more than 1,200 registered participants a year, about 65% of them international students and 35% local Australian students. According to the Australian Department of Education's 2023 International Student Data Summary, ANU took in 10,524 international students from more than 100 countries in the 2022-2023 academic year, and the language exchange program has become a core part of its campus integration strategy. Through a structured sign-up process and an algorithm-based matching system, pairings are completed within a 4-week window at the start of each semester, giving participants at least 1 hour a week of face-to-face or online language practice.
 
-## 项目报名流程与时间节点
+## Sign-up Process and Key Dates
 
-ANU语言交换伙伴项目的报名周期严格遵循学术日历，每学期开放两次，分别在**第一学期（Semester 1）** 和第二学期（Semester 2）开学前两周启动。根据ANU全球项目办公室2024年发布的《语言交换项目指南》，报名窗口持续21天，截止日期通常为学期第三周的星期五。参与者需通过ANU学生门户（ISIS）内的专用模块提交申请，填写语言能力自评表（Common European Framework of Reference for Languages, CEFR级别A1至C2）以及期望学习的语言种类。
+The language exchange program's enrolment cycle follows the academic calendar strictly, opening twice per semester, starting two weeks before **Semester 1** and **Semester 2** respectively. According to the Language Exchange Program Guide published by ANU Global Programs in 2024, the sign-up window stays open for 21 days, with the deadline usually falling on the Friday of the third week of semester. Participants apply through a dedicated module in the ANU student portal (ISIS), completing a language proficiency self-assessment (Common European Framework of Reference for Languages, CEFR levels A1 to C2) and indicating the languages they want to learn.
 
-报名表要求申请人提供**语言学习目标**（如学术写作、日常会话或专业术语）与可用时间偏好（以30分钟为单位，覆盖周一至周五的9:00至18:00）。2023年项目数据显示，中文（普通话）、日语、韩语和西班牙语是国际学生最常申请的目标语言，而本地学生最常提供的母语为英语（占本地申请者的89%）。报名截止后，系统会进行为期7天的数据清洗与冲突检测，剔除信息不完整或重复提交的申请。
+The application form asks for your **language learning goals** (such as academic writing, everyday conversation or professional terminology) and preferred available times (in 30-minute blocks, covering Monday to Friday, 9:00 am to 6:00 pm). 2023 program data shows Mandarin, Japanese, Korean and Spanish were the target languages international students requested most often, while the language local students most commonly offered was English (89% of local applicants). After the sign-up deadline, the system runs a 7-day data cleaning and conflict-detection pass to remove incomplete or duplicate applications.
 
-## 匹配机制与算法逻辑
+## The Matching Mechanism and Algorithm Logic
 
-项目的核心匹配系统基于**多变量加权算法**，由ANU计算机科学学院与全球项目办公室联合开发。该算法在2022年升级为第三代版本，将匹配成功率从原有的62%提升至78%。匹配过程考虑四个主要维度：语言能力互补性（权重40%）、时间可用性重叠（权重30%）、学习目标一致性（权重20%）以及文化背景多样性（权重10%）。
+The program's core matching system is built on a **multivariate weighted algorithm** developed jointly by the ANU College of Engineering and Computer Science and Global Programs. Upgraded to its third generation in 2022, the algorithm lifted the match success rate from 62% to 78%. Matching considers four main dimensions: language proficiency complementarity (weight 40%), availability overlap (weight 30%), learning goal alignment (weight 20%) and cultural background diversity (weight 10%).
 
-系统首先筛选出语言能力呈镜像关系的配对——例如，一位母语为中文且英语水平为B2的国际学生，与一位母语为英语且中文水平为A2的本地学生匹配。随后，算法计算双方每周可用时间段的交集，要求至少存在3个不重叠的30分钟时段。2023年第一学期数据表明，**时间冲突**是导致匹配失败的首要原因，占未成功配对案例的47%。若初始匹配失败，系统会在截止后第10天启动第二轮补录，开放给未配对者重新调整时间偏好。
+The system first filters for pairs whose language abilities mirror each other — for example, an international student whose native language is Chinese with English at B2 is matched with a local student whose native language is English with Chinese at A2. The algorithm then computes the intersection of the two people's weekly availability, requiring at least 3 non-overlapping 30-minute slots. Semester 1 2023 data shows **time conflicts** were the leading cause of failed matches, accounting for 47% of unsuccessful pairings. If the initial match fails, the system runs a second-round top-up on day 10 after the deadline, opening the pool to unmatched participants who can adjust their time preferences.
 
-## 语言能力评估与自评标准
+## Language Proficiency Assessment and Self-Rating Standards
 
-报名表中的语言能力自评采用**CEFR国际标准**，该标准由欧洲理事会制定，被ANU认定为官方语言能力参照框架。参与者需从听、说、读、写四个维度分别打分，系统取平均值作为最终评级。ANU语言中心（ANU Language Centre）提供一份《CEFR自评辅助表》，包含每个级别的具体行为描述，例如B2水平定义为“能够理解复杂文本的具体与抽象主题，并能与母语者流畅交流而不致双方紧张”。
+The language proficiency self-assessment in the application uses the **CEFR international standard**, developed by the Council of Europe and recognised by ANU as the official language proficiency reference framework. Participants score themselves separately on listening, speaking, reading and writing, and the system averages the four scores into a final rating. The ANU Language Centre provides a CEFR Self-Assessment Aid describing the concrete behaviours at each level — B2, for instance, is defined as "can understand the main ideas of complex text on both concrete and abstract topics, and can interact with a degree of fluency and spontaneity with native speakers without strain for either party".
 
-2024年项目报告显示，约31%的国际学生自评为英语B1水平，27%为B2水平，而本地学生自评中文水平时，46%集中在A1至A2区间。为确保自评准确性，项目组在2023年引入了**随机抽样验证机制**：每学期抽取10%的参与者进行15分钟线上口语测试，由ANU语言中心教师评估。若自评与测试结果偏差超过一个CEFR级别，该参与者的档案会被标记，并在下次匹配时降低其权重。
+The 2024 program report shows about 31% of international students self-rated their English at B1 and 27% at B2, while local students' self-ratings of their Chinese clustered heavily in the A1 to A2 range (46%). To keep self-ratings honest, the program introduced a **random sampling verification mechanism** in 2023: each semester 10% of participants are pulled for a 15-minute online oral test assessed by ANU Language Centre teachers. If a self-rating diverges from the test result by more than one CEFR level, the participant's profile is flagged and weighted down in the next round of matching.
 
-## 配对结果通知与确认流程
+## Match Notification and Confirmation
 
-匹配完成后，参与者会在截止后第14天通过ANU学生邮箱收到配对通知。通知邮件包含**伙伴基本信息**（姓名、ANU邮箱、目标语言、CEFR级别）以及一份《语言交换协议模板》，建议双方在首次会面前签署。根据2023年项目数据，配对成功率为78%，其中84%的配对在学期第四周内完成首次会面。
+Once matching is complete, participants receive their pairing notice by ANU student email on day 14 after the deadline. The email includes **basic partner information** (name, ANU email, target language, CEFR level) and a Language Exchange Agreement Template that both parties are encouraged to sign before the first meeting. According to 2023 program data, the match success rate was 78%, and 84% of pairs held their first meeting within the fourth week of semester.
 
-参与者需在收到通知后7天内通过ISIS系统确认配对，否则系统自动取消并释放名额。若一方未确认，另一方会收到**候补通知**，并进入第二轮补录池。2022年第二学期，因一方未确认导致的配对失效占全部配对的12%。确认后，项目组会提供一份《语言交换活动日志》模板，鼓励参与者记录每次会面的主题、时长与学习成果，该日志在学期末可用于申请ANU全球公民奖（Global Citizen Award）的积分。
+Participants must confirm the pairing through ISIS within 7 days of receiving the notice, otherwise the system automatically cancels it and releases the slot. If one side fails to confirm, the other receives a **waitlist notice** and enters the second-round top-up pool. In Semester 2 2022, pairings that lapsed because one party did not confirm accounted for 12% of all matches. After confirmation, the program provides a Language Exchange Activity Log template, encouraging participants to record each meeting's topic, duration and learning outcomes; at the end of semester the log can be used to earn points toward the ANU Global Citizen Award.
 
-## 项目参与要求与资格审核
+## Participation Requirements and Eligibility Checks
 
-参与该项目需满足三项基本条件：申请人必须是**ANU在读学生**（包括本科生、研究生及研究型学生），持有有效学生签证或澳大利亚公民/永久居民身份，且未在同期参与其他ANU官方语言交换项目。根据澳大利亚内政部2023年《学生签证条款》，国际学生参与此类课外活动不影响其签证合规性，但需确保每周活动时间不超过签证规定的40小时工作时限。
+Taking part requires meeting three basic conditions: applicants must be **currently enrolled ANU students** (undergraduate, postgraduate and research students all qualify), hold a valid student visa or Australian citizenship/permanent residency, and not already be in another ANU official language exchange program in the same period. Under the Australian Department of Home Affairs' 2023 Student Visa Conditions, taking part in such extracurricular activities does not affect visa compliance, as long as weekly activity time stays within the 40-hour work limit specified by the visa.
 
-项目组会在报名截止后48小时内进行**资格自动审核**，通过ANU学生信息系统（ISIS）验证学籍状态与签证类型。2023年数据显示，约3%的申请因学籍过期或签证到期被驳回。此外，项目明确禁止参与者以语言交换为名进行商业推广或政治活动，违规者将被永久取消参与资格并上报学生纪律委员会。
+The program runs an **automatic eligibility check** within 48 hours of the sign-up deadline, verifying enrolment status and visa type through the ANU student information system (ISIS). 2023 data shows about 3% of applications were rejected for expired enrolment or visas. The program also explicitly prohibits using the language exchange as a cover for commercial promotion or political activity — violators are permanently removed from the program and reported to the student discipline committee.
 
-## 线上与线下会面模式选择
+## Choosing Between Online and In-Person Meetings
 
-自2021年起，项目提供**三种会面模式**供配对伙伴选择：面对面（On-Campus）、线上（Online）以及混合模式（Hybrid）。面对面会面优先安排在ANU校园内的指定区域，包括汉考克图书馆（Hancock Library）的协作区、凯瑞克礼堂（Kambri Precinct）的公共休息室以及语言中心（Baldwin Spencer Building）的专用教室。这些场地均提供免费Wi-Fi与电源接口，无需提前预订。
+Since 2021 the program has offered **three meeting modes** for matched partners to choose from: face-to-face (on-campus), online, and hybrid. Face-to-face meetings are prioritised for designated areas on the ANU campus, including the collaboration zone at Hancock Library, the common lounge at the Kambri Precinct and dedicated rooms at the Language Centre (Baldwin Spencer Building). All these venues offer free Wi-Fi and power outlets, with no advance booking required.
 
-线上会面则通过ANU授权的**Zoom for Education**平台进行，该平台提供实时字幕与录制功能，便于后续复习。2024年第一学期调查显示，68%的配对选择混合模式，即每周一次面对面会面与一次线上会面。项目组建议每次会面时长控制在60至90分钟，其中前30分钟使用目标语言，后30分钟使用母语，以保持语言输入与输出的平衡。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%AF%AD%E8%A8%80%E4%BA%A4%E6%8D%A2%E4%BC%99%E4%BC%B4%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%90%8D%E4%B8%8E%E5%8C%B9%E9%85%8D%E6%9C%BA%E5%88%B6) 等专业通道完成结汇。
+Online meetings run through ANU's licensed **Zoom for Education** platform, which offers live captions and recording for later review. A Semester 1 2024 survey found 68% of pairs chose the hybrid mode — one face-to-face meeting and one online meeting per week. The program recommends keeping each session to 60-90 minutes, with the first 30 minutes in the target language and the last 30 minutes in the native language, to keep language input and output in balance. For cross-border tuition payments, some families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E8%AF%AD%E8%A8%80%E4%BA%A4%E6%8D%A2%E4%BC%99%E4%BC%B4%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%90%8D%E4%B8%8E%E5%8C%B9%E9%85%8D%E6%9C%BA%E5%88%B6) to convert and remit funds.
 
-## 项目效果评估与参与者反馈
+## Program Evaluation and Participant Feedback
 
-ANU全球项目办公室每学期末对参与者进行匿名问卷调查，评估语言进步、文化理解与社交网络扩展三项指标。2023年年度报告显示，78%的参与者报告其目标语言口语流利度提升了至少一个CEFR子级别（如从B1说提升至B2说），其中**面对面会面频率**与语言进步呈正相关（相关系数r=0.42, p<0.01）。在文化理解维度，85%的参与者表示对伙伴文化有了更深入的认知，尤其是非语言交际习惯（如眼神接触、手势使用）。
+ANU Global Programs surveys participants anonymously at the end of every semester, measuring three indicators: language progress, cultural understanding and social network expansion. The 2023 annual report shows 78% of participants reported their spoken fluency in the target language improving by at least one CEFR sublevel (for example, from B1 speaking to B2 speaking), and **face-to-face meeting frequency** correlated positively with language progress (correlation coefficient r=0.42, p<0.01). On cultural understanding, 85% of participants said they gained a deeper insight into their partner's culture, especially non-verbal communication habits such as eye contact and gestures.
 
-项目也面临挑战：约22%的配对在学期中途因时间冲突或兴趣减退而终止。2022年第二学期，项目组引入了**中期检查机制**，在学期第八周通过邮件发送简短问卷，询问配对是否正常运作。若一方报告问题，项目组会提供调解建议或重新配对选项。2023年数据显示，引入该机制后，中途终止率从22%降至16%。
+The program also faces challenges: about 22% of pairings ended mid-semester because of time conflicts or waning interest. In Semester 2 2022, the program introduced a **mid-term check mechanism**, sending a short questionnaire by email in week 8 to ask whether the pairing is working. If either side reports a problem, the program offers mediation advice or a re-match option. 2023 data shows that after this mechanism was introduced, the mid-term termination rate fell from 22% to 16%.
 
 ## FAQ
 
-### Q1：报名ANU语言交换项目需要付费吗？
-项目完全免费，不收取任何报名费或管理费。参与者仅需承担个人交通或网络费用。2024年项目预算由ANU学生服务与设施费（SSAF）拨款，总额为45,000澳元，覆盖系统维护、场地预订与活动组织成本。
+### Q1: Does it cost anything to join the ANU language exchange program?
 
-### Q2：如果匹配失败，我还能再次申请吗？
-可以。未成功匹配的参与者会自动进入下一学期的优先申请池，在报名窗口开放时获得提前24小时的通知权限。2023年数据显示，首次匹配失败的学生在第二次申请中成功率提升至85%，主要原因是他们能根据系统反馈优化时间偏好设置。
+The program is completely free — no enrolment or administration fees of any kind. Participants only cover their own transport or internet costs. The 2024 program budget of $45,000 was funded from the Student Services and Amenities Fee (SSAF), covering system maintenance, venue bookings and event organisation.
 
-### Q3：语言交换的时间投入要求是多少？
-项目建议每周至少1小时的面对面或线上交流。2023年参与者平均每周投入2.3小时（标准差1.1小时），其中投入超过3小时的学生语言进步评分比低于1小时的学生高出37%。项目不设强制时长上限，但需遵守学生签证每周40小时的工作限制。
+### Q2: If my match fails, can I apply again?
+
+Yes. Participants who are not matched automatically enter a priority application pool for the next semester and receive notice 24 hours before the sign-up window opens. 2023 data shows students whose first match failed had an 85% success rate on their second attempt, mainly because they could optimise their time preferences based on system feedback.
+
+### Q3: How much time do I need to commit to the language exchange?
+
+The program recommends at least 1 hour a week of face-to-face or online exchange. In 2023 participants averaged 2.3 hours a week (standard deviation 1.1 hours), and students who invested more than 3 hours scored 37% higher on language progress than those who invested under 1 hour. There is no enforced maximum, but the student visa's 40-hour weekly work limit still applies.
 
 ## 参考资料
-- 澳大利亚教育部 2023年《国际学生数据摘要》
-- ANU全球项目办公室 2024年《语言交换项目指南》
-- ANU语言中心 2023年《CEFR自评辅助表与年度报告》
-- 澳大利亚内政部 2023年《学生签证条款（第500类）》
-- Unilink Education 2024年《澳大利亚高校语言交换项目数据库》
+- Australian Department of Education, 2023, International Student Data Summary
+- ANU Global Programs, 2024, Language Exchange Program Guide
+- ANU Language Centre, 2023, CEFR Self-Assessment Aid and Annual Report
+- Australian Department of Home Affairs, 2023, Student Visa Conditions (Subclass 500)
+- Unilink Education, 2024, Australian University Language Exchange Program Database

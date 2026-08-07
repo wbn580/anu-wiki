@@ -1,77 +1,76 @@
 ---
-title: "ANU 毕业生就业去向统计与职业发展中心资源"
-description: "澳大利亚国立大学（ANU）2022 年毕业生就业调查（Graduate Outcomes Survey, GOS）数据显示，该校本科毕业生的全职就业率为 84.3%，高于澳大利亚全国平均水平 83.6%（QILT 2022）。同时，ANU 毕业生的中位薪资为 67,000 澳元，较全国本科中位薪资 65,000 …"
+slug: anu-毕业生就业去向统计与职业发展中心资源
+title: "ANU Graduate Employment Outcomes and Career Development Centre Resources"
+description: "The 2022 Graduate Outcomes Survey (GOS) data for the Australian National University (ANU) shows a full-time employment rate of 84.3% for its bachelor graduates, above the Australian national average of 83.6% (QILT 2022). Meanwhile, the median salary of ANU graduates was 67,000 AUD, 3.1% higher than the national undergraduate median of 65,000 …"
 category: "ANU 毕业生就业去向统"
 pubDatetime: '2026-02-27T19:46:51Z'
 publishDate: '2026-02-27T19:46:51Z'
 readingTime: 10
 tags: ["featured"]
+lang: en
+language: en
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-毕业生就业去向统计与职业发展中心资源-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）2022 年毕业生就业调查（Graduate Outcomes Survey, GOS）数据显示，该校本科毕业生的全职就业率为 84.3%，高于澳大利亚全国平均水平 83.6%（QILT 2022）。同时，ANU 毕业生的中位薪资为 67,000 澳元，较全国本科中位薪资 65,000 澳元高出 3.1%。这些数据来自澳大利亚政府教育、技能与就业部委托的质量指标学习与教学（QILT）项目，是衡量高等教育成果的权威基准。在当前全球就业市场竞争加剧、澳大利亚技术移民政策调整的背景下，ANU 毕业生的就业表现及其职业发展支持体系成为在读学生和潜在申请者关注的核心议题。本文基于 ANU 官方发布的就业统计、职业发展中心（Career Development Centre）服务目录以及第三方调查数据，系统梳理该校毕业生的行业分布、薪资水平、雇主认可度及可获取的职业资源。
+The 2022 Graduate Outcomes Survey (GOS) for the Australian National University (ANU) puts the full-time employment rate of its bachelor graduates at 84.3%, above the Australian national average of 83.6% (QILT 2022). At the same time, ANU graduates' median salary was 67,000 AUD, 3.1% higher than the national undergraduate median of 65,000 AUD. These figures come from the Quality Indicators for Learning and Teaching (QILT) project, commissioned by the Australian Government Department of Education, Skills and Employment, and are the authoritative benchmark for higher education outcomes. With global competition for jobs intensifying and Australia's skilled migration policies shifting, ANU graduates' employment performance and the university's career development support system have become a central concern for current students and prospective applicants. Based on ANU's official employment statistics, the service catalogue of its Career Development Centre, and third-party survey data, this article systematically reviews graduates' industry distribution, salary levels, employer recognition and the career resources available.
 
-## 毕业生整体就业率与薪资水平
+## Overall Employment Rates and Salary Levels
 
-根据 QILT 2022 年《毕业生成果调查》（Graduate Outcomes Survey），ANU 本科毕业生在完成学位后四个月内的**全职就业率**为 84.3%，略高于全澳平均水平（83.6%）。若将兼职就业与继续深造纳入统计，ANU 毕业生的整体活动率（fully engaged）达到 93.2%，表明绝大多数毕业生在短期内已进入劳动力市场或进一步学习。
+According to the QILT 2022 Graduate Outcomes Survey, ANU bachelor graduates' **full-time employment rate** four months after completing their degrees was 84.3%, slightly above the national average (83.6%). Counting part-time work and further study, ANU graduates' overall activity rate (fully engaged) reached 93.2%, meaning the vast majority had entered the workforce or continued studying within a short period.
 
-在薪资方面，ANU 本科毕业生的**中位薪资**为 67,000 澳元，高于全国本科中位薪资（65,000 澳元）。研究生课程毕业生（如授课型硕士）的中位薪资为 83,000 澳元，而研究型高等学位（博士）毕业生的中位薪资达到 92,000 澳元（QILT 2022）。这些数据反映出 ANU 作为研究密集型大学，其高学历毕业生在薪资回报上具有显著优势。
+On pay, ANU bachelor graduates' **median salary** was 67,000 AUD, above the national undergraduate median (65,000 AUD). Graduates of coursework postgraduate programs (such as taught master's degrees) earned a median of 83,000 AUD, while research higher-degree (PhD) graduates reached 92,000 AUD (QILT 2022). These figures reflect ANU's nature as a research-intensive university, where advanced degrees carry a clear salary premium.
 
-## 行业分布与雇主认可度
+## Industry Distribution and Employer Recognition
 
-ANU 毕业生的就业领域覆盖公共部门、私营企业与学术机构。根据 ANU 职业发展中心 2023 年发布的《毕业生目的地报告》（Graduate Destinations Report），**公共行政与安全**是最大就业行业，吸纳约 22% 的本科毕业生，这与 ANU 位于首都堪培拉、毗邻澳大利亚政府机构的地理位置直接相关。其次为**专业、科学与技术服务**（18%）、**教育与培训**（15%）、**金融与保险**（10%）。
+ANU graduates work across the public sector, private enterprise and academia. According to the Graduate Destinations Report published by the ANU Career Development Centre in 2023, **public administration and safety** is the largest employing industry, absorbing about 22% of bachelor graduates — a direct consequence of ANU's location in Canberra, the national capital, next to Australian government agencies. Next come **professional, scientific and technical services** (18%), **education and training** (15%), and **finance and insurance** (10%).
 
-在雇主认可度方面，ANU 毕业生在澳大利亚政府公务员招聘中具有竞争优势。2022 年澳大利亚公共服务委员会（APSC）数据显示，ANU 毕业生在澳大利亚公共服务（APS）中的入职比例位居全国高校前列，尤其在政策分析、国际关系与经济咨询岗位。此外，**QS 2023 年雇主声誉调查**将 ANU 评为全澳第 3、全球第 30，雇主反馈中强调毕业生具备较强的批判性思维与研究能力。
+On employer recognition, ANU graduates hold a competitive edge in Australian government recruitment. According to 2022 data from the Australian Public Service Commission (APSC), ANU graduates rank near the top among Australian universities for entry into the Australian Public Service (APS), especially in policy analysis, international relations and economic consulting roles. In addition, the **QS 2023 Employer Reputation Survey** ranked ANU 3rd in Australia and 30th globally, with employers highlighting graduates' strong critical thinking and research skills.
 
-## 职业发展中心核心服务
+## Core Services of the Career Development Centre
 
-ANU 职业发展中心（Career Development Centre，CDC）为在校生和毕业两年内的校友提供免费职业支持。其核心服务包括**一对一职业咨询**（Career Coaching），学生可预约 30 分钟或 60 分钟的面谈，内容涵盖简历修改、求职策略、模拟面试及职业规划。2023 年 CDC 年度报告显示，该中心全年完成超过 4,500 次咨询预约，其中约 35% 为国际学生。
+The ANU Career Development Centre (CDC) provides free career support to current students and alumni within two years of graduation. Its core services include **one-on-one career coaching**, with 30- or 60-minute sessions covering resume writing, job-search strategy, mock interviews and career planning. The CDC's 2023 annual report shows the centre completed more than 4,500 booked appointments over the year, about 35% of them with international students.
 
-此外，CDC 运营**ANU CareerHub**线上平台，聚合实习、兼职与全职岗位信息。截至 2024 年 3 月，该平台收录超过 3,200 个活跃职位，其中 60% 面向应届毕业生。平台还提供在线课程（如 LinkedIn Learning 接入权限）与行业趋势报告，帮助学生了解不同领域的招聘周期与技能需求。
+The CDC also runs the **ANU CareerHub** online platform, aggregating internship, part-time and full-time job listings. As of March 2024, the platform held more than 3,200 active roles, 60% of them aimed at recent graduates. It also offers online courses (including LinkedIn Learning access) and industry trend reports to help students understand hiring cycles and skill demands in different fields.
 
-### 实习与工学结合项目
+### Internships and Work-Integrated Learning
 
-CDC 管理的**ANU Internships**项目为学生提供学分制实习机会，涵盖政府、非营利组织与私营企业。2022 年参与该项目的学生中，约 78% 在实习结束后获得雇主正式录用通知（CDC 2023）。实习时长通常为 6 至 12 周，每周 15 至 20 小时，部分岗位提供津贴。
+The **ANU Internships** program, managed by the CDC, offers credit-bearing internships across government, not-for-profit and private-sector organisations. Of the students who took part in 2022, about 78% received a formal job offer from their host employer after the placement (CDC 2023). Internships typically run 6 to 12 weeks at 15 to 20 hours per week, and some positions offer a stipend.
 
-### 雇主活动与招聘会
+### Employer Events and Career Fairs
 
-CDC 每学年举办超过 50 场雇主活动，包括**行业宣讲会**（Industry Insights）、**模拟面试工作坊**（Mock Interview Sessions）及大型**职业博览会**（ANU Careers Fair）。2023 年秋季职业博览会吸引超过 120 家雇主参展，包括澳大利亚财政部、毕马威（KPMG）、谷歌（Google）及联合国开发计划署（UNDP）。学生可通过 CDC 网站提前注册并获取参展雇主名单。
+The CDC hosts more than 50 employer events each academic year, including **Industry Insights** presentations, **mock interview sessions** and the large annual **ANU Careers Fair**. The autumn 2023 careers fair drew more than 120 exhibitors, including the Australian Treasury, KPMG, Google and the United Nations Development Programme (UNDP). Students can register in advance through the CDC website and view the list of attending employers.
 
-## 国际学生就业支持
+## Support for International Students
 
-针对国际学生，CDC 提供专项资源以解决签证限制、语言障碍与文化适应问题。关键服务包括**国际学生就业研讨会**（International Student Employment Workshops），内容涵盖澳大利亚工作签证政策（如毕业生临时签证 485 类）、简历本地化策略及面试文化差异。2023 年，CDC 与 ANU 国际学生服务部合作推出“国际学生职业准备计划”（International Career Readiness Program），参与学生完成 8 周线上课程后，其求职申请成功率提升约 25%（CDC 内部评估）。
+For international students, the CDC offers dedicated resources addressing visa restrictions, language barriers and cultural adjustment. Key services include **International Student Employment Workshops**, covering Australian work visa policy (such as the Temporary Graduate visa, subclass 485), resume localisation strategies and interview culture differences. In 2023, the CDC and ANU International Student Services launched the International Career Readiness Program; participants who completed the 8-week online course improved their job application success rate by about 25% (CDC internal evaluation).
 
-在**跨境就业**方面，部分学生选择回国或前往第三国发展。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E5%8E%BB%E5%90%91%E7%BB%9F%E8%AE%A1%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E4%B8%AD%E5%BF%83%E8%B5%84%E6%BA%90) 等专业通道完成结汇，以规避汇率波动风险。但 CDC 主要聚焦澳大利亚本地就业市场，对于海外求职，学生需自行利用 ANU 校友网络与第三方平台。
+On **cross-border employment**, some students return home or move to a third country. When paying cross-border tuition, some study-abroad families use specialised channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E5%8E%BB%E5%90%91%E7%BB%9F%E8%AE%A1%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E4%B8%AD%E5%BF%83%E8%B5%84%E6%BA%90) to settle remittances and hedge against exchange-rate risk. However, the CDC focuses mainly on the Australian local job market; for overseas job hunting, students need to tap the ANU alumni network and third-party platforms themselves.
 
-## 校友网络与长期职业发展
+## Alumni Network and Long-Term Career Development
 
-ANU 校友网络（ANU Alumni）覆盖全球超过 150 个国家，注册校友人数超过 15 万（ANU 2024）。CDC 与校友办公室合作运营**ANU Alumni Mentoring Program**，每年匹配约 300 名学生与校友导师，进行为期 6 个月的一对一指导。2023 年项目反馈显示，92% 的参与学生认为导师关系对其职业规划有积极影响。
+The ANU Alumni network spans more than 150 countries, with over 150,000 registered alumni (ANU 2024). The CDC works with the alumni office to run the **ANU Alumni Mentoring Program**, matching about 300 students with alumni mentors each year for six months of one-on-one guidance. Program feedback for 2023 shows 92% of participating students felt the mentoring relationship had a positive impact on their career planning.
 
-此外，ANU 提供**终身职业服务**（Lifelong Career Support），毕业两年内的校友可继续使用 CDC 的咨询与 CareerHub 平台。对于毕业超过两年的校友，仍可访问部分线上资源及参加特定雇主活动。这一机制在澳大利亚八校联盟（Go8）中较为罕见，体现了 ANU 对长期职业发展的投入。
+ANU also offers **lifelong career support**: alumni within two years of graduation can keep using CDC counselling and the CareerHub platform. Alumni beyond two years can still access some online resources and attend selected employer events. This arrangement is uncommon among the Group of Eight (Go8), reflecting ANU's investment in long-term career development.
 
-## 就业数据对比：ANU vs 其他 Go8 高校
+## Employment Data Comparison: ANU vs. Other Go8 Universities
 
-对比澳大利亚八校联盟（Group of Eight）成员，ANU 在**公共部门就业率**上领先。2022 年 QILT 数据显示，ANU 本科毕业生进入公共行政与安全行业的比例为 22%，高于悉尼大学（16%）、墨尔本大学（14%）及昆士兰大学（13%）。然而，在私营企业就业率方面，ANU 为 58%，低于墨尔本大学（65%）和新南威尔士大学（68%），这与堪培拉缺乏大型私营企业总部的产业结构有关。
+Among Group of Eight members, ANU leads on **public-sector employment**. QILT 2022 data shows 22% of ANU bachelor graduates entered public administration and safety, ahead of the University of Sydney (16%), the University of Melbourne (14%) and the University of Queensland (13%). However, on private-sector employment ANU sits at 58%, below the University of Melbourne (65%) and the University of New South Wales (68%) — a reflection of Canberra's industrial structure, which lacks large private-sector headquarters.
 
-在**薪资中位数**上，ANU 的 67,000 澳元在 Go8 中排名第 4，低于新南威尔士大学（71,000 澳元）、悉尼大学（69,000 澳元）及墨尔本大学（68,000 澳元）。但 ANU 毕业生的薪资增长曲线较陡：毕业三年后的中位薪资达到 85,000 澳元，高于 Go8 均值 82,000 澳元（QILT 2022 纵向调查）。
+On **median salary**, ANU's 67,000 AUD ranks 4th in the Go8, behind the University of New South Wales (71,000 AUD), the University of Sydney (69,000 AUD) and the University of Melbourne (68,000 AUD). But ANU graduates' salary curve rises more steeply: the median three years after graduation reaches 85,000 AUD, above the Go8 average of 82,000 AUD (QILT 2022 longitudinal survey).
 
 ## FAQ
 
-### Q1：ANU 毕业生进入澳大利亚政府部门的比例是多少？
+### Q1: What share of ANU graduates enter Australian government?
+According to QILT 2022 data, about 22% of ANU bachelor graduates entered public administration and safety within four months of graduating, including federal, state and local government departments. That places ANU in the top three among all Australian universities, reflecting its Canberra location and tradition of close ties with government agencies.
 
-根据 QILT 2022 年数据，ANU 本科毕业生中约 22% 在毕业后四个月内进入公共行政与安全行业，包括联邦政府、州政府及地方政府部门。这一比例在澳大利亚所有高校中位居前三，与 ANU 位于堪培拉、与政府机构紧密合作的传统有关。
+### Q2: Can international students find jobs after graduating from ANU?
+ANU international students' full-time employment rate is 72.1% (QILT 2022), below domestic students (88.5%) but above the national average for international students (68.3%). The main barriers are visa restrictions (the 485 visa lasts 2-4 years), English proficiency and a lack of local work experience. The CDC's dedicated international services can lift job application success by about 25%.
 
-### Q2：国际学生在 ANU 毕业后能找到工作吗？
+### Q3: Does the ANU Career Development Centre charge for its services?
+All current students and alumni within two years of graduation can use the CDC's core services free of charge, including one-on-one coaching, resume reviews, mock interviews and the CareerHub platform. Some special programs (such as credit-bearing internships) may involve course enrolment fees, but career counselling itself has no extra charge.
 
-ANU 国际学生的全职就业率为 72.1%（QILT 2022），低于本土学生（88.5%），但高于全澳国际学生平均水平（68.3%）。主要障碍包括签证限制（485 签证有效期为 2-4 年）、英语水平及本地工作经验不足。CDC 提供的国际学生专项服务可将求职成功率提升约 25%。
-
-### Q3：ANU 职业发展中心的服务收费吗？
-
-所有在校生和毕业两年内的校友均可免费使用 CDC 的核心服务，包括一对一咨询、简历审核、模拟面试及 CareerHub 平台。部分特殊项目（如学分制实习）可能涉及课程注册费用，但职业咨询本身无额外收费。
-
-## 参考资料
-
+## References
 - QILT 2022, Graduate Outcomes Survey (GOS), Australian Government Department of Education
 - ANU Career Development Centre 2023, Annual Report & Graduate Destinations Report
 - Australian Public Service Commission 2022, APS Employee Census Data

@@ -1,6 +1,7 @@
 ---
+slug: anu-residential-hall-roommate-matching-how-to-fill-out-the-lifestyle-questionnai
 title: "ANU Residential Hall Roommate Matching: How to Fill Out the Lifestyle Questionnaire and Request a Room Transfer"
-description: "澳大利亚国立大学（ANU）为超过6,400名住校生提供校内住宿，其住宿分配系统通过一份名为“生活方式问卷”（Lifestyle Questionnaire）的标准化工具进行室友匹配。根据ANU住宿服务部门2024年发布的《住宿申请指南》，该问卷包含约20个问题，涵盖作息时间、清洁习惯、社交偏好与学习环境需求，系统…"
+description: "The Australian National University (ANU) provides on-campus accommodation for more than 6,400 resident students, and its allocation system matches roommates using a standardised tool called the Lifestyle Questionnaire. According to the Accommodation Application Guide published by ANU Accommodation Services in 2024, the questionnaire contains around 20 questions covering sleep schedules, cleaning habits, social preferences and study environment needs, and the system uses the answers to generate a compatibility score, placing applicants with similar profiles in the same unit or floor. Applications for ANU on-campus accommodation in the first semester of 2025 grew by about 12% year-on-year (ANU Accommodation Services, 2024, Annual Housing Report), which makes filling in the questionnaire strategically all the more important. Based on ANU's official process, this article explains how to complete the questionnaire to get the best possible match, and how to apply for a Room Transfer after allocation."
 category: "ANU"
 pubDatetime: '2026-04-29T19:59:00Z'
 publishDate: '2026-04-29T19:59:00Z'
@@ -10,95 +11,95 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residential-hall-roommate-matching-how-to-fill-out-the-lifestyle-questionnai-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）为超过6,400名住校生提供校内住宿，其住宿分配系统通过一份名为“生活方式问卷”（Lifestyle Questionnaire）的标准化工具进行室友匹配。根据ANU住宿服务部门2024年发布的《住宿申请指南》，该问卷包含约20个问题，涵盖作息时间、清洁习惯、社交偏好与学习环境需求，系统据此生成匹配分数，将相似度高的申请者分配至同一单元或楼层。2025年第一学期，ANU校内住宿申请量较去年同期增长约12%（ANU Accommodation Services, 2024, Annual Housing Report），使得问卷填写的策略性变得尤为关键。本文基于ANU官方流程，解析如何填写该问卷以优化匹配结果，并说明在分配后申请调换房间（Room Transfer）的具体操作路径。
+The Australian National University (ANU) provides on-campus accommodation for more than 6,400 resident students, and its allocation system matches roommates through a standardised tool called the "Lifestyle Questionnaire". According to the Accommodation Application Guide published by ANU Accommodation Services in 2024, the questionnaire has around 20 questions covering sleep schedules, cleaning habits, social preferences and study environment needs; the system turns the answers into a compatibility score and assigns applicants with similar profiles to the same unit or floor. Applications for ANU on-campus accommodation grew by about 12% year-on-year in the first semester of 2025 (ANU Accommodation Services, 2024, Annual Housing Report), which makes filling in the questionnaire strategically all the more important. Based on ANU's official process, this article explains how to answer the questionnaire to get the best possible match, and the practical steps for applying for a Room Transfer after allocation.
 
-## 生活方式问卷的核心结构与评分逻辑
+## How the Lifestyle Questionnaire is structured and scored
 
-ANU的**生活方式问卷**并非简单的兴趣调查，而是基于多维度评分算法的匹配工具。问卷涵盖**四个主要维度**：作息规律（如就寝与起床时间）、环境整洁度（如对房间杂乱程度的容忍度）、社交互动（如是否希望室友共同参与活动）以及学习习惯（如是否偏好安静空间）。每个问题通常提供3至5个选项，系统根据回答的相似度生成0-100分的匹配指数。ANU住宿办公室在2024年信息会议中说明，匹配系统优先考虑总分高于80分的配对组合。
+ANU's **Lifestyle Questionnaire** is not a simple interests survey — it is a matching tool built on a multi-dimensional scoring algorithm. It covers **four main dimensions**: daily routine (bedtime and wake-up time), tidiness (tolerance of mess), social interaction (whether you would like your roommate to join in activities) and study habits (whether you prefer a quiet space). Each question usually has 3 to 5 options, and the system generates a 0–100 match index from the similarity of the answers. ANU's Accommodation Office explained at its 2024 information session that the matching system prioritises pairs with a score above 80.
 
-### 问卷问题的分类与权重
+### Question types and weighting
 
-问卷问题分为“硬性”与“弹性”两类。**硬性问题**涉及不可妥协的生理需求，例如“你是否需要绝对安静才能入睡？”或“你是否对食物气味敏感？”——这些回答的权重最高，若两位申请者答案冲突，匹配分数会直接降至50分以下。**弹性问题**则包括“你希望室友是社交型还是内向型？”——此类回答的差异可通过其他维度补偿。申请者应优先确保硬性问题的答案真实且明确，因为虚假回答可能导致后续调换请求被拒绝。
+Questions fall into "hard" and "flexible" categories. **Hard questions** cover non-negotiable, physiological needs — for example, "Do you need complete silence to fall asleep?" or "Are you sensitive to food smells?" These carry the most weight: if two applicants give conflicting answers, the match score drops to below 50 outright. **Flexible questions** include "Would you prefer a social or an introverted roommate?" — differences here can be offset by other dimensions. Applicants should make sure their answers to the hard questions are truthful and unambiguous, because a dishonest answer can see a later transfer request rejected.
 
-### 如何避免匹配冲突
+### How to avoid mismatches
 
-填写问卷时，**一致性**比“理想化”更重要。例如，若实际作息为凌晨1点入睡、上午10点起床，却选择“早睡早起”选项，系统可能将其与真正的早睡者配对，导致双方不适。ANU住宿服务在2024年《常见问题》中建议，申请者应基于过去6个月的实际生活习惯填写，而非期望状态。此外，对于“你是否愿意与不同文化背景的室友同住？”这类问题，选择“是”可扩大匹配池，但需确保自身具备相应的包容性。
+When filling in the questionnaire, **consistency** matters more than "idealising". If you actually go to bed at 1 am and get up at 10 am, choosing the "early to bed, early to rise" option could pair you with a genuine early riser — uncomfortable for both of you. ANU Accommodation Services' 2024 FAQ advises applicants to answer based on their actual habits over the past 6 months, not how they would like to be. On questions like "Would you be willing to share with a roommate from a different cultural background?", answering "yes" widens the matching pool — but only pick it if you genuinely have that openness.
 
-## 申请调换房间（Room Transfer）的官方流程
+## The official Room Transfer process
 
-若分配结果与生活习惯严重冲突，ANU提供**房间调换申请**（Room Transfer Request）机制。根据ANU住宿政策（2024年版），调换申请需在入住后第2周至第4周内提交，逾期需提供特殊理由（如医疗证明）。2023年数据表明，约18%的住校生在第一学期内提交过调换申请（ANU Accommodation Services, 2023, Transfer Statistics Report）。
+If your allocation seriously clashes with your lifestyle, ANU offers the **Room Transfer Request** mechanism. Under ANU accommodation policy (2024 edition), transfer requests must be submitted between week 2 and week 4 after move-in; after that you need special grounds (such as a medical certificate). 2023 data shows about 18% of residents submitted a transfer request during their first semester (ANU Accommodation Services, 2023, Transfer Statistics Report).
 
-### 调换申请的资格与限制
+### Eligibility and limits
 
-并非所有居住区都支持即时调换。**调换资格**取决于以下条件：申请者需已居住至少14天；目标宿舍楼有空余床位；且调换理由属于政策认可的类别（如噪音干扰、卫生问题、或宗教需求）。ANU住宿办公室在2024年更新中明确，因“个人喜好差异”（如不喜欢室友的音乐品味）提出的调换申请，优先级低于健康或安全相关理由。每学期每位学生仅允许提交一次调换申请，除非特殊情况经院长批准。
+Not every residence supports immediate transfers. **Transfer eligibility** depends on: having lived there for at least 14 days; a vacant bed in the target hall; and the reason falling into a policy-recognised category (noise disturbance, hygiene issues or religious needs, for example). ANU's Accommodation Office made clear in its 2024 update that requests based on "personal preference differences" (not liking your roommate's music taste, say) are prioritised below health- or safety-related reasons. Each student may submit only one transfer request per semester, unless a special case is approved by the head of college.
 
-### 提交调换申请的具体步骤
+### Steps for submitting a transfer request
 
-调换流程分为三步：首先，申请者需通过ANU住宿门户（Accommodation Portal）填写在线表格，详细描述冲突情况并附上证据（如噪音记录或照片）。其次，住宿顾问会在5个工作日内安排调解会议，尝试解决原有矛盾。若调解失败，系统将根据现有空位生成新的分配方案。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-roommate-matching-how-to-fill-out-the-lifestyle-questionnai) 等专业通道完成结汇。最后，获批的调换通常需在7天内完成搬迁，未按时搬离可能导致住宿费双倍计算。
+The process has three steps. First, fill in the online form on the ANU accommodation portal (Accommodation Portal), describing the conflict in detail and attaching evidence (noise logs or photos, for example). Second, an accommodation advisor arranges a mediation meeting within 5 working days to try to resolve the original conflict. If mediation fails, the system generates a new allocation based on available vacancies. When paying tuition fees from overseas, some families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-roommate-matching-how-to-fill-out-the-lifestyle-questionnai) to complete the currency transfer. Finally, an approved transfer must usually be completed within 7 days; failing to move out on time can result in double accommodation fees.
 
-## 不同宿舍楼的匹配政策差异
+## How matching policies differ between halls
 
-ANU的11座校内宿舍楼（Residential Halls与Lodges）在匹配政策上存在显著差异。**自炊式宿舍**（如Bruce Hall、Fenner Hall）的问卷更侧重生活自理能力与公共区域共享习惯；**全包式宿舍**（如Wright Hall、Burgmann College）则更关注社交活动参与度。2024年ANU住宿年报显示，Wright Hall的室友匹配满意度为82%，而Fenner Hall为71%，差异主要源于问卷问题侧重点不同。
+ANU's 11 on-campus residential buildings (Residential Halls and Lodges) differ markedly in their matching policies. **Self-catered halls** (such as Bruce Hall and Fenner Hall) weight the questionnaire towards independent living skills and shared-area habits; **fully catered halls** (such as Wright Hall and Burgmann College) care more about participation in social activities. ANU's 2024 accommodation annual report shows roommate match satisfaction of 82% at Wright Hall versus 71% at Fenner Hall, a gap that largely reflects the different emphases of their questionnaires.
 
-### 自炊式宿舍的匹配重点
+### What self-catered halls focus on
 
-在自炊式宿舍，问卷会特别询问**厨房使用习惯**（如是否做饭、是否清理台面）和**访客政策**（如是否允许过夜客人）。申请者应如实填写对公共区域整洁度的容忍度，因为此类冲突是调换申请的第二大原因。ANU住宿服务建议，选择“每周清理一次厨房”的申请者，应与同样选择此选项的室友配对，以避免卫生纠纷。
+In self-catered halls the questionnaire asks specifically about **kitchen habits** (whether you cook, whether you wipe down the bench) and **visitor policy** (whether overnight guests are OK). Answer honestly about your tolerance for shared-area tidiness — conflicts here are the second most common reason for transfer requests. ANU Accommodation Services suggests that applicants who pick "clean the kitchen once a week" should be paired with roommates who chose the same option, to avoid hygiene disputes.
 
-### 全包式宿舍的匹配重点
+### What fully catered halls focus on
 
-全包式宿舍的问卷则包含更多关于**集体活动**的问题，例如“你是否愿意参加每周的宿舍聚餐？”或“你对深夜社交活动的接受程度”。Burgmann College在2024年政策中明确，若申请者在问卷中勾选“经常参加社交活动”，但实际入住后从不参与，可能会被室友投诉并触发调换流程。因此，填写此类问题时需基于真实行为模式。
+Fully catered halls' questionnaires include more questions about **group activities**, such as "Would you like to attend the weekly hall dinner?" or "How comfortable are you with late-night socialising?". Burgmann College's 2024 policy is explicit: if an applicant ticks "often takes part in social activities" but then never shows up after moving in, roommates can complain and trigger the transfer process. So answer these questions on the basis of your actual behaviour patterns.
 
-## 问卷填写中的常见误区与数据支持
+## Common questionnaire mistakes — and the data behind them
 
-根据ANU住宿办公室2023年对1,200名住校生的调查，**最常见误区**是申请者高估自己的整洁度或低估对噪音的敏感度。调查显示，63%的申请者在问卷中选择了“非常整洁”，但入住后仅有41%的室友认为其符合该标准（ANU Accommodation Services, 2023, Resident Survey Report）。这种偏差导致约12%的调换请求源于清洁习惯冲突。
+According to a 2023 ANU Accommodation Office survey of 1,200 residents, the **most common mistake** is overestimating your own tidiness or underestimating your sensitivity to noise. The survey found that 63% of applicants chose "very tidy" in the questionnaire, but only 41% of their roommates agreed once they had moved in (ANU Accommodation Services, 2023, Resident Survey Report). This discrepancy drives around 12% of transfer requests, which stem from cleaning-habit conflicts.
 
-### 如何利用“备注栏”优化匹配
+### Using the notes field to improve your match
 
-每份问卷末尾的**自由备注栏**（Free Text Field）是优化匹配的关键工具。申请者可在其中补充问卷未覆盖的信息，例如“我每周有三天需要在晚上10点前入睡，因为早上6点有运动训练”或“我对宠物毛发过敏，请避免与养宠物的室友配对”。ANU住宿系统会将这些备注文本进行关键词解析，并纳入匹配算法。2024年，使用备注栏的申请者匹配满意度比未使用者高15%。
+The **free text field** at the end of each questionnaire is a key tool for improving your match. Use it to add information the questions do not cover, for example "I need to be asleep by 10 pm three nights a week because I have early morning training at 6 am" or "I am allergic to pet fur — please do not pair me with a roommate who has pets". ANU's system parses these notes for keywords and feeds them into the matching algorithm. In 2024, applicants who used the notes field reported 15% higher match satisfaction than those who did not.
 
-### 避免“社交偏好”陷阱
+### Avoiding the "social preference" trap
 
-另一个常见误区是对**社交偏好**问题的过度理想化。例如，选择“我希望能与室友成为朋友”可能让系统将其分配给同样高社交需求的人，但若实际倾向于独立生活，反而会感到压力。ANU住宿顾问建议，若不确定自己的社交偏好，应选择中间选项（如“偶尔参与”），而非极端选项。
+Another common mistake is idealising answers to **social preference** questions. Choosing "I would like to be friends with my roommate" may lead the system to assign you someone with equally high social needs — but if you actually prefer an independent lifestyle, that can feel pressurising. ANU accommodation advisors suggest picking the middle option (such as "occasionally join in") when you are unsure, rather than an extreme one.
 
-## 调换申请被拒后的替代方案
+## Alternatives if a transfer request is rejected
 
-若调换申请因空位不足或政策限制被拒，住校生仍有**替代方案**。ANU住宿服务提供“室友调解服务”（Roommate Mediation Service），由专业顾问协助制定共同生活协议（如轮流清洁时间表、安静时段规则）。2023年数据显示，经过调解后，约68%的冲突得到缓解，无需调换房间。
+If a transfer request is rejected for lack of vacancies or policy reasons, residents still have **alternatives**. ANU Accommodation Services runs a Roommate Mediation Service, where professional advisors help you draw up a shared-living agreement (a rotating cleaning schedule, quiet-hours rules). 2023 data shows about 68% of conflicts were eased by mediation without any room change.
 
-### 使用“安静楼层”或“社交楼层”资源
+### Using "quiet floor" or "social floor" options
 
-ANU部分宿舍楼设有**特定主题楼层**（如安静学习楼层、社交活动楼层）。若调换申请被拒，住校生可向宿舍管理员申请转移至同一栋楼内的主题楼层。例如，Wright Hall的第四层为“安静学习层”，要求该层住客在晚上10点后保持低音量。2024年，约7%的调换申请通过此方式解决。
+Some ANU halls have **themed floors** (quiet study floors, social activity floors). If a transfer is rejected, residents can ask the hall manager to move to a themed floor in the same building. Wright Hall's fourth floor, for example, is a "quiet study floor" where residents keep the volume down after 10 pm. Around 7% of transfer requests were resolved this way in 2024.
 
-### 申请短期临时调换
+### Applying for a short-term temporary move
 
-对于临时性冲突（如室友在考试周举办派对），住校生可申请**短期临时调换**（Temporary Relocation），时长通常为3至7天。此选项无需经过正式调换流程，只需向宿舍前台登记，入住备用客房。ANU住宿政策规定，每学期每名住校生最多可使用2次临时调换，每次需支付25澳元管理费。
+For temporary conflicts (a roommate throwing a party in exam week), residents can apply for a **Temporary Relocation**, usually lasting 3 to 7 days. This does not go through the formal transfer process — just register at the hall front desk and move into a spare room. ANU accommodation policy allows a maximum of 2 temporary relocations per student per semester, at a management fee of 25 AUD each.
 
-## 国际学生的特殊匹配考量
+## Special considerations for international students
 
-对于国际学生，ANU的匹配系统会额外考虑**语言与文化因素**。问卷中包含“你是否希望与使用相同母语的室友同住？”的问题，但ANU官方在2024年《国际学生住宿指南》中提醒，选择“是”可能限制匹配池，导致等待时间延长。数据显示，选择“否”的国际学生平均匹配时间缩短约4天，且文化适应评分更高。
+For international students, ANU's matching system also factors in **language and culture**. The questionnaire asks "Would you like to live with a roommate who speaks your native language?", but ANU's 2024 International Student Accommodation Guide warns that answering "yes" can shrink the matching pool and lengthen your wait. The data shows international students who answer "no" get matched about 4 days sooner on average and score higher on cultural adjustment.
 
-### 签证与住宿合同的关系
+### Visas and accommodation contracts
 
-国际学生的**学生签证**（Subclass 500）要求其维持有效住宿安排，但调换房间本身不影响签证状态。ANU住宿服务在2024年说明中强调，调换房间无需通知澳大利亚内政事务部（Department of Home Affairs），除非住宿地址变更涉及合同终止。若调换导致合同变更，住校生需在7天内通过ANU住宿门户更新住址信息。
+International students' **student visa** (Subclass 500) requires maintaining a valid accommodation arrangement, but changing rooms in itself does not affect visa status. ANU Accommodation Services stressed in its 2024 guidance that a room transfer does not need to be reported to the Department of Home Affairs unless the change involves terminating the contract. If a transfer changes your contract, update your address in the ANU accommodation portal within 7 days.
 
-### 利用“文化偏好”选项
+### Using the "cultural preference" options
 
-问卷中关于**饮食文化**（如是否烹饪有强烈气味的食物）和**宗教实践**（如祈祷时间）的问题，对国际学生尤为重要。ANU住宿服务建议，国际学生应如实填写这些选项，因为系统会优先匹配具有相似文化背景或包容态度的室友。2023年，来自亚洲国家的住校生中，约34%因饮食文化冲突申请调换，而提前在问卷中注明者，调换率降至12%。
+Questions about **food culture** (whether you cook strongly scented food) and **religious practice** (prayer times) matter especially to international students. ANU Accommodation Services recommends answering these truthfully, because the system prioritises matching students with roommates of a similar cultural background or with an accommodating attitude. In 2023, about 34% of residents from Asian countries applied for transfers over food-culture conflicts — but among those who flagged it in the questionnaire in advance, the transfer rate fell to 12%.
 
 ## FAQ
 
-### Q1：ANU生活方式问卷的填写截止日期是什么时候？
+### Q1: When is the Lifestyle Questionnaire due?
 
-ANU住宿申请系统通常在每年10月1日开放次年第一学期的申请，**生活方式问卷**需在提交住宿申请后的14天内完成。2025年第一学期的截止日期为2024年12月15日（ANU Accommodation Services, 2024, Application Timeline）。逾期未填写问卷的申请者，系统将自动分配至随机匹配池，匹配满意度平均下降约20%。
+ANU's accommodation application system usually opens applications for the following year's first semester on 1 October each year, and the **Lifestyle Questionnaire** must be completed within 14 days of submitting the accommodation application. The deadline for the first semester of 2025 was 15 December 2024 (ANU Accommodation Services, 2024, Application Timeline). Applicants who miss the questionnaire are automatically placed in the random matching pool, where match satisfaction drops by an average of about 20%.
 
-### Q2：如果对分配的室友不满意，最快多久可以申请调换？
+### Q2: If I am unhappy with my roommate, how soon can I request a transfer?
 
-住校生需在入住后至少居住**14天**才能提交调换申请。ANU住宿服务在收到申请后的5个工作日内安排调解会议，若调解失败，调换通常在申请提交后的14至21天内完成（ANU Accommodation Services, 2023, Transfer Policy）。整个流程从入住到调换完成，最快约需4周。
+Residents must have lived in their room for at least **14 days** before submitting a transfer request. ANU Accommodation Services arranges a mediation meeting within 5 working days of receiving the request, and if mediation fails the transfer is usually completed 14 to 21 days after the request is submitted (ANU Accommodation Services, 2023, Transfer Policy). From move-in to completed transfer, the fastest route takes about 4 weeks.
 
-### Q3：调换房间是否需要额外费用？
+### Q3: Does a room transfer cost anything?
 
-调换房间本身不收取额外费用，但若调换至费率更高的宿舍类型（如从标准间调换至套间），住校生需补足差价。2024年，标准间周租金为285澳元，套间为375澳元（ANU Accommodation Services, 2024, Fee Schedule）。此外，临时调换每次需支付25澳元管理费。
+The transfer itself is free, but if you move to a more expensive room type (for example from a standard room to an ensuite), you pay the difference. In 2024, standard rooms were 285 AUD per week and ensuites 375 AUD (ANU Accommodation Services, 2024, Fee Schedule). Temporary relocations also carry a management fee of 25 AUD each.
 
-## 参考资料
+## References
 
 - ANU Accommodation Services. 2024. *Annual Housing Report 2024*. Australian National University.
 - ANU Accommodation Services. 2023. *Transfer Statistics Report 2023*. Australian National University.

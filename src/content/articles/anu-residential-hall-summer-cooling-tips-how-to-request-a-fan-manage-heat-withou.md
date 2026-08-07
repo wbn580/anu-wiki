@@ -1,6 +1,7 @@
 ---
+slug: anu-residential-hall-summer-cooling-tips-how-to-request-a-fan-manage-heat-withou
 title: "ANU Residential Hall Summer Cooling Tips: How to Request a Fan, Manage Heat Without Air Conditioning, and Stay Hydrated"
-description: "澳洲国立大学（ANU）主校区所在的堪培拉在夏季（12月至2月）平均最高气温可达28.6°C，极端高温日（超过35°C）在2023-2024年夏季出现了14次【澳大利亚气象局（BOM），2024，年度气候报告】。然而，ANU 大部分本科生宿舍（如 Bruce Hall、Ursula Hall、Burgmann Co…"
+description: "Canberra, home to the Australian National University (ANU) main campus, sees average summer (December to February) maximum temperatures of 28.6°C, with extreme heat days (above 35°C) occurring 14 times over the 2023–2024 summer [Bureau of Meteorology (BOM), 2024, Annual Climate Report]. However, most of ANU's undergraduate residences (such as Bruce Hall, Ursula Hall, Burgmann Co…"
 category: "ANU"
 pubDatetime: '2026-05-22T20:03:35Z'
 publishDate: '2026-05-22T20:03:35Z'
@@ -10,120 +11,110 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residential-hall-summer-cooling-tips-how-to-request-a-fan-manage-heat-withou-2026-1880x1253.jpg"
 ---
 
-澳洲国立大学（ANU）主校区所在的堪培拉在夏季（12月至2月）平均最高气温可达28.6°C，极端高温日（超过35°C）在2023-2024年夏季出现了14次【澳大利亚气象局（BOM），2024，年度气候报告】。然而，ANU 大部分本科生宿舍（如 Bruce Hall、Ursula Hall、Burgmann College）及研究生宿舍（如 Davey Lodge、Graduate House）并未安装中央空调，仅配备基础供暖设备。这使得在校生在热浪期间面临室内温度管理、睡眠质量下降及脱水风险等实际问题。本文基于 ANU 住宿服务官方指南、ACT 地区健康建议及学生社区经验，系统梳理了宿舍内申请风扇的流程、无空调环境下的物理降温策略，以及确保每日水分摄入的实操方法，帮助学生在不依赖空调的条件下安全度过堪培拉的夏季热浪。
+Canberra, home to the Australian National University (ANU) main campus, sees average summer (December to February) maximum temperatures of 28.6°C, with extreme heat days (above 35°C) occurring 14 times over the 2023–2024 summer [Bureau of Meteorology (BOM), 2024, Annual Climate Report]. Yet most of ANU's undergraduate residences (such as Bruce Hall, Ursula Hall, Burgmann College) and postgraduate halls (such as Davey Lodge, Graduate House) have no central air conditioning — only basic heating. That leaves students wrestling with very real problems during heatwaves: keeping room temperatures down, watching sleep quality slide, and staying properly hydrated. Drawing on ANU Accommodation Services' official guidance, ACT health advice and the collective experience of the student community, this guide walks through how to request a fan in your hall, passive cooling strategies for air-conditioner-free rooms, and practical ways to hit your daily fluid targets, so you can ride out Canberra's summer heatwaves safely without relying on air conditioning.
 
-## 宿舍风扇申请流程与设备类型
+## How to Request a Fan and What Types Are Available
 
-### ANU 住宿服务官方风扇供应政策
+### ANU Accommodation Services' Official Fan Policy
 
-ANU 住宿服务（ANU Accommodation Services）在每年11月至次年2月的夏季期间，会向所有校内住宿楼栋提供 **标准落地风扇** 和 **塔式风扇** 的免费借用服务。根据2024-2025年夏季的官方通知，每位住客可凭学生证在所在宿舍的前台（Reception）登记借用一台风扇，借用周期为7天，可续借一次（总计14天）。风扇库存每栋楼约为30至50台，先到先得，通常在12月初即被领完。
+ANU Accommodation Services runs a free loan service for **standard pedestal fans** and **tower fans** across all on-campus residential buildings during summer, from November through February. Under the official notice for summer 2024–2025, each resident can register at their hall's reception desk with their student card to borrow one fan on a 7-day loan, renewable once (14 days in total). Each building holds a stock of roughly 30 to 50 fans on a first-come, first-served basis, and they are typically all claimed by early December.
 
-### 申请步骤与替代方案
+### How to Apply, and Alternatives
 
-若前台风扇已借罄，学生可通过 **ANU 住宿维护系统**（Archibus）提交“夏季降温设备请求”工单。该工单需注明房间号及具体需求（如“夜间睡眠使用”），ANU 设施管理团队会在一个工作日内响应，提供备用风扇或安排临时通风评估。此外，部分学院（如 ANU College of Health and Medicine）的研究生宿舍可申请 **个人小型桌面风扇**，但需提前14天通过学院行政办公室审批。
+If reception has run out of fans, students can raise a "summer cooling equipment request" work order through the **ANU Accommodation Maintenance System** (Archibus). The work order needs your room number and specific need (for example, "for sleeping at night"), and ANU's Facilities Management team will respond within one business day with a spare fan or a temporary ventilation assessment. In addition, some colleges (such as the ANU College of Health and Medicine) let postgraduate residents apply for a **small personal desktop fan**, but you need approval from the college's administrative office at least 14 days in advance.
 
-### 风扇使用安全规范
+### Fan Safety Rules
 
-ANU 住宿规定明确禁止在宿舍内使用 **非认证电热设备**（如电热毯、电暖气），但对风扇无功率限制，仅要求设备具备 **澳大利亚标准（AS/NZS 60335）认证标签**。学生自购风扇时需确认产品贴有该标签，否则可能被宿舍管理员（RA）要求移除。风扇应放置在距窗帘、床单等织物至少50厘米的位置，避免因气流堵塞导致电机过热。
+ANU residential regulations explicitly ban **non-certified electric heating devices** (such as electric blankets and electric heaters) in rooms, but impose no power limit on fans — the only requirement is that the device carries an **Australian Standard (AS/NZS 60335) certification label**. If you buy your own fan, check it has this label, or the residential advisor (RA) may ask you to remove it. Fans should sit at least 50 cm away from fabrics such as curtains and bedding, so blocked airflow can't overheat the motor.
 
-## 无空调环境下的被动降温策略
+## Passive Cooling Strategies Without Air Conditioning
 
-### 建筑朝向与窗户管理
+### Building Orientation and Window Management
 
-堪培拉夏季日照时间长达14.5小时（日出约5:30，日落约20:00），宿舍房间的 **窗户朝向** 直接影响室内温度。ANU 宿舍多为东西朝向设计，西向房间在下午14:00至18:00时段室内温度可比东向房间高出4-6°C。建议学生在热浪期间（ACT 政府定义的“极端高温日”，即连续3天超过35°C）于上午9:00前关闭所有窗户并拉上 **遮光窗帘**（ANU 宿舍标配为卷帘式遮光帘），待室外温度低于室内温度（通常为晚上20:00后）再开窗通风。
+Canberra's summer days run up to 14.5 hours of daylight (sunrise around 5:30 am, sunset around 8:00 pm), and a room's **window orientation** directly shapes its indoor temperature. Most ANU halls are oriented east–west, and west-facing rooms can run 4–6°C hotter than east-facing ones between 2:00 pm and 6:00 pm. During heatwaves — what the ACT Government defines as "extreme heat days", i.e. three consecutive days above 35°C — the advice is to close all windows and draw the **blackout curtains** (the standard roller blackout blinds fitted in ANU halls) before 9:00 am, then open up again once the outdoor temperature drops below the indoor temperature (usually after 8:00 pm).
 
-### 交叉通风与风扇摆放
+### Cross-Ventilation and Fan Placement
 
-在无空调条件下，**交叉通风** 是最有效的被动降温手段。学生可将风扇放置在房间一侧的窗户前，朝向房间内部吹风，同时打开另一侧的窗户或门，形成空气对流通道。ANU 住宿服务建议在风扇后方放置一盆冰水（约2升容量），可使出风温度降低3-5°C，该技巧在2023年《澳大利亚建筑环境期刊》发表的研究中被验证有效【澳大利亚建筑环境期刊，2023，第45卷，第112-118页】。
+Without air conditioning, **cross-ventilation** is the most effective passive cooling method. Place a fan in front of a window on one side of the room, blowing inward, while opening a window or door on the opposite side to create an airflow channel. ANU Accommodation Services recommends setting a bowl of ice water (about 2 litres) behind the fan, which can drop the outgoing air temperature by 3–5°C — a technique validated in a study published in the Australian Journal of the Built Environment in 2023 [Australian Journal of the Built Environment, 2023, Vol. 45, pp. 112–118].
 
-### 夜间降温与睡眠优化
+### Night-Time Cooling and Better Sleep
 
-堪培拉夏季夜间温度通常降至16-20°C，但宿舍房间因白天蓄热可能持续维持在26°C以上。建议在睡前1小时使用 **湿毛巾覆盖身体**（前额、颈部、手腕内侧），利用蒸发吸热原理降低核心温度。ANU 健康服务中心（ANU Health Service）在2024年夏季指南中推荐在床单上喷洒 **含薄荷醇的喷雾**（如药店可购的“Cooling Mist”），其挥发过程可额外带走约0.5°C的体感温度。
+Canberra summer nights usually drop to 16–20°C, but hall rooms can stay above 26°C because of heat stored during the day. About an hour before bed, try covering yourself with a **damp towel** (forehead, neck, inner wrists) — the evaporation draws heat out and lowers your core temperature. ANU Health Service's 2024 summer guide also recommends spraying **menthol mist** (such as the "Cooling Mist" sold at pharmacies) over your sheets; as it evaporates it can shave about 0.5°C off your perceived temperature.
 
-## 水分摄入管理与脱水预防
+## Managing Fluid Intake and Preventing Dehydration
 
-### 每日最低饮水量的计算标准
+### Your Daily Minimum Water Intake
 
-根据澳大利亚国家健康与医学研究委员会（NHMRC）2023年发布的《澳大利亚膳食指南》，成年男性每日需摄入2.6升（约10杯）水分，女性需摄入2.1升（约8杯），其中约20%可通过食物获取。在堪培拉夏季高温日，由于空气湿度低（平均相对湿度约40%），通过呼吸和皮肤流失的水分量比沿海城市（如悉尼）高出约15%。因此，ANU 健康服务中心建议学生在高温日将饮水量提升至 **男性3.0升、女性2.5升**。
+According to the Australian Dietary Guidelines published by the National Health and Medical Research Council (NHMRC) in 2023, adult men need about 2.6 litres (roughly 10 cups) of fluid a day and women about 2.1 litres (roughly 8 cups), with about 20% of that coming from food. On hot Canberra summer days, low humidity (average relative humidity around 40%) means you lose about 15% more fluid through breathing and skin than you would in a coastal city such as Sydney. ANU Health Service therefore recommends raising daily intake on hot days to **3.0 litres for men and 2.5 litres for women**.
 
-### 宿舍内取水与储存方案
+### Getting and Storing Water in Your Hall
 
-ANU 宿舍每层楼通常配备1至2个 **公共饮水机**（Chilled Water Dispenser），但部分老旧楼栋（如 Bruce Hall 主楼）仅有常温水源。学生可使用 **1.5升容量的 BPA-free 水瓶**（ANU 商店有售，约8澳元）提前装满并放入宿舍冰箱（每间宿舍标配小型冰箱，容量约40升）。若冰箱空间不足，可向宿舍前台申请 **冷藏箱**（Esky），每栋楼提供5至10个免费借用，容量为10升。
+Most ANU halls have 1 to 2 **chilled water dispensers** per floor, though some older buildings (such as Bruce Hall's main block) only have room-temperature water. You can fill a **1.5-litre BPA-free bottle** (sold at ANU shops for about A$8) in advance and keep it in your room's fridge (every room comes with a small fridge of about 40 litres). If fridge space is tight, ask reception about borrowing an **esky** — each building has 5 to 10 free units of 10-litre capacity.
 
-### 电解质补充与热痉挛预防
+### Electrolyte Top-Ups and Preventing Heat Cramps
 
-仅补充纯水可能导致低钠血症（水中毒），尤其是在大量出汗后。ANU 运动科学系在2024年夏季研究简报中指出，堪培拉夏季户外活动（如步行至校区）每小时汗液流失的钠含量约为1.2克【ANU 运动科学系，2024，夏季热应激研究报告】。建议学生每饮用1升水后，补充 **含电解质的口服补液盐**（ORS），可在 ANU 药房（ANU Pharmacy）购买，每包0.5澳元，溶解于500毫升水中饮用。若出现肌肉痉挛、头晕或恶心症状，应立即前往 ANU 健康服务中心（开放时间：周一至周五8:30-17:00）或拨打 ACT 健康热线（1800 022 222）。
+Drinking plain water alone can cause hyponatraemia (water intoxication), especially after heavy sweating. ANU's sports science department noted in its 2024 summer research brief that outdoor activity in Canberra summers (such as walking to campus) loses about 1.2 grams of sodium per hour through sweat [ANU Sports Science Department, 2024, Summer Heat Stress Research Report]. The advice is to top up with **electrolyte-containing oral rehydration salts (ORS)** after every litre of water — ANU Pharmacy sells sachets at A$0.50 each, dissolved in 500 ml of water. If you develop muscle cramps, dizziness or nausea, head straight to ANU Health Service (open Monday to Friday 8:30 am–5:00 pm) or call the ACT Health line (1800 022 222).
 
-## 宿舍内热源控制与设备使用
+## Controlling Indoor Heat Sources and Appliance Use
 
-### 减少内部热负荷的物理措施
+### Physical Steps to Cut Internal Heat Load
 
-宿舍内 **电子设备** 是主要内部热源。一台运行中的笔记本电脑（功耗约60瓦）每小时可向房间释放约0.2兆焦的热量，相当于将室内温度提升0.3°C（基于10平方米标准宿舍计算）。建议在高温时段使用 **外接键盘** 并将笔记本垫高（如使用散热架），以降低机身温度。同时，关闭不使用的台灯、充电器及显示器，仅保留必需设备。
+**Electronics** are the main internal heat source in a hall room. A running laptop (around 60 W draw) releases roughly 0.2 MJ of heat into the room per hour, equivalent to raising the indoor temperature by 0.3°C (based on a standard 10-square-metre room). During hot spells, use an **external keyboard** and prop the laptop up (for example on a cooling stand) to keep the machine itself cooler. Also switch off lamps, chargers and monitors you're not using — keep only what you need.
 
-### 厨房与烹饪热管理
+### Kitchen and Cooking Heat Management
 
-ANU 宿舍多为 **共享厨房**（每层1个），配备电炉、微波炉和烤箱。在高温日（超过35°C），建议避免使用烤箱和电炉（热输出分别为1500瓦和2000瓦），改用 **微波炉**（热输出约700瓦）或 **电磁炉**（部分楼栋配备，热输出约1200瓦）进行加热。ANU 住宿服务在2024年夏季通知中明确建议学生在12:00至16:00时段使用 **冷餐**（如三明治、沙拉、水果），以减少厨房热负荷对整层楼的影响。
+Most ANU halls have **shared kitchens** (one per floor) fitted with electric stoves, microwaves and ovens. On hot days (above 35°C), skip the oven and the electric stove (heat output 1500 W and 2000 W respectively) in favour of the **microwave** (about 700 W) or an **induction cooktop** (fitted in some buildings, about 1200 W). ANU Accommodation Services' 2024 summer notice explicitly suggests **cold meals** (sandwiches, salads, fruit) between 12:00 pm and 4:00 pm, to keep the kitchen's heat load from radiating through the whole floor.
 
-### 冰箱与制冷设备维护
+### Fridge and Cooling-Appliance Upkeep
 
-宿舍冰箱的 **冷凝器** 位于背面或底部，若被灰尘覆盖，制冷效率可下降30%以上。建议每两周清理一次冰箱背面灰尘（使用吸尘器或湿布），并确保冰箱与墙壁之间留有至少10厘米的散热空间。冰箱温度应设置在 **4°C**（冷藏室）和 **-18°C**（冷冻室），过高或过低都会增加耗电和热量排放。
+The **condenser** on a hall fridge sits at the back or underneath; if it gets covered in dust, cooling efficiency can drop by more than 30%. Clean the dust off the back of the fridge every two weeks (vacuum or damp cloth) and leave at least 10 cm of clearance between the fridge and the wall for heat to escape. Set the fridge to **4°C** (fridge compartment) and **-18°C** (freezer) — anything higher or lower wastes power and pumps out more heat.
 
-## 夏季健康风险与应急响应
+## Summer Health Risks and Emergency Response
 
-### 中暑分级与识别
+### Heat Illness: The Three Stages
 
-根据 ACT 健康局2024年发布的《极端高温健康指南》，中暑分为三级：**热痉挛**（肌肉疼痛、出汗正常）、**热衰竭**（头晕、恶心、皮肤湿冷、心率加快）和 **热射病**（体温超过40°C、意识模糊、皮肤干燥无汗）。热射病为医疗急症，需立即拨打000急救电话。ANU 校园内设有 **自动体外除颤器（AED）** 共12台，分布在各宿舍楼入口及图书馆，但热射病需优先进行物理降温（如冰敷颈部、腋下、腹股沟）而非仅依赖AED。
+Per the ACT Health Directorate's 2024 Extreme Heat Health Guide, heat illness comes in three stages: **heat cramps** (muscle pain, normal sweating), **heat exhaustion** (dizziness, nausea, clammy skin, rapid heart rate) and **heat stroke** (core temperature above 40°C, confusion, hot dry skin with no sweating). Heat stroke is a medical emergency — call 000 immediately. ANU's campus has **12 automated external defibrillators (AEDs)** at hall entrances and in the library, but for heat stroke the priority is physical cooling (ice packs on the neck, armpits and groin) rather than relying on an AED.
 
-### 宿舍应急联系网络
+### Your Hall's Emergency Contact Network
 
-每栋 ANU 宿舍楼均配备 **夜间值班员**（Night Duty Officer，NDO），工作时间为22:00至次日7:00，可通过宿舍内线电话（每个房间标配）或手机拨打 **ANU Security**（02 6125 2249）联系。在非工作时间，若出现中暑症状，NDO 可提供冰袋、电解质饮料并协助呼叫救护车。ANU 住宿服务在2024年夏季培训中要求所有 NDO 接受基础热应激处理培训，覆盖率达到100%。
+Every ANU hall has a **Night Duty Officer (NDO)** on duty from 10:00 pm to 7:00 am, reachable via the in-room phone (standard in every room) or by calling **ANU Security** (02 6125 2249). Outside those hours, if you show heat-illness symptoms, the NDO can supply ice packs and electrolyte drinks and help arrange an ambulance. ANU Accommodation Services' 2024 summer training requires all NDOs to complete basic heat-stress response training, with 100% coverage.
 
-### 保险与医疗费用覆盖
+### Insurance and Medical Cost Coverage
 
-国际学生持有的 **Overseas Student Health Cover（OSHC）**（如 Allianz Care Australia 或 Medibank）覆盖因中暑导致的急诊就诊和住院费用，但需自行承担约50澳元的门诊费（Gap Fee）。ANU 健康服务中心对在校学生提供 **免费基础咨询**（包括热应激评估），但需提前预约。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-summer-cooling-tips-how-to-request-a-fan-manage-heat-withou) 等专业通道完成结汇，以规避汇率波动风险。
+International students' **Overseas Student Health Cover (OSHC)** (such as Allianz Care Australia or Medibank) covers emergency department visits and hospital stays for heat stroke, but you'll be out of pocket for roughly A$50 as a gap fee. ANU Health Service offers **free basic consultations** to enrolled students (including heat-stress assessments), though you need to book ahead. When paying cross-border tuition, some families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-residential-hall-summer-cooling-tips-how-to-request-a-fan-manage-heat-withou) to complete the remittance and hedge against exchange-rate swings.
 
-## 长期适应与宿舍选择建议
+## Long-Term Adaptation and Choosing a Hall
 
-### 堪培拉气候模式与宿舍匹配
+### Canberra's Climate and Matching It to Your Hall
 
-堪培拉属于 **海洋性气候（Cfb）**，夏季干燥且昼夜温差大（平均日较差12°C）。选择宿舍时，优先考虑 **北向或东向房间**（避免西晒），以及 **高层房间**（3层以上，因热空气上升，顶层温度通常比低层高2-3°C）。ANU 新建宿舍楼（如 Wright Hall、Fenner Hall）配备 **可开启式双层玻璃窗**，隔热性能优于老楼（如 Bruce Hall 的单层窗），夏季室内温度可低3-5°C。
+Canberra has an **oceanic climate (Cfb)**: dry summers with big day–night swings (average diurnal range of 12°C). When picking a hall, prioritise **north- or east-facing rooms** (to avoid the afternoon sun) and **rooms on higher floors** (above level 3 — heat rises, so top floors usually run 2–3°C warmer than lower ones). ANU's newer halls (such as Wright Hall, Fenner Hall) have **openable double-glazed windows** that insulate far better than the single glazing in older buildings (such as Bruce Hall), keeping summer indoor temperatures 3–5°C cooler.
 
-### 个人降温设备投资回报分析
+### Is a Personal Cooling Device Worth It?
 
-对于长期居住（超过1年）的学生，购买 **个人便携式空调**（如 Evapolar 或 Arctic Air 系列，价格约100-200澳元）可显著提升舒适度。此类设备采用 **蒸发冷却** 原理，适用于堪培拉低湿度环境（相对湿度低于50%时效率最高），耗电量仅为传统空调的10%（约30瓦）。但需注意，部分宿舍（如 Davey Lodge）禁止使用 **蒸发式冷却器**（Evaporative Cooler），因其可能增加室内湿度导致霉菌问题，购买前需查阅所在宿舍的《住户手册》。
+For students staying longer than a year, a **personal portable air cooler** (such as the Evapolar or Arctic Air range, about A$100–200) can noticeably improve comfort. These units use **evaporative cooling**, which suits Canberra's dry climate (most efficient when relative humidity is below 50%) and draw only about 10% of the power of a traditional air conditioner (around 30 W). One caveat: some halls (such as Davey Lodge) ban **evaporative coolers** because the added indoor humidity can cause mould — check your hall's resident handbook before buying.
 
-### 夏季学期选课与时间安排
+### Summer Session Course and Timetable Planning
 
-ANU 夏季学期（Summer Session）课程通常在11月至2月进行，建议将 **户外实验课**（如环境科学、地质学课程）安排在上午8:00至12:00，避开14:00至16:00的峰值高温时段。ANU 课程时间表系统（MyTimetable）允许学生在选课阶段调整时间，但需在课程开始前2周完成修改。
+ANU Summer Session courses usually run from November to February. Where possible, schedule **outdoor practical classes** (such as environmental science or geology courses) for 8:00 am to 12:00 pm, avoiding the peak heat of 2:00 pm to 4:00 pm. ANU's MyTimetable system lets you adjust your timetable during enrolment, but changes must be made at least 2 weeks before the course starts.
 
 ## FAQ
 
-### Q1：ANU 宿舍夏天真的没有空调吗？所有宿舍都没有吗？
+### Q1: Is It True ANU Halls Have No Air Conditioning in Summer? None at All?
 
-是的，ANU 绝大多数校内宿舍（包括 Bruce Hall、Ursula Hall、Burgmann College、Johns Hopkins House 等）未安装中央空调，仅配备供暖系统。唯一例外的是 **ANU 研究生公寓（Graduate House）** 的部分翻新房间（2023年后改造）安装了分体式空调，但仅占该楼栋房间总数的15%。其余宿舍夏季仅能依靠风扇和自然通风降温。
+Yes. The vast majority of ANU's on-campus halls (including Bruce Hall, Ursula Hall, Burgmann College, Johns Hopkins House and others) have no central air conditioning — heating only. The one exception is **ANU Graduate House**, where some renovated rooms (refurbished after 2023) have split-system air conditioning, but these account for only 15% of rooms in the building. Everyone else relies on fans and natural ventilation in summer.
 
-### Q2：在 ANU 宿舍里，我可以自己买空调装上吗？
+### Q2: Can I Buy and Install My Own Air Conditioner in My ANU Hall Room?
 
-不可以。ANU 住宿规定明确禁止住客自行安装 **窗式空调** 或 **分体式空调**，原因是宿舍建筑多为历史保护建筑（如 Bruce Hall 建于1960年代），外墙无法承受额外负荷。违反规定可能导致罚款（最高500澳元）或取消住宿合同。唯一允许的自购降温设备是 **符合 AS/NZS 60335 认证的落地风扇或桌面风扇**。
+No. ANU residential rules explicitly prohibit residents from installing **window air conditioners** or **split-system units** themselves. Many of the halls are heritage buildings (Bruce Hall, for example, dates from the 1960s) and their external walls can't take the extra load. Breaching the rules can mean fines (up to A$500) or loss of your accommodation contract. The only self-purchased cooling devices allowed are **pedestal or desktop fans certified to AS/NZS 60335**.
 
-### Q3：夏天在 ANU 宿舍如何保证睡眠质量？有没有具体方法？
+### Q3: How Can I Sleep Well in an ANU Hall in Summer? Any Concrete Tips?
 
-建议采取以下三步：第一，在睡前1小时使用 **湿毛巾冷敷** 前额和颈部，持续10分钟；第二，将风扇放置在距离床1.5米处，朝向身体吹风，并在风扇前放置一盆冰水（2升），可降低出风温度3-5°C；第三，更换 **纯棉或亚麻床单**（聚酯纤维床单吸热率高40%）。根据 ANU 健康服务中心2024年调查，采用上述方法的学生中，82%报告睡眠质量得到改善。
+Try these three steps. First, an hour before bed, apply a **cool damp towel** to your forehead and neck for 10 minutes. Second, place the fan 1.5 m from the bed blowing towards you, with a bowl of ice water (2 litres) in front of it — this can cut the output air temperature by 3–5°C. Third, switch to **cotton or linen sheets** (polyester bedding absorbs 40% more heat). In an ANU Health Service survey from 2024, 82% of students who used these methods reported better sleep.
 
-## 参考资料
+## References
 
-- 澳大利亚气象局（BOM），2024，年度气候报告（2023-2024夏季）
-- 澳大利亚国家健康与医学研究委员会（NHMRC），2023，《澳大利亚膳食指南》
-- ACT 健康局，2024，《极端高温健康指南》
-- ANU 住宿服务，2024，夏季住宿通知与安全手册
-- UNILINK Education，2024，澳洲国立大学住宿数据库（内部调研）
-
-<!-- AFF-CARD:v1:START -->
-<div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-residential-hall-summer-cooling-tips-how-to-request-a-fan-manage-heat-withou" target="_blank"
-     rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"
-     data-affiliate-card="oshc-au" aria-label="Compare Australian OSHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OSHC plans</span><span class="cc-aff-card__note">The student-visa health cover required for subclass 500 — compare major insurers side by side.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
-  <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
-</div>
-<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
-<!-- AFF-CARD:v1:END -->
+- Bureau of Meteorology (BOM) 2024, Annual Climate Report (2023–2024 summer)
+- National Health and Medical Research Council (NHMRC) 2023, Australian Dietary Guidelines
+- ACT Health Directorate 2024, Extreme Heat Health Guide
+- ANU Accommodation Services 2024, Summer Accommodation Notice and Safety Handbook
+- UNILINK Education 2024, ANU Accommodation Database (internal research)

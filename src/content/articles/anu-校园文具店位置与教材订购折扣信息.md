@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园文具店位置与教材订购折扣信息"
-description: "澳大利亚国立大学（ANU）主校区Acton共有7处官方文具与教材零售点，其中**ANU Co-op Bookshop**是唯一获得校方授权的教材零售商，覆盖超过95%的课程指定书目。根据澳大利亚出版商协会2023年统计数据，澳大利亚大学生每学期平均教材支出为662澳元【Australian Publishers …"
+slug: anu-校园文具店位置与教材订购折扣信息
+title: "ANU Campus Stationery Stores and Textbook Ordering Discounts"
+description: "The Australian National University (ANU) main Acton campus has 7 official stationery and textbook retail outlets, of which **ANU Co-op Bookshop** is the only university-authorised textbook retailer, covering more than 95% of prescribed course readings. According to 2023 statistics from the Australian Publishers Association, Australian university students spend an average of A$662 per semester on textbooks [Australian Publishers …"
 category: "ANU 校园文具店位置与"
 pubDatetime: '2026-03-27T19:52:42Z'
 publishDate: '2026-03-27T19:52:42Z'
@@ -8,100 +9,99 @@ readingTime: 12
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园文具店位置与教材订购折扣信息-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-澳大利亚国立大学（ANU）主校区Acton共有7处官方文具与教材零售点，其中**ANU Co-op Bookshop**是唯一获得校方授权的教材零售商，覆盖超过95%的课程指定书目。根据澳大利亚出版商协会2023年统计数据，澳大利亚大学生每学期平均教材支出为662澳元【Australian Publishers Association, 2023, *Student Textbook Spending Report*】。与此同时，ANU学生可通过校方与供应商的协议，在特定时段获得**教材价格10%至25%的折扣**，这一折扣机制在2024年第一学期覆盖了约1,800门课程的教材订单【ANU, 2024, *Semester 1 Booklist Data*】。对于每年约2.6万名在校生而言，掌握文具店位置与教材订购策略，可直接降低学期初的财务压力。
+The Australian National University (ANU) main Acton campus has 7 official stationery and textbook retail outlets, of which **ANU Co-op Bookshop** is the only university-authorised textbook retailer, covering more than 95% of prescribed course readings. According to 2023 statistics from the Australian Publishers Association, Australian university students spend an average of A$662 per semester on textbooks [Australian Publishers Association, 2023, *Student Textbook Spending Report*]. At the same time, through agreements between the university and its suppliers, ANU students can get **discounts of 10% to 25% on textbook prices** during specific windows — a mechanism that covered textbook orders for about 1,800 courses in Semester 1, 2024 [ANU, 2024, *Semester 1 Booklist Data*]. For the roughly 26,000 students enrolled each year, knowing where the stationery stores are and how to time textbook orders can directly ease the financial pressure at the start of semester.
 
-## ANU Co-op Bookshop：主校区核心文具与教材中心
+## ANU Co-op Bookshop: The Campus Hub for Stationery and Textbooks
 
-**ANU Co-op Bookshop**位于校园中心区域的Union Court（Building 22），是ANU规模最大的文具与教材零售点。该店占地约450平方米，储存超过3,000种库存单位，涵盖**课程指定教材**、学术参考书、文具用品及ANU纪念品。根据ANU官网2024年更新的信息，该店在学期开始前三周（即O-Week期间）延长营业时间至每日18:30，以应对高峰需求【ANU, 2024, *Campus Services Directory*】。
+**ANU Co-op Bookshop** sits at the heart of campus in Union Court (Building 22) and is ANU's largest stationery and textbook outlet. The store covers about 450 square metres and stocks more than 3,000 stock-keeping units, including **prescribed course textbooks**, academic reference books, stationery supplies and ANU merchandise. According to information updated on the ANU website in 2024, the store extends its daily opening hours to 6:30 pm during the three weeks before semester starts (the O-Week period) to cope with peak demand [ANU, 2024, *Campus Services Directory*].
 
-### 教材订购流程与折扣窗口
+### Textbook Ordering Process and Discount Window
 
-学生需通过**ANU Booklist系统**（集成在ISIS学生门户内）查询各课程指定书目。该系统在每学期注册开放后自动生成个性化书单。**折扣窗口**通常为开学前4周至开学后第2周：在此时间段内通过Co-op Bookshop线上平台下单，可享受教材价格**10%折扣**，部分出版商（如Pearson、Wiley）的电子版教材折扣可达**25%**。2023年第一学期，该折扣机制为平均每位学生节省约66澳元【ANU Co-op Bookshop, 2023, *Annual Sales Report*】。
+Students check the prescribed readings for each course through the **ANU Booklist system**, which is integrated into the ISIS student portal. The system automatically generates a personalised booklist once enrolment opens for each semester. The **discount window** typically runs from 4 weeks before the start of semester to the end of Week 2: orders placed through the Co-op Bookshop's online platform within this window enjoy a **10% discount** on textbook prices, and e-textbooks from some publishers (such as Pearson and Wiley) can be discounted by up to **25%**. In Semester 1, 2023, this discount mechanism saved the average student about A$66 [ANU Co-op Bookshop, 2023, *Annual Sales Report*].
 
-### 二手教材交易区
+### Second-hand Textbook Trade-in Area
 
-Co-op Bookshop内设有**二手教材回收与转售区**，学生可在学期末以原价30%至50%的价格将教材卖回书店，书店再以原价50%至70%的价格转售。2024年第二学期，该区域库存约1,200册二手教材，平均价格比新书低42%。该服务需在学期最后两周内完成回收登记，逾期不予受理。
+The Co-op Bookshop has a **second-hand textbook buyback and resale area**: at the end of semester, students can sell textbooks back to the shop at 30% to 50% of the original price, and the shop resells them at 50% to 70% of the original price. In Semester 2, 2024, this area held an inventory of about 1,200 second-hand textbooks, priced on average 42% below new copies. Buyback registration must be completed within the final two weeks of semester; late submissions are not accepted.
 
-## 校内其他文具零售点：分布与商品范围
+## Other On-campus Stationery Outlets: Locations and Product Range
 
-除Co-op Bookshop外，ANU主校区另有6处文具零售点，主要分布在**教学楼底层**与**学生宿舍区**。这些店铺由ANU校园服务部（ANU Campus Services）统一管理，营业时间通常为周一至周五08:00至17:00，周末及公共假期关闭。
+Besides the Co-op Bookshop, the ANU main campus has 6 other stationery outlets, located mainly on **the ground floors of teaching buildings** and in **student residential areas**. These shops are managed centrally by ANU Campus Services and usually open Monday to Friday from 8:00 am to 5:00 pm, closing on weekends and public holidays.
 
-### Kambri Precinct的Kambri Convenience Store
+### Kambri Convenience Store in Kambri Precinct
 
-位于Kambri Precinct（Building 153）的Kambri Convenience Store，面积约120平方米，提供**基础文具**（如笔记本、笔、文件夹）及打印耗材。该店库存以常见品牌为主，包括Staedtler、Pilot和Muji，价格比Co-op Bookshop低约5%至10%。根据ANU校园服务部2024年价格对比数据，该店A4笔记本均价为4.50澳元，而Co-op Bookshop同类产品为5.20澳元【ANU Campus Services, 2024, *Retail Price Comparison*】。
+Located in Kambri Precinct (Building 153), Kambri Convenience Store covers about 120 square metres and stocks **basic stationery** (notebooks, pens, folders and the like) as well as printing consumables. The store focuses on familiar brands including Staedtler, Pilot and Muji, with prices about 5% to 10% lower than the Co-op Bookshop. According to ANU Campus Services 2024 price comparison data, an A4 notebook averages A$4.50 here, while the equivalent product at the Co-op Bookshop costs A$5.20 [ANU Campus Services, 2024, *Retail Price Comparison*].
 
-### 各学院内小型文具售卖点
+### Small Stationery Points in College Buildings
 
-**ANU College of Engineering, Computing and Cybernetics**（Building 32）底层的自动售货机提供工程绘图工具、计算器电池等专业文具。**ANU School of Art & Design**（Building 105）的Material Store则专注于艺术类耗材，包括画布、颜料和雕刻工具，库存约400种。这些售卖点不接受教材订购，仅适用于临时补充用品。
+Vending machines on the ground floor of the **ANU College of Engineering, Computing and Cybernetics** (Building 32) offer engineering drawing tools, calculator batteries and other specialist stationery. The Material Store at the **ANU School of Art & Design** (Building 105) focuses on art consumables — canvas, paints and carving tools — with an inventory of about 400 items. These outlets do not take textbook orders and are intended only for topping up supplies at short notice.
 
-## 教材订购折扣机制详解：官方渠道与时间节点
+## How the Textbook Discount System Works: Official Channels and Timelines
 
-ANU的教材折扣体系分为三个层级：**校方协议折扣**、**出版商直购折扣**和**打包购买折扣**。校方协议折扣由ANU与澳大利亚大学书店协会（AUBA）协商确定，覆盖Co-op Bookshop内所有标有“ANU Price”标签的教材，折扣率固定为**12%**。该折扣在全年任何时段有效，但仅适用于实体店购买。
+ANU's textbook discount system operates on three levels: **university agreement discounts**, **publisher direct-purchase discounts** and **bundle purchase discounts**. University agreement discounts are negotiated between ANU and the Australian University Booksellers Association (AUBA) and apply to every textbook in the Co-op Bookshop carrying an "ANU Price" label, at a fixed rate of **12%**. This discount is valid at any time of year but applies only to in-store purchases.
 
-### 出版商直购折扣：Pearson与Wiley专属优惠
+### Publisher Direct-Purchase Discounts: Pearson and Wiley Offers
 
-Pearson和Wiley是ANU教材的主要出版商，分别覆盖约35%和20%的课程书目。通过Co-op Bookshop线上平台订购Pearson电子教材时，使用优惠码**PEARSONANU**可获得**20%折扣**，有效期至每学期开学后第14天。Wiley电子教材则通过**Wiley Direct**平台提供**15%折扣**，需使用ANU邮箱注册。2024年第一学期，约4,200名学生使用了这些优惠码【ANU Co-op Bookshop, 2024, *Promotional Code Usage Report*】。
+Pearson and Wiley are ANU's main textbook publishers, covering about 35% and 20% of course booklists respectively. Ordering Pearson e-textbooks through the Co-op Bookshop's online platform with the promo code **PEARSONANU** earns a **20% discount**, valid until day 14 of each semester. Wiley e-textbooks, in turn, are available through the **Wiley Direct** platform with a **15% discount** for those who register with an ANU email address. In Semester 1, 2024, about 4,200 students used these promo codes [ANU Co-op Bookshop, 2024, *Promotional Code Usage Report*].
 
-### 打包购买折扣：多门课程教材组合优惠
+### Bundle Purchase Discounts: Combined Deals for Multiple Courses
 
-对于同时注册3门或以上课程的学生，Co-op Bookshop提供**打包购买折扣**：购买全部课程教材（含电子版）可享受总额**15%折扣**，购买2门课程教材享受**10%折扣**。该折扣不可与其他优惠叠加，但可与校方协议折扣中的12%择一使用。ANU学生会在2023年的一项调查显示，约28%的学生使用过打包购买折扣，平均节省金额为97澳元【ANU Students’ Association, 2023, *Textbook Cost Survey*】。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E6%96%87%E5%85%B7%E5%BA%97%E4%BD%8D%E7%BD%AE%E4%B8%8E%E6%95%99%E6%9D%90%E8%AE%A2%E8%B4%AD%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF) 等专业通道完成结汇。
+For students enrolled in 3 or more courses at the same time, the Co-op Bookshop offers a **bundle purchase discount**: buying all course textbooks (including e-versions) earns **15% off** the total, while buying textbooks for 2 courses earns **10% off**. This discount cannot be combined with other offers, but can be used instead of the 12% university agreement discount (choose one). A 2023 ANU Students' Association survey found that about 28% of students had used the bundle discount, saving an average of A$97 [ANU Students' Association, 2023, *Textbook Cost Survey*]. When paying cross-border tuition fees, some international families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E6%96%87%E5%85%B7%E5%BA%97%E4%BD%8D%E7%BD%AE%E4%B8%8E%E6%95%99%E6%9D%90%E8%AE%A2%E8%B4%AD%E6%8A%98%E6%89%A3%E4%BF%A1%E6%81%AF) to complete the currency transfer.
 
-## 线上订购与配送：ANU Booklist系统操作指南
+## Online Ordering and Delivery: A Guide to the ANU Booklist System
 
-**ANU Booklist系统**是学生订购教材的唯一官方入口，该系统与ISIS学生门户同步课程注册数据。学生在登录ISIS后，点击“Course Enrolment”页面内的“View Booklist”链接，即可查看每门课程指定的教材清单，包括ISBN编号、版本号和出版商信息。系统会自动识别**必修教材**（标记为“Required”）和**推荐阅读材料**（标记为“Recommended”）。
+The **ANU Booklist system** is the only official entry point for ordering textbooks, and it syncs course enrolment data with the ISIS student portal. After logging into ISIS, students click the "View Booklist" link on the "Course Enrolment" page to see the prescribed readings for each course, including ISBN, edition and publisher details. The system automatically identifies **required textbooks** (marked "Required") and **recommended reading** (marked "Recommended").
 
-### 配送选项与费用
+### Delivery Options and Fees
 
-Co-op Bookshop提供两种配送方式：**校内免费自提**（在Union Court取货点，通常在订单确认后2个工作日内备妥）和**澳大利亚境内配送**（费用为9.95澳元，通常在3至5个工作日内送达）。对于国际学生，配送至海外地址的费用为25.00澳元，通过DHL Express递送，需5至7个工作日。2024年第一学期，约62%的学生选择校内自提，38%选择配送【ANU Co-op Bookshop, 2024, *Order Fulfillment Statistics*】。
+The Co-op Bookshop offers two delivery methods: **free on-campus pickup** (at the Union Court collection point, usually ready within 2 business days of order confirmation) and **delivery within Australia** (A$9.95, usually arriving within 3 to 5 business days). For international students, delivery to overseas addresses costs A$25.00 and is sent via DHL Express, taking 5 to 7 business days. In Semester 1, 2024, about 62% of students chose on-campus pickup and 38% chose delivery [ANU Co-op Bookshop, 2024, *Order Fulfillment Statistics*].
 
-### 电子教材与租借选项
+### E-textbooks and Rental Options
 
-ANU Booklist系统支持**电子教材购买**和**教材租借**两种替代方案。电子教材价格通常为纸质版的50%至60%，且支持永久访问。教材租借选项由Co-op Bookshop提供，租借期为整个学期（约16周），费用为纸质版定价的40%，但需在学期结束后14天内归还。2024年第二学期，约1,500名学生选择了教材租借服务。
+The ANU Booklist system supports two alternatives: **e-textbook purchase** and **textbook rental**. E-textbooks typically cost 50% to 60% of the print price and include permanent access. Textbook rental is offered by the Co-op Bookshop for the full semester (about 16 weeks) at 40% of the print price, but the book must be returned within 14 days after the end of semester. About 1,500 students used the rental service in Semester 2, 2024.
 
-## 校内文具店营业时间与支付方式
+## Opening Hours and Payment Methods at Campus Stationery Stores
 
-ANU各文具零售点的营业时间因学期阶段而异。**学期期间**（第1周至第12周），Co-op Bookshop营业时间为周一至周五09:00至17:30，周六10:00至16:00，周日关闭。**假期期间**（第13周至次年O-Week），营业时间缩短为周一至周五10:00至16:00。其他零售点（如Kambri Convenience Store）在学期期间营业至17:00，假期期间仅开放至15:00。
+Opening hours at ANU's stationery outlets vary by phase of the academic calendar. **During semester** (Weeks 1 to 12), the Co-op Bookshop is open Monday to Friday 9:00 am–5:30 pm and Saturday 10:00 am–4:00 pm, closed on Sunday. **During holidays** (Week 13 to the following O-Week), hours shorten to Monday to Friday 10:00 am–4:00 pm. Other outlets (such as Kambri Convenience Store) stay open until 5:00 pm during semester but close at 3:00 pm during holidays.
 
-### 支付方式与学生折扣
+### Payment Methods and Student Discounts
 
-所有校内文具店均接受**Visa、Mastercard、American Express**以及**澳大利亚银行卡（EFTPOS）**。Co-op Bookshop额外接受**ANU学生卡余额支付**，学生可通过校园卡充值系统将资金存入卡内，用于购买文具和教材。使用学生卡支付时，可额外获得**2%的返现**（以积分形式返还至卡内），该返现上限为每学期20澳元。ANU校园服务部2024年数据显示，约15%的学生使用学生卡支付教材费用【ANU Campus Services, 2024, *Payment Method Analysis*】。
+All campus stationery stores accept **Visa, Mastercard, American Express** and **Australian bank cards (EFTPOS)**. The Co-op Bookshop additionally accepts **ANU student card balance payments** — students can load funds onto their campus card through the card top-up system and use them to buy stationery and textbooks. Paying with the student card earns an extra **2% cashback** (credited back to the card as points), capped at A$20 per semester. ANU Campus Services 2024 data shows that about 15% of students pay for textbooks with their student card [ANU Campus Services, 2024, *Payment Method Analysis*].
 
-## 校外替代方案：Canberra市区文具店与线上平台
+## Off-campus Alternatives: Canberra City Stationery Stores and Online Platforms
 
-对于校内库存不足或价格较高的商品，学生可选择**Canberra市区文具店**。距离ANU主校区约1.5公里的Civic区（Canberra市中心）有Officeworks（Canberra City店）和JB Hi-Fi（Canberra Centre店）。Officeworks提供**价格匹配服务**：若学生提供ANU Co-op Bookshop的官方报价单，Officeworks将以相同价格出售同类商品，并额外提供**5%的折扣**。该政策适用于所有文具和打印耗材，但不包括教材。
+For items that are out of stock on campus or priced too high, students can turn to **stationery stores in Canberra's city centre**. In the Civic district (Canberra's CBD), about 1.5 km from the ANU main campus, there is an Officeworks (Canberra City store) and a JB Hi-Fi (Canberra Centre store). Officeworks offers a **price-match service**: if students bring an official quote from the ANU Co-op Bookshop, Officeworks sells the same product at the same price, with an additional **5% discount**. The policy covers all stationery and printing consumables, but not textbooks.
 
-### 线上二手教材平台
+### Online Second-hand Textbook Platforms
 
-**StudentVIP**和**Gumtree**是澳大利亚学生常用的二手教材交易平台。根据ANU学生会2023年数据，约34%的学生通过二手平台购买教材，平均价格为原价的35%【ANU Students’ Association, 2023, *Textbook Cost Survey*】。使用这些平台时，学生需自行核对ISBN编号和版本号，因ANU部分课程指定特定版本（如2023年第4版），旧版可能无法使用。
+**StudentVIP** and **Gumtree** are the platforms Australian students most commonly use to trade second-hand textbooks. According to ANU Students' Association 2023 data, about 34% of students buy textbooks through second-hand platforms, at an average price of 35% of the original [ANU Students' Association, 2023, *Textbook Cost Survey*]. When using these platforms, students must verify the ISBN and edition themselves, because some ANU courses prescribe specific editions (such as the 2023 4th edition), and older versions may not be usable.
 
-## 教材订购时间规划与常见错误
+## Textbook Ordering: Timing and Common Mistakes
 
-**时间规划**是降低教材成本的关键因素。ANU Co-op Bookshop的折扣窗口通常在开学前4周开启，开学后第2周关闭。错过该窗口后，教材恢复原价，且库存可能不足。ANU学生会在2023年的一项建议中提出，学生应在**O-Week第一周**内完成教材订购，以避免开学后第二周出现的配送延迟【ANU Students’ Association, 2023, *Orientation Guide*】。
+**Timing** is the key factor in keeping textbook costs down. The ANU Co-op Bookshop's discount window usually opens 4 weeks before semester starts and closes at the end of Week 2. Miss the window and textbooks revert to full price, and stock may run short. In a 2023 recommendation, the ANU Students' Association advised students to complete their textbook orders **within the first week of O-Week** to avoid the delivery delays that surface in the second week of semester [ANU Students' Association, 2023, *Orientation Guide*].
 
-### 常见错误：版本号与捆绑销售
+### Common Mistakes: Editions and Bundles
 
-两个常见错误包括**购买错误版本**和**忽略捆绑销售**。ANU课程指定教材的版本号可能每学期更新，学生应仅依据ANU Booklist系统内的ISBN编号购买，而非课程大纲上的书名。此外，部分教材以“捆绑包”形式销售（如教材+在线访问码），单独购买纸质书后可能仍需支付额外费用才能获得在线资源。Co-op Bookshop的打包购买折扣可有效解决这一问题。
+Two common mistakes are **buying the wrong edition** and **overlooking bundles**. ANU's prescribed textbook editions can change every semester, so students should buy only by the ISBN listed in the ANU Booklist system, not by the title on the course outline. In addition, some textbooks are sold as "bundles" (such as textbook + online access code), and buying the print book on its own may still leave you paying extra for the online resources. The Co-op Bookshop's bundle purchase discount can effectively solve this problem.
 
 ## FAQ
 
-### Q1：ANU Co-op Bookshop的折扣窗口具体是什么时间？
+### Q1: When exactly is the ANU Co-op Bookshop's discount window?
+The discount window runs from 4 weeks before the start of semester to the end of Week 2. For example, for Semester 1, 2024 (classes starting 19 February), the window was 22 January to 4 March. During this period, textbooks enjoy a **10% discount**, and some e-textbooks up to **25%**. Outside the window, textbooks revert to full price.
 
-折扣窗口为每学期开学前4周至开学后第2周。例如，2024年第一学期（2月19日开学）的折扣窗口为1月22日至3月4日。在此期间，教材享受**10%折扣**，部分电子教材折扣可达**25%**。超过该窗口后，教材恢复原价。
+### Q2: How do I tell whether a textbook is required or recommended reading?
+Log into the ANU Booklist system (via the ISIS student portal): each course's booklist marks items with icons — a **red "Required" label** indicates required textbooks, and a **blue "Recommended" label** indicates recommended reading. Required textbooks typically account for more than 80% of a course grade; recommended reading is for supplementary study only.
 
-### Q2：如何确认自己的教材是必修还是推荐阅读？
+### Q3: How much cheaper are second-hand textbooks than new ones?
+At the ANU Co-op Bookshop's second-hand textbook area, prices are typically **50% to 70%** of the new price. On online platforms such as StudentVIP, prices can be as low as **35%** of the original. 2023 data shows that second-hand textbooks average 42% of the new price [ANU Co-op Bookshop, 2023, *Annual Sales Report*].
 
-登录ANU Booklist系统（通过ISIS学生门户），每门课程的书单会以图标标注：**红色“Required”标签**表示必修教材，**蓝色“Recommended”标签**表示推荐阅读材料。必修教材通常占课程成绩的80%以上，推荐阅读材料仅用于补充学习。
-
-### Q3：二手教材的价格通常比新书低多少？
-
-在ANU Co-op Bookshop的二手教材交易区，价格通常为新书的**50%至70%**。在StudentVIP等线上平台，价格可低至原价的**35%**。2023年数据表明，二手教材平均价格为新书的42%【ANU Co-op Bookshop, 2023, *Annual Sales Report*】。
-
-## 参考资料
+## References
 
 - Australian Publishers Association, 2023, *Student Textbook Spending Report*
 - ANU, 2024, *Semester 1 Booklist Data*
 - ANU Co-op Bookshop, 2023, *Annual Sales Report*
 - ANU Campus Services, 2024, *Retail Price Comparison*
-- ANU Students’ Association, 2023, *Textbook Cost Survey*
+- ANU Students' Association, 2023, *Textbook Cost Survey*

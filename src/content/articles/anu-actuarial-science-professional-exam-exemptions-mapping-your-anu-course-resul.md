@@ -1,6 +1,7 @@
 ---
+slug: anu-actuarial-science-professional-exam-exemptions-mapping-your-anu-course-resul
 title: "ANU Actuarial Science Professional Exam Exemptions: Mapping Your ANU Course Results to the Actuaries Institute Requirements"
-description: "澳大利亚国立大学（ANU）的**精算学学士（Bachelor of Actuarial Studies）** 课程，自 2023 年起被澳大利亚精算师协会（Actuaries Institute）正式认证为**精算师资格考试豁免课程**。根据该协会 2024 年发布的《认证课程手册》，ANU 精算学毕业生在完成指…"
+description: "The Bachelor of Actuarial Studies at the Australian National University (ANU) has been formally accredited by the Actuaries Institute since 2023 as an exempting program for the actuarial professional examinations. According to the institute's 2024 Accredited Course Handbook, ANU actuarial graduates who complete the specified core courses can apply for exemption from all 5 subjects of the Foundation stage of the actuarial exams (i.e. Foundation through Part I)..."
 category: "ANU"
 pubDatetime: '2026-05-08T20:00:43Z'
 publishDate: '2026-05-08T20:00:43Z'
@@ -10,107 +11,107 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-actuarial-science-professional-exam-exemptions-mapping-your-anu-course-resul-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）的**精算学学士（Bachelor of Actuarial Studies）** 课程，自 2023 年起被澳大利亚精算师协会（Actuaries Institute）正式认证为**精算师资格考试豁免课程**。根据该协会 2024 年发布的《认证课程手册》，ANU 精算学毕业生在完成指定核心课程后，可申请豁免精算师考试 Foundation 阶段全部 5 门科目（即从 Foundation 到 Part I），相当于直接跳过约 60% 的初始考试工作量。这一认证路径使 ANU 成为全澳仅有的 8 所提供精算师考试豁免的高等学府之一，对于希望在 4 年内完成学历与职业资格双轨并行的学生而言，其时间成本优势显著。
+The **Bachelor of Actuarial Studies** at the Australian National University (ANU) has been formally accredited by the Actuaries Institute since 2023 as an **exempting program for the actuarial professional examinations**. According to the institute's 2024 Accredited Course Handbook, ANU actuarial graduates who complete the specified core courses can apply for exemption from all 5 subjects of the Foundation stage of the actuarial exams (i.e. from Foundation through Part I) — equivalent to skipping about 60% of the initial exam workload. This accreditation pathway makes ANU one of only 8 Australian universities offering actuarial exam exemptions, a significant time advantage for students who want to complete both their degree and professional qualification within 4 years.
 
-## 豁免结构与考试科目对应关系
+## Exemption Structure and Subject Mapping
 
-ANU 精算学课程体系与 Actuaries Institute 的**Foundation 阶段考试**存在精确的学分映射关系。该阶段共设 5 门科目：**Foundation 1（数学基础）**、**Foundation 2（概率与统计）**、**Foundation 3（经济学）**、**Foundation 4（金融与财务报告）** 以及 **Foundation 5（数据科学）**。ANU 在本科课程中通过 STAT7055、STAT7059、ECON1101、FINM1001 和 STAT7030 等必修课分别覆盖上述内容。
+The ANU actuarial curriculum maps precisely onto the Actuaries Institute's **Foundation stage examinations**. This stage has 5 subjects: **Foundation 1 (Mathematics)**, **Foundation 2 (Probability and Statistics)**, **Foundation 3 (Economics)**, **Foundation 4 (Finance and Financial Reporting)** and **Foundation 5 (Data Science)**. ANU covers these through required undergraduate courses including STAT7055, STAT7059, ECON1101, FINM1001 and STAT7030.
 
-### 核心映射课程清单
-- **STAT7055（精算数学基础）** → 对应 Foundation 1（数学基础），需获得至少 65% 的最终成绩方可申请豁免。
-- **STAT7059（概率与统计）** → 对应 Foundation 2（概率与统计），成绩门槛同样为 65%。
-- **ECON1101（微观经济学 1）** + **ECON1102（宏观经济学 1）** → 对应 Foundation 3（经济学），两门课加权平均需达 60%。
-- **FINM1001（金融学基础）** → 对应 Foundation 4（金融与财务报告），成绩要求为 60%。
-- **STAT7030（数据科学导论）** → 对应 Foundation 5（数据科学），成绩门槛为 65%。
+### Core Mapping Course List
+- **STAT7055 (Actuarial Mathematics Foundations)** → maps to Foundation 1 (Mathematics); you need a final grade of at least 65% to qualify for the exemption.
+- **STAT7059 (Probability and Statistics)** → maps to Foundation 2 (Probability and Statistics); the grade threshold is also 65%.
+- **ECON1101 (Microeconomics 1)** + **ECON1102 (Macroeconomics 1)** → map to Foundation 3 (Economics); the weighted average of the two courses must reach 60%.
+- **FINM1001 (Foundations of Finance)** → maps to Foundation 4 (Finance and Financial Reporting); the grade requirement is 60%.
+- **STAT7030 (Introduction to Data Science)** → maps to Foundation 5 (Data Science); the grade threshold is 65%.
 
-### 成绩门槛与申请时机
-每门科目的豁免成绩要求由 Actuaries Institute 每年审核，2024 年标准如上所列。学生需在完成每门课程后的**下一个申请窗口**（每年 3 月 1 日至 4 月 30 日，或 9 月 1 日至 10 月 31 日）内提交豁免申请，逾期需等待下一周期。根据 ANU 精算学项目协调员在 2024 年 8 月发布的学生通知，2023 年入学批次中约 78% 的申请者满足全部 5 门豁免条件。
+### Grade Thresholds and Application Timing
+The exemption grade requirement for each subject is reviewed annually by the Actuaries Institute; the 2024 standards are listed above. Students must submit their exemption application within the **next application window after completing each course** (1 March to 30 April, or 1 September to 31 October, each year); late applications must wait for the next cycle. According to a student notice issued by the ANU actuarial program coordinator in August 2024, around 78% of applicants from the 2023 intake met all 5 exemption conditions.
 
-## 豁免申请流程与材料要求
+## Exemption Application Process and Required Materials
 
-申请 Actuaries Institute 的考试豁免需通过其在线门户 **MyActuary** 提交。学生需准备以下材料：ANU 官方成绩单（标明每门课程成绩）、课程大纲（syllabus）以及一份由 ANU 精算学项目协调员签署的**课程完成确认函**。
+Applications for Actuaries Institute exam exemptions are submitted through its online portal, **MyActuary**. Students need the following materials: an official ANU transcript (showing the grade for each course), the course syllabus, and a **course completion confirmation letter** signed by the ANU actuarial program coordinator.
 
-### 步骤分解
-1. **登录 MyActuary 账户**：首次申请需注册并缴纳年费（2024 年学生会员费为 110 澳元）。
-2. **选择豁免申请模块**：在 Dashboard 中点击 "Apply for Exemptions"，选择对应课程代码。
-3. **上传材料**：成绩单需为 PDF 格式，且包含 ANU 官方水印；课程大纲需为当年授课版本。
-4. **缴纳申请费**：每门科目豁免申请费为 50 澳元（2024 年标准），5 门合计 250 澳元。
-5. **等待审核**：审核周期通常为 4-6 周，结果会通过邮件通知。
+### Step-by-Step Breakdown
+1. **Log in to your MyActuary account**: first-time applicants must register and pay the annual fee (the 2024 student membership fee is AUD 110).
+2. **Select the exemption application module**: in the Dashboard, click "Apply for Exemptions" and choose the corresponding course codes.
+3. **Upload materials**: the transcript must be in PDF format and carry the official ANU watermark; the syllabus must be the version taught in the relevant year.
+4. **Pay the application fee**: the fee per subject exemption is AUD 50 (2024 rate), AUD 250 for all 5.
+5. **Wait for assessment**: assessment usually takes 4-6 weeks, and the outcome is notified by email.
 
-### 常见驳回原因
-根据 Actuaries Institute 2023 年年度报告，约 12% 的豁免申请因**成绩未达门槛**（最常见为 STAT7055 低于 65%）或**课程大纲版本不符**（使用旧版大纲）而被驳回。建议学生在提交前与 ANU 精算学办公室核对课程代码与成绩单的一致性。
+### Common Reasons for Rejection
+According to the Actuaries Institute's 2023 annual report, around 12% of exemption applications are rejected for **grades below the threshold** (most commonly STAT7055 below 65%) or **syllabus version mismatch** (an outdated syllabus was used). Students should check the consistency of course codes and transcripts with the ANU actuarial office before submitting.
 
-## 豁免对后续考试路径的影响
+## How Exemptions Affect Your Subsequent Exam Pathway
 
-获得 Foundation 阶段全部豁免后，学生可直接进入 Actuaries Institute 的 **Part II 考试**（即高级精算师考试）。Part II 包含 3 门科目：**精算控制循环（Actuarial Control Cycle）**、**资本与风险管理（Capital and Risk Management）** 以及 **精算实务（Actuarial Practice）**。ANU 精算学硕士课程（Master of Actuarial Studies）也提供 Part II 部分科目的豁免，但需单独申请。
+Once you hold all Foundation stage exemptions, you can go directly to the Actuaries Institute's **Part II examinations** (the advanced actuarial exams). Part II has 3 subjects: the **Actuarial Control Cycle**, **Capital and Risk Management** and **Actuarial Practice**. ANU's Master of Actuarial Studies also offers exemption from some Part II subjects, but this must be applied for separately.
 
-### 时间线对比
-- **无豁免路径**：完成 Foundation 5 门考试通常需要 2-3 年（每年 2 次考试机会），加上 Part II 的 1-2 年，总计 3-5 年。
-- **ANU 豁免路径**：学生在本科 3 年内完成豁免课程，毕业时即具备 Part II 考试资格，可在 1-2 年内完成剩余考试，总时间缩短至 4-5 年。
-- **数据支撑**：Actuaries Institute 2023 年统计显示，通过豁免路径的考生平均在 4.2 年内获得准精算师（Associate）资格，而非豁免路径平均为 5.8 年。
+### Timeline Comparison
+- **Path without exemptions**: completing the 5 Foundation exams usually takes 2-3 years (2 exam sittings per year), plus 1-2 years for Part II — 3-5 years in total.
+- **ANU exemption path**: students complete the exempting courses within the 3-year undergraduate degree and are eligible to sit Part II upon graduation, finishing the remaining exams in 1-2 years — a total of 4-5 years.
+- **Supporting data**: Actuaries Institute 2023 statistics show that candidates on the exemption path reach Associate status in an average of 4.2 years, versus 5.8 years on the non-exemption path.
 
-## ANU 与其他澳洲大学的豁免对比
+## ANU vs Other Australian Universities
 
-在全澳 8 所提供精算考试豁免的大学中，ANU 的豁免覆盖范围与**墨尔本大学**和**新南威尔士大学（UNSW）** 相当，均提供 Foundation 阶段全部 5 门豁免。但 ANU 在课程设置上有所不同：其 **STAT7030（数据科学导论）** 被单独列为 Foundation 5 的对应课程，而 UNSW 将此内容整合进 ACTL1101 中。
+Among the 8 Australian universities offering actuarial exam exemptions, ANU's exemption coverage is on par with the **University of Melbourne** and **UNSW**, both of which offer all 5 Foundation stage exemptions. But ANU differs in course structure: its **STAT7030 (Introduction to Data Science)** is listed separately as the mapping course for Foundation 5, whereas UNSW integrates this content into ACTL1101.
 
-### 关键差异点
-- **豁免科目数量**：ANU 和 UNSW 均提供 5 门 Foundation 豁免；悉尼大学仅提供 4 门（缺少 Foundation 5 数据科学）。
-- **成绩门槛**：ANU 对 STAT7055 和 STAT7059 要求 65%，而 UNSW 对 ACTL1101 要求 70%。ANU 的门槛相对更低。
-- **硕士衔接**：ANU 的精算学硕士课程（2 年制）可额外豁免 Part II 中的 1 门科目（精算控制循环），而 UNSW 的硕士项目不提供 Part II 豁免。
+### Key Differences
+- **Number of exempted subjects**: both ANU and UNSW offer all 5 Foundation exemptions; the University of Sydney offers only 4 (missing Foundation 5 Data Science).
+- **Grade thresholds**: ANU requires 65% for STAT7055 and STAT7059, while UNSW requires 70% for ACTL1101 — ANU's threshold is comparatively lower.
+- **Postgraduate articulation**: ANU's Master of Actuarial Studies (2-year program) can additionally exempt 1 Part II subject (the Actuarial Control Cycle), while UNSW's master's program offers no Part II exemptions.
 
-### 选择参考
-根据 QS 2024 世界大学学科排名（统计与运筹学），ANU 位列全球第 34 位，UNSW 第 36 位，墨尔本大学第 39 位。三校在精算豁免质量上无明显差异，但 ANU 的**学费成本**（2024 年国际学生年学费约 48,000 澳元）低于 UNSW（约 52,000 澳元）和墨尔本大学（约 51,000 澳元）。
+### Choosing Between Them
+According to the QS 2024 World University Rankings by Subject (Statistics and Operational Research), ANU ranks 34th globally, UNSW 36th, and the University of Melbourne 39th. There is no significant difference in exemption quality among the three, but ANU's **tuition cost** (around AUD 48,000 per year for international students in 2024) is lower than UNSW (around AUD 52,000) and the University of Melbourne (around AUD 51,000).
 
-## 豁免失败后的替代方案
+## Alternatives If You Miss the Exemption Threshold
 
-如果学生未达到豁免成绩门槛，仍有其他路径完成 Foundation 阶段。Actuaries Institute 允许考生**直接报名参加对应科目的考试**，考试每年在 4 月、6 月、9 月和 12 月举行。每门考试报名费为 250 澳元（2024 年标准），且考试地点覆盖全球主要城市。
+If you do not meet the exemption grade threshold, there are still other ways to complete the Foundation stage. The Actuaries Institute allows candidates to **register directly for the corresponding examinations**, which are held in April, June, September and December each year. The registration fee per exam is AUD 250 (2024 rate), and exam venues cover major cities worldwide.
 
-### 补考与重读策略
-- **补考**：若单门课程成绩低于门槛 5 分以内（如 STAT7055 得 60%），可申请**成绩复核**（费用 50 澳元），复核通过率约 8%（2023 年数据）。
-- **重读课程**：若成绩差距超过 10 分，建议重读该门课程。ANU 允许学生在下一学年重修，且最高成绩可覆盖原成绩（需注意学分上限）。
-- **考试替代**：直接参加 Actuaries Institute 考试，通过率约为 55%-65%（Foundation 1 至 5 的 2023 年通过率数据），高于部分大学课程通过率。
+### Remarking and Retake Strategies
+- **Remarking**: if your grade is within 5 points of the threshold (e.g. STAT7055 at 60%), you can apply for a **grade review** (fee AUD 50); the review success rate is about 8% (2023 data).
+- **Retaking the course**: if your grade gap exceeds 10 points, retaking the course is recommended. ANU allows students to repeat a course in the following academic year, and the higher grade can replace the original (mind the credit limit).
+- **Exam alternative**: sitting the Actuaries Institute exams directly, with pass rates around 55%-65% (2023 pass rate data for Foundations 1 to 5), higher than the pass rates of some university courses.
 
-### 时间成本
-选择考试替代的学生需额外投入 6-12 个月备考时间。以 Foundation 1 为例，官方建议学习时长为 200-250 小时，而 ANU 课程 STAT7055 的授课时长为 144 小时（含讲座与辅导课）。
+### Time Cost
+Students who choose the exam alternative should budget an additional 6-12 months of preparation. Taking Foundation 1 as an example, the officially recommended study time is 200-250 hours, compared with 144 hours of instruction (lectures and tutorials combined) for the ANU course STAT7055.
 
-## 国际学生签证与豁免申请注意事项
+## International Student Visa and Exemption Application Notes
 
-持有澳大利亚学生签证（Subclass 500）的国际学生，在申请 Actuaries Institute 豁免时需注意**签证条款与学习限制**。豁免申请本身不涉及工作许可，但若学生在豁免审核期间（4-6 周）处于课程休学期，需确保签证状态有效。
+International students holding an Australian student visa (Subclass 500) should note the **visa conditions and study restrictions** when applying for Actuaries Institute exemptions. The exemption application itself involves no work permission, but if you are on a leave of absence from study during the assessment period (4-6 weeks), make sure your visa status remains valid.
 
-### 关键签证条款
-- **8105 条款**：学生每两周工作不得超过 48 小时（2024 年 7 月 1 日起生效），豁免申请期间的工作时间需纳入此限制。
-- **8202 条款**：学生必须保持注册课程的全日制学习状态，豁免申请不视为课程学习，因此不能替代出勤要求。
-- **财务证明**：豁免申请费（250 澳元）和学生会员费（110 澳元）需从学生个人账户支付，不得使用奖学金或助学金。
+### Key Visa Conditions
+- **Condition 8105**: students may work no more than 48 hours per fortnight (effective 1 July 2024); any work during the exemption application period counts toward this limit.
+- **Condition 8202**: students must maintain full-time enrolment in their registered course; an exemption application does not count as course study and cannot substitute for attendance requirements.
+- **Financial proof**: the exemption application fee (AUD 250) and student membership fee (AUD 110) must be paid from the student's personal account and cannot use scholarships or bursaries.
 
-### 跨境支付实操
-在缴纳 Actuaries Institute 的会员费或申请费时，国际学生常面临汇率波动与跨境手续费问题。部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-actuarial-science-professional-exam-exemptions-mapping-your-anu-course-resul) 等专业通道完成结汇，以锁定汇率并避免银行中间行费用。
+### Cross-Border Payment in Practice
+When paying the Actuaries Institute membership or application fees, international students often face exchange rate fluctuations and cross-border transaction charges. Some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-actuarial-science-professional-exam-exemptions-mapping-your-anu-course-resul) to lock in exchange rates and avoid intermediary bank fees.
 
-## 豁免证书与职业资格衔接
+## Exemption Certificate and Professional Qualification Pathways
 
-成功获得所有 Foundation 豁免后，学生需向 Actuaries Institute 申请**豁免证书（Certificate of Exemption）**，该证书是申请准精算师（Associate）资格的必要文件。证书有效期为**5 年**，从申请获批日起算。若学生在 5 年内未完成 Part II 考试，需重新申请豁免（需提供最新成绩单）。
+After successfully obtaining all Foundation exemptions, students must apply to the Actuaries Institute for the **Certificate of Exemption**, a mandatory document for applying for Associate status. The certificate is valid for **5 years** from the date of approval. If you have not completed the Part II exams within 5 years, you must reapply for the exemptions (with a current transcript).
 
-### 证书使用场景
-- **求职申请**：豁免证书可作为简历附件，证明已通过 Foundation 阶段，这在澳洲金融与保险行业招聘中具有显著优势。
-- **Part II 考试注册**：持有豁免证书后，学生可直接注册 Part II 考试，无需再提交成绩单。
-- **国际互认**：Actuaries Institute 的 Foundation 豁免被**英国精算师协会（IFoA）** 和**北美精算师协会（SOA）** 部分认可。根据 2023 年 IFoA 与 Actuaries Institute 的互认协议，ANU 豁免持有者可免考 IFoA 的 CT 系列全部 8 门科目。
+### Uses of the Certificate
+- **Job applications**: the exemption certificate can be attached to your CV as proof of completing the Foundation stage — a significant advantage in Australian finance and insurance recruitment.
+- **Part II exam registration**: with the certificate, students can register for Part II exams directly without submitting transcripts again.
+- **International recognition**: Actuaries Institute Foundation exemptions are partially recognised by the **UK Institute and Faculty of Actuaries (IFoA)** and the **US Society of Actuaries (SOA)**. Under the 2023 mutual recognition agreement between the IFoA and the Actuaries Institute, holders of ANU exemptions are exempt from all 8 subjects of the IFoA's CT series.
 
-### 数据支撑
-根据 Actuaries Institute 2023 年会员统计，持有豁免证书的会员在毕业后 12 个月内找到精算相关工作的比例为 89%，高于非豁免路径的 76%。
+### Supporting Data
+According to Actuaries Institute 2023 membership statistics, 89% of members holding exemption certificates found actuarial-related work within 12 months of graduation, compared with 76% on the non-exemption path.
 
 ## FAQ
 
-### Q1：ANU 精算学本科毕业生可以豁免多少门精算师考试？
-ANU 精算学本科毕业生在满足成绩门槛（每门课 60%-65%）后，可豁免 Actuaries Institute Foundation 阶段全部 5 门考试（Foundation 1 至 5），相当于跳过约 60% 的初始考试工作量。
+### Q1: How many actuarial exams can an ANU actuarial undergraduate graduate be exempt from?
+ANU actuarial undergraduates who meet the grade thresholds (60%-65% per course) can be exempt from all 5 Actuaries Institute Foundation stage exams (Foundation 1 to 5), equivalent to skipping about 60% of the initial exam workload.
 
-### Q2：豁免申请需要多长时间才能获批？
-标准审核周期为 4-6 周。申请需在每年两个窗口期（3 月 1 日至 4 月 30 日，或 9 月 1 日至 10 月 31 日）内提交。2023 年数据显示，约 88% 的申请在 5 周内获得结果。
+### Q2: How long does an exemption application take to be approved?
+The standard assessment period is 4-6 weeks. Applications must be submitted within one of the two annual windows (1 March to 30 April, or 1 September to 31 October). 2023 data shows that about 88% of applications received an outcome within 5 weeks.
 
-### Q3：如果某门课成绩未达到豁免门槛，可以重读吗？
-可以。ANU 允许学生在下一学年重修未达标的课程，且最高成绩可覆盖原成绩。若成绩差距超过 10 分，重读是推荐选择；若差距在 5 分以内，可先申请成绩复核（费用 50 澳元），复核通过率约 8%。
+### Q3: If I don't reach the exemption threshold in a course, can I retake it?
+Yes. ANU allows students to repeat a course they did not pass in the following academic year, and the higher grade can replace the original. If your grade gap exceeds 10 points, retaking is the recommended option; if the gap is within 5 points, you can first apply for a grade review (fee AUD 50), which has a success rate of about 8%.
 
-## 参考资料
-- Actuaries Institute 2024 《认证课程手册》（Accredited Course Handbook）
-- Actuaries Institute 2023 《年度报告与会员统计》
-- QS 2024 《世界大学学科排名：统计与运筹学》
-- 澳大利亚内政部 2024 《学生签证条款 8105 与 8202 说明》
-- UNILINK Education 2024 《澳洲精算豁免路径数据库》
+## References
+- Actuaries Institute 2024, Accredited Course Handbook
+- Actuaries Institute 2023, Annual Report and Membership Statistics
+- QS 2024, World University Rankings by Subject: Statistics and Operational Research
+- Australian Department of Home Affairs 2024, Student Visa Conditions 8105 and 8202 Explanatory Notes
+- UNILINK Education 2024, Australian Actuarial Exemption Pathways Database

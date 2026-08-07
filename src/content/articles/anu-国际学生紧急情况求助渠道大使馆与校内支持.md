@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生紧急情况求助渠道：大使馆与校内支持"
-description: "截至 2024 年，澳大利亚国立大学（ANU）在校国际学生总数超过 12,000 人，占全校学生总数的约 40%（Australian Government Department of Education, 2024, International Student Data）。面对文化适应、法律差异及突发安全事件，…"
+slug: anu-国际学生紧急情况求助渠道大使馆与校内支持
+title: "Emergency Help Channels for ANU International Students: The Embassy and On-Campus Support"
+description: "As of 2024, the Australian National University (ANU) has more than 12,000 international students enrolled, about 40% of the total student body (Australian Government Department of Education, 2024, International Student Data). Faced with cultural adjustment, legal differences and sudden safety incidents, international students need a clear map of who to call in an emergency. ANU maintains a 24/7 security team and dedicated student support units on campus, while the Embassy and Consulates of the People's Republic of China in Australia provide consular protection and assistance to students holding Chinese passports. Using ANU as the setting, this article sets out the boundaries, contact channels and practical procedures of the two support systems — embassy and campus — so students can make the right call quickly in a crisis."
 category: "ANU 国际学生紧急情况"
 pubDatetime: '2026-03-06T19:48:18Z'
 publishDate: '2026-03-06T19:48:18Z'
@@ -10,78 +11,78 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生紧急情况求助渠道大使馆与校内支持-2026-1880x1253.jpg"
 ---
 
-截至 2024 年，澳大利亚国立大学（ANU）在校国际学生总数超过 12,000 人，占全校学生总数的约 40%（Australian Government Department of Education, 2024, International Student Data）。面对文化适应、法律差异及突发安全事件，国际学生需要掌握清晰的紧急求助路径。ANU 校内设有 24/7 安保团队与专业学生支持部门，同时中国驻澳大利亚大使馆及领事馆为持有中国护照的学生提供领事保护与协助。本文以 ANU 为场景，梳理大使馆与校内两套支持系统的职能边界、联系渠道及实际操作流程，帮助学生在紧急状态下快速作出正确判断。
+As of 2024, the Australian National University (ANU) has more than 12,000 international students enrolled, about 40% of the total student body (Australian Government Department of Education, 2024, International Student Data). Faced with cultural adjustment, legal differences and sudden safety incidents, international students need a clear map of who to call in an emergency. ANU maintains a 24/7 security team and dedicated student support units on campus, while the Embassy and Consulates of the People's Republic of China in Australia provide consular protection and assistance to students holding Chinese passports. Using ANU as the setting, this article sets out the boundaries, contact channels and practical procedures of the two support systems — embassy and campus — so students can make the right call quickly in a crisis.
 
-## 中国驻澳大利亚使领馆的领事保护职能
+## Consular Protection Functions of Chinese Diplomatic Missions in Australia
 
-中国驻澳大利亚大使馆及驻悉尼、墨尔本、布里斯班、珀斯、阿德莱德总领事馆，为在澳中国公民提供 **领事保护与协助**。根据《中华人民共和国领事保护与协助条例》（2023 年施行），领事保护的范围包括：人身安全受威胁、被逮捕或拘留、重大疾病或死亡、护照遗失、自然灾害或社会骚乱等紧急情况。使领馆可提供的协助包括：核实身份、联络家属、推荐律师、协助办理旅行证件、必要时协调撤离。需注意，领事保护不等同于法律援助或代付费用，使领馆不介入纯民事纠纷（如租房押金争议）。中国外交部 2023 年发布的数据显示，全年处理涉澳领事保护案件超过 1,200 起（中国外交部领事司，2023，领事保护工作年报）。
+The Embassy of the People's Republic of China in Australia and its Consulates General in Sydney, Melbourne, Brisbane, Perth and Adelaide provide **consular protection and assistance** to Chinese citizens in Australia. Under the Regulations on Consular Protection and Assistance of the People's Republic of China (in force since 2023), consular protection covers: threats to personal safety, arrest or detention, serious illness or death, loss of passport, and emergencies such as natural disasters or social unrest. What the missions can do includes: verifying identity, contacting family members, recommending lawyers, helping with travel document applications and, where necessary, coordinating evacuation. Note that consular protection is not the same as legal aid or paying your bills — the missions do not intervene in purely civil disputes (such as rental bond arguments). Data published by China's Ministry of Foreign Affairs in 2023 shows that more than 1,200 consular protection cases involving Australia were handled over the year (Consular Affairs Department, Ministry of Foreign Affairs of China, 2023, Consular Protection Annual Report).
 
-### 紧急联系电话与领区划分
+### Emergency Contact Numbers and Consular Districts
 
-中国驻澳大利亚大使馆 **领事保护与协助应急电话** 为 +61-2-6228-3948（24 小时接听）。驻悉尼总领馆（新南威尔士州）为 +61-2-9550-5519，驻墨尔本总领馆（维多利亚州、塔斯马尼亚州）为 +61-3-9824-8810，驻布里斯班总领馆（昆士兰州）为 +61-7-3012-8090，驻珀斯总领馆（西澳大利亚州）为 +61-8-9221-3729，驻阿德莱德总领馆（南澳大利亚州）为 +61-8-8268-8806。ANU 位于澳大利亚首都领地（ACT），属于 **中国驻澳大利亚大使馆** 领区范围。学生应提前将上述号码存入手机，并牢记外交部全球领事保护与服务应急热线 +86-10-12308（24 小时）。
+The Chinese Embassy in Australia's **consular protection and assistance emergency line** is +61-2-6228-3948 (answered 24 hours). The Consulate General in Sydney (New South Wales) is +61-2-9550-5519, in Melbourne (Victoria and Tasmania) +61-3-9824-8810, in Brisbane (Queensland) +61-7-3012-8090, in Perth (Western Australia) +61-8-9221-3729, and in Adelaide (South Australia) +61-8-8268-8806. ANU sits in the Australian Capital Territory (ACT), which falls under the consular district of the **Chinese Embassy in Australia**. Students should save these numbers in their phones in advance and memorise the Ministry of Foreign Affairs' global consular protection and service hotline +86-10-12308 (24 hours).
 
-### 领事保护申请流程
+### How to Apply for Consular Protection
 
-当学生遭遇紧急情况（如严重交通事故、暴力袭击、被警方羁押），本人或他人可拨打对应领区的领事保护电话。接听人员会记录事件基本信息、当事人护照信息、所在位置及联系方式。根据 **外交部 2023 年发布的《中国领事保护与协助指南》**，使领馆在接到求助后 2 小时内会启动初步评估，确认事件性质并决定是否提供协助。对于涉及人身安全的高危案件，使领馆会优先协调当地警方与医疗机构。学生应同时通知 ANU 国际学生支持团队，以便校内同步启动学术请假与住宿协调。
+When a student encounters an emergency (such as a serious traffic accident, violent assault or police detention), the student or someone else can call the consular protection line for the relevant district. The officer on the line records the basic details of the incident, the person's passport information, location and contact details. According to the **Guide to Chinese Consular Protection and Assistance published by the Ministry of Foreign Affairs in 2023**, the mission begins an initial assessment within 2 hours of receiving the call, confirming the nature of the incident and deciding whether to provide assistance. For high-risk cases involving personal safety, the mission prioritises coordinating with local police and medical services. Students should also notify the ANU international student support team so the university can simultaneously arrange academic leave and accommodation coordination.
 
-## ANU 校内安全与紧急支持体系
+## ANU On-Campus Security and Emergency Support
 
-ANU 设有 **ANU Security** 团队，提供全年 365 天、每天 24 小时的安全巡逻与应急响应服务。校园安全热线为 +61-2-6125-2249，该号码同时接受非紧急咨询（如报告可疑物品、校园照明故障）。根据 ANU 官方 2024 年发布的《校园安全手册》，安保人员平均到达校园内任何地点的时间为 6 分钟以内。校园内分布有超过 80 个 **紧急求助点**（蓝色灯柱），按下按钮可直接连通安保中心。所有求助点均有 GPS 定位，安保中心可实时派遣最近巡逻车。学生应熟悉所在教学楼、宿舍区及图书馆周边最近的蓝色灯柱位置。
+ANU operates an **ANU Security** team that provides security patrols and emergency response 365 days a year, 24 hours a day. The campus security hotline is +61-2-6125-2249, and the same number also takes non-emergency enquiries (such as reporting suspicious items or faulty campus lighting). According to ANU's official 2024 Campus Safety Handbook, security officers reach any point on campus in an average of under 6 minutes. More than 80 **emergency help points** (blue light pillars) are distributed across campus — pressing the button connects you directly to the security centre. Every help point has GPS positioning, so the security centre can dispatch the nearest patrol vehicle in real time. Students should know where the nearest blue light pillar is to their teaching building, residence and library.
 
-### 24/7 安全护送服务
+### The 24/7 Safe Travels Escort Service
 
-ANU 提供 **Safe Travels** 安全护送服务，适用于晚间（18:00-06:00）在校园内或周边步行感到不安的学生。学生可拨打 +61-2-6125-2249 预约，安保人员会步行或驾车护送学生至校内任意地点（包括宿舍、停车场、公交站）。该服务免费，无需提前预约，高峰期（考试周）平均等待时间为 10-15 分钟。2023 年 ANU 内部统计显示，Safe Travels 全年执行护送任务超过 1,800 次（ANU Security, 2023, Annual Safety Report）。建议学生在夜间离开图书馆或实验室时主动使用该服务。
+ANU offers the **Safe Travels** escort service for students who feel unsafe walking on or around campus at night (6:00 pm to 6:00 am). Call +61-2-6125-2249 to book, and security staff will walk or drive you to any on-campus destination (including residences, car parks and bus stops). The service is free and requires no advance booking; during peak periods (exam weeks) the average wait is 10-15 minutes. ANU internal statistics for 2023 show Safe Travels completed more than 1,800 escort jobs over the year (ANU Security, 2023, Annual Safety Report). Students leaving the library or labs at night are encouraged to use it.
 
-### 医疗与心理健康紧急通道
+### Medical and Mental Health Emergency Channels
 
-校内 **ANU Health & Wellbeing** 中心位于 Building 145，提供工作日 8:30-17:00 的普通门诊服务。非工作时间发生医疗紧急情况（如高烧、外伤、过敏反应），应直接拨打 **000**（澳大利亚紧急服务电话），要求“Ambulance”（救护车）。ANU 校园内设有 **自动体外除颤器（AED）** 共 42 台，分布在各主要建筑入口处，具体位置可在 ANU Security 官网查询。对于心理危机，ANU 提供 **24/7 心理健康支持热线** +61-1800-572-064（由专业心理咨询师接听），以及 **Lifeline** 全国热线 13 11 14。2024 年 ANU 学生体验调查显示，约 15% 的国际学生在学期内至少使用过一次心理健康支持服务（ANU Student Experience Survey, 2024）。
+The on-campus **ANU Health & Wellbeing** centre, in Building 145, provides general outpatient services on weekdays from 8:30 am to 5:00 pm. For medical emergencies outside those hours (such as high fever, trauma or allergic reactions), call **000** (Australia's emergency services number) directly and ask for "Ambulance". ANU campus has **42 automated external defibrillators (AEDs)** at the entrances of major buildings; their locations can be found on the ANU Security website. For psychological crises, ANU provides a **24/7 mental health support line** at +61-1800-572-064 (staffed by professional counsellors) and the **Lifeline** national line at 13 11 14. The 2024 ANU Student Experience Survey found that about 15% of international students used mental health support services at least once during the semester (ANU Student Experience Survey, 2024).
 
-## 紧急情况下的大使馆与校内协调机制
+## Coordinating Embassy and Campus Responses in an Emergency
 
-当事件同时涉及 **法律程序** 与 **学业连续性** 时，大使馆与校内的协调至关重要。例如，学生因涉嫌交通违法被警方拘留，使领馆可协助了解案件进展、推荐翻译服务，但不会干预司法程序。同时，学生应通过 ANU **Access & Inclusion** 团队申请学术调整，包括延期考试、作业豁免等。ANU 规定，因被拘留或紧急医疗导致无法参加考试的学生，可在事件发生后 3 个工作日内提交“特殊考虑”（Special Consideration）申请，需附上警方或医院出具的证明文件。使领馆出具的情况说明也可作为辅助材料。
+When an incident involves both **legal proceedings** and **academic continuity**, coordination between the embassy and the university matters. For example, if a student is detained by police on suspicion of a traffic offence, the consulate can help follow the case and recommend translation services, but it will not interfere in judicial proceedings. At the same time, the student should apply for academic adjustments through ANU's **Access & Inclusion** team, including exam deferrals and assignment exemptions. ANU rules allow students who cannot sit an exam because of detention or a medical emergency to submit a "Special Consideration" application within 3 working days of the incident, attaching police or hospital documentation. A statement from the consulate can be included as supporting material.
 
-### 护照遗失与旅行证件办理
+### Lost Passports and Travel Document Applications
 
-护照遗失是国际学生最常见的紧急情况之一。学生应首先向当地警方报案，获取 **警方事件编号（Police Event Number）**，然后通过“中国领事”APP 在线申请旅行证或护照补发。根据中国驻澳大利亚大使馆 2024 年发布的办理须知，旅行证通常可在 4-6 个工作日内签发，加急服务为 2-3 个工作日。在等待新证件期间，学生可联系 ANU **Student Central**（+61-2-6125-3339）申请临时身份证明，用于进出校园建筑、使用图书馆及参加考试。ANU 允许学生在补办证件期间使用护照复印件或护照照片作为临时身份凭证。
+Losing your passport is one of the most common emergencies international students face. First report the loss to local police to obtain a **Police Event Number**, then apply online through the "China Consular" app for a travel document or passport renewal. According to the Chinese Embassy in Australia's 2024 service notes, travel documents are usually issued within 4-6 working days, or 2-3 working days with the express service. While waiting for the new document, students can contact ANU **Student Central** (+61-2-6125-3339) for temporary identification to enter campus buildings, use the library and sit exams. ANU allows students awaiting replacement documents to use a passport photocopy or passport photo as temporary identification.
 
-### 自然灾害与社会骚乱应对
+### Natural Disasters and Social Unrest
 
-澳大利亚首都领地（ACT）偶发 **林火**（Bushfire）和 **极端高温** 事件。ANU 设有 **ANU Emergency Alert** 短信通知系统，所有学生注册时自动加入，需确保在 ISIS 系统中留有有效的澳大利亚手机号码。当 ACT 政府发布“紧急警告”（Emergency Warning）级别警报时，ANU 会通过该系统发送疏散指令。学生应提前熟悉宿舍及教学楼的 **消防疏散路线**，并准备应急包（含护照、签证打印件、现金、药品）。2020 年 ACT 林火期间，ANU 临时开放了 3 栋宿舍楼作为避难所，安置了超过 200 名国际学生（ANU Emergency Management, 2020, After-Action Report）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5%E6%B1%82%E5%8A%A9%E6%B8%A0%E9%81%93%E5%A4%A7%E4%BD%BF%E9%A6%86%E4%B8%8E%E6%A0%A1%E5%86%85%E6%94%AF%E6%8C%81) 等专业通道完成结汇，确保资金在紧急情况下仍能安全到账。
+The Australian Capital Territory occasionally experiences **bushfires** and **extreme heat** events. ANU runs the **ANU Emergency Alert** SMS notification system, which all students are automatically enrolled in at registration — make sure ISIS holds a valid Australian mobile number. When the ACT Government issues an "Emergency Warning" level alert, ANU sends evacuation instructions through this system. Students should familiarise themselves with the **fire evacuation routes** of their residence and teaching buildings in advance, and prepare an emergency kit (passport, printed visa, cash and medicines). During the 2020 ACT bushfires, ANU temporarily opened 3 residential buildings as shelters, housing more than 200 international students (ANU Emergency Management, 2020, After-Action Report). For cross-border tuition payments, some families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5%E6%B1%82%E5%8A%A9%E6%B8%A0%E9%81%93%E5%A4%A7%E4%BD%BF%E9%A6%86%E4%B8%8E%E6%A0%A1%E5%86%85%E6%94%AF%E6%8C%81) to convert and remit funds, so money still arrives safely even in an emergency.
 
-## 常见非紧急问题与校内资源
+## Common Non-Emergency Issues and On-Campus Resources
 
-并非所有问题都属于紧急情况。对于 **签证咨询**、**租房纠纷**、**银行账户问题** 等非紧急事项，学生应优先使用校内资源。ANU **International Student Support** 团队位于 Building 101，提供工作日 9:00-17:00 的面对面咨询，无需预约。该团队可协助联系移民代理（MARA 注册）、解读签证条款（如 8105 工作限制）、协调与房东之间的沟通。此外，ANU **Legal Service** 提供免费法律咨询（每次 30 分钟），涵盖租房、就业、交通罚单等民事领域。2023 年该服务共接待国际学生咨询 620 人次（ANU Student Legal Service, 2023, Annual Report）。
+Not every problem is an emergency. For non-urgent matters such as **visa enquiries**, **rental disputes** and **bank account issues**, students should use on-campus resources first. The ANU **International Student Support** team, in Building 101, offers drop-in face-to-face consultations on weekdays from 9:00 am to 5:00 pm, no appointment needed. The team can help connect you with a migration agent (MARA-registered), explain visa conditions (such as the 8105 work limit) and coordinate communication with landlords. In addition, ANU **Legal Service** provides free legal advice (30 minutes per session) covering civil matters such as renting, employment and traffic fines. In 2023 the service saw 620 international student consultations (ANU Student Legal Service, 2023, Annual Report).
 
-### 文化适应与社区支持
+### Cultural Adjustment and Community Support
 
-ANU 设有 **Global Programs & Student Mobility** 部门，定期组织“国际学生欢迎周”、文化交流工作坊及 Buddy Program。新入学国际学生可申请与高年级学生（Peer Mentor）配对，获得校园导航、选课建议及社交支持。ANU 还运营 **ANU International Student Association (ANUSA)**，每年举办超过 40 场活动，覆盖春节、排灯节、开斋节等多元文化节日。根据 ANU 2024 年新生调查，参与 Buddy Program 的学生在第一个学期的退学率比未参与者低 18%（ANU First Year Experience Survey, 2024）。这些社区资源有助于减少孤立感，降低因文化冲击引发的心理危机风险。
+ANU's **Global Programs & Student Mobility** division regularly organises "International Student Welcome Week", cross-cultural workshops and the Buddy Program. New international students can be matched with senior students (Peer Mentors) for help navigating campus, choosing courses and settling in socially. ANU also runs the **ANU International Student Association (ANUSA)**, which puts on more than 40 events a year covering multicultural festivals such as Chinese New Year, Diwali and Eid. According to ANU's 2024 first-year survey, students who took part in the Buddy Program had an 18% lower dropout rate in their first semester than those who did not (ANU First Year Experience Survey, 2024). These community resources help reduce isolation and lower the risk of psychological crises triggered by culture shock.
 
-## 建议的紧急联系卡与准备工作
+## A Recommended Emergency Contact Card and Preparation
 
-每位国际学生应制作一张 **紧急联系卡**，随身携带。卡片上应包含以下信息：护照全名、出生日期、中国护照号码、澳大利亚签证类别及有效期、中国驻澳大使馆领保电话 +61-2-6228-3948、ANU 安全热线 +61-2-6125-2249、澳大利亚紧急电话 000、一位在澳紧急联系人姓名及电话（非父母）、国内紧急联系人姓名及电话。卡片应使用中英文双语书写。建议将卡片拍照存入手机相册，并打印两份（一份放钱包，一份放宿舍书桌）。ANU 在新生入学周（O-Week）期间会发放类似格式的卡片，学生也可在 Student Central 免费领取。
+Every international student should carry an **emergency contact card** with the following information: full name as on passport, date of birth, Chinese passport number, Australian visa class and expiry date, the Chinese Embassy's consular protection line +61-2-6228-3948, the ANU security hotline +61-2-6125-2249, Australia's emergency number 000, the name and phone number of one emergency contact in Australia (not a parent), and the name and phone number of a contact back home. The card should be written bilingually in Chinese and English. Photograph the card and keep it in your phone, and print two copies (one in your wallet, one on your desk in your residence). ANU hands out cards in a similar format during O-Week, and they can also be picked up free from Student Central.
 
-### 数字备份与信息共享
+### Digital Backups and Information Sharing
 
-除实体卡片外，学生应在手机中设置 **医疗急救卡（Medical ID）**（iOS 或 Android 均支持），可显示紧急联系人、血型、过敏史等信息，无需解锁即可查看。同时，建议将护照信息页、签证信（Grant Letter）、OSHC 保险卡、学生证扫描件加密存储在云端（如 Google Drive 或 iCloud），并授权一位信任的联系人（如室友或朋友）访问。2023 年 ANU 内部安全培训建议，学生应每学期初检查一次紧急联系信息的有效性，包括使领馆电话是否更新、保险是否续期、手机号码是否仍为 ACT 本地号。
+Beyond the physical card, students should set up **Medical ID** on their phone (supported on both iOS and Android), which can display emergency contacts, blood type and allergies without unlocking the device. It is also worth storing encrypted copies of your passport information page, visa Grant Letter, OSHC insurance card and student ID scan in the cloud (such as Google Drive or iCloud), and authorising one trusted contact (a housemate or friend) to access them. ANU's 2023 internal security training recommends that students check the validity of their emergency contact information at the start of each semester — whether the consulate numbers have changed, whether insurance is renewed, and whether the mobile number is still an ACT local number.
 
 ## FAQ
 
-### Q1：在 ANU 校园内拨打 000 后，是否需要通知中国大使馆？
+### Q1: After calling 000 on the ANU campus, do I need to notify the Chinese Embassy?
 
-不需要立即通知。拨打 000 后，警方、消防或救护车会优先处理现场。待现场安全后，学生或在场人员可联系中国驻澳大利亚大使馆领保电话 +61-2-6228-3948，通报事件基本情况。对于涉及中国公民重伤或死亡的事件，使领馆通常会在 24 小时内主动通过澳方渠道获知，但学生主动通报可加速协助流程。2023 年 ACT 地区涉中国公民紧急事件中，约 70% 由学生或家属主动联系使领馆（中国驻澳大利亚大使馆，2023，领事保护工作简报）。
+Not immediately. After you call 000, the police, fire or ambulance service deals with the scene first. Once the scene is safe, the student or someone present can contact the Chinese Embassy's consular protection line at +61-2-6228-3948 to report the basic details. For incidents involving serious injury or death of a Chinese citizen, the mission is usually informed by Australian authorities within 24 hours anyway, but a proactive call from the student can speed up the assistance process. Of the emergency incidents involving Chinese citizens in the ACT in 2023, about 70% were first reported to the mission by the students or their families themselves (Chinese Embassy in Australia, 2023, Consular Protection Briefing).
 
-### Q2：护照在 ANU 校园内丢失，最快多久可以补办？
+### Q2: If I lose my passport on the ANU campus, how fast can I get a replacement?
 
-护照补发通常需要 10-15 个工作日，但旅行证可在 4-6 个工作日内签发（加急 2-3 个工作日）。学生需先向 ACT 警方报案（拨打 131-444 非紧急警察热线或前往 City Police Station），获取警方事件编号。然后通过“中国领事”APP 在线提交申请，并选择到中国驻澳大利亚大使馆（Canberra）领取。在等待新证件期间，可联系 ANU Student Central 获取临时身份证明，用于校内活动。
+Passport renewal usually takes 10-15 working days, but a travel document can be issued in 4-6 working days (2-3 with the express service). First report the loss to ACT police (call the 131-444 non-emergency police line or go to the City Police Station) to get a Police Event Number. Then submit your application online through the "China Consular" app and choose to collect the document from the Chinese Embassy in Australia (Canberra). While waiting, contact ANU Student Central for temporary identification for on-campus activities.
 
-### Q3：ANU 的 Safe Travels 服务是否覆盖校园外的区域？
+### Q3: Does the ANU Safe Travels service cover areas outside campus?
 
-Safe Travels 服务主要覆盖 **ANU 主校区**（Acton Campus）及相邻的郊区道路（如 Barry Drive、North Road 沿线）。对于更远的区域（如 Belconnen、Civic 市中心），安保人员可根据情况评估是否护送，但通常仅限步行 15 分钟或驾车 5 分钟内的范围。超出该范围，建议学生使用出租车或公交，并保持手机畅通。2023 年 Safe Travels 服务中，约 85% 的护送请求在校园边界内完成（ANU Security, 2023, Annual Safety Report）。
+Safe Travels mainly covers the **ANU main campus** (Acton Campus) and adjacent suburban roads (such as along Barry Drive and North Road). For farther areas (such as Belconnen or the Civic city centre), security staff can assess on a case-by-case basis, but escorts are generally limited to a 15-minute walk or a 5-minute drive. Beyond that range, students are advised to take a taxi or bus and keep their phone on. In 2023, about 85% of Safe Travels escort requests were completed within the campus boundary (ANU Security, 2023, Annual Safety Report).
 
 ## 参考资料
 
 - Australian Government Department of Education. (2024). *International Student Data – Monthly Summary*.
-- 中国外交部领事司. (2023). *领事保护工作年报*.
+- Consular Affairs Department, Ministry of Foreign Affairs of China. (2023). *Consular Protection Annual Report*.
 - ANU Security. (2023). *Annual Safety Report*.
 - ANU Student Experience Survey. (2024). *Mental Health Support Utilization Data*.
 - UNILINK Education. (2024). *ANU International Student Support Database*.

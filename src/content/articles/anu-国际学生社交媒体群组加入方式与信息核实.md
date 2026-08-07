@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生社交媒体群组加入方式与信息核实"
-description: "截至2025年，澳大利亚国立大学（ANU）在校国际学生人数超过10,400人，占全校学生总数的约44%（澳大利亚教育部，2025年，国际学生数据报告）。随着社交媒体成为信息获取的主要渠道，ANU官方及学生自发运营的微信、WhatsApp、Discord等群组数量在过去三年增长了约65%（ANU学生协会，2024年…"
+slug: anu-国际学生社交媒体群组加入方式与信息核实
+title: "How to Join ANU International Student Social Media Groups and Verify Information"
+description: "As of 2025, the Australian National University (ANU) has more than 10,400 international students enrolled, accounting for around 44% of the total student population (Australian Department of Education, 2025, International Student Data Report). As social media has become the main channel for obtaining information, the number of WeChat, WhatsApp and Discord groups run by ANU official bodies and by students themselves has grown by around 65% in the past three years (ANU Student Association, 2024, Annual Digital Community Survey). However, fake groups and scam messages have increased in parallel: in 2024 Canberra police received at least 12 reports of social media scams targeting international students, half of which involved fake new student groups (Australian Competition and Consumer Commission, 2024, Scamwatch Annual Report). This article systematically outlines the official ways to join ANU international student social media groups, methods for verifying information and safe usage guidelines, helping new and current students obtain reliable information efficiently."
 category: "ANU 国际学生社交媒体"
 pubDatetime: '2026-03-25T19:52:21Z'
 publishDate: '2026-03-25T19:52:21Z'
@@ -10,82 +11,86 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生社交媒体群组加入方式与信息核实-2026-1880x1253.jpg"
 ---
 
-截至2025年，澳大利亚国立大学（ANU）在校国际学生人数超过10,400人，占全校学生总数的约44%（澳大利亚教育部，2025年，国际学生数据报告）。随着社交媒体成为信息获取的主要渠道，ANU官方及学生自发运营的微信、WhatsApp、Discord等群组数量在过去三年增长了约65%（ANU学生协会，2024年，数字社区年度调查）。然而，虚假群组与诈骗信息同步增加，2024年堪培拉警方接获至少12起针对国际学生的社交媒体诈骗报案，其中半数与虚假“新生群”有关（澳大利亚竞争与消费者委员会，2024年，Scamwatch年度报告）。本文系统梳理ANU国际学生社交媒体群组的官方加入路径、信息核实方法及安全使用准则，帮助新生与在读学生高效获取真实信息。
+As of 2025, the Australian National University (ANU) has more than 10,400 international students enrolled, accounting for around 44% of the total student population (Australian Department of Education, 2025, International Student Data Report). As social media has become the main channel for obtaining information, the number of WeChat, WhatsApp and Discord groups run by ANU official bodies and by students themselves has grown by around 65% in the past three years (ANU Student Association, 2024, Annual Digital Community Survey). At the same time, fake groups and scam messages have increased in parallel: in 2024 Canberra police received at least 12 reports of social media scams targeting international students, half of which were linked to fake "new student groups" (Australian Competition and Consumer Commission, 2024, Scamwatch Annual Report). This article provides a systematic overview of the official ways to join ANU international student social media groups, methods for verifying information and safe usage guidelines, helping new and current students obtain reliable information efficiently.
 
-## 官方群组获取渠道
+## Official Channels for Finding Groups
 
-ANU通过多个官方平台运营认证社交媒体群组，覆盖入学前、在校期间及毕业后的全周期需求。这些群组的核心特征是运营主体明确、信息发布受学校品牌管理规定约束。
+ANU operates certified social media groups through multiple official platforms, covering the full range of needs before enrolment, during study and after graduation. The defining features of these groups are a clearly identifiable operator and content subject to the University's brand management rules.
 
-### 官方微信生态
+### The Official WeChat Ecosystem
 
-ANU在微信平台设有**官方公众号“ANU澳洲国立大学”**（账号主体：Australian National University），该账号于2014年认证，截至2025年5月粉丝数约38,000人。公众号菜单栏设有“新生指南”入口，点击后可获取各学院官方微信群二维码。这些群组由ANU国际学生招生办公室（International Recruitment Team）直接管理，每周至少更新3次官方通知。根据ANU数字策略办公室2024年内部审计，官方微信群平均响应时间为2.3小时，非官方群组则可能超过24小时。
+ANU runs an **official WeChat public account "ANU澳洲国立大学"** (account entity: Australian National University), which was verified in 2014 and, as of May 2025, has around 38,000 followers. The account's menu bar has a "New Student Guide" (新生指南) entry; tapping it gives access to QR codes for the official WeChat groups of each college. These groups are managed directly by the ANU International Recruitment Team and publish official notices at least 3 times a week. According to an internal audit by the ANU Office of Digital Strategy in 2024, the average response time in official WeChat groups is 2.3 hours, while unofficial groups can take more than 24 hours.
 
-### 官方WhatsApp与Discord
+### Official WhatsApp and Discord
 
-ANU学生协会（ANUSA）运营的**WhatsApp新生群**在每年第一学期（2月）和第二学期（7月）开学前6周开放注册。注册需通过ANU学生邮箱（@anu.edu.au）验证，每人限加一个群组，群成员上限为256人。Discord方面，ANU信息技术服务部（ITS）于2023年创建了**ANU Community Discord**服务器，内含按课程代码、社团活动、住宿区分频道的结构。截至2025年3月，该服务器活跃用户超过1,200人，每天消息量约800条。所有官方Discord频道均要求绑定ANU学生账户（使用SAML认证），未绑定账户的访客仅能访问“公告”和“规则”两个只读频道。
+The **WhatsApp new student groups** run by the ANU Student Association (ANUSA) open registration 6 weeks before the start of each first semester (February) and second semester (July). Registration requires verification through an ANU student email (@anu.edu.au), each person may join only one group, and groups are capped at 256 members. On Discord, ANU Information Technology Services (ITS) created the **ANU Community Discord** server in 2023, structured with channels by course code, club activity and residential area. As of March 2025, the server has more than 1,200 active users and around 800 messages per day. All official Discord channels require linking to an ANU student account (using SAML authentication); visitors without a linked account can only access the two read-only channels "Announcements" and "Rules".
 
-## 第三方与校友群组识别
+## Identifying Third-Party and Alumni Groups
 
-除官方渠道外，大量由学生、校友或商业机构运营的群组同样活跃。这些群组在信息时效性和准确性上存在显著差异，需要用户主动验证。
+In addition to official channels, many groups run by students, alumni or commercial organisations are equally active. These groups vary significantly in the timeliness and accuracy of their information, so users need to verify actively.
 
-### 校友运营群组特征
+### Characteristics of Alumni-Run Groups
 
-ANU校友网络（ANU Alumni Network）在LinkedIn上拥有超过**180,000名成员**（ANU校友办公室，2025年，年度报告），其中约15%位于中国大陆。校友群组通常以“ANU校友会-城市名”命名，如“ANU校友会-北京”（成立于2016年，成员约2,400人）。这类群组的主要功能是职业信息共享和线下活动组织，不提供课程咨询或行政事务解答。识别校友群组的关键指标包括：群主是否为ANU校友办公室认证的“校友大使”（可通过ANU官网校友名录交叉查询）、群公告是否包含年度活动计划、以及群内是否频繁出现非ANU相关的商业推广。
+The ANU Alumni Network has more than **180,000 members** on LinkedIn (ANU Alumni Office, 2025, Annual Report), around 15% of whom are located in mainland China. Alumni groups are usually named "ANU Alumni Association - City Name", such as "ANU Alumni Association - Beijing" (founded in 2016, with around 2,400 members). The main functions of these groups are sharing career information and organising offline events; they do not provide course advice or administrative assistance. Key indicators for identifying alumni groups include: whether the group owner is an "Alumni Ambassador" certified by the ANU Alumni Office (which can be cross-checked through the alumni directory on the ANU website), whether the group announcement includes an annual activity plan, and whether non-ANU-related commercial promotions appear frequently in the group.
 
-### 商业中介群组风险
+### Risks of Commercial Agent Groups
 
-部分留学中介机构运营的“ANU新生群”可能包含**误导性信息**。澳大利亚国际教育协会（IEAA）2024年发布的白皮书指出，约30%的第三方留学群组在群公告中未明确披露运营方身份，其中7%被发现使用虚假ANU官方标识。识别方法包括：检查群头像是否使用ANU校徽（官方群组仅使用标准色板#0066CC和#FFFFFF的组合）、群公告中是否包含“本群由XXX公司运营”的免责声明、以及群主个人资料是否关联到已知的中介公司。ANU官方明确表示，任何未经授权的商业使用校徽行为均违反其品牌指南（ANU品牌政策，2023年修订版）。
+Some "ANU new student groups" run by education agents may contain **misleading information**. A white paper released by the International Education Association of Australia (IEAA) in 2024 points out that around 30% of third-party study-abroad groups do not clearly disclose who operates them in their announcements, and 7% were found to use fake ANU official branding. Ways to identify them include: checking whether the group avatar uses the ANU crest (official groups use only the standard palette of #0066CC and #FFFFFF), whether the group announcement contains a disclaimer such as "this group is operated by XXX company", and whether the group owner's profile is linked to a known agent company. ANU has made clear that any unauthorised commercial use of its crest violates its brand guidelines (ANU Brand Policy, 2023 revision).
 
-## 信息核实方法论
+## Information Verification Methods
 
-在加入任何社交媒体群组后，用户应建立系统化的信息核实流程，以区分可靠信息与谣言。
+After joining any social media group, users should establish a systematic information verification process to distinguish reliable information from rumours.
 
-### 交叉验证规则
+### Cross-Verification Rules
 
-对于群组内发布的任何涉及**课程要求、签证条款、截止日期**的信息，建议执行“三源验证”：首先在ANU官方网站（anu.edu.au）搜索相关关键词，其次核对ANU学生手册（Student Handbook）对应章节，最后通过ANU学生中心（Student Central）或课程协调员邮件确认。ANU学生中心2024年统计显示，群组中流传的“课程必须选满4门”的说法实际只适用于全日制签证持有者，而部分研究生课程允许每学期注册3门课（ANU学生中心，2024年，常见问题FAQ）。交叉验证可避免因误信错误信息导致的选课失误。
+For any information posted in a group involving **course requirements, visa conditions or deadlines**, it is recommended to follow a "three-source verification" process: first, search for the relevant keywords on the ANU official website (anu.edu.au); second, check the corresponding chapter of the ANU Student Handbook; and third, confirm by email with ANU Student Central or the course coordinator. ANU Student Central statistics for 2024 show that the claim circulating in groups that "you must enrol in 4 courses" actually applies only to full-time visa holders, while some postgraduate programs allow enrolment in 3 courses per semester (ANU Student Central, 2024, FAQ). Cross-verification can prevent enrolment mistakes caused by believing incorrect information.
 
-### 时间戳与版本检查
+### Timestamp and Version Checks
 
-社交媒体群组中的信息常因**转发多次而失去原始时间戳**。ANU学术日历每年发布一次（通常在9月公布次年日历），但群组中常出现前一年的过期版本。例如，2024年群组中流传的“2025年第一学期开学日为2月17日”，实际ANU官方在2024年9月公布的日历显示开学日为2月24日（ANU学术注册处，2024年，2025年学术日历）。验证方法：要求信息发布者提供原始来源链接，或直接访问ANU学术日历页面（anu.edu.au/students/academic-skills/academic-calendar）核对。
+Information in social media groups often **loses its original timestamp after being forwarded many times**. The ANU academic calendar is published once a year (usually in September for the following year), but outdated versions from previous years frequently circulate in groups. For example, a claim circulating in groups in 2024 that "the Semester 1 2025 start date is 17 February" was contradicted by the calendar officially published by ANU in September 2024, which showed the start date as 24 February (ANU Academic Registrar's Office, 2024, 2025 Academic Calendar). How to verify: ask the person who posted the information to provide the original source link, or check the ANU academic calendar page directly (anu.edu.au/students/academic-skills/academic-calendar).
 
-## 安全使用准则
+## Safe Usage Guidelines
 
-社交媒体群组在提供便利的同时，也带来隐私泄露与诈骗风险。ANU网络安全办公室（Cyber Security Office）2024年发布了针对学生的安全指南。
+While social media groups are convenient, they also bring risks of privacy leakage and scams. The ANU Cyber Security Office released security guidelines for students in 2024.
 
-### 个人信息保护
+### Protecting Personal Information
 
-在群组中分享**学生ID号、护照信息、银行账户**等敏感数据是高风险行为。ANU网络安全办公室建议，任何要求提供上述信息的群组活动（如“代缴学费优惠”、“奖学金代申请”）都应被视为诈骗。2024年堪培拉警方破获的一起案件中，诈骗者通过虚假“ANU二手书群”收集了超过50名学生的学生ID和出生日期，用于申请小额贷款（澳大利亚联邦警察，2024年，年度网络犯罪报告）。安全做法：仅在ANU官方系统（如ISIS、Wattle）中输入个人信息，社交媒体群组中只使用昵称或学号后四位。
+Sharing sensitive data such as **student ID numbers, passport information and bank account details** in groups is high-risk behaviour. The ANU Cyber Security Office advises that any group activity requesting such information (for example, "pay your tuition for you at a discount" or "apply for scholarships on your behalf") should be treated as a scam. In one case cracked by Canberra police in 2024, scammers collected the student IDs and dates of birth of more than 50 students through a fake "ANU second-hand books group" and used them to apply for small loans (Australian Federal Police, 2024, Annual Cybercrime Report). Safe practice: enter personal information only into official ANU systems (such as ISIS and Wattle), and use only a nickname or the last four digits of your student ID in social media groups.
 
-### 链接与文件安全
+### Link and File Safety
 
-群组中分享的**链接和文件**可能包含恶意软件。ANU IT服务部2024年检测到至少8起通过社交媒体群组传播的钓鱼邮件事件，其中3起伪装成“课程资料共享”链接，实际指向伪造的ANU登录页面。鉴别方法：将鼠标悬停在链接上查看实际URL（官方域名应为*.anu.edu.au），不下载扩展名为.exe、.scr或.zip的未知文件。对于PDF或Word文档，建议先通过ANU提供的免费在线沙盒（如Cisco Talos文件分析工具）进行扫描。
+**Links and files** shared in groups may contain malware. ANU IT Services detected at least 8 phishing incidents spread through social media groups in 2024, 3 of which were disguised as "course materials sharing" links that actually pointed to fake ANU login pages. How to tell: hover over a link to check the actual URL (official domains should be *.anu.edu.au), and do not download unknown files with extensions such as .exe, .scr or .zip. For PDF or Word documents, it is recommended to scan them first using a free online sandbox provided by ANU (such as the Cisco Talos file analysis tool).
 
-## 群组管理规范与举报机制
+## Group Management Rules and Reporting Mechanisms
 
-ANU对社交媒体群组的管理遵循其“学生行为准则”（Student Conduct Rules 2023）和“社交媒体政策”（Social Media Policy 2023）。违反规定的群组可能被要求整改或解散。
+ANU's management of social media groups follows its "Student Conduct Rules 2023" and "Social Media Policy 2023". Groups that breach the rules may be required to rectify their practices or may be disbanded.
 
-### 官方群组管理流程
+### Management Process for Official Groups
 
-ANU官方群组由各学院或学生事务部指定**管理员**，每位管理员需完成ANU提供的“社交媒体管理培训”（每年更新）。管理员有权删除违反群规的帖子，包括但不限于：商业广告、人身攻击、虚假信息。群规通常明确禁止发布“代写广告”或“签证造假服务”，违反者将被移除群组并可能上报学术诚信委员会。ANU学生协会2024年报告显示，其管理的微信群中平均每月移除约15条违规内容，其中代写广告占40%。
+Each official ANU group has **administrators** appointed by the relevant college or the Division of Student Life, and every administrator must complete the "Social Media Management Training" provided by ANU (updated annually). Administrators have the authority to delete posts that breach group rules, including but not limited to: commercial advertising, personal attacks and false information. Group rules typically prohibit posting "ghost-writing advertisements" or "visa fraud services"; those who violate the rules will be removed from the group and may be reported to the Academic Integrity Committee. A 2024 report from the ANU Student Association shows that the WeChat groups it manages remove an average of around 15 rule-breaking posts per month, 40% of which are ghost-writing advertisements.
 
-### 用户举报途径
+### User Reporting Channels
 
-对于非官方群组中的违规行为，学生可通过以下渠道举报：ANU学生中心在线表格（student-complaint.anu.edu.au）、ANU安全办公室电话（+61 2 6125 2249，24小时）、或通过ANU学生邮箱直接联系学生事务主任（deanofstudents@anu.edu.au）。2024年，ANU通过举报机制关闭了至少4个冒充官方群组的第三方群组。举报时需提供群组名称、运营者信息（如微信ID、WhatsApp号码）以及违规截图，ANU通常在5个工作日内给出初步回复。
+For violations in unofficial groups, students can report through the following channels: the ANU Student Central online form (student-complaint.anu.edu.au), the ANU Security Office phone line (+61 2 6125 2249, 24 hours), or by contacting the Dean of Students directly from an ANU student email (deanofstudents@anu.edu.au). In 2024, ANU shut down at least 4 third-party groups posing as official groups through its reporting mechanism. When reporting, you need to provide the group name, the operator's details (such as WeChat ID or WhatsApp number) and screenshots of the violations; ANU usually gives an initial response within 5 working days.
 
-## 常见问题FAQ
+## FAQ
 
-### Q1：如何确认一个ANU微信群是官方运营的？
-官方微信群的头像使用ANU标准校徽（蓝底白字，色号#0066CC），群公告包含“本群由ANU国际学生招生办公室管理”字样。您可以通过ANU公众号菜单栏“新生指南”获取官方群二维码，或发送邮件至international.recruitment@anu.edu.au核实群组ID。ANU官方群组管理员均使用带有@anu.edu.au后缀的邮箱注册的微信账号，非官方群组通常使用个人邮箱或商业邮箱注册。
+### Q1: How can I confirm that an ANU WeChat group is officially operated?
 
-### Q2：在ANU微信群中看到“代写广告”应该怎么办？
-ANU学术诚信政策（Academic Integrity Policy 2024）明确规定，使用代写服务属于学术不端行为，可导致课程成绩取消或退学。如果您在群组中看到代写广告，请截图并发送至ANU学术诚信办公室（academic-integrity@anu.edu.au）。ANU与澳大利亚联邦警察合作，2024年已追踪到至少3个代写广告背后的境外IP地址，并移交当地执法机构。请不要直接回复或点击广告中的链接。
+Official WeChat groups use the ANU standard crest as their avatar (blue background with white text, colour #0066CC), and the group announcement contains the words "this group is managed by the ANU International Recruitment Team". You can obtain the QR codes of official groups through the "New Student Guide" entry in the menu bar of the ANU public account, or verify a group ID by emailing international.recruitment@anu.edu.au. Administrators of official ANU groups all use WeChat accounts registered with an email address ending in @anu.edu.au; unofficial groups are usually registered with personal or commercial email addresses.
 
-### Q3：ANU是否有官方的微信小程序或APP？
-截至2025年，ANU没有发布任何官方微信小程序。ANU官方移动应用为“ANU Mobile”（可在Apple App Store和Google Play下载），该应用整合了课程表、Wattle学习管理系统、校园地图和紧急通知功能。任何声称是“ANU官方微信小程序”的应用均未获授权。ANU数字策略办公室表示，未来12个月内暂无开发微信小程序的计划，建议学生优先使用ANU Mobile应用获取校园信息。
+### Q2: What should I do if I see a "ghost-writing advertisement" in an ANU WeChat group?
 
-## 参考资料
-- 澳大利亚教育部 2025年 国际学生数据报告
-- 澳大利亚竞争与消费者委员会 2024年 Scamwatch年度报告
-- ANU学生协会 2024年 数字社区年度调查
-- ANU网络安全办公室 2024年 学生网络安全指南
-- UNILINK Education 2025年 澳大利亚高校社交媒体群组数据库
+The ANU Academic Integrity Policy (2024) clearly states that using ghost-writing services constitutes academic misconduct and can lead to cancellation of course grades or expulsion. If you see a ghost-writing advertisement in a group, take a screenshot and send it to the ANU Academic Integrity Office (academic-integrity@anu.edu.au). ANU works with the Australian Federal Police and in 2024 traced at least 3 overseas IP addresses behind ghost-writing advertisements and handed them over to local law enforcement. Do not reply to or click the links in such advertisements.
+
+### Q3: Does ANU have an official WeChat mini-program or app?
+
+As of 2025, ANU has not released any official WeChat mini-program. ANU's official mobile app is "ANU Mobile" (available on the Apple App Store and Google Play), which integrates the timetable, the Wattle learning management system, the campus map and emergency notifications. Any app claiming to be the "official ANU WeChat mini-program" is unauthorised. The ANU Office of Digital Strategy has stated that there are no plans to develop a WeChat mini-program within the next 12 months, and recommends that students use the ANU Mobile app to obtain campus information.
+
+## References
+
+- Australian Department of Education. 2025. International Student Data Report
+- Australian Competition and Consumer Commission. 2024. Scamwatch Annual Report
+- ANU Student Association. 2024. Annual Digital Community Survey
+- ANU Cyber Security Office. 2024. Student Cyber Security Guide
+- UNILINK Education. 2025. Australian University Social Media Groups Database

@@ -1,6 +1,7 @@
 ---
+slug: anu-classics-and-ancient-history-latin-reading-group-schedule-text-selections-an
 title: "ANU Classics and Ancient History Latin Reading Group: Schedule, Text Selections, and How to Join as a Beginner"
-description: "澳洲国立大学（ANU）古典学与古代史系的拉丁语阅读小组（Latin Reading Group）是一个面向全校师生及公众开放的学术性文本研读活动，自2010年起持续运行，年均举办约30场次。根据ANU古典学系2024年发布的《年度学术活动报告》，该小组每学期吸引约25至40名固定参与者，其中约30%为无拉丁语基础…"
+description: "The Latin Reading Group of the ANU Classics and Ancient History discipline is an academic text-reading activity open to all staff, students, and the public. Running continuously since 2010, it holds about 30 sessions a year. According to the discipline's 2024 Annual Academic Activities Report, the group attracts around 25-40 regular participants each semester, about 30% of whom are complete beginners."
 category: "ANU"
 pubDatetime: '2026-05-15T20:02:10Z'
 publishDate: '2026-05-15T20:02:10Z'
@@ -10,76 +11,76 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-classics-and-ancient-history-latin-reading-group-schedule-text-selections-an-2026-1880x1253.jpg"
 ---
 
-澳洲国立大学（ANU）古典学与古代史系的拉丁语阅读小组（Latin Reading Group）是一个面向全校师生及公众开放的学术性文本研读活动，自2010年起持续运行，年均举办约30场次。根据ANU古典学系2024年发布的《年度学术活动报告》，该小组每学期吸引约25至40名固定参与者，其中约30%为无拉丁语基础的初学者。在当前全球古典语言学习需求回升的背景下——澳大利亚人文科学院（AAH）2023年数据显示，澳洲高校拉丁语课程注册人数较2018年增长17%——该小组为初学者提供了低门槛的入门路径。
+The Latin Reading Group of the Classics and Ancient History discipline at the Australian National University (ANU) is an academic text-reading activity open to all staff, students, and the public. It has run continuously since 2010, holding around 30 sessions a year. According to the *Annual Academic Activities Report* published by the ANU Classics discipline in 2024, the group attracts about 25 to 40 regular participants each semester, of whom about 30% are complete beginners with no Latin background. Against the current resurgence in demand for classical language learning — Australian Academy of the Humanities (AAH) 2023 data shows Latin course enrolments at Australian universities have grown 17% compared with 2018 — the group offers beginners a low-barrier entry path.
 
-## 小组运行时间与频率
+## Schedule and Frequency
 
-该阅读小组遵循ANU的学期日历（Semester 1：2月至5月；Semester 2：7月至10月），每学期安排14至16次活动。**常规活动时间**为每周三下午4:00至5:30（澳大利亚东部标准时间），地点固定在A.D. Hope Building（Building 14）的古典学系研讨室（Room 2.42）。根据ANU古典学系2024年发布的《学期活动日程表》，学期中不设活动周（即期中假期周）暂停一次，其余日期均按计划进行。
+The reading group follows the ANU semester calendar (Semester 1: February to May; Semester 2: July to October), holding 14 to 16 sessions per semester. **Regular sessions** run every Wednesday from 4:00 to 5:30 pm (Australian Eastern Standard Time), in the Classics seminar room (Room 2.42) of the A.D. Hope Building (Building 14). According to the *Semester Activities Timetable* published by the ANU Classics discipline in 2024, no sessions are held during the semester break (the mid-semester holiday week); all other dates proceed as scheduled.
 
-**假期与考试期安排**：在学期末考试周（Week 14至Week 16）以及ANU官方公共假期（如澳洲国庆日1月26日、复活节假期等），小组活动暂停。夏季学期（11月至2月）不设常规活动，但偶尔会举办单次专题研读会，具体日期通过系内邮件列表通知。
+**Holiday and exam period arrangements**: sessions pause during the end-of-semester exam weeks (Week 14 to Week 16) and on official ANU public holidays (such as Australia Day on 26 January and the Easter break). The summer semester (November to February) has no regular sessions, but occasional one-off themed reading events are held, with dates announced through the discipline's mailing list.
 
-## 文本选择范围与轮换机制
+## Text Selection Range and Rotation Mechanism
 
-小组的**核心文本库**涵盖拉丁文学的主要时期与体裁，每学期选定一个主题。根据ANU古典学系官网2024年更新的《阅读小组章程》，文本轮换遵循三年周期，覆盖以下类别：共和晚期散文（如西塞罗《论共和国》）、奥古斯都时期诗歌（如维吉尔《埃涅阿斯纪》）、帝国时期历史著作（如塔西佗《编年史》）、晚期拉丁语基督教文本（如奥古斯丁《忏悔录》）以及中世纪拉丁语文献（如比德《英吉利教会史》）。
+The group's **core text library** spans the major periods and genres of Latin literature, with a theme chosen each semester. According to the *Reading Group Charter* updated on the ANU Classics website in 2024, texts rotate on a three-year cycle covering the following categories: late Republican prose (such as Cicero's *De Re Publica*), Augustan poetry (such as Virgil's *Aeneid*), Imperial historical works (such as Tacitus' *Annals*), late Latin Christian texts (such as Augustine's *Confessions*), and medieval Latin literature (such as Bede's *Ecclesiastical History of the English People*).
 
-**每学期文本选择**由小组协调员（通常为古典学系博士候选人或荣誉研究员）在学期开始前两周确定，并通过ANU古典学系邮件列表和系内公告板发布。2024年Semester 1的研读文本为卢克莱修《物性论》（*De Rerum Natura*）第3卷，聚焦于死亡与灵魂的原子论论述；Semester 2的文本为奥维德《变形记》（*Metamorphoses*）第8卷中代达洛斯与伊卡洛斯的故事段落。
+**Each semester's text selection** is decided by the group coordinator (usually a Classics PhD candidate or honorary research fellow) two weeks before the semester starts, and announced through the ANU Classics mailing list and the discipline's notice board. The reading text for 2024 Semester 1 was Book 3 of Lucretius' *De Rerum Natura*, focusing on the atomist account of death and the soul; the Semester 2 text was the episode of Daedalus and Icarus from Book 8 of Ovid's *Metamorphoses*.
 
-### 初学者适配文本
+### Beginner-Friendly Texts
 
-小组每年至少安排一个**初学者友好单元**，选择语法复杂度较低的文本。例如，2023年Semester 2选择了普林尼《书信集》（*Epistulae*）第6卷第16封（描述维苏威火山爆发），该文本以古典拉丁语散文体写成，句子结构相对简单，词汇重复率高。协调员会为每位参与者提供**语法注释版文本**（含词形解析与句法标注），并标注阅读难点。
+Each year the group schedules at least one **beginner-friendly unit** featuring texts of lower grammatical complexity. For example, 2023 Semester 2 selected Pliny's *Epistulae* 6.16 (the account of the eruption of Mount Vesuvius), a text written in classical Latin prose with relatively simple sentence structure and high lexical repetition. The coordinator provides every participant with an **annotated text edition** (including morphological analysis and syntactic annotations) and flags the reading difficulties.
 
-## 参与方式与入门门槛
+## How to Join and Entry Requirements
 
-加入该小组无需正式注册或缴纳费用。参与者只需在活动时间直接前往指定教室即可。根据ANU古典学系2024年发布的《拉丁语阅读小组参与指南》，**无拉丁语基础的初学者**被明确欢迎，且小组不设分级测试或前置条件。
+Joining the group requires no formal registration or fee. Participants simply show up at the designated room at the activity time. According to the *Latin Reading Group Participation Guide* published by the ANU Classics discipline in 2024, **beginners with no Latin background** are explicitly welcome, and the group sets no placement test or prerequisites.
 
-**材料获取**：每期文本的PDF版本在活动前一周通过ANU古典学系邮件列表发送。初学者可向协调员申请**逐行翻译对照版**（interlinear translation），该版本在拉丁语原文下方直接提供英语直译，便于对照理解语法结构。此外，小组在每学期第一场活动会发放纸质版《阅读小组手册》，内含文本背景介绍、关键语法点总结及推荐参考书目。
+**Materials**: the PDF version of each session's text is sent out via the ANU Classics mailing list one week before the session. Beginners may request an **interlinear translation edition** from the coordinator, which provides a direct English translation beneath each line of the Latin original for easy comparison of grammatical structures. In addition, at the first session of each semester the group distributes a printed *Reading Group Handbook* containing background on the texts, a summary of key grammar points, and recommended further reading.
 
-### 远程参与选项
+### Remote Participation Option
 
-自2020年起，小组提供**混合模式**参与。远程参与者可通过Zoom链接加入（链接每学期固定，由古典学系行政办公室提供）。根据ANU信息技术服务部2023年发布的《远程活动支持报告》，Zoom会议室可容纳最多50名参与者，且支持屏幕共享文本标注功能。
+Since 2020, the group has offered **hybrid-mode** participation. Remote participants can join via a Zoom link (fixed for the semester, provided by the Classics administrative office). According to the *Remote Activities Support Report* published by ANU Information Technology Services in 2023, the Zoom room accommodates up to 50 participants and supports screen-sharing of text annotations.
 
-## 活动流程与角色分工
+## Session Flow and Roles
 
-每次阅读活动持续90分钟，遵循固定结构。**前15分钟**为文本背景介绍，由协调员或当次领读人（通常为古典学系教师或高年级博士生）概述文本的历史语境、作者生平和关键学术争议。**中间60分钟**为逐行阅读环节，参与者轮流朗读拉丁语原文（每人约2至3行），随后由领读人引导讨论词汇选择、句法结构和修辞手法。
+Each reading session lasts 90 minutes and follows a fixed structure. The **first 15 minutes** are devoted to background on the text: the coordinator or the session's lead reader (usually a Classics faculty member or senior PhD student) outlines the text's historical context, the author's life, and key scholarly debates. The **middle 60 minutes** are the line-by-line reading: participants take turns reading the Latin aloud (about 2 to 3 lines each), after which the lead reader guides discussion of word choice, syntax, and rhetorical devices.
 
-**角色分配**：小组设有一名固定协调员（2024年由古典学系博士候选人Sarah Mitchell担任），负责学期日程安排和文本选择。每次活动另设一名轮值领读人（rotating reader），由参与者自愿报名或协调员指定。领读人需提前准备文本的语法分析和学术注释，并在活动前一周向协调员提交注释稿。根据ANU古典学系2024年发布的《领读人职责说明》，轮值领读人可获得系内学术活动参与证明（可用于研究学分认证）。
+**Role allocation**: the group has one standing coordinator (in 2024, Classics PhD candidate Sarah Mitchell), responsible for the semester schedule and text selection. Each session also has a rotating reader, chosen by volunteer sign-up or appointed by the coordinator. The rotating reader must prepare grammatical analysis and scholarly annotations in advance, and submit the annotated draft to the coordinator one week before the session. According to the *Reader Responsibilities* document published by the ANU Classics discipline in 2024, rotating readers can receive a certificate of participation in the discipline's academic activities (which may be used toward research credit).
 
-### 初学者支持机制
+### Beginner Support Mechanisms
 
-对于**首次参与者**，协调员会在活动开始前10分钟进行一对一指导，解释小组的阅读节奏和常用术语。此外，小组建立了一个内部Wiki页面（由ANU古典学系服务器托管），包含历年文本的语法解析档案、常见拉丁语语法错误总结以及初学者推荐的在线资源（如Perseus Digital Library的拉丁语词形分析工具）。
+For **first-time participants**, the coordinator offers one-on-one guidance 10 minutes before the session starts, explaining the group's reading pace and common terminology. In addition, the group maintains an internal wiki page (hosted on ANU Classics servers) containing archives of grammatical analyses of past texts, summaries of common Latin grammar errors, and recommended online resources for beginners (such as the Latin morphological analysis tools of the Perseus Digital Library).
 
-## 学术背景与师资力量
+## Academic Background and Teaching Staff
 
-该小组由ANU古典学系主办，该系在QS世界大学学科排名（2024年）中位列古典学与古代史领域全球第12位。小组的**学术指导团队**包括三位固定教师：古典学系副教授Christopher Bishop（专攻共和晚期拉丁语散文）、高级讲师Emma Reeves（专攻奥古斯都时期诗歌）以及荣誉教授Marcus Tullius（专攻拉丁语碑铭学）。根据ANU古典学系2024年发布的《教职员工研究专长目录》，这三位教师均具有10年以上拉丁语教学经验。
+The group is run by the ANU Classics discipline, which ranked 12th in the world in Classics and Ancient History in the QS World University Rankings by Subject (2024). The group's **academic advisory team** comprises three permanent faculty members: Associate Professor Christopher Bishop (specialising in late Republican Latin prose), Senior Lecturer Emma Reeves (specialising in Augustan poetry), and Emeritus Professor Marcus Tullius (specialising in Latin epigraphy). According to the *Staff Research Expertise Directory* published by the ANU Classics discipline in 2024, all three have over 10 years of Latin teaching experience.
 
-**学生领读人**主要来自古典学系博士项目，2024年参与领读的博士生共6人，其研究方向涵盖拉丁语史诗、拉丁语历史编纂学和晚期拉丁语基督教文学。每位博士生领读人在担任轮值领读人前，需完成由系内组织的**领读培训工作坊**（每学期初举办一次），该工作坊由副教授Bishop主持，内容涵盖文本注释技巧、引导讨论策略和初学者心理支持方法。
+**Student readers** mainly come from the Classics PhD program; 6 doctoral students took part as readers in 2024, with research interests spanning Latin epic, Latin historiography, and late Latin Christian literature. Before serving as rotating readers, each PhD student must complete a **reader training workshop** (held once at the start of each semester), run by Associate Professor Bishop, covering text annotation techniques, discussion facilitation strategies, and ways to support beginners psychologically.
 
-## 与其他学术资源的联动
+## Links with Other Academic Resources
 
-该阅读小组与ANU古典学系的**其他学术活动**存在系统性关联。每学期末，小组会与系内的“古代文本研讨会”（Ancient Text Seminar）联合举办一次专题会议，参与者可在该会议上展示其阅读成果。根据ANU古典学系2024年发布的《学术活动日历》，2024年Semester 1的联合会议主题为“卢克莱修与现代科学思想”，邀请了墨尔本大学古典学系教授David Sedley作为主题发言人。
+The reading group is systematically connected to the ANU Classics discipline's **other academic activities**. At the end of each semester, the group co-hosts a themed session with the discipline's "Ancient Text Seminar", where participants can present their reading outcomes. According to the *Academic Activities Calendar* published by the ANU Classics discipline in 2024, the joint session for 2024 Semester 1 was themed "Lucretius and Modern Scientific Thought", with Professor David Sedley of the University of Melbourne Classics department invited as keynote speaker.
 
-**学分认证机制**：古典学系本科生和研究生可将参与该小组的**活动记录**计入“古典学实习”（CLAS3001）课程的实践学分（上限为每学期2个学分）。非古典学专业的学生也可通过ANU的“跨学科学习计划”（Interdisciplinary Learning Program）申请学分转换，该计划由ANU学术注册处（Academic Registrar's Office）管理，2023年数据显示有12名非古典学专业学生通过该小组获得学分认证。
+**Credit recognition mechanism**: Classics undergraduates and postgraduates can count their **participation records** in the group toward the practical credit of the "Classics Internship" course (CLAS3001) (up to 2 credits per semester). Students from other disciplines can also apply for credit transfer through ANU's Interdisciplinary Learning Program, administered by the ANU Academic Registrar's Office; 2023 data shows 12 non-Classics students obtained credit recognition through the group.
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-classics-and-ancient-history-latin-reading-group-schedule-text-selections-an) 等专业通道完成结汇。
+When paying tuition fees across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-classics-and-ancient-history-latin-reading-group-schedule-text-selections-an) to complete currency settlement.
 
 ## FAQ
 
-### Q1：我完全没有拉丁语基础，能参加这个阅读小组吗？
+### Q1: I have no Latin background at all. Can I join this reading group?
 
-可以。根据ANU古典学系2024年发布的《拉丁语阅读小组参与指南》，该小组明确欢迎无拉丁语基础的初学者，且不设任何前置条件。小组每年至少安排一个初学者友好文本单元（如2023年的普林尼《书信集》），并免费提供语法注释版文本和逐行翻译对照版。首次参与者还会获得协调员的一对一指导（约10分钟），解释小组的阅读节奏和常用术语。
+Yes. According to the *Latin Reading Group Participation Guide* published by the ANU Classics discipline in 2024, the group explicitly welcomes beginners with no Latin background and sets no prerequisites whatsoever. Each year the group schedules at least one beginner-friendly text unit (such as the 2023 Pliny *Epistulae*), and provides annotated text editions and interlinear translations free of charge. First-time participants also receive one-on-one guidance from the coordinator (about 10 minutes), explaining the group's reading pace and common terminology.
 
-### Q2：参加这个小组需要付费或注册吗？
+### Q2: Do I need to pay or register to join the group?
 
-不需要。该小组完全免费开放，参与者无需提前注册，直接按活动时间前往指定教室即可（地点为A.D. Hope Building Room 2.42）。远程参与者可通过Zoom链接加入，该链接每学期固定，由古典学系行政办公室提供。所有文本材料（包括PDF版本和纸质手册）均免费发放，无需缴纳任何费用。
+No. The group is completely free and open. Participants do not need to register in advance — just come to the designated room at the session time (A.D. Hope Building Room 2.42). Remote participants can join via the Zoom link, which is fixed for the semester and provided by the Classics administrative office. All text materials (including PDF versions and printed handbooks) are distributed free of charge, with no fees of any kind.
 
-### Q3：如果我错过了某次活动，能补上文本内容吗？
+### Q3: If I miss a session, can I catch up on the text?
 
-可以。每期文本的PDF版本在活动前一周通过ANU古典学系邮件列表发送，参与者可自行下载。小组还建立了一个内部Wiki页面，包含历年文本的语法解析档案和常见语法错误总结。此外，协调员会在每次活动后24小时内将阅读笔记（含关键语法点标注和讨论摘要）发送至邮件列表，供缺席者参考。
+Yes. The PDF of each session's text is sent out via the ANU Classics mailing list one week before the session, so you can download it yourself. The group also maintains an internal wiki page containing archives of grammatical analyses of past texts and summaries of common grammar errors. In addition, within 24 hours of each session the coordinator sends reading notes (including key grammar annotations and a summary of the discussion) to the mailing list for absentees to consult.
 
-## 参考资料
+## References
 
-- 澳洲国立大学古典学系 2024 《年度学术活动报告》
-- 澳洲国立大学古典学系 2024 《拉丁语阅读小组参与指南》
-- 澳洲国立大学古典学系 2024 《学期活动日程表》
-- 澳大利亚人文科学院（AAH） 2023 《澳洲高校古典语言课程注册数据报告》
-- QS世界大学学科排名 2024 《古典学与古代史领域排名》
+- Australian National University Classics Discipline 2024 *Annual Academic Activities Report*
+- Australian National University Classics Discipline 2024 *Latin Reading Group Participation Guide*
+- Australian National University Classics Discipline 2024 *Semester Activities Timetable*
+- Australian Academy of the Humanities (AAH) 2023 *Report on Classical Language Course Enrolment Data at Australian Universities*
+- QS World University Rankings by Subject 2024 *Classics and Ancient History Rankings*

@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园自动售货机分布与电子支付方式"
-description: "ANU 校园内共部署了约 47 台自动售货机，覆盖主校区 Acton 的 6 个主要教学与生活区域，包括 Kambri 学生中心、Marie Reay 教学中心、Hancock 图书馆及 Union Court 餐饮区。根据澳大利亚自动售货协会（AVA, 2023 年度行业报告）的数据，澳洲高校校园售货机的平均年…"
+slug: anu-校园自动售货机分布与电子支付方式
+title: "ANU Campus Vending Machine Locations and Electronic Payment Options"
+description: "Around 47 vending machines are deployed across the ANU campus, covering 6 major teaching and living areas of the Acton main campus, including the Kambri Student Centre, Marie Reay Teaching Centre, Hancock Library and the Union Court dining precinct. According to data from the Australasian Vending Association (AVA, 2023 annual industry report), the average annual transaction volume of vending machines on Australian university campuses is about 12,000 per machine, and at ANU — where the campus is spread out and student mobility is high — machines in some core areas can reach 18,000 transactions per year. In Q2 2024, ANU Student Services completed a payment terminal upgrade enabling all vending machines to accept Visa, Mastercard, American Express and mobile payments (Apple Pay / Google Pay), ending the era when only coins and the ANUCard were accepted. This change comes as Reserve Bank of Australia (RBA, 2023 Payments System Report) data shows that cash transactions across Australia have fallen to 13% of total payments, making electronic payment a key part of campus life infrastructure.…"
 category: "ANU 校园自动售货机分"
 pubDatetime: '2026-03-19T19:50:54Z'
 publishDate: '2026-03-19T19:50:54Z'
@@ -8,84 +9,86 @@ readingTime: 13
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园自动售货机分布与电子支付方式-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-ANU 校园内共部署了约 47 台自动售货机，覆盖主校区 Acton 的 6 个主要教学与生活区域，包括 Kambri 学生中心、Marie Reay 教学中心、Hancock 图书馆及 Union Court 餐饮区。根据澳大利亚自动售货协会（AVA, 2023 年度行业报告）的数据，澳洲高校校园售货机的平均年交易量约为 12,000 笔/台，ANU 因校区分散且学生流动性高，部分核心区域机器年交易量可达 18,000 笔。2024 年第二季度，ANU 学生服务部门（ANU Student Services）完成了一次支付终端升级，使所有售货机支持 Visa、Mastercard、American Express 及移动支付（Apple Pay / Google Pay），结束了此前仅接受硬币与校园卡（ANUCard）的历史。这一变化正值澳大利亚储备银行（RBA, 2023 支付系统报告）统计显示全澳现金交易占比已降至 13%，电子支付成为校园生活基础设施的关键组成部分。
+Around 47 vending machines are deployed across the ANU campus, covering 6 major teaching and living areas of the Acton main campus, including the Kambri Student Centre, Marie Reay Teaching Centre, Hancock Library and the Union Court dining precinct. According to data from the Australasian Vending Association (AVA, 2023 annual industry report), the average annual transaction volume of vending machines on Australian university campuses is about 12,000 per machine, and at ANU — where the campus is spread out and student mobility is high — machines in some core areas can reach 18,000 transactions per year. In Q2 2024, ANU Student Services completed a payment terminal upgrade enabling all vending machines to accept Visa, Mastercard, American Express and mobile payments (Apple Pay / Google Pay), ending the era when only coins and the campus card (ANUCard) were accepted. This change comes as Reserve Bank of Australia (RBA, 2023 Payments System Report) data shows that cash transactions across Australia have fallen to 13% of total payments, making electronic payment a key part of campus life infrastructure.
 
-## 售货机分布与区域密度
+## Vending Machine Distribution and Area Density
 
-ANU 主校区 Acton 的售货机分布遵循“10 分钟步行半径”原则，确保学生在任意教学楼或宿舍区步行 10 分钟内可找到一台售货机。密度最高的区域集中在 Kambri 学生中心（7 台）与 Union Court 餐饮区（6 台），这两个区域覆盖了每日约 3,500 人次的课间流量。**Kambri 学生中心**的售货机提供冷藏饮料、三明治、沙拉及零食，部分机型支持加热功能。**Marie Reay 教学中心**（5 台）与 **Hancock 图书馆**（4 台）的机器则侧重深夜需求——图书馆的机器在考试周（第 13–16 周）日均补货两次，高于常规周的一次。
+Vending machines on the ANU Acton main campus follow the "10-minute walking radius" principle, ensuring that students can find a machine within a 10-minute walk from any teaching building or residential area. The highest density is in the Kambri Student Centre (7 machines) and the Union Court dining precinct (6 machines), which together cover about 3,500 people passing through between classes each day. Machines at the **Kambri Student Centre** stock chilled drinks, sandwiches, salads and snacks, with some models offering a heating function. Machines at the **Marie Reay Teaching Centre** (5 machines) and **Hancock Library** (4 machines) focus on late-night demand — library machines are restocked twice a day during exam weeks (weeks 13–16), compared with once a day in regular weeks.
 
-### 宿舍区覆盖情况
+### Coverage in Residential Halls
 
-ANU 的 8 个校内住宿区（Lodge 与 Hall）共配置 15 台售货机。**Bruce Hall**（3 台）与 **Burgmann College**（2 台）的机器因 24 小时开放，使用率最高。Daley Road 与 Liversidge Street 沿线的宿舍区售货机在 2023 年新增了冷藏鲜食选项，包括即食意面与酸奶杯，由本地供应商 Foodwise 供货。宿舍区机器平均每月补货 4–5 次，寒暑假（12 月–2 月）减少至 2 次。
+ANU's 8 on-campus residential areas (Lodges and Halls) are equipped with 15 vending machines in total. Machines at **Bruce Hall** (3 machines) and **Burgmann College** (2 machines) see the highest usage thanks to 24-hour access. Machines in residential areas along Daley Road and Liversidge Street added chilled fresh-food options in 2023, including ready-to-eat pasta and yogurt cups, supplied by local provider Foodwise. Machines in residential areas are restocked 4–5 times per month on average, dropping to 2 times during semester breaks (December–February).
 
-### 偏远教学楼与附属校区
+### Remote Teaching Buildings and Satellite Campuses
 
-位于 Acton 校区边缘的 **Crawford School of Public Policy**（2 台）与 **Research School of Biology**（3 台）的售货机使用率较低，平均每日交易 30–50 笔。附属校区如 Mount Stromlo 天文台（1 台）与 Kioloa 沿海研究中心（1 台）的机器仅提供基础饮料与零食，补货周期为每周一次。ANU 官方地图（maps.anu.edu.au）标注了所有售货机位置，学生可通过 ANU 应用（ANU App）查询各机器实时库存状态（2024 年 3 月上线功能）。
+Vending machines at the **Crawford School of Public Policy** (2 machines) and the **Research School of Biology** (3 machines), on the edge of the Acton campus, see lower usage at 30–50 transactions per day on average. Machines at satellite campuses such as Mount Stromlo Observatory (1 machine) and the Kioloa Coastal Campus (1 machine) offer only basic drinks and snacks, with weekly restocking. The official ANU map (maps.anu.edu.au) marks the location of every vending machine, and students can check real-time stock levels of individual machines via the ANU App (feature launched in March 2024).
 
-## 电子支付方式兼容性
+## Electronic Payment Compatibility
 
-2024 年 4 月完成的支付终端升级使 ANU 所有 47 台售货机支持 **非接触式支付**。具体兼容方式包括：Visa PayWave、Mastercard PayPass、American Express ExpressPay、Apple Pay、Google Pay 及 Samsung Pay。校园卡（ANUCard）仍可作为支付手段，但需在机器上刷卡而非感应——ANUCard 目前仅支持磁条读取，不兼容 NFC 功能。**ANUCard** 的余额充值可通过校园门户（my.anu.edu.au）或 Kambri 的充值终端完成，充值后余额即时到账。
+The payment terminal upgrade completed in April 2024 enabled **contactless payments** on all 47 ANU vending machines. Supported methods include: Visa PayWave, Mastercard PayPass, American Express ExpressPay, Apple Pay, Google Pay and Samsung Pay. The campus card (ANUCard) can still be used as a payment method, but requires swiping rather than tapping — the ANUCard currently supports magnetic stripe reading only and is not NFC-compatible. **ANUCard** balance top-ups can be done through the campus portal (my.anu.edu.au) or at the top-up terminals in Kambri, with funds credited instantly.
 
-### 移动支付与账户绑定
+### Mobile Payments and Account Linking
 
-Apple Pay 与 Google Pay 的绑定流程与标准支付一致：学生需在钱包应用内添加 Visa 或 Mastercard 借记卡/信用卡，然后在售货机终端上靠近感应区即可完成支付。每次交易上限为 100 澳元（澳大利亚支付网络标准），但售货机单品价格通常在 3–6 澳元，因此该上限不影响日常使用。**移动支付**的交易时间约为 2–3 秒，较现金支付（平均 15 秒，含找零）快 5–7 倍。ANU 学生服务部门在 2024 年 5 月发布的支付统计中显示，移动支付已占售货机总交易量的 47%，传统银行卡支付占 38%，现金与校园卡合计占 15%。
+Linking Apple Pay and Google Pay follows the standard payment process: students add a Visa or Mastercard debit/credit card in their wallet app, then simply hold their device near the contactless zone on the machine terminal to pay. Each transaction is capped at A$100 (Australian payments network standard), but vending machine items typically cost A$3–6, so the cap does not affect everyday use. **Mobile payment** transactions take about 2–3 seconds — 5–7 times faster than cash (which averages 15 seconds including change). Payment statistics released by ANU Student Services in May 2024 show that mobile payments account for 47% of total vending machine transactions, traditional bank cards 38%, and cash plus campus card combined 15%.
 
-### 国际学生支付注意事项
+### Notes for International Students
 
-国际学生使用非澳大利亚发行的银行卡时，需注意 **跨境交易手续费**。澳大利亚主要银行（如 Commonwealth Bank、Westpac）对海外发行的 Visa/Mastercard 收取 2–3% 的货币转换费，具体费率取决于发卡行政策。部分中国银联卡（支持 PayWave 的芯片卡）也可在终端上使用，但实际兼容性因机器型号而异——2024 年 8 月 ANU 技术团队确认，银联卡在 Kambri 与 Union Court 的机器上成功率约为 85%，偏远区域机器成功率较低。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%E5%88%86%E5%B8%83%E4%B8%8E%E7%94%B5%E5%AD%90%E6%94%AF%E4%BB%98%E6%96%B9%E5%BC%8F) 等专业通道完成结汇，但校园售货机的小额交易通常直接使用本地银行卡或移动支付更便捷。
+International students using bank cards issued outside Australia should be aware of **cross-border transaction fees**. Major Australian banks (such as Commonwealth Bank and Westpac) charge a currency conversion fee of 2–3% on overseas-issued Visa/Mastercard transactions, depending on the issuing bank's policy. Some Chinese UnionPay cards (chip cards supporting PayWave) can also be used at the terminals, but actual compatibility varies by machine model — in August 2024 the ANU technology team confirmed that UnionPay cards work on about 85% of machines in Kambri and Union Court, with lower success rates in remote areas. When paying cross-border tuition, some international students' families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%E5%88%86%E5%B8%83%E4%B8%8E%E7%94%B5%E5%AD%90%E6%94%AF%E4%BB%98%E6%96%B9%E5%BC%8F) to settle their payments; however, for small vending machine purchases, using a local bank card or mobile payment directly is usually more convenient.
 
-## 现金支付现状与限制
+## Cash Payments: Current Status and Limits
 
-尽管电子支付已占主导，ANU 售货机仍保留现金接收功能。所有机器均接受 5 分、10 分、20 分、50 分、1 澳元与 2 澳元硬币，但不接受纸币。**现金支付**的机器找零上限为 10 澳元，且不提供 5 分硬币以下的面额找零。根据 ANU 学生服务部门 2023 年的内部报告，现金交易占总交易量的 8%，且主要集中在宿舍区机器——这些区域的部分学生（尤其是短期交换生）未及时办理本地银行卡。
+Although electronic payment now dominates, ANU vending machines still accept cash. All machines accept 5c, 10c, 20c, 50c, A$1 and A$2 coins, but not banknotes. **Cash payments** have a change limit of A$10 per transaction, and no change is given in denominations below 5c. According to the internal 2023 report of ANU Student Services, cash accounts for 8% of total transactions, concentrated mainly in residential area machines — where some students (especially short-term exchange students) have not yet arranged a local bank card.
 
-### 硬币兑换服务
+### Coin Exchange Services
 
-ANU 校园内提供硬币兑换服务的地点包括：**Kambri 的 ANU 商店**（可兑换 10 澳元纸币为硬币）、**Union Court 的 ANU 邮局**（兑换上限 20 澳元）、以及 **Hancock 图书馆一楼服务台**（仅限图书馆开放时间）。该校内兑换点每日处理约 120 笔硬币兑换交易，其中约 60% 发生在考试周期间。学生也可使用 Commonwealth Bank 位于 Kambri 的 ATM 提取 50 澳元面额纸币，但该 ATM 不提供硬币兑换。
+Locations on campus that offer coin exchange include: **the ANU Shop in Kambri** (exchanges A$10 banknotes into coins), **the ANU Post Office at Union Court** (exchange limit A$20), and **the Hancock Library ground-floor service desk** (available during library opening hours only). These on-campus exchange points process about 120 coin exchanges per day, roughly 60% of which occur during exam weeks. Students can also withdraw A$50 notes from the Commonwealth Bank ATM in Kambri, though this ATM does not offer coin exchange.
 
-## 补货与维护机制
+## Restocking and Maintenance
 
-ANU 售货机的补货由外部承包商 **Selecta**（澳大利亚最大的自动售货运营商）负责，合同期为 2022–2027 年。补货频率分为三档：核心区域（Kambri、Union Court、Marie Reay）每日补货；教学区（图书馆、教学楼）隔日补货；偏远区域每周补货。**补货时间**通常安排在凌晨 5:00–7:00，以减少对日间人流的干扰。机器故障报修可通过 ANU 设施管理门户（facilities.anu.edu.au）提交，平均响应时间为 4 小时（核心区域）至 24 小时（偏远区域）。
+ANU vending machine restocking is handled by external contractor **Selecta** (Australia's largest vending operator) under a contract covering 2022–2027. Restocking frequency falls into three tiers: core areas (Kambri, Union Court, Marie Reay) are restocked daily; teaching areas (libraries, teaching buildings) every other day; and remote areas weekly. **Restocking** is usually scheduled between 5:00 and 7:00 am to minimise disruption to daytime foot traffic. Fault reports can be submitted through the ANU facilities management portal (facilities.anu.edu.au), with an average response time of 4 hours (core areas) to 24 hours (remote areas).
 
-### 产品种类与价格
+### Product Range and Prices
 
-售货机内产品分为四类：饮料（矿泉水、碳酸饮料、果汁、能量饮料，价格 3.50–5.00 澳元）、零食（巧克力、薯片、坚果，价格 2.50–4.50 澳元）、鲜食（三明治、沙拉、即食意面，价格 6.00–9.00 澳元）、以及健康选项（蛋白质棒、无糖饮料、水果杯，价格 3.00–5.50 澳元）。**健康选项**的占比在 2024 年提升至 25%，符合 ANU 可持续发展与健康校园计划（ANU Health & Wellbeing Strategy 2023–2026）的目标。所有产品均标注营养信息与过敏原，部分机器支持通过屏幕查看成分表。
+Vending machine products fall into four categories: drinks (mineral water, soft drinks, juices, energy drinks, priced A$3.50–5.00), snacks (chocolate, chips, nuts, priced A$2.50–4.50), fresh food (sandwiches, salads, ready-to-eat pasta, priced A$6.00–9.00), and healthy options (protein bars, sugar-free drinks, fruit cups, priced A$3.00–5.50). **Healthy options** increased to 25% of the range in 2024, in line with the goals of the ANU Health & Wellbeing Strategy 2023–2026. All products carry nutritional and allergen information, and some machines allow customers to view ingredient lists on screen.
 
-## 可持续性与校园政策
+## Sustainability and Campus Policy
 
-ANU 售货机运营需遵守校园 **一次性塑料禁令**（2023 年 7 月生效）。所有饮料瓶与食品包装必须使用可回收或可堆肥材料，Selecta 在 2024 年第一季度完成了包装替换，将塑料瓶装水替换为铝罐装水（占比 40%）与可回收 PET 瓶（占比 60%）。售货机旁均设有分类回收桶（塑料/铝罐/一般垃圾），ANU 设施管理团队每月统计回收率——2024 年 6 月的数据显示，售货机区域的回收率为 72%，高于校园平均的 58%。
+Vending machine operations on campus must comply with the campus **single-use plastics ban** (in effect since July 2023). All drink bottles and food packaging must use recyclable or compostable materials; Selecta completed the packaging switch in Q1 2024, replacing plastic-bottled water with water in aluminium cans (40% of supply) and recyclable PET bottles (60%). Recycling bins (plastic/aluminium/general waste) are placed beside every vending machine, and the ANU facilities management team tracks recycling rates monthly — June 2024 data shows a 72% recycling rate in vending machine areas, above the campus average of 58%.
 
-### 能源效率
+### Energy Efficiency
 
-2024 年 5 月，ANU 将所有售货机的照明系统升级为 LED，并安装 **运动传感器**——机器在无使用者靠近时自动进入低功耗模式（功耗降低 60%）。根据 ANU 可持续发展办公室（ANU Sustainability Office, 2024 年度报告），这一改造使每台机器年均耗电量从 1,200 kWh 降至 480 kWh，全校园 47 台机器合计年节约电力约 33,840 kWh，相当于减少 14.2 吨二氧化碳排放。
+In May 2024, ANU upgraded the lighting in all vending machines to LED and installed **motion sensors** — machines automatically enter a low-power mode (60% less power consumption) when no one is nearby. According to the ANU Sustainability Office (2024 annual report), the retrofit cut average annual electricity use per machine from 1,200 kWh to 480 kWh, saving a total of about 33,840 kWh across all 47 machines campus-wide, equivalent to reducing CO2 emissions by 14.2 tonnes.
 
-## 常见故障与用户反馈
+## Common Faults and User Feedback
 
-根据 ANU 学生服务部门 2023 年收集的 1,247 条售货机相关反馈，最常见问题包括：**支付终端无响应**（占比 32%）、**商品卡住不出货**（28%）、**找零错误**（15%）。支付终端无响应通常由非接触式读取器灵敏度不足导致——2024 年升级后，该问题投诉减少 60%。商品卡住问题多发生在鲜食区（因包装尺寸差异），Selecta 在 2024 年 3 月调整了货道间距，使卡货率从 4.2% 降至 1.8%。退款流程：若支付成功但未出货，学生可拨打 Selecta 客服热线（1800 123 456）或通过 ANU 设施管理门户提交退款申请，处理周期为 3–5 个工作日。
+Based on 1,247 vending machine feedback entries collected by ANU Student Services in 2023, the most common issues are: **unresponsive payment terminal** (32% of reports), **product stuck and not dispensed** (28%), and **incorrect change** (15%). Unresponsive payment terminals are usually caused by insufficient contactless reader sensitivity — after the 2024 upgrade, complaints about this issue fell by 60%. Stuck products mostly occur in the fresh food section (due to packaging size differences); Selecta adjusted the coil spacing in March 2024, cutting the jam rate from 4.2% to 1.8%. Refund process: if payment succeeds but no product is dispensed, students can call the Selecta customer service line (1800 123 456) or submit a refund request through the ANU facilities management portal, with processing taking 3–5 business days.
 
-### 高峰期使用建议
+### Peak-time Usage Tips
 
-考试周期间（每学期第 13–16 周），Kambri 与 Hancock 图书馆的售货机在上午 9:00–11:00 与下午 2:00–4:00 出现排队现象，平均等待时间 4–7 分钟。建议学生使用 **ANU App** 查看机器实时库存与使用状态（绿色=空闲，黄色=忙碌，红色=缺货），或选择 Marie Reay 教学中心与 Union Court 的备用机器——这些区域在高峰期平均排队时间仅 1–2 分钟。宿舍区机器在晚间 10:00–12:00 使用率最高，建议提前购买次日早餐所需的鲜食。
+During exam weeks (weeks 13–16 each semester), machines at Kambri and Hancock Library see queues between 9:00–11:00 am and 2:00–4:00 pm, with an average wait of 4–7 minutes. Students are advised to use the **ANU App** to check real-time stock and availability (green = free, yellow = busy, red = out of stock), or choose backup machines at the Marie Reay Teaching Centre and Union Court — these areas average only 1–2 minutes of queuing during peak times. Residential machines see their highest usage between 10:00 pm and 12:00 am; it is recommended to buy fresh food for the next day's breakfast in advance.
 
 ## FAQ
 
-### Q1：ANU 售货机支持微信支付或支付宝吗？
+### Q1: Do ANU vending machines support WeChat Pay or Alipay?
 
-不支持。ANU 所有售货机仅接受 Visa、Mastercard、American Express 的非接触式支付、Apple Pay、Google Pay、Samsung Pay、ANUCard（磁条）以及澳元硬币。微信支付与支付宝在澳大利亚校园售货机领域尚未普及——截至 2024 年 8 月，全澳仅悉尼大学与墨尔本大学的部分机器开通了这两项支付方式，覆盖比例不足 5%。
+No. All ANU vending machines only accept contactless Visa, Mastercard and American Express, Apple Pay, Google Pay, Samsung Pay, ANUCard (magnetic stripe) and Australian dollar coins. WeChat Pay and Alipay are not yet widespread in Australian campus vending machines — as of August 2024, only some machines at the University of Sydney and the University of Melbourne support these two payment methods nationwide, covering less than 5% of machines.
 
-### Q2：如果支付成功但商品没掉出来，怎么退款？
+### Q2: How do I get a refund if payment succeeds but no product comes out?
 
-拨打 Selecta 客服热线 1800 123 456，或通过 ANU 设施管理门户（facilities.anu.edu.au）提交退款申请。需提供机器编号（位于机器正面右上角）、支付时间与金额。退款处理周期为 3–5 个工作日，款项原路返回支付账户。2023 年此类投诉的平均解决时间为 4.2 天，2024 年支付系统升级后缩短至 3.1 天。
+Call the Selecta customer service line 1800 123 456, or submit a refund request through the ANU facilities management portal (facilities.anu.edu.au). You will need to provide the machine number (located in the top-right corner of the machine front), the payment time and the amount. Refunds take 3–5 business days and are returned to the original payment account. The average resolution time for such complaints was 4.2 days in 2023, shortened to 3.1 days after the payment system upgrade in 2024.
 
-### Q3：ANU 校园里有没有 24 小时开放的售货机？
+### Q3: Are there any 24-hour vending machines on the ANU campus?
 
-有。Kambri 学生中心、Marie Reay 教学中心、Hancock 图书馆（仅限 24 小时自习区入口处）以及 Bruce Hall 与 Burgmann College 宿舍区的售货机均为 24 小时开放。图书馆入口处的机器在闭馆时段（凌晨 1:00–7:00）使用率最高，日均夜间交易约 80 笔。其他教学楼（如 Copland Building、CBE 大楼）的售货机仅在建筑开放时间内可用（通常为 7:00–22:00）。
+Yes. Machines at the Kambri Student Centre, Marie Reay Teaching Centre, Hancock Library (at the entrance of the 24-hour study area only), and the residential areas of Bruce Hall and Burgmann College are open 24 hours. Machines at the library entrance see their highest usage during closed hours (1:00–7:00 am), with about 80 transactions per night on average. Machines in other teaching buildings (such as the Copland Building and the CBE building) are only available during building opening hours (usually 7:00 am–10:00 pm).
 
-## 参考资料
+## References
 
-- 澳大利亚自动售货协会 (AVA) 2023 年度行业报告
-- 澳大利亚储备银行 (RBA) 2023 支付系统报告
-- ANU 学生服务部门 2024 年 5 月支付统计内部报告
-- ANU 可持续发展办公室 2024 年度报告（能源与碳排放数据）
-- Selecta Australia 2024 年 ANU 校园服务合同运营数据
+- Australasian Vending Association (AVA) 2023 Annual Industry Report
+- Reserve Bank of Australia (RBA) 2023 Payments System Report
+- ANU Student Services May 2024 Payment Statistics Internal Report
+- ANU Sustainability Office 2024 Annual Report (energy and carbon emissions data)
+- Selecta Australia 2024 ANU Campus Service Contract Operating Data

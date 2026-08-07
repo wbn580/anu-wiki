@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生毕业论文导师沟通邮件模板"
-description: "澳大利亚国立大学（ANU）2024 年《国际学生体验报告》显示，约 67% 的本科国际学生在毕业论文阶段因与导师沟通不畅导致延期提交或评分争议【ANU 2024, International Student Experience Survey】。根据澳大利亚教育部 2023 年数据，国际学生在澳高校完成学位的时间…"
+slug: anu-国际学生毕业论文导师沟通邮件模板
+title: "Email Templates for ANU International Students Communicating with Their Thesis Supervisor"
+description: "ANU's 2024 International Student Experience Report shows that around 67% of undergraduate international students experienced late submission or marking disputes during their thesis due to poor communication with their supervisor [ANU 2024, International Student Experience Survey]. According to Australian Department of Education 2023 data, the time international students take to complete a degree at an Australian university is..."
 category: "ANU 国际学生毕业论文"
 pubDatetime: '2026-03-20T19:51:12Z'
 publishDate: '2026-03-20T19:51:12Z'
@@ -10,70 +11,70 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生毕业论文导师沟通邮件模板-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）2024 年《国际学生体验报告》显示，约 67% 的本科国际学生在毕业论文阶段因与导师沟通不畅导致延期提交或评分争议【ANU 2024, International Student Experience Survey】。根据澳大利亚教育部 2023 年数据，国际学生在澳高校完成学位的时间平均比本地学生多出 3.2 个月，其中沟通效率低下是主因之一【Australian Department of Education 2023, Completion Rates by Citizenship】。在 ANU 严格的学术规范下（论文查重率阈值 15%、导师签字制），一封结构清晰、语气得体的沟通邮件直接关系到研究进度和最终评分。本模板系列覆盖选题确认、进度汇报、问题求助、延期申请及致谢五大场景，所有模板均基于 ANU 学术写作中心（Academic Skills Centre）推荐的正式邮件格式编写。
+ANU's 2024 International Student Experience Report shows that around 67% of undergraduate international students experienced late submission or marking disputes during their thesis due to poor communication with their supervisor [ANU 2024, International Student Experience Survey]. According to Australian Department of Education 2023 data, international students take on average 3.2 months longer than domestic students to complete a degree at an Australian university, and poor communication efficiency is one of the main reasons [Australian Department of Education 2023, Completion Rates by Citizenship]. Under ANU's strict academic standards (a 15% similarity threshold and supervisor sign-off requirements), a clearly structured, well-worded email can directly affect your research progress and final grades. This template series covers five scenarios: topic confirmation, progress reports, asking for help, extension requests and thank-you notes. All templates follow the formal email format recommended by ANU's Academic Skills Centre.
 
-## 选题确认阶段邮件
+## Topic Confirmation Emails
 
-在毕业论文启动初期，**选题确认邮件**是建立师生工作关系的关键节点。ANU 要求学生在第 6 周前提交正式的研究提案（Research Proposal），导师需通过邮件书面确认同意选题。
+At the start of the thesis, the **topic confirmation email** is a key moment for establishing a productive working relationship with your supervisor. ANU requires students to submit a formal Research Proposal by Week 6, and the supervisor must confirm agreement to the topic in writing by email.
 
-### 首次联系模板结构
-邮件主题应包含课程代码和关键词，例如“THES4001 - Research Proposal Discussion - [你的姓名]”。正文第一段需说明自己身份（学位、专业、学号）、引用导师研究方向与自身选题的关联性。第二段附上 2-3 个具体的研究问题（Research Questions），并请求导师安排 15 分钟面谈。第三段附上个人学术背景摘要（如先修课程成绩、相关项目经验），控制在 100 词以内。
+### Structure of the First Contact Template
+The subject line should include the course code and keywords, for example "THES4001 - Research Proposal Discussion - [Your Name]". The first paragraph of the body should state who you are (degree, major and student ID) and explain how your topic relates to the supervisor's research interests. The second paragraph should include 2-3 specific Research Questions and ask the supervisor to schedule a 15-minute meeting. The third paragraph should include a summary of your academic background (such as prerequisite course grades or relevant project experience), kept within 100 words.
 
-### 附件与格式要求
-根据 ANU 学术诚信政策（2024 版），首次联系必须附带**非正式研究大纲**（1-2 页 PDF），包含暂定标题、文献来源 3-5 条、方法论简述。邮件正文请勿使用 emoji 或非正式缩写（如“u”、“gonna”）。发送时间建议在周二至周四上午 9:00-11:00（堪培拉时间），该时段导师回复率比周末高 42%【ANU IT Services 2023, Email Response Time Analysis】。
+### Attachments and Formatting Requirements
+Under the ANU Academic Integrity Policy (2024 edition), the first contact must include an **informal research outline** (1-2 page PDF) with a provisional title, 3-5 literature sources and a brief description of the methodology. Do not use emoji or informal abbreviations (such as "u" or "gonna") in the email body. The recommended sending time is Tuesday to Thursday between 9:00 and 11:00 am (Canberra time); supervisors' response rates in this window are 42% higher than on weekends [ANU IT Services 2023, Email Response Time Analysis].
 
-## 进度汇报邮件
+## Progress Report Emails
 
-ANU 多数院系要求学生每两周提交一次书面进度报告（Progress Report）。**进度汇报邮件**需同时满足导师知情需求和院系存档要求。
+Most ANU colleges require students to submit a written Progress Report every two weeks. The **progress report email** must both keep the supervisor informed and satisfy the college's record-keeping requirements.
 
-### 结构化汇报模板
-使用编号或项目符号列出：已完成任务（含文献阅读量、数据分析阶段）、当前卡点（不超过 2 个）、下周计划。每个条目后附上具体数字，例如“已完成 12 篇核心文献的精读（目标 30 篇）”。在邮件末尾加入一个**时间线对比表**（表格形式），显示计划进度与实际进度的偏差天数。若偏差超过 7 天，需在正文中解释原因并提出调整方案。
+### Structured Reporting Template
+Use numbered or bullet points to list: completed tasks (including literature read and data analysis stage), current blockers (no more than 2) and next week's plan. Attach specific figures to each item, for example "completed close reading of 12 core papers (target: 30)". At the end of the email, include a **timeline comparison table** (in table form) showing the number of days your actual progress deviates from the planned schedule. If the deviation exceeds 7 days, explain the reasons in the body and propose adjustments.
 
-### 附件与抄送规范
-进度报告需以 PDF 格式附件发送，文件名格式为“姓_名_WeekX_Progress.pdf”。若导师未在 3 个工作日内回复，可礼貌性跟进一次，但不可抄送系主任或研究生协调员，除非导师明确要求。ANU 学术政策规定，导师有 5 个工作日回应义务，逾期可向学院学术顾问（Academic Advisor）报备【ANU 2024, Graduate Research Policy §4.3】。
+### Attachment and CC Etiquette
+Progress reports must be sent as PDF attachments named "Surname_GivenName_WeekX_Progress.pdf". If the supervisor has not replied within 3 business days, you may send one polite follow-up, but do not CC the Head of School or Graduate Coordinator unless the supervisor explicitly asks. ANU academic policy requires supervisors to respond within 5 business days; if they exceed this, you can report it to the college's Academic Advisor [ANU 2024, Graduate Research Policy §4.3].
 
-## 问题求助邮件
+## Emails Asking for Help
 
-当研究遇到方法论或数据获取障碍时，**问题求助邮件**必须精准描述问题边界。ANU 导师普遍反感“我不知道该怎么办”这类模糊表述。
+When your research hits a methodological or data-access obstacle, a **help request email** must describe the boundaries of the problem precisely. ANU supervisors generally dislike vague statements such as "I don't know what to do".
 
-### 问题描述三要素
-第一，明确指出具体障碍类型：是文献缺口、数据不可获取、还是伦理审批延迟。第二，提供已尝试的解决方案清单（至少 3 个），例如“已检索 Scopus 和 Web of Science，未找到 2020 年后相关案例研究”。第三，提出 2 个备选方案请求导师评估，例如“方案 A：改用定性访谈；方案 B：缩小研究范围至单一学科”。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E5%AF%BC%E5%B8%88%E6%B2%9F%E9%80%9A%E9%82%AE%E4%BB%B6%E6%A8%A1%E6%9D%BF) 等专业通道完成结汇，但学术沟通中请勿提及财务相关话题。
+### Three Elements of a Problem Description
+First, state the specific type of obstacle clearly: is it a literature gap, inaccessible data, or a delay in ethics approval? Second, provide a list of solutions you have already tried (at least 3), for example "searched Scopus and Web of Science and found no relevant case studies published after 2020". Third, propose 2 alternative options for the supervisor to evaluate, for example "Option A: switch to qualitative interviews; Option B: narrow the research scope to a single discipline". For cross-border tuition payments, some study-abroad families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E5%AF%BC%E5%B8%88%E6%B2%9F%E9%80%9A%E9%82%AE%E4%BB%B6%E6%A8%A1%E6%9D%BF) to settle foreign exchange, but avoid raising financial topics in academic communication.
 
-### 紧急程度标识
-若问题影响论文提交截止日期（Deadline），需在邮件主题前加“[URGENT]”标识，并在正文第一句注明剩余天数。ANU 规定，紧急求助邮件导师需在 一个工作日内回复。非紧急问题请勿使用此标识，滥用可能导致导师忽略后续邮件。
+### Urgency Markers
+If the issue affects the thesis submission deadline, add an "[URGENT]" marker to the start of the subject line and state the number of days remaining in the first sentence of the body. ANU rules require supervisors to reply to urgent help requests within one business day. Do not use this marker for non-urgent matters — overuse may cause your supervisor to ignore subsequent emails.
 
-## 延期申请邮件
+## Extension Request Emails
 
-ANU 毕业论文允许因健康或不可抗力因素申请延期（Extension），但需提供书面证据。**延期申请邮件**必须在原截止日期前至少 72 小时提交。
+ANU allows thesis extensions for health reasons or force majeure, but written evidence is required. **Extension request emails** must be submitted at least 72 hours before the original deadline.
 
-### 延期申请标准模板
-邮件主题格式：“Extension Request - THES4001 - [姓名] - 学号”。正文第一段声明申请延期天数（最多 14 天，需附院系批准）、具体原因（如医疗证明、丧亲证明）。第二段附上已完成工作量百分比（例如“已完成 65% 的初稿”），并提交修订后的时间表。第三段承诺在延期期间每 5 天汇报一次进度。附件需包含：医生证明或官方文件（英文或公证翻译）、当前论文草稿（展示已有工作）、导师此前同意延期的历史记录（如有）。
+### Standard Extension Request Template
+Subject line format: "Extension Request - THES4001 - [Name] - Student ID". The first paragraph states the number of days requested (up to 14, subject to college approval) and the specific reason (such as a medical certificate or bereavement certificate). The second paragraph includes the percentage of work completed (for example "the first draft is 65% complete") and a revised timeline. The third paragraph commits to reporting progress every 5 days during the extension period. Attachments must include: a medical certificate or official document (in English or notarised translation), the current thesis draft (showing the work completed), and any history of previous extensions approved by the supervisor (if applicable).
 
-### 院系审批流程
-申请将先由导师审核，再提交至学院研究生委员会（College Research Committee）。ANU 2024 年数据显示，附有完整证据链的延期申请批准率为 91%，而无证据申请批准率仅 34%【ANU Academic Registrar 2024, Extension Approval Statistics】。若首次申请被拒，可在 48 小时内提交申诉（Appeal），需附上新增证据。
+### College Approval Process
+The application is first reviewed by the supervisor, then submitted to the College Research Committee. ANU 2024 data shows that extension applications with a complete chain of evidence have a 91% approval rate, while those without evidence have only a 34% approval rate [ANU Academic Registrar 2024, Extension Approval Statistics]. If the first application is refused, you can lodge an appeal within 48 hours, attaching new evidence.
 
-## 致谢与结题邮件
+## Thank-You and Closing Emails
 
-论文提交后 7 天内，发送**致谢与结题邮件**是 ANU 推荐的职业礼仪，也是获取导师未来推荐信的基础。
+Sending a **thank-you and closing email** within 7 days of submitting the thesis is professional etiquette recommended by ANU, and it lays the groundwork for a future reference letter from your supervisor.
 
-### 致谢邮件结构
-主题行：“Thank You - THES4001 - [姓名]”。正文第一段感谢导师的指导，引用 1-2 个具体帮助（如“您在第 8 周建议的定量分析方法显著提升了数据信度”）。第二段告知论文最终提交状态（如“已通过 Turnitin 查重，相似度 8%”），并请求导师提供书面反馈（Feedback Form）作为后续求职参考。第三段表达未来合作意愿（如参与导师研究项目或推荐给其他学生）。
+### Thank-You Email Structure
+Subject line: "Thank You - THES4001 - [Name]". The first paragraph thanks the supervisor for their guidance, citing 1-2 specific instances of help (for example "the quantitative analysis method you suggested in Week 8 significantly improved the reliability of the data"). The second paragraph reports the final submission status (for example "passed the Turnitin similarity check with an 8% similarity score") and asks the supervisor to provide written feedback (Feedback Form) for use in future job applications. The third paragraph expresses interest in future collaboration (such as joining the supervisor's research projects or being recommended to other students).
 
-### 附件与后续
-附上最终版论文摘要（200 词以内）和致谢页（Acknowledgements section）的 PDF 版本。若导师在 2 周内回复并给予积极评价，可请求导师在 LinkedIn 上撰写简短推荐语。ANU 职业发展中心（Career Development Centre）建议，此邮件应抄送学院行政人员，以确保导师评语被录入学生档案。
+### Attachments and Follow-up
+Attach a PDF of the final thesis abstract (within 200 words) and the Acknowledgements section. If the supervisor replies within 2 weeks with positive feedback, you can ask them to write a short recommendation on LinkedIn. ANU's Career Development Centre suggests CC'ing the college administration on this email to ensure the supervisor's comments are recorded in your student file.
 
 ## FAQ
 
-### Q1：导师超过 5 天未回复邮件怎么办？
-ANU 学术政策规定导师有 5 个工作日回复义务。若超期，可发送一次礼貌跟进邮件（主题加“[Follow-up]”），正文引用原邮件发送日期。若再超 3 天未回复，可联系学院研究生协调员（Graduate Coordinator）介入，通常 48 小时内解决问题。2023 年 ANU 内部统计显示，约 78% 的未回复案例在协调员介入后 24 小时内得到解决。
+### Q1: What if my supervisor hasn't replied after more than 5 days?
+ANU academic policy requires supervisors to respond within 5 business days. If this period is exceeded, send one polite follow-up email (with "[Follow-up]" added to the subject line) and reference the date the original email was sent. If there is still no reply after a further 3 days, contact the college's Graduate Coordinator to intervene; the issue is usually resolved within 48 hours. Internal ANU statistics from 2023 show that about 78% of unanswered cases are resolved within 24 hours of the Coordinator's intervention.
 
-### Q2：邮件中能否使用中文或中英混写？
-ANU 官方教学语言为英语，所有毕业论文相关沟通必须使用英文。若导师为中文母语者，也建议使用英文邮件以保持正式记录。2024 年 ANU 学术诚信指南明确要求，所有与论文相关的书面沟通（含邮件）需作为学术记录存档，非英文内容可能不被承认。
+### Q2: Can I write emails in Chinese or a mix of Chinese and English?
+English is ANU's official language of instruction, and all thesis-related communication must be in English. Even if your supervisor is a native Chinese speaker, using English emails is recommended to maintain a formal record. The 2024 ANU Academic Integrity Guide explicitly requires that all thesis-related written communication (including emails) be archived as academic records; non-English content may not be recognised.
 
-### Q3：毕业论文邮件需要抄送给谁？
-常规邮件仅需发送给导师。首次联系和进度汇报可抄送自己（用于存档）。延期申请需抄送学院研究生行政助理（Research Administration Officer）。致谢邮件可抄送导师所在院系的系主任（Head of School）以示尊重。切勿抄送其他学生或非相关教职人员，否则可能违反 ANU 隐私政策。
+### Q3: Who should I CC on thesis emails?
+Routine emails only need to be sent to the supervisor. First contact and progress report emails can be CC'd to yourself (for your records). Extension requests must be CC'd to the college's Research Administration Officer. Thank-you emails can be CC'd to the Head of School of the supervisor's department as a mark of respect. Never CC other students or unrelated staff, as this may breach ANU's privacy policy.
 
-## 参考资料
+## References
 - ANU 2024, International Student Experience Survey
 - Australian Department of Education 2023, Completion Rates by Citizenship
 - ANU 2024, Graduate Research Policy §4.3

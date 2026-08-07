@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园通勤方式对比：自行车、公交与步行路线推荐"
-description: "澳大利亚国立大学（ANU）主校区位于堪培拉市中心阿克顿（Acton）区，其校园通勤方式的选择直接影响学生每日的时间管理与出行成本。根据澳大利亚统计局（ABS）2021年人口普查数据，堪培拉居民采用**私家车**通勤的比例为62.4%，低于全国平均水平（72.5%），而公共交通与**主动出行**（步行与骑行）的使用…"
+slug: anu-校园通勤方式对比自行车公交与步行路线推荐
+title: "ANU Campus Commuting Options Compared: Cycling, Bus and Walking Route Recommendations"
+description: "The Australian National University (ANU) main campus is located in the Acton district near Canberra's city centre, and the choice of commuting mode directly affects students' daily time management and travel costs. According to Australian Bureau of Statistics (ABS) 2021 Census data, 62.4% of Canberra residents commute by **private car** — below the national average of 72.5% — while public transport and **active travel** (walking and cycling) are used at significantly higher rates…"
 category: "ANU 校园通勤方式对比"
 pubDatetime: '2026-03-09T19:48:59Z'
 publishDate: '2026-03-09T19:48:59Z'
@@ -9,119 +10,121 @@ tags: ["featured"]
 hideFromHome: true
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园通勤方式对比自行车公交与步行路线推荐-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-澳大利亚国立大学（ANU）主校区位于堪培拉市中心阿克顿（Acton）区，其校园通勤方式的选择直接影响学生每日的时间管理与出行成本。根据澳大利亚统计局（ABS）2021年人口普查数据，堪培拉居民采用**私家车**通勤的比例为62.4%，低于全国平均水平（72.5%），而公共交通与**主动出行**（步行与骑行）的使用率显著更高【ABS 2021, Census of Population and Housing】。同时，ANU 2023年校园可持续发展报告指出，校内约有4,200个自行车停车位，反映出校方对非机动车通勤的鼓励态度【ANU 2023, Campus Sustainability Report】。对于18至30岁的学生群体而言，在公交、自行车与步行之间做出选择，涉及通勤时间、经济成本与校园可达性等多维度权衡。
+The Australian National University (ANU) main campus sits in the Acton district near Canberra's city centre, and the choice of commuting mode directly affects how students manage their time and travel costs every day. According to Australian Bureau of Statistics (ABS) 2021 Census data, 62.4% of Canberra residents commute by **private car** — below the national average of 72.5% — while public transport and **active travel** (walking and cycling) are used at significantly higher rates【ABS 2021, Census of Population and Housing】. In addition, the ANU 2023 Campus Sustainability Report notes that the campus provides about 4,200 bicycle parking spaces, reflecting the university's encouragement of non-motorised commuting【ANU 2023, Campus Sustainability Report】. For students aged 18 to 30, choosing between bus, bicycle and walking involves trade-offs across multiple dimensions, including commute time, financial cost and campus accessibility.
 
-## 自行车通勤：路线、设施与安全性
+## Cycling to Campus: Routes, Facilities and Safety
 
-ANU校园位于格里芬湖（Lake Burley Griffin）北岸，地势相对平缓，为**自行车通勤**提供了地理优势。堪培拉拥有超过140公里的独立自行车道网络，其中多条路径直接连接ANU校园与周边郊区。例如，从市中心Civic至ANU主校区（Union Court）的骑行距离约为1.5公里，耗时5至8分钟。
+The ANU campus sits on the north shore of Lake Burley Griffin on relatively flat terrain, giving **cycling commuters** a geographic advantage. Canberra has more than 140 kilometres of separated bicycle paths, several of which connect directly to the ANU campus and surrounding suburbs. For example, the ride from Civic in the city centre to the ANU main campus (Union Court) is about 1.5 kilometres, taking 5 to 8 minutes.
 
-### 专用自行车道与共享路径
+### Dedicated Cycleways and Shared Paths
 
-校园内部及周边设有**Lennox Crossing**与**Sullivans Creek**两条主要自行车通道，均为独立路权设计，与机动车道物理隔离。根据ACT政府2022年发布的《堪培拉自行车战略》，ACT地区自行车通勤率在过去五年间增长了18%，其中ANU学生群体贡献了主要增量【ACT Government 2022, Canberra Cycling Strategy】。从Belconnen区至ANU的骑行路线（沿Belconnen Way转Barry Drive）全长约8公里，单程耗时约25分钟，是北郊学生常用的通勤线路。
+Two main bicycle corridors run through and around the campus — **Lennox Crossing** and **Sullivans Creek** — both with independent right-of-way design, physically separated from motor traffic. According to the Canberra Cycling Strategy released by the ACT Government in 2022, cycling commutes in the ACT grew 18% over the previous five years, with ANU students contributing the largest share of the increase【ACT Government 2022, Canberra Cycling Strategy】. The route from Belconnen to ANU (along Belconnen Way then Barry Drive) is about 8 kilometres, taking roughly 25 minutes one way, and is a common commuting line for students from the northern suburbs.
 
-### 校园自行车设施
+### Campus Cycling Facilities
 
-ANU在校园内设置了**4,200个自行车停车位**，分布在各学院楼、图书馆及宿舍区入口处。2023年，校方在Chifley Library与Hancock Library外新增了带有监控摄像头的封闭式自行车存放区。此外，校园内设有三个自助维修站，配备打气筒与基础工具，供学生免费使用。需要注意的是，ANU规定自行车不得进入教学楼内部，违者可能面临50澳元罚款。
+ANU provides **4,200 bicycle parking spaces** on campus, distributed at the entrances of college buildings, libraries and residential halls. In 2023, the university added enclosed bicycle storage areas with surveillance cameras outside Chifley Library and Hancock Library. In addition, three self-service repair stations with pumps and basic tools are available on campus for students to use free of charge. Note that ANU regulations prohibit bicycles inside teaching buildings, with violations subject to a A$50 fine.
 
-### 安全考量与夜间骑行
+### Safety Considerations and Night Riding
 
-ACT地区自行车事故统计显示，2022年涉及自行车与机动车的碰撞事故共发生127起，其中约15%发生在上午8点至10点的高峰时段【ACT Government 2023, Road Safety Report】。ANU建议夜间骑行学生配备前后车灯（前白后红）及反光背心，并在校园内遵守15公里/小时的限速规定。校园安保部门（ANU Security）提供免费自行车注册服务，以降低盗窃风险。
+ACT bicycle accident statistics show 127 collisions involving bicycles and motor vehicles in 2022, about 15% of them during the morning peak between 8:00 and 10:00【ACT Government 2023, Road Safety Report】. ANU advises students riding at night to fit front and rear lights (white front, red rear) and a reflective vest, and to observe the 15 km/h speed limit on campus. ANU Security provides free bicycle registration to reduce the risk of theft.
 
-## 公交通勤：线路、班次与票价
+## Bus Commuting: Routes, Frequency and Fares
 
-堪培拉公共交通由ACT Transport运营，**公交系统**是连接ANU与郊区的主要机动化通勤方式。ANU校园内设有多个公交站点，包括位于University Avenue的**City Interchange**与位于North Road的**ANU Sport站**。
+Canberra's public transport is operated by Transport Canberra, and the **bus network** is the main motorised commuting option connecting ANU with the suburbs. The campus has several bus stops, including the **City Interchange** on University Avenue and the **ANU Sport stop** on North Road.
 
-### 主要线路与覆盖范围
+### Main Routes and Coverage
 
-从Gungahlin区出发的**R2线**（快速公交）可直达City Interchange，全程约30分钟，发车间隔在高峰期（7:00-9:00）为10分钟一班。从Woden区出发的**R4线**同样停靠City Interchange，全程约25分钟。从Belconnen区出发的**R3线**则经停ANU Sport站，方便体育中心附近的学生下车。根据ACT Transport 2023年运营数据，R系列快速公交线路日均载客量达4.2万人次，占全系统客流量的38%【ACT Transport 2023, Annual Network Performance Report】。
+The **R2 rapid route** from Gungahlin goes directly to City Interchange, taking about 30 minutes in total, with 10-minute headways during peak hours (7:00–9:00). The **R4 route** from Woden also stops at City Interchange, taking about 25 minutes. The **R3 route** from Belconnen stops at ANU Sport, convenient for students getting off near the sports centre. According to Transport Canberra's 2023 operating data, the R-series rapid bus routes carry an average of 42,000 passengers per day, accounting for 38% of total system ridership【ACT Transport 2023, Annual Network Performance Report】.
 
-### 票价与学生优惠
+### Fares and Student Concessions
 
-堪培拉公交系统采用**MyWay卡**支付，学生可申请MyWay学生卡，享受票价50%的折扣。单程标准成人票价为2.80澳元，学生票价为1.40澳元。若选择**MyWay+**（2023年推出的新系统），学生可通过手机NFC支付，票价与实体卡一致。对于每日通勤的学生，每周公交费用约为14澳元（假设每日往返各一次，每周5天），远低于停车费用（校内停车许可年费为1,200澳元）。
+Canberra's bus system uses the **MyWay card** for payment, and students can apply for a MyWay student card to enjoy a 50% fare discount. The standard adult single fare is A$2.80, while the student fare is A$1.40. With **MyWay+** (the new system launched in 2023), students can pay by NFC on their phones, at the same fares as the physical card. For daily commuters, weekly bus costs are around A$14 (assuming one return trip per day, 5 days a week) — far below parking costs (an annual on-campus parking permit is A$1,200).
 
-### 校园内部公交接驳
+### On-campus Shuttle
 
-ANU与ACT Transport合作运营**校园穿梭巴士（Campus Shuttle）**，路线覆盖从Fellows Oval至John XXIII College的主要教学区。该巴士在工作日7:30至18:30运行，每15分钟一班，学生凭学生证免费乘坐。需要注意的是，穿梭巴士在学期内运行，假期班次减少至每小时一班。
+ANU operates the **Campus Shuttle** in partnership with Transport Canberra, running between Fellows Oval and John XXIII College across the main teaching areas. The shuttle runs from 7:30 am to 6:30 pm on weekdays, every 15 minutes, and is free for students with a student ID. Note that the shuttle runs during the teaching period; during holidays frequency drops to once an hour.
 
-## 步行通勤：时间成本与健康收益
+## Walking to Campus: Time Cost and Health Benefits
 
-对于居住在校园周边3公里范围内的学生，**步行通勤**是最直接且零成本的选择。ANU主校区占地约150公顷，从最北端的Bruce Hall宿舍区步行至最南端的College of Business and Economics大楼，距离约为1.8公里，耗时约22分钟。
+For students living within 3 kilometres of the campus, **walking** is the most direct and zero-cost option. The ANU main campus covers about 150 hectares; walking from Bruce Hall at the northern end to the College of Business and Economics building at the southern end is about 1.8 kilometres and takes around 22 minutes.
 
-### 步行可达的居住区
+### Neighbourhoods Within Walking Distance
 
-根据ANU住宿服务2023年数据，约35%的本科生和28%的研究生选择居住在**Acton**、**Turner**或**Braddon**等步行距离内的郊区【ANU Accommodation Services 2023, Housing Demand Report】。从Turner区（位于校园东北边界）步行至主教学楼群（如Coombs Building）仅需10至15分钟。从Braddon区（校园东南方向）步行至Union Court约需12分钟。
+According to ANU Accommodation Services 2023 data, about 35% of undergraduates and 28% of postgraduates choose to live in suburbs within walking distance such as **Acton**, **Turner** or **Braddon**【ANU Accommodation Services 2023, Housing Demand Report】. From Turner (on the campus's north-eastern boundary), walking to the main teaching buildings (such as the Coombs Building) takes only 10 to 15 minutes. From Braddon (south-east of the campus), walking to Union Court takes about 12 minutes.
 
-### 步行路线推荐
+### Recommended Walking Routes
 
-校园内部设有多条**步行优先通道**，如连接Chifley Library与Hancock Library的中央步道，以及沿Sullivans Creek的景观步道。ACT政府于2022年完成了University Avenue至Kingsley Street的人行道拓宽工程，将步行道宽度从2米增加至3.5米，以应对高峰时段的人流量。建议学生避开Kingsley Street与Barry Drive交叉口（该路口在高峰时段人车混行较为密集），选择经过Union Court的校园内部路径。
+The campus has several **pedestrian-priority routes**, such as the central walkway connecting Chifley Library and Hancock Library, and the landscaped path along Sullivans Creek. In 2022 the ACT Government completed widening of the footpath from University Avenue to Kingsley Street, increasing the path width from 2 metres to 3.5 metres to handle peak-hour pedestrian flows. Students are advised to avoid the intersection of Kingsley Street and Barry Drive (where pedestrians and vehicles mix heavily at peak times) and instead take the internal campus route through Union Court.
 
-### 健康与时间管理
+### Health and Time Management
 
-世界卫生组织（WHO）2020年发布的《身体活动指南》建议成年人每周至少进行150分钟中等强度有氧活动，步行通勤恰好可以满足这一需求【WHO 2020, Guidelines on Physical Activity and Sedentary Behaviour】。对于每日步行往返校园（单程20分钟）的学生，每周步行时间约为200分钟，超出WHO最低建议值33%。然而，步行通勤在堪培拉冬季（6-8月）可能受气温影响，该时期平均最低气温为1°C，需注意保暖。
+The World Health Organization (WHO) Physical Activity Guidelines (2020) recommend that adults do at least 150 minutes of moderate-intensity aerobic activity per week, and walking to campus can satisfy this exactly【WHO 2020, Guidelines on Physical Activity and Sedentary Behaviour】. For students who walk to and from campus daily (20 minutes each way), weekly walking time totals about 200 minutes, 33% above the WHO minimum recommendation. However, walking commutes can be affected by Canberra's winter temperatures (June–August), when the average minimum temperature is 1°C, so warm clothing is essential.
 
-## 多模式通勤：组合策略与弹性选择
+## Multimodal Commuting: Combined Strategies and Flexible Options
 
-单一通勤方式并非适用于所有场景，**多模式通勤**（组合使用自行车、公交与步行）在ANU学生中日益普及。ACT Transport 2023年调查显示，约22%的堪培拉通勤者在单次出行中使用两种或以上交通方式【ACT Transport 2023, Travel Behaviour Survey】。
+No single mode suits every situation, and **multimodal commuting** (combining bicycle, bus and walking) is increasingly popular among ANU students. A 2023 Transport Canberra survey found that about 22% of Canberra commuters use two or more transport modes in a single trip【ACT Transport 2023, Travel Behaviour Survey】.
 
-### 自行车+公交组合
+### Bike + Bus Combination
 
-堪培拉公交车辆前部配备**自行车架**，每辆车可搭载2辆自行车，允许学生在骑行至公交站后换乘公交。例如，从Woden区骑行至Woden Interchange（约3公里），然后乘坐R4线至City Interchange，再步行至校园，总耗时约35分钟，比纯公交节省15分钟。此组合适合居住在距离公交站较远的郊区（如Mawson或Erindale）的学生。
+Canberra buses are fitted with **bicycle racks** at the front, carrying 2 bicycles per vehicle, allowing students to ride to a bus stop and then transfer to the bus. For example, riding from Woden to Woden Interchange (about 3 km), then taking the R4 to City Interchange, then walking to campus, takes about 35 minutes in total — saving 15 minutes compared with bus only. This combination suits students living in suburbs farther from bus stops, such as Mawson or Erindale.
 
-### 步行+公交组合
+### Walk + Bus Combination
 
-对于居住在校园周边1-2公里但不愿全程步行的学生，可选择步行至**City Interchange**（约10分钟），然后乘坐校园穿梭巴士进入教学区。这种组合在雨天（堪培拉年均降雨日数为108天）或携带重物时尤为实用。ANU气象站数据显示，2023年校园区域降雨量为612毫米，高于堪培拉均值（600毫米），因此雨具准备是步行通勤的必备考量。
+For students living 1–2 km from campus who prefer not to walk the whole way, walking to **City Interchange** (about 10 minutes) and then taking the Campus Shuttle into the teaching areas works well. This combination is especially practical on rainy days (Canberra averages 108 rain days per year) or when carrying heavy loads. ANU weather station data shows campus rainfall was 612 mm in 2023, above the Canberra average (600 mm), so rain gear is a necessary consideration for walking commuters.
 
-### 季节性调整
+### Seasonal Adjustments
 
-堪培拉夏季（12-2月）平均最高气温为28°C，此时自行车通勤可能因高温而舒适度下降；冬季（6-8月）则需应对低温与可能的霜冻。ANU建议学生在**极端天气**下调整通勤方式，例如夏季优先选择公交（空调车厢）或清晨/傍晚骑行，冬季则增加步行以维持体温。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E9%80%9A%E5%8B%A4%E6%96%B9%E5%BC%8F%E5%AF%B9%E6%AF%94%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%85%AC%E4%BA%A4%E4%B8%8E%E6%AD%A5%E8%A1%8C%E8%B7%AF%E7%BA%BF%E6%8E%A8%E8%8D%90) 等专业通道完成结汇。
+Canberra summers (December–February) average maximum temperatures of 28°C, when cycling may become less comfortable in the heat; winters (June–August) bring low temperatures and possible frost. ANU advises students to adjust their commuting mode in **extreme weather** — for example, preferring the bus (air-conditioned carriages) or riding early morning/evening in summer, and walking more in winter to keep warm. When paying cross-border tuition, some international students' families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E9%80%9A%E5%8B%A4%E6%96%B9%E5%BC%8F%E5%AF%B9%E6%AF%94%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%85%AC%E4%BA%A4%E4%B8%8E%E6%AD%A5%E8%A1%8C%E8%B7%AF%E7%BA%BF%E6%8E%A8%E8%8D%90) to settle their payments.
 
-## 校园停车与成本对比
+## Campus Parking and Cost Comparison
 
-对于考虑**私家车**通勤的学生，ANU校园停车政策设置了较高的经济门槛。校内停车许可分为三类：学生许可（年费1,200澳元）、教职员工许可（年费800澳元）与访客许可（每小时4澳元）。2023年，ANU发放的学生停车许可数量为1,500张，而申请人数超过3,000人，中签率约为50%【ANU Parking Services 2023, Annual Report】。
+For students considering **private car** commuting, ANU's campus parking policy sets a high financial bar. On-campus parking permits come in three types: student permits (A$1,200 per year), staff permits (A$800 per year) and visitor permits (A$4 per hour). In 2023, ANU issued 1,500 student parking permits while more than 3,000 people applied, giving an allocation rate of about 50%【ANU Parking Services 2023, Annual Report】.
 
-### 通勤成本对比表
+### Commuting Cost Comparison Table
 
-- **自行车**: 0（无燃料费） · 0（维护约10元） · 0（初始购车约500元）
-- **公交**: 1.40（学生票） · 56（每周5天） · 672（按12个月计）
-- **步行**: 0 · 0 · 0
-- **私家车**: 4（停车费） · 160（停车+油费） · 1,920（不含保险）
+- **Bicycle**: 0 (no fuel costs) · 0 (maintenance ~A$10) · 0 (initial purchase ~A$500)
+- **Bus**: 1.40 (student fare) · 56 (5 days a week) · 672 (over 12 months)
+- **Walking**: 0 · 0 · 0
+- **Private car**: 4 (parking) · 160 (parking + fuel) · 1,920 (excluding insurance)
 
 
-数据来源：ANU Parking Services 2023 + ACT Transport 2023票价表。
+Data source: ANU Parking Services 2023 + ACT Transport 2023 fare table.
 
-### 停车位分布与限制
+### Parking Locations and Restrictions
 
-校园内主要停车场位于**Fellows Oval**（200个车位）、**University House**（150个车位）及**Kambri Precinct**（地下停车场，300个车位）。学生许可仅允许在工作日8:00-18:00在指定区域停车，周末及公共假日免费。违规停车罚款金额为120澳元。
+The main campus car parks are at **Fellows Oval** (200 spaces), **University House** (150 spaces) and the **Kambri Precinct** (underground car park, 300 spaces). Student permits only allow parking in designated areas on weekdays 8:00 am–6:00 pm; weekends and public holidays are free. The fine for illegal parking is A$120.
 
-## 通勤选择的影响因素
+## Factors Influencing Commute Choice
 
-学生选择通勤方式时需综合考虑**时间预算**、**经济能力**与**居住位置**。ANU 2022年学生调查显示，通勤时间超过30分钟的学生中，62%报告了更高的学业压力水平【ANU Student Experience Survey 2022】。
+When choosing a commuting mode, students need to weigh **time budget**, **financial capacity** and **location of residence**. ANU's 2022 student survey found that among students with commutes over 30 minutes, 62% reported higher academic stress levels【ANU Student Experience Survey 2022】.
 
-### 居住距离与时间阈值
+### Distance from Home and Time Thresholds
 
-从居住地到校园的距离直接影响通勤方式选择：0-3公里范围内，步行是首选（耗时10-30分钟）；3-8公里范围内，自行车或公交更高效（耗时15-40分钟）；8公里以上，公交或私家车成为必要选项（耗时25-60分钟）。ACT政府2023年规划文件显示，未来五年内将新增3条快速公交线路，覆盖**Molonglo**与**West Belconnen**等新兴社区【ACT Government 2023, Transport for Canberra Plan】。
+The distance from home to campus directly shapes mode choice: within 0–3 km, walking is the first choice (10–30 minutes); at 3–8 km, cycling or bus is more efficient (15–40 minutes); beyond 8 km, bus or private car becomes necessary (25–60 minutes). ACT Government planning documents from 2023 show that 3 new rapid bus routes will be added over the next five years, covering growing communities such as **Molonglo** and **West Belconnen**【ACT Government 2023, Transport for Canberra Plan】.
 
-### 可持续出行激励
+### Sustainable Travel Incentives
 
-ANU为鼓励**绿色通勤**，推出了“可持续出行激励计划”，包括：自行车购买补贴（最高100澳元）、公交卡充值返现（季度最高20澳元）以及步行挑战赛（月度抽奖奖品为50澳元礼品卡）。2023年，该计划覆盖了约1,200名学生，参与者的通勤碳排放量平均降低35%。
+To encourage **green commuting**, ANU has launched a "Sustainable Travel Incentive Program", including: a bicycle purchase subsidy (up to A$100), bus card top-up cashback (up to A$20 per quarter) and a walking challenge (monthly prize draw with A$50 gift cards). In 2023, the program covered about 1,200 students, and participants cut their commuting carbon emissions by an average of 35%.
 
 ## FAQ
 
-### Q1：ANU学生如何申请MyWay学生卡？
+### Q1: How do ANU students apply for a MyWay student card?
 
-学生需在ACT Transport官网提交在线申请，上传ANU学生证扫描件及身份证明文件。审批周期为5至10个工作日。学生卡有效期与学业期限一致（通常为1至4年），到期后需重新申请。2023年数据显示，ANU学生MyWay卡申请通过率为94%。
+Students submit an online application on the Transport Canberra website, uploading a scanned copy of their ANU student ID and proof of identity. Approval takes 5 to 10 business days. The student card is valid for the duration of study (usually 1 to 4 years) and must be reapplied for on expiry. 2023 data shows the approval rate for ANU student MyWay card applications was 94%.
 
-### Q2：ANU校园内自行车被盗率如何？
+### Q2: How high is the bicycle theft rate on the ANU campus?
 
-根据ANU Security 2023年数据，校园内自行车盗窃报案数为47起，较2022年（62起）下降24%。被盗高发区域为Chifley Library与Hancock Library外围的露天停车架。建议使用U型锁（而非钢丝锁），并在ANU Security注册自行车序列号。已注册车辆的找回率为38%，高于未注册车辆（12%）。
+According to ANU Security 2023 data, 47 bicycle thefts were reported on campus, down 24% from 2022 (62). The highest-risk locations are the open-air racks around Chifley Library and Hancock Library. U-locks (rather than cable locks) are recommended, and students should register their bicycle serial number with ANU Security. The recovery rate for registered bicycles is 38%, compared with 12% for unregistered ones.
 
-### Q3：从堪培拉机场到ANU校园的最佳通勤路线是什么？
+### Q3: What is the best commuting route from Canberra Airport to the ANU campus?
 
-从堪培拉机场（CBR）至ANU校园距离约8公里。公交路线为：乘坐**R2线**（从机场出发，每30分钟一班）至City Interchange，然后步行10分钟至校园，全程约40分钟，费用为1.40澳元（学生票）。出租车或网约车（如Uber）费用为25至35澳元，耗时15至20分钟。机场无自行车租赁服务。
+The distance from Canberra Airport (CBR) to the ANU campus is about 8 km. By bus: take the **R2 route** (departing from the airport every 30 minutes) to City Interchange, then walk 10 minutes to campus — about 40 minutes in total, costing A$1.40 (student fare). A taxi or ride-share (such as Uber) costs A$25 to A$35 and takes 15 to 20 minutes. There is no bicycle rental service at the airport.
 
-## 参考资料
+## References
 
 - ABS 2021, Census of Population and Housing, Australian Bureau of Statistics
 - ANU 2023, Campus Sustainability Report, Australian National University

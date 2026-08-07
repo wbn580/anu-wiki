@@ -1,6 +1,7 @@
 ---
-title: "ANU 2025 年 QS 世界大学学科排名完整解读"
-description: "澳洲国立大学（ANU）在 2025 年 QS 世界大学学科排名中，共有 14 个学科位列全球前 50 名，其中 **人类学** 与 **哲学** 分别排名全球第 7 位和第 8 位，展现出该校在人文社科领域的持续优势。根据 QS 2025 年学科排名数据，ANU 在 **地球与海洋科学** 领域排名全球第 11 …"
+slug: anu-2025-年-qs-世界大学学科排名完整解读
+title: "ANU 2025 QS World University Rankings by Subject: A Complete Guide"
+description: "The Australian National University (ANU) placed 14 subjects in the global top 50 in the 2025 QS World University Rankings by Subject, with **Anthropology** and **Philosophy** ranked 7th and 8th worldwide respectively, reflecting the university's enduring strength in the humanities and social sciences. According to the QS 2025 subject rankings data, ANU ranked 11th globally in **Earth and Marine Sciences**, 14th in **Development Studies**, and 10th in **Politics and International Studies**..."
 category: "ANU 2025 年 Q"
 pubDatetime: '2026-02-21T19:45:29Z'
 publishDate: '2026-02-21T19:45:29Z'
@@ -11,76 +12,76 @@ hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-2025-年-qs-世界大学学科排名完整解读-2026-1880x1253.jpg"
 ---
 
-澳洲国立大学（ANU）在 2025 年 QS 世界大学学科排名中，共有 14 个学科位列全球前 50 名，其中 **人类学** 与 **哲学** 分别排名全球第 7 位和第 8 位，展现出该校在人文社科领域的持续优势。根据 QS 2025 年学科排名数据，ANU 在 **地球与海洋科学** 领域排名全球第 11 位，**发展研究** 位列第 14 位，**政治学与国际研究** 排名第 10 位。该排名基于 2024 年 4 月至 2025 年 3 月间的学术声誉、雇主声誉、论文篇均引用率、H 指数及国际研究网络（IRN）五项指标，覆盖全球 1,500 余所高校的 55 个学科。对于考虑申请 ANU 的学生而言，这份排名提供了学科实力的量化参考，尤其适合关注 **人文社科** 与 **地球科学** 领域的研究型申请者。
+The Australian National University (ANU) placed 14 subjects in the global top 50 in the 2025 QS World University Rankings by Subject, with **Anthropology** and **Philosophy** ranked 7th and 8th worldwide respectively — clear evidence of the university's continuing strength in the humanities and social sciences. According to the QS 2025 subject rankings data, ANU ranked 11th globally in **Earth and Marine Sciences**, 14th in **Development Studies**, and 10th in **Politics and International Studies**. The rankings are based on five indicators — academic reputation, employer reputation, citations per paper, H-index and International Research Network (IRN) — measured between April 2024 and March 2025, and cover 55 subjects across more than 1,500 universities worldwide. For students considering applying to ANU, these rankings offer a quantitative reference point for subject-level strength, and are especially useful for research-oriented applicants focused on the **humanities and social sciences** and **earth sciences**.
 
-## 人文与社会科学学科表现
+## Humanities and Social Sciences
 
-### 人类学与哲学
-ANU 在 **人类学** 领域排名全球第 7 位，是该校排名最高的学科。该学科在学术声誉指标上得分 94.2/100，雇主声誉得分 89.5/100，反映出其在理论研究和田野调查方面的国际认可度。**哲学** 学科排名全球第 8 位，论文篇均引用率得分 91.3/100，H 指数得分 88.7/100，表明该领域研究成果具有较高的学术影响力。两项学科均受益于 ANU 在 **亚太研究** 领域的长期积累，其人类学系与澳大利亚国立大学亚太学院（CAP）共享研究资源。
+### Anthropology and Philosophy
+ANU ranked 7th globally in **Anthropology**, its highest-ranked subject. The discipline scored 94.2/100 for academic reputation and 89.5/100 for employer reputation, reflecting international recognition of its theoretical research and fieldwork. **Philosophy** ranked 8th globally, with a citations-per-paper score of 91.3/100 and an H-index score of 88.7/100, indicating the high scholarly influence of its research output. Both disciplines benefit from ANU's long-standing depth in **Asia-Pacific research**: the Department of Anthropology shares research resources with the ANU College of Asia and the Pacific (CAP).
 
-### 政治学与国际研究
-**政治学与国际研究** 排名全球第 10 位，是 ANU 在社会科学领域的标志性学科。该学科在雇主声誉指标上得分 93.8/100，国际研究网络得分 95.1/100，反映出毕业生在全球政策机构、国际组织和外交部门中的竞争力。ANU 的政治学系与 **澳大利亚国立大学战略与国防研究中心**（SDSC）合作密切，该中心是澳大利亚政府国防政策咨询的核心机构。
+### Politics and International Studies
+**Politics and International Studies** ranked 10th globally, making it ANU's flagship social science discipline. It scored 93.8/100 for employer reputation and 95.1/100 for international research network, reflecting the competitiveness of its graduates in global policy institutions, international organisations and foreign ministries. The ANU Department of Political and Social Change works closely with the **Strategic and Defence Studies Centre (SDSC)**, a core advisory body for Australian government defence policy.
 
-### 发展研究与社会学
-**发展研究** 排名全球第 14 位，学术声誉得分 90.6/100。该学科依托 ANU 的 **克劳福德公共政策学院**，聚焦亚太地区的发展议题，包括贫困治理、环境可持续性和公共卫生政策。**社会学** 排名全球第 28 位，论文篇均引用率得分 87.4/100，研究重点涵盖社会分层、移民与社会变迁。
+### Development Studies and Sociology
+**Development Studies** ranked 14th globally, with an academic reputation score of 90.6/100. The discipline is anchored in ANU's **Crawford School of Public Policy** and focuses on Asia-Pacific development issues, including poverty governance, environmental sustainability and public health policy. **Sociology** ranked 28th globally, with a citations-per-paper score of 87.4/100; its research priorities span social stratification, migration and social change.
 
-## 自然科学与地球科学
+## Natural Sciences and Earth Sciences
 
-### 地球与海洋科学
-**地球与海洋科学** 排名全球第 11 位，是 ANU 在自然科学领域排名最高的学科。该学科在 H 指数指标上得分 92.7/100，论文篇均引用率得分 90.1/100，研究覆盖板块构造、气候变化和海洋生态系统。ANU 的 **地球科学研究院**（RSES）拥有澳大利亚最大的地球科学实验室集群，包括 **高精度同位素分析实验室**（HIAF）和 **地震学观测网络**。
+### Earth and Marine Sciences
+**Earth and Marine Sciences** ranked 11th globally, ANU's highest-ranked subject in the natural sciences. The discipline scored 92.7/100 on the H-index and 90.1/100 on citations per paper, with research spanning plate tectonics, climate change and marine ecosystems. ANU's **Research School of Earth Sciences (RSES)** hosts Australia's largest cluster of earth science laboratories, including the **High-Precision Isotope Analysis Facility (HIAF)** and a seismology observation network.
 
-### 地理学与环境科学
-**地理学** 排名全球第 16 位，学术声誉得分 89.3/100。该学科的研究方向包括城市地理、人口迁移与遥感技术。**环境科学** 排名全球第 32 位，雇主声誉得分 86.7/100，毕业生在澳大利亚联邦科学与工业研究组织（CSIRO）和政府部门中就业比例较高。ANU 的 **芬纳环境与社会学院**（Fenner School）是该学科的主要教学单位。
+### Geography and Environmental Science
+**Geography** ranked 16th globally, with an academic reputation score of 89.3/100. Its research directions include urban geography, population migration and remote sensing technology. **Environmental Science** ranked 32nd globally, with an employer reputation score of 86.7/100; a high share of its graduates go on to work at the Commonwealth Scientific and Industrial Research Organisation (CSIRO) and government agencies. The **Fenner School of Environment and Society** is the discipline's main teaching unit.
 
-### 物理学与天文学
-**物理学与天文学** 排名全球第 40 位，论文篇均引用率得分 85.6/100。ANU 的 **天文与天体物理研究院**（RSAA）管理着 **赛丁泉天文台**（Siding Spring Observatory），该天文台是澳大利亚最大的光学天文观测设施，拥有 **英澳望远镜**（AAT）等设备。
+### Physics and Astronomy
+**Physics and Astronomy** ranked 40th globally, with a citations-per-paper score of 85.6/100. ANU's **Research School of Astronomy and Astrophysics (RSAA)** manages the **Siding Spring Observatory**, Australia's largest optical astronomy facility, which hosts instruments including the **Anglo-Australian Telescope (AAT)**.
 
-## 生命科学与医学
+## Life Sciences and Medicine
 
-### 生物学与生物化学
-**生物学与生物化学** 排名全球第 51-100 区间，学术声誉得分 78.4/100。ANU 的 **约翰·科廷医学研究院**（JCSMR）是澳大利亚领先的生物医学研究机构，专注于癌症生物学、免疫学和神经科学。该学科在 **遗传学** 子领域表现突出，论文篇均引用率得分 82.3/100。
+### Biology and Biochemistry
+**Biology and Biochemistry** ranked in the 51-100 band globally, with an academic reputation score of 78.4/100. ANU's **John Curtin School of Medical Research (JCSMR)** is a leading Australian biomedical research institution, focusing on cancer biology, immunology and neuroscience. The discipline is particularly strong in **genetics**, with a citations-per-paper score of 82.3/100.
 
-### 心理学
-**心理学** 排名全球第 34 位，雇主声誉得分 85.2/100。ANU 的 **心理学研究院**（RSP）提供临床心理学、认知神经科学和健康心理学方向的研究生课程。该学科在 **认知科学** 领域的研究成果被引用次数超过 12,000 次（2024 年 Scopus 数据），研究重点包括记忆机制和决策行为。
+### Psychology
+**Psychology** ranked 34th globally, with an employer reputation score of 85.2/100. ANU's **Research School of Psychology (RSP)** offers postgraduate programs in clinical psychology, cognitive neuroscience and health psychology. Research output in **cognitive science** has been cited more than 12,000 times (2024 Scopus data), with work focusing on memory mechanisms and decision-making behaviour.
 
-## 工程与技术领域
+## Engineering and Technology
 
-### 计算机科学与信息系统
-**计算机科学与信息系统** 排名全球第 51-100 区间，雇主声誉得分 83.6/100。ANU 的 **计算机科学研究院**（RSCS）在人工智能、数据科学和网络安全方向设有硕士和博士项目。该学科与澳大利亚 **国防科技集团**（DSTG）合作开展网络防御研究，国际研究网络得分 81.2/100。
+### Computer Science and Information Systems
+**Computer Science and Information Systems** ranked in the 51-100 band globally, with an employer reputation score of 83.6/100. ANU's **Research School of Computer Science (RSCS)** offers master's and PhD programs in artificial intelligence, data science and cybersecurity. The discipline collaborates with Australia's **Defence Science and Technology Group (DSTG)** on cyber defence research, and scores 81.2/100 for international research network.
 
-### 电子与电气工程
-**电子与电气工程** 排名全球第 101-150 区间，论文篇均引用率得分 79.8/100。ANU 的 **工程与计算机科学学院**（CECS）提供光电子学、电信工程和可再生能源系统方向的课程。该学科在 **光子学** 领域的研究成果被引用次数超过 8,500 次（2024 年 Scopus 数据）。
+### Electrical and Electronic Engineering
+**Electrical and Electronic Engineering** ranked in the 101-150 band globally, with a citations-per-paper score of 79.8/100. ANU's **College of Engineering and Computer Science (CECS)** offers courses in optoelectronics, telecommunications engineering and renewable energy systems. Research in **photonics** has been cited more than 8,500 times (2024 Scopus data).
 
-## 商科与经济学
+## Business and Economics
 
-### 经济学与计量经济学
-**经济学与计量经济学** 排名全球第 37 位，学术声誉得分 87.1/100。ANU 的 **克劳福德公共政策学院** 和 **商业与经济学院**（CBE）共同提供经济学课程，研究重点包括公共经济学、发展经济学和计量方法。该学科在 **行为经济学** 领域的研究成果被引用次数超过 6,000 次（2024 年 Scopus 数据），雇主声誉得分 84.5/100。
+### Economics and Econometrics
+**Economics and Econometrics** ranked 37th globally, with an academic reputation score of 87.1/100. ANU's **Crawford School of Public Policy** and **College of Business and Economics (CBE)** jointly deliver economics programs, with research focusing on public economics, development economics and econometric methods. Research in **behavioural economics** has been cited more than 6,000 times (2024 Scopus data), and the discipline scores 84.5/100 for employer reputation.
 
-### 会计与金融
-**会计与金融** 排名全球第 51-100 区间，雇主声誉得分 82.3/100。ANU 的 **商业与经济学院** 提供会计学硕士和金融学硕士项目，毕业生在澳大利亚四大会计师事务所和金融机构中就业比例较高。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-2025-%E5%B9%B4-qs-%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%A7%91%E6%8E%92%E5%90%8D%E5%AE%8C%E6%95%B4%E8%A7%A3%E8%AF%BB) 等专业通道完成结汇。
+### Accounting and Finance
+**Accounting and Finance** ranked in the 51-100 band globally, with an employer reputation score of 82.3/100. ANU's **College of Business and Economics** offers Master of Accounting and Master of Finance programs, and a high proportion of graduates go on to work at Australia's Big Four accounting firms and financial institutions. When paying tuition across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-2025-%E5%B9%B4-qs-%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%A7%91%E6%8E%92%E5%90%8D%E5%AE%8C%E6%95%B4%E8%A7%A3%E8%AF%BB) to complete their currency exchange.
 
-## 艺术与人文学科
+## Arts and Humanities
 
-### 历史学与考古学
-**历史学** 排名全球第 23 位，学术声誉得分 86.5/100。ANU 的 **历史研究院** 在澳大利亚史、亚太史和殖民史领域具有研究优势。**考古学** 排名全球第 31 位，论文篇均引用率得分 83.2/100，研究覆盖旧石器时代考古、太平洋岛屿考古和文化遗产管理。
+### History and Archaeology
+**History** ranked 23rd globally, with an academic reputation score of 86.5/100. ANU's **School of History** holds research strengths in Australian history, Asia-Pacific history and colonial history. **Archaeology** ranked 31st globally, with a citations-per-paper score of 83.2/100; its research covers Palaeolithic archaeology, Pacific island archaeology and cultural heritage management.
 
-### 语言学与英语语言文学
-**语言学** 排名全球第 18 位，H 指数得分 85.9/100。ANU 的 **语言学研究院** 在音系学、句法学和语言类型学领域具有国际影响力，研究语料覆盖超过 200 种语言。**英语语言文学** 排名全球第 42 位，雇主声誉得分 80.7/100，毕业生在出版、教育和媒体行业就业比例较高。
+### Linguistics and English Language and Literature
+**Linguistics** ranked 18th globally, with an H-index score of 85.9/100. ANU's **School of Literature, Languages and Linguistics** has international influence in phonology, syntax and linguistic typology, with research corpora spanning more than 200 languages. **English Language and Literature** ranked 42nd globally, with an employer reputation score of 80.7/100; a high proportion of its graduates work in publishing, education and media.
 
 ## FAQ
 
-### Q1：ANU 2025 年 QS 排名最高的学科是什么？分数是多少？
-ANU 排名最高的学科是 **人类学**，位列全球第 7 位。该学科在 QS 2025 年学科排名中学术声誉得分为 94.2/100，雇主声誉得分为 89.5/100，综合得分 92.1/100。第二高的是 **哲学**，排名全球第 8 位，综合得分 90.8/100。
+### Q1: What was ANU's highest-ranked subject in the QS 2025 rankings, and what was its score?
+ANU's highest-ranked subject is **Anthropology**, placed 7th globally. In the QS 2025 subject rankings it scored 94.2/100 for academic reputation and 89.5/100 for employer reputation, for an overall score of 92.1/100. The second-highest is **Philosophy**, ranked 8th globally with an overall score of 90.8/100.
 
-### Q2：ANU 在 QS 2025 年学科排名中进入全球前 50 的学科有多少个？
-共有 14 个学科进入全球前 50 名，涵盖人类学（第 7）、哲学（第 8）、政治学与国际研究（第 10）、地球与海洋科学（第 11）、发展研究（第 14）、地理学（第 16）、语言学（第 18）、历史学（第 23）、社会学（第 28）、考古学（第 31）、环境科学（第 32）、心理学（第 34）、经济学与计量经济学（第 37）、物理学与天文学（第 40）。
+### Q2: How many ANU subjects made the global top 50 in the QS 2025 subject rankings?
+A total of 14 subjects made the global top 50: Anthropology (7th), Philosophy (8th), Politics and International Studies (10th), Earth and Marine Sciences (11th), Development Studies (14th), Geography (16th), Linguistics (18th), History (23rd), Sociology (28th), Archaeology (31st), Environmental Science (32nd), Psychology (34th), Economics and Econometrics (37th), and Physics and Astronomy (40th).
 
-### Q3：ANU 的学科排名在 2024 年至 2025 年间有显著变化吗？
-与 2024 年 QS 学科排名相比，ANU 在 **人类学** 从第 9 位上升至第 7 位（上升 2 位），**哲学** 从第 10 位上升至第 8 位（上升 2 位），**地球与海洋科学** 从第 13 位上升至第 11 位（上升 2 位）。**政治学与国际研究** 保持第 10 位不变，**发展研究** 从第 15 位上升至第 14 位（上升 1 位）。整体呈现小幅上升趋势。
+### Q3: Did ANU's subject rankings change significantly between 2024 and 2025?
+Compared with the QS 2024 subject rankings, ANU rose in **Anthropology** from 9th to 7th (up 2 places), in **Philosophy** from 10th to 8th (up 2 places), and in **Earth and Marine Sciences** from 13th to 11th (up 2 places). **Politics and International Studies** held steady at 10th, and **Development Studies** rose from 15th to 14th (up 1 place). Overall, the trend was one of modest improvement.
 
-## 参考资料
-- QS 2025，QS World University Rankings by Subject 2025
-- Australian National University 2024，ANU Annual Report 2023
-- Scopus 2024，Scopus Citation Database (Elsevier)
-- Australian Government Department of Education 2024，Higher Education Statistics Data
-- UNILINK Education 2025，ANU Program & Ranking Database
+## References
+- QS 2025, QS World University Rankings by Subject 2025
+- Australian National University 2024, ANU Annual Report 2023
+- Scopus 2024, Scopus Citation Database (Elsevier)
+- Australian Government Department of Education 2024, Higher Education Statistics Data
+- UNILINK Education 2025, ANU Program & Ranking Database

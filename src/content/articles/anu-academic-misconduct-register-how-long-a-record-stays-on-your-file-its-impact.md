@@ -1,6 +1,7 @@
 ---
+slug: anu-academic-misconduct-register-how-long-a-record-stays-on-your-file-its-impact
 title: "ANU Academic Misconduct Register: How Long a Record Stays on Your File, Its Impact on Graduation, and Expungement Policy"
-description: "澳大利亚国立大学（ANU）学术不端记录（Academic Misconduct Register）是该校内部纪律系统的核心组成部分，用于记录被认定违反学术诚信政策的学生行为。根据ANU 2023年发布的《学术诚信政策》（Academic Integrity Policy）第7.2条，学术不端记录在学位授予后的保留…"
+description: "The ANU Academic Misconduct Register is a core component of the Australian National University's internal disciplinary system, used to record student conduct found to be in breach of the academic integrity policy. Under clause 7.2 of the Academic Integrity Policy published by ANU in 2023, academic misconduct records are generally retained for 5 to 10 years after degree conferral, depending on the severity of the breach..."
 category: "ANU"
 pubDatetime: '2026-05-17T20:02:37Z'
 publishDate: '2026-05-17T20:02:37Z'
@@ -10,84 +11,84 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-academic-misconduct-register-how-long-a-record-stays-on-your-file-its-impact-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）学术不端记录（Academic Misconduct Register）是该校内部纪律系统的核心组成部分，用于记录被认定违反学术诚信政策的学生行为。根据ANU 2023年发布的《学术诚信政策》（Academic Integrity Policy）第7.2条，学术不端记录在学位授予后的保留期限通常为5至10年，具体取决于违规等级。2024年澳大利亚大学质量保证局（TEQSA）的年度报告指出，全国范围内约3.7%的本科生在学业期间至少被记录一次学术不端行为。这一话题之所以值得关注，是因为ANU在2025年更新了其记录保留与清除政策，明确了对学生毕业、奖学金资格及研究生申请的影响，而许多学生对此缺乏系统了解。
+The ANU Academic Misconduct Register is a core component of the Australian National University's internal disciplinary system, used to record student conduct found to be in breach of the academic integrity policy. Under clause 7.2 of the Academic Integrity Policy published by ANU in 2023, academic misconduct records are generally retained for 5 to 10 years after degree conferral, depending on the severity of the breach. The Tertiary Education Quality and Standards Agency (TEQSA) annual report for 2024 notes that around 3.7% of undergraduate students nationally have at least one academic misconduct record during their studies. This topic matters because ANU updated its record retention and expungement policy in 2025, clarifying the impact on graduation, scholarship eligibility and postgraduate applications — and many students have little systematic knowledge of these rules.
 
-## 学术不端记录的分类与定义
+## Classification and Definition of Academic Misconduct Records
 
-**学术不端记录**在ANU内部被划分为三个等级：轻微违规（Minor Breach）、严重违规（Major Breach）与重大不端行为（Gross Misconduct）。根据ANU《学术诚信政策》附录A（2023年修订版），轻微违规包括未正确引用来源或合作作业中未明确分工，通常由课程协调员处理，记录保留至学位授予后2年。严重违规涉及抄袭超过15%的文本或考试作弊，需经学院学术委员会听证，记录保留5年。重大不端行为如代写或伪造研究数据，由ANU学生纪律委员会裁决，记录保留10年。
+**Academic misconduct records** are divided into three levels within ANU: Minor Breach, Major Breach and Gross Misconduct. Under Appendix A of the ANU Academic Integrity Policy (2023 revision), minor breaches include failing to cite sources correctly or unclear division of labour in collaborative assignments; these are usually handled by the course convenor, and the record is retained for 2 years after degree conferral. Major breaches involve plagiarising more than 15% of a text or cheating in an exam, require a hearing before the college academic committee, and the record is retained for 5 years. Gross misconduct such as contract cheating or fabricating research data is adjudicated by the ANU Student Discipline Committee, with records retained for 10 years.
 
-### 轻微违规的处理流程
-对于轻微违规，ANU不要求正式听证。学生收到书面警告后，需在14天内提交修订版作业。记录仅保留在课程层面，不进入学校中央数据库。2024年ANU内部统计显示，约62%的学术不端案例属于此类，其中85%的学生在后续学期未再违规。
+### Minor Breach Process
+For minor breaches, ANU does not require a formal hearing. After receiving a written warning, the student must submit a revised assignment within 14 days. The record is kept only at course level and does not enter the university's central database. ANU internal statistics for 2024 show that around 62% of academic misconduct cases fall into this category, and 85% of those students had no further breach in subsequent semesters.
 
-### 严重违规与听证程序
-严重违规需启动正式听证程序。ANU学生纪律规则（Student Discipline Rules 2021）第15条规定，学生有权在听证前7个工作日查阅证据。听证后，若认定违规，记录将写入**ANU学术不端登记册**，并标注在学生的内部档案中。该登记册仅限学术委员会和研究生院访问，不对外公开。
+### Major Breaches and the Hearing Process
+Major breaches trigger a formal hearing process. Rule 15 of the ANU Student Discipline Rules 2021 gives students the right to inspect the evidence 7 working days before the hearing. If a breach is found after the hearing, the record is written into the **ANU Academic Misconduct Register** and noted in the student's internal file. The register is accessible only to the Academic Board and the research schools — it is not publicly available.
 
-## 记录保留期限的具体规则
+## Specific Record Retention Rules
 
-**记录保留期限**取决于违规等级和学位状态。ANU《学生档案管理政策》（2024年）第5.3条明确，轻微违规记录在学位授予后2年自动清除；严重违规记录保留5年；重大不端行为保留10年。若学生未完成学位，记录保留至最后一次注册日期后7年，随后根据ANU档案法例进行销毁。
+**Record retention periods** depend on the severity of the breach and the student's degree status. Clause 5.3 of the ANU Student Records Management Policy (2024) states that minor breach records are automatically cleared 2 years after degree conferral; major breach records are retained for 5 years; and gross misconduct records for 10 years. If a student does not complete their degree, the record is retained until 7 years after the last enrolment date, after which it is destroyed in accordance with ANU archives legislation.
 
-### 跨校与跨项目影响
-记录并非孤立存在。ANU与澳大利亚八校联盟（Go8）在2022年签署了《学术诚信数据共享协议》，允许成员大学在研究生录取时查询申请人的**学术不端历史**。例如，墨尔本大学在2024年拒绝了一名ANU转学生，原因正是其重大不端记录仍在保留期内。ANU内部数据显示，2023年至2024年间，共有47名学生的记录被其他Go8大学查询。
+### Cross-Institution and Cross-Program Impact
+Records do not exist in isolation. In 2022, ANU and the Group of Eight (Go8) universities signed the Academic Integrity Data Sharing Agreement, which allows member universities to check an applicant's **academic misconduct history** during postgraduate admissions. For example, the University of Melbourne rejected an ANU transfer student in 2024 precisely because their gross misconduct record was still within its retention period. ANU internal data shows that between 2023 and 2024, records of 47 students were queried by other Go8 universities.
 
-### 奖学金与签证影响
-学术不端记录直接影响奖学金资格。ANU国际学生奖学金（ANU International Scholarship）条款规定，若持有者在学位期间被认定严重违规，奖学金将立即终止，且需返还已发放金额的50%。此外，澳大利亚内政部（Department of Home Affairs）2024年《学生签证指南》指出，学术不端记录若导致学业终止或成绩不合格，可能影响签证续签。2024年，共有12名ANU学生因学术不端记录导致签证被拒或取消。
+### Scholarship and Visa Impact
+Academic misconduct records directly affect scholarship eligibility. The terms of the ANU International Scholarship provide that if a recipient is found guilty of a major breach during their degree, the scholarship terminates immediately and 50% of the amount already paid must be repaid. In addition, the Department of Home Affairs 2024 Student Visa Guide notes that an academic misconduct record that leads to termination of studies or academic failure can affect visa renewal. In 2024, 12 ANU students had visas refused or cancelled because of academic misconduct records.
 
-## 记录对毕业进程的直接影响
+## Direct Impact on the Graduation Process
 
-**毕业延迟**是学术不端记录最常见的后果之一。根据ANU《学位授予规则》（2024年）第8.2条，若学生在毕业前6个月内被认定严重违规，学位授予将暂停至调查结束。2024年，ANU平均处理时间为47天，导致约8%的相关学生错过原定毕业典礼。
+**Graduation delay** is one of the most common consequences of an academic misconduct record. Under clause 8.2 of the ANU Degree Conferral Rules (2024), if a student is found to have committed a major breach within 6 months of graduation, degree conferral is suspended until the investigation concludes. In 2024, the average ANU processing time was 47 days, causing around 8% of affected students to miss their scheduled graduation ceremony.
 
-### 学位撤销与条件恢复
-在极少数情况下，学术不端记录可能导致**学位撤销**。ANU 2023年案例显示，一名博士生因被发现博士论文中使用了代写服务，其博士学位在授予后18个月被撤销。根据ANU《学位撤销政策》（2023年），撤销决定需经学术委员会和大学理事会双重批准。恢复学位需学生提供重新提交的原创性研究成果，并支付5000澳元的审理费。
+### Degree Revocation and Conditional Restoration
+In rare cases, an academic misconduct record can lead to **degree revocation**. A 2023 ANU case saw a doctoral student's PhD revoked 18 months after it was conferred, after ghostwriting services were found to have been used on the thesis. Under the ANU Degree Revocation Policy (2023), revocation requires dual approval from both the Academic Board and the University Council. To have the degree restored, the student must submit newly completed original research and pay a review fee of AUD 5,000.
 
-### 成绩单标注规则
-学术不端记录不会直接出现在官方成绩单上，但内部档案中的标注会影响推荐信撰写。ANU就业服务中心在2024年的一份内部备忘录中指出，若学生申请研究生或工作，学术委员会在提供推荐信时需注明“存在未清除的学术不端记录”。这种标注通常持续至记录清除日。
+### Transcript Notation Rules
+Academic misconduct records do not appear directly on the official transcript, but notations in the internal file can affect reference letters. An internal 2024 memorandum from the ANU Careers Service notes that when a student applies for postgraduate study or work, the Academic Board must note "has an unresolved academic misconduct record" in any reference letter it provides. This notation generally remains until the record is cleared.
 
-## 记录清除（Expungement）的申请条件
+## Conditions for Record Expungement
 
-**记录清除**（Expungement）并非自动生效，需学生主动申请。ANU《学术记录清除政策》（2024年）第3.1条明确，只有轻微违规记录在保留期满后自动清除；严重和重大违规记录需学生提交书面申请，且满足以下条件：自违规认定日起无任何新的学术不端行为；已完成所有附加处罚（如重写作业、参加诚信培训）；记录已超过最低保留期限。
+**Expungement** is not automatic — the student must actively apply. Clause 3.1 of the ANU Academic Record Expungement Policy (2024) states that only minor breach records are automatically cleared once the retention period ends; for major and gross breach records, the student must submit a written application and satisfy all of the following conditions: no new academic misconduct since the date of the finding; all additional penalties completed (such as resubmitting work or completing integrity training); and the minimum retention period already served.
 
-### 申请流程与时间
-申请需通过ANU学生门户提交，附上个人陈述和违规课程的最终成绩单。ANU学术委员会在收到申请后30个工作日内作出决定。2024年，ANU共收到89份清除申请，其中64份（约71.9%）获批。未获批的主要原因是申请时记录尚未达到最低保留期。
+### Application Process and Timing
+Applications are submitted through the ANU student portal, together with a personal statement and the final transcript for the course(s) concerned. The ANU Academic Board decides within 30 working days of receiving the application. In 2024, ANU received 89 expungement applications, of which 64 (about 71.9%) were approved. The main reason for refusal was that the record had not yet reached its minimum retention period at the time of application.
 
-### 清除后的记录状态
-一旦清除成功，ANU将删除内部登记册中的相关条目，且不再在推荐信或学位审核中提及。但需注意，根据澳大利亚《隐私法》（1988年），清除后的记录仍可能因法律诉讼或政府调查而被恢复。ANU在2024年的一份法律备忘录中指出，此类恢复案例在全校历史中仅发生过3次。
+### Status After Expungement
+Once expungement succeeds, ANU deletes the relevant entry from the internal register and no longer mentions it in reference letters or degree checks. Note, however, that under the Australian Privacy Act 1988, a cleared record can still be restored for legal proceedings or government investigations. An ANU legal memorandum from 2024 notes that such restorations have occurred only 3 times in the university's history.
 
-## 学术不端记录的国际与行业影响
+## International and Industry Impact of Academic Misconduct Records
 
-**学术不端记录**的国际影响主要体现在研究生申请和职业认证上。美国研究生院理事会（CGS）2024年调查显示，78%的美国大学在录取国际学生时会要求提供“学术诚信声明”，其中ANU的声明格式被多所大学认可。例如，哈佛大学在2024年拒绝了2名ANU申请者，原因正是其学术不端记录在声明中被标注。
+The international impact of **academic misconduct records** is mainly felt in postgraduate applications and professional accreditation. A 2024 survey by the US Council of Graduate Schools (CGS) found that 78% of American universities require an "academic integrity statement" from international applicants, and ANU's statement format is accepted by many universities. For example, Harvard University rejected 2 ANU applicants in 2024 because their academic misconduct records were noted in the statement.
 
-### 职业认证与执业资格
-在澳大利亚，部分专业职业认证机构（如澳大利亚工程师协会Engineers Australia）要求申请者提供**无学术不端记录证明**。ANU 2024年与澳大利亚工程师协会的协议显示，若申请人在学位期间有重大不端记录，其职业认证申请将被自动延迟12个月。2024年，共有5名ANU工程专业毕业生因此延迟获得认证。
+### Professional Accreditation and Licensure
+In Australia, some professional accreditation bodies (such as Engineers Australia) require applicants to provide proof of **no academic misconduct record**. The 2024 agreement between ANU and Engineers Australia shows that if an applicant has a gross misconduct record during their degree, their accreditation application is automatically delayed by 12 months. In 2024, 5 ANU engineering graduates had their accreditation delayed for this reason.
 
-### 雇主背景调查
-部分雇主（尤其是政府机构和金融机构）在招聘时会进行**学术背景核查**。ANU就业服务中心2024年报告指出，澳大利亚国防部和澳大利亚联邦银行均将学术不端记录列为招聘负面因素。2023年至2024年间，共有18名ANU毕业生的求职申请因记录被拒，其中11人记录在清除期内。
+### Employer Background Checks
+Some employers — especially government agencies and financial institutions — conduct **academic background checks** during recruitment. The ANU Careers Service 2024 report notes that both the Australian Department of Defence and the Commonwealth Bank of Australia treat academic misconduct records as negative hiring factors. Between 2023 and 2024, 18 ANU graduates had job applications rejected because of their records, 11 of them while the record was still within its retention period.
 
-## 预防与申诉机制
+## Prevention and Appeal Mechanisms
 
-**预防措施**是避免学术不端记录的最有效路径。ANU强制要求所有新生完成《学术诚信模块》（Academic Integrity Module），该模块自2023年起成为毕业前置条件。ANU 2024年数据显示，完成该模块的学生在后续学期中学术不端发生率降低约43%。
+**Prevention** is the most effective way to avoid an academic misconduct record. ANU requires all new students to complete the Academic Integrity Module, which has been a prerequisite for graduation since 2023. ANU 2024 data shows that students who complete the module have an academic misconduct incidence rate around 43% lower in subsequent semesters.
 
-### 申诉流程与时限
-若学生认为记录有误，可在收到认定通知后20个工作日内提出**申诉**。ANU《学生申诉政策》（2023年）第6.2条要求申诉需提交新证据，如导师的书面证明或原始作业的查重报告。2024年，ANU共受理23起申诉，其中7起（约30.4%）成功推翻原认定。申诉成功后，记录将从登记册中删除。
+### Appeal Process and Time Limits
+If you believe your record is wrong, you may **appeal** within 20 working days of receiving the finding. Clause 6.2 of the ANU Student Appeal Policy (2023) requires appeals to be supported by new evidence, such as a written statement from your supervisor or the originality report for the original assignment. In 2024, ANU accepted 23 appeals, of which 7 (about 30.4%) successfully overturned the original finding. After a successful appeal, the record is removed from the register.
 
-### 学术诚信培训的替代路径
-对于轻微违规，ANU允许学生通过完成**学术诚信培训课程**（Academic Integrity Training）来替代记录清除申请。该课程为期8周，费用为350澳元，完成后记录保留期缩短至1年。2024年，共有142名学生选择此路径，其中126人（约88.7%）顺利完成。
+### Alternative Path: Academic Integrity Training
+For minor breaches, ANU allows students to substitute an **Academic Integrity Training** course for the expungement application. The course runs for 8 weeks, costs AUD 350, and on completion the retention period is shortened to 1 year. In 2024, 142 students chose this path, of whom 126 (about 88.7%) completed it successfully.
 
 ## FAQ
 
-### Q1：ANU学术不端记录会出现在我的成绩单上吗？
-不会。ANU官方成绩单（Official Academic Transcript）不包含学术不端记录。但内部档案中的标注会影响推荐信和学位审核。若记录未清除，ANU就业服务中心在提供推荐信时需注明“存在未清除的学术不端记录”。2024年，ANU共出具了31份含此类标注的推荐信。
+### Q1: Will my ANU academic misconduct record appear on my transcript?
+No. The ANU Official Academic Transcript does not include academic misconduct records. However, notations in the internal file can affect reference letters and degree checks. If the record has not been cleared, the ANU Careers Service must note "has an unresolved academic misconduct record" in any reference letter it provides. In 2024, ANU issued 31 reference letters carrying this notation.
 
-### Q2：记录清除后，我还能申请ANU研究生吗？
-可以，且不影响。记录清除后，ANU将删除内部登记册中的相关条目，不再在录取审核中提及。但需注意，清除前的记录若已被其他大学查询（如Go8共享协议），则需单独向该大学申请清除。2024年，ANU共处理了12起跨校记录清除请求，其中9起获批。
+### Q2: After my record is cleared, can I still apply for ANU postgraduate programs?
+Yes, and the clearing has no adverse effect. Once a record is expunged, ANU deletes the relevant entry from the internal register and no longer mentions it in admissions checks. Note, however, that if the pre-clearing record was already queried by another university (for example under the Go8 sharing agreement), you must apply to that university separately for expungement. In 2024, ANU processed 12 cross-institution record expungement requests, of which 9 were approved.
 
-### Q3：如果我在ANU被认定学术不端，还能转学到其他澳洲大学吗？
-可以，但转学后原记录可能被新大学查询。根据Go8《学术诚信数据共享协议》（2022年），成员大学在录取时可查询申请人的学术不端历史。2024年，共有47名ANU学生的记录被其他Go8大学查询，其中11人因此被拒绝录取。建议在转学前主动申请记录清除。
+### Q3: If I am found guilty of academic misconduct at ANU, can I transfer to another Australian university?
+Yes, but after transferring, the new university may query your previous record. Under the Go8 Academic Integrity Data Sharing Agreement (2022), member universities may check an applicant's academic misconduct history at the time of admission. In 2024, records of 47 ANU students were queried by other Go8 universities, and 11 of them were rejected for this reason. It is advisable to apply for record expungement proactively before transferring.
 
-## 参考资料
+## References
 
-- 澳大利亚国立大学（ANU）2023年《学术诚信政策》（Academic Integrity Policy）
-- 澳大利亚大学质量保证局（TEQSA）2024年年度报告
-- 澳大利亚内政部（Department of Home Affairs）2024年《学生签证指南》
-- 澳大利亚八校联盟（Go8）2022年《学术诚信数据共享协议》
-- 美国研究生院理事会（CGS）2024年国际学生录取调查
-- UNILINK Education 2024年澳大利亚大学学术不端记录数据库（内部引用）
+- Australian National University (ANU) 2023, Academic Integrity Policy
+- Tertiary Education Quality and Standards Agency (TEQSA) 2024 Annual Report
+- Australian Department of Home Affairs 2024, Student Visa Guide
+- Group of Eight (Go8) 2022, Academic Integrity Data Sharing Agreement
+- Council of Graduate Schools (CGS) 2024 International Admissions Survey
+- UNILINK Education 2024, Australian University Academic Misconduct Records Database (internal citation)

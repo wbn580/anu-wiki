@@ -1,116 +1,134 @@
 ---
-title: 'ANU校内宿舍系统梳理：申请资格、志愿填报与Waitlist转正完整操作手册'
+title: 'ANU On-Campus Accommodation Guide: Application Eligibility, Preference Strategy and Waitlist Conversion Handbook'
 category: 'general'
-description: '本文系统梳理ANU校内宿舍类型、申请资格、关键截止日期、志愿填报策略与Waitlist转正逻辑，结合历年学生反馈与官方政策，为新生和返校生提供从选宿到入住的完整操作手册，避免踩坑。'
+description: 'A complete operational handbook covering ANU on-campus accommodation types, application eligibility, key deadlines, preference-filling strategy and how the waitlist works, drawing on years of student feedback and official policy to help new and returning students go from choosing a residence to moving in without the common pitfalls.'
 pubDatetime: '2026-05-23T00:00:00Z'
 publishDate: '2026-05-23T00:00:00Z'
 modDatetime: '2026-05-23T00:00:00Z'
 slug: anu-on-campus-accommodation-guide-application-strategy-waitlist
 ogImage: 'https://img.anu.wiki/留学-单校wiki/anu-on-campus-accommodation-guide-application-strategy-waitlist-2026-1880x1253.jpg'
 tags:
-  - 'ANU宿舍'
-  - 'ANU住宿'
-  - '澳洲国立大学宿舍'
-  - 'ANU校内住宿申请'
-  - 'ANU选宿策略'
+  - 'ANU accommodation'
+  - 'ANU housing'
+  - 'Australian National University residences'
+  - 'ANU on-campus housing application'
+  - 'ANU accommodation strategy'
   - 'ANU waitlist'
-  - '堪培拉学生住宿'
+  - 'Canberra student housing'
 ---
-对于即将入读澳大利亚国立大学（ANU）的新生和返校生而言，校内宿舍不仅是安身之所，更决定了第一年社交圈与生活便利度。本文系统梳理ANU校内宿舍类型、申请资格、关键截止日期、志愿填报策略与Waitlist转正逻辑，结合历年学生反馈与官方政策，提供一份从选宿到入住的完整操作手册，帮你避开常见坑点，把更多精力留给学业与新生活。
+For new and returning students about to start at the Australian National University (ANU), on-campus accommodation is not just a place to live — it shapes your first-year social circle and how convenient daily life is. This article systematically covers ANU's on-campus accommodation types, application eligibility, key deadlines, preference-filling strategy and the logic behind waitlist conversion, drawing on years of student feedback and official policy, to give you a complete handbook from choosing a residence to moving in, help you avoid the common pitfalls, and let you spend more energy on your studies and new life.
 
-## 一、ANU校内宿舍类型一站式对比
-ANU的校内住宿可大致分为提供餐饮的传统学院（catered halls）和自炊式公寓（self-catered）两类，另有专门面向研究生、家庭与伴侣的独立选项。不同类型间价格、氛围与便利度差异明显，选错可能影响整年体验。
+## 1. ANU on-campus accommodation types: a one-stop comparison
 
-**餐饮式学院（Catered Halls）**
-包括Ursula Hall、Bruce Hall、Fenner Hall、Burton & Garran Hall以及较新的Wright Hall。这类宿舍提供工作日三餐及周末早午餐，宿舍内设有公共活动室、自习区和健身房，学术与社交活动频繁。根据海外论坛上的学生反馈，Ursula Hall以热情包容的社区文化著称，多元背景学生容易融入；Bruce Hall则偏重学术竞赛与集体荣誉感，适合喜欢组织活动的学生；Fenner Hall和Burton & Garran Hall氛围相对轻松，新生能在密集的迎新周（O-Week）中快速结识朋友。餐饮式学院合约通常为44周或48周，费用包含水电网与餐食，每年总花费约AUD $17,000–$22,000。需要注意的是，餐饮费用无法退返，即便假期离校也无法减免，看重预算控制的学生需仔细评估。
+ANU's on-campus housing broadly splits into traditional catered halls and self-catered residences, with separate options for postgraduate students, families and couples. Price, atmosphere and convenience differ sharply between types, and choosing wrong can affect your whole year.
 
-**自炊式公寓（Self-catered Residences）**
-这类住宿配备共用厨房和独立卧室，生活灵活度更高。代表性选择包括Lena Karmel Lodge、Kinloch Lodge、Davey Lodge、Wamburun Hall以及近年新落成的Yukeembruk Village。Lena Karmel Lodge地理位置优越，紧邻市中心和公交枢纽，但申请热度极高，颇受本科生欢迎。Yukeembruk Village设施最新，房间宽敞、储物空间充足，但距离主教学区稍远，更适合愿意骑车通勤的学生。自炊式宿舍的年花费（不含餐）约AUD $12,000–$18,000，学生可根据口味自控饮食开销。历年反馈显示，自炊式宿舍的社交紧密度略逊于餐饮式学院，但私人空间和自由度更胜一筹。
+**Catered Halls**
 
-**研究生、家庭与伴侣住宿**
-ANU为研究生提供Toad Hall（自炊且注重安静）和Graduate House（含部分餐饮选项）等专属区域。University House则有少量适合伴侣和家庭入住的公寓，需要提前数月开始沟通。研究生不享有新生住宿保证，因此务必尽早提交申请。
+These include Ursula Hall, Bruce Hall, Fenner Hall, Burton & Garran Hall and the newer Wright Hall. They provide weekday meals plus weekend brunch, and each hall has common rooms, study areas and gyms, with frequent academic and social activities. Based on student feedback on overseas forums, Ursula Hall is known for its warm, inclusive community culture where students from diverse backgrounds settle in easily; Bruce Hall leans towards academic competition and collective pride, suiting students who enjoy organising activities; Fenner Hall and Burton & Garran Hall have a more relaxed atmosphere where new students can quickly make friends during the intensive Orientation Week (O-Week). Catered hall contracts are typically 44 or 48 weeks, the fee includes utilities, internet and meals, and the annual cost is roughly AUD $17,000–$22,000. Note that meal costs are non-refundable — you cannot reduce them by being away during holidays — so budget-conscious students should weigh this carefully.
 
-综合学生反馈，餐饮式学院适合想即刻融入社群的新生，自炊式适合自理能力强、对饮食有特殊要求或希望控制预算的学生，研究生则应优先锁定专门房源。
+**Self-catered Residences**
 
-## 二、申请资格与住宿保证政策
-校内宿舍申请资格的核心前提是：必须是ANU注册的全日制学生，且接受无条件录取通知。部分宿舍有附加条件，例如Toad House仅限研究生，Wright Hall主要面向本科生，University House的家庭房则需提供伴侣或子女信息。
+These offer shared kitchens and private bedrooms with more lifestyle flexibility. Representative options include Lena Karmel Lodge, Kinloch Lodge, Davey Lodge, Wamburun Hall and the recently completed Yukeembruk Village. Lena Karmel Lodge has a prime location close to the city centre and bus interchange, but applications are extremely competitive and it is very popular with undergraduates. Yukeembruk Village has the newest facilities, spacious rooms and generous storage, but sits a bit further from the main teaching precinct, making it better for students happy to cycle to campus. Self-catered residence costs (excluding meals) run to about AUD $12,000–$18,000 a year, and students control their own food spending. Feedback over the years shows self-catered residences have slightly less social intensity than catered halls, but win on private space and freedom.
 
-ANU的官方住宿保证（Accommodation Guarantee）对以下群体有效：
-- 所有国际本科生以及部分国内本科生，在指定截止日期前完成宿舍申请并满足学术条件；
-- 通过ANU交换项目就读一个学期的海外学生，有时也纳入保证范围。
-需要注意的是，研究生、跨校转学生以及未在截止日期前提交宿舍申请的新生，不适用住宿保证，只能进入统筹分配或候补名单。返校生则需参加每年10月的“Returner Application”环节，名额有限，按“先到先得”或抽签方式分配，竞争相当激烈。
+**Postgraduate, family and couple accommodation**
 
-## 三、关键截止日期与申请时间线
-错过截止日期是新生最常见的踩坑原因之一。以2026年第一学期入学为例，时间线大致如下（每年有所微调，请以ANU Accommodation Portal公布为准）：
-- **9月中下旬**：宿舍申请系统开放，赴澳新生与返校生均可提交志愿；
-- **11月30日前后**：第一轮（含住宿保证）申请截止。这一轮是国际新生获得保证名额的最后机会，绝不可拖延；
-- **12月中旬**：第一轮分配结果发放，获Offer者须在3–5个工作日内完成在线接受并缴纳押金（通常为AUD $1,000，可抵扣首期租金）；
-- **1月中旬**：第二轮申请截止，主要针对错过首轮或新获录取的学生，但此时已无住宿保证；
-- **2月上旬**：第二轮结果发放，随后进入Waitlist滚动补录阶段；
-- **2月中下旬**：迎新周开始，宿舍开放办理入住。
+ANU offers dedicated areas for postgraduates such as Toad Hall (self-catered, quiet-focused) and Graduate House (with some meal options). University House has a small number of apartments suitable for couples and families, which need to be arranged months in advance. Postgraduates do not get the new-student accommodation guarantee, so apply as early as possible.
 
-**实操提示**：即便你尚未拿到最终签证，也可先用有条件录取（Conditional Offer）提交宿舍申请，一旦签证出问题，可依照合同取消条款协商退费。不要等一切尘埃落定再操作，那往往为时已晚。
+Overall, catered halls suit new students who want to plug into the community immediately, self-catered residences suit students who are independent, have specific dietary needs or want to control their budget, and postgraduates should target dedicated housing options first.
 
-## 四、志愿填报策略：如何排序提高命中率
-ANU宿舍申请系统允许提交三组志愿（最多填写三个偏好），并询问是否同意“接受任何可用宿舍”。志愿排序直接影响分配结果，绝非随意填写即可。
+## 2. Application eligibility and the accommodation guarantee
 
-![anu-wiki 配图](https://img.anu.wiki/留学-单校wiki/anu-on-campus-accommodation-guide-application-strategy-waitlist-2026-1880x1253.jpg)
+The core eligibility requirement for on-campus housing is that you must be a registered full-time student at ANU with an accepted unconditional offer. Some residences have extra conditions: Toad Hall is postgraduate-only, Wright Hall mainly serves undergraduates, and University House family apartments require partner or dependant details.
 
-**策略一：热度倒推法**
-参考历年分配情况，Lena Karmel Lodge、Ursula Hall和Yukeembruk Village常年稳居本科新生“第一梯队”热度，空位往往在首轮即被占满。若将三者全列入前三志愿，很可能直接落入选定范围以外的调剂。因此，推荐将最心仪但竞争最激烈的宿舍放在第一志愿，第二志愿选择次优选且难度稍低的宿舍（如Wamburun Hall、Burton & Garran Hall），第三志愿留给相对冷门但自己尚可接受的保底选项（如Kinloch Lodge或Davey Lodge）。这样既可冲刺梦想，又不至于全盘落空。
+ANU's official Accommodation Guarantee applies to the following groups:
 
-**策略二：勾选“接受任何宿舍”的取舍**
-若你最在意的并非具体宿舍名，而是“一定住在校园内”，建议勾选此项。这会极大提升分配成功率，也是维护住宿保证资格的有效兜底手段。反之，如果你宁愿自租房也不愿委身于不合意的宿舍，则不要勾选，但要相应承担落选风险。
+- All international undergraduates and some domestic undergraduates, provided they complete the accommodation application by the specified deadline and meet the academic conditions;
+- Overseas students studying at ANU for one semester through an ANU exchange program are sometimes covered as well.
 
-**策略三：利用语言/兴趣特长**
-部分宿舍（如Ursula Hall）在审核时会关注申请者的个人陈述，如果你在文书中表达了愿意参与体育、多元文化等活动，且宿舍对此有对应社团，无形中会提升匹配度。海外社区常有校友分享，真挚的个人陈述比模板化夸赞更有用。
+Note that postgraduates, students transferring from another institution, and new students who miss the application deadline are not covered by the guarantee and can only enter pooled allocation or the waitlist. Returning students join the annual "Returner Application" round each October, where places are limited and allocated on a first-come, first-served or ballot basis — competition is fierce.
 
-## 五、Waitlist转正逻辑与实操建议
-没有拿到任何Offer的学生会自动进入Waitlist（候补名单），也有部分学生因拒绝分配的宿舍而主动加入。Waitlist转正并非看运气，而是遵循一套可操作的逻辑。
+## 3. Key deadlines and the application timeline
 
-**转正机制**：ANU不是待所有退房后一次性补录，而是随时空出、随时按候补队列顺序联系。队列排位主要取决于你最初提交申请的日期和时间戳，并非随机。如果某宿舍有人因签证拒签、更换学校或在截止日前放弃Offer，该空位就会传给下一位等待者。补录高峰集中在开学前两周至开学后第一周，此时也是退出候补的最后窗口期。
+Missing a deadline is one of the most common pitfalls for new students. For 2026 Semester 1 entry, the timeline is roughly as follows (it shifts slightly each year — always follow the ANU Accommodation Portal):
 
-**提升转正几率的做法**：
-- **保持沟通**：在Waitlist期间可礼貌地邮件联系ANU Accommodation Services，表达你对该宿舍的持续热情，并询问当前大致排位。官方虽然不会给出精确数字，但往往能告知你处于“前端”“中段”还是“尾部”，据此可判断是否值得等待。
-- **准备Plan B**：候补期间建议着手了解周边合租或短租信息，防止开学后“两头空”。也可以先把日常生活用品发往朋友处或暂存仓库，避免最后一刻手忙脚乱。
-- **保持灵活性**：有些学生只盯着一间宿舍，拒绝其他候补释放的机会。若你愿意接受类似类型的替代宿舍（如从Lena Karmel转到Davey Lodge），可以在邮件中说明，增大被调剂转正的概率。
+- **Mid-to-late September**: the accommodation application system opens; both new and returning students can submit preferences;
+- **Around 30 November**: first round (including guarantee-eligible) application deadline. This is the last chance for international new students to secure a guaranteed place — do not delay;
+- **Mid-December**: first-round allocation results are released; offer holders must accept online and pay a deposit within 3–5 working days (typically AUD $1,000, credited against the first rent payment);
+- **Mid-January**: second-round applications close, mainly for students who missed the first round or received new offers — but the guarantee no longer applies;
+- **Early February**: second-round results are released, followed by rolling waitlist offers;
+- **Mid-to-late February**: O-Week begins and residences open for check-in.
 
-历年学生反馈中，不乏在开学前一周甚至O-Week期间收到转正通知的例子，关键是提早启动沟通并维持耐心。
+**Practical tip**: even if you do not have your final visa yet, you can submit an accommodation application using a Conditional Offer first; if your visa falls through, you can negotiate a refund under the contract's cancellation terms. Do not wait until everything is settled — that is usually too late.
 
-## 六、从入住到避坑：新生与返校生实操指南
-拿到Offer只是第一步，从签约到入住仍有不少细节可能让你交“学费”。综合官方政策与学生经验，以下几点值得特别留意。
+## 4. Preference strategy: how to rank for a better outcome
 
-**合同与费用**
-ANU校内宿舍合同多为固定期限，本科生常见是44周或48周。你无法像租私人房源那样中途退租，除非找到符合规定的转承租人并获批准。押金、住宿费首期缴纳一般通过ANU系统线上完成，请保存每次交易的确认邮件作为凭证。水电燃气网络费用在餐饮式学院和大部分自炊式公寓中已包含，但Lena Karmel Lodge等少数公寓需留意洗衣、烘干机属于额外支出。
+The ANU accommodation application system lets you submit up to three preferences and asks whether you agree to "accept any available residence." The order of your preferences directly affects the allocation outcome — it is not something to fill in casually.
 
-**入住准备**
-绝大多数宿舍不提供床品、餐具，需自行购买或通过学校预订的Bedding Pack。宿舍房间通常配备单人床、书桌、椅子、衣柜和暖气，不允许自装空调。住自炊式宿舍的学生应尽早与室友商定厨房用品的购买分工以及清洁轮值，避免日后产生摩擦。
+![anu-wiki image](https://img.anu.wiki/留学-单校wiki/anu-on-campus-accommodation-guide-application-strategy-waitlist-2026-1880x1253.jpg)
 
-**社群融入与安全**
-迎新周（O-Week）活动极其密集，学术顾问介绍、宿舍见面会、社团招新接踵而至。强烈建议全程参加，这是建立支持网络的最佳时机。如果你入住餐饮式学院，餐厅长桌制很容易结识室友，务必主动开口。宿舍每层都会配有Residential Advisor（RA），遇到舍友矛盾、噪音干扰或学业压力，第一时间找RA求助，他们会保密处理。
+**Strategy 1: reverse the popularity ranking**
+Looking at historical allocations, Lena Karmel Lodge, Ursula Hall and Yukeembruk Village are consistently in the "top tier" of undergraduate popularity, and vacancies there are usually gone in the first round. If you list all three as your top preferences, you may be allocated something outside your chosen range. Instead, put your most desired but most competitive residence first, choose a strong but slightly less competitive option second (such as Wamburun Hall or Burton & Garran Hall), and keep a relatively less popular but acceptable safety option third (such as Kinloch Lodge or Davey Lodge). That way you can aim high without losing everything.
 
-**学生反馈整理出的“不踩雷”清单**
-- 自炊厨房难免遇到食物被误拿情况，建议用标签注明姓名并存放于独立收纳盒；
-- 墙隔音一般，申请时可短信询问可否安排非临街房间，或自备一副降噪耳塞；
-- 暑假期间部分宿舍需清空或转至临时储藏间，提前规划行李与行程；
-- 返校生若抽中不同宿舍，可利用ANU校内搬迁服务减少搬家压力。
+**Strategy 2: the trade-off of ticking "accept any residence"**
+If what matters most to you is not a specific residence but "definitely living on campus," tick this box. It greatly increases your allocation chances and is an effective safety net for maintaining your accommodation guarantee. Conversely, if you would rather rent privately than accept a residence you do not like, do not tick it — but accept the corresponding risk of missing out.
 
-## 常见问题FAQ
-**Q：我错过了第一轮截止日期，还有机会申请宿舍吗？**
-A：有，第二轮申请通常在1月开启，但届时住宿保证已失效，只能进入候补或等待剩余空位。建议尽早申请，并同时寻找备用住处。
+**Strategy 3: use language or interest strengths**
+Some residences (such as Ursula Hall) look at the personal statement during review. If your application expresses willingness to join sports or multicultural activities, and the residence has corresponding clubs, it subtly raises your match score. Alumni on overseas communities often share that a sincere personal statement beats template flattery.
 
-**Q：拿到Offer后发现不喜欢分配的宿舍，可以换吗？**
-A：可以申请转宿舍，但通常在开学第三周后才处理，且审批严格。若无正当理由（如健康问题），成功率不高。建议在接受Offer前多了解宿舍情况，尽量避免“先占再换”的思路。
+## 5. How the waitlist works and practical advice
 
-**Q：研究生真的没有住宿保证吗？**
-A：ANU未对研究生设置与本科生等同的全球住宿保证，但部分研究生公寓如Toad Hall有专门的申请批次。强烈建议研究生在拿到入学通知后立即提交宿舍申请，并考虑周边私租作为备选。
+Students who receive no offer are automatically placed on the waitlist; some students also join voluntarily after declining an allocated residence. Waitlist conversion is not luck — it follows a workable logic.
 
-**Q：Waitlist要等多久才可能有消息？**
-A：各学生情况不同，最早可能在12月中旬通知补录，最晚可延续到开学第一周。关键在于你当初提交申请的早晚和你对宿舍的选择弹性。
+**How conversion works**: ANU does not wait until everyone has checked out to do one big round of offers. It contacts people in waitlist order whenever a spot frees up. Queue position depends mainly on the date and timestamp of your original application — not random. When someone gives up their offer due to a visa refusal, a change of university, or withdrawal before the deadline, the vacancy passes to the next person in line. The peak of offers falls between two weeks before semester and the first week of classes, which is also the last window to leave the waitlist.
 
-**Q：家长可以陪住或参观宿舍吗？**
-A：家长不能长期陪住，但校园宿舍通常在O-Week期间设有参观日，也可通过ANU网站预约虚拟参观。实际入住时，家长可协助搬运行李，住宿期仅限注册学生本人。
+**Ways to improve your chances**:
 
-## 总结
+- **Keep communicating**: while on the waitlist, politely email ANU Accommodation Services to express your continued interest in the residence and ask roughly where you stand. They will not give exact numbers, but can usually tell you whether you are at the "front," "middle" or "back," which helps you decide whether it is worth waiting.
+- **Prepare a Plan B**: during the wait, start looking into nearby shared or short-term rentals so you are not left with nothing when semester starts. You can also send everyday essentials to a friend's place or into storage to avoid last-minute chaos.
+- **Stay flexible**: some students fixate on one residence and refuse other offers that come up. If you are willing to accept a similar alternative (for example moving from Lena Karmel to Davey Lodge), say so in your email — it increases the chance of being matched and converted.
 
-ANU校内宿舍从类型划分到申请规则自成体系，提前掌握申请资格、严守关键截止日期，并运用合理的志愿填报策略，是最大化分配满意度的基础。万一进入Waitlist，冷静沟通与灵活调整同样能够迎来转正。历届学生的反馈表明，最适合自己的不一定是最贵或最新的，而是与个人生活习惯、社交偏好匹配的那一间。希望这份系统梳理ANU校内宿舍类型、申请资格、关键截止日期、志愿填报策略与Waitlist转正逻辑的完整操作手册，能助你从选宿到入住一路顺畅，安心开启在堪培拉的求学时光。
+Feedback over the years includes plenty of students who received a conversion notice a week before semester or even during O-Week. The key is starting the conversation early and staying patient.
+
+## 6. From moving in to avoiding pitfalls: a practical guide for new and returning students
+
+Getting the offer is only the first step; from signing to moving in there are still details that can cost you. Combining official policy and student experience, the following points deserve special attention.
+
+**Contracts and costs**
+
+ANU on-campus contracts are mostly fixed-term; 44 or 48 weeks is common for undergraduates. You cannot break the lease mid-term like a private rental, unless you find an approved substitute tenant and get permission. Deposits and the first accommodation payment are usually made online through ANU systems — keep the confirmation email for every transaction as evidence. Utilities, gas, internet and water are included in catered halls and most self-catered residences, but in a few apartments like Lena Karmel Lodge, note that laundry and dryer use is an extra expense.
+
+**Moving-in preparation**
+
+Most residences do not provide bedding or kitchenware — buy your own or order a Bedding Pack through the university. Rooms typically come with a single bed, desk, chair, wardrobe and heating, and installing your own air conditioner is not allowed. Students in self-catered residences should sort out kitchen-item purchase split and cleaning rosters with flatmates early to avoid friction later.
+
+**Community integration and safety**
+
+O-Week is packed: academic advisor introductions, residence meet-and-greets and club recruitment follow one after another. Attend as much as you can — it is the best time to build your support network. If you are in a catered hall, the long dining tables make it easy to meet your hallmates — make the first move. Every floor has a Residential Advisor (RA); for flatmate conflicts, noise issues or study pressure, talk to your RA first — they handle things confidentially.
+
+**The "no-pitfall" checklist compiled from student feedback**
+
+- Shared kitchens inevitably see food mix-ups; label your food with your name and keep it in a separate container;
+- Wall soundproofing is average; when applying, ask if a non-street-facing room can be arranged, or bring noise-cancelling earplugs;
+- During summer break some residences need to be emptied or moved to temporary storage — plan your luggage and travel early;
+- Returning students who draw a different residence can use ANU's on-campus moving service to reduce the stress of relocation.
+
+## FAQ
+
+**Q: I missed the first-round deadline. Do I still have a chance to apply for accommodation?**
+A: Yes. The second round usually opens in January, but by then the guarantee is no longer valid — you can only enter the waitlist or wait for remaining vacancies. Apply as early as possible and look for backup housing in parallel.
+
+**Q: After getting an offer, can I switch if I do not like the allocated residence?**
+A: You can apply to transfer, but it is usually only processed after week 3 of semester and approval is strict. Without a valid reason (such as a health issue), success is unlikely. Learn as much as you can about the residence before accepting, and avoid a "grab first, switch later" mindset.
+
+**Q: Is it true that postgraduates get no accommodation guarantee?**
+A: ANU does not offer postgraduates a guarantee equivalent to the undergraduate one, but some postgraduate residences like Toad Hall have dedicated application rounds. Postgraduates should submit an accommodation application immediately after receiving their offer and consider private rentals around campus as a backup.
+
+**Q: How long might the waitlist take?**
+A: It varies. The earliest offers can come in mid-December; the latest can stretch into the first week of semester. What matters is how early you applied and how flexible you are about residence choice.
+
+**Q: Can parents stay with me or visit the residence?**
+A: Parents cannot stay long-term, but residences usually have open days during O-Week, and virtual tours can be booked through the ANU website. On move-in day parents can help carry luggage, but occupancy is limited to the enrolled student.
+
+## Summary
+
+ANU's on-campus accommodation system is a world of its own, from residence types to application rules. Understanding the eligibility requirements early, hitting the key deadlines, and using a sensible preference strategy are the foundation of maximising allocation satisfaction. If you end up on the waitlist, calm communication and flexibility can still bring conversion. Feedback from students over the years shows that the best residence is not necessarily the most expensive or the newest — it is the one that matches your lifestyle and social preferences. We hope this complete handbook on ANU on-campus accommodation types, application eligibility, key deadlines, preference strategy and waitlist logic carries you smoothly from choosing a residence to moving in, so you can start your study life in Canberra with peace of mind.

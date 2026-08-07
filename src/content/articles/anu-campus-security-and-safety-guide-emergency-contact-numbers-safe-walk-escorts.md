@@ -1,6 +1,7 @@
 ---
+slug: anu-campus-security-and-safety-guide-emergency-contact-numbers-safe-walk-escorts
 title: "ANU Campus Security and Safety Guide: Emergency Contact Numbers, Safe Walk Escorts, and After-Hours Study Spots"
-description: "澳大利亚国立大学（ANU）主校区位于堪培拉Acton区，占地约145公顷，周边环绕着Black Mountain自然保护区与Lake Burley Griffin。根据ANU安全办公室2023-2024年度报告，校园内全年记录在案的治安事件为287起，其中盗窃类占42%，人身安全相关事件占8%。澳大利亚教育部20…"
+description: "The main campus of the Australian National University (ANU) is located in the Acton district of Canberra, covering about 145 hectares and surrounded by the Black Mountain Nature Reserve and Lake Burley Griffin. According to the ANU Security Office's 2023-2024 annual report, 287 security incidents were recorded on campus over the year, of which theft accounted for 42% and personal safety-related incidents 8%. The Australian Department of Education's 2023 International Student Safety Guide states that universities should operate a 24-hour emergency response system, and ANU was among the first institutions certified under that framework..."
 category: "ANU"
 pubDatetime: '2026-04-14T19:56:12Z'
 publishDate: '2026-04-14T19:56:12Z'
@@ -10,110 +11,107 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-security-and-safety-guide-emergency-contact-numbers-safe-walk-escorts-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）主校区位于堪培拉Acton区，占地约145公顷，周边环绕着Black Mountain自然保护区与Lake Burley Griffin。根据ANU安全办公室2023-2024年度报告，校园内全年记录在案的治安事件为287起，其中盗窃类占42%，人身安全相关事件占8%。澳大利亚教育部2023年发布的《国际学生安全指南》指出，高校应建立24小时应急响应体系，ANU是首批通过该体系认证的院校之一。本文基于ANU官方安全手册、堪培拉警方公开数据及学生权益组织反馈，系统梳理校园应急联络机制、夜间护送服务及自习空间安全配置，帮助在校生快速掌握避险与求助路径。
+The main campus of the Australian National University (ANU) is located in the Acton district of Canberra, covering about 145 hectares and surrounded by the Black Mountain Nature Reserve and Lake Burley Griffin. According to the ANU Security Office's 2023-2024 annual report, 287 security incidents were recorded on campus over the year, of which theft accounted for 42% and personal safety-related incidents 8%. The Australian Department of Education's 2023 International Student Safety Guide states that universities should operate a 24-hour emergency response system, and ANU was among the first institutions certified under that framework. Drawing on the official ANU security handbook, public data from ACT Policing and feedback from student advocacy groups, this article systematically sets out the campus emergency contact system, the night escort service and the safety provisions of study spaces, helping current students quickly learn how to avoid danger and seek help.
 
-## 应急联络体系与响应流程
+## The Emergency Contact System and Response Process
 
-ANU设有24小时运行的校园安全控制中心（Campus Security Control Room），位于Kambri precinct的Building 153底层。该中心配备闭路电视监控系统覆盖校园95%的公共区域，2023年全年监控录像调取量为1,247次，主要用于事后取证与案件回溯。安全控制中心直接与堪培拉警方（ACT Policing）及堪培拉救护车服务（ACT Ambulance Service）建立专线联动，平均应急响应时间为4.2分钟，低于堪培拉市区平均8.1分钟的响应标准（ACT Policing 2023年年度报告）。
+ANU operates a 24-hour Campus Security Control Room, located on the ground floor of Building 153 in the Kambri precinct. The centre runs a CCTV monitoring system covering 95% of campus public areas; in 2023, footage was retrieved 1,247 times, mainly for after-the-fact evidence and case review. The control room maintains direct hotline links with ACT Policing and the ACT Ambulance Service, with an average emergency response time of 4.2 minutes — below the Canberra city average response standard of 8.1 minutes (ACT Policing 2023 annual report).
 
-### 核心紧急联络号码
+### Key Emergency Contact Numbers
 
-**校园内部紧急号码**为 6125 2249，该号码在校园内任何座机免费拨打，接通后自动转接至安全控制中心。**外部紧急号码**仍为 000（澳大利亚通用紧急电话），适用于校园外或手机信号优先场景。ANU安全办公室建议学生在手机通讯录中同时保存这两个号码，并设置快捷拨号。2023年安全控制中心共接听求助电话4,689通，其中62%为问路或设施报修类非紧急请求，38%为治安或医疗紧急事件。
+**The on-campus emergency number** is 6125 2249, free to call from any campus landline, and calls are automatically routed to the Security Control Room. **The external emergency number** remains 000 (Australia's universal emergency number), for use off campus or when mobile signal takes priority. The ANU Security Office advises students to save both numbers in their phone contacts and set up speed dial. In 2023, the Security Control Room answered 4,689 calls for help, of which 62% were non-urgent requests such as directions or facility repairs, and 38% were security or medical emergencies.
 
-### 非紧急联络与信息通道
+### Non-Urgent Contact and Information Channels
 
-对于非紧急安全咨询（如失物招领、门禁故障、车辆异常），可拨打 6125 8253 或发送邮件至 security@anu.edu.au。ANU还运营一个名为“ANU Safe”的移动应用程序（iOS/Android），该应用集成一键报警、实时位置共享、安全公告推送三大功能。截至2024年3月，该应用下载量超过1.1万次，覆盖在校生约42%的比例（ANU数字服务部2024年第一季度报告）。
+For non-urgent security enquiries (such as lost property, access door faults or vehicle issues), call 6125 8253 or email security@anu.edu.au. ANU also operates a mobile app called "ANU Safe" (iOS/Android) with three core features: one-touch alarm, real-time location sharing and security alert push notifications. As of March 2024, the app had been downloaded more than 11,000 times, reaching about 42% of current students (ANU Digital Services Division Q1 2024 report).
 
-## Safe Walk Escort 夜间护送服务
+## Safe Walk Escort Night Service
 
-ANU Safe Walk Escort 是一项由校园安全人员提供的步行护送服务，服务时间为每日17:00至次日07:00，覆盖整个Acton校区及部分周边学生住宿区（如Liversidge Court、Fenner Hall、Bruce Hall）。根据ANU安全办公室2023年服务统计，全年执行护送任务3,872次，平均每次护送距离为0.8公里，最远护送路径为从Chifley Library至University House（约1.2公里）。
+The ANU Safe Walk Escort is a walking escort service provided by campus security officers, operating daily from 17:00 to 07:00 the next morning and covering the entire Acton campus plus some surrounding student accommodation areas (such as Liversidge Court, Fenner Hall and Bruce Hall). According to ANU Security Office service statistics for 2023, 3,872 escorts were carried out over the year, with an average escort distance of 0.8 kilometres and the longest route from Chifley Library to University House (about 1.2 kilometres).
 
-### 预约方式与等待时间
+### Booking Methods and Wait Times
 
-学生可通过三种方式预约护送：拨打 6125 2249、使用ANU Safe应用内的“Request Escort”功能、或在校园内任意蓝色紧急电话柱（Emergency Phone Pillar）直接呼叫。2023年数据显示，电话预约的平均等待时间为6.3分钟，应用预约平均等待时间为4.8分钟。安全办公室建议在图书馆关闭前15-20分钟预约，以避开22:00-23:00的高峰时段（该时段预约量占全天总量的34%）。
+Students can book an escort three ways: call 6125 2249, use the "Request Escort" feature in the ANU Safe app, or call directly from any blue Emergency Phone Pillar on campus. 2023 data shows an average wait time of 6.3 minutes for phone bookings and 4.8 minutes for app bookings. The Security Office recommends booking 15-20 minutes before the library closes to avoid the 22:00-23:00 peak period (which accounts for 34% of the day's total bookings).
 
-### 服务范围与限制
+### Service Coverage and Limitations
 
-Safe Walk Escort 仅限步行，不提供车辆接送，但安全人员会陪同学生穿过地下通道、停车场及绿化带等照明较弱的区域。该服务不适用于校外区域（如Braddon、City步行街），但安全人员可协助联系堪培拉出租车或Uber。2023年服务满意度调查（回收有效问卷1,204份）显示，92%的受访者认为护送人员“准时且专业”，85%表示“因该服务而更愿意在晚间使用图书馆”。
+Safe Walk Escort is walking only and does not provide vehicle pick-up, but security officers will accompany students through underpasses, car parks and green areas with poor lighting. The service does not cover off-campus areas (such as Braddon or the City pedestrian mall), but officers can help arrange a Canberra taxi or Uber. The 2023 service satisfaction survey (1,204 valid questionnaires returned) shows 92% of respondents found escort staff "punctual and professional", and 85% said the service made them "more willing to use the library in the evening".
 
-## 校园照明与监控覆盖
+## Campus Lighting and CCTV Coverage
 
-ANU校园照明系统由安全办公室与设施管理部共同维护，2023年完成照明升级项目，将校园内1,823盏路灯全部更换为LED灯，色温统一为4000K（中性白光），照度标准提升至平均15勒克斯（lux），高于澳大利亚标准AS/NZS 1158.3.1:2020对校园路径12勒克斯的最低要求。照明升级项目总投入约240万澳元（ANU 2023年年度财务报告）。
+The ANU campus lighting system is maintained jointly by the Security Office and Facilities Management. A lighting upgrade project completed in 2023 replaced all 1,823 campus streetlights with LED units at a unified colour temperature of 4000K (neutral white), raising illuminance to an average of 15 lux — above the minimum 12 lux required for campus paths under Australian Standard AS/NZS 1158.3.1:2020. The lighting upgrade project cost about A$2.4 million in total (ANU 2023 annual financial report).
 
-### 监控摄像头布局
+### CCTV Camera Layout
 
-校园内共安装闭路电视摄像头487个，重点覆盖区域包括：图书馆出入口（28个）、停车场（46个）、主要步行道（112个）、学生宿舍公共区域（73个）。监控录像保存周期为30天，安全控制中心可实时调取任意摄像头画面。2023年监控系统协助警方破获校园盗窃案9起，找回被盗物品总价值约3.7万澳元（ANU安全办公室2023年案件摘要）。
+There are 487 CCTV cameras installed across campus, with key coverage areas including: library entrances and exits (28 cameras), car parks (46), main walkways (112) and student accommodation common areas (73). Footage is retained for 30 days, and the Security Control Room can access any camera feed in real time. In 2023, the CCTV system helped police solve 9 campus theft cases, recovering stolen property worth about A$37,000 in total (ANU Security Office 2023 case summary).
 
-### 照明薄弱区域
+### Areas with Poor Lighting
 
-尽管整体照明达标，ANU安全办公室在2023年秋季巡查中发现3处照明不足区域：Sullivans Creek沿河步道（平均照度仅8勒克斯）、Hancock Library后方停车场（7勒克斯）、以及从Chifley Library通往Fellows Oval的台阶（9勒克斯）。安全办公室已将这些区域列入2024年照明改造计划，预计投入45万澳元进行整改。学生可通过ANU Safe应用内的“Report Lighting Issue”功能直接上报照明故障，2023年共收到此类报告231条，平均修复周期为3.2个工作日。
+Despite overall compliance, the ANU Security Office found 3 under-lit areas during its autumn 2023 inspections: the walking path along Sullivans Creek (average illuminance of only 8 lux), the car park behind Hancock Library (7 lux), and the steps from Chifley Library to Fellows Oval (9 lux). The Security Office has listed these areas in the 2024 lighting improvement plan, with about A$450,000 budgeted for remediation. Students can report lighting faults directly via the "Report Lighting Issue" feature in the ANU Safe app; 231 such reports were received in 2023, with an average repair cycle of 3.2 business days.
 
-## 图书馆与自习空间安全配置
+## Library and Study Space Safety Provisions
 
-ANU主校区共有6座图书馆及多个24小时自习空间，其安全配置标准由ANU图书馆安全政策（2022年修订版）统一规定。所有自习空间必须配备紧急报警按钮、灭火器、以及至少一条可通往外部的无障碍出口。2023年图书馆安全审计显示，所有设施均符合澳大利亚建筑规范（NCC 2022）第E部分消防与逃生要求。
+The ANU main campus has 6 libraries and multiple 24-hour study spaces, whose safety provisions are uniformly specified by the ANU Library Safety Policy (2022 revision). All study spaces must have emergency alarm buttons, fire extinguishers and at least one accessible exit leading outside. The 2023 library safety audit confirmed that all facilities comply with Part E (fire and evacuation) of the National Construction Code (NCC 2022).
 
-### 24小时自习空间
+### 24-Hour Study Spaces
 
-**Chifley Library** 的24小时学习区（位于Ground Floor）可容纳216个座位，配备独立照明控制与紧急疏散图。该区域入口设有门禁系统，仅限ANU学生卡刷卡进入。2023年该区域共发生12起物品被盗事件，安全办公室建议学生使用储物柜（位于入口左侧，免费使用，需自备锁具）存放贵重物品。**Hancock Library** 的24小时区（Level 1）可容纳148个座位，配备6个紧急报警按钮，平均响应时间为3.5分钟。
+**Chifley Library's** 24-hour study area (on the Ground Floor) seats 216 and has individual lighting controls and evacuation maps. The entrance has an access control system that only admits swipe-ins with ANU student cards. In 2023, 12 thefts occurred in this area; the Security Office advises students to use the lockers (located to the left of the entrance, free to use, BYO lock) to store valuables. **Hancock Library's** 24-hour area (Level 1) seats 148 and has 6 emergency alarm buttons, with an average response time of 3.5 minutes.
 
-### 自习空间安全建议
+### Study Space Safety Advice
 
-ANU安全办公室在2023年发布的《自习安全指南》中列出以下实操建议：选择靠近紧急出口或监控摄像头覆盖的座位；避免在凌晨02:00-05:00单独使用偏远区域（如Chifley Library的Level 3东侧角落）；离开座位超过15分钟时随身携带笔记本电脑与手机。2023年校园盗窃案中，67%发生在学生离开座位未锁屏的情况下（ANU安全办公室2023年案件类型分析）。
+The ANU Security Office's 2023 Study Safety Guide lists the following practical advice: choose seats near emergency exits or under CCTV coverage; avoid using remote areas alone between 02:00 and 05:00 (such as the eastern corner of Level 3 in Chifley Library); and take your laptop and phone with you when leaving your seat for more than 15 minutes. In 2023, 67% of campus thefts occurred while students were away from their seats with screens unlocked (ANU Security Office 2023 case-type analysis).
 
-## 校园交通与停车安全
+## Campus Traffic and Parking Safety
 
-ANU校园内机动车限速为20公里/小时，设有减速带与行人优先标志。校园内共有12个停车场，总停车位3,847个，其中46个为无障碍停车位。2023年停车场共发生车辆损坏或车内物品被盗事件47起，较2022年下降12%（ANU安全办公室2023年停车场安全报告）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-security-and-safety-guide-emergency-contact-numbers-safe-walk-escorts) 等专业通道完成结汇。
+Motor vehicles on the ANU campus are limited to 20 km/h, with speed bumps and pedestrian-priority signage. There are 12 car parks on campus with a total of 3,847 spaces, 46 of which are accessible parking spaces. In 2023, 47 incidents of vehicle damage or theft from cars were recorded in the car parks, down 12% from 2022 (ANU Security Office 2023 car park safety report). For cross-border tuition payments, some international student families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-security-and-safety-guide-emergency-contact-numbers-safe-walk-escorts) to complete their currency transfers.
 
-### 夜间班车服务
+### Night Bus Service
 
-ANU运营两条夜间班车路线（Night Bus），服务时间为周一至周五18:00-23:00，周六及周日17:00-22:00。路线A覆盖校园东侧（从Fenner Hall经Kambri至City Bus Interchange），路线B覆盖校园西侧（从Bruce Hall经Chifley Library至Acton Ferry Terminal）。2023年夜间班车共运送乘客15,382人次，平均每趟载客12人，准点率为94%（ANU交通服务部2023年运营报告）。
+ANU operates two Night Bus routes, running Monday to Friday 18:00-23:00 and Saturday/Sunday 17:00-22:00. Route A covers the eastern side of campus (from Fenner Hall via Kambri to the City Bus Interchange), and Route B covers the western side (from Bruce Hall via Chifley Library to the Acton Ferry Terminal). In 2023, the Night Bus carried 15,382 passengers, averaging 12 passengers per trip with a punctuality rate of 94% (ANU Transport Services 2023 operations report).
 
-### 自行车与电动滑板车安全
+### Bicycle and E-Scooter Safety
 
-校园内设有自行车停放架1,247个，其中83个配备监控摄像头。2023年自行车被盗案件为58起，较2022年下降18%，安全办公室将此归因于“Bike Lock It”宣传活动的实施。学生可在安全控制中心（Building 153）免费领取自行车登记贴纸，登记后车辆被盗找回率提升至32%，而未登记车辆找回率仅为7%。
+There are 1,247 bicycle parking racks on campus, 83 of which are under CCTV. Bicycle theft cases in 2023 numbered 58, down 18% from 2022, which the Security Office attributes to the "Bike Lock It" campaign. Students can collect a free bike registration sticker from the Security Control Room (Building 153); registered bikes have a recovery rate of 32% after theft, compared with just 7% for unregistered bikes.
 
-## 自然灾害与紧急疏散
+## Natural Disasters and Emergency Evacuation
 
-ANU校园位于堪培拉地区，主要自然灾害风险包括丛林火灾（Bushfire）、极端高温（Heatwave）及雷暴（Thunderstorm）。ANU安全办公室每年5月与11月各组织一次全校范围的疏散演练，2023年两次演练参与人数分别为2,847人与3,102人，平均疏散完成时间为7分45秒（ANU应急管理部2023年演练评估报告）。
+The ANU campus sits in the Canberra region, where the main natural disaster risks are bushfires, heatwaves and thunderstorms. The ANU Security Office organises a campus-wide evacuation drill twice a year, in May and November; the two 2023 drills involved 2,847 and 3,102 participants respectively, with an average evacuation completion time of 7 minutes 45 seconds (ANU Emergency Management Division 2023 drill evaluation report).
 
-### 火灾预警与应对
+### Fire Alerts and Response
 
-校园内安装烟雾探测器2,104个，火灾报警器386个，所有建筑均符合澳大利亚消防标准AS 1670.1:2018。2023年共触发火灾报警119次，其中84次为误报（如烹饪烟雾、蒸汽），35次为真实火情（主要为实验室小型火灾及垃圾桶起火）。真实火情中，安全人员平均在4.1分钟内到达现场，消防部门平均在8.3分钟内抵达（ACT Fire & Rescue 2023年响应数据）。
+There are 2,104 smoke detectors and 386 fire alarms installed across campus, and all buildings comply with Australian fire standard AS 1670.1:2018. In 2023, fire alarms were triggered 119 times: 84 were false alarms (such as cooking smoke or steam) and 35 were genuine fires (mainly small laboratory fires and bin fires). For genuine fires, security staff reached the scene in an average of 4.1 minutes, and the fire brigade in an average of 8.3 minutes (ACT Fire & Rescue 2023 response data).
 
-### 极端天气应对
+### Extreme Weather Response
 
-当堪培拉气温超过40°C时，ANU自动启动“高温应急响应”，所有图书馆及教学楼开放为避暑中心，提供免费饮用水与空调。2023年1月4日堪培拉录得42.2°C高温，ANU当日开放了6个避暑中心，共接待学生与教职工1,847人次。丛林火灾期间，安全办公室通过短信与ANU Safe应用推送疏散指令，2023年未发生需要大规模疏散的火灾事件。
+When Canberra temperatures exceed 40°C, ANU automatically activates its "heat emergency response": all libraries and teaching buildings open as cooling centres with free drinking water and air conditioning. On 4 January 2023, Canberra recorded a high of 42.2°C, and ANU opened 6 cooling centres that day, hosting 1,847 students and staff. During bushfire periods, the Security Office pushes evacuation instructions by SMS and through the ANU Safe app; in 2023 no fire event required a large-scale evacuation.
 
-## 个人安全培训与资源
+## Personal Safety Training and Resources
 
-ANU安全办公室每学期提供免费的个人安全培训课程，包括“预防性骚扰与性侵犯”（Workshop时长2小时）、“冲突化解技巧”（1.5小时）及“自卫基础”（3小时）。2023年共举办培训课程47场，参与学生1,023人，其中国际学生占比38%（ANU安全办公室2023年培训总结）。培训结束后发放的《个人安全手册》包含堪培拉各区域安全评级地图及紧急联络卡片。
+The ANU Security Office offers free personal safety training courses each semester, including "Preventing Sexual Harassment and Assault" (a 2-hour workshop), "Conflict Resolution Skills" (1.5 hours) and "Self-Defence Basics" (3 hours). In 2023, 47 training sessions were held with 1,023 student participants, 38% of whom were international students (ANU Security Office 2023 training summary). The Personal Safety Handbook distributed after training includes a safety rating map of Canberra areas and emergency contact cards.
 
-### 安全报告与投诉渠道
+### Safety Reporting and Complaint Channels
 
-学生可通过ANU Safe应用、安全办公室网站或亲临Building 153提交安全事件报告。2023年共收到正式安全报告1,847份，其中涉及性骚扰或性侵犯的报告为23份，安全办公室在收到报告后72小时内启动调查，平均结案周期为14天。ANU还设有独立的“安全与福祉顾问”（Safety and Wellbeing Advisor）岗位，2023年新增2名顾问，目前共5名，专门为受害者提供心理支持与后续转介服务。
+Students can submit security incident reports through the ANU Safe app, the Security Office website, or in person at Building 153. In 2023, 1,847 formal security reports were received, 23 of which concerned sexual harassment or assault; the Security Office begins an investigation within 72 hours of receiving a report, with an average case closure time of 14 days. ANU also has dedicated "Safety and Wellbeing Advisor" roles; 2 new advisors were added in 2023, bringing the total to 5, providing psychological support and follow-up referral services specifically for victims.
 
-### 社区安全合作
+### Community Safety Partnerships
 
-ANU与堪培拉警方、澳大利亚联邦警察（AFP）及ACT政府保持定期协调，每季度召开校园安全联席会议。2023年联席会议共讨论议题12项，包括校园周边毒品交易、夜间出租车拒载等问题。ANU还参与ACT政府的“安全城市”（Safe City）项目，共享校园监控数据以协助区域治安管理。
+ANU maintains regular coordination with ACT Policing, the Australian Federal Police (AFP) and the ACT Government, holding quarterly campus safety liaison meetings. The 2023 meetings discussed 12 agenda items, including drug dealing around campus and night-time taxi refusals. ANU also participates in the ACT Government's "Safe City" project, sharing campus CCTV data to support regional crime management.
 
 ## FAQ
 
-### Q1：如果我在校园内丢失了学生卡或钱包，应该联系哪个部门？
+### Q1: If I lose my student card or wallet on campus, which department should I contact?
+Call the ANU Security Control Room immediately on 6125 2249 to report the student card lost and prevent misuse. In 2023, the security centre received 2,847 lost property items, of which student cards accounted for 43% and wallets 18%. After reporting, students can go to Student Central (Building 153) in the Kambri precinct for a replacement card; the replacement fee is A$30 and processing takes 2 business days. If the lost items included a bank card, you should also report it to the issuing bank.
 
-应立即拨打ANU安全控制中心电话 6125 2249 挂失学生卡，防止他人冒用。2023年安全中心共接收失物招领物品2,847件，其中学生卡占43%，钱包占18%。挂失后，学生可前往Kambri precinct的Student Central（Building 153）补办新卡，补办费用为30澳元，处理时间为2个工作日。如果丢失物品中包含银行卡，建议同时向发卡银行报失。
+### Q2: Are drones allowed on the ANU campus?
+Under the ANU Drone Use Policy released in 2022, unauthorised drone flights are prohibited on campus, and violators may face a fine of up to A$1,000. Drones are only permitted for academic research or official activities with written approval from the Security Office, and applications must be submitted at least 5 business days in advance. In 2023, the Security Office received 32 drone applications, approving 19 and rejecting 13 (mainly because the flight area was near the Black Mountain Nature Reserve). Students who notice abnormal drone flights on campus can report them by calling 6125 2249.
 
-### Q2：ANU校园内允许使用无人机吗？
+### Q3: Where can I find emergency phone pillars on campus?
+There are 87 blue Emergency Phone Pillars installed across campus, mainly in car parks, library entrances, main walkway intersections and student accommodation areas. Each pillar has a blue flashing light on top, and pressing the button automatically connects to the Security Control Room. In 2023, these pillars were used 412 times, with 68% accidental presses and 32% genuine calls for help. The Security Office advises students to remember the location of the nearest pillar to their dormitory or regular teaching building, for use when their phone battery dies.
 
-根据ANU 2022年发布的《无人机使用政策》，校园内禁止未经许可的无人机飞行，违者可能面临最高1,000澳元罚款。仅限经安全办公室书面批准的学术研究或官方活动使用，且需提前至少5个工作日提交申请。2023年安全办公室共收到无人机申请32份，批准19份，拒绝13份（主要原因为飞行区域靠近Black Mountain自然保护区）。学生若发现无人机在校园内异常飞行，可拨打6125 2249举报。
+## References
 
-### Q3：校园内哪里可以找到紧急电话柱？
-
-校园内共安装蓝色紧急电话柱87根，主要分布在停车场、图书馆入口、主要步行道交叉口及学生宿舍区。每根电话柱顶部有蓝色闪光灯，按下按钮后自动连接安全控制中心。2023年这些电话柱共被使用412次，其中68%为误触，32%为真实求助。安全办公室建议学生记住宿舍楼或常用教学楼附近最近的一根电话柱位置，以备手机没电时使用。
-
-## 参考资料
-
-- ANU安全办公室 2023-2024年度报告
-- ACT Policing 2023年年度报告
-- 澳大利亚教育部 2023年《国际学生安全指南》
-- ANU数字服务部 2024年第一季度报告
-- Unilink Education 2023年《澳大利亚高校安全配置数据库》
+- ANU Security Office 2023-2024 annual report
+- ACT Policing 2023 annual report
+- Australian Department of Education 2023, International Student Safety Guide
+- ANU Digital Services Division Q1 2024 report
+- Unilink Education 2023, Australian University Security Configuration Database

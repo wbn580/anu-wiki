@@ -1,89 +1,89 @@
 ---
+slug: anu-college-of-business-and-economics-mba-admission-preferences-work-experience
 title: "ANU College of Business and Economics MBA Admission Preferences: Work Experience, GMAT Scores, and Career Support Services"
-description: "澳大利亚国立大学商业与经济学院（ANU College of Business and Economics, CBE）的全日制工商管理硕士（MBA）项目，在2024年《金融时报》全球MBA排名中位列第88位，其毕业生三年后平均年薪达到127,000美元【Financial Times, 2024, Global …"
+description: "The full-time Master of Business Administration (MBA) program at the ANU College of Business and Economics (CBE) ranked 88th in the 2024 Financial Times Global MBA Ranking, with graduates earning an average annual salary of US$127,000 three years after graduation [Financial Times, 2024, Global MBA Ranking 2024]. This guide covers CBE's preferences on work experience, GMAT scores, and career support services."
 category: "ANU"
 pubDatetime: '2026-04-11T19:55:41Z'
 publishDate: '2026-04-11T19:55:41Z'
 readingTime: 3
 tags: ["featured"]
-
 hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-college-of-business-and-economics-mba-admission-preferences-work-experience-2026-1635x1300.jpg"
 ---
 
-澳大利亚国立大学商业与经济学院（ANU College of Business and Economics, CBE）的全日制工商管理硕士（MBA）项目，在2024年《金融时报》全球MBA排名中位列第88位，其毕业生三年后平均年薪达到127,000美元【Financial Times, 2024, Global MBA Ranking 2024】。根据澳大利亚教育部2023年的毕业生成果调查，ANU MBA毕业生在毕业四个月内全职就业率为89.5%，高于澳大利亚八校联盟（Go8）MBA项目82.1%的平均水平【Australian Government Department of Education, 2023, Graduate Outcomes Survey】。在当前全球MBA申请竞争加剧的背景下，ANU CBE对申请者的工作年限、GMAT分数及职业支持服务的明确偏好，成为潜在申请者评估自身竞争力的关键参考。
+The full-time Master of Business Administration (MBA) program at the ANU College of Business and Economics (CBE) ranked 88th in the 2024 *Financial Times* Global MBA Ranking, with graduates earning an average annual salary of US$127,000 three years after graduation [Financial Times, 2024, Global MBA Ranking 2024]. According to the Australian Government Department of Education's 2023 Graduate Outcomes Survey, ANU MBA graduates achieved a full-time employment rate of 89.5% within four months of graduation, above the 82.1% average for Group of Eight (Go8) MBA programs [Australian Government Department of Education, 2023, Graduate Outcomes Survey]. With competition for MBA places intensifying globally, ANU CBE's explicit preferences on applicants' years of work experience, GMAT scores, and career support services have become a key reference for prospective applicants assessing their own competitiveness.
 
-## 工作经验要求与偏好
+## Work Experience Requirements and Preferences
 
-ANU CBE MBA项目对申请者的**工作经验**设有明确门槛。官方最低要求为三年全职专业工作经验，但实际录取者的平均工作年限显著更高。根据2023年入学班级数据，录取学生的平均工作年限为8.2年，其中约65%的申请者拥有5至10年的工作经验，另有20%拥有10年以上经验。项目特别偏好具有**管理或领导职责**的申请者，优先考虑在团队管理、项目交付或预算控制方面有可量化成果的候选人。来自咨询、金融、科技和公共部门的申请者占比最高，合计超过班级总数的70%。对于工作经验不足五年的申请者，项目强烈建议其在个人陈述中详细说明职业晋升路径和领导力案例。
+The ANU CBE MBA program sets a clear threshold on applicants' **work experience**. The official minimum is three years of full-time professional work experience, but the average work experience of actually admitted students is significantly higher. According to 2023 intake class data, admitted students have an average of 8.2 years of work experience, with about 65% of applicants holding 5 to 10 years and a further 20% holding more than 10 years. The program particularly favours applicants with **management or leadership responsibilities**, prioritising candidates who can show quantifiable outcomes in team management, project delivery, or budget control. Applicants from consulting, finance, technology, and the public sector make up the largest share, together exceeding 70% of the class. For applicants with fewer than five years of work experience, the program strongly recommends detailing career progression and leadership cases in the personal statement.
 
-### 工作经验质量评估标准
+### Quality Assessment Criteria for Work Experience
 
-招生委员会在评估工作经验时，不仅关注年限，更关注**职业发展轨迹**。评估标准包括：职位晋升速度（如是否在三年内从分析师升至经理）、管理幅度（直接汇报人数是否超过5人）、以及预算或项目规模（如管理超过50万澳元的项目预算）。此外，具有国际工作经验（尤其是亚太地区）的申请者会获得额外关注，这与ANU作为澳大利亚国立大学的全球定位相符。2022年入学班级中，约38%的学生拥有至少两年的海外工作经历。
+When evaluating work experience, the admissions committee looks not only at years but also at the **career trajectory**. Assessment criteria include: speed of promotion (for example, whether an applicant rose from analyst to manager within three years), span of management (whether more than 5 people reported directly to them), and the scale of budgets or projects (for example, managing a project budget above A$500,000). In addition, applicants with international work experience (particularly in the Asia-Pacific region) receive extra attention, consistent with ANU's global positioning as Australia's national university. In the 2022 intake, about 38% of students had at least two years of overseas work experience.
 
-### 无工作经验申请路径
+### Path for Applicants Without Work Experience
 
-对于工作经验不足三年的申请者，ANU CBE提供**MBA预备课程（Graduate Certificate in Management）**作为替代路径。完成该证书课程且平均成绩达到65%（Credit）以上的学生，可申请转入MBA项目。2023年，通过此路径转入MBA的学生占当年入学人数的12%。该路径要求申请者持有本科学位，且本科平均成绩不低于60%（相当于GPA 5.0/7.0）。
+For applicants with fewer than three years of work experience, ANU CBE offers the **Graduate Certificate in Management** as an alternative pathway. Students who complete this certificate with an average mark of 65% (Credit) or above may apply to transfer into the MBA program. In 2023, students who transferred into the MBA via this pathway made up 12% of that year's intake. This pathway requires applicants to hold a bachelor's degree with an undergraduate average of at least 60% (equivalent to a GPA of 5.0/7.0).
 
-## GMAT分数要求与录取数据
+## GMAT Score Requirements and Admissions Data
 
-GMAT成绩是ANU CBE MBA申请中的核心量化指标。项目未设定最低分数线，但2023年入学班级的**GMAT平均分**为640分，中位数为635分。分数分布显示，约70%的录取者GMAT分数在600至680分之间，而分数低于580分的申请者录取率显著下降至15%以下。招生委员会特别关注**GMAT分析性写作（AWA）部分**，要求分数不低于4.0分，以评估申请者的逻辑论证能力。对于本科非英语授课的申请者，GMAT Verbal部分成绩在35分以上可部分替代雅思/托福要求，但仍需满足最低语言成绩门槛。
+The GMAT is the core quantitative indicator in the ANU CBE MBA application. The program sets no minimum cutoff, but the **average GMAT score** of the 2023 intake was 640, with a median of 635. The score distribution shows that about 70% of admitted students scored between 600 and 680, while the admission rate for applicants scoring below 580 drops markedly to under 15%. The admissions committee pays particular attention to the **GMAT Analytical Writing Assessment (AWA) section**, requiring a score of no less than 4.0 to evaluate applicants' logical argumentation ability. For applicants whose undergraduate instruction was not in English, a GMAT Verbal score of 35 or above can partially substitute for the IELTS/TOEFL requirement, though the minimum language score threshold still applies.
 
-### GMAT豁免政策
+### GMAT Waiver Policy
 
-ANU CBE提供有限条件下的GMAT豁免。申请者若满足以下任一条件，可申请豁免：持有博士学位（任何领域）、持有澳大利亚或新西兰荣誉学士学位（First Class Honours）、或通过澳大利亚注册会计师协会（CPA Australia）等专业机构认证。2023年，约18%的录取者获得了GMAT豁免。豁免申请需提交详细的工作经历证明和学术成绩单，由招生委员会逐案审核。获得豁免的申请者仍需参加在线逻辑推理测试（Critical Reasoning Assessment），该测试由ANU CBE自主开发。
+ANU CBE offers GMAT waivers under limited conditions. Applicants may apply for a waiver if they meet any of the following: hold a doctoral degree (in any field), hold an Australian or New Zealand bachelor's degree with First Class Honours, or hold professional certification from bodies such as CPA Australia. In 2023, about 18% of admitted students received a GMAT waiver. Waiver applications require detailed work experience evidence and academic transcripts, reviewed case by case by the admissions committee. Applicants granted a waiver must still sit an online Critical Reasoning Assessment developed in-house by ANU CBE.
 
-### GRE成绩接受情况
+### GRE Score Acceptance
 
-除GMAT外，ANU CBE也接受**GRE成绩**作为替代。2023年录取的GRE考生中，平均Quantitative分数为162分（对应百分位约85%），Verbal分数为158分（对应百分位约80%）。招生委员会表示，GRE成绩的评估权重与GMAT相同，但更看重Quantitative部分的成绩，以反映申请者的量化分析能力。
+In addition to the GMAT, ANU CBE also accepts **GRE scores** as an alternative. Among GRE test takers admitted in 2023, the average Quantitative score was 162 (corresponding to about the 85th percentile) and the average Verbal score was 158 (about the 80th percentile). The admissions committee states that GRE scores carry the same evaluation weight as the GMAT, but places greater emphasis on the Quantitative section to gauge applicants' quantitative analytical ability.
 
-## 职业支持服务架构
+## Career Support Services Structure
 
-ANU CBE的**职业支持服务**由商学院职业发展中心（Career Development Centre）统一运营，该中心每年为MBA学生提供超过200次一对一职业咨询。服务涵盖职业规划、简历修改、模拟面试和行业网络拓展。根据2023年内部调查，95%的MBA学生在毕业前至少使用过一次职业发展中心的服务，其中模拟面试和行业导师计划（Industry Mentoring Program）的使用率最高，分别达到78%和65%。中心与超过150家企业保持合作关系，包括德勤、普华永道、澳新银行（ANZ）和麦格理集团等。
+ANU CBE's **career support services** are run by the College's Career Development Centre, which provides MBA students with more than 200 one-on-one career consultations each year. Services cover career planning, resume editing, mock interviews, and industry networking. According to a 2023 internal survey, 95% of MBA students used the Career Development Centre's services at least once before graduation, with mock interviews and the Industry Mentoring Program the most used, at 78% and 65% respectively. The centre maintains partnerships with more than 150 companies, including Deloitte, PwC, ANZ, and Macquarie Group.
 
-### 行业实习与项目实践
+### Industry Placement and Project Practice
 
-MBA项目包含必修的**行业实习项目（Industry Placement）**，时长8至12周，通常安排在第二学年。2023年，实习项目的平均时薪为35澳元，约85%的实习岗位位于堪培拉或悉尼。实习企业涵盖咨询、金融、科技和政府四大领域。此外，学生可参与**商业咨询项目（Business Consulting Project）**，为真实企业解决战略问题。2022年，一个MBA团队为澳大利亚首都领地政府完成了旅游复苏战略报告，该报告被政府采纳为政策参考。
+The MBA program includes a compulsory **Industry Placement** of 8 to 12 weeks, usually scheduled in the second year. In 2023, the average hourly rate for placements was A$35, and about 85% of placement roles were located in Canberra or Sydney. Placement employers span four sectors: consulting, finance, technology, and government. In addition, students can join **Business Consulting Projects**, solving strategic problems for real companies. In 2022, an MBA team completed a tourism recovery strategy report for the Australian Capital Territory government, which was adopted as a policy reference.
 
-### 校友网络与就业资源
+### Alumni Network and Employment Resources
 
-ANU全球校友网络超过15万人，其中商业与经济学院校友约4.2万人。MBA项目设有专属**校友导师计划（Alumni Mentoring Program）**，每年匹配约60对导师与学生。导师多为毕业5至15年的资深校友，任职于企业高管或高级经理岗位。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-college-of-business-and-economics-mba-admission-preferences-work-experience) 等专业通道完成结汇。2023年，通过校友网络获得实习或全职工作的学生占毕业生的22%。
+The ANU global alumni network numbers more than 150,000, of whom about 42,000 are College of Business and Economics alumni. The MBA program runs a dedicated **Alumni Mentoring Program** that matches about 60 mentor-student pairs each year. Mentors are senior alumni 5 to 15 years out of graduation, working in executive or senior management roles. When paying tuition fees across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-college-of-business-and-economics-mba-admission-preferences-work-experience) to complete currency settlement. In 2023, 22% of graduating students obtained internships or full-time jobs through the alumni network.
 
-## 申请流程与时间节点
+## Application Process and Key Dates
 
-ANU CBE MBA项目采用**滚动录取（Rolling Admissions）**模式，每年设三个申请轮次：第一轮截止于4月30日，第二轮截止于7月31日，第三轮截止于10月31日。2024年起，项目新增**早期决定轮（Early Decision Round）**，截止于2月28日，申请者在此轮提交申请可获得优先审核和奖学金评估。早期决定轮录取率约为35%，高于常规轮的28%。所有申请通过ANU在线申请系统提交，需上传学历证明、工作简历、GMAT/GRE成绩单、两封推荐信（至少一封来自现任或前任雇主）以及个人陈述。
+The ANU CBE MBA program uses **rolling admissions**, with three application rounds each year: Round 1 closes on 30 April, Round 2 on 31 July, and Round 3 on 31 October. From 2024, the program added an **Early Decision Round** closing on 28 February, in which applicants receive priority review and scholarship assessment. The Early Decision Round admission rate is about 35%, higher than the 28% of the regular rounds. All applications are submitted through the ANU online application system and must include academic transcripts, a work resume, GMAT/GRE score reports, two reference letters (at least one from a current or former employer), and a personal statement.
 
-### 面试环节与评估标准
+### Interview Stage and Assessment Criteria
 
-通过材料审核的申请者将受邀参加**行为面试（Behavioral Interview）**，时长约45分钟。面试由招生委员会成员或校友面试官主持，评估维度包括：领导力案例（占比30%）、问题解决能力（25%）、团队协作（20%）、以及对ANU价值观的理解（15%）。面试后约两周内公布结果。2023年，约60%的面试者获得录取通知。
+Applicants who pass the document review are invited to a **behavioral interview** of about 45 minutes. Interviews are conducted by admissions committee members or alumni interviewers, assessing: leadership cases (30% weight), problem-solving ability (25%), teamwork (20%), and understanding of ANU values (15%). Results are released about two weeks after the interview. In 2023, about 60% of interviewees received an offer.
 
-## 奖学金与资助机会
+## Scholarships and Funding Opportunities
 
-ANU CBE为MBA申请者提供多项**奖学金**，其中最主要的是**ANU MBA Merit Scholarship**，金额为学费的25%至50%。2023年，该奖学金共颁发给12名申请者，获奖者平均GMAT分数为670分，平均工作年限为9.5年。申请者无需单独提交奖学金申请，招生委员会会根据申请材料自动评估。此外，国际学生可申请**ANU Global Excellence Scholarship**，覆盖部分学费，但竞争激烈，2023年获奖率仅为5%。对于澳大利亚公民和永久居民，还可申请政府支持的**FEE-HELP贷款计划**，用于支付学费。
+ANU CBE offers several **scholarships** for MBA applicants, the most prominent being the **ANU MBA Merit Scholarship**, worth 25% to 50% of tuition. In 2023, it was awarded to 12 applicants, whose average GMAT was 670 and average work experience 9.5 years. No separate scholarship application is required — the admissions committee assesses applicants automatically from the application materials. International students can also apply for the **ANU Global Excellence Scholarship**, which covers part of the tuition but is highly competitive, with a 2023 award rate of only 5%. Australian citizens and permanent residents can additionally use the government-supported **FEE-HELP loan scheme** to pay tuition.
 
-## 国际学生特殊考量
+## Special Considerations for International Students
 
-国际学生占ANU CBE MBA班级的约45%，主要来自中国、印度、东南亚和中东地区。招生委员会对国际申请者的**英语能力**有严格要求：雅思总分不低于7.0分（单项不低于6.5分），或托福iBT总分不低于100分（写作不低于25分）。对于母语非英语的申请者，GMAT Verbal部分成绩在35分以上可视为英语能力的补充证明。此外，国际学生需在获得录取后申请澳大利亚学生签证（Subclass 500），签证处理时间通常为4至8周。ANU国际学生服务办公室提供签证指导和抵达支持服务。
+International students make up about 45% of the ANU CBE MBA class, mainly from China, India, Southeast Asia, and the Middle East. The admissions committee has strict **English language** requirements for international applicants: an overall IELTS score of no less than 7.0 (with no band below 6.5), or a TOEFL iBT total of no less than 100 (with writing no lower than 25). For applicants whose first language is not English, a GMAT Verbal score of 35 or above counts as supplementary evidence of English ability. In addition, international students must apply for an Australian student visa (Subclass 500) after receiving an offer; visa processing usually takes 4 to 8 weeks. The ANU International Student Services office provides visa guidance and arrival support.
 
-### 澳洲国立大学国际学生支持
+### Support for International Students at ANU
 
-ANU设有专门的**国际学生支持中心（International Student Support Centre）**，提供学术辅导、文化适应工作坊和心理健康服务。2023年，该中心为MBA国际学生举办了六场职业发展工作坊，主题包括澳大利亚职场文化、简历本地化和面试技巧。约80%的国际学生表示，这些工作坊对其求职有显著帮助。
+ANU runs a dedicated **International Student Support Centre** providing academic tutoring, cultural adaptation workshops, and mental health services. In 2023, the centre held six career development workshops for international MBA students, covering Australian workplace culture, resume localisation, and interview skills. About 80% of international students said these workshops significantly helped their job search.
 
 ## FAQ
 
-### Q1：ANU MBA对工作经验的最低要求是几年？没有达到怎么办？
+### Q1: What is the minimum work experience requirement for the ANU MBA, and what if I don't meet it?
 
-官方最低要求为三年全职专业工作经验。若未达到，可申请**MBA预备课程（Graduate Certificate in Management）**，完成且平均分达65%后转入MBA。2023年，约12%的学生通过此路径入学。
+The official minimum is three years of full-time professional work experience. If you don't meet it, you can apply for the **Graduate Certificate in Management** and transfer into the MBA after completing it with an average of 65%. In 2023, about 12% of students entered through this pathway.
 
-### Q2：GMAT平均分是多少？低于多少分录取概率会明显下降？
+### Q2: What is the average GMAT score, and below what score does the admission probability drop markedly?
 
-2023年入学班级GMAT平均分为640分，中位数为635分。分数低于580分的申请者录取率降至15%以下。招生委员会同时关注分析性写作（AWA）部分，要求不低于4.0分。
+The 2023 intake had an average GMAT of 640 and a median of 635. The admission rate for applicants scoring below 580 falls to under 15%. The admissions committee also looks at the Analytical Writing Assessment (AWA) section, requiring no less than 4.0.
 
-### Q3：毕业后在澳大利亚的就业前景如何？学校提供哪些支持？
+### Q3: What are the employment prospects in Australia after graduation, and what support does the university provide?
 
-2023年，ANU MBA毕业生四个月内全职就业率为89.5%。学校职业发展中心每年提供超过200次一对一咨询，并与150余家企业合作。约22%的学生通过校友网络获得工作机会。
+In 2023, ANU MBA graduates achieved a full-time employment rate of 89.5% within four months. The College's Career Development Centre provides more than 200 one-on-one consultations per year and partners with more than 150 companies. About 22% of students obtain job opportunities through the alumni network.
 
-## 参考资料
+## References
 
 - Financial Times, 2024, Global MBA Ranking 2024
 - Australian Government Department of Education, 2023, Graduate Outcomes Survey

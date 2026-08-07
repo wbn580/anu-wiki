@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生退学流程与全额退费截止日期"
-description: "澳大利亚国立大学（ANU）国际学生退学流程与全额退费截止日期是影响学生财务与学业规划的关键节点。根据澳大利亚教育部《2023年国际学生数据报告》（Department of Education, 2023），全澳高校国际学生退学率约为8.2%，而ANU在2022年的退学率为7.8%，略低于全国均值。同时，ANU官…"
+slug: anu-国际学生退学流程与全额退费截止日期
+title: "ANU International Student Withdrawal Process and Full Refund Deadlines"
+description: "The ANU international student withdrawal process and its full-refund deadlines are pivotal for any student's finances and academic planning. According to the Department of Education's 2023 International Student Data Report, the withdrawal rate for international students across Australian universities is around 8.2%, while ANU's 2022 figure of 7.8% sits slightly below the national average. Under ANU's official policy, international students who apply to withdraw before the Friday of teaching week 4 in a given semester qualify for a full refund, minus an administrative fee of no more than $500."
 category: "ANU 国际学生退学流程"
 pubDatetime: '2026-04-03T19:54:09Z'
 publishDate: '2026-04-03T19:54:09Z'
@@ -10,90 +11,108 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生退学流程与全额退费截止日期-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）国际学生退学流程与全额退费截止日期是影响学生财务与学业规划的关键节点。根据澳大利亚教育部《2023年国际学生数据报告》（Department of Education, 2023），全澳高校国际学生退学率约为8.2%，而ANU在2022年的退学率为7.8%，略低于全国均值。同时，ANU官方政策规定，在每学期**教学第4周周五**之前申请退学的国际学生，可获**全额退费**（扣除不超过500澳元的行政手续费）。这一截止日期直接关系到学生能否挽回最高达数万澳元的学费支出，对于面临学术、健康或签证变动的学生而言，理解该流程与时间窗口具有实际紧迫性。
+The ANU international student withdrawal process and its full-refund deadlines are pivotal moments for any student's finances and academic planning. According to the Department of Education's 2023 International Student Data Report, the withdrawal rate for international students across Australian universities is around 8.2%, while ANU's 2022 figure of 7.8% sits slightly below the national average. Under ANU's official policy, international students who apply to withdraw before the **Friday of teaching week 4** in a given semester qualify for a **full refund** (minus an administrative fee of no more than $500). That cutoff can decide whether a student recovers tuition costs running into tens of thousands of dollars, so for anyone facing academic, health or visa upheaval, understanding this process and its timing is a matter of real urgency.
 
-## 退学申请的核心时间节点
+## Key Dates in the Withdrawal Process
 
-ANU对国际学生退学的退费比例严格按申请日期划分。**全额退费截止日期**（Census Date）通常设在每学期教学第4周的最后一个工作日，2024年第一学期的Census Date为3月15日。在此日期前提交退学申请的学生，可获全额学费退款，仅扣除**500澳元**的不可退还行政费。若在Census Date之后、教学第8周结束前退学，则仅退50%学费。第8周后申请退学，将**不获得任何学费退款**，且该科目成绩将记录为“退学”（Withdrawn）或“挂科”（Fail），影响GPA。
+ANU scales the refund it gives withdrawing international students strictly by application date. The **full-refund cutoff (Census Date)** normally falls on the last working day of teaching week 4; for Semester 1 2024 it was 15 March. Students who submit a withdrawal application before that date receive their full tuition refund, minus a **non-refundable $500** administration fee. Withdraw after the Census Date but before the end of teaching week 8, and only 50% of the tuition is refunded. Apply after week 8 and you get **no tuition refund at all**, and the course is recorded as Withdrawn or Fail on your record, which hits your GPA.
 
-### 学期日历与关键日期查询
-ANU每学年分为两个学期（Semester 1和2），以及一个可选暑期学期（Summer Session）。学生可通过ANU官网“Academic Calendar”页面查询具体日期。例如，2024年第二学期的Census Date为**8月9日**。建议学生提前至少两周提交退学申请，以避免因审核延迟错过截止日期。
+### The Academic Calendar and Finding Key Dates
 
-### 特殊情况下的延期申请
-对于因**严重医疗问题**（需医生证明）、**家庭成员去世**或**签证被拒**等不可抗力因素导致无法在Census Date前退学的学生，ANU允许提交“特殊情况退学申请”（Special Withdrawal Application）。此类申请需在退学事件发生后**28天内**提交，并附上支持文件。若获批，学生可获全额退费，且成绩单上不显示退学记录。
+Each ANU academic year is divided into two semesters (Semester 1 and Semester 2) plus an optional Summer Session. Students can look up the exact dates on the Academic Calendar page of the ANU website. For example, the Census Date for Semester 2 2024 was **9 August**. It is wise to submit a withdrawal application at least two weeks early so that processing delays do not make you miss the deadline.
 
-## 退学申请的具体步骤
+### Late Applications in Special Circumstances
 
-国际学生退学需通过ANU的**ISIS系统**（Interactive Student Information System）在线操作。第一步是登录ISIS，进入“Enrolment”菜单，选择“Withdraw from Course”。系统会显示当前已注册科目列表，学生需勾选拟退学科目并确认。提交后，系统将生成一个**申请编号**，用于后续跟踪。
+Students who cannot withdraw before the Census Date because of circumstances beyond their control — **serious medical conditions** (requiring a doctor's certificate), the **death of a family member** or a **visa refusal** — may submit a Special Withdrawal Application. The application must be lodged **within 28 days** of the event that triggered the withdrawal and include supporting documents. If approved, students receive a full refund and the withdrawal does not appear on their transcript.
 
-### 文件准备与签证影响
-退学申请需附带以下文件：护照复印件、学生签证（Subclass 500）信息页、以及**CoE（Confirmation of Enrolment）**副本。若退学导致课程负荷低于全日制标准（通常为每学期24学分），ANU将通知澳大利亚移民局，可能导致学生签证被取消。根据移民局《2023年学生签证合规指南》（Department of Home Affairs, 2023），学生必须在**56天内**找到新的注册课程或离境，否则将面临签证取消风险。
+## How to Apply for Withdrawal
 
-### 退费流程与到账时间
-退学申请获批后，学费退款将通过原支付方式返还。使用信用卡支付的学生，退款将在**10个工作日**内到账；通过银行转账支付的，退款周期为**15至20个工作日**。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E9%80%80%E5%AD%A6%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%85%A8%E9%A2%9D%E9%80%80%E8%B4%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F) 等专业通道完成结汇，其退款流程同样适用上述时间范围。若退费金额超过5000澳元，ANU财务部门可能要求额外身份验证，延长至30个工作日。
+International students withdraw online through ANU's **ISIS system** (Interactive Student Information System). First, log in to ISIS, open the Enrolment menu and select Withdraw from Course. The system lists your currently enrolled courses; tick the ones you want to drop and confirm. Once submitted, the system generates an **application number** you can use to track the request.
 
-## 全额退费的资格条件
+### Documents and Visa Implications
 
-并非所有退学申请都能自动获得全额退费。**全额退费**仅适用于在Census Date前提交申请的学生，且需满足以下条件：学生未参加任何该科目的考试或评估，且未使用该科目的学术资源（如图书馆借阅记录或实验室设备）。若学生在退学前已参加**第一次期中考试**或提交了作业，ANU有权扣除已产生的评估成本，最高可达学费的20%。
+The withdrawal application must be accompanied by: a copy of your passport, the information page of your student visa (Subclass 500) and a copy of your **CoE (Confirmation of Enrolment)**. If withdrawing drops your study load below the full-time standard (normally 24 units per semester), ANU will notify the Department of Home Affairs, which can lead to cancellation of your student visa. Under the Department's 2023 Student Visa Compliance Guidelines, you must find a new course to enrol in or leave the country **within 56 days**, or your visa risks being cancelled.
 
-### 不可退还的费用项目
-即使获得全额退费，以下费用仍不可退还：**学生服务与设施费（SSAF）**，2024年为每学期**351澳元**；**海外学生健康保险（OSHC）**费用，该费用由保险公司直接收取，ANU仅作为中介代收；以及**入学确认费（Acceptance Fee）**，通常为学费的5%至10%。这些费用在退学后仍由学生承担，总计约**800至1500澳元**。
+### The Refund Process and Timing
 
-### 部分退费与学分转换
-若学生在Census Date后但第8周前退学，除退50%学费外，ANU允许将已修学分转换为**非学位学分**（Non-Award Credit），用于未来重新入读其他课程。例如，已完成12学分科目的学生，可申请将该学分转入ANU的**短期课程**或**预科项目**，但需在退学后6个月内提交学分转换申请，且转换后学分不计入GPA。
+Once the withdrawal is approved, the tuition refund is returned through the original payment method. Students who paid by credit card receive their refund within **10 business days**; bank transfer payments take **15 to 20 business days**. For cross-border tuition payments, some study-abroad families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E9%80%80%E5%AD%A6%E6%B5%81%E7%A8%8B%E4%B8%8E%E5%85%A8%E9%A2%9D%E9%80%80%E8%B4%B9%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F) to settle their fees, and the same timeframes apply to their refunds. If the refund exceeds $5,000, ANU Finance may require additional identity verification, stretching the process to 30 business days.
 
-## 退学对签证状态的影响
+## Qualifying for a Full Refund
 
-国际学生退学直接关联其**学生签证合规性**。根据澳大利亚移民局《2023年学生签证框架》（Department of Home Affairs, 2023），持Subclass 500签证的学生必须维持**全日制注册**状态（每学期至少24学分）。退学后若学分低于此标准，ANU将在**14天内**通过PRISMS系统（Provider Registration and International Student Management System）向移民局报告。学生需在收到通知后**28天内**提交新的CoE或申请其他签证，否则签证将自动取消。
+Not every withdrawal automatically qualifies for a full refund. **Full refunds** are available only to students who apply before the Census Date and meet two further conditions: they have not sat any exam or assessment for the course, and they have not used the course's academic resources (such as library loans or lab equipment). If you sat the **first mid-semester exam** or submitted an assignment before withdrawing, ANU may deduct the assessment costs already incurred, up to 20% of the tuition.
 
-### 签证取消后的应对措施
-签证被取消后，学生可申请**行政复议**（Merits Review），向澳大利亚行政上诉法庭（AAT）提出申诉。2022年数据显示，AAT受理的学生签证取消案件中，约**34%**最终得以撤销【AAT, 2022 Annual Report】。申诉需在签证取消通知发出后**21天内**提交，费用为**3,100澳元**。在此期间，学生可申请过桥签证B（Bridging Visa B）以合法停留。
+### Non-Refundable Fees
 
-### 转学与退学的区别
-退学与转学在签证处理上不同。退学是终止当前课程，而转学需在**新课程开始前**获得新CoE。若学生计划转学至其他院校，需在退学前获得新学校的**录取通知书**（Offer Letter），并在退学后**56天内**注册新课程。ANU的国际学生服务办公室可提供转学指导，包括学分转换评估和签证更新协助。
+Even with a full refund, the following charges are non-refundable: the **Student Services and Amenities Fee (SSAF)** — **$351 per semester** in 2024; **Overseas Student Health Cover (OSHC)** premiums, which are collected by the insurer directly with ANU acting only as an intermediary; and the **Acceptance Fee**, usually 5% to 10% of tuition. These costs remain the student's responsibility after withdrawal and total roughly **$800 to $1,500**.
 
-## 退学后的学术记录与成绩单
+### Partial Refunds and Credit Conversion
 
-退学后，ANU将在学生成绩单上标记相应记录。在Census Date前退学的科目，成绩单显示为**“W”**（Withdrawn），不影响GPA。Census Date后第8周前退学的，显示为**“WD”**（Withdrawn with Fail），等同于挂科，GPA计算为0分。第8周后退学的，显示为**“F”**（Fail），直接计入GPA。这些记录将永久保存在ANU学术档案中，可能影响未来研究生申请或雇主背景调查。
+Students who withdraw after the Census Date but before week 8 get 50% of their tuition back and may also convert credits already earned into **Non-Award Credit** for future enrolment in other programs. For example, a student who completed 12 units of coursework can apply to transfer those credits into an ANU **short course** or **foundation program**, provided the credit-conversion application is lodged within 6 months of withdrawing. Converted credits do not count towards your GPA.
 
-### 成绩单获取与认证
-退学学生可通过ANU **eTranscript系统**申请官方成绩单，费用为**30澳元**（电子版）或**45澳元**（纸质版）。国际学生需额外支付**20澳元**国际邮费。成绩单需**3至5个工作日**生成，并可通过澳大利亚**My eQuals**平台进行国际认证，该平台被全球超过**200所高校**认可【Universities Australia, 2023】。
+## How Withdrawal Affects Your Visa
 
-### 退学后的学术诚信记录
-若退学发生在学术不端调查期间，ANU保留继续调查的权利。即使学生已退学，若被认定存在抄袭或作弊行为，ANU可发出**学术不端警告**，该记录将保留**5年**，并可能影响学生未来申请ANU或其他澳洲高校的入学资格。建议学生在退学前主动联系学术诚信办公室，了解案件状态。
+Withdrawing has direct implications for your **student visa compliance**. Under the Department of Home Affairs' 2023 Student Visa Framework, Subclass 500 visa holders must maintain **full-time enrolment** (at least 24 units per semester). If your credit load drops below that after withdrawal, ANU must report you to the Department **within 14 days** through the PRISMS system (Provider Registration and International Student Management System). You then have **28 days** from receiving the notification to submit a new CoE or apply for another visa; otherwise your visa is automatically cancelled.
 
-## 退学费用与财务规划
+### What to Do If Your Visa Is Cancelled
 
-退学涉及的直接费用包括行政手续费、已扣除的学费以及不可退还的服务费。以2024年第一学期为例，一名国际学生修读**48学分**（4门课），学费为**24,000澳元**。若在Census Date后退学，仅退50%即12,000澳元，损失**12,000澳元**。加上不可退还的SSAF 351澳元和OSHC约600澳元，总财务损失约为**12,951澳元**。这些数字基于ANU 2024年国际学生学费标准。
+After a visa cancellation, students can seek a **merits review** by appealing to the Administrative Appeals Tribunal (AAT). According to 2022 data, about **34%** of student visa cancellation cases heard by the AAT were ultimately overturned [AAT, 2022 Annual Report]. Appeals must be lodged **within 21 days** of the cancellation notice, and the fee is **$3,100**. In the meantime, students can apply for a Bridging Visa B to stay lawfully in Australia.
 
-### 学费退款与税务处理
-退款金额不计入学生个人收入，因此无需缴纳澳大利亚所得税。但若学生已申请**学费贷款**（如FEE-HELP，仅限澳大利亚公民或永久居民），退款将直接返还贷款机构，学生无法获得现金。国际学生不适用FEE-HELP，但需注意：若通过**奖学金**支付学费，退款将返还至奖学金账户，而非学生个人银行账户。
+### Transferring Versus Withdrawing
 
-### 退学后的保险续期
-退学后，OSHC（海外学生健康保险）将自动终止，终止日期为退学生效日。学生需在**30天内**购买替代保险（如访客健康保险OVHC），否则可能面临医疗费用自付风险。ANU合作保险公司**Allianz Care**提供OVHC转换服务，月费约为**80至120澳元**，具体取决于保险级别。
+Withdrawal and transfer are treated differently for visa purposes. Withdrawing ends your current course, whereas transferring requires a new CoE **before the new course starts**. If you plan to move to another institution, secure the new school's **Offer Letter** before withdrawing and enrol in the new course **within 56 days** of withdrawal. ANU's International Student Services office can guide you through the transfer, including credit assessment and visa renewal assistance.
 
-## 退学后的心理与职业支持
+## Academic Records and Transcripts After Withdrawal
 
-ANU为退学学生提供**免费心理咨询服务**，包括个人咨询和团体工作坊。学生可通过ANU **Health and Wellbeing Centre**预约，首次咨询免费，后续每次收费**30澳元**（持OSHC可报销）。此外，ANU **CareerHub**平台允许退学学生在退学后**6个月内**继续使用职业规划服务，包括简历修改、模拟面试和招聘会入场资格。
+After withdrawal, ANU marks your transcript accordingly. Courses dropped before the Census Date show as **"W"** (Withdrawn) and do not affect your GPA. Those dropped after the Census Date but before week 8 show as **"WD"** (Withdrawn with Fail), which is equivalent to failing the course and counts as 0 in your GPA. Withdrawals after week 8 are recorded as **"F"** (Fail) and count directly into your GPA. These records stay permanently in your ANU academic file and can affect future postgraduate applications or employer background checks.
 
-### 学术恢复与重新入学
-退学学生可在未来**2年内**申请重新入读ANU，需提交新的入学申请并满足当时录取要求。若退学时GPA低于**4.0**（满分7.0），重新入学需提供解释信和推荐信。ANU **Academic Skills Centre**提供免费学术辅导课程，帮助退学学生提升写作和考试能力，费用为**150澳元**每期（共8周）。
+### Ordering and Certifying Your Transcript
 
-### 校友身份与资源访问
-完成至少**24学分**后退学的学生，可申请ANU **校友身份**（Alumni Status），享受校友福利，包括图书馆借阅权限、校友邮箱和折扣课程。未满24学分的学生，若退学后**12个月内**重新入学，可保留已修学分，无需重修。
+Students who have withdrawn can order an official transcript through the ANU **eTranscript system** for **$30** (electronic) or **$45** (paper). International students pay an additional **$20** for international postage. Transcripts take **3 to 5 business days** to produce and can be certified internationally through Australia's **My eQuals** platform, which is recognised by more than **200 universities** worldwide [Universities Australia, 2023].
+
+### Academic Integrity Records After Withdrawal
+
+If you withdraw while an academic misconduct investigation is underway, ANU reserves the right to continue it. Even after withdrawal, a finding of plagiarism or cheating can lead to an **academic misconduct warning** that stays on record for **5 years** and may affect future admission to ANU or other Australian universities. It is worth contacting the Academic Integrity Office before withdrawing to find out where your case stands.
+
+## Withdrawal Costs and Financial Planning
+
+The direct costs of withdrawing include the administration fee, forfeited tuition and non-refundable service charges. Take a Semester 1 2024 example: an international student enrolled in **48 units** (4 courses) pays **$24,000** in tuition. Withdrawing after the Census Date refunds only 50%, or $12,000, leaving a **$12,000** loss. Add the non-refundable $351 SSAF and roughly $600 of OSHC, and the total financial loss comes to about **$12,951**. These figures are based on ANU's 2024 international tuition rates.
+
+### Refunds and Tax Treatment
+
+Refund amounts do not count as personal income, so no Australian income tax is payable on them. However, if you took out a **tuition loan** (such as FEE-HELP, available only to Australian citizens or permanent residents), the refund goes straight back to the loan provider and you never see the cash. International students are not eligible for FEE-HELP, but note that if your tuition was paid through a **scholarship**, the refund is returned to the scholarship account rather than your personal bank account.
+
+### Insurance After Withdrawal
+
+After withdrawal, your OSHC (Overseas Student Health Cover) terminates automatically on the effective date of the withdrawal. You should buy replacement cover (such as Overseas Visitors Health Cover, OVHC) **within 30 days**, or you risk paying medical bills out of pocket. ANU's partner insurer **Allianz Care** offers an OVHC conversion service at roughly **$80 to $120 per month**, depending on the level of cover.
+
+## Mental Health and Career Support After Withdrawal
+
+ANU offers **free counselling services** to students who withdraw, including individual sessions and group workshops. Book through the ANU **Health and Wellbeing Centre**; the first session is free and subsequent sessions cost **$30** each (claimable through OSHC). The ANU **CareerHub** platform also lets students who have withdrawn keep using career planning services — resume reviews, mock interviews and career-fair entry — for **6 months** after withdrawal.
+
+### Academic Recovery and Re-Enrolment
+
+Students who withdraw can apply to re-enrol at ANU **within 2 years**, submitting a fresh application and meeting the admission requirements in force at the time. If your GPA at withdrawal was below **4.0** (on a 7.0 scale), you will need to provide an explanation letter and references. The ANU **Academic Skills Centre** provides academic tutoring courses to help students who have withdrawn strengthen their writing and exam skills, priced at **$150** per program (8 weeks in total).
+
+### Alumni Status and Access to Resources
+
+Students who withdraw after completing at least **24 units** can apply for ANU **Alumni Status** and enjoy alumni benefits such as library borrowing rights, an alumni email address and discounted courses. Students with fewer than 24 units who re-enrol **within 12 months** of withdrawing keep the credits they have earned and do not need to repeat them.
 
 ## FAQ
 
-### Q1：如果我在Census Date当天提交退学申请，能获得全额退费吗？
-不能。ANU规定退学申请必须在Census Date**当天下午5点（澳大利亚东部时间）前**提交并确认。若在截止时间后提交，将按Census Date后退学处理，仅退50%学费。2024年第一学期的Census Date为3月15日下午5点，建议至少提前**24小时**操作，避免系统延迟。
+### Q1: If I submit my withdrawal application on the Census Date itself, do I still get a full refund?
 
-### Q2：退学后我的学生签证还能维持多久？
-退学后，ANU将在**14天内**向移民局报告。学生需在收到通知后**28天内**提供新的CoE或申请其他签证，否则签证将取消。若在56天内未采取行动，移民局将发出**签证取消通知**，学生需在21天内向AAT申诉。2023年数据显示，约**22%**的学生在退学后60天内成功转学【Department of Home Affairs, 2023】。
+No. ANU requires withdrawal applications to be submitted and confirmed **by 5pm (Australian Eastern Time) on the Census Date itself**. Applications lodged after that cutoff are treated as post-Census withdrawals and receive only a 50% refund. The Semester 1 2024 Census Date was 5pm on 15 March, so give yourself at least **24 hours** of lead time to avoid system delays.
 
-### Q3：退学退费需要多长时间到账？
-使用信用卡支付的学生，退款在**10个工作日**内到账；银行转账支付需**15至20个工作日**。若退费金额超过**5,000澳元**，ANU财务部门可能要求额外身份验证，延长至**30个工作日**。建议学生保留退学申请编号和支付凭证，以便查询进度。
+### Q2: How long can I keep my student visa after withdrawing?
 
-## 参考资料
+After withdrawal, ANU reports you to the Department of Home Affairs **within 14 days**. You then have **28 days** from receiving the notification to provide a new CoE or apply for another visa, or your visa is cancelled. If you take no action within 56 days, the Department issues a **visa cancellation notice** and you have 21 days to appeal to the AAT. 2023 data shows that about **22%** of students successfully transferred to another institution within 60 days of withdrawing [Department of Home Affairs, 2023].
+
+### Q3: How long does a withdrawal refund take to arrive?
+
+Students who paid by credit card receive their refund **within 10 business days**; bank transfer payments take **15 to 20 business days**. If the refund exceeds **$5,000**, ANU Finance may require additional identity verification, extending the wait to **30 business days**. Keep your withdrawal application number and payment receipts so you can track progress.
+
+## References
+
 - Department of Education. 2023. *International Student Data Report 2023*.
 - Department of Home Affairs. 2023. *Student Visa Compliance Guidelines 2023*.
 - Australian National University. 2024. *ANU Academic Calendar 2024*.
@@ -107,5 +126,5 @@ ANU为退学学生提供**免费心理咨询服务**，包括个人咨询和团�
      data-affiliate-card="oshc-au" aria-label="Compare Australian OSHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OSHC plans</span><span class="cc-aff-card__note">The student-visa health cover required for subclass 500 — compare major insurers side by side.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
 </div>
-<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
+<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:"↗";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
 <!-- AFF-CARD:v1:END -->

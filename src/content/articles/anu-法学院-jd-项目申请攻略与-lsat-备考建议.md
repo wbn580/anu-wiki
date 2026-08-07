@@ -1,108 +1,107 @@
 ---
-title: "ANU 法学院 JD 项目申请攻略与 LSAT 备考建议"
-description: "澳大利亚国立大学（ANU）法学院提供的法学博士（Juris Doctor，JD）项目是澳大利亚法律教育体系中的核心研究生课程之一。根据《澳大利亚法律教育委员会 2023 年年度报告》，全国 JD 项目毕业生在完成实践法律培训（PLT）后，其律师执业资格认证率超过 92%。ANU 法学院在 2024 年 QS 世界…"
+slug: anu-法学院-jd-项目申请攻略与-lsat-备考建议
+title: "ANU College of Law JD Program Application Guide and LSAT Preparation Tips"
+description: "The Juris Doctor (JD) program offered by the ANU College of Law is one of the core postgraduate courses in Australia's legal education system. According to the Australian Legal Education Committee's 2023 annual report, more than 92% of national JD graduates gain admission to legal practice after completing Practical Legal Training (PLT). ANU College of Law ranked in the 2024 QS World…"
 category: "ANU 法学院 JD 项"
 pubDatetime: '2026-02-28T19:47:09Z'
 publishDate: '2026-02-28T19:47:09Z'
 readingTime: 13
 tags: ["featured"]
+lang: en
+language: en
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-法学院-jd-项目申请攻略与-lsat-备考建议-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）法学院提供的法学博士（Juris Doctor，JD）项目是澳大利亚法律教育体系中的核心研究生课程之一。根据《澳大利亚法律教育委员会 2023 年年度报告》，全国 JD 项目毕业生在完成实践法律培训（PLT）后，其律师执业资格认证率超过 92%。ANU 法学院在 2024 年 QS 世界大学学科排名（法律与法律研究）中位列全球第 26 位，其 JD 项目以严格的学术标准和跨学科法律研究著称。对于计划在澳大利亚或普通法系国家从事法律职业的学生而言，ANU JD 申请流程与 LSAT 备考策略构成两条关键路径：前者涉及学术背景评估与名额竞争，后者则直接影响申请竞争力。
+The Juris Doctor (JD) offered by the ANU College of Law is one of the core postgraduate programs in Australian legal education. According to the Australian Legal Education Committee's 2023 annual report, more than 92% of JD graduates nationally gain admission to legal practice after completing Practical Legal Training (PLT). ANU College of Law ranked 26th globally in the 2024 QS World University Rankings by Subject (Law and Legal Studies), and its JD program is known for rigorous academic standards and interdisciplinary legal research. For students planning a legal career in Australia or other common-law countries, the ANU JD application process and LSAT preparation strategy are the two critical paths: the former involves academic background assessment and competition for places, while the latter directly shapes your competitiveness as an applicant.
 
-## 申请资格与学术要求
+## Eligibility and Academic Requirements
 
-ANU JD 项目面向已完成任意学科本科学位（非法律）的申请者开放。根据 ANU 法学院 2024 年官方招生手册，**最低学术要求**为 GPA 不低于 5.0/7.0（澳大利亚评分体系），但近年实际录取平均 GPA 维持在 5.8 至 6.2 之间。国际学生需额外满足英语语言能力要求：雅思（IELTS）总分不低于 7.0，各单项不低于 6.5；或托福（TOEFL）iBT 总分不低于 100，写作不低于 25。
+The ANU JD is open to applicants who have completed an undergraduate degree in any discipline (non-law). According to the ANU College of Law's official 2024 admissions handbook, the **minimum academic requirement** is a GPA of at least 5.0/7.0 (Australian grading scale), though recent admission averages have held between 5.8 and 6.2. International students must also meet English language requirements: an IELTS overall score of at least 7.0 with no band below 6.5, or a TOEFL iBT score of at least 100 overall with 25 or above in writing.
 
-### 学位背景与转换课程
+### Degree Background and Bridging Courses
 
-申请者本科专业不限，但 ANU 法学院建议优先录取具有社会科学、人文或商科背景的学生。对于非法律本科毕业生，ANU 提供为期 2 周的 **“法律基础预备课程”**（Legal Foundations Preparatory Program），内容涵盖澳大利亚法律体系概述、判例法阅读与法律写作基础。该课程不计入学分，但完成证书可作为申请辅助材料提交。
+Applicants' undergraduate majors are unrestricted, but ANU College of Law says it gives preference to students with social science, humanities or business backgrounds. For graduates without a law degree, ANU offers a 2-week **Legal Foundations Preparatory Program**, covering an overview of the Australian legal system, case law reading and basic legal writing. The course carries no credit, but the completion certificate can be submitted as supporting material with your application.
 
-### 名额与竞争比例
+### Places and Competition Ratios
 
-ANU JD 项目每年招收约 120 至 140 名学生。根据澳大利亚教育部 2023 年《高等教育学生数据》，ANU 法学院 JD 项目的国际学生比例约为 25% 至 30%，其中来自中国大陆的申请者约占国际生总数的 35%。2024 年入学周期中，ANU 共收到约 800 份有效申请，录取率约为 15% 至 17.5%。
+The ANU JD admits about 120 to 140 students a year. According to the Australian Department of Education's 2023 Higher Education Student Data, international students make up about 25% to 30% of the ANU JD cohort, and applicants from mainland China account for about 35% of that international intake. In the 2024 admission cycle, ANU received about 800 valid applications, giving an admission rate of roughly 15% to 17.5%.
 
-## LSAT 考试策略与分数要求
+## LSAT Strategy and Score Requirements
 
-LSAT（法学院入学考试）是 ANU JD 申请的核心评估工具之一。根据 LSAC（法学院招生委员会）2023 年官方数据，ANU 要求申请者提供 LSAT 成绩，且 **最低有效分数** 为 150 分（满分 180 分）。然而，2024 年录取统计显示，实际被录取学生的 LSAT 中位数为 162 分，75 百分位数为 168 分。
+The LSAT (Law School Admission Test) is one of the core assessment tools for the ANU JD application. According to official LSAC (Law School Admission Council) 2023 data, ANU requires LSAT scores from applicants, with a **minimum valid score** of 150 (out of 180). However, 2024 admission statistics show that the median LSAT of admitted students was 162, with the 75th percentile at 168.
 
-### 考试结构与时间分配
+### Test Structure and Time Allocation
 
-LSAT 包含四个计分部分：逻辑推理（Logical Reasoning，2 个部分）、分析推理（Analytical Reasoning，1 个部分，俗称“逻辑游戏”）、阅读理解（Reading Comprehension，1 个部分），以及一个不计分的变量部分。考试总时长约为 3 小时 30 分钟（含休息）。**逻辑推理部分** 占分权重最高，约占总分值的 50%，建议备考时间分配比例如下：逻辑推理 40%，分析推理 35%，阅读理解 25%。
+The LSAT has four scored sections: Logical Reasoning (2 sections), Analytical Reasoning (1 section, commonly called "logic games"), Reading Comprehension (1 section), plus one unscored variable section. Total test time is about 3 hours 30 minutes (including breaks). **Logical Reasoning** carries the most weight, roughly 50% of the total score; a sensible preparation split is: Logical Reasoning 40%, Analytical Reasoning 35%, Reading Comprehension 25%.
 
-### 备考周期与资源选择
+### Preparation Timeline and Resources
 
-根据 LSAC 2023 年考生调查，成功获得 ANU JD 录取的考生平均备考时长为 4 至 6 个月，每周投入 15 至 20 小时。推荐备考资源包括：LSAC 官方发布的“PrepPlus”订阅服务（含 70 套过往真题及模拟考试）、PowerScore LSAT 系列教材（《Logic Games Bible》《Logical Reasoning Bible》），以及 7Sage 在线课程（提供分析推理部分的视频讲解与计时练习）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%B3%95%E5%AD%A6%E9%99%A2-jd-%E9%A1%B9%E7%9B%AE%E7%94%B3%E8%AF%B7%E6%94%BB%E7%95%A5%E4%B8%8E-lsat-%E5%A4%87%E8%80%83%E5%BB%BA%E8%AE%AE) 等专业通道完成结汇。
+According to LSAC's 2023 test-taker survey, candidates admitted to the ANU JD studied on average for 4 to 6 months, investing 15 to 20 hours a week. Recommended resources include LSAC's official "PrepPlus" subscription (70 past exams and practice tests), the PowerScore LSAT series (The Logic Games Bible and The Logical Reasoning Bible), and 7Sage's online course (video explanations and timed drills for Analytical Reasoning). When paying cross-border tuition, some study-abroad families use specialised channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%B3%95%E5%AD%A6%E9%99%A2-jd-%E9%A1%B9%E7%9B%AE%E7%94%B3%E8%AF%B7%E6%94%BB%E7%95%A5%E4%B8%8E-lsat-%E5%A4%87%E8%80%83%E5%BB%BA%E8%AE%AE) to settle remittances.
 
-## 申请材料与文书准备
+## Application Materials and Essays
 
-ANU JD 申请通过澳大利亚高校统一申请系统“UAC”（Universities Admissions Centre）或 ANU 直接申请通道提交。所需材料包括：本科学位证书与成绩单（需经公证翻译）、LSAT 成绩报告、英语语言能力证明、个人陈述（Personal Statement）、以及两份学术推荐信。
+ANU JD applications are submitted through the centralised UAC (Universities Admissions Centre) system or ANU's direct application channel. Required materials include: certified and translated copies of your bachelor's degree and transcripts, an LSAT score report, proof of English proficiency, a personal statement, and two academic letters of recommendation.
 
-### 个人陈述写作要点
+### Personal Statement Writing Tips
 
-个人陈述字数限制为 500 至 750 字。ANU 法学院建议申请者聚焦三个核心维度：**法律职业动机**（为何选择法律而非其他领域）、**学术与职业经历**（本科课程、实习或研究项目如何塑造法律兴趣）、以及 **对 ANU 法学院的特定兴趣**（提及具体教授研究方向或课程模块，例如“ANU 法学院的法律与社会变革研究小组”）。避免泛泛描述“热爱正义”等抽象表述，应提供具体事例与数据支撑。
+The personal statement is limited to 500 to 750 words. ANU College of Law advises applicants to focus on three core dimensions: **motivation for a legal career** (why law rather than another field), **academic and professional experience** (how undergraduate courses, internships or research projects shaped your interest in law), and **specific interest in ANU College of Law** (name specific professors' research areas or course modules, such as "the Law and Social Change research group at ANU College of Law"). Avoid vague statements like "a passion for justice"; give concrete examples supported by data.
 
-### 推荐信撰写规范
+### Recommendation Letter Guidelines
 
-推荐信应由本科阶段授课教授或实习单位主管撰写。ANU 要求推荐人使用官方信纸签署并密封提交。推荐信内容应侧重申请者的 **分析能力、书面沟通能力与团队协作能力**，而非单纯描述性格特质。根据 ANU 法学院 2024 年招生说明会记录，招生委员会更看重推荐信中对申请者“逻辑推理能力”与“学术韧性”的具体评价。
+Letters should come from undergraduate professors or internship supervisors. ANU requires referees to sign on official letterhead and submit the letter in a sealed envelope. Letters should focus on the applicant's **analytical ability, written communication and teamwork**, rather than personality traits alone. According to notes from ANU College of Law's 2024 admissions information sessions, the committee weighs specific comments on an applicant's "logical reasoning skills" and "academic resilience" most heavily.
 
-## 学费与奖学金机制
+## Tuition and Scholarships
 
-ANU JD 项目国际学生学费为每年 47,880 澳元（2024 年标准），课程总学费约为 143,640 澳元（三年制）。根据澳大利亚内政部 2024 年签证要求，国际学生需在申请学生签证时提供至少 24,505 澳元的年生活费用证明。
+International tuition for the ANU JD is 47,880 AUD per year (2024 rate), for a total course cost of about 143,640 AUD over the three-year program. Under the Department of Home Affairs' 2024 visa requirements, international students must show evidence of at least 24,505 AUD in annual living costs when applying for a student visa.
 
-### 奖学金申请路径
+### Scholarship Pathways
 
-ANU 法学院提供两种主要奖学金：**ANU 国际学生奖学金**（ANU International Student Scholarship）覆盖 25% 至 50% 学费，需在申请时同步递交奖学金申请；**ANU 法学院院长奖学金**（ANU College of Law Dean’s Scholarship）面向 LSAT 成绩高于 165 分且 GPA 高于 6.0 的申请者，金额为每年 10,000 澳元。2023 年，约 12% 的 JD 国际学生获得了至少一项奖学金。
+ANU College of Law offers two main scholarships: the **ANU International Student Scholarship**, covering 25% to 50% of tuition, which must be applied for alongside the program application; and the **ANU College of Law Dean's Scholarship**, open to applicants with an LSAT above 165 and a GPA above 6.0, worth 10,000 AUD per year. In 2023, about 12% of international JD students received at least one scholarship.
 
-### 助学贷款与分期付款
+### Loans and Instalment Payments
 
-国际学生无法申请澳大利亚政府贷款（如 FEE-HELP）。ANU 允许学费分两期支付（每学期开学前各支付 50%），且接受信用卡、银行转账及第三方支付平台。部分学生选择通过教育贷款机构如 Prodigy Finance 或 MPower Financing 进行融资，利率范围约为 8% 至 13%（2024 年数据）。
+International students cannot access Australian government loans (such as FEE-HELP). ANU allows tuition to be paid in two instalments (50% before each semester) and accepts credit cards, bank transfers and third-party payment platforms. Some students finance their studies through education lenders such as Prodigy Finance or MPower Financing, with interest rates ranging from about 8% to 13% (2024 data).
 
-## 课程结构与实习机会
+## Curriculum and Internship Opportunities
 
-ANU JD 项目为三年全日制课程，共需完成 144 个学分（含必修课 96 学分与选修课 48 学分）。核心必修课程包括：合同法、侵权法、刑法、宪法、行政法、财产法、衡平法与信托法、以及证据法。选修课涵盖 30 余个细分领域，如国际法、环境法、人权法与科技法。
+The ANU JD is a three-year full-time program requiring 144 credit points (96 compulsory and 48 elective). Core compulsory courses include contract law, torts, criminal law, constitutional law, administrative law, property law, equity and trusts, and evidence. Electives span more than 30 specialist fields, including international law, environmental law, human rights law and technology law.
 
-### 临床法律教育项目
+### Clinical Legal Education Programs
 
-ANU 法学院设有 **ANU 法律诊所**（ANU Legal Workshop），提供临床法律教育学分课程。学生可在 ACT 法律援助委员会、环境法公益中心或难民法律服务中心等机构进行实习，每周工作 8 至 12 小时，获得 6 至 12 学分。根据 ANU 2023 年就业报告，参与临床项目的毕业生在毕业 6 个月内找到法律相关工作的比例达 89%，高于未参与者（74%）。
+ANU College of Law runs the **ANU Legal Workshop**, offering credit-bearing clinical legal education courses. Students can intern at organisations such as the ACT Legal Aid Commission, environmental law public interest centres or refugee legal service centres, working 8 to 12 hours a week for 6 to 12 credit points. According to ANU's 2023 employment report, 89% of graduates who took clinical programs found law-related work within 6 months of graduating, versus 74% of those who did not.
 
-### 海外交换与双学位
+### Overseas Exchange and Dual Degrees
 
-ANU JD 学生可申请赴美国、英国、加拿大或新加坡的 15 所合作法学院进行一学期交换，包括纽约大学法学院与伦敦大学学院法学院。此外，ANU 提供 JD 与公共政策硕士（MPP）或国际关系硕士（MIR）的双学位项目，总学制延长至 4 年，但毕业时可同时获得两个学位。
+ANU JD students can apply for a one-semester exchange at 15 partner law schools in the United States, the United Kingdom, Canada or Singapore, including NYU School of Law and UCL Faculty of Laws. ANU also offers dual degrees combining the JD with a Master of Public Policy (MPP) or Master of International Relations (MIR); the combined program extends to 4 years but confers both degrees on graduation.
 
-## 职业发展与律师资格认证
+## Career Development and Admission to Practice
 
-完成 ANU JD 课程后，毕业生需完成实践法律培训（Practical Legal Training，PLT）方可申请澳大利亚律师执业资格。ANU 法学院本身不提供 PLT 课程，但学生可申请 ANU 合作机构如“澳大利亚国立大学法律实践中心”（ANU Centre for Legal Practice）或“法学院法律培训”（College of Law PLT）完成该阶段。
+After completing the ANU JD, graduates must finish Practical Legal Training (PLT) before they can apply for admission to practice as an Australian lawyer. ANU College of Law does not run PLT itself, but students can complete this stage with partner providers such as the ANU Centre for Legal Practice or the College of Law PLT.
 
-### 执业资格与认证路径
+### Admission and Accreditation Pathway
 
-澳大利亚律师执业资格由各州法律许可委员会（如新南威尔士州法律职业准入委员会）颁发。通过 PLT 后，毕业生需完成 18 个月的监督执业期（Supervised Practice Period）方可获得独立执业权。对于计划回国执业的中国学生，根据司法部 2023 年《外国律师执业管理办法》，持有澳大利亚律师资格且通过中国法律职业资格考试者，可在满足“连续 3 年境外执业经历”后申请中国执业资格。
+Australian legal practising certificates are issued by state admission authorities (such as the Legal Profession Admission Board of New South Wales). After passing PLT, graduates must complete an 18-month supervised practice period before gaining full independent practice rights. For Chinese students planning to practise back home, under the Ministry of Justice's 2023 Measures for the Administration of Foreign Lawyers Practicing in China, holders of Australian legal qualifications who also pass China's legal professional qualification examination can apply for Chinese practice rights after meeting the "3 consecutive years of overseas practice" requirement.
 
-### 就业领域与薪资水平
+### Employment Fields and Salary Levels
 
-根据 ANU 2023 年毕业生就业调查，JD 毕业生主要就业领域包括：商业律所（42%）、政府法律部门（28%）、公益法律组织（15%）与学术研究（10%）。起薪中位数：商业律所 85,000 澳元/年，政府法律部门 72,000 澳元/年。在澳大利亚法律市场，拥有 ANU JD 学位的毕业生在 ACT 地区律所录用率约为 67%，高于全国 JD 毕业生平均录用率（58%）。
+According to ANU's 2023 graduate employment survey, JD graduates mainly enter: commercial law firms (42%), government legal departments (28%), public-interest legal organisations (15%) and academic research (10%). Median starting salaries: 85,000 AUD per year at commercial firms and 72,000 AUD per year in government legal departments. In the Australian legal market, ANU JD graduates' hiring rate at ACT-based firms is about 67%, above the national average of 58% for JD graduates.
 
 ## FAQ
 
-### Q1：ANU JD 项目是否接受 GRE 或 GMAT 代替 LSAT？
+### Q1: Does the ANU JD accept GRE or GMAT instead of the LSAT?
+No. Under ANU College of Law's 2024 admissions policy, the LSAT is the only recognised standardised test for law school admission. Applicants must submit an LSAT score, and scores are valid for no more than 5 years. GRE and GMAT scores cannot be substituted.
 
-不接受。根据 ANU 法学院 2024 年招生政策，LSAT 是唯一被认可的法学院入学标准化考试成绩。申请者必须提交 LSAT 成绩，且成绩有效期不超过 5 年。GRE 或 GMAT 成绩无法替代。
+### Q2: How many times a year can I take the LSAT? Does ANU accept superscoring?
+The LSAT is offered 9 times a year (usually monthly, except July). ANU College of Law accepts LSAT superscoring, taking your highest score across multiple sittings as the basis for assessment. However, LSAC limits test-takers to 3 LSATs in any 12-month period and 7 in a lifetime.
 
-### Q2：LSAT 考试每年有几次考试机会？ANU 是否接受拼分？
+### Q3: Does the ANU JD offer a spring intake?
+No. The ANU JD has a single intake each year in February (Semester 1). The application deadline is usually 15 November of the previous year (international students) or 15 December (domestic students). There is no spring or summer intake.
 
-LSAT 每年提供 9 次考试机会（通常为每月一次，7 月除外）。ANU 法学院接受 LSAT 拼分，即取多次考试中的最高分数作为评估依据。但 LSAC 规定，考生在 12 个月内最多参加 3 次 LSAT，终身最多参加 7 次。
-
-### Q3：ANU JD 项目是否提供春季入学选项？
-
-不提供。ANU JD 项目仅设每年 2 月（第一学期）一次入学时间。申请截止日期通常为前一年的 11 月 15 日（国际学生）或 12 月 15 日（国内学生）。无春季或夏季入学选项。
-
-## 参考资料
-
-- 澳大利亚法律教育委员会 2023 年《法律教育年度报告》
-- QS 世界大学排名 2024 年《法律与法律研究学科排名》
-- 澳大利亚教育部 2023 年《高等教育学生数据统计》
-- 法学院招生委员会（LSAC）2023 年《LSAT 考试年度报告》
-- 澳大利亚内政部 2024 年《学生签证资金证明要求》
-- Unilink Education 2024 年《ANU 法学院申请数据库》
+## References
+- Australian Legal Education Committee 2023, Annual Report on Legal Education
+- QS World University Rankings 2024, Law and Legal Studies Subject Rankings
+- Australian Department of Education 2023, Higher Education Student Statistics
+- Law School Admission Council (LSAC) 2023, LSAT Annual Report
+- Australian Department of Home Affairs 2024, Student Visa Financial Capacity Requirements
+- Unilink Education 2024, ANU College of Law Application Database

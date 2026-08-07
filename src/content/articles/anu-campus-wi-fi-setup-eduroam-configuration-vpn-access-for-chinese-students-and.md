@@ -1,6 +1,7 @@
 ---
+slug: anu-campus-wi-fi-setup-eduroam-configuration-vpn-access-for-chinese-students-and
 title: "ANU Campus Wi-Fi Setup: Eduroam Configuration, VPN Access for Chinese Students, and Troubleshooting Connection Drops"
-description: "ANU 主校区与 Acton 及 Kioloa 海岸校区共部署超过 1,200 个 Wi-Fi 6 接入点，覆盖 95% 以上室内教学与生活区域（ANU Information Technology Services, 2024, *Network Infrastructure Report*）。对于来自中国大陆…"
+description: "The ANU main campus, together with the Acton and Kioloa coastal campuses, has more than 1,200 Wi-Fi 6 access points deployed, covering over 95% of indoor teaching and living areas (ANU Information Technology Services, 2024, *Network Infrastructure Report*). For students from mainland China, campus network access poses two special challenges: Eduroam international roaming authentication requires pre-configuring the institutional domain (anu.edu.au), while some academic databases and on-campus systems (such as the Wattle learning management system) may suffer intermittent connection drops during cross-border transmission because of deep packet inspection (DPI) by the Great Firewall of China (GFW). According to the Australian Department of Education's 2023 *International Student Data Summary*, ANU had 3,827 enrolled students of Chinese nationality, accounting for 41.2% of all international students, which means nearly 2 in every 5 students on campus need to deal with cross-border network adaptation issues. Drawing on official ANU technical documentation and real-world test data, this article provides a complete guide from initial configuration to troubleshooting."
 category: "ANU"
 pubDatetime: '2026-05-01T19:59:27Z'
 publishDate: '2026-05-01T19:59:27Z'
@@ -10,105 +11,105 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-wi-fi-setup-eduroam-configuration-vpn-access-for-chinese-students-and-2026-1880x1253.jpg"
 ---
 
-ANU 主校区与 Acton 及 Kioloa 海岸校区共部署超过 1,200 个 Wi-Fi 6 接入点，覆盖 95% 以上室内教学与生活区域（ANU Information Technology Services, 2024, *Network Infrastructure Report*）。对于来自中国大陆的学生，校园网络访问面临两项特殊挑战：Eduroam 国际漫游认证需要预先配置机构域名（anu.edu.au），而部分学术数据库与校内系统（如 Wattle 学习管理系统）在跨境传输中可能因中国防火墙（GFW）的 DPI 检测导致连接间歇性中断。根据澳大利亚教育部 2023 年《国际学生数据摘要》，ANU 注册中国籍学生人数为 3,827 人，占国际学生总数的 41.2%，这意味着每 5 名在校生中就有近 2 人需要处理跨境网络适配问题。本文基于 ANU 官方技术文档与实测数据，提供从初始配置到故障排查的完整指南。
+The ANU main campus, together with the Acton and Kioloa coastal campuses, has more than 1,200 Wi-Fi 6 access points deployed, covering over 95% of indoor teaching and living areas (ANU Information Technology Services, 2024, *Network Infrastructure Report*). For students from mainland China, campus network access poses two special challenges: Eduroam international roaming authentication requires pre-configuring the institutional domain (anu.edu.au), while some academic databases and on-campus systems (such as the Wattle learning management system) may suffer intermittent connection drops during cross-border transmission because of deep packet inspection (DPI) by the Great Firewall of China (GFW). According to the Australian Department of Education's 2023 *International Student Data Summary*, ANU had 3,827 enrolled students of Chinese nationality, accounting for 41.2% of all international students, which means nearly 2 in every 5 students on campus need to deal with cross-border network adaptation issues. Drawing on official ANU technical documentation and real-world test data, this article provides a complete guide from initial configuration to troubleshooting.
 
-## Eduroam 认证配置流程
+## Eduroam authentication setup
 
-**Eduroam** 是 ANU 校园无线网络的主要认证协议，覆盖图书馆、教学楼、宿舍区及部分室外公共空间。首次连接需在设备上安装 ANU 专属配置文件，而非直接输入用户名与密码。
+**Eduroam** is the primary authentication protocol for ANU campus wireless networks, covering libraries, teaching buildings, residence areas, and some outdoor public spaces. On first connection, devices must install the ANU-specific configuration profile rather than simply entering a username and password.
 
-### Windows / macOS 配置步骤
+### Windows / macOS configuration steps
 
-访问 ANU 信息技术服务（ITS）门户（its.anu.edu.au），下载对应操作系统的 **eduroam 安装程序**。运行后输入完整邮箱地址（格式为 `uniID@anu.edu.au`，例如 `u1234567@anu.edu.au`）及 ANU 密码。系统会自动安装根证书并配置 802.1X 认证参数。安装完成后，设备会自动连接至校园内任何 eduroam 信号覆盖区域，无需重复登录。
+Visit the ANU Information Technology Services (ITS) portal (its.anu.edu.au) and download the **eduroam installer** for your operating system. After running it, enter your full email address (in the format `uniID@anu.edu.au`, e.g. `u1234567@anu.edu.au`) and your ANU password. The system automatically installs the root certificate and configures the 802.1X authentication parameters. Once installed, the device automatically connects to any eduroam coverage area on campus without repeated logins.
 
-### iOS / Android 移动设备配置
+### iOS / Android mobile device configuration
 
-在 App Store 或 Google Play 搜索“eduroam”下载官方配置工具（由 GEANT 开发，版本 2.7.0 以上）。选择澳大利亚国立大学作为机构，输入同一组凭证。ANU 官方建议关闭“私有 Wi-Fi 地址”（iOS 14+ 默认开启）以避免认证冲突，该功能会导致 MAC 地址在每次连接时变化，被 RADIUS 服务器视为新设备而拒绝接入。
+Search for "eduroam" in the App Store or Google Play and download the official configuration tool (developed by GEANT, version 2.7.0 or later). Select Australian National University as the institution and enter the same credentials. ANU officially recommends turning off "Private Wi-Fi Address" (enabled by default on iOS 14+) to avoid authentication conflicts: this feature changes the MAC address on every connection, causing the RADIUS server to treat the device as new and refuse access.
 
-### 访客网络与临时凭证
+### Guest network and temporary credentials
 
-未注册 ANU 账户的新生或短期访客可通过 **ANU-Guest** 网络获取 24 小时临时访问权限。连接后浏览器会自动跳转至注册页面，输入姓名与有效邮箱即可生成一次性验证码。ANU 每年处理超过 15,000 次访客网络注册请求（ITS, 2024）。
+New students without an ANU account, or short-term visitors, can get 24-hour temporary access through the **ANU-Guest** network. After connecting, the browser automatically redirects to a registration page where entering your name and a valid email generates a one-time verification code. ANU processes more than 15,000 guest network registration requests a year (ITS, 2024).
 
-## VPN 访问配置与跨境优化
+## VPN configuration and cross-border optimisation
 
-中国学生访问部分 ANU 内部资源（如图书馆电子期刊、MyTimetable、iLearn）时，因 GFW 对 HTTPS 流量的深度包检测，可能出现 **TCP 连接重置**或页面加载超时。ANU 提供两种官方 VPN 解决方案。
+When Chinese students access certain ANU internal resources (such as library e-journals, MyTimetable, and iLearn), the GFW's deep packet inspection of HTTPS traffic can cause **TCP connection resets** or page load timeouts. ANU offers two official VPN solutions.
 
-### Pulse Secure VPN（Windows / macOS）
+### Pulse Secure VPN (Windows / macOS)
 
-ANU ITS 推荐的客户端为 Pulse Secure（版本 9.1R15.6）。安装后输入网关地址 `vpn.anu.edu.au`，使用 ANU 统一凭证登录。该 VPN 采用 **TLS 1.3 加密**，支持 Split Tunneling 模式——仅将学术域名（`*.anu.edu.au`、`*.edu.au`）的流量路由至 VPN 隧道，其余流量仍使用本地网络，从而降低延迟。根据 ANU 2024 年网络监控数据，启用 Split Tunneling 后平均 RTT 从 380ms 降至 95ms。
+The client recommended by ANU ITS is Pulse Secure (version 9.1R15.6). After installation, enter the gateway address `vpn.anu.edu.au` and log in with your ANU unified credentials. This VPN uses **TLS 1.3 encryption** and supports Split Tunneling mode — only academic domains (`*.anu.edu.au`, `*.edu.au`) are routed through the VPN tunnel, while all other traffic uses the local network, reducing latency. According to ANU 2024 network monitoring data, enabling Split Tunneling cut average RTT from 380ms to 95ms.
 
-### OpenVPN 备用方案（Linux / 路由器级）
+### OpenVPN backup option (Linux / router level)
 
-对于需要稳定跨境连接的用户，ANU 同时提供 OpenVPN 配置文件（udp 模式，端口 443）。该配置通过 **obfuscation 插件**混淆握手包特征，可绕过部分 ISP 的 VPN 协议封锁。配置步骤：从 ITS 门户下载 `.ovpn` 文件后，导入 OpenVPN Connect 客户端（版本 3.4.0+），并确保勾选“Use LZO Compression”选项以减少数据包体积。
+For users who need a stable cross-border connection, ANU also provides OpenVPN configuration files (udp mode, port 443). This configuration uses an **obfuscation plugin** to disguise handshake packet characteristics, allowing it to bypass VPN protocol blocking by some ISPs. Setup steps: download the `.ovpn` file from the ITS portal, import it into the OpenVPN Connect client (version 3.4.0+), and make sure the "Use LZO Compression" option is ticked to reduce packet size.
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-wi-fi-setup-eduroam-configuration-vpn-access-for-chinese-students-and) 等专业通道完成结汇，其网络系统与 ANU 财务网关直连，可避免因跨境支付页面超时导致的重复扣款。
+For cross-border tuition payments, some study-abroad families use specialist channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-campus-wi-fi-setup-eduroam-configuration-vpn-access-for-chinese-students-and) to complete their currency transfers; its network systems connect directly to the ANU finance gateway, avoiding duplicate deductions caused by cross-border payment page timeouts.
 
-## 连接中断故障排查
+## Troubleshooting connection drops
 
-Wi-Fi 连接中断是 ANU 校园网络最常见的用户报修类型，占 ITS 全年工单的 34%（2023 年度报告）。以下按优先级列出排查步骤。
+Wi-Fi disconnections are the most common fault reported by ANU campus network users, accounting for 34% of ITS tickets for the year (2023 annual report). The troubleshooting steps below are listed in order of priority.
 
-### 信号干扰与信道拥塞
+### Signal interference and channel congestion
 
-ANU 主校区 **Wi-Fi 频段**同时运行 2.4 GHz 与 5 GHz，其中 5 GHz 频段在高峰时段（上午 10 点至下午 2 点）信道利用率可达 78%。用户可尝试在设备端强制切换至 2.4 GHz（通过关闭“自动频段选择”），牺牲约 40% 理论峰值速率但获得更稳定的连接。在 Chifley Library 三层北侧，实测 2.4 GHz 丢包率仅为 1.2%，而 5 GHz 达 4.7%（ITS Field Test, 2024）。
+The ANU main campus **Wi-Fi bands** run both 2.4 GHz and 5 GHz simultaneously, and the 5 GHz band can reach 78% channel utilisation during peak hours (10 am to 2 pm). Users can try forcing the device onto 2.4 GHz (by turning off "automatic band selection"), sacrificing about 40% of theoretical peak speed for a more stable connection. In field tests on the north side of the third floor of Chifley Library, the 2.4 GHz packet loss rate was just 1.2%, while 5 GHz reached 4.7% (ITS Field Test, 2024).
 
-### DHCP 租约过期与 IP 冲突
+### DHCP lease expiry and IP conflicts
 
-设备长时间休眠后重新连接，可能因 **DHCP 租约**（默认 24 小时）未刷新导致 IP 地址冲突。故障表现为“已连接但无互联网访问”。解决方案：在命令行执行 `ipconfig /release` 后跟 `ipconfig /renew`（Windows）或 `sudo dhclient -r`（macOS/Linux）。ANU 网络架构使用 /16 子网，地址池可容纳 65,534 个终端，但高峰期并发设备数超过 18,000，IP 冲突率约为 0.3%。
+When a device reconnects after a long sleep, an unrefreshed **DHCP lease** (24 hours by default) can cause an IP address conflict. The symptom is "connected but no internet access". The fix: run `ipconfig /release` followed by `ipconfig /renew` in the command line (Windows), or `sudo dhclient -r` (macOS/Linux). The ANU network architecture uses a /16 subnet, whose address pool can hold 65,534 devices, but peak concurrent devices exceed 18,000, giving an IP conflict rate of about 0.3%.
 
-### 证书过期与时间同步错误
+### Certificate expiry and time synchronisation errors
 
-Eduroam 认证依赖 **RADIUS 服务器证书**（由 GEANT 根 CA 签发，有效期至 2028 年）。若设备系统时间与 NTP 服务器偏差超过 300 秒，证书验证将失败。检查方法：访问 `time.anu.edu.au` 确认 NTP 同步状态，或在终端运行 `w32tm /query /status`（Windows）查看时间源。ANU 校园网内所有接入点均强制要求 NTP 同步，但移动设备可能因跨时区切换未更新导致问题。
+Eduroam authentication relies on the **RADIUS server certificate** (issued by the GEANT root CA, valid until 2028). If the device's system time deviates from the NTP server by more than 300 seconds, certificate verification will fail. To check: visit `time.anu.edu.au` to confirm NTP sync status, or run `w32tm /query /status` (Windows) in the terminal to inspect the time source. All access points on the ANU campus network enforce NTP synchronisation, but mobile devices may fail to update after timezone changes.
 
-## 宿舍区与公共区域网络差异
+## Network differences in residences and public areas
 
-ANU 宿舍网络由 **UniLodge** 与 **ANU Accommodation Services** 联合运营，与主校区 Eduroam 网络在认证方式与带宽配额上存在差异。
+The ANU residence network is run jointly by **UniLodge** and **ANU Accommodation Services**, and differs from the main campus Eduroam network in authentication method and bandwidth quotas.
 
-### 宿舍有线网络端口激活
+### Activating wired network ports in residences
 
-入住 Bruce Hall、Ursula College 等宿舍后，房间内的以太网端口需通过宿舍前台提交 MAC 地址方可激活。激活后提供 **100 Mbps 下行 / 40 Mbps 上行**的固定带宽，且不受 Eduroam 无线网络的并发用户数影响。根据 2024 年宿舍网络使用报告，有线连接的平均延迟为 2.3ms，远低于无线连接的 15.8ms。
+After moving into residences such as Bruce Hall or Ursula College, the ethernet port in your room must be activated by submitting your MAC address at the residence front desk. Once activated it provides a fixed bandwidth of **100 Mbps down / 40 Mbps up**, unaffected by the number of concurrent users on the Eduroam wireless network. According to the 2024 residence network usage report, wired connections average 2.3ms latency, far lower than the 15.8ms of wireless connections.
 
-### 公共区域带宽分配策略
+### Bandwidth allocation policy in public areas
 
-在 Kambri 学生中心与 Union Court 等餐饮聚集区，ANU 对每个 Eduroam 客户端实施 **每用户 10 Mbps 带宽上限**，以保障 200+ 并发用户的公平使用。视频流媒体（如 YouTube、Netflix）被归类为“Best Effort”优先级，在高峰时段可能被降速至 2 Mbps 以下。建议在这些区域使用 ANU 提供的有线信息点或迁移至图书馆区域（无带宽上限）。
+In dining and gathering areas such as the Kambri student centre and Union Court, ANU enforces a **per-user 10 Mbps bandwidth cap** on each Eduroam client to ensure fair use among 200+ concurrent users. Video streaming (such as YouTube and Netflix) is classified as "Best Effort" priority and may be throttled to below 2 Mbps during peak hours. In these areas, it is recommended to use ANU's wired access points or move to library areas (which have no bandwidth cap).
 
-## 学术系统专用网络配置
+## Special network configuration for academic systems
 
-部分 ANU 学术系统对网络环境有特殊要求，需在连接 Eduroam 后进行额外配置。
+Some ANU academic systems have special network requirements and need extra configuration after connecting to Eduroam.
 
-### Wattle 学习管理系统访问
+### Wattle learning management system access
 
-**Wattle**（基于 Moodle 4.1）在首次登录时会检测浏览器 WebRTC 功能，若通过 VPN 连接且未启用 Split Tunneling，可能导致视频讲座（Panopto 插件）加载失败。解决方案：在 VPN 客户端中将 `*.wattle.anu.edu.au` 添加至直连列表。ANU ITS 在 2024 年 3 月更新了 CDN 配置，将静态资源迁移至 Cloudflare 全球节点，使中国大陆用户直连延迟从 620ms 降至 210ms。
+**Wattle** (based on Moodle 4.1) checks the browser's WebRTC functionality at first login; if you connect via VPN without Split Tunneling enabled, video lectures (the Panopto plugin) may fail to load. The fix: add `*.wattle.anu.edu.au` to the direct-connection list in your VPN client. In March 2024, ANU ITS updated its CDN configuration, migrating static resources to Cloudflare global nodes, which cut direct-connection latency for mainland China users from 620ms to 210ms.
 
-### 高性能计算集群（Gadi）
+### High-performance computing cluster (Gadi)
 
-访问 ANU 国家计算基础设施（NCI）的 **Gadi 集群**需通过 SSH 隧道，且要求客户端 IP 地址在澳大利亚境内。中国学生若使用境外代理（如 Shadowsocks），需先关闭代理再建立 SSH 连接，否则登录请求会被 NCI 防火墙的 GeoIP 规则拒绝。Gadi 的登录节点 `gadi.nci.org.au` 仅接受来自澳大利亚 IP 段（1.0.0.0/8 及 103.0.0.0/8）的 TCP 端口 22 连接。
+Accessing the **Gadi cluster** at the ANU National Computational Infrastructure (NCI) requires an SSH tunnel, and the client IP address must be within Australia. Chinese students using overseas proxies (such as Shadowsocks) must close the proxy before establishing the SSH connection, otherwise the login request will be rejected by the NCI firewall's GeoIP rules. Gadi's login node `gadi.nci.org.au` only accepts TCP port 22 connections from Australian IP ranges (1.0.0.0/8 and 103.0.0.0/8).
 
-## 网络安全与合规要求
+## Network security and compliance requirements
 
-ANU 网络使用受《ANU IT Acceptable Use Policy》（2023 年修订版）约束，违规行为可能导致账户暂停或学术处罚。
+Use of the ANU network is governed by the *ANU IT Acceptable Use Policy* (2023 revision), and violations can lead to account suspension or academic penalties.
 
-### 设备指纹识别与多因子认证
+### Device fingerprinting and multi-factor authentication
 
-自 2024 年 2 月起，ANU 对所有 VPN 连接启用 **多因子认证（MFA）**，要求使用 Microsoft Authenticator 或 Duo Security 应用生成一次性验证码。同时，网络接入控制系统（NAC）会记录每台设备的操作系统版本、浏览器指纹与地理位置，若检测到来自异常 IP（如俄罗斯或伊朗）的登录尝试，将自动锁定账户 30 分钟。2024 年上半年，NAC 系统共拦截了 2,847 次可疑认证尝试。
+Since February 2024, ANU has enabled **multi-factor authentication (MFA)** for all VPN connections, requiring one-time verification codes generated by the Microsoft Authenticator or Duo Security apps. At the same time, the network access control system (NAC) records each device's operating system version, browser fingerprint, and geographic location; if a login attempt from an unusual IP (such as Russia or Iran) is detected, the account is automatically locked for 30 minutes. In the first half of 2024, the NAC system blocked 2,847 suspicious authentication attempts.
 
-### 数据合规与跨境传输限制
+### Data compliance and cross-border transfer restrictions
 
-根据澳大利亚《隐私法 1988》（Privacy Act 1988）与《高等教育支持法 2003》，ANU 禁止通过未加密的公共 Wi-Fi 传输学生记录、成绩单或研究数据。中国学生需注意，使用个人 VPN 或代理软件访问校内系统时，若该软件将流量路由至中国大陆境内的服务器，可能违反 ANU 的“数据驻留”规定（要求学术数据存储于澳大利亚或新西兰境内）。违规者可能面临 ITS 账户临时冻结，直至提交书面解释。
+Under Australia's *Privacy Act 1988* and the *Higher Education Support Act 2003*, ANU prohibits transmitting student records, transcripts, or research data over unencrypted public Wi-Fi. Chinese students should note that if personal VPN or proxy software routes traffic through servers on the Chinese mainland, this may breach ANU's "data residency" rules (which require academic data to be stored in Australia or New Zealand). Offenders may face a temporary freeze of their ITS account until a written explanation is submitted.
 
 ## FAQ
 
-### Q1：在宿舍连接 Eduroam 时提示“认证失败”，如何解决？
+### Q1: Eduroam shows "authentication failed" in my residence — how do I fix it?
 
-认证失败最常见的原因是密码过期或账户被锁定。ANU 密码有效期为 180 天，到期前 14 天会通过邮件提醒。若已过期，需通过 `password.anu.edu.au` 重置。若账户因多次错误尝试被锁定（阈值：连续 5 次），锁定时间持续 15 分钟。此外，检查设备是否启用了“随机 MAC 地址”（iOS/Android 默认开启），关闭该功能后重试，成功率可提升至 92%。
+The most common cause of authentication failure is an expired password or a locked account. ANU passwords are valid for 180 days, with an email reminder 14 days before expiry. If it has expired, reset it via `password.anu.edu.au`. If the account is locked after too many wrong attempts (threshold: 5 consecutive failures), the lock lasts 15 minutes. Also check whether the device has "random MAC address" enabled (default on iOS/Android); turning it off and retrying raises the success rate to 92%.
 
-### Q2：中国大陆学生能否在假期回国时访问 ANU 校内资源？
+### Q2: Can students from mainland China access ANU on-campus resources when back home during the holidays?
 
-可以，但需使用 ANU 官方 VPN（Pulse Secure 或 OpenVPN）。回国后，因 GFW 对 VPN 协议的限制，建议优先使用 OpenVPN 的 obfuscation 模式（端口 443）。根据 2023 年 ANU 国际学生调查，约 67% 的中国学生报告回国后 VPN 连接成功率低于 50%，主要原因是 ISP 对 UDP 流量的限速。替代方案：通过 ANU 图书馆的 EZProxy 服务（`ezproxy.anu.edu.au`）直接访问数据库，无需完整 VPN 隧道。
+Yes, but you must use the official ANU VPN (Pulse Secure or OpenVPN). After returning home, because the GFW restricts VPN protocols, it is recommended to use OpenVPN's obfuscation mode first (port 443). According to a 2023 ANU international student survey, about 67% of Chinese students reported a VPN connection success rate below 50% after returning home, mainly because ISPs throttle UDP traffic. Alternative: use the ANU Library's EZProxy service (`ezproxy.anu.edu.au`) to access databases directly, without a full VPN tunnel.
 
-### Q3：校园网连接经常断线，是否与设备数量有关？
+### Q3: My campus network connection keeps dropping — is it related to the number of devices?
 
-是的。ANU 校园网设计并发用户容量为 22,000 台设备，但 2024 年第一学期高峰时段（上午 11 点）实际并发数达到 19,847 台，接近容量上限。当用户数超过 18,000 时，每个接入点的 **客户端关联表**（Association Table）溢出，导致新设备无法完成 4-way handshake。建议避开高峰时段（10:00-14:00）使用，或迁移至有线网络。在 Chifley Library 和 Hancock Library 的有线区，丢包率始终低于 0.1%。
+Yes. The ANU campus network is designed for 22,000 concurrent devices, but during the peak period of Semester 1 2024 (11 am) actual concurrency reached 19,847 devices, close to the capacity limit. When user numbers exceed 18,000, the **association table** of each access point overflows, preventing new devices from completing the 4-way handshake. Avoid peak hours (10:00-14:00) or switch to wired connections. In the wired areas of Chifley Library and Hancock Library, packet loss is consistently below 0.1%.
 
-## 参考资料
+## References
 
 - ANU Information Technology Services. 2024. *Network Infrastructure Report*.
 - Australian Department of Education. 2023. *International Student Data Summary*.

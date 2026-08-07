@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生租房合同审核要点与押金纠纷处理"
-description: "澳大利亚首都领地（ACT）是澳大利亚全境押金纠纷率最高的地区之一。根据ACT司法与社区安全局（JACS）2023-24年度报告，该年度ACT民事与行政仲裁庭（ACAT）受理的租赁押金争议案件达1,427件，其中涉及ANU国际学生的案件占比约18%。与此同时，ANU 2024年国际学生入学人数为10,432人，较2…"
+slug: anu-国际学生租房合同审核要点与押金纠纷处理
+title: "ANU International Student Rental Contract Checklist and Bond Dispute Resolution"
+description: "The Australian Capital Territory (ACT) has one of the highest rates of rental bond disputes in Australia. According to the ACT Justice and Community Safety Directorate's (JACS) 2023-24 annual report, the ACT Civil and Administrative Tribunal (ACAT) heard 1,427 rental bond disputes that year, with cases involving ANU international students accounting for around 18%. Meanwhile, ANU enrolled 10,432 international students in 2024, up 9.7% on 2023 (ANU official annual data), making rental contract disputes one of the main legal risks facing the university's international students. Drawing on the ACT Residential Tenancies Act 2022 and ACAT case law, this article walks through the key contract clauses to check and the bond recovery process."
 category: "ANU 国际学生租房合同"
 pubDatetime: '2026-03-08T19:48:38Z'
 publishDate: '2026-03-08T19:48:38Z'
@@ -10,96 +11,119 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生租房合同审核要点与押金纠纷处理-2026-1880x1253.jpg"
 ---
 
-澳大利亚首都领地（ACT）是澳大利亚全境押金纠纷率最高的地区之一。根据ACT司法与社区安全局（JACS）2023-24年度报告，该年度ACT民事与行政仲裁庭（ACAT）受理的租赁押金争议案件达1,427件，其中涉及ANU国际学生的案件占比约18%。与此同时，ANU 2024年国际学生入学人数为10,432人，较2023年增长9.7%（ANU官方年度数据），租房合同纠纷已成为该校国际学生面临的主要法律风险之一。本文基于ACT《2022年住宅租赁法》及ACAT判例，系统梳理合同审核关键条款与押金追索程序。
+The Australian Capital Territory (ACT) has one of the highest rates of rental bond disputes in Australia. According to the ACT Justice and Community Safety Directorate's (JACS) 2023-24 annual report, the ACT Civil and Administrative Tribunal (ACAT) heard 1,427 rental bond disputes that year, with cases involving ANU international students accounting for around 18%. Meanwhile, ANU enrolled 10,432 international students in 2024, up 9.7% on 2023 (ANU official annual data), making rental contract disputes one of the main legal risks facing the university's international students. Drawing on the ACT Residential Tenancies Act 2022 and ACAT case law, this article walks through the key contract clauses to check and the bond recovery process.
 
-## 租赁合同核心条款审核
+## Key Clauses to Review in a Rental Contract
 
-### 固定期限与续租条款
-ACT法律要求所有住宅租赁合同必须明确标注**固定期限**（Fixed Term）的起止日期。根据ACT《2022年住宅租赁法》第22条，固定期限合同到期后若未签署新合同，自动转为**周期性租赁**（Periodic Tenancy），此时房东或租客均可提前26天发出终止通知。ANU国际学生常遇到的陷阱是合同包含“自动续租”条款——该条款在ACT属于无效条款，因为法律赋予租客在合同到期前14天内书面拒绝续租的权利（ACT JACS, 2023, Residential Tenancies Act Fact Sheet）。审核时应注意合同是否出现“Automatic Renewal”或“Rolling Over”字样，若有应要求删除。
+### Fixed Terms and Renewal Clauses
 
-### 租金涨幅限制
-ACT对租金上涨设有严格上限。根据ACT《2022年住宅租赁法》第68条，**周期性租赁**的租金每12个月只能调整一次，涨幅不得超过ACT租金指数（Rental Index）的110%。2024年ACT租金指数为4.7%（ACT政府统计局, 2024, Rental Index Report），因此2024-25年度合法涨幅上限为5.17%。合同若出现“租金每年按CPI调整”或“房东可随时调整租金”等表述，均违反ACT法律。国际学生应要求合同明确写入“租金调整仅依据ACT租金指数且每12个月一次”。
+ACT law requires every residential tenancy agreement to state the **fixed term** start and end dates explicitly. Under section 22 of the ACT Residential Tenancies Act 2022, if a fixed-term agreement ends and no new one is signed, it automatically becomes a **periodic tenancy**, at which point either the landlord or the tenant can end it with 26 days' notice. A trap ANU international students frequently hit is the "automatic renewal" clause — this clause is void in the ACT, because the law gives tenants the right to refuse renewal in writing within 14 days before the agreement ends (ACT JACS, 2023, Residential Tenancies Act Fact Sheet). When reviewing a contract, look for the words "Automatic Renewal" or "Rolling Over" and, if present, ask for them to be deleted.
 
-### 维修责任划分
-ACT法律将维修分为**紧急维修**（Urgent Repairs）和**非紧急维修**（Non-urgent Repairs）。紧急维修包括水管爆裂、电路故障、燃气泄漏、马桶堵塞等（ACT《2022年住宅租赁法》第56条）。租客在紧急维修中可自行联系持牌技工，费用由房东承担，单次上限为2,500澳元。非紧急维修则需书面通知房东，房东有14天响应时间。合同若试图将维修责任完全转移给租客（如“租客承担所有小修费用”），该条款因违反ACT消费者保护法而无效（ACT Fair Trading, 2023, Tenant Rights Guide）。
+### Rent Increase Limits
 
-## 押金缴纳与登记流程
+The ACT caps rent increases strictly. Under section 68 of the ACT Residential Tenancies Act 2022, the rent on a **periodic tenancy** can only be adjusted once every 12 months, and the increase must not exceed 110% of the ACT Rental Index. The 2024 ACT Rental Index was 4.7% (ACT Government Statistics, 2024, Rental Index Report), so the lawful maximum increase for 2024-25 is 5.17%. Any contract wording such as "rent adjusted annually by CPI" or "landlord may adjust rent at any time" breaches ACT law. International students should insist the contract state in writing that "rent adjustments follow the ACT Rental Index only, and occur no more than once every 12 months."
 
-### 押金上限与缴纳方式
-ACT法律规定押金（Bond）金额不得超过**4周租金**（ACT《2022年住宅租赁法》第30条）。以ANU周边一居室公寓2024年平均周租金520澳元计算（ANU Accommodation Services, 2024, Off-Campus Rental Survey），押金上限为2,080澳元。房东或中介不得要求额外押金、保证金或“钥匙押金”。押金必须通过ACT官方的**租赁押金在线系统**（RTBO）缴纳，该系统由ACT收入办公室运营。租客在缴纳押金后应收到RTBO发出的确认邮件，内含押金编号（Bond Number）。若房东要求现金支付或转账至个人账户，可能涉及非法操作。
+### Repair Responsibility
 
-### 押金登记时限
-房东或中介必须在收到押金后的**10个工作日**内完成RTBO登记（ACT《2022年住宅租赁法》第31条）。租客可通过RTBO官网使用押金编号查询登记状态。如果超过10个工作日仍未登记，租客可向ACT民事与行政仲裁庭（ACAT）申请强制登记令，房东可能面临最高5,000澳元的罚款（ACT JACS, 2023, Penalty Guidelines）。国际学生应保留押金支付凭证，并在支付后第7个工作日主动查询登记状态。
+ACT law divides repairs into **urgent repairs** and **non-urgent repairs**. Urgent repairs include burst pipes, electrical faults, gas leaks and blocked toilets (ACT Residential Tenancies Act 2022, section 56). For urgent repairs the tenant may contact a licensed tradesperson directly, with the cost borne by the landlord, capped at $2,500 per incident. Non-urgent repairs require written notice to the landlord, who has 14 days to respond. Any clause that tries to shift all repair responsibility onto the tenant (such as "tenant bears all minor repair costs") is void because it breaches ACT consumer protection law (ACT Fair Trading, 2023, Tenant Rights Guide).
 
-### 共同租客的押金分摊
-多位ANU学生合租时，押金可以按比例分摊，但**每位租客**必须单独在RTBO系统中登记为“押金持有人”（Bond Holder）。ACT法律不允许将押金登记在一人名下而其他租客作为“非登记方”。根据ACAT 2023年判例（ACAT Case No. 2023/456），若合租中仅一人登记押金，退租时该人可单方面决定押金分配，其他租客无法律追索权。因此，合租合同应要求所有租客均在RTBO中单独登记。
+## Paying and Registering the Bond
 
-## 退租与押金扣除标准
+### Bond Cap and Payment Methods
 
-### 正常磨损与损坏界定
-ACT法律明确区分**正常磨损**（Fair Wear and Tear）和**损坏**（Damage）。正常磨损包括墙面轻微褪色、地毯因使用而产生的轻微压痕、窗帘因日照轻微老化等。损坏则包括墙面洞孔、地毯污渍无法清除、家具破损等。根据ACT Fair Trading 2023年发布的《押金扣除标准指南》，房东不得因正常磨损扣除押金，且扣除金额必须基于实际维修收据，而非估算。例如，墙面重新刷漆费用若为800澳元，但实际受损面积仅占10%，则最多扣除80澳元。
+ACT law caps the bond at **4 weeks' rent** (ACT Residential Tenancies Act 2022, section 30). Based on the 2024 average weekly rent of $520 for a one-bedroom apartment near ANU (ANU Accommodation Services, 2024, Off-Campus Rental Survey), the maximum bond is $2,080. Landlords and agents may not demand extra deposits, guarantees or "key money". The bond must be lodged through the ACT's official **Rental Bonds Online** (RTBO) system, run by the ACT Revenue Office. After paying, the tenant should receive a confirmation email from RTBO containing a bond number. If a landlord asks for cash or a transfer to a personal account, the arrangement is likely unlawful.
 
-### 清洁标准与争议
-ACT法律不要求租客提供专业清洁收据，但要求房屋交还状态与入住时一致（ACT《2022年住宅租赁法》第63条）。入住时的**房屋状况报告**（Condition Report）是判断清洁标准的唯一法律依据。该报告应在入住后3个工作日内由双方签字确认。若房东主张清洁不达标，必须提供入住时与退租时的对比照片。ACAT 2024年数据显示，押金纠纷中约34%的案件涉及清洁问题，其中62%的租客因未保留入住照片而败诉（ACAT, 2024, Annual Dispute Statistics）。建议国际学生在入住当天拍摄每面墙、每块地毯、每个角落的高清照片，并上传至云端保存。
+### Bond Registration Deadline
 
-### 押金退还时间线
-租客退租后，房东或中介必须在**14个工作日**内提交押金退还申请（ACT《2022年住宅租赁法》第34条）。若双方无争议，RTBO将在5个工作日内将押金退还至租客账户。若房东提出扣除要求，租客有14天时间回应。若逾期未回应，RTBO将默认同意房东的扣除方案。因此，国际学生应在退租后立即登录RTBO系统，密切关注押金状态，并在收到房东扣除通知后7天内提出异议。
+The landlord or agent must register the bond with RTBO within **10 business days** of receiving it (ACT Residential Tenancies Act 2022, section 31). Tenants can check the registration status on the RTBO website using their bond number. If more than 10 business days pass with no registration, the tenant can apply to ACAT for an order compelling registration, and the landlord can face a fine of up to $5,000 (ACT JACS, 2023, Penalty Guidelines). International students should keep their bond payment receipt and check the registration status on the 7th business day after paying.
 
-## 押金纠纷处理程序
+### Splitting the Bond Between Housemates
 
-### 内部协商阶段
-押金纠纷的第一阶段是**内部协商**。租客应以书面形式（邮件或RTBO系统内消息）向房东或中介提出异议，附上入住与退租对比照片、维修收据等证据。ACT Fair Trading建议租客在协商信中明确引用ACT《2022年住宅租赁法》相关条款，例如“根据第63条，正常磨损不应扣除押金”。协商期限通常为14天。根据ACAT 2023年数据，约41%的押金纠纷在此阶段达成和解（ACAT, 2023, Dispute Resolution Report）。
+When several ANU students share a property, the bond can be split proportionally, but **each tenant** must be individually registered with RTBO as a bond holder. ACT law does not allow the bond to be registered in one person's name while others are "unregistered parties". Under a 2023 ACAT ruling (ACAT Case No. 2023/456), if only one housemate registers the bond, that person can unilaterally decide how it is divided when the tenancy ends, and the other tenants have no legal recourse. Shared-tenancy contracts should therefore require every tenant to register individually with RTBO.
 
-### ACAT仲裁申请
-若协商失败，租客可向**ACT民事与行政仲裁庭**（ACAT）申请仲裁。申请费用为85澳元（2024年标准），若租客胜诉，该费用可要求房东承担。ACAT仲裁申请可通过其官网在线提交，需上传租赁合同、押金登记证明、房屋状况报告、协商记录等文件。ACAT通常会在申请后30天内安排听证会（ACAT, 2024, Service Standards）。听证会可通过视频会议方式参加，对国际学生无需亲自到场。
+## Moving Out and Bond Deductions
 
-### 仲裁裁决与执行
-ACAT仲裁裁决具有法律约束力。若房东拒不执行裁决，租客可向ACT地方法院申请**强制执行令**。根据ACT《2022年住宅租赁法》第89条，拒不执行ACAT裁决的房东可能面临最高10,000澳元的罚款，并可能被列入ACT租赁黑名单。2023年ACAT共发出127份强制执行令，其中96%的押金在30天内全额退还（ACT JACS, 2023, Enforcement Report）。国际学生应保留ACAT裁决书副本，作为未来签证申请或信用记录的法律文件。
+### Fair Wear and Tear vs Damage
 
-## 合同终止与提前解约
+ACT law draws a clear line between **fair wear and tear** and **damage**. Fair wear and tear includes slight wall fading, light carpet indentations from use, and curtains ageing from sunlight. Damage means holes in walls, carpet stains that cannot be removed, or broken furniture. Under ACT Fair Trading's 2023 Bond Deduction Guidelines, landlords cannot deduct for fair wear and tear, and any deduction must be based on actual repair receipts, not estimates. For example, if repainting a wall costs $800 but the damaged area is only 10% of the surface, the maximum deduction is $80.
 
-### 提前解约的法律依据
-ACT法律允许租客在特定情况下**提前解约**而无需支付违约金：包括房屋严重不适宜居住（如霉菌、结构问题）、房东未履行维修义务、租客遭受家庭暴力等（ACT《2022年住宅租赁法》第78条）。在这些情况下，租客只需提供28天书面通知。若因个人原因（如转学、回国）提前解约，租客需支付**解约费**（Break Fee），金额为4周租金或合同剩余租金的25%，取较低者。ANU国际学生若因签证取消或学业中断而提前解约，可凭相关证明向ACAT申请减免解约费。
+### Cleaning Standards and Disputes
 
-### 转租与合同转让
-ACT法律允许租客在房东同意下进行**转租**（Subletting）或**合同转让**（Assignment of Tenancy）。房东不得无理拒绝，若拒绝需在14天内提供书面理由（ACT《2022年住宅租赁法》第45条）。转租时，原租客仍对合同负连带责任；合同转让后，原租客责任终止。ANU国际学生若提前回国，建议优先选择合同转让而非转租，以避免后续纠纷。合同转让需三方（原租客、新租客、房东）签署转让协议，并在RTBO系统中更新押金持有人信息。
+ACT law does not require tenants to provide professional cleaning receipts, but the property must be returned in the same condition it was in at move-in (ACT Residential Tenancies Act 2022, section 63). The **condition report** completed at move-in is the only legally recognised benchmark for cleaning standards. Both parties must sign it within 3 business days of the tenancy starting. If the landlord claims the cleaning was substandard, they must produce comparison photos from move-in and move-out. ACAT 2024 data shows around 34% of bond disputes involve cleaning issues, and 62% of tenants in those cases lost because they had not kept move-in photos (ACAT, 2024, Annual Dispute Statistics). International students should photograph every wall, carpet and corner in high resolution on the day they move in and save the images to the cloud.
 
-## 常见合同陷阱与应对
+### Bond Refund Timeline
 
-### 口头承诺与书面条款冲突
-ACT法律遵循**书面合同优先**原则。房东或中介在看房时的口头承诺（如“可以养宠物”“租金包含水电网”）若未写入合同，法律上无效。根据ACAT 2023年判例（ACAT Case No. 2023/789），租客仅凭微信聊天记录主张口头承诺，因无法证明承诺真实性而败诉。所有承诺必须写入合同附件，并由双方签字确认。建议国际学生在签署合同前，将房东的口头承诺以邮件形式书面确认，并保留截图。
+After the tenant moves out, the landlord or agent must lodge the bond refund application within **14 business days** (ACT Residential Tenancies Act 2022, section 34). If there is no dispute, RTBO refunds the bond to the tenant's account within 5 business days. If the landlord claims a deduction, the tenant has 14 days to respond. If the tenant does not respond in time, RTBO will accept the landlord's deduction by default. International students should therefore log into RTBO immediately after moving out, keep an eye on the bond status, and lodge an objection within 7 days of receiving a deduction notice.
 
-### “标准条款”中的隐藏费用
-部分中介合同包含“标准条款”如“行政管理费”（Administration Fee）每年150澳元、“续租手续费”100澳元等。ACT Fair Trading 2023年明确声明，这些费用属于**非法收费**，因为ACT法律仅允许收取租金和押金，禁止任何额外费用（ACT Fair Trading, 2023, Prohibited Fees List）。国际学生若发现此类条款，应要求删除；若已支付，可向ACT Fair Trading投诉并要求退款，投诉处理周期通常为30天。
+## The Bond Dispute Resolution Process
 
-### 保险与维修责任模糊
-合同若包含“租客需购买租客保险”（Contents Insurance）条款，应确认该保险是否覆盖第三方责任。ACT法律不强制要求租客购买保险，但建议国际学生购买，因为房东的房屋保险不覆盖租客个人财产。合同若写“租客承担所有维修费用”，该条款违反ACT法律，租客可拒绝签署。正确的做法是要求合同明确列出租客与房东的维修责任清单，并引用ACT《2022年住宅租赁法》第56-60条。
+### The Internal Negotiation Stage
 
-## 维权资源与法律援助
+The first stage of a bond dispute is **internal negotiation**. The tenant should raise the objection in writing (by email or through RTBO's messaging) to the landlord or agent, attaching move-in/move-out comparison photos, repair receipts and other evidence. ACT Fair Trading advises tenants to cite the relevant provisions of the ACT Residential Tenancies Act 2022 in the negotiation letter — for example, "under section 63, fair wear and tear should not be deducted from the bond." Negotiation typically runs for 14 days. According to ACAT 2023 data, about 41% of bond disputes are settled at this stage (ACAT, 2023, Dispute Resolution Report).
+
+### Applying for ACAT Arbitration
+
+If negotiation fails, the tenant can apply for arbitration at the **ACT Civil and Administrative Tribunal** (ACAT). The application fee is $85 (2024 rate), and if the tenant wins, the landlord can be ordered to cover it. ACAT applications are submitted online through the Tribunal's website, and require the tenancy agreement, bond registration proof, condition report and negotiation records. ACAT usually schedules a hearing within 30 days of the application (ACAT, 2024, Service Standards). Hearings can be attended by video conference, so international students do not need to appear in person.
+
+### Arbitration Decisions and Enforcement
+
+ACAT arbitration decisions are legally binding. If a landlord refuses to comply, the tenant can apply to the ACT Magistrates Court for an **enforcement order**. Under section 89 of the ACT Residential Tenancies Act 2022, a landlord who fails to comply with an ACAT decision can face a fine of up to $10,000 and may be placed on the ACT rental blacklist. In 2023 ACAT issued 127 enforcement orders, and 96% of the bonds involved were refunded in full within 30 days (ACT JACS, 2023, Enforcement Report). International students should keep a copy of the ACAT decision as a legal document for future visa applications or credit records.
+
+## Ending a Tenancy Early
+
+### Legal Grounds for Early Termination
+
+ACT law allows tenants to **end a tenancy early** without penalty in specific circumstances: the property is seriously unfit to live in (for example, mould or structural problems), the landlord has failed to meet repair obligations, or the tenant is experiencing domestic violence (ACT Residential Tenancies Act 2022, section 78). In these cases the tenant only needs to give 28 days' written notice. If the early departure is for personal reasons (such as transferring universities or returning home), the tenant must pay a **break fee** of either 4 weeks' rent or 25% of the remaining rent under the contract, whichever is lower. ANU international students who have to end a lease early because their visa was cancelled or their studies were interrupted can apply to ACAT with supporting documents to have the break fee reduced.
+
+### Subletting and Assigning the Tenancy
+
+ACT law allows tenants to **sublet** or **assign the tenancy** with the landlord's consent. The landlord cannot unreasonably refuse, and any refusal must be given in writing with reasons within 14 days (ACT Residential Tenancies Act 2022, section 45). With subletting, the original tenant remains jointly liable under the contract; with an assignment, the original tenant's liability ends. ANU international students heading home early should prefer an assignment over subletting to avoid later disputes. An assignment requires a tripartite agreement (original tenant, new tenant and landlord) and the bond holder details must be updated in RTBO.
+
+## Common Contract Traps and How to Handle Them
+
+### Verbal Promises vs Written Clauses
+
+ACT law follows the **written contract prevails** principle. Verbal promises made during inspections (such as "pets are fine" or "rent includes water, electricity and internet") have no legal force unless written into the contract. Under a 2023 ACAT ruling (ACAT Case No. 2023/789), a tenant who relied on WeChat chat records to assert a verbal promise lost the case because the promise's authenticity could not be proven. Every promise must be written into the contract annex and signed by both parties. Before signing, international students should confirm the landlord's verbal promises in writing by email and keep screenshots.
+
+### Hidden Fees in "Standard Clauses"
+
+Some agency contracts include "standard clauses" such as a $150-a-year "Administration Fee" or a $100 "renewal handling fee". ACT Fair Trading stated clearly in 2023 that these charges are **unlawful**, because ACT law only permits rent and bond to be collected and prohibits any additional fees (ACT Fair Trading, 2023, Prohibited Fees List). International students who find such clauses should ask for them to be removed; if they have already paid, they can complain to ACT Fair Trading and request a refund — complaints are usually resolved within 30 days.
+
+### Vague Insurance and Repair Clauses
+
+If a contract includes a clause requiring the tenant to buy **contents insurance**, check whether it covers third-party liability. ACT law does not compel tenants to take out insurance, but it is recommended for international students, because the landlord's building insurance does not cover the tenant's personal belongings. A clause saying "tenant bears all repair costs" breaches ACT law and should be refused. The right approach is to insist the contract spell out a clear division of repair responsibilities between tenant and landlord, citing sections 56-60 of the ACT Residential Tenancies Act 2022.
+
+## Resources for Asserting Your Rights
 
 ### ACT Fair Trading
-ACT Fair Trading是负责租赁纠纷行政调解的政府机构。国际学生可通过其官网提交投诉，或拨打1300 133 088热线咨询。Fair Trading不提供法律代理，但可出具**调解建议函**（Letter of Advice），该函件在ACAT仲裁中可作为证据。2023年Fair Trading共处理租赁投诉2,847件，其中涉及国际学生的案件占22%（ACT Fair Trading, 2023, Annual Report）。
 
-### ANU法律服务中心
-ANU法律服务中心（ANU Legal Service）为在校学生提供**免费法律咨询**，服务范围包括租赁合同审核、押金纠纷、签证问题等。该中心位于校园内的Diploma Building，每周一至周五上午9点至下午5点开放。学生需提前预约，首次咨询免费，后续服务按收入评估收费。2024年该中心处理租赁案件158件，胜诉率约73%（ANU Legal Service, 2024, Service Statistics）。跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%A7%9F%E6%88%BF%E5%90%88%E5%90%8C%E5%AE%A1%E6%A0%B8%E8%A6%81%E7%82%B9%E4%B8%8E%E6%8A%BC%E9%87%91%E7%BA%A0%E7%BA%B7%E5%A4%84%E7%90%86) 等专业通道完成结汇。
+ACT Fair Trading is the government body that mediates rental disputes administratively. International students can lodge complaints through its website or call 1300 133 088 for advice. Fair Trading does not provide legal representation, but it can issue a **Letter of Advice**, which can be used as evidence in ACAT arbitration. In 2023 Fair Trading handled 2,847 rental complaints, 22% of them involving international students (ACT Fair Trading, 2023, Annual Report).
 
-### 社区法律中心
-ACT社区法律中心（Caretakers Community Legal Centre）提供免费法律代理服务，但需满足收入条件（个人年收入低于45,000澳元）。该中心位于Canberra City的London Circuit，可协助国际学生准备ACAT仲裁材料。2023年该中心代理租赁案件89件，其中押金纠纷占67%（Caretakers CLC, 2023, Case Summary）。国际学生也可通过ACT法律援助委员会（Legal Aid ACT）申请免费律师，但需提供收入证明和签证状态。
+### ANU Legal Service
+
+The ANU Legal Service offers **free legal advice** to enrolled students, covering rental contract review, bond disputes, visa issues and more. The centre is in the Diploma Building on campus and is open Monday to Friday, 9 am to 5 pm. Appointments are required; the first consultation is free and follow-up services are charged on an income-assessed basis. In 2024 the centre handled 158 rental cases with a win rate of around 73% (ANU Legal Service, 2024, Service Statistics). For cross-border tuition payments, some families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%A7%9F%E6%88%BF%E5%90%88%E5%90%8C%E5%AE%A1%E6%A0%B8%E8%A6%81%E7%82%B9%E4%B8%8E%E6%8A%BC%E9%87%91%E7%BA%A0%E7%BA%B7%E5%A4%84%E7%90%86) to convert and remit the funds.
+
+### Community Legal Centres
+
+The Caretakers Community Legal Centre offers free legal representation, subject to an income test (individual annual income below $45,000). Located on London Circuit in Canberra City, it can help international students prepare ACAT arbitration materials. In 2023 the centre handled 89 rental cases, 67% of them bond disputes (Caretakers CLC, 2023, Case Summary). International students can also apply to Legal Aid ACT for a free lawyer, but must provide income evidence and their visa status.
 
 ## FAQ
 
-### Q1：房东可以扣押全部押金吗？
-ACT法律禁止房东无依据扣押全部押金。根据ACT《2022年住宅租赁法》第35条，押金扣除必须基于实际损失，且损失金额需有收据或报价单支持。2023年ACAT受理的押金纠纷中，仅2.3%的案件支持房东扣除全部押金，且均为租客造成严重结构性损坏（如墙体拆除、地板水浸）的案件（ACAT, 2023, Annual Report）。若房东主张扣除全部押金，租客应立即向ACAT申请仲裁。
+### Q1: Can a landlord withhold my entire bond?
 
-### Q2：退租后多久能拿回押金？
-若双方无争议，RTBO在收到退租确认后5个工作日内退还押金。若房东提出扣除要求，租客有14天回应期；若双方协商失败，ACAT仲裁需30天。因此，从退租到押金到账，无争议情况下约5-10个工作日，有争议情况下约45-60天（ACT JACS, 2024, Bond Processing Timeline）。国际学生应在退租当天提交RTBO退还申请，以缩短等待时间。
+ACT law prohibits landlords from withholding a full bond without justification. Under section 35 of the ACT Residential Tenancies Act 2022, deductions must be based on actual losses supported by receipts or quotes. Of the bond disputes ACAT heard in 2023, only 2.3% resulted in the landlord being allowed to keep the whole bond, and those all involved serious structural damage caused by the tenant (such as wall demolition or flooded flooring) (ACAT, 2023, Annual Report). If a landlord claims the full bond, apply for ACAT arbitration immediately.
 
-### Q3：合租室友不付房租，我要负责吗？
-ACT法律中，合租合同若为**联合租赁**（Joint Tenancy），每位租客对全部租金承担连带责任。若一人不付房租，房东可向其他租客追索全部欠款。2023年ACAT受理的联合租赁纠纷中，34%的案件涉及租客因室友欠租而被追索（ACAT, 2023, Joint Tenancy Cases）。若为**独立租赁**（Separate Tenancy），每位租客仅对自己房间的租金负责。国际学生应在签署合同时明确合同类型，并在合租前要求室友提供收入证明或担保人。
+### Q2: How long after moving out does the bond take to come back?
+
+If there is no dispute, RTBO refunds the bond within 5 business days of receiving the move-out confirmation. If the landlord claims a deduction, the tenant has a 14-day response period; if negotiation fails, ACAT arbitration takes 30 days. All up, expect about 5-10 business days in an undisputed case and roughly 45-60 days where there is a dispute (ACT JACS, 2024, Bond Processing Timeline). International students should submit the RTBO refund application on the day they move out to shorten the wait.
+
+### Q3: If my housemate stops paying rent, am I responsible?
+
+Under ACT law, if the shared tenancy is a **joint tenancy**, every tenant is jointly and severally liable for the full rent. If one person stops paying, the landlord can pursue the other tenants for the entire arrears. In the joint tenancy disputes ACAT heard in 2023, 34% involved tenants being pursued because of a housemate's unpaid rent (ACAT, 2023, Joint Tenancy Cases). Under a **separate tenancy**, each tenant is responsible only for the rent on their own room. International students should confirm the contract type before signing and ask housemates for income proof or a guarantor before moving in together.
 
 ## 参考资料
-- ACT司法与社区安全局（JACS）. 2023. *Residential Tenancies Act Fact Sheet*.
-- ACT政府统计局. 2024. *Rental Index Report*.
-- ACT民事与行政仲裁庭（ACAT）. 2024. *Annual Dispute Statistics*.
+- ACT Justice and Community Safety Directorate (JACS). 2023. *Residential Tenancies Act Fact Sheet*.
+- ACT Government Statistics. 2024. *Rental Index Report*.
+- ACT Civil and Administrative Tribunal (ACAT). 2024. *Annual Dispute Statistics*.
 - ACT Fair Trading. 2023. *Tenant Rights Guide*.
 - UNILINK Education. 2024. *ANU International Student Rental Database*.

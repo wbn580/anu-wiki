@@ -1,6 +1,7 @@
 ---
+slug: anu-centre-for-advanced-microscopy-sem-and-tem-training-pathways-booking-rules-a
 title: "ANU Centre for Advanced Microscopy: SEM and TEM Training Pathways, Booking Rules, and Sample Preparation Standards"
-description: "澳大利亚国立大学（ANU）的先进显微镜中心（Centre for Advanced Microscopy, CAM）是澳大利亚国家显微镜网络（Australian Microscopy & Microanalysis Research Facility, AMMRF）的核心节点之一。该中心配备超过15台电子显微镜…"
+description: "The ANU Centre for Advanced Microscopy (CAM) is a core node of the Australian Microscopy & Microanalysis Research Facility (AMMRF). Equipped with more than 15 electron microscopes worth over A$25 million, it provides technical support to more than 400 researchers and graduate students every year. This guide covers CAM's training pathways, equipment booking rules, and sample preparation standards."
 category: "ANU"
 pubDatetime: '2026-05-16T20:02:18Z'
 publishDate: '2026-05-16T20:02:18Z'
@@ -10,116 +11,119 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-centre-for-advanced-microscopy-sem-and-tem-training-pathways-booking-rules-a-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）的先进显微镜中心（Centre for Advanced Microscopy, CAM）是澳大利亚国家显微镜网络（Australian Microscopy & Microanalysis Research Facility, AMMRF）的核心节点之一。该中心配备超过15台电子显微镜，包括多台扫描电子显微镜（SEM）和透射电子显微镜（TEM），其设备总价值超过2500万澳元，每年为超过400名研究人员和研究生提供技术支持（ANU CAM, 2024, Annual Facility Report）。随着材料科学、生物学和纳米技术领域对高分辨率成像需求的持续增长，掌握CAM的SEM和TEM操作已成为ANU相关学科研究生的核心技能。本文系统梳理CAM的培训路径、设备预约规则及样品制备标准，为计划使用该设施的学生提供操作指南。
+The Centre for Advanced Microscopy (CAM) at the Australian National University (ANU) is one of the core nodes of the Australian Microscopy & Microanalysis Research Facility (AMMRF). The centre is equipped with more than 15 electron microscopes, including multiple scanning electron microscopes (SEM) and transmission electron microscopes (TEM), with a total equipment value exceeding A$25 million. It provides technical support to more than 400 researchers and graduate students each year (ANU CAM, 2024, Annual Facility Report). As demand for high-resolution imaging continues to grow in materials science, biology, and nanotechnology, mastering SEM and TEM operation at CAM has become a core skill for ANU graduate students in related disciplines. This article systematically lays out CAM's training pathways, equipment booking rules, and sample preparation standards, offering a practical operating guide for students planning to use the facility.
 
-## 培训路径与认证等级
+## Training Pathways and Certification Levels
 
-CAM实行分级培训制度，将用户分为三个认证等级，以确保设备操作安全和数据质量。
+CAM operates a tiered training system that divides users into three certification levels, ensuring equipment safety and data quality.
 
-### 基础操作培训（Level 1）
+### Basic Operation Training (Level 1)
 
-**Level 1 认证**面向首次使用SEM或TEM的用户，培训周期为8至12周。用户需完成由CAM技术主管主持的4次理论课程（每次2小时），内容涵盖电子束原理、真空系统操作和基本故障排除。理论课程结束后，用户需在技术员监督下完成至少10小时的实操练习，并提交一份包含5张合格图像的样品报告。通过考核后，用户获得工作日08:00至18:00的独立操作权限，但每次使用前仍需预约技术员确认设备状态。
+**Level 1 certification** is for users using SEM or TEM for the first time, with a training period of 8 to 12 weeks. Users must complete 4 theory sessions run by the CAM technical manager (2 hours each), covering electron beam principles, vacuum system operation, and basic troubleshooting. After the theory sessions, users must complete at least 10 hours of hands-on practice under technician supervision and submit a sample report containing 5 acceptable images. Once they pass the assessment, users gain independent operation access from 08:00 to 18:00 on weekdays, but must still book a technician to confirm equipment status before each use.
 
-### 高级操作培训（Level 2）
+### Advanced Operation Training (Level 2)
 
-**Level 2 认证**要求用户已持有Level 1认证至少6个月，且累计操作时长超过50小时。高级培训聚焦于能谱分析（EDS）、背散射电子衍射（EBSD）和冷冻电镜技术（Cryo-TEM）。用户需独立完成一个跨学科研究项目，例如在生物样品上实现5纳米以下分辨率的成像，并通过由两名CAM核心成员组成的评审委员会答辩。Level 2用户获得24小时设备访问权限，并可在非工作时间远程操作设备。
+**Level 2 certification** requires users to have held Level 1 certification for at least 6 months and accumulated more than 50 hours of operation time. Advanced training focuses on energy-dispersive X-ray spectroscopy (EDS), electron backscatter diffraction (EBSD), and cryo-electron microscopy (Cryo-TEM). Users must independently complete an interdisciplinary research project — for example, achieving imaging at a resolution below 5 nanometres on biological samples — and defend it before a review panel of two core CAM members. Level 2 users gain 24-hour equipment access and may operate equipment remotely outside working hours.
 
-### 独立研究员认证（Level 3）
+### Independent Researcher Certification (Level 3)
 
-**Level 3 认证**是最高级别，仅授予在同行评审期刊上发表过至少2篇使用CAM设备论文的研究人员。Level 3用户无需技术员监督即可操作所有设备，并可担任Level 1培训的助教。截至2024年，CAM共认证了23名Level 3用户，其中12名为博士后研究员，8名为高级讲师（CAM, 2024, User Database）。
+**Level 3 certification** is the highest level, granted only to researchers who have published at least 2 papers using CAM equipment in peer-reviewed journals. Level 3 users can operate all equipment without technician supervision and may serve as teaching assistants for Level 1 training. As of 2024, CAM has certified 23 Level 3 users, of whom 12 are postdoctoral researchers and 8 are senior lecturers (CAM, 2024, User Database).
 
-## 设备预约规则
+## Equipment Booking Rules
 
-CAM采用在线预约系统，所有用户需通过ANU身份认证登录。预约规则严格区分优先级和时长限制。
+CAM uses an online booking system, and all users must log in with ANU identity authentication. Booking rules strictly differentiate priorities and duration limits.
 
-### 预约窗口与取消政策
+### Booking Windows and Cancellation Policy
 
-**预约窗口**以周为单位开放：每周一上午09:00开放未来两周的时段。SEM单次预约上限为4小时，TEM为3小时，但Level 2及以上用户可申请连续预约（不超过8小时）。取消预约需在开始时间前24小时通过系统操作，否则将扣除该用户当周信用积分。累计3次未按时取消预约，用户将被暂停预约权限30天。
+**Booking windows** open on a weekly basis: slots for the following two weeks open every Monday at 09:00. A single SEM booking is capped at 4 hours and TEM at 3 hours, but Level 2 and above users can request consecutive bookings (up to 8 hours). Cancellations must be made through the system at least 24 hours before the start time, otherwise the user's credit points for that week are deducted. Three failures to cancel bookings on time result in a 30-day suspension of booking privileges.
 
-### 设备专属预约规则
+### Equipment-Specific Booking Rules
 
-不同设备的预约规则存在差异。**SEM（型号Zeiss Crossbeam 550）** 因配备FIB（聚焦离子束）功能，预约时需额外勾选“FIB使用”选项，且每次FIB操作后需预留30分钟用于腔体清洁。**TEM（型号JEOL JEM-2100F）** 的液氮冷却系统需提前2小时启动，因此预约时段自动包含30分钟设备准备时间。CAM在2023年统计数据显示，TEM的平均实际使用时间比预约时长超出18%，建议用户预留缓冲时间（CAM, 2023, Usage Analytics Report）。
+Booking rules differ between instruments. **SEM (model Zeiss Crossbeam 550)**, because it is equipped with FIB (focused ion beam) functionality, requires an additional "FIB use" checkbox when booking, and each FIB session must be followed by 30 minutes reserved for chamber cleaning. **TEM (model JEOL JEM-2100F)** requires its liquid nitrogen cooling system to be started 2 hours in advance, so the booked slot automatically includes 30 minutes of equipment preparation time. CAM's 2023 statistics show that average actual TEM usage time exceeds booked time by 18%, so users are advised to leave buffer time (CAM, 2023, Usage Analytics Report).
 
-### 紧急使用通道
+### Emergency Use Channel
 
-**紧急使用通道**用于处理突发研究需求（如样品降解或实验窗口期极短）。用户需填写紧急申请表格，由中心主任在2小时内审批。2024年，CAM共处理了47次紧急申请，平均响应时间为1.5小时，其中85%获得批准。
+The **emergency use channel** handles sudden research needs (such as sample degradation or extremely short experimental windows). Users fill out an emergency application form, which the centre director approves within 2 hours. In 2024, CAM processed 47 emergency applications with an average response time of 1.5 hours, of which 85% were approved.
 
-## 样品制备标准
+## Sample Preparation Standards
 
-样品制备质量直接影响成像分辨率。CAM制定了严格的制备规范，分为通用标准和特殊样品要求。
+Sample preparation quality directly affects imaging resolution. CAM has established strict preparation specifications, divided into general standards and special sample requirements.
 
-### 通用制备流程
+### General Preparation Procedure
 
-所有样品需满足以下通用标准：最大尺寸不超过10毫米×10毫米×5毫米；表面需干燥且无挥发性残留物；非导电样品需通过溅射镀膜仪覆盖5至10纳米厚的金或铂层。CAM提供免费镀膜服务，但用户需提前48小时预约镀膜时段。对于生物样品，需经过戊二醛固定（2.5%浓度，4°C下12小时）、梯度乙醇脱水（30%至100%各15分钟）和临界点干燥（CO₂干燥仪，温度31°C，压力73.8巴）三个步骤。
+All samples must meet the following general standards: maximum size no larger than 10 mm × 10 mm × 5 mm; surfaces must be dry and free of volatile residues; non-conductive samples must be coated with a 5 to 10 nanometre layer of gold or platinum using a sputter coater. CAM provides free coating services, but users must book a coating slot 48 hours in advance. Biological samples must go through three steps: glutaraldehyde fixation (2.5% concentration, 12 hours at 4°C), graded ethanol dehydration (30% to 100%, 15 minutes at each step), and critical point drying (CO₂ dryer, temperature 31°C, pressure 73.8 bar).
 
-### 特殊样品要求
+### Special Sample Requirements
 
-**含水样品**（如活细胞或水凝胶）需使用环境扫描电子显微镜（ESEM）模式，该模式允许样品在低真空（10至50帕）下成像，无需干燥。用户需在预约时备注“ESEM模式”，并自行准备样品冷却台（CAM提供租用服务，每日费用50澳元）。**磁性样品**（如含铁或钴的纳米颗粒）需先通过CAM的磁强计检测磁通密度，若超过0.5特斯拉则禁止进入SEM腔体，以免损坏电子透镜。**粉末样品**需分散在导电胶带上，并通过压缩空气吹扫多余颗粒，防止真空系统污染。
+**Hydrated samples** (such as live cells or hydrogels) need to be imaged in environmental SEM (ESEM) mode, which allows imaging under low vacuum (10 to 50 Pa) without drying. Users must note "ESEM mode" when booking and prepare their own sample cooling stage (CAM offers a rental service at A$50 per day). **Magnetic samples** (such as iron- or cobalt-containing nanoparticles) must first be checked with CAM's magnetometer; if magnetic flux density exceeds 0.5 tesla, the sample is barred from the SEM chamber to avoid damaging the electron lenses. **Powder samples** must be dispersed on conductive tape and excess particles blown off with compressed air to prevent contamination of the vacuum system.
 
-### 制备失败与补救
+### Failed Preparation and Remedies
 
-样品制备不合格将导致预约时段被取消。CAM技术员会在用户提交样品后30分钟内进行预检，若发现样品不符合标准，用户需在当天重新制备并支付50澳元的加急处理费。2023年，约12%的预约因样品问题被推迟（CAM, 2023, Quality Control Log）。
+Samples that fail preparation checks cause the booked slot to be cancelled. CAM technicians perform a pre-check within 30 minutes of sample submission; if a sample is found to be non-compliant, the user must re-prepare it the same day and pay an A$50 expedited processing fee. In 2023, about 12% of bookings were postponed due to sample issues (CAM, 2023, Quality Control Log).
 
-## 数据管理与存储
+## Data Management and Storage
 
-CAM要求所有用户遵循标准化的数据命名和存储规范。
+CAM requires all users to follow standardised data naming and storage specifications.
 
-### 数据命名规则
+### Data Naming Rules
 
-**图像文件**需包含用户ID、设备编号、日期和样品编号（格式：u12345_CAM01_20241015_SampleA.tif）。能谱数据需额外包含加速电压和束流强度（例如：u12345_EDS_15kV_1nA.csv）。不符合命名规则的文件将在7天后被自动删除，CAM不承担数据丢失责任。
+**Image files** must include the user ID, equipment number, date, and sample number (format: u12345_CAM01_20241015_SampleA.tif). Spectroscopy data must additionally include the accelerating voltage and beam current (for example: u12345_EDS_15kV_1nA.csv). Files that do not follow the naming rules are automatically deleted after 7 days, and CAM is not liable for data loss.
 
-### 存储容量与备份
+### Storage Capacity and Backup
 
-CAM提供500GB的网络附加存储（NAS）空间，用户可通过SMB协议访问。超出部分需申请额外存储（每100GB月费20澳元）。所有数据在CAM服务器保留90天，之后迁移至ANU Research Data Storage（RDS）系统，保留期延长至5年。用户需在数据迁移后30天内确认完整性。
+CAM provides 500GB of network-attached storage (NAS) space, accessible via the SMB protocol. Additional storage beyond that must be requested (A$20 per 100GB per month). All data is retained on CAM servers for 90 days, then migrated to the ANU Research Data Storage (RDS) system, where the retention period extends to 5 years. Users must confirm data integrity within 30 days of migration.
 
-## 常见故障与技术支持
+## Common Faults and Technical Support
 
-CAM设有专门的技术支持团队，响应时间根据问题等级不同。
+CAM has a dedicated technical support team, with response times depending on the severity level of the issue.
 
-### 设备故障分级
+### Equipment Fault Tiers
 
-**一级故障**（如图像模糊或真空度波动）由值班技术员在30分钟内处理，用户可通过CAM内线电话（x51234）报告。**二级故障**（如电子枪灯丝断裂或探测器损坏）需关闭设备并联系制造商，平均修复时间为48小时。**三级故障**（如冷却系统泄漏或高压电源故障）需由ANU工程团队介入，修复周期为5至10个工作日。
+**Tier 1 faults** (such as blurry images or vacuum fluctuations) are handled by the duty technician within 30 minutes; users can report them via the CAM internal phone line (x51234). **Tier 2 faults** (such as a broken electron gun filament or damaged detector) require shutting down the equipment and contacting the manufacturer, with an average repair time of 48 hours. **Tier 3 faults** (such as cooling system leaks or high-voltage power supply failures) require the ANU engineering team to intervene, with a repair cycle of 5 to 10 working days.
 
-### 用户常见操作错误
+### Common User Errors
 
-CAM技术团队统计的2023年用户错误数据显示：**真空系统误操作**（如未关闭腔门即抽真空）占所有事故的34%；**束流参数设置不当**（如加速电压过高导致样品烧蚀）占28%；**数据保存遗漏**（未及时导出结果）占19%。CAM建议用户在每次操作前阅读设备操作清单（位于每个设备旁的平板电脑上），并完成5分钟的自检流程。
+CAM's technical team statistics on 2023 user errors show: **vacuum system misuse** (such as pumping down without closing the chamber door) accounted for 34% of all incidents; **improper beam parameter settings** (such as accelerating voltage set too high, causing sample ablation) accounted for 28%; **failure to save data** (not exporting results in time) accounted for 19%. CAM recommends that users read the equipment operating checklist (on the tablet next to each instrument) before every session and complete a 5-minute self-check process.
 
-## 费用与资助
+## Fees and Funding
 
-CAM对ANU内部用户采取成本回收模式，费用按设备类型和使用时长计算。
+CAM operates on a cost-recovery model for internal ANU users, with fees calculated by equipment type and usage time.
 
-### 收费标准
+### Fee Schedule
 
-**SEM（不含FIB）** 每小时收费35澳元，**SEM（含FIB）** 为80澳元，**TEM** 为50澳元。Level 1用户需额外支付15%的培训附加费。夜间（18:00至08:00）和周末使用费率为标准费的1.5倍。2024年，CAM的平均单次预约费用为120澳元（CAM, 2024, Billing Summary）。
+**SEM (without FIB)** is charged at A$35 per hour, **SEM (with FIB)** at A$80, and **TEM** at A$50. Level 1 users pay an additional 15% training surcharge. Night-time (18:00 to 08:00) and weekend rates are 1.5 times the standard rate. In 2024, CAM's average cost per booking was A$120 (CAM, 2024, Billing Summary).
 
-### 资助渠道
+### Funding Channels
 
-**ANU研究生院**提供“显微镜使用奖学金”（Microscopy Access Grant），每年资助20名博士生每人1000澳元的设备使用额度。申请需提交研究计划摘要和导师推荐信，截止日期为每年3月31日和9月30日。此外，**澳大利亚研究理事会（ARC）** 的“仪器共享计划”允许研究组申请每年最高5000澳元的设备使用补贴（ARC, 2023, Instrument Sharing Scheme Guidelines）。
+**ANU Graduate Research School** offers the "Microscopy Access Grant", which funds 20 PhD students each year with A$1,000 of equipment usage credit each. Applications require a research plan summary and a supervisor's reference letter, with deadlines of 31 March and 30 September each year. In addition, the **Australian Research Council (ARC)** "Instrument Sharing Scheme" allows research groups to apply for equipment usage subsidies of up to A$5,000 per year (ARC, 2023, Instrument Sharing Scheme Guidelines).
 
-## 安全与合规
+## Safety and Compliance
 
-CAM严格遵守澳大利亚辐射防护与核安全局（ARPANSA）的电子显微镜安全标准。
+CAM strictly complies with the electron microscope safety standards of the Australian Radiation Protection and Nuclear Safety Agency (ARPANSA).
 
-### 辐射安全
+### Radiation Safety
 
-**SEM和TEM**均产生低剂量X射线辐射。CAM每季度进行辐射监测，2023年所有设备的辐射泄漏量均低于ARPANSA限值（1微西弗/小时）的10%。用户需佩戴个人辐射剂量计（每月更换），并参加每两年一次的安全培训。未完成安全培训的用户将被锁定操作权限。
+**SEM and TEM** both produce low-dose X-ray radiation. CAM conducts radiation monitoring every quarter; in 2023, radiation leakage from all equipment was below 10% of the ARPANSA limit (1 microsievert/hour). Users must wear a personal radiation dosimeter (replaced monthly) and attend safety training every two years. Users who have not completed safety training have their operation access locked.
 
-### 生物安全
+### Biosafety
 
-处理生物样品的用户需持有ANU生物安全委员会批准的实验方案（Protocol Number）。CAM禁止使用BSL-3及以上级别的病原体。2023年，CAM因用户未申报生物样品类型而暂停了2次预约。
+Users handling biological samples must hold an experimental protocol approved by the ANU Biosafety Committee (Protocol Number). CAM prohibits the use of BSL-3 and above pathogens. In 2023, CAM suspended 2 bookings because users failed to declare the type of biological sample.
 
 ## FAQ
 
-### Q1：作为新入学的研究生，我需要多久才能获得CAM的独立操作权限？
-从完成理论课程到获得Level 1认证通常需要8至12周。实际周期取决于用户的学习进度和可用预约时段。2023年数据显示，平均完成时间为10.3周（CAM, 2023, Training Completion Records）。
+### Q1: As a newly enrolled graduate student, how long will it take me to gain independent operation access at CAM?
 
-### Q2：如果我的样品在制备过程中损坏，CAM是否提供替代样品制备服务？
-CAM不提供样品制备服务，但技术员可指导用户使用中心内的设备（如镀膜仪和临界点干燥仪）。用户需自行制备样品。若样品损坏，需重新制备并重新预约。2023年，约15%的首次样品制备因操作失误需要重做。
+From completing the theory sessions to obtaining Level 1 certification usually takes 8 to 12 weeks. The actual timeline depends on your learning progress and available booking slots. 2023 data shows the average completion time was 10.3 weeks (CAM, 2023, Training Completion Records).
 
-### Q3：我能否将CAM的设备数据用于发表论文？
-可以。CAM要求用户在论文致谢部分注明“本研究使用澳大利亚国立大学先进显微镜中心（CAM）的设备完成”，并引用CAM的设施编号（ANU CAM Facility ID: CAM-2024-001）。未标注致谢的论文可能影响后续资助申请。
+### Q2: If my sample is damaged during preparation, does CAM offer replacement sample preparation services?
 
-## 参考资料
+CAM does not provide sample preparation services, but technicians can guide you in using the equipment on site (such as the sputter coater and critical point dryer). Users must prepare their own samples. If a sample is damaged, you need to re-prepare it and rebook. In 2023, about 15% of first-time sample preparations needed to be redone due to operational errors.
+
+### Q3: Can I use CAM equipment data in my published papers?
+
+Yes. CAM requires users to acknowledge the facility in the acknowledgements section of their papers with the statement "This research was conducted using the facilities of the Centre for Advanced Microscopy (CAM) at the Australian National University", and to cite the CAM facility number (ANU CAM Facility ID: CAM-2024-001). Papers without this acknowledgement may affect future funding applications.
+
+## References
 
 - ANU Centre for Advanced Microscopy. 2024. *Annual Facility Report 2023-2024*.
 - ANU Centre for Advanced Microscopy. 2023. *Usage Analytics Report*.

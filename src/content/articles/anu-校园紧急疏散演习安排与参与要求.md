@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园紧急疏散演习安排与参与要求"
-description: "澳大利亚国立大学（ANU）依据《2011年工作健康与安全法》（ACT）及校内《紧急管理政策》，每年组织至少两次全校范围的紧急疏散演习。根据ANU安全与福祉部门2024年发布的《紧急程序手册》，校园内共有超过420个指定的紧急集合点，覆盖Acton校区所有教学、科研及住宿建筑。2023年ANU安全办公室的年度报告指…"
+slug: anu-校园紧急疏散演习安排与参与要求
+title: "ANU Campus Emergency Evacuation Drills: Schedule and Participation Requirements"
+description: "The Australian National University (ANU) conducts at least two campus-wide emergency evacuation drills every year under the Work Health and Safety Act 2011 (ACT) and its internal Emergency Management Policy. According to the Emergency Procedures Manual published by the ANU Safety and Wellbeing division in 2024, the campus has more than 420 designated emergency assembly points covering all teaching, research and residential buildings at the Acton campus. The 2023 annual report of the ANU Safety Office noted that the average completion time for campus-wide evacuation drills that year was 5 minutes 30 seconds, below the 8-minute benchmark recommended by the Australian Emergency Management Association (AEMA). For students and staff on campus, understanding the drill schedule and participation requirements is not only a compliance obligation but also directly affects how effectively individuals can reach safety in a real emergency.…"
 category: "ANU 校园紧急疏散演习"
 pubDatetime: '2026-03-24T19:52:03Z'
 publishDate: '2026-03-24T19:52:03Z'
@@ -8,70 +9,72 @@ readingTime: 11
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园紧急疏散演习安排与参与要求-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-澳大利亚国立大学（ANU）依据《2011年工作健康与安全法》（ACT）及校内《紧急管理政策》，每年组织至少两次全校范围的紧急疏散演习。根据ANU安全与福祉部门2024年发布的《紧急程序手册》，校园内共有超过420个指定的紧急集合点，覆盖Acton校区所有教学、科研及住宿建筑。2023年ANU安全办公室的年度报告指出，当年全校疏散演习平均完成时间为5分30秒，低于澳大利亚紧急管理协会（AEMA）建议的8分钟基准线。对于在校学生和教职员工而言，了解演习安排与参与要求不仅是合规义务，更直接影响个人在真实灾害中的避险效率。
+The Australian National University (ANU) conducts at least two campus-wide emergency evacuation drills every year under the Work Health and Safety Act 2011 (ACT) and its internal Emergency Management Policy. According to the Emergency Procedures Manual published by the ANU Safety and Wellbeing division in 2024, there are more than 420 designated emergency assembly points across the campus, covering all teaching, research and residential buildings at the Acton campus. The 2023 annual report of the ANU Safety Office noted that the average completion time for campus-wide evacuation drills that year was 5 minutes 30 seconds, below the 8-minute benchmark recommended by the Australian Emergency Management Association (AEMA). For students and staff on campus, understanding the drill schedule and participation requirements is not only a compliance obligation but also directly affects how quickly individuals can reach safety in a real emergency.
 
-## 演习频率与时间安排
+## Drill Frequency and Scheduling
 
-ANU将紧急疏散演习纳入年度安全日历，**演习频率**由ANU安全办公室根据建筑风险等级和过往事件数据动态调整。根据ANU《紧急管理计划》（2024年修订版），所有建筑每12个月内必须完成至少一次全面疏散演习，高风险建筑（如化学实验室集中的Research School of Chemistry）则每6个月一次。
+ANU incorporates emergency evacuation drills into its annual safety calendar, with the **frequency of drills** dynamically adjusted by the ANU Safety Office based on building risk ratings and historical incident data. Under the ANU Emergency Management Plan (2024 revision), every building must complete at least one full evacuation drill within every 12-month period, while high-risk buildings (such as the Research School of Chemistry, which houses a concentration of chemistry laboratories) must drill every 6 months.
 
-**演习时间**通常不预先公布，以模拟真实突发场景。ANU安全办公室2023年内部数据显示，约65%的演习发生在学期中（第3周至第12周），35%安排在非教学时段（如假期或周末）。演习时长从3分钟到12分钟不等，取决于建筑高度和人员密度。2024年第一学期，Marie Reay教学中心的一次演习因建筑内同时容纳超过800名学生，总疏散耗时7分20秒。
+**Drill timing** is generally not announced in advance, so as to simulate real, unexpected emergencies. Internal ANU Safety Office data from 2023 shows that around 65% of drills took place during the teaching period (weeks 3 to 12), with 35% scheduled outside teaching hours (such as holidays or weekends). Drill duration ranges from 3 to 12 minutes, depending on building height and occupant density. In Semester 1 2024, one drill at the Marie Reay Teaching Centre took 7 minutes 20 seconds in total, because the building held more than 800 students at the time.
 
-## 参与义务与豁免条件
+## Participation Obligations and Exemptions
 
-所有在ANU校园内的**人员**——包括学生、教职员工、访客及承包商——均有法律义务参与疏散演习。ANU《紧急程序手册》第4.2条明确规定：任何人不得以“正在上课”“正在实验”或“正在考试”为由拒绝撤离；课程协调员和实验室主管有责任在警报启动后立即中止当前活动。
+Every **person** on the ANU campus — including students, staff, visitors and contractors — has a legal obligation to take part in evacuation drills. Clause 4.2 of the ANU Emergency Procedures Manual states explicitly that no one may refuse to evacuate on the grounds of "being in class", "running an experiment" or "sitting an exam"; course coordinators and laboratory supervisors are responsible for stopping current activities immediately once the alarm sounds.
 
-**豁免条件**仅限于以下三类情况：持有ANU安全办公室颁发的医疗豁免证明（需由执业医师签署）；正在执行紧急任务的安全人员（如校园保安、消防值班员）；经ANU安全与福祉部门书面批准的特定科研实验（如涉及活体动物手术或放射性物质操作）。2023年，ANU共批准了47项实验豁免，占所有演习参与人数的0.03%。
+**Exemptions** are limited to the following three categories: holders of a medical exemption certificate issued by the ANU Safety Office (which must be signed by a registered medical practitioner); security personnel performing emergency duties (such as campus security officers or fire watch attendants); and specific research experiments approved in writing by ANU Safety and Wellbeing (such as procedures involving live animal surgery or handling of radioactive materials). In 2023, ANU approved 47 experiment exemptions, accounting for 0.03% of all drill participants.
 
-## 警报系统与信号识别
+## Alarm Systems and Signal Recognition
 
-ANU采用**分级警报系统**，不同信号对应不同紧急类型。根据ANU安全办公室2024年发布的《警报识别指南》，校园内主要使用三种音频信号：连续鸣响的“疏散警报”（频率为520Hz，持续30秒以上）表示立即撤离；间歇性“就地避难警报”（每10秒一次短促鸣响）表示留在室内并关闭门窗；三段式“全清警报”（长-短-长各3秒）表示危险解除。
+ANU uses a **tiered alarm system**, with different signals corresponding to different types of emergencies. According to the Alarm Recognition Guide published by the ANU Safety Office in 2024, three main audio signals are used across campus: the continuous "evacuation alarm" (a 520Hz tone lasting more than 30 seconds) means evacuate immediately; the intermittent "shelter-in-place alarm" (a short pulse every 10 seconds) means stay indoors and close doors and windows; and the three-stage "all clear" signal (long-short-long, 3 seconds each) means the danger has passed.
 
-**视觉辅助**系统同样重要。所有建筑入口及走廊均安装红色闪光指示灯，在疏散警报启动时同步闪烁。2023年，ANU在Hancock图书馆和Chifley图书馆加装了文字显示屏，用英语和简体中文滚动显示“立即撤离”指令。听力障碍者可通过ANU安全App接收震动通知，该App于2022年上线，截至2024年已有超过1.2万次下载。
+**Visual aids** are equally important. Red flashing indicator lights are installed at the entrances and in the corridors of all buildings and flash in sync with the evacuation alarm. In 2023, ANU installed text display screens in Hancock Library and Chifley Library that scroll the message "Evacuate immediately" in English and Simplified Chinese. People with hearing impairments can receive vibration notifications through the ANU Safety App, which launched in 2022 and had been downloaded more than 12,000 times as of 2024.
 
-## 集合点与登记流程
+## Assembly Points and Check-in Process
 
-每个疏散演习的终点是**指定集合点**（Assembly Area, AA）。ANU校园地图上标注了超过420个AA，每个AA用字母-数字编码标识（如AA-12A对应Fellows Oval西侧）。根据ANU《紧急管理计划》第6.1条，所有人员在到达AA后必须向所属学院的“安全监护员”（Warden）报到。
+Every evacuation drill ends at a designated **Assembly Area (AA)**. The ANU campus map marks more than 420 AAs, each identified by an alphanumeric code (for example, AA-12A corresponds to the western side of Fellows Oval). Under Clause 6.1 of the ANU Emergency Management Plan, everyone must report to their college's "Warden" upon arrival at the AA.
 
-**登记流程**分为两步：第一步，Warden使用ANU安全App扫描学生证或员工卡上的二维码，系统自动记录到达时间；第二步，未携带证件者需在纸质签到表上填写姓名、学号及所属学院。2023年，ANU引入RFID腕带系统，在University House和Burton & Garran Hall试点，使登记时间从平均45秒缩短至12秒。未在15分钟内完成登记的人员，安全办公室将启动二次搜索程序。
+The **check-in process** has two steps. First, the Warden scans the QR code on the student or staff ID card using the ANU Safety App, and the system automatically records the arrival time. Second, those without an ID card must fill in their name, student number and college on a paper sign-in sheet. In 2023, ANU introduced an RFID wristband system piloted at University House and Burton & Garran Hall, cutting the average check-in time from 45 seconds to 12 seconds. Anyone who fails to check in within 15 minutes triggers a secondary search procedure by the Safety Office.
 
-## 违规后果与处罚机制
+## Consequences of Non-compliance and Penalties
 
-不遵守疏散演习要求可能面临**正式处罚**。ANU《学生行为准则》第8.3条将“故意不响应紧急警报或拒绝撤离”列为三级违规行为。根据ANU纪律委员会2023年年度报告，当年共处理了12起因未参与疏散演习的投诉，其中9起被处以书面警告，2起被处以200澳元罚款，1起被处以停课两周的处分。
+Failing to comply with evacuation drill requirements may lead to **formal penalties**. Clause 8.3 of the ANU Student Conduct Rules classifies "deliberately ignoring an emergency alarm or refusing to evacuate" as a Level 3 misconduct. According to the 2023 annual report of the ANU Discipline Committee, 12 complaints were processed that year for failure to participate in evacuation drills: 9 resulted in written warnings, 2 in fines of A$200 each, and 1 in a two-week suspension from study.
 
-**教职员工**的违规后果更为直接：根据ANU《员工行为政策》第5.1条，拒绝参与演习可被视为违反工作健康与安全义务，雇主有权启动绩效改进计划（PIP）。2022年，一名Research School of Physics的员工因三次未参加演习被终止临时合同。澳大利亚工作健康与安全机构（Safe Work Australia）2023年数据显示，全国范围内因违反紧急疏散规定导致的最高个人罚款为10,000澳元。
+The consequences for **staff** are more direct: under Clause 5.1 of the ANU Staff Conduct Policy, refusing to participate in a drill can be treated as a breach of work health and safety obligations, and the employer has the right to initiate a Performance Improvement Plan (PIP). In 2022, an employee of the Research School of Physics had their casual contract terminated after missing three drills. Safe Work Australia data for 2023 shows that the highest individual fine for breaching emergency evacuation requirements nationally was A$10,000.
 
-## 特殊场景应对方案
+## Special Scenario Procedures
 
-ANU针对**特殊场景**制定了补充程序。对于行动不便者（如使用轮椅或拐杖），每栋建筑均设有“紧急救援等候区”（Emergency Rescue Waiting Area, ERWA），通常位于楼梯间防火门后。ANU安全办公室与ACT消防救援署合作，每年为ERWA使用者提供两次一对一演练。2023年，全校共有89名人员注册了ERWA服务。
+ANU has supplementary procedures for **special scenarios**. For people with limited mobility (such as wheelchair users or those using crutches), every building has an "Emergency Rescue Waiting Area" (ERWA), usually located behind the fire door of a stairwell. The ANU Safety Office works with ACT Fire & Rescue to run two one-on-one drills per year for ERWA users. In 2023, a total of 89 people across the university registered for the ERWA service.
 
-**实验室场景**中，化学和生物实验室的疏散程序额外要求：必须在撤离前关闭气体阀门、密封样本容器并启动通风橱紧急关闭按钮。ANU《实验室安全手册》第7.2条列出了43类需优先处理的危险物质，包括氰化物、放射性同位素和B类病原体。2024年，Research School of Biology在一次演习中因未及时密封培养皿，被安全办公室处以实验室关闭整改三天的处罚。
+In **laboratory settings**, evacuation procedures for chemistry and biology laboratories additionally require: closing gas valves, sealing sample containers and activating the emergency shut-off button on fume hoods before evacuating. Clause 7.2 of the ANU Laboratory Safety Manual lists 43 categories of hazardous substances that must be prioritised, including cyanides, radioactive isotopes and Category B pathogens. In 2024, the Research School of Biology was ordered by the Safety Office to close and rectify its laboratories for three days after a drill revealed that culture plates had not been sealed in time.
 
-## 演习后评估与改进
+## Post-drill Evaluation and Improvement
 
-每次演习完成后，ANU安全办公室会在48小时内发布**评估报告**。报告包含三项核心指标：总疏散时间、人员登记完成率、以及“卡点”数量（如堵塞的出口、未响应的警报器）。根据ANU《持续改进程序》，任何单项指标低于80%的建筑必须在30天内进行二次演习。
+Within 48 hours of each drill, the ANU Safety Office publishes an **evaluation report**. The report covers three core indicators: total evacuation time, personnel check-in completion rate, and the number of "bottlenecks" (such as blocked exits or alarms that failed to sound). Under the ANU Continuous Improvement Procedure, any building scoring below 80% on a single indicator must conduct a second drill within 30 days.
 
-**数据公开**方面，ANU自2022年起在安全办公室官网发布年度演习统计摘要。2023年数据显示，全校建筑的平均登记完成率为92.7%，其中CBE（商业与经济学院）建筑群达到98.1%，而部分老旧建筑（如Baldwin Spencer Building）仅为84.5%。改进措施包括在Baldwin Spencer Building加装第二部疏散楼梯，该项目于2024年2月完工，耗资120万澳元。
+On **data transparency**, ANU has published annual drill statistics summaries on the Safety Office website since 2022. 2023 data shows that the average check-in completion rate across all campus buildings was 92.7%, with the CBE (College of Business and Economics) precinct reaching 98.1%, while some older buildings (such as the Baldwin Spencer Building) managed only 84.5%. Improvement measures include installing a second evacuation stairway at the Baldwin Spencer Building, completed in February 2024 at a cost of A$1.2 million.
 
 ## FAQ
 
-### Q1：如果我在上课时遇到疏散演习，需要先保存实验数据吗？
+### Q1: If an evacuation drill happens during my class, should I save my experiment data first?
 
-不需要。ANU《紧急程序手册》第4.2条明确规定：警报启动后必须立即停止所有活动并撤离，不得停留保存数据。2023年，一名博士生因试图保存未完成的色谱分析数据而延迟撤离，被处以书面警告。所有实验设备均设有自动保存功能，或可通过远程访问恢复数据。
+No. Clause 4.2 of the ANU Emergency Procedures Manual is explicit: all activities must stop immediately once the alarm sounds and you must evacuate without staying behind to save data. In 2023, a PhD student was given a written warning for delaying evacuation while trying to save unfinished chromatography analysis data. All laboratory equipment has an auto-save function or allows data recovery via remote access.
 
-### Q2：国际学生不参与演习会被影响签证吗？
+### Q2: Can international students' visas be affected if they do not participate in drills?
 
-可能间接影响。根据澳大利亚内政部（Department of Home Affairs）2024年发布的《学生签证合规指南》，违反大学纪律记录（包括疏散演习违规）可作为“未满足学业要求”的佐证材料。2023年，ANU向移民局报告了3起涉及学生签证持有者的严重违规案例，其中1起导致签证被取消。建议国际学生在收到书面警告后14天内向ANU学生咨询中心（Student Central）提交解释说明。
+Potentially, indirectly. According to the Student Visa Compliance Guidelines issued by the Department of Home Affairs in 2024, records of university misconduct (including evacuation drill violations) can be used as supporting evidence of "failure to meet academic requirements". In 2023, ANU reported 3 serious violation cases involving student visa holders to the immigration department, 1 of which resulted in visa cancellation. International students are advised to submit an explanation to ANU Student Central within 14 days of receiving a written warning.
 
-### Q3：校园内是否有中文版的疏散指南？
+### Q3: Is there a Chinese-language version of the evacuation guide on campus?
 
-有。ANU安全办公室于2021年发布了《紧急疏散中文指南》，涵盖警报识别、集合点位置和特殊场景应对三大章节。该指南可在安全办公室官网下载PDF版本，也可在Chifley Library和Hancock Library前台免费领取纸质版。截至2024年，中文版指南已累计发放超过3,200份，覆盖约85%的中文母语学生群体。
+Yes. The ANU Safety Office released the Chinese-language Emergency Evacuation Guide in 2021, covering three chapters: alarm recognition, assembly point locations, and special scenario responses. A PDF version can be downloaded from the Safety Office website, and printed copies are available free of charge at the front desks of Chifley Library and Hancock Library. As of 2024, more than 3,200 copies of the Chinese guide had been distributed, reaching approximately 85% of native Chinese-speaking students.
 
-## 参考资料
+## References
 
-- ANU安全与福祉部门 2024年 《紧急程序手册》（第4版）
-- ANU安全办公室 2023年 《年度演习统计报告》
-- 澳大利亚内政部 2024年 《学生签证合规指南》
-- Safe Work Australia 2023年 《工作健康与安全违规处罚数据库》
-- UNILINK Education 2024年 《澳洲八大校园安全合规数据库》
+- ANU Safety and Wellbeing, 2024, Emergency Procedures Manual (4th edition)
+- ANU Safety Office, 2023, Annual Drill Statistics Report
+- Department of Home Affairs, 2024, Student Visa Compliance Guidelines
+- Safe Work Australia, 2023, Work Health and Safety Penalties Database
+- UNILINK Education, 2024, Go8 Campus Safety Compliance Database

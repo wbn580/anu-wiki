@@ -1,6 +1,7 @@
 ---
+slug: anu-chemistry-lab-report-writing-standards-structure-error-analysis-and-referenc
 title: "ANU Chemistry Lab Report Writing Standards: Structure, Error Analysis, and Referencing Conventions for RSC Style"
-description: "澳大利亚国立大学（ANU）理学院自2019年起正式将英国皇家化学会（RSC）出版风格列为本科实验报告的唯一引用规范，取代此前混合使用的ACS与Harvard体系。根据ANU化学研究学院2023年发布的《实验报告撰写指南》，一份符合RSC标准的完整报告需包含摘要、引言、实验方法、结果与讨论、结论及参考文献六个核心章…"
+description: "Since 2019, the ANU College of Science has officially adopted the Royal Society of Chemistry (RSC) publishing style as the sole referencing standard for undergraduate lab reports, replacing the previously mixed ACS and Harvard systems. According to the ANU Research School of Chemistry's 2023 Lab Report Writing Guide, a complete RSC-compliant report contains six core sections: abstract, introduction, experimental methods, results and discussion, conclusion, and references."
 category: "ANU"
 pubDatetime: '2026-04-27T19:58:44Z'
 publishDate: '2026-04-27T19:58:44Z'
@@ -10,81 +11,81 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-chemistry-lab-report-writing-standards-structure-error-analysis-and-referenc-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）理学院自2019年起正式将英国皇家化学会（RSC）出版风格列为本科实验报告的唯一引用规范，取代此前混合使用的ACS与Harvard体系。根据ANU化学研究学院2023年发布的《实验报告撰写指南》，一份符合RSC标准的完整报告需包含摘要、引言、实验方法、结果与讨论、结论及参考文献六个核心章节，总字数通常控制在2000至4000词之间。该指南同时指出，在2022至2023学年，约32%的首次提交报告因误差分析不完整或引用格式错误被要求重写，这一比例在一年级新生中升至47%【ANU化学研究学院，2023，《实验报告撰写指南》】。掌握RSC风格的写作规范不仅影响单科成绩，更直接关联到后续高阶实验课程（如CHEM3001）的准入资格，因此值得在读学生系统学习。
+The College of Science at the Australian National University (ANU) has officially listed the Royal Society of Chemistry (RSC) publishing style as the sole referencing standard for undergraduate lab reports since 2019, replacing the previously mixed ACS and Harvard systems. According to the *Lab Report Writing Guide* published by the ANU Research School of Chemistry in 2023, a complete RSC-compliant report must include six core sections — abstract, introduction, experimental methods, results and discussion, conclusion, and references — with a total word count usually between 2000 and 4000 words. The guide also notes that in the 2022 to 2023 academic year, about 32% of first-submission reports were sent back for rewriting due to incomplete error analysis or incorrect citation formatting, a figure that rose to 47% among first-year students [ANU Research School of Chemistry, 2023, *Lab Report Writing Guide*]. Mastering RSC-style writing conventions affects not just individual course grades but also eligibility for advanced laboratory courses (such as CHEM3001), so it is well worth current students' systematic study.
 
-## 报告结构标准
+## Report Structure Standards
 
-### 标题与摘要
-**标题**应简明反映实验核心内容，长度不超过15个单词，且避免使用“Study of”或“Investigation into”等冗余短语。**摘要**需独立成段，控制在150至250字之间，依次包含研究目的、关键实验方法、主要定量结果（至少包含一个具体数值）以及结论。例如，在描述动力学实验时，摘要中必须出现如“rate constant k = (2.34 ± 0.12) × 10⁻³ s⁻¹”形式的精确数据。RSC风格禁止在摘要中引用参考文献或使用缩写（除非首次出现时给出全称）。
+### Title and Abstract
+The **title** should concisely reflect the core content of the experiment, be no longer than 15 words, and avoid redundant phrases such as "Study of" or "Investigation into". The **abstract** must stand alone as a paragraph of 150 to 250 words, covering in order the research purpose, key experimental methods, the main quantitative results (including at least one specific value), and the conclusion. For example, when describing a kinetics experiment, the abstract must contain precise data in a form such as "rate constant k = (2.34 ± 0.12) × 10⁻³ s⁻¹". RSC style prohibits citing references or using abbreviations in the abstract (unless the full name is given at first mention).
 
-### 引言与实验方法
-**引言**应提供必要的理论背景，明确实验假设，并引用2至4篇同行评审文献支撑论点。每篇引用需在正文中以上标数字标注，如“根据前人研究¹”。**实验方法**部分需采用过去时态、被动语态撰写，详细列出所有试剂纯度、仪器型号及操作参数。ANU化学系要求在此部分注明所有化学品的CAS号及供应商信息，例如“Sodium chloride (CAS 7647-14-5, Sigma-Aldrich, ≥99.5%)”。若实验步骤与已发表文献完全一致，可直接引用该文献编号，但需附上简短的偏差说明。
+### Introduction and Experimental Methods
+The **introduction** should provide the necessary theoretical background, state the experimental hypothesis clearly, and cite 2 to 4 peer-reviewed sources to support the argument. Each citation must be marked in the text with a superscript number, such as "as shown in previous studies¹". The **experimental methods** section must be written in the past tense and passive voice, listing in detail all reagent purities, instrument models, and operating parameters. The ANU Chemistry Department requires this section to state the CAS number and supplier information for all chemicals, for example "Sodium chloride (CAS 7647-14-5, Sigma-Aldrich, ≥99.5%)". If the experimental procedure is identical to a published method, you may cite that reference number directly, but must include a brief note of any deviations.
 
-## 误差分析规范
+## Error Analysis Standards
 
-### 随机误差与系统误差的区分
-RSC风格要求报告必须明确区分**随机误差**和**系统误差**。随机误差通过多次测量（n ≥ 5）的标准偏差（σ）量化，并以“平均值 ± 标准偏差”的形式呈现。系统误差则需通过校准曲线或标准物质验证，并在讨论部分单独说明其来源，例如“移液器在20 μL量程下经校准发现偏差为+0.3 μL”。ANU化学研究学院2023年的内部审核数据显示，约58%的报告未能正确识别系统误差，导致结论偏倚【ANU化学研究学院，2023，《实验报告撰写指南》】。
+### Distinguishing Random and Systematic Errors
+RSC style requires reports to clearly distinguish **random errors** from **systematic errors**. Random errors are quantified by the standard deviation (σ) of repeated measurements (n ≥ 5) and presented in the form "mean ± standard deviation". Systematic errors must be verified through calibration curves or standard reference materials, and their sources explained separately in the discussion, for example "the pipette was calibrated at the 20 μL range and found to have a deviation of +0.3 μL". Internal audit data from the ANU Research School of Chemistry in 2023 shows that about 58% of reports failed to correctly identify systematic errors, biasing their conclusions [ANU Research School of Chemistry, 2023, *Lab Report Writing Guide*].
 
-### 不确定度传递计算
-当最终结果由多个测量值通过公式计算得出时，必须进行**不确定度传递**分析。对于加减运算，绝对不确定度直接相加；对于乘除运算，相对不确定度以平方和开方（RSS）方式合并。例如，若浓度c = m/V，其中m = (0.5000 ± 0.0002) g，V = (250.0 ± 0.1) mL，则c的相对不确定度为√[(0.0002/0.5000)² + (0.1/250.0)²] ≈ 0.0004，最终结果需保留与不确定度匹配的有效位数。RSC风格要求所有不确定度值保留1至2位有效数字，且结果的小数位数与之对齐。
+### Uncertainty Propagation Calculations
+When a final result is calculated from multiple measured values using a formula, an **uncertainty propagation** analysis is mandatory. For addition and subtraction, absolute uncertainties are added directly; for multiplication and division, relative uncertainties are combined by root-sum-square (RSS). For example, if concentration c = m/V, where m = (0.5000 ± 0.0002) g and V = (250.0 ± 0.1) mL, then the relative uncertainty of c is √[(0.0002/0.5000)² + (0.1/250.0)²] ≈ 0.0004, and the final result must retain significant figures consistent with the uncertainty. RSC style requires all uncertainty values to be given to 1 to 2 significant figures, with the decimal places of the result aligned accordingly.
 
-### 异常值处理
-报告中若存在偏离均值超过3倍标准偏差的数据点，需在**误差分析**小节中明确标注，并说明是否采用Grubbs检验（α = 0.05）将其剔除。保留或剔除异常值均需提供统计依据，不得主观判断。ANU化学系建议将此部分内容置于“结果与讨论”章节的独立子标题下，而非附录中。
+### Outlier Handling
+If a report contains data points deviating from the mean by more than 3 standard deviations, they must be clearly flagged in the **error analysis** subsection, stating whether a Grubbs test (α = 0.05) was used to reject them. Whether outliers are kept or rejected, statistical justification must be provided — subjective judgment is not acceptable. The ANU Chemistry Department recommends placing this content under a separate subheading in the "Results and Discussion" section rather than in an appendix.
 
-## 引用与参考文献格式
+## Citation and Reference Format
 
-### 正文引用规则
-RSC风格采用上标阿拉伯数字顺序编码制，引用序号按首次出现顺序排列。同一文献在文中多次出现时，使用首次分配的编号。若同时引用多篇文献，用逗号分隔连续编号（如¹⁻³），非连续编号用逗号（如¹,⁴）。**正文引用**严禁使用作者姓名或年份代替编号，例如应写“已有研究表明²”，而非“Smith (2020) 研究表明”。每个编号对应参考文献列表中的一条完整条目。
+### In-Text Citation Rules
+RSC style uses a sequential numbering system with superscript Arabic numerals, with citation numbers assigned in order of first appearance. When the same source is cited multiple times, the number assigned at first mention is reused. When several sources are cited together, consecutive numbers are joined by a dash (e.g. ¹⁻³) and non-consecutive numbers by commas (e.g. ¹,⁴). **In-text citations** must never use author names or years in place of numbers — for example, write "as shown in previous studies²" rather than "as shown by Smith (2020)". Each number corresponds to one complete entry in the reference list.
 
-### 参考文献列表格式
-参考文献列表置于报告末尾，按编号顺序排列。期刊论文格式为：作者名缩写，*期刊名缩写*，**年份**，*卷号*，(期号)， 起始页码。例如：P. J. Smith, *J. Chem. Soc.*, **2021**, *143*, (5), 2345。书籍格式为：作者名缩写，*书名*，出版社，出版地，版次，年份，页码。RSC风格要求期刊名使用标准缩写（可通过ISSN List查询），年份加粗，卷号斜体。所有作者均需列出，不可使用“et al.”代替。ANU图书馆2022年统计显示，约41%的学生在参考文献列表中遗漏了期号或页码，这是最常见的扣分项【ANU图书馆，2022，《参考文献格式常见错误统计》】。
+### Reference List Format
+The reference list appears at the end of the report, ordered by number. The format for journal articles is: author initials, *journal name abbreviation*, **year**, *volume*, (issue), start page. For example: P. J. Smith, *J. Chem. Soc.*, **2021**, *143*, (5), 2345. The format for books is: author initials, *book title*, publisher, place of publication, edition, year, pages. RSC style requires journal names to use standard abbreviations (which can be looked up in the ISSN List), with the year in bold and the volume in italics. All authors must be listed; "et al." is not permitted as a substitute. ANU Library 2022 statistics show that about 41% of students omitted the issue number or page numbers from their reference lists — the most common source of mark deductions [ANU Library, 2022, *Statistics on Common Reference Format Errors*].
 
-### 数据与图表引用
-报告中若引用他人数据或图表，必须在图题或表注中标注来源编号，格式为“Reproduced from ref. X with permission from [版权方]”。自行生成的图表则需在正文中说明数据获取方法。**图表编号**按出现顺序分别用“Fig. 1”“Table 1”格式标注，图题置于图下方，表题置于表上方。RSC风格要求所有图表在正文中至少被引用一次，例如“如图1所示”。
+### Citing Data and Figures
+If you cite data or figures from other sources, you must note the source number in the figure caption or table note, in the format "Reproduced from ref. X with permission from [copyright holder]". For figures and tables you generate yourself, the text must explain how the data was obtained. **Figure and table numbering** follows order of appearance, using formats such as "Fig. 1" and "Table 1", with figure captions below the figure and table titles above the table. RSC style requires every figure and table to be referenced at least once in the text, for example "as shown in Fig. 1".
 
-## 数字与单位书写规范
+## Numbers and Units
 
-### 有效数字与科学计数法
-测量结果的有效数字位数由仪器精度决定，不可随意增减。例如，使用四位天平称量应记录为“1.234 g”，而非“1.23 g”或“1.2340 g”。数值在0.01至1000之间时使用小数或整数表示，超出此范围则采用科学计数法，如“1.23 × 10⁴”。**单位符号**必须使用国际单位制（SI）标准，如“mL”而非“ml”，“°C”而非“℃”。数字与单位之间需留一个半角空格，但百分号“%”除外（如“23%”）。
+### Significant Figures and Scientific Notation
+The number of significant figures in a measurement result is determined by instrument precision and must not be arbitrarily increased or decreased. For example, a weighing made on a four-place balance should be recorded as "1.234 g", not "1.23 g" or "1.2340 g". Values between 0.01 and 1000 are expressed as decimals or integers; outside this range, scientific notation is used, such as "1.23 × 10⁴". **Unit symbols** must follow the International System of Units (SI) standard — "mL" rather than "ml", "°C" rather than "℃". A single half-width space is required between numbers and units, except for the percent sign (e.g. "23%").
 
-### 化学式与反应方程式
-化学式中的下标和上标必须正确标注，如“H₂O”“Fe³⁺”。反应方程式中，反应物与产物之间使用箭头（→）而非等号，并在箭头上方标注反应条件，如“Δ”或“cat. H₂SO₄”。**平衡系数**应使用整数，若涉及多个步骤，可用数字编号标注于箭头下方。RSC风格禁止在方程式中使用“+”号表示“与”，而应明确写出“and”。
+### Chemical Formulas and Reaction Equations
+Subscripts and superscripts in chemical formulas must be correctly marked, such as "H₂O" and "Fe³⁺". In reaction equations, an arrow (→) is used between reactants and products rather than an equals sign, and reaction conditions are noted above the arrow, such as "Δ" or "cat. H₂SO₄". **Stoichiometric coefficients** should be integers; if a reaction involves multiple steps, they may be numbered below the arrow. RSC style forbids using "+" to mean "and" in equations; "and" should be written out explicitly.
 
-## 语言与行文要求
+## Language and Style Requirements
 
-### 时态与语态
-实验报告主体部分（引言、方法、结果）使用**过去时态**和**被动语态**，例如“The solution was heated to 60 °C”。结论部分可使用现在时态描述普遍真理或结果的意义，例如“These findings indicate that...”。第一人称（I/We）仅在讨论个人观察或解释时允许有限使用，但RSC风格更倾向于全程避免。
+### Tense and Voice
+The main body of the lab report (introduction, methods, results) uses the **past tense** and **passive voice**, for example "The solution was heated to 60 °C". The conclusion may use the present tense to describe general truths or the significance of the results, for example "These findings indicate that...". First-person (I/We) is allowed only to a limited extent when discussing personal observations or interpretations, but RSC style prefers avoiding it throughout.
 
-### 术语与缩写
-首次出现的专业术语需给出全称，随后可在括号内注明缩写，例如“核磁共振波谱（NMR）”。全文缩写列表可在引言末尾或附录中提供。**化学名称**应使用IUPAC命名法，避免商品名或俗名，除非在实验方法中明确标注了供应商。ANU化学系2023年的一份教学备忘录指出，约27%的报告因使用非标准缩写（如“RT”代替“room temperature”）被扣分【ANU化学研究学院，2023，《教学备忘录CM-2023-04》】。
+### Terminology and Abbreviations
+Specialist terms should be given in full at first mention, with the abbreviation noted in parentheses afterwards, for example "nuclear magnetic resonance spectroscopy (NMR)". A full list of abbreviations may be provided at the end of the introduction or in an appendix. **Chemical names** should follow IUPAC nomenclature, avoiding trade names or common names unless the supplier is explicitly noted in the experimental methods. A 2023 teaching memorandum from the ANU Chemistry Department notes that about 27% of reports lost marks for using non-standard abbreviations (such as "RT" instead of "room temperature") [ANU Research School of Chemistry, 2023, *Teaching Memorandum CM-2023-04*].
 
-## 常见扣分项与规避策略
+## Common Mark Deductions and How to Avoid Them
 
-### 格式一致性错误
-最常见的扣分项包括：参考文献编号与正文不对应、图表编号缺失或重复、单位符号大小写错误（如“Kg”而非“kg”）。**规避策略**：在提交前使用RSC提供的模板文件（.docx或.tex）进行排版，并逐项核对指南中的格式清单。ANU化学系在2023年推出了在线格式校验工具，可自动检测80%以上的常见格式错误。
+### Format Consistency Errors
+The most common deductions include: reference numbers not matching the in-text citations, missing or duplicated figure/table numbers, and unit symbol case errors (such as "Kg" instead of "kg"). **Avoidance strategy**: typeset your report using the template files RSC provides (.docx or .tex) before submission, and check each item against the format checklist in the guide. In 2023, the ANU Chemistry Department launched an online format-checking tool that automatically detects over 80% of common formatting errors.
 
-### 数据呈现缺陷
-数据呈现方面的主要问题包括：表格缺乏标题行、坐标轴未标注单位、误差线缺失或比例不当。**规避策略**：所有图表在生成后需由另一位同学进行同行审阅，重点检查坐标轴标签、图例位置及数据点标记。RSC风格要求误差线必须覆盖1倍标准偏差，并在图注中说明。
+### Data Presentation Defects
+The main problems in data presentation include: tables lacking header rows, axes without units, and missing or improperly scaled error bars. **Avoidance strategy**: after generating all figures and tables, have a fellow student peer-review them, focusing on axis labels, legend placement, and data point markers. RSC style requires error bars to cover 1 standard deviation and to be explained in the figure caption.
 
-### 引用遗漏与格式错误
-引用遗漏指正文中提到的数据或观点未在参考文献列表中给出来源，格式错误则包括作者名缩写不规范、期刊名未缩写等。**规避策略**：使用文献管理软件（如Zotero或EndNote）的RSC输出样式自动生成参考文献列表，并在提交前手动核对每一条目的卷号、期号和页码。
+### Missing Citations and Format Errors
+Missing citations occur when data or ideas mentioned in the text are not given a source in the reference list; format errors include non-standard author initials and unabbreviated journal names. **Avoidance strategy**: use reference management software (such as Zotero or EndNote) with the RSC output style to generate the reference list automatically, and manually verify the volume, issue, and page numbers of every entry before submission.
 
-在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-chemistry-lab-report-writing-standards-structure-error-analysis-and-referenc) 等专业通道完成结汇。
+When paying tuition fees across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-chemistry-lab-report-writing-standards-structure-error-analysis-and-referenc) to complete currency settlement.
 
 ## FAQ
 
-### Q1：RSC风格与ACS风格在引用格式上最核心的区别是什么？
-RSC风格使用上标数字顺序编码制，引用编号在正文中以¹²³形式出现；ACS风格则允许使用作者-年份制或编号制。RSC要求参考文献列表中期刊名使用标准缩写并加粗年份，而ACS要求期刊名全称且年份不加粗。根据ANU化学系2023年的对比统计，约65%的学生在首次转换风格时出现混淆【ANU化学研究学院，2023，《引用风格转换指南》】。
+### Q1: What is the most fundamental difference between RSC style and ACS style in citation format?
+RSC style uses a sequential superscript numbering system, with citation numbers appearing in the text as ¹²³; ACS style allows either the author-year system or a numbering system. RSC requires journal names in the reference list to use standard abbreviations with the year in bold, while ACS requires full journal names with the year not in bold. According to a comparative survey by the ANU Chemistry Department in 2023, about 65% of students get confused when first switching between the styles [ANU Research School of Chemistry, 2023, *Citation Style Transition Guide*].
 
-### Q2：实验报告中误差分析部分必须包含哪些内容？
-必须包含：至少5次重复测量的标准偏差、系统误差的来源说明（如仪器校准偏差）、不确定度传递计算（若涉及复合运算），以及异常值的统计检验结果（如Grubbs检验）。缺少任意一项均会导致该部分扣分。ANU化学系规定误差分析占报告总分的20%，其中计算过程占12%，文字说明占8%。
+### Q2: What must the error analysis section of a lab report include?
+It must include: the standard deviation of at least 5 repeated measurements, an explanation of systematic error sources (such as instrument calibration deviations), uncertainty propagation calculations (if compound operations are involved), and the statistical test results for outliers (such as the Grubbs test). Missing any of these leads to mark deductions in this section. The ANU Chemistry Department stipulates that error analysis accounts for 20% of the total report mark, of which calculations account for 12% and written explanation for 8%.
 
-### Q3：如何快速检查参考文献格式是否符合RSC标准？
-可使用Zotero或EndNote的RSC输出样式自动生成，然后对照RSC官方《作者指南》中的示例逐项核对。重点检查：作者姓名缩写格式（如Smith, P. J.）、期刊名缩写（如*J. Chem. Soc.*）、年份加粗、卷号斜体、期号括号内、页码格式。ANU图书馆提供免费的格式校验服务，预约后可在48小时内获得反馈。
+### Q3: How can I quickly check whether my reference format complies with RSC standards?
+Generate the references automatically using the RSC output style in Zotero or EndNote, then check each entry against the examples in the official RSC *Author Guidelines*. Key points to check: author initials format (e.g. Smith, P. J.), journal name abbreviations (e.g. *J. Chem. Soc.*), bold year, italic volume, issue number in parentheses, and page number format. The ANU Library offers a free format-checking service, with feedback available within 48 hours of booking.
 
-## 参考资料
-- ANU化学研究学院，2023，《实验报告撰写指南》
-- ANU图书馆，2022，《参考文献格式常见错误统计》
-- ANU化学研究学院，2023，《教学备忘录CM-2023-04》
-- Royal Society of Chemistry，2023，《RSC作者指南》
-- Unilink Education，2024，《澳洲高校化学实验报告写作规范数据库》
+## References
+- ANU Research School of Chemistry, 2023, *Lab Report Writing Guide*
+- ANU Library, 2022, *Statistics on Common Reference Format Errors*
+- ANU Research School of Chemistry, 2023, *Teaching Memorandum CM-2023-04*
+- Royal Society of Chemistry, 2023, *RSC Author Guidelines*
+- Unilink Education, 2024, *Database of Chemistry Lab Report Writing Standards at Australian Universities*

@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园自动体外除颤器分布位置与急救培训"
-description: "澳大利亚国立大学（ANU）校园内共部署了 **57 台自动体外除颤器**（AED），覆盖 Acton 主校区及附属设施，平均每 0.03 平方公里即有一台设备可用。根据澳大利亚心脏基金会（Heart Foundation, 2023）数据，心脏骤停发生后每延迟 1 分钟除颤，患者存活率下降 7—10%，而校园 A…"
+slug: anu-校园自动体外除颤器分布位置与急救培训
+title: "ANU Campus AED Locations and First Aid Training"
+description: "The Australian National University (ANU) has deployed a total of **57 automated external defibrillators** (AEDs) across its Acton main campus and affiliated facilities, averaging one device per 0.03 square kilometres. According to data from the Heart Foundation of Australia (2023), every 1-minute delay in defibrillation after cardiac arrest reduces a patient's survival rate by 7–10%, while the campus AED network can compress response time to within 3 minutes. The ANU first aid training program, coordinated by ANU Safety and Wellbeing, delivers more than 200 CPR and AED operation courses to students and staff each year. Based on ANU's official facilities map and training records, this article systematically reviews AED distribution, device types, training pathways and emergency response procedures for the reference of students, staff and visitors on campus.…"
 category: "ANU 校园自动体外除颤"
 pubDatetime: '2026-03-30T19:53:11Z'
 publishDate: '2026-03-30T19:53:11Z'
@@ -8,85 +9,87 @@ readingTime: 11
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园自动体外除颤器分布位置与急救培训-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-澳大利亚国立大学（ANU）校园内共部署了 **57 台自动体外除颤器**（AED），覆盖 Acton 主校区及附属设施，平均每 0.03 平方公里即有一台设备可用。根据澳大利亚心脏基金会（Heart Foundation, 2023）数据，心脏骤停发生后每延迟 1 分钟除颤，患者存活率下降 7—10%，而校园 AED 网络可将响应时间压缩至 3 分钟以内。ANU 急救培训项目由澳国立安全与健康中心（ANU Safety and Wellbeing）统筹，每年为师生提供超过 200 场心肺复苏（CPR）与 AED 操作课程。本文基于 ANU 官方设施地图与培训记录，系统梳理 AED 分布位置、设备类型、培训路径及应急响应流程，供在校师生与访客参考。
+The Australian National University (ANU) has deployed a total of **57 automated external defibrillators** (AEDs) across its Acton main campus and affiliated facilities, averaging one device per 0.03 square kilometres. According to data from the Heart Foundation of Australia (2023), every 1-minute delay in defibrillation after cardiac arrest lowers the patient's survival rate by 7–10%, and the campus AED network can compress response time to within 3 minutes. The ANU first aid training program, coordinated by ANU Safety and Wellbeing, offers more than 200 CPR and AED operation courses to students and staff each year. Based on ANU's official facilities map and training records, this article systematically outlines AED distribution, device types, training pathways and emergency response procedures for the reference of students, staff and visitors on campus.
 
-## AED 设备分布原则与覆盖逻辑
+## AED Placement Principles and Coverage Logic
 
-ANU 校园 AED 部署遵循 **“3 分钟响应圈”** 原则，即从任意建筑内任意一点出发，步行 3 分钟内应能触及至少一台设备。该标准参照澳大利亚复苏委员会（Australian Resuscitation Council, 2021）指南，要求高人流密度场所（图书馆、食堂、体育馆）与高风险实验室区域实现全覆盖。
+ANU's campus AED deployment follows the **"3-minute response circle"** principle: from any point in any building, a person should be able to reach at least one device within a 3-minute walk. This standard follows the guidelines of the Australian Resuscitation Council (2021), requiring full coverage of high-traffic areas (libraries, dining halls, sports facilities) and high-risk laboratory zones.
 
-**室外设备**主要安装在建筑入口外墙的白色急救箱内，箱体印有绿色 AED 标识与闪烁 LED 指示灯。室内设备则悬挂于走廊墙面或前台后方，部分设备（如 Chifley Library 入口处）与建筑消防报警系统联动，一旦触发可自动解锁箱门。ANU 安全办公室每季度对所有 AED 进行电池与电极片有效期检查，设备状态数据实时同步至 ANU 应急指挥中心。
+**Outdoor devices** are mostly installed inside white first aid cabinets on the exterior walls of building entrances, marked with a green AED sign and a flashing LED indicator. Indoor devices are mounted on corridor walls or behind reception desks; some units (such as the one at the Chifley Library entrance) are linked to the building's fire alarm system and unlock automatically when triggered. The ANU Safety Office checks the battery and electrode pad expiry dates on all AEDs every quarter, and device status data is synchronised in real time to the ANU Emergency Control Centre.
 
-## 主校区关键建筑 AED 具体位置
+## AED Locations in Key Main-Campus Buildings
 
-### 教学与行政区域
+### Teaching and Administration Areas
 
-**Chifley Library**（Bldg 15）入口左侧墙面安装 1 台 AED，覆盖 J.B. Chifley 楼与邻近的 H.C. Coombs 楼（Bldg 9）。**Beryl Rawson Building**（Bldg 11）一层大厅服务台后方另设 1 台，该设备同时服务于 Marie Reay 教学中心（Bldg 145）的师生。
+**Chifley Library** (Bldg 15) has 1 AED mounted on the wall to the left of the entrance, covering the J.B. Chifley building and the neighbouring H.C. Coombs building (Bldg 9). **Beryl Rawson Building** (Bldg 11) has another 1 unit behind the service desk in the ground-floor lobby, also serving students and staff of the Marie Reay Teaching Centre (Bldg 145).
 
-**Peter Baume Building**（Bldg 42）二楼走廊（近 2.02 会议室）与 **Johns Hopkins Building**（Bldg 52）一楼电梯厅各部署 1 台。ANU 行政楼 **Chancellery**（Bldg 10）前台内侧设 1 台，该设备在办公时段（周一至周五 08:30—17:00）由行政人员负责日常巡检。
+**Peter Baume Building** (Bldg 42) has 1 unit in the second-floor corridor (near Meeting Room 2.02), and **Johns Hopkins Building** (Bldg 52) has 1 unit in the ground-floor lift lobby. ANU's administrative building, the **Chancellery** (Bldg 10), has 1 unit inside the front desk area, with routine daily inspections carried out by administrative staff during office hours (Monday to Friday, 08:30–17:00).
 
-### 学生服务与生活设施
+### Student Services and Residential Facilities
 
-**Union Court** 区域密度最高：**Kambri 文化中心**（Bldg 153）一层主入口、**ANU 体育馆**（Bldg 40）前台、**Bruce Hall**（Bldg 31）门厅各设 1 台。**Lena Karmel Lodge**（Bldg 155）地下停车场入口处另装 1 台，覆盖周边学生公寓区。
+The **Union Court** area has the highest density: the **Kambri Cultural Centre** (Bldg 153) main entrance on the ground floor, the **ANU Sport** (Bldg 40) front desk, and the **Bruce Hall** (Bldg 31) foyer each have 1 unit. **Lena Karmel Lodge** (Bldg 155) has another 1 unit at the basement car park entrance, covering the surrounding student accommodation precinct.
 
-**ANU 健康中心**（Bldg 19）内部候诊区配备 1 台医疗级 AED，该设备由校医院护士团队维护，支持儿童电极片模式。**University House**（Bldg 22）接待台后方 1 台设备覆盖该建筑内的学术会议与住宿区。
+The **ANU Health Centre** (Bldg 19) has 1 medical-grade AED in its internal waiting area, maintained by the university health service nursing team and supporting paediatric electrode pad mode. **University House** (Bldg 22) has 1 unit behind the reception desk, covering the building's academic conference and residential areas.
 
-### 科研与实验室区域
+### Research and Laboratory Areas
 
-高风险实验室区域部署密度提升。**林奈楼**（Linnaeus Building, Bldg 116）一层入口处安装 1 台，该建筑内设化学与生物学实验室。**物理科学楼**（Bldg 38）主走廊中段与 **化学楼**（Bldg 35）二楼西侧各设 1 台。**工程与计算机科学楼**（Bldg 32）一层大厅另设 1 台，该设备覆盖该建筑内 12 个实验室与 3 个教学机房。
+Deployment density is higher in high-risk laboratory zones. The **Linnaeus Building** (Bldg 116) has 1 unit at its ground-floor entrance; the building houses chemistry and biology laboratories. The **Physics Building** (Bldg 38) has 1 unit midway along the main corridor, and the **Chemistry Building** (Bldg 35) has 1 unit on the western side of the second floor. The **Engineering and Computer Science Building** (Bldg 32) has another 1 unit in the ground-floor lobby, covering 12 laboratories and 3 teaching computer rooms in the building.
 
-## AED 设备型号与技术参数
+## AED Device Models and Technical Specifications
 
-ANU 校园内使用的 AED 型号为 **HeartSine Samaritan PAD 350P** 与 **Philips HeartStart FRx** 两种，均为澳大利亚药品管理局（TGA）注册产品。Samaritan PAD 350P 重量为 1.1 千克，采用双相截断指数波技术（Biphasic Truncated Exponential Waveform），可在 8 秒内完成设备自检。Philips HeartStart FRx 具备儿童/成人模式切换功能，通过插入专用儿童电极片自动切换能量输出（从 150 焦耳降至 50 焦耳）。
+The AED models used on the ANU campus are the **HeartSine Samaritan PAD 350P** and the **Philips HeartStart FRx**, both registered with the Therapeutic Goods Administration (TGA) in Australia. The Samaritan PAD 350P weighs 1.1 kg and uses biphasic truncated exponential waveform technology, completing a full device self-test within 8 seconds. The Philips HeartStart FRx features a child/adult mode switch: inserting dedicated paediatric electrode pads automatically adjusts the energy output (from 150 joules down to 50 joules).
 
-所有设备均配备 **CPR 反馈功能**：电极片贴附后，设备通过语音提示指导按压深度（5—6 厘米）与频率（100—120 次/分钟）。设备电池设计寿命为 4 年或 200 次电击，电极片有效期 2 年。ANU 安全办公室使用 **AED 管理软件**（AEDLink）追踪每台设备的维护记录，到期前 90 天自动生成更换提醒。
+All devices are equipped with **CPR feedback functionality**: once the pads are applied, voice prompts guide compression depth (5–6 cm) and rate (100–120 compressions per minute). The device battery has a design life of 4 years or 200 shocks, and electrode pads have a 2-year shelf life. The ANU Safety Office uses **AED management software** (AEDLink) to track maintenance records for every unit, automatically generating replacement reminders 90 days before expiry.
 
-## 急救培训课程体系
+## First Aid Training Program
 
-### 基础课程：CPR + AED 操作
+### Basic Course: CPR + AED Operation
 
-ANU 安全与健康中心提供 **“CPR 与 AED 使用”** 课程（课程代码：HLTAID009），时长 3 小时，费用为 65 澳元（ANU 学生）或 95 澳元（教职工）。课程内容包括：成人/儿童/婴儿心肺复苏技术、AED 电极片贴附位置（右锁骨下与左腋前线第五肋间）、紧急服务呼叫流程（拨打 000 后提供 ANU 建筑编号与 AED 设备编号）。
+ANU Safety and Wellbeing offers the **"CPR and AED Use"** course (course code: HLTAID009), which runs 3 hours and costs A$65 for ANU students or A$95 for staff. Course content includes: CPR techniques for adults, children and infants; AED electrode pad placement (right side below the collarbone and the left anterior axillary line at the fifth intercostal space); and emergency services call procedures (dialling 000 and providing the ANU building number and AED device number).
 
-该课程通过澳大利亚技能质量管理局（ASQA）认证，完成者获颁国家认可证书（Statement of Attainment），有效期 12 个月。2024 年数据显示，ANU 共有 1,247 名师生完成该课程，较 2023 年增长 18%（ANU Safety and Wellbeing Annual Report, 2024）。
+The course is accredited by the Australian Skills Quality Authority (ASQA), and graduates receive a nationally recognised Statement of Attainment valid for 12 months. 2024 data shows that 1,247 ANU students and staff completed the course, up 18% from 2023 (ANU Safety and Wellbeing Annual Report, 2024).
 
-### 进阶课程：急救综合训练
+### Advanced Course: Comprehensive First Aid
 
-**“提供急救”** 课程（HLTAID011）涵盖更广泛的急救场景，包括：过敏反应（肾上腺素笔使用）、哮喘发作、严重出血控制（止血带应用）、骨折固定与脊柱损伤初步处理。课程时长 2 天（共 14 小时），费用 195 澳元（学生）/ 265 澳元（教职工）。完成者证书有效期 3 年。
+The **"Provide First Aid"** course (HLTAID011) covers a broader range of first aid scenarios, including: anaphylaxis (use of the adrenaline autoinjector), asthma attacks, severe bleeding control (tourniquet application), fracture immobilisation and initial management of spinal injuries. The course runs over 2 days (14 hours in total) and costs A$195 for students / A$265 for staff. The certificate is valid for 3 years.
 
-ANU 医学院与澳大利亚红十字会合作，每年 2 月与 7 月开设 **“校园急救员”** 专项培训，优先面向宿舍管理员、实验室安全员与体育教练。2024 年该专项培训覆盖 86 人，其中 72 人通过考核成为注册校园急救员。
+The ANU Medical School partners with Australian Red Cross to offer specialised **"Campus First Responder"** training every February and July, prioritising residence hall managers, laboratory safety officers and sports coaches. In 2024, 86 people completed the specialised training, of whom 72 passed the assessment and became registered campus first responders.
 
-## 应急响应流程与定位工具
+## Emergency Response Procedure and Locating Tools
 
-发现心脏骤停患者后，ANU 应急响应流程遵循 **“DRSABCD”** 原则：Danger（确保现场安全）、Response（检查患者反应）、Send for help（呼叫 000 并取 AED）、Airway（开放气道）、Breathing（判断呼吸）、CPR（开始胸外按压）、Defibrillation（使用 AED）。校园内所有 AED 箱体侧面印有该流程图示。
+When a cardiac arrest victim is found, the ANU emergency response procedure follows the **"DRSABCD"** principle: Danger (ensure the scene is safe), Response (check the patient's responsiveness), Send for help (call 000 and fetch the AED), Airway (open the airway), Breathing (check breathing), CPR (start chest compressions), Defibrillation (use the AED). This flow diagram is printed on the side of every AED cabinet on campus.
 
-**定位工具**方面，ANU 官方提供 **ANU Safe App**（iOS 与 Android 版本），内置交互式 AED 地图。用户打开应用后点击“AED 定位”按钮，地图以蓝点显示用户当前位置，红点标识最近 3 台 AED 设备，并显示建筑名称与楼层信息。该应用同时集成“一键呼叫 000”功能与 ANU 安全办公室直拨电话（02 6125 2249）。
+**Locating tools**: ANU officially provides the **ANU Safe App** (iOS and Android versions) with a built-in interactive AED map. After opening the app, users tap the "AED locator" button: the map shows the user's current position as a blue dot, marks the nearest 3 AEDs as red dots, and displays building names and floor information. The app also integrates a "one-tap call 000" function and the ANU Safety Office direct line (02 6125 2249).
 
-**替代路径**：未安装 App 的用户可通过 ANU 设施管理网站（facilities.anu.edu.au）下载 AED 分布 PDF 地图，该地图每季度更新，标注所有室外设备箱体编号与室内设备房间号。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%8A%A8%E4%BD%93%E5%A4%96%E9%99%A4%E9%A2%A4%E5%99%A8%E5%88%86%E5%B8%83%E4%BD%8D%E7%BD%AE%E4%B8%8E%E6%80%A5%E6%95%91%E5%9F%B9%E8%AE%AD) 等专业通道完成结汇。
+**Alternative path**: Users without the app can download the AED distribution PDF map from the ANU facilities management website (facilities.anu.edu.au). The map is updated quarterly and lists the cabinet numbers of all outdoor devices and the room numbers of indoor devices. When paying cross-border tuition, some international students' families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%8A%A8%E4%BD%93%E5%A4%96%E9%99%A4%E9%A2%A4%E5%99%A8%E5%88%86%E5%B8%83%E4%BD%8D%E7%BD%AE%E4%B8%8E%E6%80%A5%E6%95%91%E5%9F%B9%E8%AE%AD) to settle their payments.
 
-## 设备可达性与无障碍设计
+## Accessibility and Inclusive Design
 
-ANU 校园 AED 部署考虑了 **无障碍可达性** 要求。所有室外设备箱体安装高度距地面 1.0—1.2 米，符合澳大利亚残疾人通道标准（AS 1428.1:2021）。室内设备悬挂高度统一为 1.2 米，箱体前方保留 1.5 米 × 1.5 米的净空区域，确保轮椅使用者可接近。
+ANU's campus AED deployment takes **accessible reachability** into account. All outdoor cabinets are mounted 1.0–1.2 metres above the ground, in line with the Australian standard for accessible pathways (AS 1428.1:2021). Indoor devices are mounted at a uniform height of 1.2 metres, with a clear floor area of 1.5 m × 1.5 m kept in front of each cabinet so wheelchair users can approach.
 
-**视觉障碍辅助**：部分设备箱体（如 Kambri 区域）加装凸点盲文标识，标注“AED”字样与“打开箱门”操作提示。ANU 安全办公室计划在 2025 年底前为所有室外设备加装语音提示模块，当箱门打开时自动播放“AED 已取出，请撕开电极片包装”等中文与英文语音指令。
+**Assistance for visual impairment**: some device cabinets (such as those in the Kambri precinct) are fitted with raised braille markings indicating "AED" and the instruction "open the cabinet door". The ANU Safety Office plans to add voice prompt modules to all outdoor devices by the end of 2025; when the cabinet door opens, they will automatically play voice instructions in Chinese and English such as "AED removed, please tear open the electrode pad packaging".
 
-**听觉障碍辅助**：AED 设备本身提供视觉闪烁灯（红色 LED）与振动提示功能，Philips HeartStart FRx 型号在电击准备阶段会连续闪烁 10 次，并发出可感知的低频振动。
+**Assistance for hearing impairment**: the AEDs themselves provide a flashing visual indicator (red LED) and vibration alerts. The Philips HeartStart FRX flashes 10 times in succession during the shock preparation phase and emits a perceptible low-frequency vibration.
 
 ## FAQ
 
-### Q1：ANU 校园 AED 设备是否 24 小时可用？
-是。所有室外 AED 箱体为全天候防水设计（IP65 防护等级），24 小时可打开取用。室内设备（如建筑内部走廊）仅在建筑开放时段可用，但 Chifley Library、Kambri 文化中心等 24 小时开放建筑内的设备可随时获取。ANU 安全办公室 2024 年统计显示，校园 AED 平均响应时间为 2 分 47 秒，低于 3 分钟目标值。
+### Q1: Are ANU campus AEDs available 24 hours a day?
+Yes. All outdoor AED cabinets are weatherproof all-weather designs (IP65 rating) and can be opened and used 24 hours a day. Indoor devices (such as those in building corridors) are only available during building opening hours, but devices in 24-hour buildings such as Chifley Library and Kambri Cultural Centre can be accessed at any time. ANU Safety Office statistics for 2024 show that the average campus AED response time was 2 minutes 47 seconds, below the 3-minute target.
 
-### Q2：国际学生如何报名 ANU 急救培训课程？
-通过 ANU 安全与健康中心官网（safety.anu.edu.au）的“培训日历”页面在线报名。国际学生需提供学生 ID 号，费用为 65 澳元（CPR 课程）或 195 澳元（综合急救课程）。2024 年数据显示，国际学生占培训总人数的 34%。课程使用英语授课，但提供中文、韩语、印地语等 6 种语言的课程讲义下载。
+### Q2: How do international students sign up for ANU first aid training courses?
+Register online through the "Training Calendar" page on the ANU Safety and Wellbeing website (safety.anu.edu.au). International students need to provide their student ID number; the fee is A$65 (CPR course) or A$195 (comprehensive first aid course). 2024 data shows that international students made up 34% of total training participants. Courses are taught in English, but course handouts are available for download in 6 languages including Chinese, Korean and Hindi.
 
-### Q3：如果误取 AED 设备是否需要赔偿？
-不需要。ANU 校园 AED 箱体为无偿取用设计，箱门打开后会自动触发警报，但该警报仅用于通知安全办公室设备已移动，不会产生任何费用或罚款。2023—2024 年共发生 12 次误取事件（多数为好奇打开），ANU 安全办公室均未追究责任。设备归还后由维护团队检查确认状态，平均恢复时间不超过 4 小时。
+### Q3: Do I need to pay compensation if I take an AED by mistake?
+No. ANU campus AED cabinets are designed for free access. Opening the cabinet door triggers an alarm, but it only notifies the Safety Office that the device has been moved — no fees or fines are incurred. In 2023–2024 there were 12 mistaken-take incidents (most from curiosity), and the ANU Safety Office did not pursue liability in any of them. Once the device is returned, the maintenance team checks its condition, with an average recovery time of no more than 4 hours.
 
-## 参考资料
+## References
 
-- 澳大利亚心脏基金会 2023 《心脏骤停存活率与 AED 部署指南》
-- 澳大利亚复苏委员会 2021 《心肺复苏与自动体外除颤器使用指南》
-- 澳大利亚技能质量管理局 2024 《急救培训课程认证标准》
-- ANU Safety and Wellbeing 2024 《校园 AED 维护与培训年度报告》
-- Unilink Education 2024 《澳大利亚高校校园安全设施数据库》
+- Heart Foundation of Australia, 2023, Cardiac Arrest Survival and AED Deployment Guide
+- Australian Resuscitation Council, 2021, Guidelines for CPR and Use of Automated External Defibrillators
+- Australian Skills Quality Authority, 2024, First Aid Training Course Accreditation Standards
+- ANU Safety and Wellbeing, 2024, Annual Report on Campus AED Maintenance and Training
+- Unilink Education, 2024, Australian University Campus Safety Facilities Database

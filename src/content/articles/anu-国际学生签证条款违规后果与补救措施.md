@@ -1,6 +1,7 @@
 ---
-title: "ANU 国际学生签证条款违规后果与补救措施"
-description: "澳大利亚国立大学（ANU）在 2023 年招收超过 10,400 名国际学生，占其总学生注册人数的 44.1%（澳大利亚教育部，2023，《国际学生数据年度报告》）。这些学生持有的澳大利亚学生签证（Subclass 500）附带多项强制性条款，包括维持全日制注册、满足出勤率和学业进度要求，以及限制每周工作时长（每…"
+slug: anu-国际学生签证条款违规后果与补救措施
+title: "Consequences of Breaching Student Visa Conditions at ANU and How to Remedy Them"
+description: "The Australian National University (ANU) enrolled more than 10,400 international students in 2023, representing 44.1% of its total student registrations (Australian Department of Education, 2023, International Student Data Annual Report). These students hold Australian student visas (Subclass 500) with several mandatory conditions, including maintaining full-time enrolment, meeting attendance and academic progress requirements, and staying within the weekly work-hour limit (no more than 48 hours per fortnight, in effect since 1 July 2023, Australian Department of Home Affairs, 2023, Student Visa Conditions). Breaching these conditions can lead to visa cancellation, forced departure or future entry restrictions. This article systematically sets out the common visa breaches by ANU international students, the university's and the Department's response mechanisms, and the remedies available."
 category: "ANU 国际学生签证条款"
 pubDatetime: '2026-04-05T19:54:26Z'
 publishDate: '2026-04-05T19:54:26Z'
@@ -10,109 +11,104 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生签证条款违规后果与补救措施-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）在 2023 年招收超过 10,400 名国际学生，占其总学生注册人数的 44.1%（澳大利亚教育部，2023，《国际学生数据年度报告》）。这些学生持有的澳大利亚学生签证（Subclass 500）附带多项强制性条款，包括维持全日制注册、满足出勤率和学业进度要求，以及限制每周工作时长（每两周不超过 48 小时，自 2023 年 7 月 1 日起执行，澳大利亚内政事务部，2023，《学生签证条款》）。违反这些条款可能导致签证被取消、强制离境或未来入境限制。本文系统梳理 ANU 国际学生常见的签证违规情形、校方与移民局的应对机制，以及可用的补救措施。
+The Australian National University (ANU) enrolled more than 10,400 international students in 2023, representing 44.1% of its total student registrations (Australian Department of Education, 2023, International Student Data Annual Report). These students hold Australian student visas (Subclass 500) with several mandatory conditions, including maintaining full-time enrolment, meeting attendance and academic progress requirements, and staying within the weekly work-hour limit (no more than 48 hours per fortnight, in effect since 1 July 2023, Australian Department of Home Affairs, 2023, Student Visa Conditions). Breaching these conditions can lead to visa cancellation, forced departure or future entry restrictions. This article systematically sets out the common visa breaches by ANU international students, the university's and the Department's response mechanisms, and the remedies available.
 
-## 签证核心条款与违规定义
+## Core Visa Conditions and What Counts as a Breach
 
-澳大利亚学生签证（Subclass 500）包含一系列强制遵守的条件，违规行为由澳大利亚内政事务部（Home Affairs）界定，ANU 作为注册教育机构有义务向移民局报告违规情况。
+The Australian student visa (Subclass 500) carries a set of mandatory conditions. Breaches are defined by the Australian Department of Home Affairs, and ANU, as a registered education provider, has an obligation to report violations to the Department.
 
-### 8105 条款：工作限制
+### Condition 8105: Work Limits
 
-**8105 条款**规定持有人在课程开始前不得工作，课程期间每两周工作时间不得超过 48 小时。ANU 国际学生若在学期内超时工作，其工资记录或银行流水可能被移民局抽查。2022 年，澳大利亚移民局对 2,300 名国际学生进行了工作合规审计，其中 12% 被发现违反 8105 条款（澳大利亚内政事务部，2022，《学生签证合规审计报告》）。违规后果包括签证被取消，且取消后 3 年内可能被禁止申请大部分澳大利亚签证。
+**Condition 8105** states that the holder must not work before the course begins, and during the course must not work more than 48 hours per fortnight. If ANU international students work overtime during semester, their payslips or bank statements may be spot-checked by the Department. In 2022 the Department audited 2,300 international students for work compliance, and 12% were found to have breached condition 8105 (Australian Department of Home Affairs, 2022, Student Visa Compliance Audit Report). The consequences of a breach include visa cancellation, and for 3 years after cancellation the person may be barred from most Australian visa applications.
 
-### 8202 条款：出勤与学业要求
+### Condition 8202: Attendance and Academic Requirements
 
-**8202 条款**要求学生必须维持全日制注册（通常每学期 24 学分），保持令人满意的出勤率（至少 80% 的出勤记录），并取得符合 COURSE PROGRESS 要求的学业成绩。ANU 采用“学术进展阶段”系统（Stage 1、Stage 2、Stage 3），当学生连续两个学期挂科率超过 50% 或未能通过同一门必修课两次时，将被认定为“未维持满意学业进度”。ANU 会通过“学术进展通知”系统（在 ISIS 平台发布）向学生发出警告，若未在 28 天内回复或提交解释，校方将向移民局发送“非真实学生”（Non-Genuine Student）报告。
+**Condition 8202** requires students to maintain full-time enrolment (usually 24 units per semester), keep a satisfactory attendance record (at least 80%), and achieve academic results that meet COURSE PROGRESS requirements. ANU operates an "academic progress stages" system (Stage 1, Stage 2 and Stage 3): when a student fails more than 50% of courses in two consecutive semesters, or fails the same compulsory course twice, they are deemed not to have maintained satisfactory academic progress. ANU issues warnings through its academic progress notification system (published on ISIS), and if the student does not respond or provide an explanation within 28 days, the university sends a "Non-Genuine Student" report to the Department.
 
-### 8516 条款与 8533 条款
+### Conditions 8516 and 8533
 
-**8516 条款**要求学生继续满足签证授予时的所有条件，包括保持足够的健康保险（OSHC）和资金证明。**8533 条款**则要求学生在抵达澳大利亚后 7 天内通知学校其居住地址，并在地址变更后 7 天内更新。ANU 国际学生若未及时更新 ISIS 系统中的住址信息，可能导致学校无法送达正式通知，从而影响后续补救流程。
+**Condition 8516** requires students to continue satisfying all conditions that applied when the visa was granted, including maintaining adequate health insurance (OSHC) and evidence of funds. **Condition 8533** requires students to notify the university of their residential address within 7 days of arriving in Australia, and to update it within 7 days of any change. ANU international students who fail to update their ISIS address in time may find that formal notices cannot reach them, which undermines later remedy processes.
 
-## ANU 的违规报告机制
+## ANU's Breach Reporting Mechanisms
 
-ANU 作为“注册国际学生课程提供者”（CRICOS Provider Code: 00120C），受《2018 年海外学生教育服务法案》（ESOS Act）和《国家规范》约束，对签证违规负有报告义务。
+As a registered provider of courses to overseas students (CRICOS Provider Code: 00120C), ANU is bound by the ESOS Act 2018 and the National Code, and has reporting obligations in respect of visa breaches.
 
-### 学术进展报告流程
+### Academic Progress Reporting Process
 
-当学生进入 **Stage 2 学术进展**（连续两个学期挂科超过 50%），ANU 学术技能与支持中心会安排一次强制面谈。学生需在 10 个工作日内提交“学术改善计划”（Academic Improvement Plan）。若计划被拒绝或学生未提交，校方将启动 Stage 3 程序，将学生信息录入“澳大利亚学生签证学术进展数据库”（PRISMS），并标记为“未维持满意学业进度”。这一标记直接触发移民局审查。
+When a student enters **Stage 2 academic progress** (failing more than 50% of courses in two consecutive semesters), ANU's Academic Skills and Support Centre arranges a compulsory interview. The student must submit an "Academic Improvement Plan" within 10 working days. If the plan is rejected or not submitted, the university activates Stage 3, entering the student's details into the Provider Registration and International Students Management System (PRISMS) with a "not maintaining satisfactory academic progress" marker. This marker directly triggers a Department review.
 
-### 出勤率与工作违规报告
+### Attendance and Work Breach Reporting
 
-ANU 国际学生服务处（International Student Services）负责监控出勤率。若学生连续 5 个教学日无故缺勤，系统会自动生成提醒。出勤率低于 80% 且无医疗或特殊理由时，校方在 14 个工作日内向移民局提交“违反 8202 条款”报告。对于工作违规，ANU 本身不直接监控工时，但若移民局通过税务数据（如 ATO 的 PAYG 记录）发现超时工作，ANU 会在收到移民局通知后 21 天内提供学生注册状态证明。
+ANU's International Student Services monitors attendance. If a student is absent without explanation for 5 consecutive teaching days, the system automatically generates a reminder. When attendance falls below 80% without medical or special reasons, the university submits a "breach of condition 8202" report to the Department within 14 working days. For work breaches, ANU does not directly monitor hours, but if the Department discovers overtime work through tax data (such as ATO PAYG records), ANU must provide evidence of the student's enrolment status within 21 days of receiving the Department's notice.
 
-## 签证取消与行政程序
+## Visa Cancellation and Administrative Procedures
 
-一旦移民局收到 ANU 的违规报告或自行发现违规，将启动签证取消程序。该程序受《1958 年移民法》第 116 条和 128 条管辖。
+Once the Department receives a breach report from ANU or discovers a breach itself, it begins the visa cancellation process. This process is governed by sections 116 and 128 of the Migration Act 1958.
 
-### 程序公平通知（Natural Justice Letter）
+### Natural Justice Letter
 
-在决定取消签证前，移民局会向学生发出“程序公平通知”（Natural Justice Letter），给予 **28 天**（标准时长）回应期。学生需在此期限内提交书面解释和证据，如医疗证明、家庭紧急情况证明或心理咨询记录。ANU 国际学生可通过学校免费的法律援助服务（ANU 学生权益办公室，Student Equity Office）获取协助。若学生未在 28 天内回应，移民局可直接取消签证，且不另行通知。
+Before deciding to cancel a visa, the Department sends the student a "Natural Justice Letter" giving a **28-day** (standard) response period. Within that period the student must submit a written explanation and evidence, such as medical certificates, proof of family emergencies or counselling records. ANU international students can get help from the university's free legal assistance service (the Student Equity Office). If the student does not respond within 28 days, the Department can cancel the visa directly without further notice.
 
-### 签证取消后果
+### Consequences of Visa Cancellation
 
-签证取消后，学生将获得“Bridging Visa E”（过桥签证 E），有效期通常为 28 天，用于安排离境。取消记录会进入移民局永久档案，影响未来申请澳大利亚或其他五眼联盟国家（美国、英国、加拿大、新西兰）的签证。根据澳大利亚行政上诉仲裁庭（AAT）2023 年数据，学生签证取消案件中，约 34% 的上诉在听证后获得撤销或改判（AAT，2023，《移民与难民事务年度报告》）。
+After cancellation, the student receives a "Bridging Visa E", usually valid for 28 days, to arrange departure. The cancellation record goes into the Department's permanent file and affects future visa applications to Australia and other Five Eyes countries (the United States, the United Kingdom, Canada and New Zealand). According to the Administrative Appeals Tribunal's (AAT) 2023 data, around 34% of appeals in student visa cancellation cases were overturned or varied after a hearing (AAT, 2023, Annual Report on Migration and Refugee Matters).
 
-## 补救措施：校内申诉与外部复核
+## Remedies: Internal Appeals and External Review
 
-学生若收到 ANU 的学术进展通知或移民局的取消意向通知，可采取分层补救措施。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%AD%BE%E8%AF%81%E6%9D%A1%E6%AC%BE%E8%BF%9D%E8%A7%84%E5%90%8E%E6%9E%9C%E4%B8%8E%E8%A1%A5%E6%95%91%E6%8E%AA%E6%96%BD) 等专业通道完成结汇，但此操作不影响签证状态本身。
+Students who receive an ANU academic progress notice or a Department intention-to-cancel notice can take a tiered approach to remedy. For cross-border tuition payments, some families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%AD%BE%E8%AF%81%E6%9D%A1%E6%AC%BE%E8%BF%9D%E8%A7%84%E5%90%8E%E6%9E%9C%E4%B8%8E%E8%A1%A5%E6%95%91%E6%8E%AA%E6%96%BD) to convert and remit funds — though this does not affect visa status itself.
 
-### ANU 校内申诉（Academic Appeals）
+### ANU Internal Academic Appeals
 
-学生可在收到 ANU 学术进展决定后的 **20 个工作日**内提交书面申诉，向“学术进展申诉委员会”（Academic Progress Appeals Committee）提出。申诉理由必须基于程序错误、特殊减刑情况（如严重疾病、丧亲、心理健康危机）或评估不公。委员会在 30 个工作日内做出裁决。若申诉成功，学生可恢复注册并继续学业；若失败，学生需在 10 个工作日内办理休学或退学手续。
+A student can lodge a written appeal within **20 working days** of receiving an ANU academic progress decision, addressed to the Academic Progress Appeals Committee. Grounds for appeal must be procedural error, exceptional mitigating circumstances (such as serious illness, bereavement or a mental health crisis) or unfair assessment. The Committee rules within 30 working days. If the appeal succeeds, the student can resume enrolment and continue studying; if it fails, the student must complete suspension or withdrawal formalities within 10 working days.
 
-### 移民局内部复核与 AAT 上诉
+### Departmental Internal Review and AAT Appeals
 
-若签证被取消，学生可在收到取消决定后的 **21 天**内向行政上诉仲裁庭（AAT）申请复核。AAT 听证会通常安排在提交申请后的 8-12 周内。学生需提交“AAT 复核申请”（Form AAT-IM），并缴纳申请费（2023 年标准为 2,980 澳元）。AAT 有权撤销移民局决定、发回重审或维持原判。ANU 国际学生可申请“法律援助金”（Legal Aid NSW 或 ACT Legal Aid）支付 AAT 费用。
+If the visa has been cancelled, the student can apply to the Administrative Appeals Tribunal (AAT) for review within **21 days** of receiving the cancellation decision. AAT hearings are usually scheduled 8-12 weeks after the application is lodged. Students must submit the "AAT review application" (Form AAT-IM) and pay the application fee (2,980 AUD at the 2023 rate). The AAT can set aside the Department's decision, remit it for reconsideration, or affirm it. ANU international students can apply for legal aid (Legal Aid NSW or ACT Legal Aid) to cover AAT costs.
 
-## 预防性合规策略
+## Preventative Compliance Strategies
 
-避免签证违规的最佳方式是通过主动管理学业、工作和生活状态，确保始终符合签证条款。
+The best way to avoid a visa breach is to actively manage your academic, work and personal circumstances so you always satisfy the visa conditions.
 
-### 学业支持资源
+### Academic Support Resources
 
-ANU 提供多项免费支持服务：学术技能中心（Academic Skills Centre）提供一对一辅导，每周可预约 2 次，每次 45 分钟；学生心理咨询中心（ANU Counselling Centre）提供 10 次免费心理咨询。学生若因心理健康问题影响学业，可申请“特殊考虑”（Special Consideration），在考试前 3 天提交医疗证明，可延期考试或调整评估方式。
+ANU offers several free support services: the Academic Skills Centre provides one-on-one tutoring that can be booked twice a week, 45 minutes per session, and the ANU Counselling Centre provides 10 free counselling sessions. Students whose studies are affected by mental health issues can apply for "Special Consideration" — submitting a medical certificate 3 days before an exam can defer the exam or adjust the assessment method.
 
-### 工作与时间管理
+### Work and Time Management
 
-国际学生应使用“每两周工作日志”工具（ANU 国际学生服务处提供模板），记录所有工作时长（包括兼职、实习和线上工作）。若总收入超过免税门槛（2023-2024 财年为 18,200 澳元），需注册澳大利亚商业号码（ABN）并按时报税。学生可通过 ANU 就业与职业发展中心（CareerHub）寻找校内工作，其工时通常自动控制在两周 48 小时以内。
+International students should keep a "fortnightly work log" (ANU International Student Services provides a template) recording all hours worked, including part-time jobs, internships and online work. If total income exceeds the tax-free threshold ($18,200 in the 2023-2024 financial year), you need to register for an Australian Business Number (ABN) and lodge tax returns on time. Students can find on-campus jobs through ANU's careers service (CareerHub), where hours are usually automatically kept within the 48-hour fortnightly limit.
 
-## 常见误解与例外情形
+## Common Misunderstandings and Exceptions
 
-部分学生因误解签证条款而无意违规，以下澄清几个关键点。
+Some students breach visa conditions unintentionally because they misunderstand them. A few key points are clarified below.
 
-### 毕业后的工作权利
+### Work Rights After Graduation
 
-学生签证在课程结束后仍有效，但工作限制条款（8105）在课程完成日（通常为学位授予日期）后自动失效。学生可申请“毕业生临时签证”（Subclass 485），允许全职工作 2-4 年（视学历层次和所学专业而定，澳大利亚移民局，2023，《毕业生签证政策》）。在等待 485 签证审理期间，若持有过桥签证 A，可全职工作。
+The student visa remains valid after the course ends, but the work limit (condition 8105) automatically lapses on the course completion date (usually the degree conferral date). Students can apply for a "Temporary Graduate visa" (Subclass 485), which allows full-time work for 2-4 years (depending on qualification level and field of study, Australian Department of Home Affairs, 2023, Graduate Visa Policy). While waiting for the 485 application to be processed, holders of a Bridging Visa A can work full-time.
 
-### 远程学习与出勤要求
+### Remote Study and Attendance Requirements
 
-2020-2022 年疫情期间，移民局放宽了 8202 条款，允许境外远程学习。但自 2023 年 6 月 30 日起，所有国际学生必须恢复线下出勤，除非课程本身为纯在线模式。ANU 目前仅 3 门研究生课程（如“数字人文硕士”）完全在线，其余课程要求至少 80% 的线下出勤率。
+During the pandemic (2020-2022), the Department relaxed condition 8202 to allow remote study from overseas. However, since 30 June 2023, all international students must resume in-person attendance unless the course itself is fully online. ANU currently has only 3 postgraduate courses fully online (such as the Master of Digital Humanities); all other courses require at least 80% in-person attendance.
 
 ## FAQ
 
-### Q1：如果我在 ANU 挂科超过 50%，会被直接取消签证吗？
-不会。挂科超过 50% 首先触发 ANU 的“学术进展 Stage 2”程序，学生有 28 天时间提交“学术改善计划”。若计划被接受，学生可继续学业。只有在 Stage 3 阶段且未成功申诉时，ANU 才会向移民局报告。从挂科到签证取消，平均流程耗时 90-120 天。
+### Q1: If I fail more than 50% of my courses at ANU, will my visa be cancelled directly?
 
-### Q2：我每两周工作超过 48 小时，但只超了 2 小时，会被发现吗？
-存在被发现的可能。澳大利亚税务局（ATO）与移民局共享数据，2023 年审计中，约 8% 的违规案例涉及工时超限 5 小时以内（澳大利亚内政事务部，2023，《学生签证合规审计报告》）。建议立即调整工时，并保留所有工资单作为合规证明。
+No. Failing more than 50% first triggers ANU's "academic progress Stage 2" process, and you have 28 days to submit an "Academic Improvement Plan". If the plan is accepted, you can continue your studies. ANU only reports to the Department at Stage 3, and only if the appeal has not succeeded. From failing courses to visa cancellation, the average process takes 90-120 days.
 
-### Q3：签证被取消后，我还能申请新的学生签证吗？
-可以，但受限。签证取消后 3 年内，申请人通常无法获得“技术移民”或“学生签证”类别的批准（《移民法》第 48 条限制）。但若取消是基于程序错误或医疗原因，且申请人能证明情况已改变，可申请豁免。2022 年，约 15% 的此类申请获得批准（AAT，2022，《移民事务统计简报》）。
+### Q2: I worked more than 48 hours in a fortnight, but only by 2 hours. Will I be caught?
+
+It is possible. The Australian Taxation Office (ATO) shares data with the Department, and in the 2023 audits about 8% of breach cases involved exceeding the limit by less than 5 hours (Australian Department of Home Affairs, 2023, Student Visa Compliance Audit Report). Adjust your hours immediately and keep all payslips as evidence of compliance.
+
+### Q3: Can I apply for a new student visa after cancellation?
+
+Yes, but with restrictions. Within 3 years of cancellation, applicants generally cannot be granted a visa in the "skilled migration" or "student visa" categories (a section 48 restriction under the Migration Act). However, if the cancellation was based on a procedural error or medical reasons, and the applicant can demonstrate the circumstances have changed, an exemption can be requested. In 2022, about 15% of such applications were approved (AAT, 2022, Migration Statistics Brief).
 
 ## 参考资料
 
-- 澳大利亚内政事务部 2023 《学生签证条款（Subclass 500）》
-- 澳大利亚教育部 2023 《国际学生数据年度报告》
-- 澳大利亚行政上诉仲裁庭 2023 《移民与难民事务年度报告》
-- 澳大利亚税务局 2023 《国际学生工作合规指南》
-- UNILINK Education 2023 《澳大利亚学生签证违规案例数据库》
+- Australian Department of Home Affairs, 2023, Student Visa Conditions (Subclass 500)
+- Australian Department of Education, 2023, International Student Data Annual Report
+- Administrative Appeals Tribunal, 2023, Annual Report on Migration and Refugee Matters
+- Australian Taxation Office, 2023, International Student Work Compliance Guide
+- UNILINK Education, 2023, Australian Student Visa Breach Case Database
 
 <!-- AFF-CARD:v1:START -->
-<div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-国际学生签证条款违规后果与补救措施" target="_blank"
-     rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"
-     data-affiliate-card="oshc-au" aria-label="Compare Australian OSHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OSHC plans</span><span class="cc-aff-card__note">The student-visa health cover required for subclass 500 — compare major insurers side by side.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
-  <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
-</div>
-<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
-<!-- AFF-CARD:v1:END -->

@@ -1,6 +1,7 @@
 ---
+slug: anu-community-service-and-volunteering-how-to-get-your-participation-verified-an
 title: "ANU Community Service and Volunteering: How to Get Your Participation Verified and Recognised on Your Co-Curricular Transcript"
-description: "澳大利亚国立大学（ANU）自2020年起正式启用**课外活动成绩单（Co-Curricular Transcript，CCT）**，为学生在课堂之外参与的社区服务、志愿服务及领导力活动提供官方认证记录。根据ANU学生事务部2023年发布的《课外活动成绩单年度报告》，该校在2022至2023学年共认证了超过4,20…"
+description: "Since 2020, the Australian National University (ANU) has officially operated the Co-Curricular Transcript (CCT), providing official certified records of students' community service, volunteering, and leadership activities outside the classroom. According to the ANU Student Life division's 2023 CCT Annual Report, the university certified more than 4,200 co-curricular activities in the 2022-2023 academic year, of which community service and volunteering accounted for 37.5%."
 category: "ANU"
 pubDatetime: '2026-04-28T19:58:58Z'
 publishDate: '2026-04-28T19:58:58Z'
@@ -10,122 +11,122 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-community-service-and-volunteering-how-to-get-your-participation-verified-an-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）自2020年起正式启用**课外活动成绩单（Co-Curricular Transcript，CCT）**，为学生在课堂之外参与的社区服务、志愿服务及领导力活动提供官方认证记录。根据ANU学生事务部2023年发布的《课外活动成绩单年度报告》，该校在2022至2023学年共认证了超过4,200项课外活动，其中社区服务与志愿服务占比达37.5%。这一机制不仅帮助学生系统化整理课外经历，也成为求职和深造申请中可被雇主与高校核验的正式文件。随着澳大利亚政府对国际学生毕业后工作签证（Post-Study Work Visa）中“志愿服务与社区参与”加分项的明确化（澳大利亚移民局，2024年《移民条例修正案》），ANU的CCT系统正成为留学生在澳积累“软技能”证据链的核心工具。
+Since 2020, the Australian National University (ANU) has officially operated the **Co-Curricular Transcript (CCT)**, providing official certified records of students' community service, volunteering, and leadership activities outside the classroom. According to the *Co-Curricular Transcript Annual Report* published by ANU Student Life in 2023, the university certified more than 4,200 co-curricular activities in the 2022-2023 academic year, of which community service and volunteering accounted for 37.5%. This mechanism not only helps students systematically organise their extracurricular experience, but also produces a formal document that employers and universities can verify in job applications and further study applications. With the Australian Government's clarification of the "volunteering and community engagement" bonus points for the international student Post-Study Work Visa (Department of Home Affairs, 2024 *Migration Regulations Amendment*), ANU's CCT system is becoming a core tool for international students to build an evidence trail of "soft skills" while in Australia.
 
-## 课外活动成绩单（CCT）的运作机制
+## How the Co-Curricular Transcript (CCT) Works
 
-ANU的课外活动成绩单由学生事务部（Student Life）统一管理，是一个**官方认证的电子档案**，记录学生在校期间参与的经审核的课外活动。该成绩单与学术成绩单平行，学生可随时通过ISIS系统申请生成并下载PDF版本。
+ANU's Co-Curricular Transcript is administered centrally by the Student Life division. It is an **officially certified electronic record** of the audited co-curricular activities a student participates in during their studies. The transcript runs parallel to the academic transcript, and students can request and download a PDF version at any time through the ISIS system.
 
-### 认证范围与分类
+### Scope and Categories of Certification
 
-CCT覆盖的活动分为三大类：**社区服务与志愿服务**（包括校内社团组织的社区项目、校外非营利机构的定期服务）、**领导力发展**（如担任学生社团主席、学院代表或志愿者团队负责人），以及**职业发展活动**（如实习、行业竞赛）。每项活动需满足最低时长要求（通常为20小时以上）才能被记录。
+CCT covers three broad categories of activity: **community service and volunteering** (including community projects run by on-campus clubs and regular service with off-campus not-for-profit organisations), **leadership development** (such as serving as a student club president, college representative, or volunteer team leader), and **career development activities** (such as internships and industry competitions). Each activity must meet a minimum duration requirement (usually 20 hours or more) to be recorded.
 
-### 申请与审核流程
+### Application and Review Process
 
-学生需通过ANU的“课外活动记录平台”（Co-Curricular Record Portal）提交活动证明。审核由学生事务部工作人员在10个工作日内完成。根据ANU官网2024年更新的操作指南，学生需上传包含活动名称、组织方、起止日期、**实际服务时长**及主管签字的证明文件。审核通过后，该活动将永久保留在学生的CCT中，不可自行删除。
+Students submit activity evidence through ANU's Co-Curricular Record Portal. Reviews are completed by Student Life staff within 10 working days. According to the operational guide updated on the ANU website in 2024, students must upload a supporting document that includes the activity name, organising body, start and end dates, **actual service hours**, and a supervisor's signature. Once approved, the activity remains permanently on the student's CCT and cannot be deleted by the student.
 
-### 与学术成绩单的差异
+### How It Differs from the Academic Transcript
 
-与学术成绩单不同，CCT不包含评分或等级，仅记录活动名称、组织方、日期和时长。ANU强调，CCT是**事实性记录**而非评估性文件，旨在客观呈现学生的课外投入。截至2024年，已有超过8,000名在校生激活了CCT账户（ANU学生事务部，2024年内部统计数据）。
+Unlike the academic transcript, the CCT contains no grades or ratings — it records only the activity name, organising body, dates, and hours. ANU emphasises that the CCT is a **factual record**, not an evaluative document, designed to objectively present students' extracurricular commitment. As of 2024, more than 8,000 current students had activated a CCT account (ANU Student Life, 2024 internal statistics).
 
-## 如何获取志愿服务机会
+## How to Find Volunteering Opportunities
 
-ANU拥有澳大利亚高校中规模最大的学生志愿服务网络之一，通过多个官方渠道发布机会。学生无需自行寻找外部组织，校内资源即可覆盖大部分需求。
+ANU has one of the largest student volunteering networks among Australian universities, publishing opportunities through multiple official channels. Students do not need to search out external organisations on their own; on-campus resources cover most needs.
 
-### ANU+ 志愿服务项目
+### The ANU+ Volunteering Program
 
-ANU+是学校官方的**志愿服务认证项目**，每年提供超过150个校内及社区岗位。学生可通过ANU+网站浏览当前开放的职位，涵盖从校园迎新向导到堪培拉本地慈善机构（如堪培拉食品银行）的日常服务。完成ANU+项目可获得CCT认证，且项目时长通常为20-40小时。
+ANU+ is the university's official **volunteering certification program**, offering more than 150 on-campus and community positions each year. Students can browse currently open positions on the ANU+ website, ranging from campus orientation guides to regular service with Canberra-based charities (such as the Canberra Food Bank). Completing an ANU+ program earns CCT certification, with program durations typically 20-40 hours.
 
-### 学生社团与协会
+### Student Clubs and Societies
 
-ANU注册的200多个学生社团中，超过60个设有社区服务分支。例如，ANU志愿者协会（ANU Volunteers）每年组织约30场社区清洁、义卖和教育活动。参与这些社团活动同样可申请CCT认证，但需确保社团负责人向学生事务部提交活动备案。
+Of the more than 200 registered student clubs at ANU, over 60 have community service branches. For example, ANU Volunteers organises about 30 community clean-up, charity sale, and education events each year. Participation in these club activities can also be submitted for CCT certification, provided the club leader files the activity with Student Life.
 
-### 堪培拉本地社区组织
+### Canberra-Based Community Organisations
 
-对于希望拓展校外经验的学生，ANU与堪培拉市政府合作建立了“社区服务伙伴网络”（Community Service Partner Network），涵盖约80家本地非营利组织。学生可通过该网络直接联系组织，完成服务后由组织方出具证明，再提交至CCT平台。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-community-service-and-volunteering-how-to-get-your-participation-verified-an) 等专业通道完成结汇。
+For students who want experience beyond campus, ANU works with the ACT Government to run the Community Service Partner Network, covering about 80 local not-for-profit organisations. Students can contact organisations directly through the network; after completing service, the organisation issues a certificate, which the student then submits to the CCT platform. When paying tuition fees across borders, some study-abroad families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-community-service-and-volunteering-how-to-get-your-participation-verified-an) to complete currency settlement.
 
-## 志愿服务时长的记录与验证
+## Recording and Verifying Volunteering Hours
 
-准确的时长记录是CCT认证的核心。ANU对时长的计算有明确规则，学生需严格遵守以避免认证失败。
+Accurate hour records are the core of CCT certification. ANU has clear rules for calculating hours, and students must follow them strictly to avoid certification failure.
 
-### 最低时长与累计规则
+### Minimum Hours and Accumulation Rules
 
-每项活动需达到**20小时最低时长**才能被记录，但同一活动可跨学期累计。例如，学生每周在堪培拉动物收容所服务2小时，持续12周（共24小时），即可申请认证。超过50小时的活动将被标注为“深度参与”（Extended Engagement），在CCT中单独列示。
+Each activity must reach a **minimum of 20 hours** to be recorded, but the same activity can be accumulated across semesters. For example, a student who volunteers 2 hours a week at a Canberra animal shelter for 12 weeks (24 hours in total) can apply for certification. Activities exceeding 50 hours are marked as "Extended Engagement" and listed separately on the CCT.
 
-### 证明文件要求
+### Supporting Document Requirements
 
-证明文件必须包含以下信息：组织方官方信头或印章、学生全名、活动起止日期、**具体服务小时数**（精确到0.5小时）、主管姓名及联系方式。电子签名或扫描件均可接受。ANU不接受自我声明或同学互证。
+Supporting documents must include: the organising body's official letterhead or stamp, the student's full name, the activity's start and end dates, **the specific number of service hours** (accurate to 0.5 hours), and the supervisor's name and contact details. Electronic signatures or scanned copies are both acceptable. ANU does not accept self-declarations or peer attestations.
 
-### 审核与争议处理
+### Review and Dispute Handling
 
-若审核未通过，学生可在14天内提交补充材料。根据ANU学生事务部2023年的数据，初次审核通过率约为82%，最常见的驳回原因为“证明文件缺少服务时长”或“组织方未在ANU备案名单中”。学生可通过学生中心（Student Central）提出申诉。
+If a review is not approved, students may submit supplementary materials within 14 days. According to ANU Student Life 2023 data, the initial approval rate was about 82%, with the most common rejection reasons being "supporting document missing service hours" or "organising body not on ANU's registered list". Students can lodge an appeal through Student Central.
 
-## CCT在求职与深造中的应用
+## Using the CCT in Job Applications and Further Study
 
-CCT不仅是校内记录，更是学生进入职场或申请研究生院时的**差异化优势**。多项研究显示，志愿服务经历在招聘和录取中具有可量化的权重。
+The CCT is not just an on-campus record — it is a **differentiating advantage** when students enter the workforce or apply for graduate school. Multiple studies show that volunteering experience carries measurable weight in hiring and admissions.
 
-### 雇主认可度
+### Employer Recognition
 
-根据澳大利亚毕业生雇主协会（AAGE）2023年的调查，68%的澳大利亚雇主在筛选应届生时会关注课外活动记录，其中志愿服务经历被列为第三大重要因素（仅次于实习经历和学术成绩）。ANU的CCT因其官方背书性质，在澳洲本土企业（如四大会计师事务所、联邦银行）的招聘系统中被列为可核验文件。
+According to a 2023 survey by the Australian Association of Graduate Employers (AAGE), 68% of Australian employers look at co-curricular activity records when screening graduates, with volunteering experience ranked the third most important factor (behind internship experience and academic grades). Because of its official endorsement, ANU's CCT is listed as a verifiable document in the recruitment systems of Australian employers such as the Big Four accounting firms and Commonwealth Bank.
 
-### 研究生申请中的价值
+### Value in Graduate School Applications
 
-在申请澳大利亚国立大学、墨尔本大学等八校联盟（Go8）的研究生项目时，部分课程（如公共政策、国际发展）明确要求或优先考虑有社区服务经历的申请者。CCT提供了**标准化、可验证的证明**，替代了以往依赖个人陈述的主观描述。根据ANU研究生院2024年的招生数据，拥有3项以上CCT记录的学生，其录取平均分（GPA）比无记录学生低0.15个基点，说明课外活动在一定程度上可补偿学术成绩的不足。
+When applying for postgraduate programs at Group of Eight (Go8) universities such as ANU and the University of Melbourne, some courses (such as public policy and international development) explicitly require or give priority to applicants with community service experience. The CCT provides a **standardised, verifiable proof** that replaces the subjective descriptions previously relied on in personal statements. According to ANU Graduate Research School 2024 admissions data, students with 3 or more CCT records were admitted with an average GPA 0.15 points lower than students without records, showing that co-curricular activities can, to some extent, compensate for weaker academic results.
 
-### 国际学生专属优势
+### Exclusive Advantages for International Students
 
-对于国际学生，CCT记录还可用于申请澳大利亚移民局的“技能优先签证”（Skill Priority Visa）中的社区贡献加分（澳大利亚移民局，2024年《技术移民评分指南》）。每50小时经认证的志愿服务可获得1分，上限为5分。
+For international students, CCT records can also be used to claim community contribution points for the Department of Home Affairs' Skill Priority Visa (2024 *Skilled Migration Points Guide*). Each 50 hours of certified volunteering earns 1 point, up to a maximum of 5 points.
 
-## 常见认证问题与解决方案
+## Common Certification Issues and Solutions
 
-学生在使用CCT系统时可能遇到技术或流程问题。以下为高频问题及官方解决方案。
+Students may run into technical or procedural problems when using the CCT system. Below are the most frequent issues and the official solutions.
 
-### 活动未被平台收录
+### Activity Not in the Platform's Catalogue
 
-若学生参与的活动组织方不在ANU备案名单中，需先由组织方通过ANU社区服务伙伴网络提交注册申请。审核周期为2-4周。学生应提前规划，避免在毕业前集中提交。
+If the organising body of a student's activity is not on ANU's registered list, the organisation must first submit a registration application through the ANU Community Service Partner Network. The review takes 2-4 weeks. Students should plan ahead and avoid submitting everything right before graduation.
 
-### 证明文件丢失
+### Lost Supporting Documents
 
-如果学生丢失了原始证明，可联系原组织方请求补发。ANU不接受“丢失声明”作为替代。对于已离校学生，ANU保留CCT记录5年，但需通过校友邮箱申请补发。
+If a student has lost the original certificate, they can contact the organising body to request a reissue. ANU does not accept a "lost declaration" as a substitute. For students who have already left the university, ANU retains CCT records for 5 years, but reissues must be requested through the alumni email.
 
-### 活动时间冲突
+### Clashing Activity Times
 
-若同一时间段参与多项活动，ANU允许学生将时长拆分至不同活动，但每项活动仍需满足20小时最低时长。例如，学生可在同一学期内完成两项各30小时的活动，只要总时长不超过学期可用时间。
+If a student participates in multiple activities in the same period, ANU allows the hours to be split across different activities, but each activity must still meet the 20-hour minimum. For example, a student can complete two activities of 30 hours each in the same semester, as long as the total hours do not exceed the time available in the semester.
 
-## 学期安排与志愿服务规划
+## Semester Planning and Volunteering Schedules
 
-ANU的学术日历对志愿服务参与有直接影响。学生需根据学期节奏合理安排服务时间，以避免与考试或论文冲突。
+ANU's academic calendar directly affects volunteering participation. Students need to schedule service time around the semester rhythm to avoid clashes with exams or assignments.
 
-### 学期与假期分配
+### Semester and Vacation Allocation
 
-ANU每年有两个主要学期（Semester 1：2月-6月；Semester 2：7月-11月）和两个假期（12月-2月暑假；6月-7月寒假）。**志愿服务的高峰期**通常集中在学期初（第1-4周）和学期末（第10-12周），前者为社团招新和项目启动期，后者为收尾和总结期。
+ANU has two main semesters per year (Semester 1: February-June; Semester 2: July-November) and two vacation periods (the summer break from December to February and the winter break from June to July). **Volunteering peaks** usually fall at the start of semester (Weeks 1-4), when clubs recruit and projects launch, and the end of semester (Weeks 10-12), when activities wrap up and are summarised.
 
-### 每周时间预算建议
+### Recommended Weekly Time Budget
 
-根据ANU学生事务部2023年的建议，全日制学生每周可投入志愿服务的时间为3-5小时，不影响学业。超过8小时/周的学生，其平均GPA下降0.2个基点（基于ANU 2022-2023年学生数据）。学生应使用ANU的“时间管理工具”（Time Management Toolkit）进行规划。
+According to ANU Student Life's 2023 advice, full-time students can devote 3-5 hours a week to volunteering without affecting their studies. Students volunteering more than 8 hours a week saw their average GPA drop by 0.2 points (based on ANU 2022-2023 student data). Students should use ANU's Time Management Toolkit to plan.
 
-### 假期密集型项目
+### Intensive Vacation Programs
 
-寒假和暑假期间，ANU会推出“社区服务加速项目”（Community Service Accelerator），提供40-80小时的集中服务机会（如偏远地区教育支持）。这类项目适合希望在短时间内积累CCT时长的学生，但需提前3个月申请。
+During the winter and summer breaks, ANU runs the Community Service Accelerator, offering concentrated service opportunities of 40-80 hours (such as education support in remote areas). These programs suit students who want to accumulate CCT hours quickly, but applications must be submitted 3 months in advance.
 
 ## FAQ
 
-### Q1：CCT上的志愿服务记录会过期吗？
+### Q1: Do volunteering records on the CCT expire?
 
-不会过期。ANU的CCT记录永久保留在学生档案中，即使毕业后也可通过校友账户访问。但需注意，毕业5年后，学生需通过校友邮箱（alumni.anu.edu.au）申请生成CCT副本，处理周期为5个工作日。
+No. ANU CCT records are kept permanently in the student's file and remain accessible through the alumni account after graduation. However, note that 5 years after graduation, students must request a CCT copy through the alumni email (alumni.anu.edu.au), with a processing period of 5 working days.
 
-### Q2：国际学生每学期最多能认证多少小时的志愿服务？
+### Q2: What is the maximum number of volunteering hours an international student can have certified per semester?
 
-无上限。但ANU建议国际学生每学期认证不超过100小时，因为超过该时长的活动可能触发移民局对“工作与学习平衡”的审查（澳大利亚移民局，2024年《学生签证条款》）。实际认证时，学生需确保服务时间不与课程出勤要求冲突。
+There is no cap. However, ANU advises international students to certify no more than 100 hours per semester, because activities beyond that may trigger the Department of Home Affairs' review of "work-study balance" (2024 *Student Visa Conditions*). When certifying, students must ensure service time does not conflict with course attendance requirements.
 
-### Q3：如果志愿服务是在ANU之外的组织完成的，如何获得CCT认证？
+### Q3: If my volunteering was done with an organisation outside ANU, how do I get CCT certification?
 
-学生需先确认该组织是否在ANU的“社区服务伙伴网络”中。若不在，需由组织方通过ANU官网提交注册申请（审核周期2-4周）。通过后，学生提交证明文件即可。截至2024年，该网络已覆盖堪培拉及周边地区约80家组织。
+First confirm whether the organisation is in ANU's Community Service Partner Network. If not, the organisation must submit a registration application through the ANU website (review takes 2-4 weeks). Once approved, submit your supporting document and you're done. As of 2024, the network covers about 80 organisations in Canberra and the surrounding region.
 
-## 参考资料
+## References
 
-- 澳大利亚国立大学学生事务部 2023年《课外活动成绩单年度报告》
-- 澳大利亚移民局 2024年《移民条例修正案》及《技术移民评分指南》
-- 澳大利亚毕业生雇主协会（AAGE）2023年《应届生招聘趋势调查报告》
-- 澳大利亚国立大学研究生院 2024年《招生数据统计摘要》
-- Unilink Education 2024年《澳大利亚高校课外活动认证机制数据库》
+- Australian National University Student Life 2023 *Co-Curricular Transcript Annual Report*
+- Australian Department of Home Affairs 2024 *Migration Regulations Amendment* and *Skilled Migration Points Guide*
+- Australian Association of Graduate Employers (AAGE) 2023 *Graduate Recruitment Trends Survey Report*
+- Australian National University Graduate Research School 2024 *Admissions Data Summary*
+- Unilink Education 2024 *Database of Co-Curricular Certification Mechanisms at Australian Universities*

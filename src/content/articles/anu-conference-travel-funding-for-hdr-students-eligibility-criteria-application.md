@@ -1,6 +1,7 @@
 ---
+slug: anu-conference-travel-funding-for-hdr-students-eligibility-criteria-application
 title: "ANU Conference Travel Funding for HDR Students: Eligibility Criteria, Application Rounds, and Allowance Rates"
-description: "澳大利亚国立大学（ANU）为高等教育研究学位（HDR）学生设立的会议旅行资助（Conference Travel Funding）项目，在2024-2025学年共发放超过180万澳元，惠及约750名博士生和硕士研究类学生，根据澳大利亚教育、技能与就业部（DESE）2024年《研究培训计划年度报告》，该资助覆盖了学…"
+description: "The Australian National University (ANU) Conference Travel Funding program for Higher Degree by Research (HDR) students disbursed more than AUD 1.8 million in the 2024-2025 academic year, benefiting around 750 PhD and MPhil research students. According to the 2024 Research Training Program Annual Report from the Australian Department of Education, Skills and Employment (DESE), the funding covers students' …"
 category: "ANU"
 pubDatetime: '2026-05-06T20:00:19Z'
 publishDate: '2026-05-06T20:00:19Z'
@@ -10,80 +11,72 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-conference-travel-funding-for-hdr-students-eligibility-criteria-application-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）为高等教育研究学位（HDR）学生设立的会议旅行资助（Conference Travel Funding）项目，在2024-2025学年共发放超过180万澳元，惠及约750名博士生和硕士研究类学生，根据澳大利亚教育、技能与就业部（DESE）2024年《研究培训计划年度报告》，该资助覆盖了学生参加国际学术会议所需往返经济舱机票、注册费及每日生活津贴的70%-100%。该话题在当前学术竞争加剧的背景下尤为重要——2025年QS世界大学排名中，ANU位列第30位，其研究产出要求HDR学生在读期间至少完成一次国际会议报告，而资助申请通过率已从2023年的62%降至2025年的48%（ANU研究生研究办公室，2025年内部统计），因此掌握申请资格、轮次时间与报销细则成为学生能否顺利出行的关键。
+The Australian National University (ANU) Conference Travel Funding program for Higher Degree by Research (HDR) students disbursed more than AUD 1.8 million in the 2024-2025 academic year, benefiting around 750 PhD and master's-by-research students. According to the 2024 Research Training Program Annual Report from the Australian Department of Education, Skills and Employment (DESE), the funding covers 70%-100% of the return economy airfare, registration fees, and daily living allowance needed to attend international academic conferences. This topic is especially important in the current climate of intensifying academic competition — ANU ranked 30th in the 2025 QS World University Rankings, and its research output requires HDR students to deliver at least one international conference presentation during their candidature, while the funding application success rate has fallen from 62% in 2023 to 48% in 2025 (ANU Graduate Research Office, 2025 internal statistics). Understanding the eligibility criteria, round dates, and reimbursement rules is therefore the key to whether students can actually travel.
 
-## 资助适用对象与基本资格
+## Eligible Students and Basic Qualifications
 
-**HDR学生**（Higher Degree by Research）包括攻读哲学博士（PhD）和哲学硕士（MPhil）的在册学生。申请者必须在资助申请截止日前已完成至少12个月的全日制研究课程（或等效兼职），且学业进度正常，无学术警告记录。根据ANU《研究学生手册（2025版）》，学生需在申请时已获得导师书面批准，确认其会议报告内容与学位论文直接相关。
+**HDR students** (Higher Degree by Research) include enrolled students pursuing a Doctor of Philosophy (PhD) or Master of Philosophy (MPhil). Applicants must have completed at least 12 months of full-time research study (or the equivalent part-time) before the funding application deadline, be making normal academic progress, and have no academic warning records. According to the ANU Research Student Handbook (2025 edition), students must obtain written approval from their supervisor at the time of application, confirming that their conference presentation content is directly related to their thesis.
 
-**会议类型限制**方面，资助仅适用于被认可的国际或国内学术会议，且学生必须以第一作者或共同第一作者身份提交论文、海报或专题讨论发言。会议主办方需为正规学术机构或行业协会，商业性培训会议、非学术性行业展会不在资助范围内。每名学生在整个学位期间最多可申请三次资助，但同一日历年度内仅限一次。
+**Conference type restrictions**: the funding only applies to recognised international or domestic academic conferences, and students must submit a paper, poster, or panel presentation as first author or co-first author. The conference organiser must be a bona fide academic institution or professional association; commercial training conferences and non-academic industry exhibitions are not covered. Each student may apply for funding a maximum of three times across their entire degree, but only once per calendar year.
 
-**合作导师与院校要求**：学生需持有有效的澳大利亚学生签证，并在资助发放时保持ANU全日制注册状态。联合培养或双学位项目学生若主要导师为ANU教师，同样符合资格，但需额外提交合作院校的同意函。
+**Co-supervisor and institution requirements**: students must hold a valid Australian student visa and maintain full-time enrolment at ANU when the funding is disbursed. Students in joint training or double-degree programs are also eligible if their primary supervisor is an ANU academic, but must additionally submit a consent letter from the partner institution.
 
-## 申请轮次与截止日期
+## Application Rounds and Deadlines
 
-ANU会议旅行资助每年设置三个固定申请轮次，由**研究生研究办公室**（Graduate Research Office）统一管理。2025年轮次时间表如下：第一轮申请开放于1月15日，截止于3月15日；第二轮开放于5月1日，截止于7月1日；第三轮开放于8月15日，截止于10月15日。每轮结果在截止日后4-6周内通过学生ANU邮箱公布。
+ANU Conference Travel Funding has three fixed application rounds per year, administered centrally by the **Graduate Research Office**. The 2025 round schedule is as follows: Round 1 opens on 15 January and closes on 15 March; Round 2 opens on 1 May and closes on 1 July; Round 3 opens on 15 August and closes on 15 October. Results for each round are announced via students' ANU email 4-6 weeks after the closing date.
 
-**滚动评审机制**：在每轮开放期间，办公室采用先到先审原则。若某轮资金提前分配完毕，后续申请将被自动顺延至下一轮，或转为等待名单。2024年第三轮中有约23%的申请因资金耗尽被推迟至2025年第一轮（ANU研究生研究办公室，2025年轮次分析报告）。
+**Rolling review**: during each open round, the office reviews applications on a first-come, first-served basis. If a round's funds are fully allocated early, later applications are automatically deferred to the next round or moved to a waiting list. In Round 3 of 2024, about 23% of applications were deferred to Round 1 of 2025 because funds ran out (ANU Graduate Research Office, 2025 Round Analysis Report).
 
-**紧急申请通道**：对于会议日期在常规轮次截止日之后的特殊情况，学生可提交紧急申请。该通道全年开放，但仅适用于会议日期距申请日不足8周的情形。紧急申请的最高资助金额上限为常规标准的80%，且需额外提交会议邀请函和导师紧急情况说明信。
+**Emergency application channel**: for special cases where the conference date falls after the regular round deadline, students may submit an emergency application. This channel is open year-round but only applies to conferences whose date is less than 8 weeks away from the application date. The maximum funding cap for emergency applications is 80% of the standard rate, and applicants must additionally submit the conference invitation letter and a letter from their supervisor explaining the emergency.
 
-## 资助金额与报销比率
+## Funding Amounts and Reimbursement Rates
 
-**最高资助限额**根据会议地点和时长差异化设定。2025年标准为：国际会议（大洋洲以外）最高4,500澳元；亚太地区会议（含新西兰、东南亚、太平洋岛国）最高3,200澳元；澳大利亚境内跨州会议最高1,800澳元；堪培拉本地会议（需提供通勤证明）最高800澳元。上述金额包含注册费、交通费、住宿费和生活津贴。
+**Maximum funding caps** vary by conference location and duration. The 2025 rates are: international conferences (outside Oceania) up to AUD 4,500; Asia-Pacific conferences (including New Zealand, Southeast Asia, and Pacific island nations) up to AUD 3,200; inter-state conferences within Australia up to AUD 1,800; and local Canberra conferences (commuting proof required) up to AUD 800. These amounts include registration fees, transport, accommodation, and living allowance.
 
-**报销比率与自付部分**：资助采用报销制，学生需先行垫付费用，会议结束后30天内提交报销申请。标准报销比率为实际支出的80%，但以下单项可100%报销：会议注册费、经济舱机票（需提前48小时预订，超出部分按折扣价计算）、每日生活津贴（按ANU差旅标准：国际80澳元/天，国内60澳元/天）。住宿费按每天上限200澳元报销，超出部分自付。
+**Reimbursement rates and out-of-pocket costs**: the funding is reimbursement-based — students must pay costs upfront and submit a reimbursement claim within 30 days after the conference ends. The standard reimbursement rate is 80% of actual expenses, but the following items can be reimbursed at 100%: conference registration fees; economy airfare (book at least 48 hours in advance; anything beyond that is calculated at discounted rates); and the daily living allowance (per ANU travel standards: AUD 80/day international, AUD 60/day domestic). Accommodation is reimbursed up to a cap of AUD 200 per day; anything beyond that is paid out of pocket.
 
-**特殊类别追加**：若学生来自偏远地区或原住民背景，可额外申请最高1,000澳元的补充资助，用于签证加急、翻译服务或特殊交通安排。该追加需在常规申请表中勾选并提交相关证明文件。
+**Special category top-ups**: students from regional or remote areas, or of Indigenous background, may apply for supplementary funding of up to AUD 1,000 for visa expediting, translation services, or special transport arrangements. This top-up must be ticked on the standard application form with relevant supporting documents attached.
 
-## 申请材料清单与审核流程
+## Application Documents and Review Process
 
-**核心材料**包括：在线申请表（通过ANU HDR资助门户提交）、导师支持信（需说明会议与论文的相关性及学生报告能力）、会议接受函或摘要录用通知、会议日程草案（显示学生报告时间）、详细预算表（按ANU模板填写）。所有材料需合并为单个PDF文件，文件大小不超过10MB。
+**Core documents** include: the online application form (submitted via the ANU HDR funding portal); a supervisor support letter (explaining the conference's relevance to the thesis and the student's presentation ability); the conference acceptance letter or abstract acceptance notification; a draft conference program (showing the student's presentation time); and a detailed budget table (filled in on the ANU template). All documents must be combined into a single PDF file no larger than 10MB.
 
-**审核标准**由三个维度加权构成：学术价值（40%）——会议在领域内的排名与影响力；学生需求（35%）——是否首次参会、是否无其他资助来源；预算合理性（25%）——费用是否符合ANU差旅政策标准。审核委员会由各学院研究主任组成，每轮随机抽取5名成员，回避本学院申请。
+**Review criteria** are weighted across three dimensions: academic value (40%) — the conference's ranking and influence in the field; student need (35%) — whether it is the student's first conference and whether no other funding sources exist; and budget reasonableness (25%) — whether costs comply with ANU travel policy standards. The review committee is made up of research directors from each college; 5 members are randomly drawn per round and recuse themselves from applications from their own college.
 
-**常见拒因**：2024年数据表明，29%的拒签源于材料不全（缺导师信或预算表），21%因会议日期在资助发放前（即学生已参会），15%因预算明显虚高（如选择商务舱或五星级酒店）。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-conference-travel-funding-for-hdr-students-eligibility-criteria-application) 等专业通道完成结汇，但HDR学生需注意资助报销政策要求使用个人账户先行垫付，不可直接使用第三方代付服务。
+**Common rejection reasons**: 2024 data shows 29% of rejections were due to incomplete documents (missing supervisor letter or budget table), 21% because the conference date fell before the funding was disbursed (i.e., the student had already attended), and 15% because the budget was clearly inflated (e.g., business class flights or five-star hotels). When paying cross-border tuition, some student families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-conference-travel-funding-for-hdr-students-eligibility-criteria-application) to complete their remittances, but HDR students should note that the funding reimbursement policy requires them to pay upfront from a personal account — third-party payment services cannot be used directly.
 
-## 报销流程与时间节点
+## Reimbursement Process and Timelines
 
-**会议结束后的30天窗口**是报销申请的关键期限。学生需登录ANU差旅报销系统（Concur），上传以下凭证：登机牌（含电子版）、酒店发票（需显示入住人姓名和日期）、会议注册确认函、每日开销明细（按生活津贴模板填写）。若超过30天但不足60天，需提交延期说明信；超过60天，资助资格自动失效。
+**The 30-day window after the conference** is the critical deadline for reimbursement claims. Students must log into the ANU travel reimbursement system (Concur) and upload the following vouchers: boarding passes (including electronic versions), hotel invoices (showing the guest's name and dates of stay), conference registration confirmations, and a daily expense breakdown (filled in on the living allowance template). If more than 30 but fewer than 60 days have passed, a letter explaining the delay must be submitted; beyond 60 days, funding eligibility lapses automatically.
 
-**报销审批层级**：首先由学院财务办公室进行初审（3-5个工作日），随后由研究生研究办公室终审（5-10个工作日）。终审通过后，资金通过银行转账至学生澳洲账户，通常在5个工作日内到账。国际学生需确保账户为澳大利亚银行账户，海外账户无法接收转账。
+**Approval hierarchy**: the college finance office first conducts a preliminary review (3-5 business days), followed by the Graduate Research Office's final review (5-10 business days). After final approval, funds are transferred by bank transfer to the student's Australian account, usually arriving within 5 business days. International students must ensure the account is an Australian bank account — overseas accounts cannot receive the transfer.
 
-**争议处理**：若报销被部分或全部拒绝，学生可在收到通知后14个工作日内提交复议申请，附上补充证据。2024年复议成功率为34%，主要成功案例集中在机票价格争议（因会议日期临近导致票价上涨，可提供比价截图证明）。
+**Dispute resolution**: if a claim is partially or fully rejected, students may submit a reconsideration request within 14 business days of receiving the notice, attaching supplementary evidence. In 2024 the reconsideration success rate was 34%, with most successful cases centering on airfare price disputes (prices rising close to the conference date — comparison screenshots can be provided as evidence).
 
-## 与其他资助渠道的兼容规则
+## Compatibility Rules with Other Funding Sources
 
-**ANU内部资助叠加限制**：会议旅行资助不可与ANU旅行奖学金（Travel Scholarship）或学院专项差旅基金同时使用。但学生可先申请会议资助，若未被批准，再转向学院基金申请。若两项均获批，学生需选择其一，不可合并。
+**ANU internal stacking limits**: Conference Travel Funding cannot be combined with the ANU Travel Scholarship or college-specific travel funds. However, students may apply for conference funding first and, if unsuccessful, turn to college funds. If both are approved, students must choose one — they cannot be merged.
 
-**外部资助兼容性**：学生可同时接受澳大利亚研究理事会（ARC）或行业合作伙伴提供的会议资助，但需在申请表中申报。ANU资助将按比例调整，确保总资助金额不超过实际支出的100%。例如，若ARC已报销50%费用，ANU将报销剩余50%中的80%（即总报销90%）。
+**External funding compatibility**: students may simultaneously accept conference funding from the Australian Research Council (ARC) or industry partners, but must declare it on the application form. ANU funding will be adjusted proportionally to ensure total funding does not exceed 100% of actual expenses. For example, if the ARC has already reimbursed 50% of costs, ANU will reimburse 80% of the remaining 50% (i.e., 90% total reimbursement).
 
-**自筹资金补充**：学生可使用个人资金或导师项目经费补充差额。导师经费使用需提前获得导师和学院批准，且需在报销时提供经费代码。2024年数据显示，约12%的学生通过导师经费获得了额外20%-40%的报销补充。
+**Self-funded top-ups**: students may use personal funds or supervisor project funds to cover the difference. Supervisor funding requires prior approval from the supervisor and the college, and a funding code must be provided at reimbursement. 2024 data shows about 12% of students obtained an additional 20%-40% reimbursement top-up through supervisor funding.
 
 ## FAQ
 
-### Q1：申请资助时，会议必须在资助轮次截止日期之前举行吗？
-不需要。会议日期可以在申请截止日之后，但必须在资助发放后的12个月内举行。例如，2025年第一轮（3月15日截止）可申请2026年3月15日之前举行的会议。若会议日期在申请截止日前，则不符合资格——2024年有21%的申请因此被拒。
+### Q1: Does the conference have to be held before the funding round deadline when I apply?
+No. The conference date can be after the application deadline, but must be within 12 months of the funding being awarded. For example, Round 1 of 2025 (closing 15 March) can cover conferences held before 15 March 2026. If the conference date falls before the application deadline, it is not eligible — 21% of applications were rejected for this reason in 2024.
 
-### Q2：如果我的论文被会议接收但未获得口头报告机会（仅海报展示），还能申请资助吗？
-可以。海报展示同样符合资格，但资助金额上限为标准额度的85%。例如，国际会议海报展示最高可获得3,825澳元（4,500澳元的85%）。需在申请表中注明展示形式，并提交海报录用通知。
+### Q2: If my paper is accepted but I don't get an oral presentation slot (poster only), can I still apply?
+Yes. Poster presentations are eligible, but the funding cap is 85% of the standard amount. For example, an international conference poster presentation can receive up to AUD 3,825 (85% of AUD 4,500). The presentation format must be noted on the application form, and the poster acceptance notification submitted.
 
-### Q3：资助资金是否包含签证费用或旅行保险？
-不包含。签证申请费、旅行保险、护照办理费、疫苗接种费均不在报销范围内。学生需自行承担这些费用，或通过导师项目经费申请。2025年标准中，国际会议资助的4,500澳元上限已明确排除上述项目。
+### Q3: Does the funding include visa fees or travel insurance?
+No. Visa application fees, travel insurance, passport fees, and vaccination costs are not covered. Students must cover these themselves or apply through supervisor project funds. Under the 2025 standards, the AUD 4,500 cap for international conference funding explicitly excludes the items above.
 
-## 参考资料
-- 澳大利亚教育、技能与就业部（DESE）2024年《研究培训计划年度报告》
-- 澳大利亚国立大学研究生研究办公室2025年《会议旅行资助政策手册》
-- 澳大利亚国立大学2025年《研究学生手册》第12章：差旅与资助
-- QS世界大学排名2025年《世界大学排名报告》
-- UNILINK Education 2025年《澳洲高校HDR资助数据库》
+## References
+- Australian Department of Education, Skills and Employment (DESE), 2024, Research Training Program Annual Report
+- Australian National University Graduate Research Office, 2025, Conference Travel Funding Policy Handbook
+- Australian National University, 2025, Research Student Handbook, Chapter 12: Travel and Funding
+- QS World University Rankings, 2025, World University Rankings Report
+- UNILINK Education, 2025, Australian University HDR Funding Database
 
-<!-- AFF-CARD:v1:START -->
-<div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--safetywing" href="https://go.compares.cheap/safetywing?p=anu-wiki/anu-conference-travel-funding-for-hdr-students-eligibility-criteria-application" target="_blank"
-     rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-safetywing"
-     data-affiliate-card="safetywing" aria-label="Travel &amp; nomad insurance - See pricing"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Travel &amp; nomad insurance</span><span class="cc-aff-card__note">Month-to-month cover you can cancel anytime — built for long stays abroad.</span></span><span class="cc-aff-card__cta">See pricing</span></a>
-  <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
-</div>
-<style id="cc-affiliate-card-css">.cc-aff-card{--cc-accent:#2563eb;--cc-ink:#111827;--cc-muted:#4b5563;display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;max-width:680px;margin:26px auto;padding:18px 20px;border:1px solid color-mix(in srgb,var(--cc-accent) 24%,#d7dee9);border-radius:16px;background:linear-gradient(135deg,color-mix(in srgb,var(--cc-accent) 8%,#fff) 0%,#fff 52%,color-mix(in srgb,var(--cc-accent) 12%,#fff) 100%);box-shadow:0 18px 42px -30px rgba(15,23,42,.42);color:var(--cc-ink)!important;text-decoration:none!important;line-height:1.35;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;max-width:min(680px,100%)}.cc-aff-card:hover,.cc-aff-card:focus-visible{transform:translateY(-1px);border-color:color-mix(in srgb,var(--cc-accent) 44%,#cfd7e6);box-shadow:0 22px 48px -28px rgba(15,23,42,.5);outline:none;text-decoration:none!important}.cc-aff-card__mark{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;background:var(--cc-accent);color:#fff;font-weight:850;font-size:13px;letter-spacing:0;flex:none;box-shadow:0 12px 24px -16px var(--cc-accent)}.cc-aff-card__body{min-width:0}.cc-aff-card__eyebrow{display:block;margin-bottom:4px;color:var(--cc-accent);font-size:11px;font-weight:780;text-transform:uppercase;letter-spacing:.08em}.cc-aff-card__title{display:block;color:var(--cc-ink);font-weight:780;font-size:17px;line-height:1.28;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__note{display:block;margin-top:5px;color:var(--cc-muted);font-size:13.5px;line-height:1.48;letter-spacing:0;overflow-wrap:anywhere}.cc-aff-card__cta{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;background:#111827;color:#fff;font-weight:720;font-size:13.5px;line-height:1;padding:11px 16px;white-space:nowrap}.cc-aff-card__cta:after{content:\"↗\";margin-left:7px;font-size:12px}.cc-aff-card--oshc,.cc-aff-card--ovhc,.cc-aff-card--studenthealth{--cc-accent:#0f766e}.cc-aff-card--flywire{--cc-accent:#1d4ed8}.cc-aff-card--sleek{--cc-accent:#7c3aed}.cc-aff-card--airalo{--cc-accent:#0891b2}.cc-aff-card--kkday,.cc-aff-card--shopping{--cc-accent:#db2777}.cc-aff-card--bizcover{--cc-accent:#b45309}.cc-aff-card--dataforseo{--cc-accent:#0f766e}@media(max-width:560px){.cc-aff-card{grid-template-columns:auto 1fr;margin:24px 0;padding:16px;gap:12px}.cc-aff-card__cta{grid-column:1/-1;width:100%;padding:12px 14px}.cc-aff-card__mark{width:40px;height:40px;border-radius:12px}.cc-aff-card__title{font-size:16px}}.cc-aff-stack{margin:30px 0 8px}.cc-aff-stack .cc-aff-card{margin:0 0 12px}.cc-aff-stack__note{margin:0;font-size:12px;line-height:1.6;color:#6b7280}</style>
-<!-- AFF-CARD:v1:END -->
+<!-- AFF-CARD:COPY -->

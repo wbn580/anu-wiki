@@ -1,6 +1,7 @@
 ---
+slug: anu-campus-emergency-evacuation-drills-schedule-assembly-points-and-warden-roles
 title: "ANU Campus Emergency Evacuation Drills: Schedule, Assembly Points, and Warden Roles Explained"
-description: "澳大利亚国立大学（ANU）作为澳大利亚首都领地的核心高等教育机构，其校园安全体系遵循《2002年工作健康与安全法案》（ACT）及澳大利亚标准AS 3745-2010《应急控制组织与程序》的法定要求。ANU安全与应急管理办公室（ANU Security & Emergency Management）每年组织**不少…"
+description: "As the core higher education institution of the Australian Capital Territory, Australian National University (ANU)'s campus safety system follows the statutory requirements of the Work Health and Safety Act 2002 (ACT) and Australian Standard AS 3745-2010, Emergency Control Organisation and Procedures. ANU Security & Emergency Management organises **no fewer than 4** campus-wide evacuation drills each year, involving more than **25,000** students, staff and visitors in total (ANU Safety Annual Report, 2023)…"
 category: "ANU"
 pubDatetime: '2026-05-08T20:00:53Z'
 publishDate: '2026-05-08T20:00:53Z'
@@ -10,130 +11,130 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-emergency-evacuation-drills-schedule-assembly-points-and-warden-roles-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）作为澳大利亚首都领地的核心高等教育机构，其校园安全体系遵循《2002年工作健康与安全法案》（ACT）及澳大利亚标准AS 3745-2010《应急控制组织与程序》的法定要求。ANU安全与应急管理办公室（ANU Security & Emergency Management）每年组织**不少于4次**覆盖全校范围的疏散演习，参与师生及访客总数超过**25,000人次**（ANU安全年报，2023）。这些演习不仅测试校园内**200余处**手动火灾报警点与**50个**主要疏散集合点的响应效率，还检验由**120名**经过认证的楼层应急管理员（Floor Warden）组成的应急控制组织（ECO）的指挥链条。随着ANU在2024年完成校园北区（Northside）多栋建筑的重建，疏散路线与集合点布局同步更新，理解这套流程对于所有在校人员尤为重要。
+As the core higher education institution of the Australian Capital Territory, the Australian National University (ANU)'s campus safety system follows the statutory requirements of the Work Health and Safety Act 2002 (ACT) and Australian Standard AS 3745-2010, Emergency Control Organisation and Procedures. ANU Security & Emergency Management runs **at least 4** campus-wide evacuation drills each year, involving more than **25,000** students, staff, and visitors in total (ANU Safety Annual Report, 2023). These drills test the response efficiency of the campus's **200+** manual fire alarm points and **50** primary evacuation assembly areas, as well as the command chain of the emergency control organisation (ECO) made up of **120** certified Floor Wardens. With ANU completing the rebuilding of several buildings in the Northside of campus in 2024, and evacuation routes and assembly layouts updated accordingly, understanding this process matters for everyone on campus.
 
-## 法定框架与演习频率
+## Statutory Framework and Drill Frequency
 
-ANU的疏散演习制度直接受澳大利亚国家标准AS 3745-2010约束，该标准由澳大利亚标准协会（Standards Australia）制定，明确要求所有人员密集场所的业主须建立并维护应急控制组织。ANU安全政策（Safety and Wellbeing Policy）在此基础上规定，每栋建筑每年必须完成**至少2次**全面疏散演习，其中**1次**在学期初（2月/7月）进行，以覆盖新入学学生与轮换研究人员。根据ANU安全与应急管理办公室2023年内部审计，实际执行频率为每栋建筑每年**3.2次**，超出法定最低要求60%。
+ANU's evacuation drill regime is directly governed by Australian Standard AS 3745-2010, developed by Standards Australia, which explicitly requires the owners of all places of public assembly to establish and maintain an emergency control organisation. ANU's Safety and Wellbeing Policy builds on this by requiring every building to complete **at least 2** full evacuation drills each year, with **1** held at the start of semester (February/July) to cover newly enrolled students and rotating researchers. According to ANU Security & Emergency Management's 2023 internal audit, the actual frequency was **3.2 drills** per building per year — 60% above the statutory minimum.
 
-### 法定机构角色
+### Role of Statutory Bodies
 
-ACT工作安全局（WorkSafe ACT）负责监督ANU的合规情况。2022年，该局对ANU进行了**1次**计划内检查与**2次**随机抽查，未发现疏散程序重大违规（WorkSafe ACT年度报告，2022-23）。ANU需在每次演习后**14个工作日**内提交书面评估报告，存档期限为**5年**。
+WorkSafe ACT oversees ANU's compliance. In 2022, the authority conducted **1** planned inspection and **2** random spot checks of ANU and found no major breaches of evacuation procedures (WorkSafe ACT Annual Report, 2022–23). ANU must submit a written evaluation report within **14 business days** after each drill and retain records for **5 years**.
 
-### 演习类型差异
+### Types of Drills
 
-ANU区分三种演习等级：**全面疏散**（Full Evacuation）涉及整栋建筑所有人员撤离，耗时平均**6分30秒**；**桌面推演**（Tabletop Exercise）仅针对ECO成员，每年**2次**；**部分疏散**（Partial Evacuation）仅测试特定楼层，用于教学设施维护期间。
+ANU distinguishes three drill levels: a **Full Evacuation** clears everyone from an entire building and takes on average **6 minutes 30 seconds**; a **Tabletop Exercise** involves only ECO members and runs **twice** a year; and a **Partial Evacuation** tests specific floors only, used while teaching facilities are under maintenance.
 
-## 年度演习日程表
+## Annual Drill Schedule
 
-ANU的演习日程以学期为周期，由安全与应急管理办公室在每年**1月**发布全年计划。2024年官方日程显示，第一学期（Semester 1）演习集中在**2月19日至3月8日**，覆盖**12栋**主要教学建筑；第二学期（Semester 2）演习安排在**7月22日至8月9日**，覆盖**15栋**研究及行政建筑。每场演习开始时间固定为**上午10:00**或**下午2:30**，持续约**20至30分钟**。
+ANU's drill calendar follows the semester cycle, with the full-year schedule published by Security & Emergency Management in **January** each year. The official 2024 calendar shows Semester 1 drills concentrated in **19 February to 8 March**, covering **12** major teaching buildings, and Semester 2 drills scheduled for **22 July to 9 August**, covering **15** research and administration buildings. Each drill starts at a fixed time of **10:00 am** or **2:30 pm** and lasts about **20 to 30 minutes**.
 
-### 学期初强制演习
+### Mandatory Drills at the Start of Semester
 
-每年**2月**的Orientation Week期间，ANU会在**Kambri Precinct**与**Marie Reay Teaching Centre**进行**1次**公开示范演习，由ANU保安人员与ACT消防救援局联合执行。2024年该演习于**2月21日**举行，参与人数约**3,800人**，包括新生与迎新志愿者。
+During Orientation Week in **February** each year, ANU runs **1** public demonstration drill in the **Kambri Precinct** and the **Marie Reay Teaching Centre**, conducted jointly by ANU security officers and ACT Fire & Rescue. In 2024, this drill was held on **21 February** with about **3,800** participants, including new students and orientation volunteers.
 
-### 特殊时段演习
+### Drills at Special Times
 
-对于**24小时开放**的科研建筑（如Research School of Biology），ANU安排在**凌晨4:00至5:00**进行**每年1次**的夜间演习，以最小化对实验活动的干扰。2023年夜间演习平均疏散时间为**8分12秒**，比白天演习慢**1分42秒**，主要因照明与指示牌可见度差异。
+For **24-hour** research buildings (such as the Research School of Biology), ANU schedules **1** night-time drill per year between **4:00 and 5:00 am** to minimise disruption to experimental work. The average night drill evacuation time in 2023 was **8 minutes 12 seconds** — **1 minute 42 seconds** slower than daytime drills, mainly due to differences in lighting and sign visibility.
 
-## 主要集合点分布
+## Distribution of Primary Assembly Areas
 
-ANU校园划分为**5个**疏散区域（Zone A至Zone E），每个区域设置**10个**主要集合点（Primary Assembly Area, PAA）与**2个**备用集合点（Secondary Assembly Area, SAA）。集合点位置以ANU校园地图（Campus Map 2024版）为准，所有PAA均配备**应急信息牌**与**无线对讲机**。
+The ANU campus is divided into **5** evacuation zones (Zone A to Zone E), each with **10** Primary Assembly Areas (PAA) and **2** Secondary Assembly Areas (SAA). Assembly point locations follow the ANU Campus Map (2024 edition); every PAA is equipped with **emergency information boards** and **two-way radios**.
 
-### Zone A：北区
+### Zone A: North
 
-覆盖**Baldwin Spencer Building**、**Chifley Library**及**University House**。主要集合点为**Union Court Lawn**（可容纳约**1,200人**）与**University Avenue**南侧人行道。2023年该区域演习中，**94%** 的疏散人员在**7分钟内**到达集合点。
+Covers the **Baldwin Spencer Building**, **Chifley Library** and **University House**. Primary assembly areas are **Union Court Lawn** (capacity about **1,200 people**) and the southern footpath of **University Avenue**. In 2023 zone drills, **94%** of evacuees reached the assembly point within **7 minutes**.
 
-### Zone B：中心区
+### Zone B: Centre
 
-包括**Marie Reay Teaching Centre**、**Kambri Precinct**及**Llewellyn Hall**。主要集合点为**Kambri Lawn**（容量**2,000人**）与**Fellows Oval**（容量**3,500人**）。该区域因学生流量最大，演习时由**3名**保安人员与**6名**楼层管理员共同引导。
+Includes the **Marie Reay Teaching Centre**, **Kambri Precinct** and **Llewellyn Hall**. Primary assembly areas are **Kambri Lawn** (capacity **2,000 people**) and **Fellows Oval** (capacity **3,500 people**). Because this zone has the heaviest student traffic, drills are guided by **3** security officers and **6** floor wardens working together.
 
-### Zone C：南区
+### Zone C: South
 
-覆盖**John Curtin School of Medical Research**、**Peter Baume Building**及**Hancock Library**。主要集合点为**South Lawn**（容量**800人**）与**Garran Road**东侧。2024年1月，该区域因建筑翻新，备用集合点临时调整为**Acton Oval**。
+Covers the **John Curtin School of Medical Research**, the **Peter Baume Building** and **Hancock Library**. Primary assembly areas are **South Lawn** (capacity **800 people**) and the eastern side of **Garran Road**. In January 2024, the secondary assembly area was temporarily changed to **Acton Oval** due to building renovation in the zone.
 
-### Zone D：东区
+### Zone D: East
 
-包括**Research School of Physics**、**Research School of Chemistry**及**Ian Ross Building**。主要集合点为**Physics Lawn**（容量**600人**）与**University Avenue**北侧。该区域因科研设备敏感，演习中需**5分钟**内完成实验室气体关闭程序。
+Includes the **Research School of Physics**, the **Research School of Chemistry** and the **Ian Ross Building**. Primary assembly areas are **Physics Lawn** (capacity **600 people**) and the northern side of **University Avenue**. Because research equipment in this zone is sensitive, laboratory gas shutdown procedures must be completed within **5 minutes** during drills.
 
-### Zone E：西区
+### Zone E: West
 
-覆盖**Coombs Building**、**HC Coombs Centre**及**Burgmann College**。主要集合点为**Coombs Lawn**（容量**700人**）与**Burgmann Oval**。该区域毗邻**Black Mountain**自然保护区，演习时需注意野生动物干扰。
+Covers the **Coombs Building**, the **HC Coombs Centre** and **Burgmann College**. Primary assembly areas are **Coombs Lawn** (capacity **700 people**) and **Burgmann Oval**. The zone borders the **Black Mountain** nature reserve, and drills must account for possible disturbance from wildlife.
 
-## 应急控制组织与Warden角色
+## Emergency Control Organisation and Warden Roles
 
-ANU的应急控制组织（ECO）依据AS 3745-2010第4.2节设立，由**首席应急管理员**（Chief Warden）、**副首席应急管理员**（Deputy Chief Warden）、**区域应急管理员**（Zone Warden）及**楼层应急管理员**（Floor Warden）四级构成。截至2024年3月，ANU共有**120名**持证楼层管理员，其中**45%** 为学术人员，**55%** 为行政与技术服务人员。
+ANU's Emergency Control Organisation (ECO) is established under clause 4.2 of AS 3745-2010 and has four tiers: **Chief Warden**, **Deputy Chief Warden**, **Zone Warden**, and **Floor Warden**. As of March 2024, ANU has **120** certified floor wardens, of whom **45%** are academic staff and **55%** are administrative and technical services staff.
 
-### 楼层应急管理员（Floor Warden）
+### Floor Warden
 
-每栋建筑每层至少配备**2名**楼层管理员，由ANU安全与应急管理办公室组织**每年1次**的认证培训。培训内容包括：**手动报警器操作**、**灭火器使用**（ABC干粉与CO₂类型）、**疏散路线确认**及**残疾人士协助**。2023年培训通过率为**97%**，未通过者需在**30天内**补考。
+Every floor of every building has **at least 2** floor wardens, who complete **1** certification training session per year organised by ANU Security & Emergency Management. Training covers: **manual alarm operation**, **fire extinguisher use** (ABC dry powder and CO₂ types), **evacuation route confirmation**, and **assisting people with disabilities**. The 2023 pass rate was **97%**; those who fail must sit a resit within **30 days**.
 
-### 首席应急管理员（Chief Warden）
+### Chief Warden
 
-首席应急管理员由ANU安全与应急管理办公室主任担任，在紧急情况中通过**UHF无线电**（频率**467.900 MHz**）与ACT紧急服务部门直接联络。该角色负责决定是否启动**校园封锁**（Lockdown）或**就地避难**（Shelter-in-Place）程序，后者在丛林火灾季（11月至2月）尤为关键。
+The Chief Warden role is held by the Director of ANU Security & Emergency Management and liaises directly with ACT emergency services by **UHF radio** (frequency **467.900 MHz**) during emergencies. The role decides whether to activate campus **Lockdown** or **Shelter-in-Place** procedures — the latter being especially critical during bushfire season (November to February).
 
-## 演习流程与时间节点
+## Drill Procedures and Timeline
 
-每场全面疏散演习遵循标准化的**8阶段**流程，由ANU安全控制中心（Security Control Room）通过**PA广播系统**与**电子显示屏**统一触发。2023年ANU内部流程文件显示，从报警到解除的平均总耗时为**24分钟**。
+Every full evacuation follows a standardised **8-stage** process, triggered centrally by the ANU Security Control Room through the **PA broadcast system** and **electronic displays**. ANU's 2023 internal process documents show an average total duration of **24 minutes** from alarm to stand-down.
 
-### 阶段1：报警触发（T+0分钟）
+### Stage 1: Alarm Trigger (T+0 minutes)
 
-手动报警器或烟雾探测器激活后，ANU安全控制中心在**30秒内**收到信号，并通过**校园广播**（Channel 1）播放预录音频：“Attention please, an emergency has been reported in this building.” 同时，所有**电子门禁**自动解锁。
+When a manual alarm or smoke detector activates, the ANU Security Control Room receives the signal within **30 seconds** and plays a pre-recorded announcement over the **campus broadcast** (Channel 1): "Attention please, an emergency has been reported in this building." At the same time, all **electronic door locks** release automatically.
 
-### 阶段2：疏散指令（T+2分钟）
+### Stage 2: Evacuation Order (T+2 minutes)
 
-楼层管理员在接到控制中心指令后，使用**哨子**与**荧光背心**标识自己，逐室检查并引导人员沿**最近出口**撤离。ANU规定每层检查时间不得超过**3分钟**，2023年平均为**2分15秒**。
+On receiving the control room's instruction, floor wardens identify themselves with **whistles** and **high-visibility vests**, check each room, and direct people to evacuate via the **nearest exit**. ANU rules cap the per-floor check time at **3 minutes**; the 2023 average was **2 minutes 15 seconds**.
 
-### 阶段3：集合点名（T+5至T+10分钟）
+### Stage 3: Assembly and Roll Call (T+5 to T+10 minutes)
 
-人员在集合点按**学院/部门**列队。楼层管理员使用**纸质名单**或**ANU Safe App**进行点名。2023年数据显示，**88%** 的演习在**10分钟内**完成点名，未到人员由控制中心通过**校园监控**定位。
+At the assembly point, people line up by **college/department**. Floor wardens take roll call using **paper lists** or the **ANU Safe App**. 2023 data shows **88%** of drills completed the roll call within **10 minutes**; missing persons are located by the control room using **campus CCTV**.
 
-### 阶段4至阶段8
+### Stages 4 to 8
 
-包括**搜索确认**（Search & Rescue，由ACT消防救援局执行）、**危险评估**、**解除警报**、**复盘会议**及**报告编写**。复盘会议在演习结束后**1小时内**举行，参与人员包括首席管理员、区域管理员及建筑代表。
+These cover **Search & Rescue** (carried out by ACT Fire & Rescue), **hazard assessment**, **all-clear**, the **debrief meeting**, and **report writing**. The debrief is held within **1 hour** of the drill ending, with the Chief Warden, zone wardens, and building representatives in attendance.
 
-## 特殊人群与协助程序
+## People with Special Needs and Assistance Procedures
 
-ANU根据《2005年残疾歧视法》（Disability Discrimination Act 2005）制定**个人紧急疏散计划**（Personal Emergency Evacuation Plan, PEEP），覆盖所有有行动、听力或视力障碍的师生。截至2024年，ANU已登记**约150份**有效PEEP。
+Under the Disability Discrimination Act 2005, ANU develops **Personal Emergency Evacuation Plans** (PEEP) covering all staff and students with mobility, hearing, or vision impairments. As of 2024, ANU has registered **about 150** active PEEPs.
 
-### PEEP登记与更新
+### PEEP Registration and Updates
 
-学生可通过ANU Access & Inclusion办公室申请PEEP，需提交**医疗证明**并在**每个学期初**更新。PEEP内容包括：**指定协助人员**（Buddy）、**疏散路径**（避开楼梯等障碍）、**备用集合点**（通常为水平疏散区域）。2023年，ANU在**2次**演习中测试了PEEP执行情况，平均协助时间为**4分30秒**。
+Students can apply for a PEEP through the ANU Access & Inclusion office; a **medical certificate** is required and the plan must be updated **at the start of each semester**. A PEEP includes: a **designated buddy**, an **evacuation route** (avoiding obstacles such as stairs), and a **secondary assembly point** (usually a horizontal evacuation area). In 2023, ANU tested PEEP execution in **2** drills, with an average assistance time of **4 minutes 30 seconds**.
 
-### 听力与视力障碍支持
+### Hearing and Vision Impairment Support
 
-所有主要集合点配备**视觉警报器**（Strobe Lights），覆盖**95%** 的校园建筑。ANU还提供**文字广播**（SMS Alert）服务，订阅用户可在演习开始后**1分钟内**收到疏散通知。2024年1月，该系统发送了**2,300条**测试短信，送达率为**99.8%**。
+All major assembly points have **visual alarms** (strobe lights), covering **95%** of campus buildings. ANU also offers a **text broadcast** (SMS Alert) service; subscribers receive an evacuation notice within **1 minute** of a drill starting. In January 2024, the system sent **2,300** test messages with a delivery rate of **99.8%**.
 
-## 违规与处罚机制
+## Breaches and Penalties
 
-ANU对拒绝遵守疏散指令或故意干扰演习的行为有明确的纪律处分流程。根据ANU学生行为准则（Student Conduct Rules 2019）第6条，违规学生可能面临**书面警告**、**社区服务**（10至40小时）或**停学**（1至2个学期）。教职工违规则依据ANU员工行为准则（Staff Code of Conduct）处理，可能影响**绩效评估**。
+ANU has a clear disciplinary process for refusing to follow evacuation instructions or deliberately disrupting drills. Under clause 6 of the ANU Student Conduct Rules 2019, offending students may face a **written warning**, **community service** (10 to 40 hours), or **suspension** (1 to 2 semesters). Staff breaches are handled under the ANU Staff Code of Conduct and may affect **performance reviews**.
 
-### 历史案例
+### Historical Cases
 
-2022年，**1名**学生在Marie Reay Teaching Centre演习中拒绝撤离，被处以**20小时**社区服务。2023年，**2名**员工因在演习期间关闭楼层防火门被给予**书面警告**。ANU安全年报指出，演习违规率从2021年的**0.7%** 下降至2023年的**0.3%**。
+In 2022, **1** student who refused to evacuate during a drill at the Marie Reay Teaching Centre was given **20 hours** of community service. In 2023, **2** staff members received **written warnings** for closing a floor fire door during a drill. The ANU safety annual report notes that the drill breach rate fell from **0.7%** in 2021 to **0.3%** in 2023.
 
-### 举报渠道
+### Reporting Channels
 
-任何人员可通过ANU安全热线（**02 6125 2249**）或ANU Safe App匿名举报违规行为。举报信息在**24小时内**由安全与应急管理办公室处理。
+Anyone can report breaches anonymously via the ANU security hotline (**02 6125 2249**) or the ANU Safe App. Reports are handled by Security & Emergency Management within **24 hours**.
 
 ## FAQ
 
-### Q1：如果我在ANU校园内遇到火警，但不知道最近的集合点在哪里怎么办？
+### Q1: What if I hear a fire alarm on the ANU campus but don't know where the nearest assembly point is?
 
-立即跟随**绿色出口指示牌**（符合AS 2293.1标准）撤离建筑，然后在**室外开阔区域**等待。所有ANU建筑入口处均有**疏散地图**（A3尺寸，荧光绿色背景），标注最近集合点。您也可以通过ANU Safe App的“Find Assembly Point”功能实时定位，该App覆盖**100%** 校园区域。2023年调查显示，**92%** 的新生在入学第一周内通过Orientation熟悉了集合点位置。
+Immediately follow the **green exit signs** (compliant with AS 2293.1) out of the building, then wait in an **open outdoor area**. Every ANU building entrance has an **evacuation map** (A3 size, fluorescent green background) showing the nearest assembly point. You can also locate yourself in real time using the 'Find Assembly Point' function in the ANU Safe App, which covers **100%** of the campus. A 2023 survey found that **92%** of new students had familiarised themselves with assembly point locations through Orientation within their first week.
 
-### Q2：ANU的疏散演习是否计入考勤或课程成绩？
+### Q2: Do ANU evacuation drills count towards attendance or course grades?
 
-对于**大部分课程**，演习属于非强制性安全活动，不直接影响学术成绩。但部分**实验室课程**（如化学、物理、生物学）要求学生在**实验开始前**签署安全协议，其中包含疏散演习参与条款。若在实验课时发生演习，缺席者可能被要求**补做实验**或**提交书面说明**。2023年，ANU有**约300门**课程明确将疏散演习纳入实验室安全评分体系。
+For **most courses**, drills are non-mandatory safety activities and do not directly affect academic results. However, some **laboratory courses** (such as chemistry, physics, and biology) require students to sign a safety agreement **before starting lab work**, which includes a clause on participating in evacuation drills. If a drill occurs during a lab class, absent students may be required to **make up the experiment** or **submit a written explanation**. In 2023, about **300** ANU courses explicitly included evacuation drill participation in their laboratory safety scoring.
 
-### Q3：作为国际学生，如果我在演习中丢失了护照或贵重物品怎么办？
+### Q3: As an international student, what should I do if I lose my passport or valuables during a drill?
 
-ANU安全与应急管理办公室在每次演习后**30分钟内**发布失物招领公告，通过**ANU Security Lost & Found**系统（位于Building 12）处理。2023年，演习期间共登记**47件**失物，其中**43件**在**48小时内**物归原主。若丢失护照，您需立即联系ANU国际学生支持团队（**02 6125 4321**）获取领事协助指引，并可在**24小时内**开具**疏散参与证明**用于向移民局说明情况。
+ANU Security & Emergency Management publishes a lost-and-found notice within **30 minutes** after each drill, handled through the **ANU Security Lost & Found** system (located in Building 12). In 2023, **47** items were logged as lost during drills, of which **43** were returned to their owners within **48 hours**. If you lose your passport, contact the ANU International Student Support team immediately (**02 6125 4321**) for consular assistance guidance; a **drill participation certificate** can be issued within **24 hours** to explain the situation to immigration authorities.
 
-## 参考资料
+## References
 
-- 澳大利亚标准协会 2010 AS 3745-2010《应急控制组织与程序》
-- ACT工作安全局 2022-23 年度报告
-- 澳大利亚国立大学 2023 安全年报（ANU Safety & Wellbeing Annual Report 2023）
-- 澳大利亚国立大学 2024 校园地图（ANU Campus Map 2024 Edition）
-- UNILINK Education 2024 ANU安全程序数据库（Unilink Education Database）
+- Standards Australia 2010, AS 3745-2010 Emergency Control Organisation and Procedures
+- WorkSafe ACT Annual Report 2022–23
+- Australian National University 2023, ANU Safety & Wellbeing Annual Report 2023
+- Australian National University 2024, ANU Campus Map 2024 Edition
+- UNILINK Education 2024, ANU Safety Procedures Database (Unilink Education Database)

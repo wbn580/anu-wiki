@@ -1,6 +1,7 @@
 ---
+slug: anu-campus-accessibility-map-accessible-entrances-lifts-accessible-toilets-and-d
 title: "ANU Campus Accessibility Map: Accessible Entrances, Lifts, Accessible Toilets, and Disability Support Service Contacts"
-description: "澳大利亚国立大学（ANU）Acton校区占地145公顷，拥有超过200栋建筑，其地形起伏显著，部分区域坡度超过10%。根据澳大利亚统计局（ABS）2021年人口普查数据，15岁以上澳大利亚人口中有8.2%报告存在需要辅助设备或环境改造的残疾状况，而ANU在2023年《残疾包容行动计划》中确认，校园内共有47栋建筑…"
+description: "The Australian National University (ANU) Acton campus spans 145 hectares with over 200 buildings, featuring markedly undulating terrain where some areas slope more than 10%. According to Australian Bureau of Statistics (ABS) 2021 Census data, 8.2% of Australians aged 15 and over reported a disability requiring assistive equipment or environmental modifications, while ANU confirmed in its 2023 Disability Inclusion Action Plan that the campus has 47 buildings…"
 category: "ANU"
 pubDatetime: '2026-05-04T20:00:03Z'
 publishDate: '2026-05-04T20:00:03Z'
@@ -10,93 +11,110 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-accessibility-map-accessible-entrances-lifts-accessible-toilets-and-d-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）Acton校区占地145公顷，拥有超过200栋建筑，其地形起伏显著，部分区域坡度超过10%。根据澳大利亚统计局（ABS）2021年人口普查数据，15岁以上澳大利亚人口中有8.2%报告存在需要辅助设备或环境改造的残疾状况，而ANU在2023年《残疾包容行动计划》中确认，校园内共有47栋建筑设有无障碍入口，34处无障碍卫生间，以及超过120个无障碍停车位。随着2025年新学期的临近，了解ANU校园的无障碍设施分布与支持服务，对于行动不便的学生、教职工及访客而言，是规划日常出行与学习生活的关键前提。
+The Australian National University (ANU) Acton campus spans 145 hectares and contains more than 200 buildings, with noticeably undulating terrain where some areas slope more than 10%. According to the Australian Bureau of Statistics (ABS) 2021 Census, 8.2% of Australians aged 15 and over reported a disability that requires assistive equipment or environmental modifications, and ANU confirmed in its 2023 Disability Inclusion Action Plan that the campus has 47 buildings with accessible entrances, 34 accessible toilets, and more than 120 accessible parking spaces. With the 2025 new semester approaching, understanding the layout of ANU's accessible facilities and its support services is a key prerequisite for students, staff, and visitors with limited mobility to plan their daily commutes and study lives.
 
-## 校园无障碍入口与建筑通道
+## Accessible Entrances and Building Access on Campus
 
-ANU校园的无障碍入口设计遵循《澳大利亚建筑规范》（BCA）与《残疾歧视法案》（DDA 1992）的技术标准。**无障碍入口**的主要特征包括：坡道坡度不超过1:14、自动或轻触式开门按钮、至少850毫米宽的净通行门洞。根据ANU设施管理处（2024年）发布的《校园无障碍地图》，主校区内47栋建筑设有此类入口，覆盖了所有主要教学楼、图书馆及行政楼。
+ANU's accessible entrances are designed to the technical standards of the Building Code of Australia (BCA) and the Disability Discrimination Act (DDA 1992). Key features of **accessible entrances** include: ramp gradients no steeper than 1:14, automatic or touch-activated door-opening buttons, and clear door openings at least 850 mm wide. According to the Campus Accessibility Map published by ANU Facilities and Services (2024), 47 buildings on the main campus have such entrances, covering all major teaching buildings, libraries, and administration buildings.
 
-### 主要教学区入口分布
-**Chifley Library**（图书馆）的主入口位于大楼东侧，配备自动推拉门与坡道，门宽920毫米。**Hancock Building**（人文与社会科学）的南侧入口设有呼叫按钮，按下后安保中心可远程开启门禁，响应时间通常在30秒内。**Marie Reay Teaching Centre**（教学中心）的底层入口全部为自动平开门，与地面齐平，无需坡道。
+### Accessible Entrances in the Main Teaching Precinct
 
-### 宿舍区通道配置
-ANU的18座住宿学院中，有12座在2022年之后完成了无障碍改造。**Wright Hall**与**Bruce Hall**的主入口均安装了升降平台，载重250公斤，可容纳标准轮椅（宽度≤680毫米）。**Lena Karmel Lodge**则设有从地面直达各楼层的电梯，轿厢尺寸为1100毫米×1400毫米，符合AS 1735.12标准。
+The main entrance of **Chifley Library** sits on the eastern side of the building and is fitted with automatic sliding doors and a ramp, with a door width of 920 mm. The southern entrance of the **Hancock Building** (humanities and social sciences) has a call button; once pressed, the security centre can remotely release the door lock, with a typical response time of under 30 seconds. All ground-floor entrances of the **Marie Reay Teaching Centre** are automatic swing doors flush with the ground, requiring no ramp.
 
-## 电梯与垂直交通系统
+### Residential Hall Access
 
-校园内共有76部电梯，其中62部被标记为**无障碍电梯**。根据ANU健康、安全与福利部（2024年）的年度检查报告，这些电梯均配备盲文按钮、语音播报楼层、低位操作面板（按钮中心距地面900-1100毫米），以及至少800毫米×1300毫米的轿厢空间。
+Of ANU's 18 residential halls, 12 completed accessibility retrofits after 2022. The main entrances of **Wright Hall** and **Bruce Hall** are both fitted with platform lifts rated at 250 kg that can carry a standard wheelchair (width ≤ 680 mm). **Lena Karmel Lodge**, by contrast, has lifts serving every floor directly from the ground, with car dimensions of 1100 mm × 1400 mm, compliant with AS 1735.12.
 
-### 关键电梯节点
-**Peter Baume Building**（法学院）的两部电梯直达地下停车场，轿厢内设有扶手与紧急通话装置。**Copland Building**（学生中心）的电梯连接G层至3层，每层均与无障碍厕所相邻。**Research School of Physics**的电梯采用双开门设计，便于轮椅使用者无需调头即可进出。
+## Lifts and Vertical Transport Systems
 
-### 电梯故障备用方案
-当某部电梯停运时，ANU设施管理处会通过ANU Emergency App推送实时通知，并在受影响建筑入口张贴替代路线图。例如，2024年10月**Baldessin Precinct Building**电梯维修期间，校方在相邻的**Sir Roland Wilson Building**增设了临时坡道与引导标识，替代步行距离约80米。
+There are 76 lifts across the campus, of which 62 are marked as **accessible lifts**. According to the annual inspection report of ANU Health, Safety and Wellbeing (2024), these lifts are all equipped with braille buttons, audible floor announcements, low-positioned control panels (button centres 900–1100 mm from the floor), and car spaces of at least 800 mm × 1300 mm.
 
-## 无障碍卫生间设施
+### Key Lift Hubs
 
-ANU校园内共有34处**无障碍卫生间**，其中22处为独立锁闭式（单人间），12处为可转换式（可容纳护理人员）。根据ANU设施标准（FMS-2023-01），所有无障碍卫生间必须满足：门宽≥850毫米、内部回转直径≥1500毫米、马桶座高430-480毫米、洗手台下方净高≥650毫米。
+The **Peter Baume Building** (College of Law) has two lifts running directly to the basement car park, fitted with handrails and emergency intercoms. The lifts in the **Copland Building** (student centre) serve levels G to 3, and every floor adjoins an accessible toilet. The lifts at the **Research School of Physics** use a double-door design so wheelchair users can enter and exit without turning around.
 
-### 卫生间分布密度
-**大学大道（University Avenue）**沿线建筑密度最高：**Union Court**区域（包括Kambri Precinct）集中了6处无障碍卫生间，平均每50米步行距离内有一处。**Acton Campus**东侧的**科学与技术集群**（如Chemistry Building、Physics Building）共有8处，但部分位于地下层，需通过电梯抵达。
+### Backup Plans When a Lift Is Out of Service
 
-### 性别中立与护理设施
-2023年，ANU在**Marie Reay Teaching Centre**和**Kambri Precinct**增设了4处**全性别无障碍卫生间**，内部配备婴儿护理台与成人更衣台。这些设施由ANU性别平等办公室（2023年）推动设立，旨在服务包括跨性别者、护理人员在内的多元用户群体。
+When a lift is out of service, ANU Facilities and Services pushes real-time notifications through the ANU Emergency App and posts alternative route maps at the entrances of the affected buildings. For example, during the lift maintenance at the **Baldessin Precinct Building** in October 2024, the University installed a temporary ramp and wayfinding signage in the neighbouring **Sir Roland Wilson Building**, with a detour walking distance of about 80 metres.
 
-## 停车场与交通接驳
+## Accessible Toilet Facilities
 
-ANU Acton校区共有14个停车场，其中8个设有**无障碍停车位**，总数超过120个。这些车位遵循AS 2890.6标准：宽度≥3200毫米（含1200毫米共享通道）、紧邻建筑入口、地面标注国际无障碍标志。
+There are 34 **accessible toilets** across the ANU campus, of which 22 are single-occupancy lockable rooms and 12 are convertible rooms (able to accommodate a carer). Under ANU Facilities Standard (FMS-2023-01), all accessible toilets must meet: door width ≥ 850 mm, internal turning circle ≥ 1500 mm, toilet seat height 430–480 mm, and clear height under the hand basin ≥ 650 mm.
 
-### 主要停车场无障碍配置
-**B4停车场**（位于Chifley Library下方）提供18个无障碍车位，距离图书馆入口最近处仅5米。**B5停车场**（Union Court下方）设有24个无障碍车位，并有直达电梯通往Kambri Precinct地面层。**B8停车场**（Research School of Chemistry旁）的6个无障碍车位配备了电动汽车充电桩，充电接口高度符合无障碍操作范围（800-1100毫米）。
+### Toilet Distribution Density
 
-### 校园穿梭巴士
-ANU运营的**ANU Express**免费穿梭巴士（周一至周五7:00-19:00）所有车辆均为低地板设计，配备手动坡道与轮椅固定区域。根据ANU交通与停车服务（2024年）数据，该巴士每日服务约1200名乘客，其中约3%使用轮椅或助行器。巴士路线覆盖Acton校区全部8个停车区，并在**Kambri Precinct**设有无障碍候车亭（带雨棚与座位）。
+The building density along **University Avenue** is the highest: the **Union Court** area (including the Kambri Precinct) concentrates 6 accessible toilets, working out to roughly one within every 50 metres of walking distance. The science and technology cluster on the eastern side of **Acton Campus** (such as the Chemistry Building and the Physics Building) has 8 in total, though some sit on basement levels and must be reached by lift.
 
-## 导航辅助技术与数字工具
+### Gender-Neutral and Care Facilities
 
-ANU通过多种**数字导航工具**辅助校园无障碍通行。ANU Facilities and Services网站（2024年更新）提供交互式无障碍地图，用户可筛选显示无障碍入口、电梯、卫生间及停车位。该地图基于Google Maps API构建，支持屏幕阅读器（JAWS、NVDA）与键盘导航。
+In 2023, ANU added 4 **all-gender accessible toilets** in the **Marie Reay Teaching Centre** and the **Kambri Precinct**, fitted with baby change tables and adult changing benches. These facilities were established on the initiative of the ANU Gender Equity Office (2023) to serve a diverse range of users, including transgender people and carers.
 
-### 移动应用与实时数据
-**ANU Access Map**应用程序（iOS/Android）集成了蓝牙信标（Bluetooth Beacons），在室内环境下可提供1米精度的定位。该应用由ANU计算机科学学院与设施管理处（2023年）联合开发，覆盖了Kambri Precinct、Chifley Library、Hancock Building等12栋高流量建筑。用户在应用内可查看电梯实时状态（运行/维修中）、卫生间占用情况（通过门磁传感器），并规划避开台阶的路线。
+## Car Parks and Transport Connections
 
-### 语音导航与文本描述
-2024年，ANU与**Seeing AI**（微软）合作，为校园内50处主要建筑入口生成了文本描述与语音导航路径。这些数据已整合至Google Maps与Apple Maps的无障碍模式中。例如，搜索“ANU Chifley Library入口”时，地图会优先显示东侧无障碍入口，并附带描述：“自动推拉门，门宽920毫米，门前坡道坡度1:12，地面铺设防滑瓷砖。”
+The ANU Acton campus has 14 car parks, 8 of which offer **accessible parking spaces**, totalling more than 120. These bays comply with AS 2890.6: width ≥ 3200 mm (including a 1200 mm shared access aisle), located immediately adjacent to building entrances, and marked on the ground with the international symbol of access.
 
-## 残疾支持服务与联系方式
+### Accessible Provision in the Main Car Parks
 
-ANU的**Access & Inclusion**（原Disability Service Centre）是负责协调校园无障碍支持的核心机构，隶属于学生事务部。根据ANU《残疾包容行动计划2023-2026》，该办公室在2023年服务了超过450名注册学生，提供了包括学习调整、设备借用、交通补贴在内的12类支持。
+**B4 car park** (below Chifley Library) offers 18 accessible bays, the closest just 5 metres from the library entrance. **B5 car park** (below Union Court) has 24 accessible bays and a direct lift to the ground level of Kambri Precinct. The 6 accessible bays at **B8 car park** (beside the Research School of Chemistry) are equipped with electric vehicle charging stations, with charging connectors positioned at accessible operating heights (800–1100 mm).
 
-### 关键服务内容
-**学习调整**包括：额外考试时间（每1小时考试增加15分钟）、替代格式教材（电子文本/大字版/音频）、优先座位安排。**设备借用**包括：手动轮椅（12台）、电动代步车（4台）、便携式坡道（6条）、降噪耳机（20副）。**交通补贴**针对需使用出租车或无障碍出租车（如ANU与Canberra Taxi合作）往返校园的学生，每年最高可报销AUD 1,200。
+### Campus Shuttle Bus
 
-### 联系渠道
-Access & Inclusion办公室位于**Di Riddell Student Centre**（Building 155）的G层，办公时间周一至周五9:00-17:00。电话：+61 2 6125 8800；电子邮件：access.inclusion@anu.edu.au。紧急情况下（如电梯故障导致被困），可拨打ANU Security 24小时热线：+61 2 6125 2249。所有服务申请可通过ANU ISIS系统在线提交，处理周期通常为5-10个工作日。
+All vehicles in ANU's free **ANU Express** shuttle service (Monday to Friday 7:00–19:00) are low-floor designs with manual ramps and wheelchair securement areas. According to ANU Transport and Parking Services (2024), the shuttle carries about 1,200 passengers a day, of whom around 3% use wheelchairs or walking aids. The route covers all 8 parking zones of the Acton campus and includes an accessible shelter (with canopy and seating) at **Kambri Precinct**.
 
-## 建筑改造与未来规划
+## Assistive Navigation Technology and Digital Tools
 
-ANU在2023-2026年《校园基础设施计划》中承诺投入AUD 2,300万用于无障碍改造。**2024-2025年优先项目**包括：将**Baldessin Precinct Building**的入口坡道坡度从1:10降至1:14（符合BCA标准）；在**Hancock Building**增设一部无障碍电梯（预计2025年3月完工）；为**University House**更换所有门把手为杠杆式（替代圆形旋钮）。
+ANU supports accessible navigation across campus through a range of **digital navigation tools**. The ANU Facilities and Services website (updated 2024) offers an interactive accessibility map that lets users filter for accessible entrances, lifts, toilets, and parking spaces. Built on the Google Maps API, it supports screen readers (JAWS, NVDA) and keyboard navigation.
 
-### 学生参与机制
-ANU通过**Accessibility Advisory Group**（AAG）吸纳残障学生代表参与决策。该小组每月召开一次会议，由Access & Inclusion主任主持，2024年共审议了23项改造提案，其中17项获得批准并纳入预算。学生可通过ANU Student Voice平台提交无障碍改进建议，平均响应时间为14天。
+### Mobile Apps and Real-Time Data
 
-### 技术试点
-2024年，ANU在**Marie Reay Teaching Centre**试点**智能导航地板**，通过嵌入LED灯带在地面显示通往无障碍卫生间、电梯的路径。该技术由ANU工程与计算机科学学院与澳大利亚初创公司Wayfindr合作开发，试点期间获得了87%的用户满意度（样本量n=120）。
+The **ANU Access Map** app (iOS/Android) integrates Bluetooth beacons to deliver indoor positioning accurate to 1 metre. Developed jointly by the ANU College of Engineering and Computer Science and Facilities and Services (2023), the app covers 12 high-traffic buildings including Kambri Precinct, Chifley Library, and the Hancock Building. Users can check real-time lift status (in service/under maintenance), toilet occupancy (via door magnetic sensors), and plan routes that avoid stairs.
+
+### Voice Navigation and Text Descriptions
+
+In 2024, ANU partnered with **Seeing AI** (Microsoft) to generate text descriptions and voice navigation routes for the entrances of 50 major campus buildings. This data has been integrated into the accessibility modes of Google Maps and Apple Maps. For example, searching 'ANU Chifley Library entrance' now prioritises the eastern accessible entrance and displays the description: "Automatic sliding doors, 920 mm door width, ramp gradient of 1:12 in front of the door, anti-slip floor tiles."
+
+## Disability Support Services and Contact Details
+
+ANU's **Access & Inclusion** office (formerly the Disability Service Centre) is the core body coordinating accessibility support on campus and sits within the Student Affairs division. According to the ANU Disability Inclusion Action Plan 2023–2026, the office served more than 450 registered students in 2023, providing 12 categories of support including study adjustments, equipment loans, and transport subsidies.
+
+### Key Services
+
+**Study adjustments** include: extra exam time (15 minutes added for every 1 hour of exam), alternative-format materials (electronic text/large print/audio), and priority seating arrangements. **Equipment loans** include: manual wheelchairs (12 units), electric mobility scooters (4 units), portable ramps (6), and noise-cancelling headphones (20 pairs). **Transport subsidies** cover students who need to use taxis or wheelchair-accessible taxis (such as those operated through ANU's partnership with Canberra Taxi) to get to and from campus, with annual reimbursement up to AUD 1,200.
+
+### Contact Channels
+
+The Access & Inclusion office is on level G of the **Di Riddell Student Centre** (Building 155), open Monday to Friday 9:00–17:00. Phone: +61 2 6125 8800; email: access.inclusion@anu.edu.au. In emergencies (such as being trapped in a lift), call the ANU Security 24-hour hotline: +61 2 6125 2249. All service applications can be submitted online through the ANU ISIS system, with a typical processing time of 5–10 business days.
+
+## Building Upgrades and Future Plans
+
+ANU has committed AUD 23 million to accessibility upgrades in its 2023–2026 Campus Infrastructure Plan. **Priority projects for 2024–2025** include: reducing the entrance ramp gradient of the **Baldessin Precinct Building** from 1:10 to 1:14 (BCA-compliant); adding an accessible lift to the **Hancock Building** (expected completion March 2025); and replacing all door handles at **University House** with lever handles (instead of round knobs).
+
+### Student Participation Mechanisms
+
+ANU draws students with disabilities into decision-making through the **Accessibility Advisory Group** (AAG). The group meets monthly, chaired by the Director of Access & Inclusion, and reviewed 23 upgrade proposals in 2024, of which 17 were approved and budgeted. Students can submit accessibility improvement suggestions through the ANU Student Voice platform, with an average response time of 14 days.
+
+### Technology Pilots
+
+In 2024, ANU piloted **smart navigation flooring** at the **Marie Reay Teaching Centre**, using embedded LED strips to display paths on the floor to accessible toilets and lifts. Developed by the ANU College of Engineering and Computer Science with Australian startup Wayfindr, the pilot recorded 87% user satisfaction (sample size n=120).
 
 ## FAQ
 
-### Q1：ANU校园内是否有24小时开放的无障碍卫生间？
-有。**Kambri Precinct**的**Kambri Hub**内有一处无障碍卫生间全天候开放（需刷学生卡进入，门禁权限可在Access & Inclusion申请）。此外，**Chifley Library**的卫生间在图书馆开放时间内（通常为7:00-22:00）可用，但非开放时间需通过安保人员（电话+61 2 6125 2249）协调进入。
+### Q1: Are there accessible toilets on the ANU campus open 24 hours?
 
-### Q2：如果电梯故障，如何获取替代路线信息？
-ANU通过三种渠道发布实时信息：ANU Emergency App推送通知、校园电子显示屏（位于主要建筑入口）、ANU Facilities网站“电梯状态”页面。替代路线通常会在受影响建筑入口张贴A3尺寸的纸质地图，并引导至最近的无障碍入口（步行距离通常在200米以内）。
+Yes. One accessible toilet inside the **Kambri Hub** in **Kambri Precinct** is open around the clock (accessed with a student card; access permissions can be requested from Access & Inclusion). In addition, the toilets at **Chifley Library** are available during library opening hours (usually 7:00–22:00), but outside these hours entry must be arranged through security staff (phone +61 2 6125 2249).
 
-### Q3：国际学生如何申请学习调整？
-国际学生与本地学生使用同一流程：通过ANU ISIS系统提交Access & Inclusion申请，需附上由执业医师或心理学家签署的残疾证明（英文翻译件，需NAATI认证）。处理周期为5-10个工作日。获批后，调整方案会通过邮件发送给学生及相应课程协调员。根据ANU 2023年数据，国际学生占Access & Inclusion服务对象的28%。
+### Q2: If a lift breaks down, how do I get alternative route information?
 
-## 参考资料
+ANU publishes real-time information through three channels: ANU Emergency App push notifications, campus electronic displays (at major building entrances), and the 'lift status' page on the ANU Facilities website. Alternative routes are usually posted as A3 paper maps at the entrances of affected buildings, directing people to the nearest accessible entrance (usually within 200 metres' walking distance).
 
-- 澳大利亚统计局（ABS）2021年人口普查，《残疾状况与辅助设备需求》
-- 澳大利亚国立大学设施管理处（2024年），《校园无障碍地图与设施清单》
-- 澳大利亚国立大学健康、安全与福利部（2024年），《电梯年度安全检查报告》
-- 澳大利亚国立大学（2023年），《残疾包容行动计划2023-2026》
-- Unilink Education数据库（2024年），《澳大利亚八校联盟校园无障碍设施对比分析》
+### Q3: How do international students apply for study adjustments?
+
+International students use the same process as domestic students: submit an Access & Inclusion application through the ANU ISIS system, attaching a disability certificate signed by a registered medical practitioner or psychologist (with an English translation certified by NAATI). Processing takes 5–10 business days. Once approved, the adjustment plan is emailed to the student and the relevant course coordinator. According to ANU 2023 data, international students make up 28% of Access & Inclusion clients.
+
+## References
+
+- Australian Bureau of Statistics (ABS) 2021 Census, Disability Status and Need for Assistive Equipment
+- Australian National University Facilities and Services (2024), Campus Accessibility Map and Facilities Register
+- Australian National University Health, Safety and Wellbeing (2024), Annual Lift Safety Inspection Report
+- Australian National University (2023), Disability Inclusion Action Plan 2023–2026
+- Unilink Education database (2024), Comparative Analysis of Accessible Facilities at Group of Eight University Campuses

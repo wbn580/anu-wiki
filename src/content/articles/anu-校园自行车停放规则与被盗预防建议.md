@@ -1,6 +1,7 @@
 ---
-title: "ANU 校园自行车停放规则与被盗预防建议"
-description: "澳大利亚国立大学（ANU）校园内每天约有 3,500 辆自行车进出，但根据 ANU 安全与交通部门 2023 年发布的数据，校园内每年报告的自行车被盗案件超过 120 起，实际失窃数量可能更高。与此同时，澳大利亚首都领地（ACT）政府 2022 年的犯罪统计数据显示，堪培拉整体自行车盗窃案较前一年上升 14%，而…"
+slug: anu-校园自行车停放规则与被盗预防建议
+title: "ANU Campus Bicycle Parking Rules and Theft Prevention Advice"
+description: "Around 3,500 bicycles enter and leave the Australian National University (ANU) campus every day, yet according to data released by ANU Safety and Transport in 2023, more than 120 bicycle thefts are reported on campus each year — and the actual number stolen is likely higher. Meanwhile, crime statistics from the Australian Capital Territory (ACT) government for 2022 show that bicycle theft across Canberra rose 14% year on year, and the campus, as a high-density parking area, has become a prime target. Drawing on ANU's official parking regulations, ACT Policing theft prevention guidelines and campus security reports, this article systematically reviews ANU campus bicycle parking rules and anti-theft advice to help current students reduce the risk of property loss.…"
 category: "ANU 校园自行车停放规"
 pubDatetime: '2026-03-21T19:51:27Z'
 publishDate: '2026-03-21T19:51:27Z'
@@ -8,109 +9,111 @@ readingTime: 12
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园自行车停放规则与被盗预防建议-2026-1880x1253.jpg"
+lang: en
+language: en
 ---
 
-澳大利亚国立大学（ANU）校园内每天约有 3,500 辆自行车进出，但根据 ANU 安全与交通部门 2023 年发布的数据，校园内每年报告的自行车被盗案件超过 120 起，实际失窃数量可能更高。与此同时，澳大利亚首都领地（ACT）政府 2022 年的犯罪统计数据显示，堪培拉整体自行车盗窃案较前一年上升 14%，而校园作为高密度停放区成为重点目标。本文基于 ANU 官方停车规定、ACT 警方防盗指南以及校园安全报告，系统梳理 ANU 校园自行车停放规则与防盗建议，帮助在校学生降低财产损失风险。
+Around 3,500 bicycles enter and leave the Australian National University (ANU) campus every day, but according to data released by the ANU Safety and Transport division in 2023, more than 120 bicycle thefts are reported on campus each year, and the actual number stolen is likely higher. At the same time, crime statistics from the Australian Capital Territory (ACT) government for 2022 show that bicycle theft across Canberra rose 14% from the previous year, making the campus — a high-density parking area — a prime target. Drawing on ANU's official parking regulations, ACT Policing anti-theft guidelines and campus security reports, this article systematically reviews ANU campus bicycle parking rules and theft prevention advice to help current students reduce the risk of property loss.
 
-## 官方停放区域与违规后果
+## Official Parking Areas and Consequences of Violations
 
-ANU 校园内划定了明确的自行车停放区，主要分布在教学楼入口、宿舍区及图书馆周边。根据 ANU 交通与停车政策（2024 年更新），学生须将自行车锁在指定的 **自行车架** 或 **U 形环** 上，禁止停放在楼梯间、消防通道、无障碍坡道或建筑物入口 3 米范围内。违规停放车辆可能被校园安全部门移除，且车主需支付 50 澳元至 150 澳元不等的取回费用【ANU, 2024, _Traffic and Parking Policy_】。
+ANU has designated clear bicycle parking areas on campus, mainly around teaching building entrances, residential halls and the libraries. Under the ANU Traffic and Parking Policy (updated 2024), students must lock bicycles to designated **bicycle racks** or **U-rings**, and parking is prohibited in stairwells, fire escape routes, accessible ramps, or within 3 metres of building entrances. Bicycles parked in violation may be removed by campus security, and owners must pay a retrieval fee of A$50 to A$150 to get them back【ANU, 2024, _Traffic and Parking Policy_】.
 
-### 临时停放与长期停放的区分
+### Short-term vs Long-term Parking
 
-校园内大部分停车架为短期停放设计（不超过 24 小时），但宿舍区（如 Bruce Hall、Ursula College）提供长期停车棚，需通过宿舍前台登记使用。长期停放区通常配备监控摄像头，但 ANU 安全部门明确声明不对任何停放车辆承担保管责任【ANU Security, 2023, _Bicycle Security Guidelines_】。
+Most parking racks on campus are designed for short-term parking (no more than 24 hours), but residential areas (such as Bruce Hall and Ursula College) offer long-term bike sheds that must be registered at the hall front desk. Long-term parking areas are usually equipped with surveillance cameras, but the ANU Security division explicitly states that it bears no custodial responsibility for any parked bicycle【ANU Security, 2023, _Bicycle Security Guidelines_】.
 
-### 违规车辆处理流程
+### Handling of Violating Bicycles
 
-若车辆被标记为违规停放，校园安全人员会在车把上张贴黄色警告单，并在 48 小时内移除。学生可凭学生证前往安全办公室（位于 Building 44）认领，逾期未取车辆将转交 ACT 警方拍卖。
+If a bicycle is flagged for illegal parking, campus security officers attach a yellow warning notice to the handlebars and remove the bike within 48 hours. Students can claim it at the Security Office (located in Building 44) with their student ID; unclaimed bicycles are handed over to ACT Policing for auction.
 
-## 被盗数据与高风险区域
+## Theft Statistics and High-risk Areas
 
-根据 ANU 安全部门 2022-2023 年度报告，校园内自行车盗窃案的高发时段集中在学期初（2-3 月）和考试周（6 月、11 月），这两个时期的月均盗窃量达到 15 起，是其他月份的两倍【ANU Security, 2023, _Annual Incident Report_】。从空间分布看，**Chifley Library** 和 **Marie Reay Teaching Centre** 周边的停车架是失窃率最高的地点，合计占全部案件的 34%。
+According to the ANU Security division's 2022–2023 annual report, bicycle thefts on campus peak in early semester (February–March) and during exam weeks (June, November), when monthly thefts average 15 — twice the rate of other months【ANU Security, 2023, _Annual Incident Report_】. By location, the racks around **Chifley Library** and the **Marie Reay Teaching Centre** have the highest theft rates, together accounting for 34% of all cases.
 
-### 宿舍区盗窃特点
+### Theft Patterns in Residential Halls
 
-宿舍区（如 Wright Hall、Fenner Hall）的盗窃案多发生在夜间 22:00 至凌晨 3:00，作案者常利用宿舍出入口未锁闭的时段。ACT 警方 2023 年的一份专项报告指出，宿舍区约 60% 的被盗车辆仅使用了 **缆锁**（cable lock），而非更坚固的 U 形锁【ACT Policing, 2023, _Bicycle Theft Prevention Report_】。
+Thefts in residential areas (such as Wright Hall and Fenner Hall) mostly occur between 10:00 pm and 3:00 am, with perpetrators taking advantage of periods when hall entrances are left unlocked. A 2023 special report by ACT Policing noted that about 60% of bicycles stolen from residential areas were secured only with a **cable lock** rather than a more robust U-lock【ACT Policing, 2023, _Bicycle Theft Prevention Report_】.
 
-### 监控覆盖盲区
+### Surveillance Blind Spots
 
-尽管 ANU 在主要路口安装了 200 余个监控摄像头，但部分停车架位于建筑转角或树荫遮挡处，未被监控覆盖。安全部门建议学生优先选择 **监控直射区域** 内的停车架。
+Although ANU has installed more than 200 surveillance cameras at major intersections, some racks sit around building corners or under tree cover and are not covered by cameras. The Security division advises students to prefer racks in **direct camera view**.
 
-## 锁具选择与正确锁法
+## Lock Selection and Proper Locking Technique
 
-选择正确的锁具是降低被盗概率的首要措施。根据 ANU 安全部门发布的防盗指南，**U 形锁**（D-lock）的抗剪切强度是普通缆锁的 8 倍以上，建议学生购买至少 14 毫米锁梁厚度的 U 形锁【ANU Security, 2023, _Bicycle Security Guidelines_】。锁法上，应遵循“双锁原则”：用 U 形锁固定后轮和车架，再用第二把锁（如折叠锁）固定前轮。
+Choosing the right lock is the first step in reducing the chance of theft. According to the anti-theft guide issued by the ANU Security division, a **U-lock** (D-lock) has more than 8 times the shear resistance of an ordinary cable lock, and students are advised to buy a U-lock with a shackle thickness of at least 14 mm【ANU Security, 2023, _Bicycle Security Guidelines_】. As for technique, follow the "two-lock principle": secure the rear wheel and frame with a U-lock, then use a second lock (such as a folding lock) for the front wheel.
 
-### 锁具等级认证
+### Lock Certification Standards
 
-澳大利亚标准协会（Standards Australia）对自行车锁设有 AS/NZS 标准认证。ACT 警方在 2022 年防盗宣传中特别指出，通过 **Sold Secure Silver** 或 **ART 4** 级别认证的锁具，能有效抵御液压钳等常见工具。市面上满足该标准的锁具价格区间为 40 澳元至 120 澳元。
+Standards Australia certifies bicycle locks under the AS/NZS standard. In its 2022 anti-theft campaign, ACT Policing specifically noted that locks certified at **Sold Secure Silver** or **ART 4** level can effectively resist common tools such as hydraulic bolt cutters. Locks meeting this standard typically cost between A$40 and A$120.
 
-### 常见锁具误区
+### Common Locking Mistakes
 
-ANU 安全部门观察到，约 45% 的学生仅使用出厂附带的缆锁，这类锁具在 30 秒内即可被剪断。此外，将锁具直接锁在车轮而非车架上，是导致车辆被整体搬走的常见原因。
+The ANU Security division has observed that about 45% of students use only the cable lock supplied with the bicycle — such locks can be cut through in under 30 seconds. In addition, locking the wheel instead of the frame is a common reason bicycles are carried away whole.
 
-## 登记注册与追踪技术
+## Registration and Tracking Technology
 
-ACT 警方运营的 **Bicycle Register** 系统（免费在线平台）允许学生录入车架号、品牌、型号及照片。注册后，车辆一旦被盗，警方可凭车架号在全国被盗车辆数据库（NPCS）中查询。截至 2023 年，ACT 地区已有超过 8,000 辆自行车完成注册，寻回率比未注册车辆高出 42%【ACT Policing, 2023, _Bicycle Register Program Report_】。
+The **Bicycle Register** system operated by ACT Policing (a free online platform) lets students record their frame number, brand, model and photos. Once registered, if the bicycle is stolen the police can search the national stolen bicycle database (NPCS) by frame number. As of 2023, more than 8,000 bicycles had been registered in the ACT, with a recovery rate 42% higher than for unregistered bicycles【ACT Policing, 2023, _Bicycle Register Program Report_】.
 
-### GPS 追踪器的使用
+### Using GPS Trackers
 
-部分学生选择在车座下方或车架内安装 GPS 追踪器（如 Tile、AirTag 或三星 SmartTag）。ANU 安全部门指出，这类设备能帮助定位被盗车辆，但需注意电池续航（通常为 3-6 个月）以及堪培拉冬季低温对电子元件的影响。
+Some students install GPS trackers (such as Tile, AirTag or Samsung SmartTag) under the saddle or inside the frame. The ANU Security division notes that these devices can help locate a stolen bicycle, but attention should be paid to battery life (usually 3–6 months) and the effect of Canberra's low winter temperatures on electronic components.
 
-### 校园安全 App 功能
+### Campus Safety App Features
 
-ANU 官方安全应用 **ANU Safe**（iOS/Android）内置“自行车登记”功能，学生可在 App 内上传车辆照片和锁具型号，并设置“被盗提醒”——当车辆在校园内被移动时，系统会推送通知。该功能基于校园蓝牙信标网络，覆盖范围约为主要教学楼周边 50 米。
+The official ANU safety app, **ANU Safe** (iOS/Android), has a built-in "bicycle registration" function: students can upload photos of the bicycle and lock model, and set up "theft alerts" — the system pushes a notification when the bicycle is moved on campus. The feature is based on the campus Bluetooth beacon network, with coverage of about 50 metres around major teaching buildings.
 
-## 保险覆盖与索赔流程
+## Insurance Coverage and Claims Process
 
-多数学生保险（如 OSHC）不涵盖自行车盗窃，但部分内容保险（Contents Insurance）可附加自行车条款。根据澳大利亚保险委员会（ICA）2023 年数据，包含自行车盗窃的保险年费通常为 30 澳元至 80 澳元，保额上限为 1,500 澳元【Insurance Council of Australia, 2023, _Home Contents Insurance Fact Sheet_】。
+Most student insurance policies (such as OSHC) do not cover bicycle theft, but some contents insurance policies offer an optional bicycle add-on. According to Insurance Council of Australia (ICA) 2023 data, insurance including bicycle theft typically costs A$30–80 per year, with a coverage limit of A$1,500【Insurance Council of Australia, 2023, _Home Contents Insurance Fact Sheet_】.
 
-### 校内保险选项
+### On-campus Insurance Options
 
-ANU 与 Allianz 合作提供的 **ANU Student Insurance** 计划包含自行车盗窃选项，年费为 55 澳元，保额 1,000 澳元，需提供购买发票和锁具照片。理赔时需提交 ACT 警方出具的报案编号（Police Event Number）。
+The **ANU Student Insurance** plan offered by ANU in partnership with Allianz includes a bicycle theft option at A$55 per year with A$1,000 cover, requiring a purchase receipt and photos of the lock. Claims require the Police Event Number issued by ACT Policing.
 
-### 索赔所需材料
+### Documents Required for Claims
 
-若车辆被盗，学生应在 24 小时内向 ACT 警方报案，并获取报案编号。随后向保险公司提交：购买凭证（收据或银行流水）、锁具照片、警方报案回执。处理周期通常为 10-15 个工作日。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%81%9C%E6%94%BE%E8%A7%84%E5%88%99%E4%B8%8E%E8%A2%AB%E7%9B%97%E9%A2%84%E9%98%B2%E5%BB%BA%E8%AE%AE) 等专业通道完成结汇，但这一服务与自行车保险无直接关联。
+If a bicycle is stolen, students should report it to ACT Policing within 24 hours and obtain an event number. They then submit to the insurer: proof of purchase (receipt or bank statement), photos of the lock, and the police report receipt. Processing typically takes 10–15 business days. When paying cross-border tuition, some international students' families use professional channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-%E6%A0%A1%E5%9B%AD%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%81%9C%E6%94%BE%E8%A7%84%E5%88%99%E4%B8%8E%E8%A2%AB%E7%9B%97%E9%A2%84%E9%98%B2%E5%BB%BA%E8%AE%AE) to settle their payments, though this service is not directly related to bicycle insurance.
 
-## 学期初与假期防盗策略
+## Early-semester and Holiday Anti-theft Strategies
 
-学期初（Orientation Week）是盗窃高发期，原因在于大量新生携带新自行车入校，且对校园安全环境不熟悉。ANU 安全部门在每年 O-Week 期间会设置临时自行车登记站，提供免费锁具检查服务。数据显示，参与过 O-Week 防盗讲座的学生，其车辆被盗概率降低 37%【ANU Security, 2023, _Orientation Week Security Report_】。
+The start of semester (Orientation Week) is a peak period for theft, because large numbers of new students arrive with brand-new bicycles and are unfamiliar with campus security. Every O-Week, the ANU Security division sets up temporary bicycle registration stations and offers free lock checks. Data shows that students who attended O-Week anti-theft talks had a 37% lower probability of having their bicycle stolen【ANU Security, 2023, _Orientation Week Security Report_】.
 
-### 假期存放建议
+### Holiday Storage Advice
 
-在寒假（6-7 月）和暑假（11-2 月）期间，校园内自行车盗窃案数量下降约 40%，但宿舍区因人员减少，单辆车的被盗风险反而上升。ANU 宿舍管理部门提供假期存放服务，学生可将自行车寄存于指定仓库，费用为每学期 25 澳元。
+During the winter break (June–July) and summer break (November–February), bicycle thefts on campus fall by about 40%, but in residential areas, where fewer people are around, the risk per bicycle actually rises. ANU residential services offer holiday storage: students can store bicycles in a designated warehouse for A$25 per semester.
 
-### 共享单车替代方案
+### Bike-share Alternative
 
-对于短期停留的学生（如交换生），ANU 校园内设有 **Acton Bike Share** 共享单车系统，注册费为 10 澳元/年，使用费每 30 分钟 1.5 澳元，无需承担个人车辆被盗风险。
+For short-term students (such as exchange students), the campus operates the **Acton Bike Share** system: a registration fee of A$10 per year and A$1.50 per 30 minutes of use, with no personal bike theft risk to worry about.
 
-## 报告与求助渠道
+## Reporting and Help Channels
 
-若自行车在校园内被盗，学生应立即采取以下步骤：第一，拨打 ANU 安全部门 24 小时热线（02 6125 2249）报告；第二，前往 ACT 警方堪培拉市中心警局（地址：12 Moore Street）报案，或通过 ACT Policing Online Reporting 系统提交电子报案。ANU 安全部门与 ACT 警方之间设有 **Bicycle Theft Taskforce**，每月交换校园盗窃数据以识别惯犯【ANU Security & ACT Policing, 2023, _Joint Bicycle Theft Reduction Initiative_】。
+If a bicycle is stolen on campus, students should take the following steps immediately: first, call the ANU Security 24-hour hotline (02 6125 2249) to report it; second, report the theft at ACT Policing's Canberra City Police Station (12 Moore Street), or file an electronic report through the ACT Policing Online Reporting system. The ANU Security division and ACT Policing operate a joint **Bicycle Theft Taskforce** that exchanges campus theft data monthly to identify repeat offenders【ANU Security & ACT Policing, 2023, _Joint Bicycle Theft Reduction Initiative_】.
 
-### 校园监控调取流程
+### Requesting Campus Footage
 
-学生可向 ANU 安全部门提交书面申请，调取案发时段监控录像。申请需注明案发时间、地点及车辆特征，处理周期为 3-5 个工作日。安全部门不会主动向学生提供录像，但会在警方调查时配合提供。
+Students can submit a written request to the ANU Security division to access surveillance footage of the incident period. The request must state the time, location and bicycle description, and processing takes 3–5 business days. The Security division does not proactively provide footage to students, but will cooperate when the police investigate.
 
-### 二手市场追踪
+### Tracking Second-hand Markets
 
-ACT 警方建议学生关注 Gumtree、Facebook Marketplace 等本地二手交易平台。若发现疑似被盗车辆，可截图并联系警方，切勿自行交涉。
+ACT Policing advises students to watch local second-hand platforms such as Gumtree and Facebook Marketplace. If a suspicious bicycle is found, take a screenshot and contact the police — never approach the seller yourself.
 
 ## FAQ
 
-### Q1：ANU 校园内自行车被盗后，学校会赔偿吗？
+### Q1: Will the university compensate me if my bicycle is stolen on the ANU campus?
 
-不会。ANU 安全部门明确声明不对任何停放车辆承担保管责任，无论是否停放在指定区域。学生需自行通过保险或警方追回。根据 ANU 2023 年政策，仅当车辆因校园施工或安保人员操作失误导致损坏时，才可能申请赔偿，但历史案例中仅有 3 起获得批准。
+No. The ANU Security division explicitly states that it bears no custodial responsibility for any parked bicycle, whether or not it was parked in a designated area. Students must recover their losses through insurance or the police. Under ANU's 2023 policy, compensation may only be claimed if the bicycle is damaged due to campus construction or mishandling by security personnel, and only 3 such claims have been approved in recorded history.
 
-### Q2：在 ANU 校园内停车，哪种锁最安全？
+### Q2: Which lock is the safest for parking on the ANU campus?
 
-**U 形锁**（D-lock）是校园安全部门推荐的首选，锁梁厚度至少 14 毫米。根据 ACT 警方 2023 年测试数据，一把售价 60 澳元以上的 U 形锁可抵御 5 分钟以上的液压钳攻击，而同等价位的缆锁仅能抵御 15 秒。建议搭配第二把锁固定前轮。
+A **U-lock** (D-lock) is the top recommendation of campus security, with a shackle thickness of at least 14 mm. According to ACT Policing's 2023 test data, a U-lock costing over A$60 can withstand more than 5 minutes of hydraulic bolt cutter attack, while a cable lock at the same price withstands only 15 seconds. Pairing it with a second lock for the front wheel is recommended.
 
-### Q3：ANU 学生能否免费注册自行车？
+### Q3: Can ANU students register their bicycles for free?
 
-可以。ACT 警方的 Bicycle Register 系统完全免费，无需任何费用。注册时需提供车架号（通常位于车架底部五通处）、品牌、型号及一张照片。注册后，警方寻回车辆的概率提高约 42%。ANU 安全部门在 O-Week 期间会设立现场注册点。
+Yes. The ACT Policing Bicycle Register system is completely free of charge. Registration requires the frame number (usually located at the bottom bracket on the underside of the frame), brand, model and one photo. After registration, the probability of the police recovering the bicycle increases by about 42%. The ANU Security division sets up on-site registration points during O-Week.
 
-## 参考资料
+## References
 
 - ANU Security. 2023. _Bicycle Security Guidelines_.
 - ACT Policing. 2023. _Bicycle Theft Prevention Report_.

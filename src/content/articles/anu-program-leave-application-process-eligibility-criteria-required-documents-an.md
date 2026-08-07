@@ -1,6 +1,7 @@
 ---
+slug: anu-program-leave-application-process-eligibility-criteria-required-documents-an
 title: "ANU Program Leave Application Process: Eligibility Criteria, Required Documents, and Implications for Your Student Visa"
-description: "澳大利亚国立大学（ANU）的**课程休学（Program Leave）申请**是学生因健康、经济或个人原因暂时中断学业的正规流程。根据澳大利亚内政部2024年更新的《学生签证条款（8104/8105）》，持学生签证（Subclass 500）的国际学生单次休学时长通常不得超过12个月，且需满足特定**资格条件（E…"
+description: "The Australian National University (ANU) Program Leave application is the formal process through which students temporarily interrupt their studies for health, financial or personal reasons. Under the student visa conditions (8104/8105) updated by the Australian Department of Home Affairs in 2024, international students holding a Subclass 500 student visa may normally take no more than 12 months of leave per application, and must satisfy specific Eligibility Criteria. ANU official data shows that in 2023 the university processed 1,247 leave applications, about 68% of them from international students (ANU Student Central, 2023 Annual Report). With Australia's immigration authorities tightening visa compliance checks, understanding how leave applications affect visa status — including potential changes to Visa Conditions — has become especially important."
 category: "ANU"
 pubDatetime: '2026-04-12T19:55:47Z'
 publishDate: '2026-04-12T19:55:47Z'
@@ -10,95 +11,92 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-program-leave-application-process-eligibility-criteria-required-documents-an-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）的**课程休学（Program Leave）申请**是学生因健康、经济或个人原因暂时中断学业的正规流程。根据澳大利亚内政部2024年更新的《学生签证条款（8104/8105）》，持学生签证（Subclass 500）的国际学生单次休学时长通常不得超过12个月，且需满足特定**资格条件（Eligibility Criteria）**。ANU官方数据显示，2023年该校共受理了1,247份休学申请，其中约68%来自国际学生（ANU Student Central, 2023 Annual Report）。在当前澳大利亚移民局收紧签证合规审查的背景下，理解休学申请对签证状态的影响——包括**签证条款（Visa Conditions）**的潜在变更——变得尤为关键。
+The Australian National University (ANU) **Program Leave** application is the formal process through which students temporarily interrupt their studies for health, financial or personal reasons. Under the student visa conditions (8104/8105) updated by the Australian Department of Home Affairs in 2024, international students holding a Subclass 500 student visa may normally take no more than 12 months of leave per application, and must satisfy specific **Eligibility Criteria**. ANU official data shows that in 2023 the university processed 1,247 leave applications, about 68% of them from international students (ANU Student Central, 2023 Annual Report). With Australia's immigration authorities tightening visa compliance checks, understanding how leave affects your visa status — including potential changes to **Visa Conditions** — has become especially critical.
 
-## 休学资格与申请条件
+## Leave Eligibility and Application Conditions
 
-ANU对课程休学申请人有明确的**学业状态要求**。根据ANU《学生入学政策（2024版）》，申请人必须已完成当前学期的**至少50%的课程注册**，且无未解决的学术不端调查。新生在第一学期入学的前两周内通常无法申请休学，除非提供医疗或同情性理由的证明文件。
+ANU imposes clear **academic standing requirements** on leave applicants. Under the ANU Student Enrolment Policy (2024 version), applicants must have completed **at least 50% of their course enrolment** for the current semester and must have no unresolved academic misconduct investigations. New students generally cannot apply for leave within the first two weeks of their first semester unless they provide documented medical or compassionate grounds.
 
-### 学术进度与GPA门槛
+### Academic Progress and GPA Threshold
 
-申请人的**加权平均分（GPA）**需保持在4.0/7.0以上（ANU学术进度政策, 2024）。若GPA低于此阈值，学生需先申请**学术支持计划（Academic Support Plan）**而非直接休学。ANU教务办公室在2023年拒绝了约12%的休学申请，其中主要原因为申请人未达到最低学术进度要求（ANU Academic Progress Committee, 2023）。
+Applicants must maintain a **weighted average mark (GPA)** of 4.0/7.0 or above (ANU Academic Progress Policy, 2024). If the GPA falls below this threshold, students must first apply for an **Academic Support Plan** rather than leave directly. The ANU Academic Registrar's Office rejected about 12% of leave applications in 2023, mainly because applicants did not meet the minimum academic progress requirements (ANU Academic Progress Committee, 2023).
 
-### 休学类型与时长限制
+### Types of Leave and Duration Limits
 
-ANU将休学分为**自愿休学（Voluntary Leave）**和**强制休学（Compulsory Leave）**两类。自愿休学适用于主动申请的学生，单次最长12个月；强制休学则由学校基于健康或行为问题启动，最长6个月。根据澳大利亚《海外学生教育服务法案（ESOS Act 2000）》，国际学生累计休学总时长不得超过18个月，否则可能触发签证取消程序。
+ANU distinguishes between **Voluntary Leave** and **Compulsory Leave**. Voluntary Leave applies to students who apply on their own initiative and is capped at 12 months per period; Compulsory Leave is initiated by the university on health or behavioural grounds and is capped at 6 months. Under Australia's Education Services for Overseas Students Act (ESOS Act 2000), the cumulative total leave for international students must not exceed 18 months, otherwise visa cancellation proceedings may be triggered.
 
-## 所需文件清单
+## Required Documents Checklist
 
-提交休学申请时，申请人需准备一套完整的**支持文件（Supporting Documents）**。ANU Student Central的官方清单要求至少包含以下三类文件：
+When submitting a leave application, applicants must prepare a complete set of **Supporting Documents**. The official ANU Student Central checklist requires at least the following three categories:
 
-### 身份与注册证明
+### Identity and Enrolment Proof
 
-申请人需提供**ANU学生ID卡复印件**、当前学期的**课程注册确认函（CoE）**以及护照个人信息页扫描件。若为国际学生，还需附上**学生签证批签信（Visa Grant Letter）**以证明签证状态。ANU规定所有文件需为PDF格式，单个文件不超过5MB（ANU Student Central, 2024 Document Checklist）。
+Applicants must provide a **copy of their ANU student ID card**, the **Confirmation of Enrolment (CoE)** for the current semester and a scanned copy of the passport information page. International students must also attach their **Visa Grant Letter** to demonstrate visa status. ANU requires all documents in PDF format, with no single file larger than 5 MB (ANU Student Central, 2024 Document Checklist).
 
-### 休学理由证明文件
+### Evidence for the Reason for Leave
 
-不同休学理由对应不同证明要求。**医疗理由**需提供澳大利亚注册医生（GP或专科医生）出具的**医疗证明（Medical Certificate）**，明确说明休学必要性及时长。**经济困难理由**需提交银行流水、雇主解雇信或家庭经济状况证明。**同情性理由**（如家庭成员重病）需提供翻译成英文的官方证明文件，并附上NAATI认证翻译件。ANU在2023年拒绝了约15%的申请，因文件未满足翻译或公证要求。
+Different reasons for leave require different evidence. **Medical grounds** require a **Medical Certificate** from a registered Australian doctor (GP or specialist) that clearly states the necessity and duration of the leave. **Financial hardship** requires bank statements, an employer termination letter or proof of family financial circumstances. **Compassionate grounds** (such as a family member's serious illness) require official documents translated into English with a NAATI-certified translation attached. ANU rejected about 15% of applications in 2023 because documents did not meet translation or notarisation requirements.
 
-## 申请流程与时间节点
+## Application Process and Timeline
 
-ANU的休学申请流程分为**在线提交、学院审核、签证评估**三个阶段。整个流程通常需要10至15个工作日，但高峰期（如学期末）可能延长至4周。
+The ANU leave application process has three stages: **online submission, college review and visa assessment**. The whole process typically takes 10 to 15 business days, but can extend to 4 weeks at peak times (such as end of semester).
 
-### 在线系统操作
+### Using the Online System
 
-申请人需登录**ANU ISIS系统**，在“Enrolment”菜单下选择“Leave of Absence”模块。系统会要求填写休学起止日期（精确到日）并上传文件。ANU建议学生在学期**正式考试开始前至少4周**提交申请，以避免影响当前学期的成绩评估（ANU Academic Calendar, 2024）。
+Applicants log in to the **ANU ISIS system**, open the "Enrolment" menu and select the "Leave of Absence" module. The system asks for the exact leave start and end dates (to the day) and document uploads. ANU advises students to submit at least **4 weeks before formal examinations begin** to avoid affecting assessment of the current semester (ANU Academic Calendar, 2024).
 
-### 学院与签证审核
+### College and Visa Review
 
-提交后，申请首先由**学生所在学院（College）**的学术顾问审核，确认学术进度合规。通过后，ANU国际学生办公室（International Student Office）会评估签证影响，并出具**休学批准函（Approval Letter）**。该函件需包含休学起止日期、学校盖章及签证合规声明。在跨境学费缴付环节，部分留学家庭会使用 [Flywire 学费支付](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-program-leave-application-process-eligibility-criteria-required-documents-an) 等专业通道完成结汇。
+After submission, the application is first reviewed by an academic advisor in the student's **College**, who confirms academic progress compliance. Once approved, the ANU International Student Office assesses the visa implications and issues a **Leave Approval Letter**. The letter must include the leave start and end dates, the university seal and a visa compliance statement. When making cross-border tuition payments, some international student families use dedicated channels such as [Flywire tuition payments](https://go.compares.cheap/flywire-edu-payments-2376?p=anu-wiki/articles/anu-program-leave-application-process-eligibility-criteria-required-documents-an) to complete the currency transfer.
 
-## 对学生签证的核心影响
+## Core Implications for Your Student Visa
 
-休学申请获批后，学生签证状态可能发生**实质性变化**。根据澳大利亚内政部《移民条例（Migration Regulations 1994）》，持Subclass 500签证的学生在休学期间**不得在澳大利亚境内学习**，且**工作时间限制**（每两周48小时）将变更为无限制，但仅限于休学期内。
+Once leave is approved, the student visa status may undergo **material changes**. Under the Migration Regulations 1994 of the Australian Department of Home Affairs, students holding a Subclass 500 visa **may not study in Australia** during the leave period, and the **work limitation** (48 hours per fortnight) changes to unlimited — but only for the duration of the leave.
 
-### 签证条款变更
+### Visa Condition Changes
 
-休学期间，签证的**8105条款（工作限制）**自动失效，但**8202条款（学习要求）**仍有效——即学生必须保持注册状态。若休学超过12个月，内政部可能要求**重新申请学生签证**或提供新的CoE。ANU在2023年协助了约200名学生处理休学后的签证变更（ANU International Student Office, 2023）。
+During leave, **condition 8105 (work limitation)** automatically ceases to apply, but **condition 8202 (study requirement)** remains in force — that is, the student must maintain their enrolment status. If leave exceeds 12 months, the Department of Home Affairs may require a **new student visa application** or a new CoE. ANU assisted about 200 students with post-leave visa changes in 2023 (ANU International Student Office, 2023).
 
-### 健康保险与居留权
+### Health Insurance and Residency
 
-休学期间，**海外学生健康保险（OSHC）**必须持续有效，否则签证可能被取消。ANU要求学生在休学批准后14天内向**OSHC提供商**（如Medibank或Allianz）更新保单状态。若学生计划在休学期间离境澳大利亚，需确保**学生签证在返程时仍有效**，否则需申请**过桥签证B（BVB）**。
+During leave, **Overseas Student Health Cover (OSHC)** must remain valid, otherwise the visa may be cancelled. ANU requires students to update their policy status with their **OSHC provider** (such as Medibank or Allianz) within 14 days of leave approval. If a student plans to leave Australia during the leave period, they must ensure the **student visa remains valid on return**; otherwise a **Bridging Visa B (BVB)** application is required.
 
-## 休学后的复学流程
+## Returning to Study After Leave
 
-休学期满后，学生需在**指定日期前**向ANU提交复学申请。根据ANU《复学政策（2024版）》，学生需在休学结束日**前至少6周**通过ISIS系统提交“Return to Study”请求。
+When leave ends, students must submit a return-to-study application to ANU **by the specified date**. Under the ANU Return to Study Policy (2024 version), students must submit a "Return to Study" request through the ISIS system **at least 6 weeks before** the leave end date.
 
-### 学术状态评估
+### Academic Status Assessment
 
-复学申请需附上**最新成绩单**及**休学期间活动说明**（如工作或医疗记录）。ANU学术委员会会重新评估学生的GPA，若低于4.0/7.0，则可能要求**注册学术支持课程**。2023年，约8%的复学申请人被要求完成此类课程（ANU Academic Progress Committee, 2023）。
+The return application must include the **latest transcript** and a **statement of activities during leave** (such as work or medical records). The ANU Academic Board reassesses the student's GPA; if it is below 4.0/7.0, the student may be required to **enrol in an academic support course**. About 8% of returning students were required to complete such courses in 2023 (ANU Academic Progress Committee, 2023).
 
-### 签证更新要求
+### Visa Renewal Requirements
 
-若休学超过12个月，学生需提供**新的CoE**以更新签证。ANU会在复学批准后自动生成新CoE，并通过电子邮件发送。学生需在**28天内**向内政部提交**签证变更申请（Form 157A）**，否则可能面临签证取消风险。
+If leave exceeded 12 months, students must provide a **new CoE** to renew their visa. ANU automatically generates a new CoE after the return application is approved and emails it to the student. Students must submit a **visa change application (Form 157A)** to the Department of Home Affairs **within 28 days**, otherwise they risk visa cancellation.
 
-## 特殊情况与例外条款
+## Special Cases and Exceptions
 
-ANU对**医疗紧急情况**和**家庭暴力受害者**提供快速休学通道。此类申请可免除标准GPA要求，且审批时间缩短至5个工作日。
+ANU provides a fast-track leave pathway for **medical emergencies** and **victims of domestic violence**. These applications are exempt from the standard GPA requirement and are processed within 5 business days.
 
-### 医疗紧急通道
+### Medical Emergency Pathway
 
-学生需提供**澳大利亚医院或诊所的紧急医疗证明**，并附上**心理健康支持信件**（如来自ANU Counselling Centre）。ANU在2023年处理了约150例此类申请，平均审批时间为3.8天（ANU Health & Wellbeing, 2023）。
+Students must provide **emergency medical certification from an Australian hospital or clinic**, together with a **mental health support letter** (such as from the ANU Counselling Centre). ANU processed about 150 such applications in 2023, with an average approval time of 3.8 days (ANU Health & Wellbeing, 2023).
 
-### 学术不端与休学限制
+### Academic Misconduct and Leave Restrictions
 
-若学生正在接受**学术不端调查**，休学申请将被暂停直至调查结束。ANU规定，任何在调查期间擅自休学的学生将被视为**放弃申诉权**，并可能直接面临开除。此类案例在2023年有17起，其中12起最终导致开除（ANU Academic Integrity Office, 2023）。
+If a student is under an **academic misconduct investigation**, their leave application is suspended until the investigation concludes. ANU stipulates that any student who takes leave without authorisation during an investigation is deemed to have **waived their right to appeal** and may face immediate expulsion. There were 17 such cases in 2023, 12 of which ended in expulsion (ANU Academic Integrity Office, 2023).
 
 ## FAQ
 
-### Q1：休学期间能否在澳大利亚工作？
+### Q1: Can I work in Australia during leave?
+Yes. During leave, **condition 8105 (work limitation)** on the student visa is automatically lifted and students may work full time. However, note that if leave exceeds 12 months, the Department of Home Affairs may require a new visa application, at which point the work limitation would be reinstated. According to 2024 data from the Australian Department of Home Affairs, about 40% of international students on leave work full time during the period (Department of Home Affairs, 2024 Student Visa Report).
 
-可以。休学期间，学生签证的**8105条款（工作限制）**自动解除，学生可全职工作。但需注意，若休学超过12个月，内政部可能要求重新申请签证，届时工作限制将恢复。根据澳大利亚内政部2024年数据，约40%的休学国际学生在休学期间从事全职工作（Department of Home Affairs, 2024 Student Visa Report）。
+### Q2: Can I appeal if my leave application is rejected?
+Yes. Within **14 business days** of receiving the rejection notice, students may submit a written appeal with new evidence to the ANU Student Appeals Committee. ANU received about 80 appeals in 2023, of which about 35% were overturned (ANU Student Appeals Committee, 2023 Annual Report). While an appeal is pending, students must maintain their current enrolment status.
 
-### Q2：休学申请被拒后能否申诉？
+### Q3: Does leave affect my graduation date?
+Yes. Leave directly postpones the **Expected Completion Date**. ANU rules state that for each semester of leave (6 months), the graduation date is delayed by one semester. 2023 data shows that international students who took 6 months of leave graduated on average 8.4 months later, because some courses had to wait for the next offering round (ANU Academic Records, 2023).
 
-可以。学生可在收到拒绝通知后**14个工作日内**向ANU学生申诉委员会（Student Appeals Committee）提交书面申诉，并附上新证据。ANU在2023年受理了约80件申诉，其中约35%获得改判（ANU Student Appeals Committee, 2023 Annual Report）。申诉期间，学生需保持当前注册状态。
-
-### Q3：休学是否会影响毕业时间？
-
-会。休学将直接推迟**预计毕业日期（Expected Completion Date）**。ANU规定，每休学一个学期（6个月），毕业时间相应推迟一个学期。2023年数据表明，休学6个月的国际学生平均毕业时间延长了8.4个月，因部分课程需等待下一轮开课（ANU Academic Records, 2023）。
-
-## 参考资料
+## References
 
 - Australian Government Department of Home Affairs. 2024. *Student Visa Program Report 2023-2024*.
 - Australian National University. 2024. *Student Enrolment and Leave Policy (Version 5.2)*.

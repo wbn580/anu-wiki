@@ -1,6 +1,7 @@
 ---
+slug: anu-residential-hall-internet-setup-how-to-connect-your-devices-optimise-speed-a
 title: "ANU Residential Hall Internet Setup: How to Connect Your Devices, Optimise Speed, and Register Your Gaming Console"
-description: "澳大利亚国立大学（ANU）校内住宿的网络基础设施由ANU信息技术服务部（ITS）统一管理，所有本科生及研究生宿舍楼均通过**eduroam**和**ResNet**两个独立网络系统提供接入。根据ANU ITS 2023年发布的《宿舍网络连接指南》，校内超过4,500个住宿床位均配备了有线以太网端口，每间标准宿舍的…"
+description: "The network infrastructure in Australian National University (ANU) on-campus accommodation is managed centrally by ANU Information Technology Services (ITS), with all undergraduate and postgraduate halls providing access through two separate network systems: **eduroam** and **ResNet**. According to the Residential Hall Network Connection Guide published by ANU ITS in 2023, more than 4,500 residential beds on campus are equipped with wired Ethernet ports, and every standard room has a bandwidth cap of 100 Mbps. For students who need to register a games console, smart TV or streaming device, ANU requires all devices to go through a **MAC address registration** process before they can join the ResNet network — a policy in force since 2017 across all 17 on-campus residential buildings."
 category: "ANU"
 pubDatetime: '2026-04-23T19:58:04Z'
 publishDate: '2026-04-23T19:58:04Z'
@@ -10,123 +11,124 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-residential-hall-internet-setup-how-to-connect-your-devices-optimise-speed-a-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）校内住宿的网络基础设施由ANU信息技术服务部（ITS）统一管理，所有本科生及研究生宿舍楼均通过**eduroam**和**ResNet**两个独立网络系统提供接入。根据ANU ITS 2023年发布的《宿舍网络连接指南》，校内超过4,500个住宿床位均配备了有线以太网端口，每间标准宿舍的带宽上限为100 Mbps。对于需要注册游戏主机、智能电视或流媒体设备的学生，ANU要求所有设备必须通过**MAC地址注册**流程才能接入ResNet网络，这一政策自2017年起持续执行，覆盖全部17栋校内宿舍楼。
+The network infrastructure in Australian National University (ANU) on-campus accommodation is managed centrally by ANU Information Technology Services (ITS). All undergraduate and postgraduate halls provide access through two separate network systems: **eduroam** and **ResNet**. According to the Residential Hall Network Connection Guide published by ANU ITS in 2023, more than 4,500 residential beds on campus are fitted with wired Ethernet ports, and every standard room has a bandwidth cap of 100 Mbps. For students who need to register a games console, smart TV or streaming device, ANU requires every device to go through a **MAC address registration** process before it can join the ResNet network — a policy in force since 2017 across all 17 on-campus residential buildings.
 
-## 网络基础设施与接入方式
+## Network Infrastructure and How to Connect
 
-ANU宿舍网络采用**双网分离架构**。eduroam覆盖所有公共区域（图书馆、食堂、学习室），使用学生统一身份认证（uni ID + 密码）登录。ResNet则专用于宿舍房间内的有线连接和私人设备，需额外注册。
+ANU's hall network uses a **two-network architecture**. eduroam covers all public areas (libraries, dining halls, study rooms) and uses your single sign-on (uni ID + password). ResNet is dedicated to wired connections and personal devices inside your room and requires separate registration.
 
-### 有线以太网连接
-每间宿舍标配至少一个**RJ45有线端口**，位于书桌附近墙面。ANU ITS建议优先使用有线连接以获得稳定速度，实测延迟比Wi-Fi低30%-50%。学生需自备Cat5e或Cat6网线（长度建议3-5米）。连接后打开浏览器，系统会自动跳转至ResNet设备注册页面。
+### Wired Ethernet
+Every room comes with at least one **RJ45 wired port** on the wall near the desk. ANU ITS recommends wired connections for stable speeds — real-world latency is 30%-50% lower than Wi-Fi. Bring your own Cat5e or Cat6 cable (3-5 metres is a good length). Once connected, open a browser and you'll be redirected automatically to the ResNet device registration page.
 
-### 无线网络（Wi-Fi）
-宿舍房间内由**ResNet无线网络**覆盖，SSID为“ResNet-WiFi”。该网络与eduroam不同，专为宿舍内个人设备设计，支持最多同时连接4台设备。连接后同样需完成设备注册流程，否则30分钟后会被自动断开。
+### Wi-Fi
+Rooms are covered by the **ResNet wireless network**, with the SSID "ResNet-WiFi". Unlike eduroam, it's designed specifically for personal devices in halls and supports up to 4 connected devices at once. After connecting, you still need to complete device registration — otherwise you're disconnected automatically after 30 minutes.
 
-## 设备注册流程详解
+## Device Registration, Step by Step
 
-所有连接到ResNet的设备（包括笔记本电脑、游戏主机、智能音箱）都必须通过**MAC地址注册**。未注册设备只能访问ANU内部站点，无法访问外网。
+Every device on ResNet (including laptops, games consoles and smart speakers) must go through **MAC address registration**. Unregistered devices can only reach ANU internal sites, not the wider internet.
 
-### 注册步骤
-1. 用已注册的电脑连接ResNet有线或无线网络，打开浏览器访问 `resnet.anu.edu.au`
-2. 使用uni ID登录**ResNet设备管理门户**
-3. 在“添加设备”页面输入设备名称（如“PS5-Building12”）和MAC地址
-4. 选择设备类型（游戏主机/流媒体/其他），提交后等待5-15分钟生效
+### Registration Steps
+1. Connect a registered computer to ResNet by cable or Wi-Fi and open a browser to `resnet.anu.edu.au`
+2. Log in to the **ResNet device management portal** with your uni ID
+3. On the "Add device" page, enter a device name (such as "PS5-Building12") and the MAC address
+4. Select the device type (games console/streaming/other), submit, and wait 5-15 minutes for it to take effect
 
-### MAC地址获取方法
-不同设备获取MAC地址的方式不同：
-- **Windows**：命令提示符输入 `ipconfig /all`，找到“物理地址”
-- **macOS**：系统设置 > 网络 > 高级 > 硬件
-- **PlayStation 5**：设置 > 网络 > 查看连接状态
-- **Xbox Series X**：设置 > 常规 > 网络设置 > 高级设置
-- **Nintendo Switch**：系统设置 > 互联网 > 查看MAC地址
+### Finding Your MAC Address
+Different devices have different ways of showing the MAC address:
+- **Windows**: run `ipconfig /all` in Command Prompt and look for "Physical Address"
+- **macOS**: System Settings > Network > Advanced > Hardware
+- **PlayStation 5**: Settings > Network > View Connection Status
+- **Xbox Series X**: Settings > General > Network settings > Advanced settings
+- **Nintendo Switch**: System Settings > Internet > View MAC address
 
-## 游戏主机与流媒体设备优化
+## Optimising for Games Consoles and Streaming Devices
 
-游戏主机和流媒体设备对网络延迟和带宽有特殊要求。ANU宿舍网络对游戏流量未做**QoS限速**，但高峰时段（18:00-23:00）可能出现丢包。
+Games consoles and streaming devices have particular demands when it comes to latency and bandwidth. ANU's hall network doesn't apply **QoS throttling** to gaming traffic, but peak hours (18:00-23:00) can bring packet loss.
 
-### NAT类型与联机问题
-ResNet网络默认使用**NAT Type 3（严格）**，可能导致部分P2P联机游戏（如《怪物猎人：世界》《任天堂明星大乱斗》）无法匹配。解决方法：
-- 使用有线连接而非Wi-Fi（可提升至NAT Type 2）
-- 在设备注册时备注“游戏主机”，ITS可能开放特定端口
-- 若仍无法联机，提交IT服务台工单申请**端口转发**（需说明游戏名称和端口号）
+### NAT Types and Online Play Issues
+ResNet uses **NAT Type 3 (strict)** by default, which can stop some P2P online games (such as Monster Hunter: World and Super Smash Bros.) from matchmaking. How to fix it:
+- Use a wired connection instead of Wi-Fi (this can improve you to NAT Type 2)
+- Note "games console" when registering the device — ITS may open specific ports
+- If you still can't play online, submit a ticket to the IT service desk requesting **port forwarding** (state the game name and port numbers)
 
-### 带宽分配建议
-ANU ITS 2024年网络使用报告显示，宿舍网络平均下载速度为85 Mbps，上传速度为40 Mbps。建议：
-- 游戏主机优先使用有线端口
-- 流媒体设备（如Apple TV、Chromecast）连接5GHz频段ResNet-WiFi
-- 避免在游戏时同时进行大文件下载或4K视频流
+### Bandwidth Allocation Tips
+ANU ITS's 2024 network usage report shows average hall network download speeds of 85 Mbps and upload speeds of 40 Mbps. Recommendations:
+- Give games consoles priority on wired ports
+- Connect streaming devices (such as Apple TV or Chromecast) to the 5GHz band of ResNet-WiFi
+- Avoid large downloads or 4K video streams while gaming
 
-## 常见连接故障排查
+## Troubleshooting Common Connection Problems
 
-ANU ITS统计显示，宿舍网络问题中约65%可通过**简单重启**解决。以下是高频问题及对应解决方案。
+ANU ITS statistics show that about 65% of hall network issues can be fixed with a **simple restart**. Here are the most common problems and their solutions.
 
-### 无法获取IP地址
-现象：设备显示“无网络访问”或“IP地址冲突”。原因通常是端口被前一位住户的设备占用缓存。解决方案：
-1. 断开网线，等待30秒后重新插拔
-2. 在设备上执行 `ipconfig /release` 后 `ipconfig /renew`（Windows）
-3. 若无效，联系宿舍前台报修，提供房间号和端口编号
+### Can't Get an IP Address
+Symptoms: the device shows "no network access" or an "IP address conflict". The usual cause is the port's cached entry from the previous resident's device. Fixes:
+1. Unplug the cable, wait 30 seconds, and plug it back in
+2. Run `ipconfig /release` followed by `ipconfig /renew` on the device (Windows)
+3. If that doesn't work, report it at the hall reception, giving your room number and port number
 
-### 无线网络间歇性断连
-ResNet-WiFi在宿舍楼内使用**UniFi AP**部署，每层楼安装2-3个接入点。断连常见于：
-- 距离AP过远（信号强度低于-70 dBm）
-- 设备连接了2.4GHz频段而非5GHz
-- 同时连接设备超过4台上限
-建议在设备注册页面检查已注册设备数量，删除不使用的旧设备。
+### Intermittent Wi-Fi Drops
+ResNet-WiFi is deployed on **UniFi APs** throughout the halls, with 2-3 access points per floor. Drops are commonly caused by:
+- Being too far from the access point (signal strength below -70 dBm)
+- The device connecting to the 2.4GHz band instead of 5GHz
+- More than 4 devices connected at once (the limit)
 
-### 设备注册后仍无法上网
-等待时间不足是主要原因。MAC地址注册生效需要**5-15分钟**，部分设备需重启网络适配器。若超过30分钟仍无法上网，检查：
-- MAC地址是否输入错误（注意区分冒号与连字符）
-- 设备是否连接到正确的SSID（ResNet-WiFi而非eduroam）
-- 是否在ResNet门户中选择了正确的设备类型
+Check the number of registered devices on the device registration page and remove old ones you no longer use.
 
-## 网络安全与使用政策
+### Registered but Still No Internet
+The most common cause is not waiting long enough. MAC address registration takes **5-15 minutes** to take effect, and some devices need their network adapter restarted. If you're still offline after 30 minutes, check:
+- Whether the MAC address was entered correctly (mind the difference between colons and hyphens)
+- Whether the device is on the right SSID (ResNet-WiFi, not eduroam)
+- Whether the correct device type was selected in the ResNet portal
 
-ANU宿舍网络受《ANU IT使用政策》（2024年修订版）约束，违反规定可能导致**网络访问被暂停**。
+## Network Security and Usage Policy
 
-### 禁止行为
-- 使用个人路由器或交换机（所有设备必须直连宿舍端口）
-- 运行P2P文件共享软件（如BitTorrent），违反《版权法》将导致账号冻结
-- 进行端口扫描或网络攻击行为
-- 共享uni ID给他人使用
+ANU's hall network is governed by the ANU IT Use Policy (2024 revised edition); breaking the rules can lead to **network access being suspended**.
 
-### 数据监控与隐私
-ANU ITS声明对网络流量进行**匿名化监控**，用于带宽管理和安全防护。监控不记录具体网页内容，但会记录访问的域名和协议类型。对于游戏流量，仅统计带宽使用量，不追踪具体游戏内容。
+### Prohibited Conduct
+- Using a personal router or switch (all devices must connect directly to the hall port)
+- Running P2P file-sharing software (such as BitTorrent) — breaching the Copyright Act leads to account suspension
+- Port scanning or network attacks
+- Sharing your uni ID with other people
 
-## 跨校区与临时网络
+### Data Monitoring and Privacy
+ANU ITS states that network traffic is subject to **anonymised monitoring** for bandwidth management and security. The monitoring doesn't record specific page content, but it does log the domains visited and protocol types. For gaming traffic, only bandwidth usage is measured — individual game content isn't tracked.
 
-部分学生可能在课程期间需要访问**Acton校区**以外的网络设施。
+## Other Campuses and Temporary Network Access
 
-### 其他校区宿舍
-ANU在堪培拉市区拥有Kambri、Bruce Hall等宿舍区，网络配置与Acton校区一致。但**Lena Karmel Lodge**和**Davey Lodge**使用独立网络系统，注册流程略有不同：
-- 连接后需联系前台获取临时注册码
-- 设备注册通过物业管理系统而非ResNet门户
-- 带宽上限为50 Mbps
+Some students may need network access beyond the **Acton campus** during their studies.
 
-### 短期访客网络
-访客可通过**eduroam Guest**服务获取临时网络，有效期24小时。学生可代访客在宿舍前台申请临时凭证，每人每月限申请5次。访客网络不支持游戏主机注册。
+### Halls on Other Campuses
+ANU also runs accommodation in Canberra city, including Kambri and Bruce Hall, with the same network configuration as Acton campus. However, **Lena Karmel Lodge** and **Davey Lodge** use a separate network system with a slightly different registration process:
+- After connecting, contact reception for a temporary registration code
+- Device registration goes through the property management system rather than the ResNet portal
+- The bandwidth cap is 50 Mbps
 
-## 网络升级与未来规划
+### Short-Term Guest Network
+Guests can get temporary access through the **eduroam Guest** service, valid for 24 hours. Students can request a temporary credential on a guest's behalf at the hall reception, with a limit of 5 requests per person per month. The guest network doesn't support games console registration.
 
-ANU ITS 2024-2026年网络基础设施升级计划显示，宿舍网络将进行以下变更：
-- 2025年第二季度起，所有宿舍楼升级至**Wi-Fi 6E**标准，支持6GHz频段
-- 有线端口带宽从100 Mbps提升至1 Gbps（首批试点为Wright Hall和Fenner Hall）
-- 引入**设备自动注册**功能，连接ResNet后系统自动识别并注册常见设备
-- 游戏主机NAT类型优化，目标将默认NAT Type 3降至Type 2
+## Network Upgrades and Future Plans
 
-升级期间可能出现短期断网，ANU ITS会提前48小时通过邮件通知受影响宿舍。
+ANU ITS's 2024-2026 network infrastructure upgrade plan includes the following changes to hall networks:
+- From Q2 2025, all halls upgrade to **Wi-Fi 6E**, supporting the 6GHz band
+- Wired port bandwidth rises from 100 Mbps to 1 Gbps (pilot rollout at Wright Hall and Fenner Hall)
+- **Automatic device registration** — connecting to ResNet will auto-detect and register common devices
+- NAT type optimisation for games consoles, with a target of reducing the default NAT Type 3 to Type 2
+
+Short outages are possible during the upgrades; ANU ITS will notify affected halls by email 48 hours in advance.
 
 ## FAQ
 
-### Q1：宿舍网络可以连接多少台设备？
-每间宿舍最多允许同时连接4台设备到ResNet网络。设备注册数量不受限制，但同一时间只能有4台在线。若需更多设备，建议使用有线连接替代Wi-Fi，有线端口不计入4台限制。
+### Q1: How many devices can I connect to the hall network?
+Each room can have up to 4 devices connected to ResNet at the same time. There's no limit on how many devices you can register, but only 4 can be online at once. Need more? Use a wired connection instead — wired ports don't count toward the 4-device limit.
 
-### Q2：游戏主机注册后多久能联网？
-MAC地址注册后通常需要5-15分钟生效，部分情况下需重启主机网络设置。若超过30分钟仍无法联网，检查MAC地址是否输入正确，或联系ANU IT服务台（电话：02 6125 4321，服务时间周一至周五8:00-18:00）。
+### Q2: How long until my games console comes online after registration?
+After MAC address registration, it usually takes 5-15 minutes to take effect; in some cases you may need to restart the console's network settings. If you're still offline after 30 minutes, double-check that the MAC address was entered correctly, or contact the ANU IT service desk (phone: 02 6125 4321, Monday to Friday 8:00-18:00).
 
-### Q3：宿舍网络是否支持VPN？
-支持。ANU宿舍网络允许使用VPN连接，但部分VPN协议（如OpenVPN的UDP模式）可能被防火墙拦截。建议使用IKEv2或WireGuard协议，延迟增加约10-20毫秒。使用VPN时游戏联机可能出现额外延迟，建议仅在需要访问校园内网资源时启用。
+### Q3: Does the hall network support VPN?
+Yes. VPN connections are allowed on the ANU hall network, but some VPN protocols (such as OpenVPN in UDP mode) may be blocked by the firewall. IKEv2 or WireGuard are recommended; they add about 10-20 ms of latency. A VPN can add extra latency to online gaming, so it's best to enable it only when you need to reach on-campus resources.
 
-## 参考资料
+## References
 - ANU Information Technology Services 2023, *Residential Hall Network Connection Guide*
 - ANU Information Technology Services 2024, *Network Usage Report – Semester 1 2024*
 - ANU Information Technology Services 2024, *ANU IT Use Policy (Revised Edition)*

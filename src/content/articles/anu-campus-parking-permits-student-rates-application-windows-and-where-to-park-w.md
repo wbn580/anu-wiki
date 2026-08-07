@@ -1,6 +1,7 @@
 ---
+slug: anu-campus-parking-permits-student-rates-application-windows-and-where-to-park-w
 title: "ANU Campus Parking Permits: Student Rates, Application Windows, and Where to Park Without a Permit"
-description: "澳大利亚国立大学（ANU）主校区Acton Campus自2024年起实施新的停车管理政策，覆盖超过6,000个停车位，其中约4,500个为付费许可车位。根据ANU交通与停车办公室2024年发布的数据，学生年度停车许可费用在AUD 360至AUD 1,200之间，具体取决于车位类型和时段。这一调整的背景是ACT政…"
+description: "The Australian National University (ANU) has implemented a new parking management policy at its main Acton Campus since 2024, covering more than 6,000 parking spaces, of which about 4,500 are paid permit spaces. According to data published by the ANU Transport and Parking Office in 2024, annual student parking permit fees range from AUD 360 to AUD 1,200, depending on space type and time period. The background to this change is the goal set out in the ACT Government's 2023 Canberra Transport Strategy to reduce single-occupancy car commuting by 30% by 2045…"
 category: "ANU"
 pubDatetime: '2026-05-12T20:01:34Z'
 publishDate: '2026-05-12T20:01:34Z'
@@ -10,88 +11,91 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-campus-parking-permits-student-rates-application-windows-and-where-to-park-w-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）主校区Acton Campus自2024年起实施新的停车管理政策，覆盖超过6,000个停车位，其中约4,500个为付费许可车位。根据ANU交通与停车办公室2024年发布的数据，学生年度停车许可费用在AUD 360至AUD 1,200之间，具体取决于车位类型和时段。这一调整的背景是ACT政府2023年发布的《Canberra Transport Strategy》中提出的到2045年将单人驾车通勤比例降低30%的目标，以及校园内学生和教职工总数超过25,000人带来的停车供需压力。对于每日驾车通勤的学生而言，理解许可类型、申请窗口期以及免费停车替代方案，已成为控制年度交通开支的关键。
+The Australian National University (ANU) has implemented a new parking management policy at its main Acton Campus since 2024, covering more than 6,000 parking spaces, of which about 4,500 are paid permit spaces. According to data published by the ANU Transport and Parking Office in 2024, annual student parking permit fees range from AUD 360 to AUD 1,200, depending on space type and time period. The background to this change is the goal set out in the ACT Government's 2023 Canberra Transport Strategy to cut single-occupancy car commuting by 30% by 2045, together with the parking supply-and-demand pressure created by more than 25,000 students and staff on campus. For students who drive to campus daily, understanding the permit types, application windows, and free parking alternatives has become key to controlling annual transport costs.
 
-## 停车许可类型与费率
+## Parking Permit Types and Fees
 
-ANU将校园停车许可分为**学生许可**、**教职工许可**和**访客许可**三大类。其中学生许可细分为三种：**标准许可**（Standard Permit）允许在指定区域全天停放，年费为AUD 720；**高峰时段许可**（Peak Permit）仅限周一至周五8:00-18:00使用，年费AUD 480；**非高峰许可**（Off-Peak Permit）覆盖18:00至次日8:00及周末全天，年费AUD 360。所有价格均包含GST，且自2023年7月起未调整，ANU交通办公室在2024年年度报告中确认了这一费率结构。
+ANU divides campus parking permits into three main categories: **student permits**, **staff permits**, and **visitor permits**. Student permits come in three subtypes: a **Standard Permit** allows all-day parking in designated areas at AUD 720 per year; a **Peak Permit** is valid only Monday to Friday 8:00–18:00 at AUD 480 per year; and an **Off-Peak Permit** covers 18:00 to 8:00 the next day plus all weekend at AUD 360 per year. All prices include GST and have not been adjusted since July 2023 — a fee structure confirmed by the ANU Transport Office in its 2024 annual report.
 
-### 许可区域划分
+### Permit Zone Breakdown
 
-校园停车区按颜色编码：**绿色区域**（Green Zone）位于校园外围，靠近Sullivans Creek和University Avenue，学生标准许可可在此停放，年费AUD 720；**蓝色区域**（Blue Zone）靠近主要教学建筑如Hancock Library和Marie Reay Teaching Centre，仅限教职工和访客许可；**红色区域**（Red Zone）为预留车位，仅供高级行政人员和特殊活动使用。学生许可不覆盖蓝色和红色区域，违规停放将面临AUD 120的罚款，依据ANU Parking Infringement Policy 2024。
+Campus parking areas are colour-coded: the **Green Zone** sits on the campus perimeter near Sullivans Creek and University Avenue, where standard student permits are valid at AUD 720 per year; the **Blue Zone** is close to major teaching buildings such as Hancock Library and the Marie Reay Teaching Centre and is restricted to staff and visitor permits; and the **Red Zone** consists of reserved bays for senior administrators and special events. Student permits do not cover the Blue and Red Zones, and parking there in breach of the rules attracts a fine of AUD 120 under the ANU Parking Infringement Policy 2024.
 
-### 短期与长期许可
+### Short-Term and Long-Term Permits
 
-除年度许可外，ANU提供**学期许可**（Semester Permit）和**日票**（Daily Ticket）。学期许可覆盖一个教学学期（约20周），费用为标准年费的60%，即AUD 432。日票可通过ANU Parking App购买，价格为AUD 12/天，适用于偶尔驾车的学生。长期许可（12个月）可在线续期，但需在到期前30天内操作；逾期未续将自动转为日票费率。
+Besides annual permits, ANU offers **Semester Permits** and **Daily Tickets**. A semester permit covers one teaching semester (about 20 weeks) and costs 60% of the standard annual fee, i.e. AUD 432. Daily tickets can be bought through the ANU Parking App at AUD 12/day, suitable for students who drive occasionally. Long-term permits (12 months) can be renewed online, but only within 30 days before expiry; if renewal is missed, the permit automatically converts to daily-ticket rates.
 
-## 申请窗口与流程
+## Application Windows and Process
 
-学生许可的**申请窗口**每年开放两次：**第一学期窗口**为1月15日至2月28日；**第二学期窗口**为6月15日至7月31日。根据ANU Parking Services 2024年数据，2024年第一学期窗口期内共收到3,200份学生申请，而可用学生许可配额为2,800个，这意味着约12.5%的申请者无法获得许可。申请需通过ANU Online Portal提交，提供学生证号和车辆注册信息，支付成功后许可即刻生效。
+Student permit **application windows** open twice a year: the **Semester 1 window** runs from 15 January to 28 February, and the **Semester 2 window** from 15 June to 31 July. According to ANU Parking Services 2024 data, 3,200 student applications were received during the Semester 1 2024 window, against an available quota of 2,800 student permits — meaning about 12.5% of applicants could not get a permit. Applications are submitted through the ANU Online Portal, providing your student ID number and vehicle registration details; the permit takes effect immediately once payment succeeds.
 
-### 等待名单机制
+### Waitlist Mechanism
 
-对于未在窗口期内获得许可的学生，ANU维持一个**等待名单**（Waitlist）。等待名单按申请时间排序，优先分配给高年级学生（学分完成率超过75%）。2024年数据显示，等待名单平均处理时间为4至6周，高峰时段（3月和8月）可能延长至8周。学生可通过ANU Parking App实时查看排队位置，但ANU不保证在学期开始前分配车位。
+For students who miss out during the application window, ANU maintains a **Waitlist**. The waitlist is ordered by application time, with priority given to senior students (course credit completion rate above 75%). 2024 data shows an average waitlist processing time of 4 to 6 weeks, which can stretch to 8 weeks during peak periods (March and August). Students can check their queue position in real time via the ANU Parking App, but ANU does not guarantee that a space will be allocated before the semester starts.
 
-### 许可转让与取消
+### Permit Transfer and Cancellation
 
-学生许可**不可转让**给其他车辆或人员。若学生退学或离校，可申请按比例退款：退款金额按剩余完整月份计算，扣除AUD 50管理费。2024年ANU退款政策显示，超过12个月的有效许可可退还剩余月份费用的80%，前提是提供退学证明或离校确认函。
+Student permits **cannot be transferred** to other vehicles or people. If you withdraw from study or leave the university, you can apply for a pro-rata refund: the refund is calculated on the remaining full months, minus an AUD 50 administration fee. Under ANU's 2024 refund policy, permits with more than 12 months of validity remaining can receive 80% of the fee for the remaining months, provided proof of withdrawal or a departure confirmation letter is supplied.
 
-## 免费停车替代方案
+## Free Parking Alternatives
 
-对于未获得许可或希望节省费用的学生，ANU校园周边存在**免费停车区域**。根据ACT Government 2023年发布的《Parking Management Guidelines》，Acton区街道如Liversidge Street和Garran Road的部分路段允许免费停车，但限时2小时，且需遵守Clearway标识。此外，**夜间免费停车**适用于所有校园许可区域：周一至周五18:00至次日8:00，以及周末全天，学生无需许可即可在绿色和蓝色区域停放，但红色区域仍受限制。
+For students who did not get a permit or want to save money, there are **free parking areas** around the ANU campus. Under the ACT Government's 2023 Parking Management Guidelines, some sections of Acton streets such as Liversidge Street and Garran Road allow free parking, but with a 2-hour limit and subject to Clearway signs. In addition, **free overnight parking** applies across all campus permit zones: Monday to Friday 18:00 to 8:00 the next day and all weekend, students can park in the Green and Blue Zones without a permit, though the Red Zone remains restricted.
 
-### 临时免费停车点
+### Temporary Free Drop-Off Zones
 
-校园内设有**临时停车区**（Drop-off Zones），位于主要建筑入口如Chifley Library和Kambri Precinct，限时15分钟免费，适用于接送学生或装卸物品。超过时限将触发AUD 80罚款，由ANU Security通过自动车牌识别系统（ANPR）监控。2024年ANU Security报告显示，该区域日均监控车辆约1,200辆，违规率为3.5%。
+The campus has **temporary parking areas** (Drop-off Zones) at the entrances of major buildings such as Chifley Library and Kambri Precinct, free for 15 minutes, intended for picking up/dropping off students or loading/unloading. Exceeding the limit triggers an AUD 80 fine, enforced by ANU Security through the automatic number plate recognition (ANPR) system. ANU Security's 2024 report shows these areas are monitored at about 1,200 vehicles a day, with a breach rate of 3.5%.
 
-### 校内免费停车日
+### Free On-Campus Parking Days
 
-每年ANU举办**Open Day**和**Graduation Week**期间，校园部分停车区向公众免费开放，但需提前注册。2024年Open Day（3月16日）期间，绿色区域共提供500个免费车位，但需在ANU Events页面预约，先到先得。此外，**公共假期**（如Australia Day、Anzac Day）期间，所有许可限制暂停，学生可在任何非红色区域免费停放，但需遵守Clearway标识。
+During ANU's annual **Open Day** and **Graduation Week**, some campus parking areas open to the public for free, but advance registration is required. At the 2024 Open Day (16 March), the Green Zone offered 500 free spaces, bookable through the ANU Events page on a first-come, first-served basis. In addition, on **public holidays** (such as Australia Day and Anzac Day), all permit restrictions are suspended and students can park free in any non-Red zone, subject to Clearway signs.
 
-## 支付与罚款机制
+## Payment and Fine Mechanisms
 
-停车费用通过**ANU Parking App**或**PayStay平台**在线支付。PayStay支持信用卡、借记卡和Apple Pay，每次交易收取AUD 0.50手续费。年费许可可通过ANU Online Portal一次性支付或分期付款（分4期，每期加收AUD 15手续费）。未支付或超时停放将触发罚款：**标准罚款**为AUD 120，若在14天内支付可减免至AUD 80；**严重违规**（如占用残疾人车位或消防通道）罚款为AUD 250，无减免选项。根据ANU Parking Infringement Policy 2024，罚款收入用于校园交通基础设施维护，2023年共收取AUD 1.8百万罚款。
+Parking fees are paid online through the **ANU Parking App** or the **PayStay platform**. PayStay accepts credit cards, debit cards, and Apple Pay, charging an AUD 0.50 transaction fee each time. Annual permits can be paid in full or in instalments through the ANU Online Portal (4 instalments, each adding an AUD 15 fee). Unpaid or overstayed parking triggers a fine: the **standard fine** is AUD 120, reduced to AUD 80 if paid within 14 days; **serious violations** (such as occupying a disabled bay or fire lane) carry a fine of AUD 250 with no reduction option. Under the ANU Parking Infringement Policy 2024, fine revenue funds campus transport infrastructure maintenance; AUD 1.8 million in fines was collected in 2023.
 
-### 申诉流程
+### Appeal Process
 
-学生可在收到罚款通知后**21天内**通过ANU Parking Appeals Portal提交申诉。常见可接受理由包括：医疗紧急情况（需提供医生证明）、车辆故障（需提供维修收据）或系统支付错误（需提供交易截图）。2024年数据显示，约35%的申诉获部分或全额减免，平均处理时间为5个工作日。不可接受理由包括“未看到标识”或“时间估计错误”。
+Students can appeal within **21 days** of receiving a fine notice through the ANU Parking Appeals Portal. Commonly accepted grounds include: medical emergencies (doctor's certificate required), vehicle breakdown (repair receipt required), or system payment errors (transaction screenshot required). 2024 data shows about 35% of appeals received partial or full remission, with an average processing time of 5 business days. Unacceptable grounds include 'didn't see the sign' or 'miscalculated the time'.
 
-### 自动车牌识别系统
+### Automatic Number Plate Recognition System
 
-ANU自2022年起部署**ANPR系统**，覆盖所有许可区域入口和主要街道。系统自动记录车辆进入和离开时间，并与许可数据库实时比对。未注册车辆在许可区域停放超过15分钟将触发自动罚款通知，通过邮件或短信发送。ANU IT Services 2024年报告显示，该系统日均处理约8,000次车辆识别，准确率为99.2%。
+ANU has operated an **ANPR system** since 2022, covering all permit zone entrances and major streets. The system automatically records vehicle entry and exit times and compares them in real time against the permit database. Unregistered vehicles parked in permit zones for more than 15 minutes trigger an automatic fine notice, sent by email or SMS. The ANU IT Services 2024 report shows the system processes about 8,000 vehicle identifications a day with an accuracy rate of 99.2%.
 
-## 校园交通替代选项
+## Campus Transport Alternatives
 
-为减少对私家车的依赖，ANU与ACT政府合作提供**免费校园班车**（ANU Express Shuttle），连接Acton校区与Canberra City Bus Interchange，运营时间为周一至周五7:00-19:00，每15分钟一班。根据ACT Government 2023年数据，该班车日均载客量约1,500人次。此外，**MyWay公交卡**适用于所有ACT公交线路，学生可申请半价优惠票，单程费用AUD 1.80至AUD 3.60。
+To reduce reliance on private cars, ANU works with the ACT Government to provide a **free campus shuttle** (ANU Express Shuttle) connecting the Acton campus with the Canberra City Bus Interchange, running Monday to Friday 7:00–19:00 every 15 minutes. According to ACT Government 2023 data, the shuttle carries about 1,500 passengers a day. In addition, the **MyWay** bus card works on all ACT bus routes; students can apply for a half-price concession fare of AUD 1.80 to AUD 3.60 per trip.
 
-### 自行车与电动滑板车
+### Bicycles and E-Scooters
 
-校园内设有**自行车停放架**（约1,200个），位于主要建筑入口和Kambri Precinct。ANU提供免费自行车注册服务，注册后可享受校内维修补贴（每年AUD 50）。**电动滑板车**（E-scooters）允许在校园内骑行，但需遵守ACT Government 2023年规定的限速15公里/小时，且仅限在指定区域停放。违规停放将面临AUD 100罚款。
+The campus provides **bicycle racks** (about 1,200) at major building entrances and in Kambri Precinct. ANU offers free bicycle registration, and registered bikes qualify for an on-campus maintenance subsidy (AUD 50 per year). **E-scooters** are permitted on campus but must follow the 15 km/h speed limit set by the ACT Government in 2023 and may only be parked in designated areas. Improper parking incurs an AUD 100 fine.
 
-### 拼车与共享汽车
+### Carpooling and Car Sharing
 
-ANU官方鼓励**拼车**，通过ANU Carpooling Portal匹配同路线学生。拼车车辆可申请绿色区域优先车位，但需提前注册。此外，**GoGet共享汽车**在校园内设有3个取车点，位于University Avenue和Kambri Precinct，学生会员费为AUD 25/年，使用费AUD 8/小时起。
+ANU officially encourages **carpooling** through the ANU Carpooling Portal, which matches students on the same routes. Carpool vehicles can apply for priority Green Zone spaces, but must register in advance. In addition, **GoGet car sharing** has 3 pickup points on campus, at University Avenue and Kambri Precinct; student membership costs AUD 25/year with usage from AUD 8/hour.
 
-## 特殊活动与临时调整
+## Special Events and Temporary Adjustments
 
-校园大型活动（如ANU Graduation、Conferences）期间，停车许可政策可能临时调整。根据ANU Events Policy 2024，活动主办方需提前14天向Parking Services申请**临时许可**，费用为AUD 50/车位/天。学生若在活动期间需要停车，可申请**活动豁免**，但需提供活动参与证明（如门票或注册确认）。2024年Graduation Week（7月22-26日）期间，绿色区域临时关闭4天，用于毕业生和家属停车，学生需使用指定替代区。
+During major campus events (such as ANU Graduation and Conferences), parking permit policy may be adjusted temporarily. Under the ANU Events Policy 2024, event organisers must apply to Parking Services for a **temporary permit** at least 14 days in advance, at a cost of AUD 50 per space per day. Students who need to park during events can apply for an **event exemption**, but must provide proof of event participation (such as a ticket or registration confirmation). During 2024 Graduation Week (22–26 July), the Green Zone was closed for 4 days for graduate and family parking, and students had to use designated alternative areas.
 
-### 施工期间停车变化
+### Parking Changes During Construction
 
-校园基础设施施工（如2024年Kambri Precinct扩建）可能导致部分停车区临时关闭。ANU通过邮件和ANU Parking App提前7天通知受影响的许可持有者，并提供**替代车位**（通常位于绿色区域外围）。施工期间，学生可申请**临时日票折扣**，费用从AUD 12降至AUD 8/天。2024年数据显示，施工影响平均持续3至5周，涉及约200个车位。
+Campus infrastructure works (such as the 2024 Kambri Precinct expansion) can force temporary closures of some parking areas. ANU notifies affected permit holders by email and through the ANU Parking App 7 days in advance, and provides **alternative spaces** (usually on the Green Zone perimeter). During construction, students can apply for a **temporary daily ticket discount**, with the rate cut from AUD 12 to AUD 8/day. 2024 data shows construction impacts lasted an average of 3 to 5 weeks and involved about 200 spaces.
 
 ## FAQ
 
-### Q1：学生停车许可每年费用是多少？是否有分期付款选项？
-学生标准许可年费为AUD 720，高峰时段许可为AUD 480，非高峰许可为AUD 360。所有许可均可通过ANU Online Portal分4期付款，每期加收AUD 15手续费，首期需在申请时支付。2024年数据显示，约40%的学生选择分期付款。
+### Q1: How much does a student parking permit cost per year? Is there an instalment option?
 
-### Q2：申请窗口错过了，还有机会获得许可吗？
-错过窗口期（第一学期1月15日-2月28日，第二学期6月15日-7月31日）后，可加入等待名单。2024年等待名单平均处理时间为4至6周，高峰时段可能延长至8周。ANU不保证在学期开始前分配车位，但建议每周检查一次ANU Parking App更新。
+The standard student permit costs AUD 720 per year, the peak-hour permit AUD 480, and the off-peak permit AUD 360. All permits can be paid through the ANU Online Portal in 4 instalments, each adding an AUD 15 fee, with the first instalment due at application. 2024 data shows about 40% of students choose instalments.
 
-### Q3：校园附近哪里可以免费停车？
-Acton区街道如Liversidge Street和Garran Road的部分路段允许免费停车，但限时2小时。夜间（18:00-次日8:00）和周末全天，所有校园许可区域（红色区域除外）免费开放。此外，公共假期期间所有限制暂停，但需遵守Clearway标识。
+### Q2: I missed the application window. Can I still get a permit?
 
-## 参考资料
+After the window closes (Semester 1: 15 January – 28 February; Semester 2: 15 June – 31 July), you can join the waitlist. The average waitlist processing time in 2024 was 4 to 6 weeks, stretching to 8 weeks in peak periods. ANU does not guarantee allocation before the semester starts, but it is recommended to check the ANU Parking App for updates once a week.
+
+### Q3: Where can I park for free near campus?
+
+Some sections of Acton streets such as Liversidge Street and Garran Road allow free parking, but with a 2-hour limit. At night (18:00–8:00) and all weekend, every campus permit zone (except the Red Zone) is free. In addition, all restrictions are suspended on public holidays, subject to Clearway signs.
+
+## References
 
 - Australian National University Parking Services. 2024. *ANU Parking Permit Policy and Fee Schedule 2024*.
 - ACT Government. 2023. *Canberra Transport Strategy 2023-2045*.

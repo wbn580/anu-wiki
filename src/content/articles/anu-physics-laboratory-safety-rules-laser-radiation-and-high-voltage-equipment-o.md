@@ -1,6 +1,7 @@
 ---
+slug: anu-physics-laboratory-safety-rules-laser-radiation-and-high-voltage-equipment-o
 title: "ANU Physics Laboratory Safety Rules: Laser, Radiation, and High-Voltage Equipment Operation Protocols"
-description: "澳大利亚国立大学（ANU）物理实验室是校内研究活动最为密集的场所之一，每年有超过 1,200 名本科生和研究生在此完成实验课程与科研项目。根据澳大利亚辐射防护与核安全局（ARPANSA）2022 年发布的《电离辐射安全标准》，ANU 物理实验室同时使用 Class 3B 和 Class 4 激光器、密封放射源以及…"
+description: "The Australian National University (ANU) physics laboratories are among the most research-intensive facilities on campus, with more than 1,200 undergraduate and postgraduate students completing laboratory courses and research projects there each year. In line with the Ionising Radiation Safety Standard published by the Australian Radiation Protection and Nuclear Safety Agency (ARPANSA) in 2022, ANU physics laboratories use Class 3B and Class 4 lasers, sealed radioactive sources and high-voltage power supplies of up to 50 kV, and the operating rules governing them directly affect the safe execution of about 400 experiments per year. Following the 2024 update of the Laboratory Safety Manual by the ANU Research School of Physics, these protocols have become core content that everyone entering the laboratories must master."
 category: "ANU"
 pubDatetime: '2026-04-23T19:58:06Z'
 publishDate: '2026-04-23T19:58:06Z'
@@ -10,95 +11,92 @@ tags: ["featured"]
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-physics-laboratory-safety-rules-laser-radiation-and-high-voltage-equipment-o-2026-1880x1253.jpg"
 ---
 
-澳大利亚国立大学（ANU）物理实验室是校内研究活动最为密集的场所之一，每年有超过 1,200 名本科生和研究生在此完成实验课程与科研项目。根据澳大利亚辐射防护与核安全局（ARPANSA）2022 年发布的《电离辐射安全标准》，ANU 物理实验室同时使用 Class 3B 和 Class 4 激光器、密封放射源以及最高 50 kV 的高压电源设备，其操作规范直接关系到每年约 400 次实验的安全执行。随着 2024 年 ANU 物理学院更新了《实验室安全手册》，这些协议成为所有进入实验室人员必须掌握的核心内容。
+The Australian National University (ANU) physics laboratories are among the most research-intensive facilities on campus: more than 1,200 undergraduate and postgraduate students complete laboratory courses and research projects there every year. Under the Ionising Radiation Safety Standard issued by the Australian Radiation Protection and Nuclear Safety Agency (ARPANSA) in 2022, ANU physics laboratories simultaneously use Class 3B and Class 4 lasers, sealed radioactive sources and high-voltage power supplies of up to 50 kV, and the operating rules for this equipment directly govern the safe execution of about 400 experiments per year. Following the 2024 update of the Laboratory Safety Manual by the ANU Research School of Physics, these protocols have become core content that every person entering the laboratories must master.
 
-## 激光安全操作规范
+## Laser Safety Operating Rules
 
-ANU 物理实验室的激光设备主要分为 **Class 3B** 和 **Class 4** 两类，前者输出功率在 5 mW 至 500 mW 之间，后者超过 500 mW。根据澳大利亚标准 AS/NZS IEC 60825.1:2014，Class 4 激光器能够直接造成皮肤烧伤和不可逆的视网膜损伤，因此实验室要求所有操作人员必须完成 ANU 安全与健康办公室（S&H）提供的激光安全培训，该培训每两年更新一次。
+Laser equipment in the ANU physics laboratories falls into two main categories: **Class 3B** and **Class 4**. The former has an output power of between 5 mW and 500 mW, while the latter exceeds 500 mW. Under Australian Standard AS/NZS IEC 60825.1:2014, Class 4 lasers can directly cause skin burns and irreversible retinal damage, so the laboratories require all operators to complete the laser safety training provided by the ANU Safety and Health Office (S&H), which is refreshed every two years.
 
-### 激光区域管控
+### Laser Area Control
 
-所有 Class 3B 和 Class 4 激光器必须在 **受控区域** 内运行。受控区域定义为入口处张贴有激光警告标志、门锁常闭且仅授权人员可进入的空间。ANU 物理学院规定，激光运行期间必须使用光束挡板或光学隔离器，防止光束意外逸出区域边界。2023 年 ANU 内部审计显示，实验室 87% 的激光事故发生在未正确设置光束挡板的情况下。
+All Class 3B and Class 4 lasers must be operated in a **controlled area**. A controlled area is defined as a space with a laser warning sign posted at the entrance, doors that remain locked by default, and access restricted to authorised personnel only. The ANU Research School of Physics requires the use of beam stops or optical isolators while a laser is running to prevent the beam from accidentally escaping the area boundary. A 2023 ANU internal audit showed that 87% of laser incidents in the laboratories occurred when beam stops had not been set up correctly.
 
-### 个人防护装备（PPE）
+### Personal Protective Equipment (PPE)
 
-操作激光时必须佩戴 **激光防护眼镜**，其光学密度（OD）需与激光波长匹配。例如，对于 532 nm 绿色激光器，实验室要求使用 OD 值 ≥ 4 的防护镜。此外，操作人员应避免佩戴金属首饰或反光手表，因为反射光束可能导致非目标区域的人员暴露。ANU 实验室在每次实验前会进行 PPE 适配性检查，不符合要求的个人将被禁止进入操作区。
+**Laser safety goggles** must be worn when operating a laser, with an optical density (OD) matched to the laser wavelength. For example, for a 532 nm green laser the laboratories require safety goggles with an OD of ≥ 4. Operators should also avoid wearing metal jewellery or reflective watches, because reflected beams can expose people outside the target area. ANU laboratories carry out a PPE fit check before every experiment, and anyone who does not meet the requirements is barred from the operating area.
 
-## 辐射安全与放射性材料管理
+## Radiation Safety and Radioactive Material Management
 
-ANU 物理实验室使用的密封放射源包括 **镅-241**（Am-241）和 **铯-137**（Cs-137），主要用于核物理实验和探测器校准。这些源由 ANU 辐射安全官（RSO）统一登记管理，每个源的年使用量不得超过 ARPANSA 颁发的许可证上限。以 Cs-137 为例，单个源活度通常不超过 370 MBq（10 mCi），且必须存储在铅屏蔽容器内。
+The sealed radioactive sources used in the ANU physics laboratories include **americium-241** (Am-241) and **caesium-137** (Cs-137), mainly for nuclear physics experiments and detector calibration. These sources are registered and managed centrally by the ANU Radiation Safety Officer (RSO), and the annual usage of each source must not exceed the licence limit issued by ARPANSA. For Cs-137, a single source typically has an activity of no more than 370 MBq (10 mCi) and must be stored in lead-shielded containers.
 
-### 辐射监测与剂量限制
+### Radiation Monitoring and Dose Limits
 
-所有接触放射源的人员必须佩戴 **热释光剂量计（TLD）**，每月提交至 ANU 辐射安全办公室分析。根据 ARPANSA 2022 年标准，ANU 将学生和研究人员的年有效剂量限值设定为 1 mSv，远低于澳大利亚法定公众限值 1 mSv/年（与法定限值一致，但内部管控更严格）。实验室还配备有便携式 Geiger-Müller 计数器，每季度进行一次表面污染检测，检测阈值设定为 0.5 Bq/cm²。
+Everyone who handles radioactive sources must wear a **thermoluminescent dosimeter (TLD)**, submitted monthly to the ANU Radiation Safety Office for analysis. Under the ARPANSA 2022 standard, ANU sets the annual effective dose limit for students and researchers at 1 mSv, in line with the Australian statutory public limit of 1 mSv/year (identical to the statutory limit, but with stricter internal controls). The laboratories are also equipped with portable Geiger-Müller counters, and surface contamination testing is carried out quarterly with a detection threshold of 0.5 Bq/cm².
 
-### 放射性废物处置
+### Radioactive Waste Disposal
 
-放射性废物必须按照 **ARPANSA 2021 年《放射性废物管理规范》** 分类收集。ANU 物理实验室将短半衰期废物（半衰期 < 100 天）与长半衰期废物分开存放，前者在衰变至背景水平后按普通废物处理，后者则移交至澳大利亚核科学与技术组织（ANSTO）处置。2023 年 ANU 共移交 2.3 公斤低放射性废物至 ANSTO。
+Radioactive waste must be segregated in accordance with the **ARPANSA 2021 Radioactive Waste Management Code of Practice**. The ANU physics laboratories keep short half-life waste (half-life < 100 days) separate from long half-life waste: the former is treated as ordinary waste once it has decayed to background levels, while the latter is handed over to the Australian Nuclear Science and Technology Organisation (ANSTO) for disposal. In 2023, ANU transferred 2.3 kg of low-level radioactive waste to ANSTO.
 
-## 高压电源设备操作协议
+## High-Voltage Power Supply Operating Protocols
 
-ANU 物理实验室的高压电源设备涵盖 **直流高压电源**（最高 50 kV）和 **脉冲高压发生器**（峰值 100 kV）。这些设备主要用于粒子加速器、X 射线管和等离子体实验。根据 AS/NZS 3000:2018《电气装置标准》，所有高压设备必须配备接地故障断路器（GFCI）和紧急停机按钮。
+High-voltage equipment in the ANU physics laboratories covers **DC high-voltage power supplies** (up to 50 kV) and **pulsed high-voltage generators** (100 kV peak). These are used mainly in particle accelerators, X-ray tubes and plasma experiments. Under AS/NZS 3000:2018 (Electrical Installations), all high-voltage equipment must be fitted with ground-fault circuit interrupters (GFCI) and emergency stop buttons.
 
-### 上锁/挂牌程序
+### Lockout/Tagout Procedures
 
-在维护或检修高压设备前，操作人员必须执行 **上锁/挂牌（LOTO）** 程序。具体步骤包括：关闭主断路器、使用个人挂锁锁定电源开关、在锁上悬挂写有姓名和日期的警告牌。ANU 物理学院规定，LOTO 程序需由两名具有资质的人员在场确认，其中一人为实验室主管。2022 年 ANU 安全培训记录显示，95% 的高压事故与 LOTO 程序未完整执行有关。
+Before maintaining or servicing high-voltage equipment, operators must follow the **Lockout/Tagout (LOTO)** procedure. The steps include: switching off the main circuit breaker, locking the power switch with a personal padlock, and hanging a warning tag bearing the name and date on the lock. The ANU Research School of Physics requires that the LOTO procedure be confirmed on site by two qualified persons, one of whom must be the laboratory supervisor. ANU safety training records from 2022 show that 95% of high-voltage incidents were linked to incompletely executed LOTO procedures.
 
-### 放电与接地流程
+### Discharge and Earthing Procedures
 
-操作结束后，高压电源必须通过 **泄放电阻** 放电至安全电压（低于 50 V），并使用接地棒直接短路接地。ANU 实验室要求放电时间至少为设备时间常数的 5 倍。例如，对于 10 nF 电容与 1 MΩ 电阻组成的 RC 电路，放电时间需 ≥ 50 秒。放电完成后，需用数字万用表确认电压为零，方可接触电路。
+After operations, high-voltage supplies must be discharged through a **bleeder resistor** to a safe voltage (below 50 V) and then shorted directly to earth using an earthing rod. ANU laboratories require the discharge time to be at least 5 times the equipment time constant. For example, for an RC circuit of a 10 nF capacitor and a 1 MΩ resistor, the discharge time must be ≥ 50 seconds. After discharge, a digital multimeter must confirm zero voltage before the circuit can be touched.
 
-## 化学安全与通风要求
+## Chemical Safety and Ventilation Requirements
 
-部分物理实验涉及 **腐蚀性化学品**，如氢氟酸（HF）用于硅晶圆刻蚀，以及硝酸用于金属表面清洗。ANU 化学安全办公室根据《工作健康与安全法》（WHS Act 2011）要求，所有化学品必须存储在专用通风柜内，通风柜面风速维持在 0.5 m/s 至 1.0 m/s 之间。
+Some physics experiments involve **corrosive chemicals**, such as hydrofluoric acid (HF) for silicon wafer etching and nitric acid for cleaning metal surfaces. Under the Work Health and Safety Act (WHS Act 2011), the ANU Chemical Safety Office requires all chemicals to be stored in dedicated fume hoods, with the face velocity maintained between 0.5 m/s and 1.0 m/s.
 
-### 紧急淋浴与洗眼站
+### Emergency Showers and Eyewash Stations
 
-实验室在化学品操作区 10 米范围内设置 **紧急淋浴和洗眼站**，每周由实验室管理员测试一次水流和温度。ANU 规定洗眼站出水温度应保持在 15°C 至 25°C 之间，连续冲洗时间至少 15 分钟。2023 年 ANU 安全审计发现，90% 的洗眼站符合温度要求，其余已在一周内完成校准。
+**Emergency showers and eyewash stations** are located within 10 metres of chemical handling areas, and their water flow and temperature are tested weekly by the laboratory manager. ANU requires eyewash outlet water temperature to be kept between 15°C and 25°C, with a continuous rinsing time of at least 15 minutes. A 2023 ANU safety audit found that 90% of eyewash stations met the temperature requirement; the remainder were recalibrated within a week.
 
-### 化学品储存与记录
+### Chemical Storage and Records
 
-所有化学品必须使用 **二次容器** 储存，并附有安全数据表（SDS）。ANU 物理实验室要求每次取用化学品后，在实验室化学品登记簿上记录使用量、日期和操作人签名。对于氢氟酸等剧毒物质，还需额外记录使用目的和剩余量。该登记簿每学期由 ANU 环境健康与安全（EHS）团队抽查一次。
+All chemicals must be stored in **secondary containers** with a Safety Data Sheet (SDS) attached. The ANU physics laboratories require every withdrawal of a chemical to be logged in the laboratory chemical register with the amount used, the date and the operator's signature. For highly toxic substances such as hydrofluoric acid, the purpose of use and the remaining quantity must also be recorded. The register is spot-checked once per semester by the ANU Environment, Health and Safety (EHS) team.
 
-## 紧急响应与事故报告
+## Emergency Response and Incident Reporting
 
-ANU 物理实验室的紧急响应流程依据 **《ANU 应急管理计划 2023》** 制定。实验室内部设有紧急出口标识、灭火器和急救箱，每层楼配备自动体外除颤器（AED）。所有人员需在首次进入实验室时熟悉逃生路线和集合点。
+The emergency response procedures of the ANU physics laboratories are based on the **ANU Emergency Management Plan 2023**. The laboratories have emergency exit signage, fire extinguishers and first aid kits, and each floor is equipped with an automated external defibrillator (AED). Everyone must familiarise themselves with escape routes and assembly points on first entering the laboratories.
 
-### 事故分类与报告时限
+### Incident Classification and Reporting Timeframes
 
-事故按严重程度分为三级：**轻微事故**（无需医疗处理，24 小时内报告）、**中度事故**（需医疗处理，2 小时内报告）、**严重事故**（导致住院或永久伤害，立即报告）。ANU 安全与健康办公室通过在线事故报告系统（SafetyNet）收集数据，2023 年物理实验室共报告 8 起轻微事故和 1 起中度事故，无严重事故。
+Incidents are classified into three levels of severity: **minor incidents** (no medical treatment required; report within 24 hours), **moderate incidents** (medical treatment required; report within 2 hours) and **serious incidents** (hospitalisation or permanent injury; report immediately). The ANU Safety and Health Office collects data through the online incident reporting system (SafetyNet). In 2023 the physics laboratories reported 8 minor incidents and 1 moderate incident, with no serious incidents.
 
-### 灭火器与泄漏处理
+### Fire Extinguishers and Spill Response
 
-实验室配备 **二氧化碳灭火器** 和 **干粉灭火器**，分别用于电气火灾和化学品火灾。对于化学品泄漏，实验室提供泄漏套件，内含吸附垫、中和剂和防护手套。ANU 要求所有操作人员每年参加一次灭火器使用演练，2023 年参与率为 92%。
+The laboratories are equipped with **carbon dioxide extinguishers** and **dry powder extinguishers** for electrical fires and chemical fires respectively. For chemical spills, the laboratories provide spill kits containing absorbent pads, neutralising agents and protective gloves. ANU requires all operators to take part in an annual fire extinguisher drill; participation was 92% in 2023.
 
-## 培训与资质认证
+## Training and Certification
 
-进入 ANU 物理实验室的人员必须完成 **三级培训**：在线安全模块（2 小时）、实验室现场培训（4 小时）和特定设备操作考核（2 小时）。在线模块涵盖激光安全、辐射防护和电气安全，由 ANU 安全与健康办公室开发，内容每两年更新一次。
+Anyone entering the ANU physics laboratories must complete **three levels of training**: an online safety module (2 hours), on-site laboratory training (4 hours) and a specific equipment operation assessment (2 hours). The online module covers laser safety, radiation protection and electrical safety, is developed by the ANU Safety and Health Office, and its content is updated every two years.
 
-### 年度复训与考核
+### Annual Refresher Training and Assessment
 
-所有实验室用户需每年参加 **复训**，时长 1 小时，内容包括事故案例分析和新规解读。ANU 物理学院在 2024 年引入线上考核系统，要求复训后通过正确率 ≥ 80% 的测试，否则需重新参加培训。2023 年数据显示，首次通过率为 78%，补考通过率提升至 95%。
+All laboratory users must attend an annual **refresher training** session of 1 hour, covering incident case studies and interpretation of new regulations. In 2024 the ANU Research School of Physics introduced an online assessment system requiring a pass rate of ≥ 80% after refresher training; those who fail must retake the training. 2023 data shows a first-attempt pass rate of 78%, rising to 95% on resit.
 
-### 外来人员管理
+### Management of External Personnel
 
-短期访问学者和合作研究人员需由 ANU 实验室主管签署 **安全责任书**，并完成至少一级培训（在线模块）。对于使用激光或放射源的外来人员，还需额外完成专项培训并签署使用协议。ANU 物理学院规定，外来人员在实验室停留时间不得超过 6 个月，超期需重新申请。
+Short-term visiting scholars and collaborating researchers must have a **safety responsibility letter** signed by the ANU laboratory supervisor and complete at least level one training (the online module). External personnel using lasers or radioactive sources must additionally complete specialist training and sign a usage agreement. The ANU Research School of Physics stipulates that external personnel may stay in the laboratories for no more than 6 months; longer stays require a new application.
 
 ## FAQ
 
-### Q1：ANU 物理实验室的激光安全培训有效期是多久？
+### Q1: How long is ANU physics laboratory laser safety training valid?
+Laser safety training is valid for **2 years**. Under ANU Safety and Health Office rules, Class 3B and Class 4 laser operators must complete refresher training within 30 days of expiry. 2023 data shows that about 85% of operators in the ANU physics laboratories completed refresher training within the validity period; those who were overdue had their laboratory access suspended until retrained.
 
-激光安全培训有效期为 **2 年**。根据 ANU 安全与健康办公室规定，Class 3B 和 Class 4 激光操作人员需在培训到期前 30 天内完成复训。2023 年数据显示，ANU 物理实验室约 85% 的操作人员在有效期内完成了复训，逾期人员被暂停实验室权限直至重新培训。
+### Q2: What is the response time for chemical spills in ANU physics laboratories?
+ANU requires emergency response to begin within **15 minutes** of a chemical spill. Spill kits are placed within 5 metres of operating areas, and users must retrieve absorbent materials within 2 minutes. A 2023 ANU internal drill showed an average response time of 11 minutes, meeting the requirements of the ANU Emergency Management Plan. For hydrofluoric acid spills, the eyewash station must additionally be activated and emergency medical personnel called.
 
-### Q2：如果发生化学品泄漏，ANU 物理实验室的响应时间是多少？
+### Q3: What is the minimum qualification required to operate high-voltage equipment in ANU physics laboratories?
+Operators must complete **specialist electrical safety training** (4 hours) and pass a practical assessment. The training covers LOTO procedures, discharge processes and fault diagnosis, and is run quarterly by the ANU Research School of Physics technical team. In 2023, 120 students and researchers passed the training, 95% of them on the first attempt. Those who fail must wait 30 days before retaking it.
 
-ANU 要求化学品泄漏后 **15 分钟内** 启动应急响应。实验室泄漏套件放置在操作区 5 米范围内，使用者需在 2 分钟内取出吸附材料。2023 年 ANU 内部演练显示，平均响应时间为 11 分钟，符合《ANU 应急管理计划》要求。对于氢氟酸泄漏，需额外启动洗眼站并呼叫急救人员。
-
-### Q3：ANU 物理实验室对高压设备操作人员的最低资质要求是什么？
-
-操作人员必须完成 **电气安全专项培训**（4 小时）并通过实操考核。该培训涵盖 LOTO 程序、放电流程和故障诊断，由 ANU 物理学院技术团队每季度举办一次。2023 年，共有 120 名学生和研究人员通过了该培训，其中 95% 在首次考核中合格。未通过者需等待 30 天后重新参加。
-
-## 参考资料
+## References
 
 - ARPANSA 2022, *Radiation Protection Standard for Occupational Exposure*
 - Standards Australia 2014, *AS/NZS IEC 60825.1:2014 Safety of Laser Products*
