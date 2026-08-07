@@ -2,7 +2,7 @@
 slug: anu-校园无障碍设施分布图与特殊需求支持服务
 title: "ANU Campus Accessibility Facilities and Special Needs Support Services"
 description: "The Australian National University (ANU) main Acton campus's **accessible facilities** coverage and **special needs support services** make it one of the first Group of Eight (Go8) campuses to pass a compliance audit under the *Disability Discrimination Act* (DDA). According to the *Campus A…"
-category: "ANU 校园无障碍设施分"
+category: "general"
 pubDatetime: '2026-03-19T19:51:07Z'
 publishDate: '2026-03-19T19:51:07Z'
 readingTime: 11

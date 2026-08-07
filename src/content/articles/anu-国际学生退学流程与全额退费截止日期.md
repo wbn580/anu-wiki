@@ -2,7 +2,7 @@
 slug: anu-国际学生退学流程与全额退费截止日期
 title: "ANU International Student Withdrawal Process and Full Refund Deadlines"
 description: "The ANU international student withdrawal process and its full-refund deadlines are pivotal for any student's finances and academic planning. According to the Department of Education's 2023 International Student Data Report, the withdrawal rate for international students across Australian universities is around 8.2%, while ANU's 2022 figure of 7.8% sits slightly below the national average. Under ANU's official policy, international students who apply to withdraw before the Friday of teaching week 4 in a given semester qualify for a full refund, minus an administrative fee of no more than $500."
-category: "ANU 国际学生退学流程"
+category: "general"
 pubDatetime: '2026-04-03T19:54:09Z'
 publishDate: '2026-04-03T19:54:09Z'
 readingTime: 14

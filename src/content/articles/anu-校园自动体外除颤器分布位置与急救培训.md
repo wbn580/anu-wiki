@@ -2,7 +2,7 @@
 slug: anu-校园自动体外除颤器分布位置与急救培训
 title: "ANU Campus AED Locations and First Aid Training"
 description: "The Australian National University (ANU) has deployed a total of **57 automated external defibrillators** (AEDs) across its Acton main campus and affiliated facilities, averaging one device per 0.03 square kilometres. According to data from the Heart Foundation of Australia (2023), every 1-minute delay in defibrillation after cardiac arrest reduces a patient's survival rate by 7–10%, while the campus AED network can compress response time to within 3 minutes. The ANU first aid training program, coordinated by ANU Safety and Wellbeing, delivers more than 200 CPR and AED operation courses to students and staff each year. Based on ANU's official facilities map and training records, this article systematically reviews AED distribution, device types, training pathways and emergency response procedures for the reference of students, staff and visitors on campus.…"
-category: "ANU 校园自动体外除颤"
+category: "general"
 pubDatetime: '2026-03-30T19:53:11Z'
 publishDate: '2026-03-30T19:53:11Z'
 readingTime: 11

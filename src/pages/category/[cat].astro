@@ -10,11 +10,13 @@ export async function getStaticPaths() {
     const c = a.data.category || 'general';
     catCounts[c] = (catCounts[c] || 0) + 1;
   }
-  // Return top categories (min 2 articles)
+  // Every category with at least two articles gets a page. There used to be a
+  // top-12 cut here, which meant re-filing articles could silently drop a
+  // category page that was already indexed — the URL set gate caught exactly
+  // that. The count is small (16), so the cut bought nothing.
   return Object.entries(catCounts)
     .filter(([_, count]) => count >= 2)
     .sort(([, a], [, b]) => b - a)
-    .slice(0, 12)
     .map(([cat]) => ({ params: { cat } }));
 }
 

@@ -2,7 +2,7 @@
 slug: anu-法学院-jd-项目申请攻略与-lsat-备考建议
 title: "ANU College of Law JD Program Application Guide and LSAT Preparation Tips"
 description: "The Juris Doctor (JD) program offered by the ANU College of Law is one of the core postgraduate courses in Australia's legal education system. According to the Australian Legal Education Committee's 2023 annual report, more than 92% of national JD graduates gain admission to legal practice after completing Practical Legal Training (PLT). ANU College of Law ranked in the 2024 QS World…"
-category: "ANU 法学院 JD 项"
+category: "general"
 pubDatetime: '2026-02-28T19:47:09Z'
 publishDate: '2026-02-28T19:47:09Z'
 readingTime: 13

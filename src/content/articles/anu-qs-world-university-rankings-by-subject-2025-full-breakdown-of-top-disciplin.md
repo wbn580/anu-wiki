@@ -113,19 +113,19 @@ Economics graduates from ANU have a median starting salary of AUD 75,000, with 8
 
 ## FAQ
 
-### Q1：ANU 在 QS 2025 年排名中哪些学科进入了全球前 10？
+### Q1: Which ANU subjects placed in the global top 10 in the QS 2025 rankings?
 
-根据 QS 2025 年学科排名，ANU 有 1 个学科进入全球前 10：**Anthropology** 位列第 8 名。此外，Archaeology 排名第 11 名，Politics 排名第 12 名，均接近前 10。这些学科共占 ANU 全部 7 个前 20 学科中的 3 个。
+In the QS World University Rankings by Subject 2025, one ANU subject placed in the global top 10: **Anthropology**, at 8th. Archaeology followed at 11th and Politics at 12th, both just outside the top 10. Together these three account for three of the seven ANU subjects ranked in the global top 20.
 
-### Q2：ANU 的 QS 学科排名与综合排名有何不同？
+### Q2: How do the QS subject rankings differ from the overall ranking?
 
-QS 综合排名衡量大学整体表现，ANU 在 2025 年综合排名中位列世界第 30 名。学科排名则评估单一领域的表现，ANU 在 Anthropology（第 8）和 Archaeology（第 11）等学科中排名高于综合排名。学科排名更侧重学术声誉、论文引用和雇主评价，而综合排名还包括师生比例和国际化指标。
+The overall QS ranking measures a university's performance as a whole; ANU placed 30th in the world in 2025. The subject rankings assess performance in a single field, and ANU ranks higher there than overall in subjects such as Anthropology (8th) and Archaeology (11th). Subject rankings weight academic reputation, citations per paper and employer reputation more heavily, while the overall ranking also factors in the faculty–student ratio and internationalisation measures.
 
-### Q3：ANU 的哪些学科在 QS 2025 年排名中进步最大？
+### Q3: Which ANU subjects improved the most in the QS 2025 rankings?
 
-**Agricultural and Forestry Sciences** 是进步最大的学科，从 2024 年的第 58 名跃升至 2025 年的第 46 名，提升了 12 个位次。**Earth and Marine Sciences** 也提升了 3 个位次至第 18 名。这些进步主要归因于论文引用量增长 20% 和 20% 的指标提升。
+**Agricultural and Forestry Sciences** improved the most, climbing from 58th in 2024 to 46th in 2025 — a gain of 12 places. **Earth and Marine Sciences** also rose 3 places to 18th. Those gains are attributed mainly to a 20% increase in citations per paper alongside a 20% improvement in the H-index indicator.
 
-## 参考资料
+## References
 
 - QS Quacquarelli Symonds 2025, *QS World University Rankings by Subject 2025*
 - Australian Department of Education 2025, *International Student Enrolment Data 2024-2025*

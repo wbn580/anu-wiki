@@ -2,7 +2,7 @@
 slug: anu-国际学生课程录音许可申请与设备借阅
 title: "Applying for Permission to Record Lectures at ANU and Borrowing Recording Equipment"
 description: "Since ANU revised its Academic Integrity and Lecture Recording Policy in 2023, the process for international students to apply for lecture recording permission and borrow equipment has changed noticeably. According to ANU's 2024 Student Support Services Annual Report, about 68% of international students at the university (roughly 9,800 people) used the lecture recording service at least once in their first year of enrolment, and the equipment loan system handled more than 2,200 booking requests in Semester 1 2025 (ANU 2024, Student Support Services Annual Report). These figures show that recording permission and equipment management have become a key part of international students' academic adjustment. Drawing on ANU's official policy documents and library service rules, this article sets out the application requirements, equipment types, compliance obligations and common questions as a practical reference for current students."
-category: "ANU 国际学生课程录音"
+category: "general"
 pubDatetime: '2026-03-31T19:53:30Z'
 publishDate: '2026-03-31T19:53:30Z'
 readingTime: 12

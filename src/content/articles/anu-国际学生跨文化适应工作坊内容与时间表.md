@@ -2,7 +2,7 @@
 slug: anu-国际学生跨文化适应工作坊内容与时间表
 title: "ANU Intercultural Adjustment Workshop: Content and Schedule"
 description: "The Australian National University (ANU) has run an Intercultural Adjustment Workshop for international students since 2000, helping a cohort that hails from more than 120 countries and makes up roughly 42% of the total student body (2023 ANU Annual Report figures) cope with culture shock and the challenges of academic integration. According to the Department of Education's 2024 International Student Experience Survey, around 37% of international students in Australia report moderate to severe adjustment difficulties in their first enrolled semester, and ANU's workshop system has been named one of the country's best-practice examples. The workshops are held in three concentrated windows each year — O-Week, weeks 3-5 of Semester 1, and weeks 2-4 of Semester 2."
-category: "ANU 国际学生跨文化适"
+category: "general"
 pubDatetime: '2026-03-24T19:52:00Z'
 publishDate: '2026-03-24T19:52:00Z'
 readingTime: 13

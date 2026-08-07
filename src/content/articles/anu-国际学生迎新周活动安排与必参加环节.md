@@ -2,7 +2,7 @@
 slug: anu-国际学生迎新周活动安排与必参加环节
 title: "ANU International Student O-Week: Activity Schedule and Mandatory Sessions"
 description: "The Australian National University (ANU) International Student Orientation Week (O-Week) is a mandatory transition program run for new students before the start of each academic year, typically held once in February (Semester 1) and once in July (Semester 2) and lasting five to seven days. According to official ANU data, the Semester 1 2024 O-Week drew around 4,500 new international students from more than 100 countries [ANU 2024, International Student Orientation Program Report]. The program is coordinated by ANU Student Experience and Recruitment and is designed to carry new students through the full transition, from visa compliance checks and campus familiarisation to academic culture adaptation."
-category: "ANU 国际学生迎新周活"
+category: "general"
 pubDatetime: '2026-02-26T19:46:44Z'
 publishDate: '2026-02-26T19:46:44Z'
 readingTime: 14

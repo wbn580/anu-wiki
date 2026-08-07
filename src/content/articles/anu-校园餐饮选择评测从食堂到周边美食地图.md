@@ -2,7 +2,7 @@
 slug: anu-校园餐饮选择评测从食堂到周边美食地图
 title: "ANU Campus Dining Guide: From On-Campus Cafeterias to the Surrounding Food Map"
 description: "The main campus of the Australian National University (ANU) is located in the Acton district of Canberra, the national capital, and its campus dining system serves more than 25,000 students (2023 ANU annual report) and around 4,000 staff. According to the 2024 QS World University Rankings, ANU ranks 34th globally, and its campus life facilities (including dining) are mid-sized among the Group of Eight (Go8), but the diversity of options differs markedly with the campus layout…"
-category: "ANU 校园餐饮选择评测"
+category: "general"
 pubDatetime: '2026-03-02T19:47:25Z'
 publishDate: '2026-03-02T19:47:25Z'
 readingTime: 14

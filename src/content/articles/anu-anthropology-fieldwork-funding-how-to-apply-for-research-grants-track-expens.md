@@ -65,6 +65,10 @@ Reports must use the **ANU report template** (downloadable from the School websi
 
 Changes to the fieldwork site or major changes to research methods (for example, switching from participant observation to structured questionnaires) require a fresh **ethics amendment application**, a process that usually takes 2-3 weeks. No funding may be used for data collection under the new method before approval is granted.
 
+### Interdisciplinary Collaboration Opportunities
+
+The ANU School of Anthropology runs joint funding schemes with the **Australian National University Centre for Aboriginal Economic Policy Research (CAEPR)** and the **Research School of Pacific Studies**, allowing students to apply for up to **A$12,000** in interdisciplinary fieldwork funding. Such applications must additionally explain the interdisciplinary methodological value of the project.
+
 ## FAQ
 
 ### Q1: Do I need an IELTS score to apply for ANU anthropology fieldwork funding?

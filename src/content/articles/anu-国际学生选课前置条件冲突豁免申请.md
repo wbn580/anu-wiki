@@ -2,7 +2,7 @@
 slug: anu-国际学生选课前置条件冲突豁免申请
 title: "ANU Prerequisite Conflict Waiver Applications for International Students"
 description: "Each academic year, more than 15,000 international students enrol at the Australian National University (ANU), and about 12% of their course enrolment requests are automatically blocked by the system because of prerequisite conflicts (ANU Registrar's Office internal statistics, 2023). These conflicts usually stem from a mismatch between the courses a student has already completed and what the target course demands — credits that do not line up, grades that fall short, or course codes that have been superseded. The 2024 QS World University Rankings placed ANU 34th globally, and as course difficulty and the complexity of enrolment rules have risen in step, the Prerequisite Waiver Request has become an academic procedure every international student needs to know."
-category: "ANU 国际学生选课前置"
+category: "general"
 pubDatetime: '2026-03-29T19:53:06Z'
 publishDate: '2026-03-29T19:53:06Z'
 readingTime: 14

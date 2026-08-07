@@ -2,7 +2,7 @@
 slug: anu-国际学生父母陪读签证可行性分析与替代方案
 title: "Parental Companion Visas for ANU International Students: Feasibility Analysis and Alternatives"
 description: "Since July 2024, the Australian immigration authorities have further tightened the policy on accompanying applicants under the student visa (Subclass 500), making clear that parents of international students cannot obtain an accompanying visa through the student visa. According to 2024 statistics from the Department of Home Affairs, the Student Guardian visa (Subclass 590) may only be applied for by the parents or legal guardians of students under 18 years of age, and holders of this visa are not permitted to work in Australia. For international students over 18 enrolled at universities such as the Australian National University (ANU), parents who wish to stay long-term must look to other visa pathways. This article systematically analyses the feasibility of parental accompaniment and the alternative options available, based on Australian migration regulations and ANU institutional policy."
-category: "ANU 国际学生父母陪读"
+category: "general"
 pubDatetime: '2026-03-27T19:52:44Z'
 publishDate: '2026-03-27T19:52:44Z'
 readingTime: 12

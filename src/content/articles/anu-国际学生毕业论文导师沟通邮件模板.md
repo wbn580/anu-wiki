@@ -2,7 +2,7 @@
 slug: anu-国际学生毕业论文导师沟通邮件模板
 title: "Email Templates for ANU International Students Communicating with Their Thesis Supervisor"
 description: "ANU's 2024 International Student Experience Report shows that around 67% of undergraduate international students experienced late submission or marking disputes during their thesis due to poor communication with their supervisor [ANU 2024, International Student Experience Survey]. According to Australian Department of Education 2023 data, the time international students take to complete a degree at an Australian university is..."
-category: "ANU 国际学生毕业论文"
+category: "general"
 pubDatetime: '2026-03-20T19:51:12Z'
 publishDate: '2026-03-20T19:51:12Z'
 readingTime: 10

@@ -1,12 +1,40 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
 
-const { title, description, ogImage, canonicalURL, schema } = Astro.props;
+const {
+  title,
+  description,
+  ogImage,
+  canonicalURL,
+  schema,
+  htmlLang = 'en',
+  ogLocale = 'en_AU',
+  langAlternates = [],
+} = Astro.props;
+
+const SITE_URL = 'https://anu.wiki';
+
+// The chatbot takes a plain locale code, not a BCP 47 region tag — the rest of
+// the fleet passes `en` / `zh-CN`, so a Chinese reader gets a Chinese assistant.
+const botLang = htmlLang.startsWith('zh') ? 'zh-CN' : 'en';
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={htmlLang}>
   <head>
+    <meta property="og:locale" content={ogLocale} />
+    <!-- Translation pairing: tells search engines these two URLs are the same
+         article in different languages, so neither is treated as duplicate or
+         off-language content and each is served to the right audience. -->
+    {
+      langAlternates.map(alt => (
+        <link
+          rel="alternate"
+          hreflang={alt.hreflang}
+          href={new URL(alt.path, SITE_URL).toString()}
+        />
+      ))
+    }
     <BaseHead
       title={title}
       description={description}
@@ -19,9 +47,9 @@ const { title, description, ogImage, canonicalURL, schema } = Astro.props;
       @import '../styles/editorial.css';
     </style>
     <!-- Unified lead conversion entry: assessment form, chat, sticky buttons and in-article card -->
-    <script src="https://chat.anu.wiki/lead.js?v=20260702-routefix" data-site="anu-wiki" data-lang="zh-CN" data-tier="school" data-country="au" data-school="anu" data-apply-base="https://apply.anu.wiki" data-color="#2E5C3A" data-accent="#8B3A1F" async></script>
+    <script src="https://chat.anu.wiki/lead.js?v=20260702-routefix" data-site="anu-wiki" data-lang={botLang} data-tier="school" data-country="au" data-school="anu" data-apply-base="https://apply.anu.wiki" data-color="#2E5C3A" data-accent="#8B3A1F" async></script>
     <!-- Chat widget for lead consultation actions -->
-    <script src="https://chat.anu.wiki/assistant.js" data-site="anu-wiki" data-lang="en" data-bot-name="ANU Guide" data-channel="organic" data-color="#2E5C3A" data-accent="#8B3A1F" data-no-bubble="1" async></script>
+    <script src="https://chat.anu.wiki/assistant.js" data-site="anu-wiki" data-lang={botLang} data-bot-name="ANU Guide" data-channel="organic" data-color="#2E5C3A" data-accent="#8B3A1F" data-no-bubble="1" async></script>
 </head>
   <body class="editorial">
     <nav class="enav" id="enav">

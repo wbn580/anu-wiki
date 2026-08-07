@@ -2,7 +2,7 @@
 slug: anu-国际学生紧急情况求助渠道大使馆与校内支持
 title: "Emergency Help Channels for ANU International Students: The Embassy and On-Campus Support"
 description: "As of 2024, the Australian National University (ANU) has more than 12,000 international students enrolled, about 40% of the total student body (Australian Government Department of Education, 2024, International Student Data). Faced with cultural adjustment, legal differences and sudden safety incidents, international students need a clear map of who to call in an emergency. ANU maintains a 24/7 security team and dedicated student support units on campus, while the Embassy and Consulates of the People's Republic of China in Australia provide consular protection and assistance to students holding Chinese passports. Using ANU as the setting, this article sets out the boundaries, contact channels and practical procedures of the two support systems — embassy and campus — so students can make the right call quickly in a crisis."
-category: "ANU 国际学生紧急情况"
+category: "general"
 pubDatetime: '2026-03-06T19:48:18Z'
 publishDate: '2026-03-06T19:48:18Z'
 readingTime: 15

@@ -2,7 +2,7 @@
 slug: anu-国际学生社团创立流程与经费申请指南
 title: "A Guide to Founding an International Student Club at ANU and Applying for Funding"
 description: "The Australian National University (ANU) currently has more than 200 registered student clubs, around 30% of which were founded or are led by international students (ANU Student Life, 2023). According to the International Student Data Annual Report of the Australian Department of Education, Skills and Employment (DESE, 2022), international students make up 44.8% of ANU enrolment, which means there are many unmet cultural, academic and social needs on campus, driving a continuing stream of new club registrations. This article systematically outlines the complete process for ANU international students, from idea development, club registration and funding applications to ongoing operations, citing ANU's official policy documents and the compliance requirements of the Australian Charities and Not-for-profits Commission (ACNC), to provide students who wish to found a club with an actionable pathway."
-category: "ANU 国际学生社团创立"
+category: "general"
 pubDatetime: '2026-04-06T19:54:46Z'
 publishDate: '2026-04-06T19:54:46Z'
 readingTime: 12

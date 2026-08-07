@@ -2,7 +2,7 @@
 slug: anu-校园自动售货机分布与电子支付方式
 title: "ANU Campus Vending Machine Locations and Electronic Payment Options"
 description: "Around 47 vending machines are deployed across the ANU campus, covering 6 major teaching and living areas of the Acton main campus, including the Kambri Student Centre, Marie Reay Teaching Centre, Hancock Library and the Union Court dining precinct. According to data from the Australasian Vending Association (AVA, 2023 annual industry report), the average annual transaction volume of vending machines on Australian university campuses is about 12,000 per machine, and at ANU — where the campus is spread out and student mobility is high — machines in some core areas can reach 18,000 transactions per year. In Q2 2024, ANU Student Services completed a payment terminal upgrade enabling all vending machines to accept Visa, Mastercard, American Express and mobile payments (Apple Pay / Google Pay), ending the era when only coins and the ANUCard were accepted. This change comes as Reserve Bank of Australia (RBA, 2023 Payments System Report) data shows that cash transactions across Australia have fallen to 13% of total payments, making electronic payment a key part of campus life infrastructure.…"
-category: "ANU 校园自动售货机分"
+category: "general"
 pubDatetime: '2026-03-19T19:50:54Z'
 publishDate: '2026-03-19T19:50:54Z'
 readingTime: 13

@@ -2,7 +2,7 @@
 slug: anu-校园疫苗接种点服务时间与预约方式
 title: "ANU Campus Vaccination Clinic Hours and Booking Methods"
 description: "Vaccination services on the Australian National University (ANU) campus are provided by the on-campus health centre (ANU Health Centre) and partner pharmacies, serving enrolled students, staff and some community members. According to the *National Immunization Program* (National Immunizatio…) released by the Australian Department of Health and Aged Care in 2024…"
-category: "ANU 校园疫苗接种点服"
+category: "general"
 pubDatetime: '2026-03-25T19:52:21Z'
 publishDate: '2026-03-25T19:52:21Z'
 readingTime: 14

@@ -2,7 +2,7 @@
 slug: anu-校园紧急疏散演习安排与参与要求
 title: "ANU Campus Emergency Evacuation Drills: Schedule and Participation Requirements"
 description: "The Australian National University (ANU) conducts at least two campus-wide emergency evacuation drills every year under the Work Health and Safety Act 2011 (ACT) and its internal Emergency Management Policy. According to the Emergency Procedures Manual published by the ANU Safety and Wellbeing division in 2024, the campus has more than 420 designated emergency assembly points covering all teaching, research and residential buildings at the Acton campus. The 2023 annual report of the ANU Safety Office noted that the average completion time for campus-wide evacuation drills that year was 5 minutes 30 seconds, below the 8-minute benchmark recommended by the Australian Emergency Management Association (AEMA). For students and staff on campus, understanding the drill schedule and participation requirements is not only a compliance obligation but also directly affects how effectively individuals can reach safety in a real emergency.…"
-category: "ANU 校园紧急疏散演习"
+category: "general"
 pubDatetime: '2026-03-24T19:52:03Z'
 publishDate: '2026-03-24T19:52:03Z'
 readingTime: 11

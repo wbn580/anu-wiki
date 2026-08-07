@@ -2,7 +2,7 @@
 slug: anu-校园自行车停放规则与被盗预防建议
 title: "ANU Campus Bicycle Parking Rules and Theft Prevention Advice"
 description: "Around 3,500 bicycles enter and leave the Australian National University (ANU) campus every day, yet according to data released by ANU Safety and Transport in 2023, more than 120 bicycle thefts are reported on campus each year — and the actual number stolen is likely higher. Meanwhile, crime statistics from the Australian Capital Territory (ACT) government for 2022 show that bicycle theft across Canberra rose 14% year on year, and the campus, as a high-density parking area, has become a prime target. Drawing on ANU's official parking regulations, ACT Policing theft prevention guidelines and campus security reports, this article systematically reviews ANU campus bicycle parking rules and anti-theft advice to help current students reduce the risk of property loss.…"
-category: "ANU 校园自行车停放规"
+category: "general"
 pubDatetime: '2026-03-21T19:51:27Z'
 publishDate: '2026-03-21T19:51:27Z'
 readingTime: 12

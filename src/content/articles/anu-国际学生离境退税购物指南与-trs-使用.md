@@ -2,7 +2,7 @@
 slug: anu-国际学生离境退税购物指南与-trs-使用
 title: "ANU International Student Departure Tax Refund Shopping Guide and TRS Usage"
 description: "The Tourist Refund Scheme (TRS), administered by the Australian Taxation Office (ATO), allows departing travellers to claim a refund of the Goods and Services Tax (GST) and Wine Equalisation Tax (WET) included in purchased goods, at a rate of 10%. Department of Home Affairs data for 2024 shows that Australia hosts more than 700,000 international students, of whom about 160,000 are Chinese — the largest international student cohort. For ANU international students about to graduate or heading home for the holidays…"
-category: "ANU 国际学生离境退税"
+category: "general"
 pubDatetime: '2026-04-06T19:54:38Z'
 publishDate: '2026-04-06T19:54:38Z'
 readingTime: 14
@@ -72,6 +72,18 @@ Refund policies in EU countries generally require the goods to be refunded when 
 ### The US Has No Nationwide Tax Refund Policy
 
 The United States has no nationwide consumption-tax refund; only some states, such as Texas and Louisiana, offer refunds to international visitors. **Australia's TRS is a unified national policy**, with identical rules no matter which airport you depart from. ANU students planning to travel to the US during the holidays should note that shopping in the US cannot be refunded, while they can still claim the TRS when departing Australia.
+
+## Common Questions and Dispute Cases
+
+**TRS disputes** mostly centre on the definition of a "resident". In a 2023 case heard by the Administrative Appeals Tribunal (AAT), an international student who had lived in Australia for 18 months had their TRS application refused on the grounds that they "had a fixed home in Australia and had been living there long term". The AAT ultimately found that the student did not meet the definition of a "traveller". However, this case is not universally binding, and subsequent ATO guidance still allows student visa holders to apply for the TRS, provided they do not return immediately after departure.
+
+### Online Shopping and TRS Eligibility
+
+**Online shopping** also qualifies for the TRS, as long as the retailer provides an invoice that includes GST and the ABN matches. For example, purchases made on Amazon.com.au are invoiced by Amazon's Australian entity, which meets TRS requirements. Note, however, that **cross-border online purchases** (such as goods bought from Chinese e-commerce sites) do not include Australian GST and therefore cannot be refunded. ATO data for 2024 shows that around 8% of TRS applications are rejected because the goods were purchased from overseas merchants.
+
+### Goods Damaged or Lost After Departure
+
+If refunded goods are damaged or lost after you leave Australia, this does not affect a refund that has already been processed. However, if the ATO identifies a problem during its checks, it has the power to recover the refund. In a **2022 ATO case**, a traveller whose goods were stolen after departure still received their refund, because the inspection had already been completed. Students are advised to keep their goods safe after the customs inspection, but there is no need to worry about risks that arise after departure.
 
 ## FAQ
 

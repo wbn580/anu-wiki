@@ -2,7 +2,7 @@
 slug: anu-校园通勤方式对比自行车公交与步行路线推荐
 title: "ANU Campus Commuting Options Compared: Cycling, Bus and Walking Route Recommendations"
 description: "The Australian National University (ANU) main campus is located in the Acton district near Canberra's city centre, and the choice of commuting mode directly affects students' daily time management and travel costs. According to Australian Bureau of Statistics (ABS) 2021 Census data, 62.4% of Canberra residents commute by **private car** — below the national average of 72.5% — while public transport and **active travel** (walking and cycling) are used at significantly higher rates…"
-category: "ANU 校园通勤方式对比"
+category: "general"
 pubDatetime: '2026-03-09T19:48:59Z'
 publishDate: '2026-03-09T19:48:59Z'
 readingTime: 14

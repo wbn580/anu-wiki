@@ -2,7 +2,7 @@
 slug: anu-2025-年-qs-世界大学学科排名完整解读
 title: "ANU 2025 QS World University Rankings by Subject: A Complete Guide"
 description: "The Australian National University (ANU) placed 14 subjects in the global top 50 in the 2025 QS World University Rankings by Subject, with **Anthropology** and **Philosophy** ranked 7th and 8th worldwide respectively, reflecting the university's enduring strength in the humanities and social sciences. According to the QS 2025 subject rankings data, ANU ranked 11th globally in **Earth and Marine Sciences**, 14th in **Development Studies**, and 10th in **Politics and International Studies**..."
-category: "ANU 2025 年 Q"
+category: "general"
 pubDatetime: '2026-02-21T19:45:29Z'
 publishDate: '2026-02-21T19:45:29Z'
 readingTime: 10

@@ -2,7 +2,7 @@
 slug: anu-国际学生校园辩论赛报名与赛前培训
 title: "ANU International Student Campus Debate: Registration and Pre-Competition Training"
 description: "The Australian National University (ANU) International Student Campus Debate, jointly hosted by the ANU Students' Association (ANUSA) and the Postgraduate and Research Students' Association (PARSA), is an annual university-wide competition. Registration for the 2025 event opened on 1 March, and by 20 March 237 registrations had been received from 47 countries, up 18.7% on the same period in 2024 (ANUSA 2025 event data). Designed to sharpen the academic debating skills of students whose first language is not English, the event's pre-competition training programme, developed by the ANU Academic Skills Centre, covers logical structure, evidence citation and rebuttal strategy…"
-category: "ANU 国际学生校园辩论"
+category: "general"
 pubDatetime: '2026-04-01T19:53:44Z'
 publishDate: '2026-04-01T19:53:44Z'
 readingTime: 12

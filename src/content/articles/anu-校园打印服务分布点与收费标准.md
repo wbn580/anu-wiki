@@ -2,7 +2,7 @@
 slug: anu-校园打印服务分布点与收费标准
 title: "ANU Campus Printing Service Locations and Fees"
 description: "As of Q2 2025, the Australian National University (ANU) has deployed more than **60 multifunction printing devices** across campus, covering **7 major teaching and public areas**, providing students and staff with unified printing, copying and scanning services. According to the *Campus Print Services Guide* released by ANU Information Technology Services (ITS) in 2024, the campus printing system runs on the **PaperCut software pla…"
-category: "ANU 校园打印服务分布"
+category: "general"
 pubDatetime: '2026-03-06T19:48:22Z'
 publishDate: '2026-03-06T19:48:22Z'
 readingTime: 12

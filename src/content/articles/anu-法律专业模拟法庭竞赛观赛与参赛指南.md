@@ -2,7 +2,7 @@
 slug: anu-法律专业模拟法庭竞赛观赛与参赛指南
 title: "ANU Law Moot Court Competition: Spectator and Participant Guide"
 description: "The moot court competition in the law program at the Australian National University (ANU) is a core component of the college's legal education, with a history dating back to the 1960s. According to the 2024 QS World University Rankings by Subject, ANU College of Law ranks 24th globally and 2nd in Australia in law and legal studies [QS, 2024, QS World University Rankings by Subject…"
-category: "ANU 法律专业模拟法庭"
+category: "general"
 pubDatetime: '2026-03-26T19:52:26Z'
 publishDate: '2026-03-26T19:52:26Z'
 readingTime: 14

@@ -2,7 +2,7 @@
 slug: anu-国际学生语言交换伙伴项目报名与匹配机制
 title: "ANU International Student Language Exchange Partner Program: Sign-up and Matching"
 description: "The Language Exchange Partner Program at the Australian National University (ANU) is the university's official matching mechanism for promoting cross-cultural communication and language acquisition. The program is run jointly by ANU Global Programs and the Australian National University Students' Association (ANUSA), serving more than 1,200 registered participants a year, about 65% of them international students and 35% local Australian students. According to the Australian Department of Education's 2023 International Student Data Summary, ANU took in 10,524 international students from more than 100 countries in the 2022-2023 academic year, and the language exchange program has become a core part of its campus integration strategy. Through a structured sign-up process and an algorithm-based matching system, pairings are completed within a 4-week window at the start of each semester, giving participants at least 1 hour a week of face-to-face or online language practice."
-category: "ANU 国际学生语言交换"
+category: "general"
 pubDatetime: '2026-03-18T19:50:47Z'
 publishDate: '2026-03-18T19:50:47Z'
 readingTime: 13

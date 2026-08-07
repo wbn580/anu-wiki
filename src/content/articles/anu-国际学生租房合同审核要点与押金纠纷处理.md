@@ -2,7 +2,7 @@
 slug: anu-国际学生租房合同审核要点与押金纠纷处理
 title: "ANU International Student Rental Contract Checklist and Bond Dispute Resolution"
 description: "The Australian Capital Territory (ACT) has one of the highest rates of rental bond disputes in Australia. According to the ACT Justice and Community Safety Directorate's (JACS) 2023-24 annual report, the ACT Civil and Administrative Tribunal (ACAT) heard 1,427 rental bond disputes that year, with cases involving ANU international students accounting for around 18%. Meanwhile, ANU enrolled 10,432 international students in 2024, up 9.7% on 2023 (ANU official annual data), making rental contract disputes one of the main legal risks facing the university's international students. Drawing on the ACT Residential Tenancies Act 2022 and ACAT case law, this article walks through the key contract clauses to check and the bond recovery process."
-category: "ANU 国际学生租房合同"
+category: "general"
 pubDatetime: '2026-03-08T19:48:38Z'
 publishDate: '2026-03-08T19:48:38Z'
 readingTime: 18

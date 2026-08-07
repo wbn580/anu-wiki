@@ -2,7 +2,7 @@
 slug: anu-校园无线网络覆盖区域与-vpn-连接设置
 title: "ANU Campus Wi-Fi Coverage Areas and VPN Connection Setup"
 description: "The Australian National University (ANU) main Acton Campus runs a wireless network covering more than 95% of teaching and public areas, managed centrally by ANU IT Services. As of 2024, the campus has more than 1,200 wireless access points (APs) supporting two SSIDs — eduroam and ANU-Secure — with an average of more than 18,000 devices connecting each day [ANU IT …"
-category: "ANU 校园无线网络覆盖"
+category: "general"
 pubDatetime: '2026-03-17T19:50:40Z'
 publishDate: '2026-03-17T19:50:40Z'
 readingTime: 11

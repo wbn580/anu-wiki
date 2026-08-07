@@ -2,7 +2,7 @@
 slug: anu-校园文具店位置与教材订购折扣信息
 title: "ANU Campus Stationery Stores and Textbook Ordering Discounts"
 description: "The Australian National University (ANU) main Acton campus has 7 official stationery and textbook retail outlets, of which **ANU Co-op Bookshop** is the only university-authorised textbook retailer, covering more than 95% of prescribed course readings. According to 2023 statistics from the Australian Publishers Association, Australian university students spend an average of A$662 per semester on textbooks [Australian Publishers …"
-category: "ANU 校园文具店位置与"
+category: "general"
 pubDatetime: '2026-03-27T19:52:42Z'
 publishDate: '2026-03-27T19:52:42Z'
 readingTime: 12

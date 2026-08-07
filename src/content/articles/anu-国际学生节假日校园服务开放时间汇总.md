@@ -2,7 +2,7 @@
 slug: anu-国际学生节假日校园服务开放时间汇总
 title: "ANU Campus Service Hours During Holidays and Public Holidays"
 description: "The Australian National University (ANU) adjusts the opening hours of its core campus services during public holidays and semester breaks (such as Christmas, Easter and the winter break), which directly affects how international students plan their daily lives and errands. According to the International Student Data Summary published by the Australian Department of Education in 2023, ANU enrolled 10,421 international students in 2023, accounting for 40.4% of the total student body (Australian Department of Education, 2023, International Student Data Summary). Meanwhile, the ACT Government sets 11 public holidays a year, of which Christmas Day (25 December) and New Year's Day (1 January) are full statutory shutdown days, when campus services shrink dramatically or close entirely (ACT Government, 2024, Public Holidays in the ACT). This entry systematically compiles how ANU's main service facilities change their opening hours over the holidays for students' reference."
-category: "ANU 国际学生节假日校"
+category: "general"
 pubDatetime: '2026-03-19T19:51:11Z'
 publishDate: '2026-03-19T19:51:11Z'
 readingTime: 13

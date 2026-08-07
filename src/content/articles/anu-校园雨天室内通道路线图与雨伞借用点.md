@@ -2,7 +2,7 @@
 slug: anu-校园雨天室内通道路线图与雨伞借用点
 title: "ANU Campus Rainy-Day Indoor Walkway Routes and Umbrella Loan Points"
 description: "The main campus of the Australian National University (ANU) is located in the Acton district of Canberra, with hilly terrain, scattered buildings and rainfall spread evenly across the year. According to Bureau of Meteorology climate data for 1991–2020, Canberra averages 108 rain days a year, with October to January the peak season, when monthly rain days exceed 10 on average. For ANU students who have to move between teaching buildings every day…"
-category: "ANU 校园雨天室内通道"
+category: "general"
 pubDatetime: '2026-04-03T19:54:03Z'
 publishDate: '2026-04-03T19:54:03Z'
 readingTime: 9

@@ -2,7 +2,7 @@
 slug: anu-国际学生社交媒体群组加入方式与信息核实
 title: "How to Join ANU International Student Social Media Groups and Verify Information"
 description: "As of 2025, the Australian National University (ANU) has more than 10,400 international students enrolled, accounting for around 44% of the total student population (Australian Department of Education, 2025, International Student Data Report). As social media has become the main channel for obtaining information, the number of WeChat, WhatsApp and Discord groups run by ANU official bodies and by students themselves has grown by around 65% in the past three years (ANU Student Association, 2024, Annual Digital Community Survey). However, fake groups and scam messages have increased in parallel: in 2024 Canberra police received at least 12 reports of social media scams targeting international students, half of which involved fake new student groups (Australian Competition and Consumer Commission, 2024, Scamwatch Annual Report). This article systematically outlines the official ways to join ANU international student social media groups, methods for verifying information and safe usage guidelines, helping new and current students obtain reliable information efficiently."
-category: "ANU 国际学生社交媒体"
+category: "general"
 pubDatetime: '2026-03-25T19:52:21Z'
 publishDate: '2026-03-25T19:52:21Z'
 readingTime: 13

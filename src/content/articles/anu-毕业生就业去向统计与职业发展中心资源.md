@@ -2,7 +2,7 @@
 slug: anu-毕业生就业去向统计与职业发展中心资源
 title: "ANU Graduate Employment Outcomes and Career Development Centre Resources"
 description: "The 2022 Graduate Outcomes Survey (GOS) data for the Australian National University (ANU) shows a full-time employment rate of 84.3% for its bachelor graduates, above the Australian national average of 83.6% (QILT 2022). Meanwhile, the median salary of ANU graduates was 67,000 AUD, 3.1% higher than the national undergraduate median of 65,000 …"
-category: "ANU 毕业生就业去向统"
+category: "general"
 pubDatetime: '2026-02-27T19:46:51Z'
 publishDate: '2026-02-27T19:46:51Z'
 readingTime: 10
