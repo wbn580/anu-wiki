@@ -21,11 +21,15 @@ const resolvedCanonical = canonicalURL || new URL(Astro.url.pathname, BASE_URL).
 
 // Ensure og:image is always an absolute URL
 const resolvedOgImage = ogImage && (ogImage.startsWith('http') ? ogImage : BASE_URL + (ogImage.startsWith('/') ? '' : '/') + ogImage);
+
+// Cap the rendered <title> at 60 chars (SEO best practice)
+const rawTitle = (title.includes(SITE_NAME) || title === SITE_NAME) ? title : title + " — " + SITE_NAME;
+const fullTitle = rawTitle.length > 60 ? rawTitle.slice(0, 60).trimEnd() : rawTitle;
 ---
 
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{(title.includes(SITE_NAME) || title === SITE_NAME) ? title : title + " — " + SITE_NAME}</title>
+<title>{fullTitle}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={resolvedCanonical} />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
