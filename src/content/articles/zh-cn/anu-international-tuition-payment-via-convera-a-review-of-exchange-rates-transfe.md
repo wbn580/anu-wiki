@@ -89,7 +89,7 @@ Convera的汇率差价通常在0.5%至2.5%之间，具体取决于支付币种�
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/anu-international-tuition-payment-via-convera-a-review-of-exchange-rates-transfe" target="_blank"
+  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/zh-cn/anu-international-tuition-payment-via-convera-a-review-of-exchange-rates-transfe" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-flywire-edu"
      data-affiliate-card="flywire-edu" aria-label="Pay tuition with Flywire - Pay tuition"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Pay tuition with Flywire</span><span class="cc-aff-card__note">Send tuition through your school's official channel with tracked rates and status.</span></span><span class="cc-aff-card__cta">Pay tuition</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>

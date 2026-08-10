@@ -132,7 +132,6 @@ Yes. Students may resubmit during the **next semester's** application window, bu
 - ANU International Student Support 2023, Annual Report, Australian National University
 - Unilink Education 2024, ANU Course Exemption Application Database
 
-
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-研究生公共课免修申请条件与流程" target="_blank"

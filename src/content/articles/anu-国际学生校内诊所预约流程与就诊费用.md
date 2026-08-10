@@ -114,6 +114,7 @@ You can still be seen, but bulk billing won't apply. You'll pay the GP fee out o
 - Australian Department of Immigration. 2024. Student Visa Condition 8501: Overseas Student Health Cover Requirements.
 - Allianz Care Australia. 2024. OSHC Coverage and Claims Guide.
 - UNILINK Education. 2024. Australian University On-Campus Medical Services Database.
+
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-国际学生校内诊所预约流程与就诊费用" target="_blank"

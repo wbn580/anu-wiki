@@ -77,6 +77,7 @@ Some international student insurance (OSHC) policies cover card replacement cost
 - Australian Department of Education. 2023. International Student Annual Statistics.
 - Australian Department of Immigration. 2024. Student Visa Conditions.
 - Unilink Education. 2024. International Student Campus Services Database.
+
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-国际学生校园卡丢失补办流程与临时通行证" target="_blank"

@@ -69,8 +69,6 @@ No. ANU's AEP results are recognised only by ANU itself, not by other Australian
 - UNILINK Education, ANU English Pathway Data Compilation, 2024
 
 <!-- AFF-CARD:v1:START -->
-
-<!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-语言班直升班通过率与后续衔接课程安排" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"

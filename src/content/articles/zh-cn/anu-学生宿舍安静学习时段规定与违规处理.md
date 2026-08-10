@@ -115,7 +115,7 @@ ANU住宿服务在2024年《国际学生住宿指南》中，对国际学生群�
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/anu-学生宿舍安静学习时段规定与违规处理" target="_blank"
+  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/zh-cn/anu-学生宿舍安静学习时段规定与违规处理" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-flywire-edu"
      data-affiliate-card="flywire-edu" aria-label="Pay tuition with Flywire - Pay tuition"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Pay tuition with Flywire</span><span class="cc-aff-card__note">Send tuition through your school's official channel with tracked rates and status.</span></span><span class="cc-aff-card__cta">Pay tuition</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>

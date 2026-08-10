@@ -109,7 +109,7 @@ ANU 为鼓励国际学生持续参与文化交流活动，设立了多层次的�
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-国际学生文化交流活动日历与报名方式" target="_blank"
+  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/zh-cn/anu-国际学生文化交流活动日历与报名方式" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"
      data-affiliate-card="oshc-au" aria-label="Compare Australian OSHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OSHC plans</span><span class="cc-aff-card__note">The student-visa health cover required for subclass 500 — compare major insurers side by side.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>

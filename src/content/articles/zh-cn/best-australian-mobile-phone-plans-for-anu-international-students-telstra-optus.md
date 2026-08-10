@@ -103,7 +103,7 @@ Telstra在ANU校园内的室内覆盖率达99.5%以上，尤其在图书馆地�
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--airalo" href="https://go.compares.cheap/airalo?p=anu-wiki/best-australian-mobile-phone-plans-for-anu-international-students-telstra-optus" target="_blank"
+  <a class="cc-aff-card cc-aff-card--airalo" href="https://go.compares.cheap/airalo?p=anu-wiki/zh-cn/best-australian-mobile-phone-plans-for-anu-international-students-telstra-optus" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-airalo"
      data-affiliate-card="airalo" aria-label="Global eSIM data - See plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Global eSIM data</span><span class="cc-aff-card__note">Buy before you fly, scan the QR on landing — no queuing for a physical SIM.</span></span><span class="cc-aff-card__cta">See plans</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>

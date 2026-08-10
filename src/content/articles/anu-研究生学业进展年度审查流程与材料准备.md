@@ -121,7 +121,6 @@ No. ANU requires APR materials to be submitted through the system before 23:59 (
 - Tertiary Education Quality and Standards Agency (TEQSA), 2024, *Higher Education Standards Framework*
 - Unilink Education, 2024, *ANU Research Degree Progress Review Database*
 
-
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-研究生学业进展年度审查流程与材料准备" target="_blank"

@@ -101,8 +101,6 @@ Class I Honours graduates can normally apply directly for entry to a research do
 - Australian Department of Education, Skills and Employment, Graduate Outcomes Survey, 2023
 
 <!-- AFF-CARD:v1:START -->
-
-<!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
   <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-荣誉学位申请条件与论文撰写要求" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"

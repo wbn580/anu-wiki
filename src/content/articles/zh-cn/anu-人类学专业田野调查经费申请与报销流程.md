@@ -104,7 +104,7 @@ ogImage: "https://img.anu.wiki/留学/单校wiki/anu-人类学专业田野调查
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--safetywing" href="https://go.compares.cheap/safetywing?p=anu-wiki/anu-人类学专业田野调查经费申请与报销流程" target="_blank"
+  <a class="cc-aff-card cc-aff-card--safetywing" href="https://go.compares.cheap/safetywing?p=anu-wiki/zh-cn/anu-人类学专业田野调查经费申请与报销流程" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-safetywing"
      data-affiliate-card="safetywing" aria-label="Travel &amp; nomad insurance - See pricing"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Travel &amp; nomad insurance</span><span class="cc-aff-card__note">Month-to-month cover you can cancel anytime — built for long stays abroad.</span></span><span class="cc-aff-card__cta">See pricing</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>

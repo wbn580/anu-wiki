@@ -94,10 +94,10 @@ ANU拥有超过200个学生社团，其中约30个专门面向国际学生，如
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/anu-国际学生报到注册流程从-coe-到学生卡领取" target="_blank"
+  <a class="cc-aff-card cc-aff-card--oshc" href="https://go.compares.cheap/oshc-au?p=anu-wiki/zh-cn/anu-国际学生报到注册流程从-coe-到学生卡领取" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-oshc-au"
      data-affiliate-card="oshc-au" aria-label="Compare Australian OSHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OSHC plans</span><span class="cc-aff-card__note">The student-visa health cover required for subclass 500 — compare major insurers side by side.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
-  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/anu-国际学生报到注册流程从-coe-到学生卡领取" target="_blank"
+  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/zh-cn/anu-国际学生报到注册流程从-coe-到学生卡领取" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-flywire-edu"
      data-affiliate-card="flywire-edu" aria-label="Pay tuition with Flywire - Pay tuition"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Pay tuition with Flywire</span><span class="cc-aff-card__note">Send tuition through your school's official channel with tracked rates and status.</span></span><span class="cc-aff-card__cta">Pay tuition</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>

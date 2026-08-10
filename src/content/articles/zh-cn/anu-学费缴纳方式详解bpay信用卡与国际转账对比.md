@@ -117,7 +117,7 @@ ANU对信用卡支付收取**1.2%的手续费**（基于支付总额，含消费
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/anu-学费缴纳方式详解bpay信用卡与国际转账对比" target="_blank"
+  <a class="cc-aff-card cc-aff-card--flywire" href="https://go.compares.cheap/flywire-edu?p=anu-wiki/zh-cn/anu-学费缴纳方式详解bpay信用卡与国际转账对比" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-flywire-edu"
      data-affiliate-card="flywire-edu" aria-label="Pay tuition with Flywire - Pay tuition"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Pay tuition with Flywire</span><span class="cc-aff-card__note">Send tuition through your school's official channel with tracked rates and status.</span></span><span class="cc-aff-card__cta">Pay tuition</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>

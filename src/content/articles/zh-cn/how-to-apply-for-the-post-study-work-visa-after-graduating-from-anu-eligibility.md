@@ -98,7 +98,7 @@ ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-apply-for-the-post-study
 
 <!-- AFF-CARD:v1:START -->
 <div class="cc-aff-stack" data-affiliate-plain="true" data-pagefind-ignore>
-  <a class="cc-aff-card cc-aff-card--ovhc" href="https://go.compares.cheap/ovhc-au?p=anu-wiki/how-to-apply-for-the-post-study-work-visa-after-graduating-from-anu-eligibility" target="_blank"
+  <a class="cc-aff-card cc-aff-card--ovhc" href="https://go.compares.cheap/ovhc-au?p=anu-wiki/zh-cn/how-to-apply-for-the-post-study-work-visa-after-graduating-from-anu-eligibility" target="_blank"
      rel="sponsored nofollow noopener noreferrer" data-cta="aff-card-ovhc-au"
      data-affiliate-card="ovhc-au" aria-label="Compare Australian OVHC plans - Compare plans"><span class="cc-aff-card__mark" aria-hidden="true">GO</span><span class="cc-aff-card__body"><span class="cc-aff-card__eyebrow">Partner</span><span class="cc-aff-card__title">Compare Australian OVHC plans</span><span class="cc-aff-card__note">Health cover for working, visitor and dependant visas — compare before you buy.</span></span><span class="cc-aff-card__cta">Compare plans</span></a>
   <p class="cc-aff-stack__note">Partner links. Using them costs you nothing extra and may earn us a commission.</p>
