@@ -27,7 +27,7 @@ HDR学生（博士生或硕士研究型）可通过导师提交**持续访问申
 
 ## 资源请求流程
 
-**GPU资源请求**通过ANU Research Computing Portal（<https://rescomp.anu.edu.au>）提交，该门户整合了集群访问、配额管理和作业提交功能。整个流程分为四个阶段，从账户激活到作业运行通常需要3-5个工作日。
+**GPU资源请求**通过ANU Research Computing Portal（https://rescomp.anu.edu.au）提交，该门户整合了集群访问、配额管理和作业提交功能。整个流程分为四个阶段，从账户激活到作业运行通常需要3-5个工作日。
 
 ### 第一步：账户激活
 

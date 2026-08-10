@@ -140,7 +140,7 @@ singularity exec samtools_1.18.sif samtools view -bS sample.sam > sample.bam
 
 ### 官方文档
 
-NCI 提供详细的用户指南（`<https://nci.org.au/users/user-documentation`>），涵盖账户管理、作业提交、存储配额与软件安装。ANU RSC 的 Wiki 页面（`<https://rsc.anu.edu.au`>）包含 Terrawulf II 的快速入门教程与故障排除指南。
+NCI 提供详细的用户指南（`https://nci.org.au/users/user-documentation`），涵盖账户管理、作业提交、存储配额与软件安装。ANU RSC 的 Wiki 页面（`https://rsc.anu.edu.au`）包含 Terrawulf II 的快速入门教程与故障排除指南。
 
 ### 培训课程
 

@@ -27,7 +27,7 @@ QGIS作为开源GIS软件，无需许可费用，ANU所有学生均可自由下�
 
 ### QGIS插件与ANU数据源集成
 
-ANU图书馆维护着一个 **GeoNetwork** 实例，提供超过500个空间数据集（包括澳大利亚统计局的人口网格、CSIRO的土壤类型图等），这些数据集可直接通过QGIS的“OGC Web Services”插件连接。学生只需在QGIS中添加WMS/WFS URL（`<https://geoserver.anu.edu.au/geoserver/wms`>），即可实时加载校园级数据。2023年ANU地理信息中心的一项内部测试显示，QGIS 3.28版本在该数据源上的图层加载速度比ArcGIS Pro快约15%，主要得益于QGIS对开源协议栈的优化。
+ANU图书馆维护着一个 **GeoNetwork** 实例，提供超过500个空间数据集（包括澳大利亚统计局的人口网格、CSIRO的土壤类型图等），这些数据集可直接通过QGIS的“OGC Web Services”插件连接。学生只需在QGIS中添加WMS/WFS URL（`https://geoserver.anu.edu.au/geoserver/wms`），即可实时加载校园级数据。2023年ANU地理信息中心的一项内部测试显示，QGIS 3.28版本在该数据源上的图层加载速度比ArcGIS Pro快约15%，主要得益于QGIS对开源协议栈的优化。
 
 ## GIS训练课程注册与学分安排
 
