@@ -8,7 +8,7 @@ slug: 'anu-wiki-guide-2026-08-16-f12d97a8a6'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-单校wiki/anu-wiki-guide-2026-08-16-f12d97a8a6-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.anu.wiki/留学-单校wiki/anu-wiki-guide-2026-08-16-f12d97a8a6-image-01-2026-1880x1253.jpg'
 verified: '2026-08-16T00:00:00Z'
 tags:
   - 'rental bonds'
@@ -26,7 +26,7 @@ The good news is that both Australia and the UK have formal systems in place to 
 
 In Australia, each state and territory has its own tenancy authority that administers the bond scheme. When you pay a bond, the landlord or agent must lodge it with the relevant authority, which holds the money in trust for the duration of your tenancy. This means your bond is not held by the landlord personally, reducing the risk of it being misused or withheld without justification.
 
-![Tenant and landlord reviewing a property inspection checklist during move-in](https://img.ulec.com.cn/留学-单校wiki/anu-wiki-guide-2026-08-16-f12d97a8a6-image-01-2026-1880x1253.jpg)
+![Tenant and landlord reviewing a property inspection checklist during move-in](https://img.anu.wiki/留学-单校wiki/anu-wiki-guide-2026-08-16-f12d97a8a6-image-01-2026-1880x1253.jpg)
 
 
 At the end of the tenancy, the bond is only released with your consent or by order of the tribunal. If the landlord claims for damages or unpaid rent, they must provide evidence. You have the right to dispute any claim, and if you cannot reach an agreement, the matter can be heard by a tenancy tribunal. The tribunal will consider the evidence from both sides and make a determination.
@@ -55,7 +55,7 @@ In Australia, the condition report is a standard document that both you and the 
 
 When you move out, the property should be cleaned to the same standard as when you moved in, allowing for fair wear and tear. Landlords can deduct for cleaning if the property is left significantly dirtier. Here are practical tips to meet typical expectations:
 
-![Sparkling clean rental kitchen ready for final bond inspection](https://img.ulec.com.cn/留学-单校wiki/anu-wiki-guide-2026-08-16-f12d97a8a6-image-02-2026-1280x1280.jpg)
+![Sparkling clean rental kitchen ready for final bond inspection](https://img.anu.wiki/留学-单校wiki/anu-wiki-guide-2026-08-16-f12d97a8a6-image-02-2026-1280x1280.jpg)
 
 
 - Deep-clean the kitchen: wipe down counters, degrease stovetops and extractor fans, clean the oven inside and out, and empty and clean the fridge.
