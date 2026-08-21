@@ -1,5 +1,6 @@
 ---
-slug: anu-性别研究专业学术研讨会征稿与参会信息
+
+slug: "anu-xing-bie-yan-jiu-zhuan-ye-xue-shu-yan-tao-hui-zheng-gao-yu-can-hui-xin-xi"
 title: "ANU Gender Studies Academic Conferences: Call for Papers and Attendance Information"
 description: "The Gender Studies program at the Australian National University (ANU) holds multiple academic conferences every year covering cutting-edge topics such as gender politics, intersectionality theory and postcolonial feminism. According to the Annual Report on Research Activities published by the ANU College of Arts and Social Sciences in 2024, the program runs no fewer than 6 conferences with open calls for papers a year, 3 of them open to international scholars, receiving more than 120 abstracts annually. The Australian Research Council (ARC)…"
 category: "general"
@@ -9,6 +10,7 @@ readingTime: 11
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-性别研究专业学术研讨会征稿与参会信息-2026-1880x1253.jpg"
+
 ---
 
 The Gender Studies program at the Australian National University (ANU) holds multiple academic conferences every year covering cutting-edge topics such as gender politics, intersectionality theory and postcolonial feminism. According to the Annual Report on Research Activities published by the ANU College of Arts and Social Sciences in 2024, the program runs no fewer than 6 conferences with open calls for papers each year, 3 of them open to international scholars, receiving more than 120 abstracts a year on average. Australian Research Council (ARC) 2023 data shows that the ANU Gender Studies Centre ranks 2nd among the Group of Eight (Go8) universities for the number of funded projects, behind only the University of Melbourne. For students currently studying or considering applying to ANU Gender Studies, understanding the call-for-papers process and how to attend these conferences is a key route into the academic community and a way to build a publication record.

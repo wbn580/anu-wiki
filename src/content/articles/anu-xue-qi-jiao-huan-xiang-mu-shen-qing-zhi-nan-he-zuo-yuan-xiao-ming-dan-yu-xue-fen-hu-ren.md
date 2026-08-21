@@ -1,5 +1,6 @@
 ---
-slug: anu-学期交换项目申请指南合作院校名单与学分互认
+
+slug: "anu-xue-qi-jiao-huan-xiang-mu-shen-qing-zhi-nan-he-zuo-yuan-xiao-ming-dan-yu-xue-fen-hu-ren"
 title: "ANU Semester Exchange Program Application Guide: Partner University List and Credit Transfer"
 description: "Around 450 students from the Australian National University (ANU) study at overseas partner universities through the semester exchange program each academic year, while the university receives the same number of incoming international exchange students. According to the Australian Government Department of Education's 2023 *International Student Mobility Report*, ANU is one of the Group of Eight (Go8) members with the largest number of participants in **student exchange programs**, with a partner network spanning more than 120…"
 category: "general"
@@ -9,6 +10,7 @@ readingTime: 14
 tags: ["featured"]
 
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-学期交换项目申请指南合作院校名单与学分互认-2026-1880x1253.jpg"
+
 ---
 
 Around 450 students from the Australian National University (ANU) study at overseas partner universities through the semester exchange program each academic year, while the university receives the same number of incoming international exchange students. According to the Australian Government Department of Education's 2023 *International Student Mobility Report*, ANU is one of the Group of Eight (Go8) members with the largest number of participants in **student exchange programs**, and its partner network covers more than 120 universities in 38 countries and regions around the world. Based on official 2025 data from ANU's Global Programs office, this article systematically sets out the partner university list, the **credit transfer** mechanism and the application process, providing a practical reference for students planning to go on exchange in the 2025-2026 academic year.
