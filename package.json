@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node scripts/postbuild-d1-runtime.mjs",
     "postbuild": "test ! -f ../../cowork-cloud-tools/scripts/owner_fingerprint_gate.py || python3 ../../cowork-cloud-tools/scripts/owner_fingerprint_gate.py --site anu-wiki --dist dist",
     "preview": "astro preview",
     "astro": "astro"
