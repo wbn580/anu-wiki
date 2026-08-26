@@ -7,8 +7,6 @@ pubDatetime: '2026-04-11T19:55:33Z'
 publishDate: '2026-04-11T19:55:33Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-computer-science-course-difficulty-tiers-a-practical-guide-to-sequencing-you-2026-1880x1253.jpg"
 ---
 

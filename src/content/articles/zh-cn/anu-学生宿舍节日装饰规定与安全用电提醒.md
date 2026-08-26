@@ -7,8 +7,6 @@ pubDatetime: '2026-03-27T19:52:45Z'
 publishDate: '2026-03-27T19:52:45Z'
 readingTime: 12
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-学生宿舍节日装饰规定与安全用电提醒-2026-1880x1253.jpg"
 ---
 

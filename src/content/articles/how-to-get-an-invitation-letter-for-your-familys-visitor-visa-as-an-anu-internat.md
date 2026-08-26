@@ -7,8 +7,6 @@ pubDatetime: '2026-04-16T19:56:37Z'
 publishDate: '2026-04-16T19:56:37Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-get-an-invitation-letter-for-your-familys-visitor-visa-as-an-anu-internat-2026-1880x1253.jpg"
 lang: en
 language: en

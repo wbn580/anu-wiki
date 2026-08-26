@@ -7,10 +7,8 @@ pubDatetime: '2026-04-08T19:55:06Z'
 publishDate: '2026-04-08T19:55:06Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
 lang: en
 language: en
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/what-to-do-if-you-fail-a-course-at-anu-supplementary-assessment-appeals-and-acad-2026-1880x1253.jpg"
 ---
 

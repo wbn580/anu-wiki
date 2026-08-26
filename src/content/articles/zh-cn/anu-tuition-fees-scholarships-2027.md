@@ -6,7 +6,6 @@ publishDate: '2026-07-11T18:19:31Z'
 modDatetime: "2026-08-01T12:57:09Z"
 slug: zh-cn/anu-tuition-fees-scholarships-2027
 draft: false
-hideFromHome: true
 geo_shadow: true
 category: admissions
 lang: zh-CN

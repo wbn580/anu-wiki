@@ -7,8 +7,6 @@ pubDatetime: '2026-04-11T19:55:41Z'
 publishDate: '2026-04-11T19:55:41Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-college-of-business-and-economics-mba-admission-preferences-work-experience-2026-1635x1300.jpg"
 ---
 

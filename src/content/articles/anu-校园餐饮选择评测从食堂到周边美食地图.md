@@ -9,8 +9,6 @@ readingTime: 14
 tags: ["featured"]
 lang: en
 language: en
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园餐饮选择评测从食堂到周边美食地图-2026-1880x1253.jpg"
 ---
 

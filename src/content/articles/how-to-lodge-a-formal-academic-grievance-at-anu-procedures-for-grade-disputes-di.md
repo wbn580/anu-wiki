@@ -7,8 +7,6 @@ pubDatetime: '2026-05-01T19:59:29Z'
 publishDate: '2026-05-01T19:59:29Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-lodge-a-formal-academic-grievance-at-anu-procedures-for-grade-disputes-di-2026-1880x1253.jpg"
 lang: en
 language: en

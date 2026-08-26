@@ -7,8 +7,6 @@ pubDatetime: '2026-03-30T19:53:17Z'
 publishDate: '2026-03-30T19:53:17Z'
 readingTime: 11
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-学生宿舍共享单车停放点与使用优惠-2026-1880x1253.jpg"
 ---
 

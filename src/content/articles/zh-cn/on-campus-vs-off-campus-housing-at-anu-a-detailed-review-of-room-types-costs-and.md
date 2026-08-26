@@ -7,8 +7,6 @@ pubDatetime: '2026-04-09T19:55:09Z'
 publishDate: '2026-04-09T19:55:09Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/on-campus-vs-off-campus-housing-at-anu-a-detailed-review-of-room-types-costs-and-2026-1733x1300.jpg"
 ---
 

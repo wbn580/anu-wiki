@@ -8,8 +8,6 @@ author: cowork
 tags: ["ANU international relations vs strategic studies", "ANU MIR program", "ANU MSSD career paths", "ANU strategic studies core courses", "ANU international relations research project"]
 slug: anu-mir-vs-mssd-choosing-right-program
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-master-of-international-relations-vs-master-of-strategic-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 The **Australian National University (ANU)** consistently ranks among the world's top institutions for politics and international studies, with the **QS World University Rankings by Subject 2026** placing ANU 8th globally in this field. Each year, over 300 graduate students enroll in the Coral Bell School of Asia Pacific Affairs, making the choice between the **Master of International Relations (MIR)** and the **Master of Strategic Studies (MSSD)** a critical decision point. According to the **2025 Graduate Outcomes Survey**, 87% of ANU international relations and strategic studies postgraduates secured full-time employment within six months, with median starting salaries exceeding AUD 85,000. This comparison examines both programs in depth to help you determine which pathway delivers the intellectual rigor and professional trajectory you seek.

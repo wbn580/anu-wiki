@@ -7,8 +7,6 @@ pubDatetime: '2026-04-10T19:55:25Z'
 publishDate: '2026-04-10T19:55:25Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-course-selection-guide-how-to-avoid-common-pitfalls-and-build-a-balanced-tim-2026-1880x1253.jpg"
 ---
 

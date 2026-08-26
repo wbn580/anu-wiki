@@ -7,8 +7,6 @@ pubDatetime: '2026-04-14T19:56:16Z'
 publishDate: '2026-04-14T19:56:16Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-mental-health-and-wellbeing-support-how-to-book-counselling-sessions-and-acc-2026-1880x1253.jpg"
 ---
 

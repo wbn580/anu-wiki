@@ -7,8 +7,6 @@ pubDatetime: '2026-05-20T20:03:06Z'
 publishDate: '2026-05-20T20:03:06Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-data-science-kaggle-competition-teams-how-to-find-teammates-join-the-anu-dat-2026-1880x1299.jpg"
 ---
 

@@ -7,8 +7,6 @@ pubDatetime: '2026-05-06T20:00:31Z'
 publishDate: '2026-05-06T20:00:31Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-school-of-earth-sciences-rock-lab-how-to-get-access-prepare-samples-2026-1880x1253.jpg"
 ---
 

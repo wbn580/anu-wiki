@@ -7,8 +7,6 @@ pubDatetime: '2026-03-02T19:47:30Z'
 publishDate: '2026-03-02T19:47:30Z'
 readingTime: 13
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-本科双学位项目组合推荐与学分规划-2026-1880x1253.jpg"
 ---
 

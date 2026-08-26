@@ -9,8 +9,6 @@ readingTime: 14
 tags: ["featured"]
 lang: en
 language: en
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-法律专业模拟法庭竞赛观赛与参赛指南-2026-1880x1253.jpg"
 ---
 

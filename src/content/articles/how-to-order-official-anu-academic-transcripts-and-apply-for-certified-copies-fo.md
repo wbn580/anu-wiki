@@ -7,8 +7,6 @@ pubDatetime: '2026-05-10T20:01:19Z'
 publishDate: '2026-05-10T20:01:19Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-order-official-anu-academic-transcripts-and-apply-for-certified-copies-fo-2026-1880x1253.jpg"
 lang: en
 language: en

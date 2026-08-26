@@ -8,8 +8,6 @@ author: cowork
 tags: ["ANU GPA calculation", "ANU grading scale", "ANU academic transcript", "Australian university grades", "GPA conversion"]
 slug: anu-gpa-calculation-weighted-unweighted-rules
 ogImage: "https://img.anu.wiki/留学/单校wiki/understanding-anu-grade-point-average-calculation-weighted-v-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 For any student navigating the academic landscape of the Australian National University, understanding the **ANU GPA calculation** is non-negotiable. It is the numerical distillation of your entire degree performance, a figure scrutinized by honors committees, scholarship boards, and future employers. According to institutional data released in early 2026, ANU utilizes a specific 7-point scale, but the complexity lies not just in the letter grades, but in the **weighted average** methodology applied to your **ANU academic transcript**. Over 90% of graduate programs at ANU require a minimum GPA threshold, yet many students misinterpret how **ANU course weighting** impacts their final standing.

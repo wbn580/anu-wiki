@@ -7,8 +7,6 @@ pubDatetime: '2026-03-13T19:49:41Z'
 publishDate: '2026-03-13T19:49:41Z'
 readingTime: 14
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生手机卡套餐对比telstra-vs-optus-vs-vodafone-2026-1880x1253.jpg"
 ---
 

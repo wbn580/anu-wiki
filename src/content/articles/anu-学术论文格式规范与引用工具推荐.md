@@ -7,8 +7,6 @@ pubDatetime: '2026-03-03T19:47:38Z'
 publishDate: '2026-03-03T19:47:38Z'
 readingTime: 13
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-学术论文格式规范与引用工具推荐-2026-1880x1253.jpg"
 ---
 

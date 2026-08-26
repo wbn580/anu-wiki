@@ -7,8 +7,6 @@ pubDatetime: '2026-02-25T19:46:20Z'
 publishDate: '2026-02-25T19:46:20Z'
 readingTime: 14
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园兼职工作类型与合法打工时长规定-2026-1880x1253.jpg"
 ---
 

@@ -7,8 +7,6 @@ pubDatetime: '2026-03-14T19:49:59Z'
 publishDate: '2026-03-14T19:49:59Z'
 readingTime: 12
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-社会实践活动参与证明开具与综测加分-2026-1880x1253.jpg"
 lang: en
 language: en

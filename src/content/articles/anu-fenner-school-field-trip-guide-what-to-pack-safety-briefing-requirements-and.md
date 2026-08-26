@@ -7,8 +7,6 @@ pubDatetime: '2026-04-20T19:57:23Z'
 publishDate: '2026-04-20T19:57:23Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-fenner-school-field-trip-guide-what-to-pack-safety-briefing-requirements-and-2026-1880x1253.jpg"
 ---
 

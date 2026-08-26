@@ -7,8 +7,6 @@ pubDatetime: '2026-03-08T19:48:43Z'
 publishDate: '2026-03-08T19:48:43Z'
 readingTime: 10
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-艺术与设计专业作品集提交要求与评审标准-2026-1880x1253.jpg"
 lang: en
 language: en

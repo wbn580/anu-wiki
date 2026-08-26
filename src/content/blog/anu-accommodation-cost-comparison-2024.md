@@ -20,7 +20,6 @@ tags:
   - 'Canberra rental'
   - 'international student housing'
   - 'accommodation for studying in Australia'
-hideFromHome: true
 ---
 ## On-Campus Halls vs Renting Around Campus: How Big Is the Gap in 2024?
 

@@ -8,8 +8,6 @@ author: cowork
 tags: []
 slug: anu-engineering-flexible-first-year-vs-direct-specialisation-entry-major-change
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-engineering-flexible-first-year-vs-direct-sp-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 Starting an engineering degree is a significant commitment, and the Australian National University (ANU) recognises that students do not always arrive with complete certainty about which specialisation suits them best. The ANU Bachelor of Engineering (Honours) programme offers two distinct entry pathways: the **Flexible First Year** and **Direct Specialisation Entry**. Each path carries different implications for how late you can change majors, which courses carry forward, and how smoothly a transition between streams works.

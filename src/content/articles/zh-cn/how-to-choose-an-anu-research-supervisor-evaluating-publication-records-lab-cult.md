@@ -7,8 +7,6 @@ pubDatetime: '2026-04-19T19:57:17Z'
 publishDate: '2026-04-19T19:57:17Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-choose-an-anu-research-supervisor-evaluating-publication-records-lab-cult-2026-1880x1253.jpg"
 ---
 

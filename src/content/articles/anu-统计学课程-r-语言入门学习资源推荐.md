@@ -7,8 +7,6 @@ pubDatetime: '2026-03-04T19:47:44Z'
 publishDate: '2026-03-04T19:47:44Z'
 readingTime: 12
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-统计学课程-r-语言入门学习资源推荐-2026-1880x1253.jpg"
 lang: en
 language: en

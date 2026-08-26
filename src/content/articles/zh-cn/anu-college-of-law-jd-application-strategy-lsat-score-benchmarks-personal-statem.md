@@ -7,8 +7,6 @@ pubDatetime: '2026-04-14T19:56:21Z'
 publishDate: '2026-04-14T19:56:21Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-college-of-law-jd-application-strategy-lsat-score-benchmarks-personal-statem-2026-1880x1253.jpg"
 ---
 

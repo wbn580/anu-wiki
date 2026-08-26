@@ -7,8 +7,6 @@ pubDatetime: '2026-03-12T19:49:38Z'
 publishDate: '2026-03-12T19:49:38Z'
 readingTime: 16
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-学生宿舍包裹代收与信件管理规则-2026-1880x1253.jpg"
 ---
 

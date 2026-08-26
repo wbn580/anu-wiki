@@ -7,8 +7,6 @@ pubDatetime: '2026-02-22T19:45:44Z'
 publishDate: '2026-02-22T19:45:44Z'
 readingTime: 14
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-国际学生奖学金申请全攻略从条件到面试技巧-2026-1880x1253.jpg"
 ---
 

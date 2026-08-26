@@ -7,8 +7,6 @@ pubDatetime: '2026-04-10T19:55:32Z'
 publishDate: '2026-04-10T19:55:32Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-research-masters-vs-coursework-masters-key-differences-in-structure-funding-2026-1880x1253.jpg"
 ---
 

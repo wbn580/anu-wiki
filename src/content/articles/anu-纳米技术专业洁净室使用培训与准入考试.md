@@ -7,8 +7,6 @@ pubDatetime: '2026-04-06T19:54:37Z'
 publishDate: '2026-04-06T19:54:37Z'
 readingTime: 12
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-纳米技术专业洁净室使用培训与准入考试-2026-1880x1253.jpg"
 lang: en
 language: en

@@ -7,8 +7,6 @@ pubDatetime: '2026-04-06T19:54:39Z'
 publishDate: '2026-04-06T19:54:39Z'
 readingTime: 13
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园户外学习空间推荐与-wi-fi-覆盖情况-2026-1880x1253.jpg"
 ---
 

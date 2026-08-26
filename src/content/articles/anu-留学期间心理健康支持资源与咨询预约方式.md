@@ -9,8 +9,6 @@ readingTime: 14
 tags: ["featured"]
 lang: en
 language: en
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-留学期间心理健康支持资源与咨询预约方式-2026-1880x1253.jpg"
 ---
 

@@ -7,8 +7,6 @@ pubDatetime: '2026-03-22T19:51:45Z'
 publishDate: '2026-03-22T19:51:45Z'
 readingTime: 14
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-哲学专业逻辑学课程学习困难与辅导资源-2026-1880x1253.jpg"
 ---
 

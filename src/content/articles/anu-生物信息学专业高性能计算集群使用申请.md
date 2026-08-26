@@ -7,10 +7,8 @@ pubDatetime: '2026-03-25T19:52:22Z'
 publishDate: '2026-03-25T19:52:22Z'
 readingTime: 11
 tags: ["featured"]
-hideFromHome: true
 lang: en
 language: en
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-生物信息学专业高性能计算集群使用申请-2026-1880x1253.jpg"
 ---
 

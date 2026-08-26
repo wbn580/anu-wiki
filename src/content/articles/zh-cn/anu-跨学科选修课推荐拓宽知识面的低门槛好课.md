@@ -7,8 +7,6 @@ pubDatetime: '2026-02-26T19:46:36Z'
 publishDate: '2026-02-26T19:46:36Z'
 readingTime: 9
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-跨学科选修课推荐拓宽知识面的低门槛好课-2026-1880x1253.jpg"
 ---
 

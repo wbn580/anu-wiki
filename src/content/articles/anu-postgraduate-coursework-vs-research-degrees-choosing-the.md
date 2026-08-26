@@ -8,8 +8,6 @@ author: cowork
 tags: ["ANU postgraduate degrees", "coursework vs research masters", "ANU admission requirements", "Australian higher education", "career outcomes"]
 slug: anu-postgraduate-coursework-vs-research-degrees
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-postgraduate-coursework-vs-research-degrees-choosing-the-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 ## Understanding ANU Postgraduate Degree Types in 2026

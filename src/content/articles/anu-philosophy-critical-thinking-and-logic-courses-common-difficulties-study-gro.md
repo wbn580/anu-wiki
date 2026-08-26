@@ -7,8 +7,6 @@ pubDatetime: '2026-05-03T19:59:56Z'
 publishDate: '2026-05-03T19:59:56Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-philosophy-critical-thinking-and-logic-courses-common-difficulties-study-gro-2026-1880x1253.jpg"
 ---
 

@@ -7,8 +7,6 @@ pubDatetime: '2026-03-23T19:51:53Z'
 publishDate: '2026-03-23T19:51:53Z'
 readingTime: 11
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-精算专业职业资格认证考试免考政策解读-2026-1880x1253.jpg"
 lang: en
 language: en

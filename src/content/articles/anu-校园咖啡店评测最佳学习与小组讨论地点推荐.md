@@ -7,8 +7,6 @@ pubDatetime: '2026-03-13T19:49:45Z'
 publishDate: '2026-03-13T19:49:45Z'
 readingTime: 10
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-校园咖啡店评测最佳学习与小组讨论地点推荐-2026-1880x1253.jpg"
 ---
 

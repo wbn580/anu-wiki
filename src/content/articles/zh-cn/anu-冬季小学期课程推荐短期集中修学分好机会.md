@@ -7,8 +7,6 @@ pubDatetime: '2026-03-07T19:48:27Z'
 publishDate: '2026-03-07T19:48:27Z'
 readingTime: 21
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-冬季小学期课程推荐短期集中修学分好机会-2026-1880x1253.jpg"
 ---
 

@@ -7,8 +7,6 @@ pubDatetime: '2026-04-09T19:55:07Z'
 publishDate: '2026-04-09T19:55:07Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-apply-for-anu-international-scholarships-eligibility-deadlines-and-person-2026-1880x1253.jpg"
 ---
 

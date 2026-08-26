@@ -7,8 +7,6 @@ pubDatetime: '2026-04-26T19:58:30Z'
 publishDate: '2026-04-26T19:58:30Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-get-bloomberg-terminal-certified-at-the-anu-college-of-business-booking-a-2026-1635x1300.jpg"
 lang: en
 language: en

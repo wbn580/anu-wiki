@@ -7,8 +7,6 @@ pubDatetime: '2026-03-26T19:52:26Z'
 publishDate: '2026-03-26T19:52:26Z'
 readingTime: 14
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-法律专业模拟法庭竞赛观赛与参赛指南-2026-1880x1253.jpg"
 ---
 

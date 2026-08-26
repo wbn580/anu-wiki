@@ -7,10 +7,8 @@ pubDatetime: '2026-02-23T19:45:58Z'
 publishDate: '2026-02-23T19:45:58Z'
 readingTime: 11
 tags: ["featured"]
-hideFromHome: true
 lang: en
 language: en
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-选课避坑指南结合经验评分的课程搭配与教授推荐-2026-1880x1253.jpg"
 ---
 

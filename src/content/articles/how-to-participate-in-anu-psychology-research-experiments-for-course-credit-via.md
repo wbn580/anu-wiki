@@ -7,8 +7,6 @@ pubDatetime: '2026-04-24T19:58:07Z'
 publishDate: '2026-04-24T19:58:07Z'
 readingTime: 3
 tags: ["featured"]
-
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/how-to-participate-in-anu-psychology-research-experiments-for-course-credit-via-2026-1880x1253.jpg"
 lang: en
 language: en

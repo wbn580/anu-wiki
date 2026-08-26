@@ -7,8 +7,6 @@ pubDatetime: '2026-04-23T19:58:07Z'
 publishDate: '2026-04-23T19:58:07Z'
 readingTime: 3
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/getting-around-anu-campus-a-comparison-of-cycling-routes-bus-stops-and-walking-p-2026-1880x1253.jpg"
 ---
 

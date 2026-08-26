@@ -7,8 +7,6 @@ pubDatetime: '2026-03-17T19:50:37Z'
 publishDate: '2026-03-17T19:50:37Z'
 readingTime: 18
 tags: ["featured"]
-hideFromHome: true
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-学生宿舍公共厨房使用规则与储物柜分配-2026-1880x1253.jpg"
 ---
 

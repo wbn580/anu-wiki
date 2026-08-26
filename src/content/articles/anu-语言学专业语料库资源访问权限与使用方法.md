@@ -9,7 +9,6 @@ pubDatetime: '2026-03-15T19:50:11Z'
 publishDate: '2026-03-15T19:50:11Z'
 readingTime: 15
 tags: ["featured"]
-hideFromHome: true
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-语言学专业语料库资源访问权限与使用方法-2026-1880x1253.jpg"
 ---
 

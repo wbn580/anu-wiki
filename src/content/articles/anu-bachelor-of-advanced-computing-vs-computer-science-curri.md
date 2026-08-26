@@ -6,10 +6,7 @@ category: 'general'
 description: A detailed comparison of ANU's Bachelor of Advanced Computing and Bachelor of Computer Science degrees, covering curriculum structures, specialisation options, industry accreditation, and career outcomes to help prospective students make an informed choice.
 author: cowork
 tags: ["anu advanced computing vs computer science", "anu computing degrees comparison", "anu computer science curriculum", "anu advanced computing careers", "australian computing education"]
-
 ogImage: "https://img.anu.wiki/留学/单校wiki/anu-bachelor-of-advanced-computing-vs-computer-science-curri-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 The Australian National University has long been recognised as a powerhouse in computing education, consistently placing among the world’s top 40 institutions for computer science according to QS World University Rankings 2026. In 2025, ANU reported that over 92% of its computing graduates secured full-time employment within four months of graduation, a figure that underscores the strong industry demand for skilled computing professionals. Prospective students often face a critical decision: choosing between the **Bachelor of Advanced Computing (BAC)** and the **Bachelor of Computer Science (BCS)**. While both degrees share foundational coursework, they diverge significantly in structure, specialisation depth, and career trajectories. This comparison breaks down the essential differences to help you determine which programme aligns with your academic interests and professional goals.
