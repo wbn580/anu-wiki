@@ -1,5 +1,6 @@
 ---
 pubDatetime: '2026-05-23T12:00:00Z'
+modDatetime: '2026-08-26T08:26:42Z'
 publishDate: '2026-05-23T12:00:00Z'
 title: ANU Student Visa Document Checklist for International Applicants 2026
 category: 'general'
@@ -41,7 +42,7 @@ All international students must undergo a **health examination** with a panel ph
 If you include a spouse or children in your **Subclass 500 ANU requirements**, additional documentation applies. Your **marriage certificate** must be translated into English if originally in another language. For de facto relationships, provide evidence of cohabitation for at least 12 months, such as joint lease agreements, shared bank accounts, or utility bills. Children require **birth certificates** and, if applicable, custody orders or parental consent letters from the non-accompanying parent. Dependents aged 18 and over must also provide police clearances and may need to undergo health examinations. School-age children accompanying you to Canberra must enroll in school—ANU's Family Support Coordinator can assist with local school placements in the ACT, where public schools charge international student fees of approximately AUD 11,000 per year for dependents in 2026.
 
 ## Lodgment Process and Common Pitfalls
-Lodge your visa through the **ImmiAccount** portal on the Department of Home Affairs website. The base visa application charge for Subclass 500 is AUD 710 for the main applicant in 2026, with additional charges for dependents and subsequent temporary application fees. **Biometrics collection** is mandatory for applicants from designated countries; you will receive instructions after lodgment. The most frequent errors on the **Australian visa checklist ANU** include submitting bank statements with insufficient funds, failing to translate non-English documents, and providing outdated CoE details. Double-check that your CoE lists the correct program start date—if ANU defers your offer, request an updated CoE immediately. Processing times for high-quality applications typically range from 14 to 42 days, but during peak periods from November to February, delays can extend beyond 60 days.
+Lodge your visa through the **ImmiAccount** portal on the Department of Home Affairs website. The base visa application charge for Subclass 500 is AUD 2,500 for the main applicant in 2026, with additional charges for dependents and subsequent temporary application fees. **Biometrics collection** is mandatory for applicants from designated countries; you will receive instructions after lodgment. The most frequent errors on the **Australian visa checklist ANU** include submitting bank statements with insufficient funds, failing to translate non-English documents, and providing outdated CoE details. Double-check that your CoE lists the correct program start date—if ANU defers your offer, request an updated CoE immediately. Processing times for high-quality applications typically range from 14 to 42 days, but during peak periods from November to February, delays can extend beyond 60 days.
 
 ## FAQ
 

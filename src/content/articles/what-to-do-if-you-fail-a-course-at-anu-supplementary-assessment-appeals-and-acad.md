@@ -4,6 +4,7 @@ title: "What to Do If You Fail a Course at ANU: Supplementary Assessment, Appeal
 description: "Among ANU's undergraduate cohort in 2023, approximately 12.5% of course enrolments ended with a fail grade, according to the 2023 Student Progress Report published by the ANU Planning and Performance Measurement Office. For international students, failing a course can trigger the notification obligation for unsatisfactory academic progress under the student visa provisions of the ESOS Act 2000, which in turn can affect visa status. Understanding ANU's supplementary assessment, academic appeals, and the long-term impact of a fail on your academic record is essential knowledge for dealing with academic setbacks."
 category: "What"
 pubDatetime: '2026-04-08T19:55:06Z'
+modDatetime: '2026-08-26T08:26:42Z'
 publishDate: '2026-04-08T19:55:06Z'
 readingTime: 3
 tags: ["featured"]
@@ -76,7 +77,7 @@ ANU allows students to retake a failed course in the next semester or the next a
 
 ### Financial Cost and Time Impact
 
-Tuition for each standard 6-unit course varies by program. In 2024, international students paid about AUD 5,400 per business course (based on an annual tuition of AUD 48,000 divided by 8 courses). A retake means paying this fee again, and it can delay your graduation. If a fail prevents you from completing your degree on time, you will need to apply for an extension of your student visa, which involves an additional visa application fee (AUD 710 in 2024) and renewed health insurance costs.
+Tuition for each standard 6-unit course varies by program. In 2024, international students paid about AUD 5,400 per business course (based on an annual tuition of AUD 48,000 divided by 8 courses). A retake means paying this fee again, and it can delay your graduation. If a fail prevents you from completing your degree on time, you will need to apply for an extension of your student visa, which involves an additional visa application fee (AUD 2,500 as of 1 July 2026) and renewed health insurance costs.
 
 ## Alternatives Beyond Supplementary Assessment and Retakes
 
