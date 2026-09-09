@@ -23,7 +23,7 @@ At ANU, each course has a unique code that indicates its level and subject area.
 
 Degree Planner is an online tool that helps you plan your degree progress. It allows you to see which courses are required for your degree, track your completed courses, and check that you are on track to meet all requirements. You can use it to map out your semester-by-semester plan and ensure you don't miss any compulsory courses.
 
-![An ANU student reviewing their course plan on a laptop](https://img.ulec.com.cn/留学-单校wiki/anu-degree-planner-wattle-myhub-2026-09-06-2f1690e0a7-image-02-2026-1679x1300.jpg)
+![An ANU student reviewing their course plan on a laptop](https://img.anu.wiki/留学-单校wiki/anu-degree-planner-wattle-myhub-2026-09-06-2f1690e0a7-image-02-2026-1679x1300.jpg)
 
 
 ## Timing Strategies to Avoid Full Classes
@@ -34,7 +34,7 @@ Popular courses can fill up quickly. To secure a place, enrol as early as possib
 
 Wattle is ANU's learning management system, where you access course materials and submit assignments. MyHub is the student portal for enrolment and administrative tasks. Familiarise yourself with both systems: check Wattle for announcements and weekly content, and use MyHub to manage your enrolment and view your timetable.
 
-![A study area on the ANU campus](https://img.ulec.com.cn/留学-单校wiki/anu-degree-planner-wattle-myhub-2026-09-06-2f1690e0a7-image-03-2026-1733x1300.jpg)
+![A study area on the ANU campus](https://img.anu.wiki/留学-单校wiki/anu-degree-planner-wattle-myhub-2026-09-06-2f1690e0a7-image-03-2026-1733x1300.jpg)
 
 
 ## Common Course Selection Mistakes to Avoid

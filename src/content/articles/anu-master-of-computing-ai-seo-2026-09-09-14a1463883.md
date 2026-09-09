@@ -23,7 +23,7 @@ The Master of Computing at the Australian National University offers two special
 
 The Artificial Intelligence specialisation requires core courses that focus on machine learning, natural language processing, and computer vision. The Software Engineering specialisation requires core courses in software architecture, testing, and project management.
 
-![Students studying computer science at ANU campus](https://img.ulec.com.cn/留学-单校wiki/anu-master-of-computing-ai-seo-2026-09-09-14a1463883-image-02-2026-1880x1253.jpg)
+![Students studying computer science at ANU campus](https://img.anu.wiki/留学-单校wiki/anu-master-of-computing-ai-seo-2026-09-09-14a1463883-image-02-2026-1880x1253.jpg)
 
 
 ## Elective Flexibility
@@ -42,7 +42,7 @@ Graduates from the AI specialisation often pursue roles as machine learning engi
 
 Applicants to the Master of Computing must have a bachelor's degree with a GPA of at least 5.0 out of 7.0. Previous coursework in programming and mathematics is recommended but not required.
 
-![Abstract representation of AI and software engineering](https://img.ulec.com.cn/留学-单校wiki/anu-master-of-computing-ai-seo-2026-09-09-14a1463883-image-03-2026-1733x1300.jpg)
+![Abstract representation of AI and software engineering](https://img.anu.wiki/留学-单校wiki/anu-master-of-computing-ai-seo-2026-09-09-14a1463883-image-03-2026-1733x1300.jpg)
 
 
 ## Choosing Between the Two

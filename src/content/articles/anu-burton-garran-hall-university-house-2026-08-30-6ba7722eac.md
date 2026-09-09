@@ -50,7 +50,7 @@ Off-campus rentals include private apartments, houses, or shared accommodations 
 
 For on-campus options, applications typically open several months before the academic year. A deposit is required to confirm a place, and contracts are signed electronically. For off-campus rentals, start searching at least 2-3 months before moving, as good properties are snapped up quickly. Always inspect the property before signing, and be aware of common rental traps such as hidden fees, unclear lease terms, and unverified landlords.
 
-![Off-campus rental apartment near ANU](https://img.ulec.com.cn/留学-单校wiki/anu-burton-garran-hall-university-house-2026-08-30-6ba7722eac-image-03-2026-1880x1255.jpg)
+![Off-campus rental apartment near ANU](https://img.anu.wiki/留学-单校wiki/anu-burton-garran-hall-university-house-2026-08-30-6ba7722eac-image-03-2026-1880x1255.jpg)
 
 
 ## Making Your Choice
