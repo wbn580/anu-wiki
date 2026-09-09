@@ -8,7 +8,7 @@ slug: 'anu-degree-planner-wattle-myhub-2026-09-06-2f1690e0a7'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/留学-单校wiki/anu-degree-planner-wattle-myhub-2026-09-06-2f1690e0a7-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.anu.wiki/留学-单校wiki/anu-degree-planner-wattle-myhub-2026-09-06-2f1690e0a7-image-01-2026-1880x1253.jpg"
 verified: '2026-09-06T00:00:00Z'
 tags:
   - 'course selection'
